@@ -1,9 +1,16 @@
-{
-  "version": 1,
-  "shard": "l",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'l''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-l@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "lemongrass-braised-crisp-dish",
+    "title": "Lemongrass Braised Crisp Dish",
+    "tags": [
+      "lemongrass",
+      "brazilian",
+      "peppery",
+      "crisp",
+      "dinner"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
+    "shard": "l"
+  }
+]

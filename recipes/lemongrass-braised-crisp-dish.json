@@ -1,0 +1,84 @@
+{
+  "title": "Lemongrass Braised Crisp Dish",
+  "description": "A light and peppery Brazilian dish featuring lemongrass stalks, braise to perfection with a dash-friendly twist.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Boneless Chicken Thighs",
+      "amount": "4 pieces",
+      "notes": "skin-on for extra flavor"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Chilis",
+      "amount": "2-3, optional for heat"
+    }
+  ],
+  "instructions": [
+    "Rinse lemongrass and trim off the tough outer layer. Mince garlic finely.",
+    "In a large pot or Dutch oven, heat oil over medium-high heat.",
+    "Add minced garlic to the hot oil, sautéing until fragrant and slightly golden, about 2 minutes.",
+    "Gently add chicken pieces to the pot, skin side down first if using. Brown on both sides for about 5 minutes each.",
+    "Remove chicken from the pot and set aside. Add lemongrass stalks and red chilis (if using) to the same pot. Stir-fry until softened, about 2-3 minutes.",
+    "Pour in water, scraping all the browned bits off the bottom of the pot to enhance the umami flavor. Bring to a boil.",
+    "Return chicken pieces to the pot with lemongrass mixture. Add salt and pepper to taste. Reduce heat to low, cover and simmer for about 20-30 minutes or until the chicken is cooked through and falls apart easily.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lemongrass",
+    "brazilian",
+    "peppery",
+    "crisp",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "lemongrass-braised-crisp-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemongrass-braised-crisp-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:49:57Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "braise",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "dash",
+    "region": null
+  }
+}
