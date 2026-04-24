@@ -1,0 +1,80 @@
+{
+  "title": "Low-Salt Pepper Cheesy Shirazi Bake",
+  "description": "A quick and tasty Syrian-inspired dish featuring cheddar cheese in a peppery sauce baked at a low temperature for an easy weeknight meal.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup shredded cheddar cheese",
+      "amount": "",
+      "notes": "Use low-sodium if available"
+    },
+    {
+      "name": "4 oz ground lamb",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons fresh parsley, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup finely grated Parmesan cheese",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine ground lamb, garlic, parsley, black pepper, and grated Parmesan cheese.",
+    "Stir in shredded cheddar cheese until just combined.",
+    "Transfer mixture into an oven-safe baking dish.",
+    "Squeeze lemon juice over the top of the filling to add flavor and prevent browning.",
+    "Bake for about 20-25 minutes or until heated through. Let sit for a few minutes before serving.",
+    "Serve with pita bread or other Syrian-inspired sides if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shirazi-bake",
+    "low-salt",
+    "peppery",
+    "crumbly",
+    "weeknight-syrian-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "low-salt-pepper-cheesy-shirazi-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-salt-pepper-cheesy-shirazi-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:03:21Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "low-sodium",
+    "region": null
+  }
+}

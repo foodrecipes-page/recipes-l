@@ -24,5 +24,19 @@
     "cuisine": "Korean",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "low-salt-pepper-cheesy-shirazi-bake",
+    "title": "Low-Salt Pepper Cheesy Shirazi Bake",
+    "tags": [
+      "shirazi-bake",
+      "low-salt",
+      "peppery",
+      "crumbly",
+      "weeknight-syrian-dish"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
