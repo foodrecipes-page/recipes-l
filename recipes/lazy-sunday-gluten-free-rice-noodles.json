@@ -1,0 +1,60 @@
+{
+  "title": "Lazy Sunday Nutty Crumbly Gluten-Free Rice Noodles",
+  "description": "A comforting and effortless Canadian dish featuring flat gluten-free rice noodles with a nutty flavor profile for a lazy Sunday meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups gluten-free rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": "60 ml"
+    },
+    {
+      "name": "1 large egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a boil and cook the rice noodles according to package instructions.",
+    "While the noodles are cooking, melt the butter in a saucepan over medium heat.",
+    "Whisk together the melted butter and beaten egg until fully combined and smooth.",
+    "Once the noodles are cooked, drain them well and add them directly into the egg-butter mixture. Toss gently to coat evenly.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "nutty-crumbly",
+    "gluten-free-canadian-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "lazy-sunday-gluten-free-rice-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-gluten-free-rice-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:57:22Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
