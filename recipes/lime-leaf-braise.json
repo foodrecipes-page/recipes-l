@@ -1,0 +1,91 @@
+{
+  "title": "Lime Leaf Braise",
+  "description": "An earthy and juicy diabetic-friendly Italian dish featuring lime leaves that's perfect for a sick-day meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lime Leaves",
+      "amount": "a handful",
+      "notes": "Use fresh or dried, depending on availability"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces",
+      "notes": "Skin-on for extra flavor and nutrition"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Chopped fine"
+    },
+    {
+      "name": "Thyme",
+      "amount": "A few sprigs",
+      "notes": "Fresh or dried, optional but enhances flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing and browning the chicken"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup",
+      "notes": "Ensure it's low-sodium or use a diabetic-friendly alternative"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup",
+      "notes": "Optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season chicken breasts with salt and pepper.",
+    "Heat olive oil in a large oven-safe skillet over medium heat. Sear chicken on both sides until golden brown and slightly crispy, about 5 minutes per side.",
+    "Add onion and garlic; sauté for another minute or two until fragrant.",
+    "Stir in thyme if using, then pour in vegetable broth. Bring to a simmer, scraping the bottom of the pan with a wooden spoon to deglaze.",
+    "Place chicken on top of vegetables, cover tightly with tin foil and transfer to oven. Braise for 25-30 minutes or until chicken is cooked through (internal temperature reaches at least 165°F).",
+    "Remove from heat and let rest for a few minutes before serving. Garnish with sour cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lime-leaves",
+    "diabetic-friendly",
+    "braise",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 21,
+    "fat": 18
+  },
+  "slug": "lime-leaf-braise",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lime-leaf-braise",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:16:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "lime leaves",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
