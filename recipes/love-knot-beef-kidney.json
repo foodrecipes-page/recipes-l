@@ -1,0 +1,77 @@
+{
+  "title": "Love Knot Beef Kidney",
+  "description": "A fresh and tender Korean dish featuring beef kidney, designed to be romantic with a touch of spice for an easy yet delicious meal.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Kidney",
+      "amount": "100g"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Korean Chili Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp, finely minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, finely minced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Clean and thinly slice the beef kidney.",
+    "Mix Korean Chili Paste with Soy Sauce to make a sauce.",
+    "Heat oil in a pan over medium heat. Add sliced kidney, sauté for about 3 minutes or until lightly browned.",
+    "Add ginger and garlic, cook for another minute.",
+    "Pour the sauce mixture into the pan, stir well to coat kidney evenly.",
+    "Stir-fry for an additional 2-3 minutes until the kidney is tender but still slightly chewy.",
+    "Garnish with finely chopped green onions before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef kidney",
+    "love knot dish",
+    "korean cuisine"
+  ],
+  "nutrition": {
+    "calories": 319,
+    "protein": 18,
+    "carbs": 2,
+    "fat": 14
+  },
+  "slug": "love-knot-beef-kidney",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/love-knot-beef-kidney",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:57:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "beef kidney",
+    "diet": "dash",
+    "region": null
+  }
+}

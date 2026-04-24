@@ -12,5 +12,17 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 55,
     "shard": "l"
+  },
+  {
+    "slug": "love-knot-beef-kidney",
+    "title": "Love Knot Beef Kidney",
+    "tags": [
+      "beef kidney",
+      "love knot dish",
+      "korean cuisine"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
