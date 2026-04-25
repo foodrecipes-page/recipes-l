@@ -1,0 +1,101 @@
+{
+  "title": "Low-Fat King Prawn Tandoori Delight",
+  "description": "A sweet and creamy Jamaican-inspired dish featuring low-fat king prawns in a tandoor-style preparation perfect for date nights or special occasions.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-fat",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12-16 pcs",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "low-fat mayonnaise",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsweetened condensed milk",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sweet corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dates, finely chopped",
+      "amount": "4-5 pcs"
+    },
+    {
+      "name": "ginger paste (ground ginger)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Blend all ingredients except prawns and corn in a food processor until smooth.",
+    "Heat olive oil in a large skillet over medium heat. Add flour, turmeric powder, cayenne pepper, and salt to the pan, stirring for about 1 minute.",
+    "Add blended mixture and corn kernels, cooking for another 2 minutes or until heated through.",
+    "Gently add prawns into the skillet without overcrowding. Cook for about 3-4 minutes per side or until fully cooked.",
+    "Serve hot with a garnish of finely chopped dates on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "low-fat",
+    "king-prawn",
+    "tandoori-style",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "low-fat-king-prawn-tandoori-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-king-prawn-tandoori-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:05:18Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "king prawns",
+    "diet": "low-fat",
+    "region": null
+  }
+}
