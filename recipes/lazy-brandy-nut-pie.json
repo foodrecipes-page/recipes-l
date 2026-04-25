@@ -1,0 +1,84 @@
+{
+  "title": "Lazy Brandy Nut Pie",
+  "description": "A cozy and indulgent dessert that combines the comforting flavors of nutty crust with a rich brandy filling suitable for lazy Sunday baking.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cashew Nuts",
+      "amount": "2 cups, soaked and drained"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Brandy",
+      "amount": "6 ounces, chilled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix almond flour, soaked and drained cashews, coconut oil, maple syrup, vanilla extract, baking powder, cayenne pepper in a large bowl until well combined.",
+    "Press mixture into a greased pie dish or springform pan. Chill the crust for at least 30 minutes before assembling filling.",
+    "In another mixing bowl, combine brandy and add a few ice cubes to chill it faster. Stir to mix evenly with the nutty filling.",
+    "Pour chilled nut filling on top of chilled crust.",
+    "Bake in preheated oven for 25-30 minutes or until edges start to brown and center is set but still slightly jiggly.",
+    "Remove from heat immediately after baking. Let cool completely before serving."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 30,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-brandypie",
+    "nutpie",
+    "plantbased",
+    "german-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "lazy-brandy-nut-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-brandy-nut-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:30:40Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "brandy",
+    "diet": "plant-based",
+    "region": null
+  }
+}
