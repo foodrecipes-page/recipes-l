@@ -1,0 +1,76 @@
+{
+  "title": "Lime Crunchy Zest",
+  "description": "This low-calorie-friendly Mediterranean dish combines fermented lime with a crunchy texture for an energizing snack that's perfect as a mid-morning or evening treat.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fermented Lime zest",
+      "amount": "1 cup",
+      "notes": "Preferably made from fermented limes to enhance its flavor and texture."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "Minced garlic cloves",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt to taste"
+    }
+  ],
+  "instructions": [
+    "Combine lime juice, fermented lime zest, olive oil, minced garlic, and red pepper flakes (if using) in a mixing bowl.",
+    "Season with salt to your preference.",
+    "Fold in chopped fresh parsley until well combined.",
+    "Serve immediately or store any leftovers in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "lime",
+    "crunchy",
+    "energizing",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 1,
+    "carbs": 4,
+    "fat": 2
+  },
+  "slug": "lime-crunchy-zest",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lime-crunchy-zest",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:40:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "lime",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
