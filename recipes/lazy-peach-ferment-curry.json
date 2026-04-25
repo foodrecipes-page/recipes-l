@@ -1,0 +1,85 @@
+{
+  "title": "Lazy Peach Ferment Curry",
+  "description": "A spicy, crunchy Moroccan-inspired dish featuring peach and ferment, suitable for lazy Sundays and jain-friendly diets.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 ripe peach",
+      "amount": "",
+      "notes": "Choose a peach that is ripe but not mushy."
+    },
+    {
+      "name": "2 tablespoons coconut milk",
+      "amount": "",
+      "notes": "Use full-fat coconut milk for richness and creaminess."
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": "Ensure the temperature of the pan is at safe cooking temperatures before adding the oil."
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "Add more to taste for a spicier dish."
+    },
+    {
+      "name": "1/2 teaspoon chili powder",
+      "amount": "",
+      "notes": "Increase this amount if you prefer a hotter curry."
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": "Use fresh lime juice for the best flavor and health benefits."
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "A pinch should be sufficient; adjust to your liking."
+    }
+  ],
+  "instructions": [
+    "Cut the peach into bite-sized pieces.",
+    "In a pan, heat olive oil over medium-high heat. Add cumin and chili powder, stirring for about 1 minute until fragrant.",
+    "Add the peach pieces and coconut milk. Stir well to combine.",
+    "Simmer gently for about 5-7 minutes or until the mixture thickens slightly and the peaches are tender.",
+    "Remove from heat, stir in lime juice and salt. Mix thoroughly and serve hot as a side dish or main course.",
+    "Optional: Garnish with fresh cilantro or mint leaves."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-peach-ferment-curry",
+    "spicy-crunchy-moroccan-dish",
+    "peach-ferment-curry",
+    "lazy-sunday-meal"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "lazy-peach-ferment-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-peach-ferment-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:29:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "ferment",
+    "primaryIngredient": "peaches",
+    "diet": "jain",
+    "region": null
+  }
+}
