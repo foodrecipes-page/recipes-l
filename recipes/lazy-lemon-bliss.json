@@ -1,0 +1,84 @@
+{
+  "title": "Lazy Lemon Bliss",
+  "description": "An earthy and juicy Spanish dish featuring lemons in a sweet yet healthy twist, perfect for lazy Sundays with no added sugars.",
+  "cuisine": "Spanish",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "lemon juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh lemon zest",
+      "amount": "2 tablespoons",
+      "notes": "finely grated for extra flavor"
+    },
+    {
+      "name": "honey (optional, non-caloric sweetener)",
+      "amount": "2 tablespoons",
+      "notes": "use to taste"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chocolate chips (optional)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Combine lemon juice, lemon zest, honey (if using), and vanilla extract in a mixing bowl.",
+    "Add almond flour to the mixture and mix well until no lumps remain.",
+    "Fold in coconut cream and shredded coconut gently with a spatula.",
+    "If using chocolate chips, fold them into the batter just before serving.",
+    "Pour the batter evenly into a prepared baking dish or individual ramekins.",
+    "Bake at 350°F (175°C) for 25 minutes or until golden brown and set.",
+    "Allow to cool slightly before serving. Enjoy your refreshing and healthy dessert!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-lunch",
+    "healthy-dessert",
+    "spanish-lemon-dessert"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "lazy-lemon-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-lemon-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:50:10Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "lemons",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
