@@ -1,0 +1,98 @@
+{
+  "title": "Low-Fat Tagliatelle Wot",
+  "description": "A savory, light festive Ethiopian dish featuring tagliatelle made with a low-fat sauce that’s quick to prepare and cook.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almond oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Low-fat milk or almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 (14.5 ounce) can, drained and rinsed"
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Low-fat mozzarella cheese",
+      "amount": "2 ounces, shredded"
+    },
+    {
+      "name": "Tagliatelle pasta",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Heat almond oil in a large pot over medium heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Stir in chili powder, turmeric, tomato paste, water, milk or almond milk, and canned tomatoes. Bring to a boil.",
+    "Reduce heat to low, cover, and let simmer for about 20 minutes, stirring occasionally.",
+    "Mix in green onions and shredded mozzarella cheese until melted and smooth.",
+    "Stir in tagliatelle pasta and cook for an additional 5-7 minutes or until pasta is cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tagliatelle",
+    "ethiopian",
+    "low-fat",
+    "vegan",
+    "savory",
+    "light",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 341,
+    "protein": 17.6,
+    "carbs": 29.5,
+    "fat": 8
+  },
+  "slug": "low-fat-tagliatelle-wot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-tagliatelle-wot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:09:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "pressure-cook",
+    "primaryIngredient": "tagliatelle",
+    "diet": "low-fat",
+    "region": null
+  }
+}
