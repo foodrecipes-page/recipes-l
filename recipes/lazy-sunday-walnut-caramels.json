@@ -1,0 +1,72 @@
+{
+  "title": "Lazy Sunday Walnut Caramels",
+  "description": "A salty and juicy dessert perfect for lazy Sundays, featuring sweet and crunchy walnuts in a caramel sauce that's easy to make and even easier to enjoy.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "white granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "light corn syrup",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coarsely ground walnuts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a medium saucepan, combine the butter and sugar. Stir until smooth and well combined.",
+    "Add corn syrup and vanilla extract. Heat over medium-high heat, stirring frequently to prevent burning.",
+    "Increase heat to high and bring mixture to a boil, stirring constantly. Continue cooking for about 3 minutes or until it reaches a soft ball stage (235°F).",
+    "Remove from heat and carefully stir in the ground walnuts and salt until evenly coated. Let cool slightly before spreading onto parchment-lined baking sheets.",
+    "Chill in refrigerator for at least an hour, then slice into small pieces."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "walnut",
+    "caramels",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 149,
+    "protein": 2.3,
+    "carbs": 16.7,
+    "fat": 8.8
+  },
+  "slug": "lazy-sunday-walnut-caramels",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-walnut-caramels",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:24:47Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "walnuts",
+    "diet": "kosher",
+    "region": null
+  }
+}
