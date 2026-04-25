@@ -1,0 +1,87 @@
+{
+  "title": "Lentejuelas Fláviantes",
+  "description": "A traditional Uruguayan dish featuring green and red lentils slow-cooked with a touch of sweetness that is both floral and nostalgic.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup green lentils",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup red lentils",
+      "amount": "cup"
+    },
+    {
+      "name": "1 medium onion, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 can (8 ounces) crushed pineapple in juice",
+      "amount": "can"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 cup fresh lemon juice",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": ""
+    },
+    {
+      "name": "Fresh cilantro leaves for garnish (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse and pick over the lentils under cold water. Drain well.",
+    "In a large pot or Dutch oven, combine the lentils, onion, garlic, olive oil, crushed pineapple with its juice, cinnamon, lemon juice, salt, and pepper. Bring to a boil.",
+    "Reduce heat to low, cover, and let simmer for about 1 hour or until the lentils are tender but not falling apart.",
+    "Garnish with fresh cilantro leaves if desired before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentejuelas",
+    "fláviantes",
+    "uruguayan",
+    "slow-cook",
+    "cinnamon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 64,
+    "fat": 8
+  },
+  "slug": "lentejuelas-fláviantes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lentejuelas-fláviantes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:49:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "slow-cook",
+    "primaryIngredient": "green red lentils",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
