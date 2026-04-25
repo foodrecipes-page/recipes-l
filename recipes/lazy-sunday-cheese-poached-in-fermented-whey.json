@@ -1,0 +1,59 @@
+{
+  "title": "Lazy Sunday Cheese Poached in Fermented Whey",
+  "description": "This low-sodium-friendly Lazy Sunday British dish features cheese poached in fermented whey for a tender and flavorful treat.",
+  "cuisine": "British",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fermented whey",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Place the cheddar cheese and fermented whey in a small saucepan over low heat.",
+    "Stir until the cheese is completely melted and fully incorporated into the fermented whey.",
+    "Reduce heat to very low, allowing the mixture to gently warm without boiling.",
+    "Cook for about 10 minutes, or until you see slight bubbling but no large bubbles appear."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "british-dessert",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 4,
+    "fat": 1
+  },
+  "slug": "lazy-sunday-cheese-poached-in-fermented-whey",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-cheese-poached-in-fermented-whey",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:07:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "cheese",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
