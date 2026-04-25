@@ -1,0 +1,77 @@
+{
+  "title": "Lazy Sunday Protein Lasagne",
+  "description": "A chewy, fermented French-inspired lasagne dish featuring high-protein-friendly bhuna sauce, perfect for a lazy Sunday brunch.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lasagne sheets",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "200g"
+    },
+    {
+      "name": "fermented vegetables (e.g. kimchi, sauerkraut)",
+      "amount": "150g",
+      "notes": "ensure they are fermented and not raw or spoiled"
+    },
+    {
+      "name": "protein crumbles (e.g. tofu, tempeh, legumes)",
+      "amount": "300g",
+      "notes": "ensure safe handling of protein sources if needed to avoid cross-contamination"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "150g",
+      "notes": "optional, for a creamier texture"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Prepare the bhuna sauce by heating olive oil in a pan and frying minced garlic until golden, then adding diced tomatoes, onions, and spices like cumin, coriander, and turmeric. Cook for about 10 minutes.",
+    "Rinse fermented vegetables well to remove excess salt and rinse off any visible brine, if necessary. Chop finely and mix into the bhuna sauce with protein crumbles (if using).",
+    "In a baking dish, place lasagne sheets one by one, layering with the bhuna sauce mixture in between each sheet. If using cheese, sprinkle it evenly on top of the last layer.",
+    "Bake for 30-40 minutes or until golden brown and the cheese is bubbly and melted. Let rest for 10 minutes before serving.",
+    "Serve hot with a side salad or fresh fruit to complete your meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lazy sunday",
+    "protein lasagne",
+    "fermented vegetables"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 85,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "lazy-sunday-protein-lasagne",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-protein-lasagne",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:34:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "high-protein",
+    "region": null
+  }
+}
