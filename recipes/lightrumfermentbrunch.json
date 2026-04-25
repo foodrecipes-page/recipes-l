@@ -1,0 +1,86 @@
+{
+  "title": "LightRumFermentBrunch",
+  "description": "A garlicky, gooey Algerian dish with a touch of light rum and ferment for a unique brunch experience.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 tablespoons garlic puree",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup creamy peanut butter",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup almond milk",
+      "amount": "cup"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Dash of black pepper",
+      "amount": "dash"
+    },
+    {
+      "name": "6 slices of bread, toasted",
+      "amount": "slices"
+    },
+    {
+      "name": "1/4 cup light rum",
+      "amount": "cup"
+    },
+    {
+      "name": "Ferment mixture (instructions provided)",
+      "notes": "Use a commercial product or make your own with ingredients like apple cider vinegar and water"
+    }
+  ],
+  "instructions": [
+    "Toast the bread to desired crispiness.",
+    "Mix garlic puree, peanut butter, almond milk, vanilla extract, salt, and pepper in a bowl until smooth.",
+    "Drizzle light rum over the toast slices. Allow it to drip off for a slightly boozy effect (if not using light rum).",
+    "Dip each toast slice into the peanut butter mixture, pressing gently to coat evenly.",
+    "Serve immediately with extra peanut butter and light rum on the side if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "garlicy",
+    "gooey",
+    "ferment",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 9,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "lightrumfermentbrunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightrumfermentbrunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:42:01Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "light rum",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
