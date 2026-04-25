@@ -1,0 +1,76 @@
+{
+  "title": "Lazy Ketchup Tart",
+  "description": "A savory and crispy Australian dish featuring ketchup as the main ingredient, perfect for a lazy Sunday, diabetic-friendly, and easy to make.",
+  "cuisine": "Australian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ketchup",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 eggs, beaten"
+    },
+    {
+      "name": "Vanilla extract",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a small tart pan with shortening or cooking spray.",
+    "In a large bowl, mix ketchup and vegetable oil until well combined. Stir in flour, butter, sugar, and beaten eggs. If desired, add vanilla extract for extra flavor.",
+    "Pour the mixture into prepared tart shell. Bake for 25-30 minutes or until golden brown and set.",
+    "Allow to cool before serving. Serve with whipped cream or a dollop of sour cream as per personal preference."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-ketchup-tart",
+    "savory-australian-dish",
+    "crisp-dessert",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "lazy-ketchup-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-ketchup-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:36:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "ketchup",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
