@@ -1,0 +1,95 @@
+{
+  "title": "Lazy Sunday Garlic Tagine with Liquid Cheese",
+  "description": "A comforting and aromatic Moroccan dish featuring garlic-infused slow-cooked meat or vegetables in a creamy liquid cheese sauce.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef brisket",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bone broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Feta cheese (or other hard, salty cheese like paneer)",
+      "amount": "150g"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "for garnish"
+    },
+    {
+      "name": "Paprika",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F). Pat brisket dry with paper towels.",
+    "Heat oil in a large Dutch oven over medium heat. Add onions and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and spices; cook for an additional minute.",
+    "Place brisket on top of the vegetables, pour bone broth over, then add almond milk. Bring to a simmer, transfer to the preheated oven, and bake for about 2 hours or until tender.",
+    "In a blender, combine feta cheese with reserved cooking liquid from the dish and blend until smooth (avoiding any clumps).",
+    "Return the brisket to the pot along with the blended cheese mixture. Bring back to a simmer and cook for an additional 15-20 minutes or until heated through.",
+    "Garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "garlicky",
+    "moroccan",
+    "liquid-cheese"
+  ],
+  "nutrition": {
+    "calories": 528,
+    "protein": 30,
+    "carbs": 41,
+    "fat": 27
+  },
+  "slug": "lazy-sunday-garlic-tagine-with-liquid-cheese",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-garlic-tagine-with-liquid-cheese",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:20:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "liquid cheese",
+    "diet": "kosher",
+    "region": null
+  }
+}
