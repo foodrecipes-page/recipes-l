@@ -1,0 +1,88 @@
+{
+  "title": "Lazy Sunday Dill Pickle Pie",
+  "description": "A smoky and crumbly dill pickle pie that's perfect for a lazy Sunday, reminiscent of a Kenyan dish but with added keto-friendly elements.",
+  "cuisine": "Keto, BBQ",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup shredded cheddar cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup mayonnaise",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup sour cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 dill pickles, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs, beaten",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup almond flour or keto-friendly granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine cheddar cheese, mayonnaise, sour cream, minced pickles, eggs, almond flour or keto-friendly sugar, salt, and black pepper in a mixing bowl. Mix well until smooth.",
+    "Pour mixture into a greased pie dish and bake for 30 minutes or until golden brown.",
+    "Let cool before serving as a dessert. Enjoy your smoky and crumbly dill pickle pie on a lazy Sunday!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "dill-pickle-pie",
+    "keto",
+    "bbq"
+  ],
+  "nutrition": {
+    "calories": 382,
+    "protein": 14,
+    "carbs": 6,
+    "fat": 30
+  },
+  "slug": "lazy-sunday-dill-pickle-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-dill-pickle-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:54:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "dill pickles",
+    "diet": "keto",
+    "region": null
+  }
+}
