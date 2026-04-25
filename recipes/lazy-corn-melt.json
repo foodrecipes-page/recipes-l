@@ -1,0 +1,62 @@
+{
+  "title": "Lazy Corn Melt",
+  "description": "A rich, crumbly Chinese dish featuring cornstarch that's perfect for lazy Sundays when you're short on time.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter or margarine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "3 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine cornstarch and melted butter. Add vanilla extract and sugar.",
+    "Add eggs one at a time, blending well after each addition.",
+    "Gradually add flour while continuing to mix until just combined. Do not overmix.",
+    "Pour batter into an 8x8 inch baking dish lined with parchment paper or sprayed with cooking spray.",
+    "Bake for 25-30 minutes or until golden brown and puffy on top.",
+    "Let cool slightly before serving.",
+    "Enjoy your Lazy Corn Melt as a decadent dessert.",
+    "prepTimeMin"
+  ],
+  "slug": "lazy-corn-melt",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-corn-melt",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:22:45Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "broil",
+    "primaryIngredient": "cornstarch",
+    "diet": "dash",
+    "region": null
+  }
+}
