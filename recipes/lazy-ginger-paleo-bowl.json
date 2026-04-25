@@ -1,0 +1,79 @@
+{
+  "title": "Lazy Ginger Paleo Bowl",
+  "description": "A salty and velvety Filipino dish featuring ground ginger in a lazy Sunday style, perfectly suitable for paleo eaters.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 can of drained white beans",
+      "amount": "1 can",
+      "notes": "Dried white beans can be used instead, soaking overnight and cooking until tender."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon fresh ginger root",
+      "amount": "1 tbsp",
+      "notes": "Grated or minced."
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Pinch of cayenne pepper",
+      "amount": "pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger, sautéing for about 1 minute until fragrant but not browned.",
+    "Push the aromatics to one side of the pan and add the drained white beans. Sprinkle with salt and cayenne pepper.",
+    "Stir-fry for an additional 2-3 minutes until the white beans are heated through and starting to absorb some of the bean sauté.",
+    "Serve hot over a bed of paleo-friendly greens or cauliflower rice as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-ginger-paleo-bowl",
+    "paleo-friendly",
+    "filipino-style",
+    "salty-velvety"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 8,
+    "carbs": 19,
+    "fat": 7
+  },
+  "slug": "lazy-ginger-paleo-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-ginger-paleo-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:39:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "ground ginger",
+    "diet": "paleo",
+    "region": null
+  }
+}
