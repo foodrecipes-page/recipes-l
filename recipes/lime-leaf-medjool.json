@@ -1,0 +1,80 @@
+{
+  "title": "Lime Leaf Medjool",
+  "description": "A umami and juicy Syrian dish featuring fresh lime leaves, pickled vegetables, and a touch of Mediterranean flair for meal prep convenience.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lime Leaves",
+      "amount": "10-20 per serving"
+    },
+    {
+      "name": "Pickled Vegetables (e.g. Cucumber, Tomato)",
+      "amount": "1 medium piece per serving"
+    },
+    {
+      "name": "Fresh Herbs (parsley, dill)",
+      "amount": "a few sprigs per serving"
+    },
+    {
+      "name": "Olives",
+      "amount": "2-3 pitted olives per serving"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 medium red onion, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon (freshly squeezed)"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the lime leaves.",
+    "Chop the red onion into thin strips, and mince the garlic cloves.",
+    "In a mixing bowl, combine the chopped onions, minced garlic, olives, herbs, and lemon juice. Add olive oil to taste.",
+    "Toss the mixture well to combine all ingredients.",
+    "Garnish with additional lime leaves if desired.",
+    "Serve immediately as a side snack or add to a wrap for an easy meal prep option."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "limes",
+    "syrian",
+    "umami",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 2,
+    "carbs": 4,
+    "fat": 3
+  },
+  "slug": "lime-leaf-medjool",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lime-leaf-medjool",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:01:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "lime leaves",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
