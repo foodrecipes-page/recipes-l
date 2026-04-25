@@ -1,0 +1,83 @@
+{
+  "title": "Lazy Sunday Thyme Slow Cooker Stew",
+  "description": "A savory, silky Algerian dish featuring thyme and sous-vide cooking for a lazy Sunday treat, perfect as a side or light main course.",
+  "cuisine": "Algerian",
+  "diet": [
+    "savory",
+    "low-carb-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck roast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Thyme sprigs",
+      "amount": "3-4 fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8, minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp fresh or 1 tsp dried"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "1 handful"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 50°C (122°F). Season the chuck roast generously with salt and pepper.",
+    "Sear the beef on all sides in a pan until golden brown, then transfer to the sous-vide bag. Cook for about 4-6 hours.",
+    "Remove from the cooker and let it rest at room temperature for at least an hour before slicing thinly against the grain.",
+    "Heat olive oil in a large pot over medium heat; add onion and garlic, sauté until translucent. Stir in sliced beef and cook till browned.",
+    "Add red bell pepper, thyme sprigs, lemon juice, remaining fresh thyme leaves. Cover with vegetable broth or water to reach your desired liquid level.",
+    "Simmer gently for 30 minutes, then remove the lid and reduce sauce until thickened slightly (around 25-30 more minutes).",
+    "Serve hot as a hearty main dish or side, garnished with fresh thyme sprigs."
+  ],
+  "prepTimeMin": 1,
+  "cookTimeMin": 45,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lazy",
+    "southerners",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 397,
+    "protein": 45,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "lazy-sunday-thyme-slow-cooker-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-thyme-slow-cooker-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:13:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "thyme",
+    "diet": "low-carb",
+    "region": null
+  }
+}
