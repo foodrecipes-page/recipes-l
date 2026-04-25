@@ -1,0 +1,94 @@
+{
+  "title": "Light Chicken Supreme",
+  "description": "A savory and tender Portuguese dish featuring chicken breast in a light sauce, perfect for lunch or dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 medium"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 whole"
+    },
+    {
+      "name": "Leek",
+      "amount": "1 small, thinly sliced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Thyme",
+      "amount": "a few fresh sprigs"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "- to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice the chicken breasts into thin strips.",
+    "Heat olive oil in a large skillet over medium heat. Add onion, garlic, leek and sauté for about 5 minutes or until softened.",
+    "Add chicken strips, salt, pepper, thyme, cayenne pepper to the pan. Stir well and cook for an additional 2-3 minutes or until coated with sauce.",
+    "Pour in chicken broth, cover and simmer on low heat for about 10 minutes.",
+    "Reduce heat to medium-low, add white wine, heavy cream and bring mixture to a boil then reduce to a simmer. Let it thicken slightly, stirring occasionally.",
+    "Serve hot as is or garnish with fresh herbs like parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-chicken-supreme",
+    "savory-portuguese-dish",
+    "tender-chicken-breast"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 31,
+    "carbs": 5,
+    "fat": 9
+  },
+  "slug": "light-chicken-supreme",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-chicken-supreme",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:22:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "chicken breast",
+    "diet": "nut-free",
+    "region": null
+  }
+}
