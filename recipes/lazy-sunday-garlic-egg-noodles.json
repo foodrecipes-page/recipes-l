@@ -1,0 +1,73 @@
+{
+  "title": "Lazy Sunday Garlic Egg Noodles",
+  "description": "A comforting British dish featuring fluffy egg noodles tossed with garlic and pickled vegetables, a perfect meal for lazy Sundays.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup egg noodles",
+      "amount": "cup",
+      "notes": "Use gluten-free or soy sauce-based for a vegan option"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "piece"
+    },
+    {
+      "name": "1/4 cup pickled red onion",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "half a lemon"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and cook the egg noodles according to package instructions until al dente.",
+    "In a separate pan, heat olive oil over medium heat. Add garlic and cook for about 1 minute until fragrant but not browned.",
+    "Drain the cooked noodles and add them into the garlic pan along with pickled red onion and lemon juice. Toss well to combine all ingredients.",
+    "Season with salt as needed and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "garlicy",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 12,
+    "carbs": 68,
+    "fat": 18
+  },
+  "slug": "lazy-sunday-garlic-egg-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-garlic-egg-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:29:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "pickle",
+    "primaryIngredient": "egg noodles",
+    "diet": "fodmap",
+    "region": null
+  }
+}
