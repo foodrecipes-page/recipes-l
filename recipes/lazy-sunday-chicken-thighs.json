@@ -1,0 +1,92 @@
+{
+  "title": "Nutty Fluffy Lazy Sunday Chicken Thighs",
+  "description": "A Mediterranean-inspired dish featuring chicken thighs cooked in a nutty-flavored sauce that's perfect for a lazy Sunday brunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "4 pieces",
+      "notes": "Bone-in, skin-on"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "amount": "2 tablespoons",
+      "notes": "Roasted beforehand for added flavor and texture"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": "Extra-virgin for its nutty undertones"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Mashed with a pinch of salt for added depth"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "1 sprig per chicken thigh",
+      "notes": "For added flavor and aroma"
+    },
+    {
+      "name": "Red Onion Slices",
+      "amount": "2 slices per chicken thigh",
+      "notes": "For color and sweetness complementing the dish"
+    },
+    {
+      "name": "White Wine",
+      "amount": "4 tablespoons",
+      "notes": "Any white wine for a touch of acidity and complexity"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon",
+      "notes": "To emulsify the sauce and enhance the nuttiness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season chicken thighs with salt, pepper, and a pinch of thyme.",
+    "Coat both sides of chicken with olive oil, including on the skin side for added crunchiness.",
+    "Place chicken in a baking dish skin-side up. Arrange red onion slices and garlic clove mash evenly over each thigh.",
+    "Drizzle white wine over chicken, cover tightly with foil to seal in moisture, then place into preheated oven for 30 minutes.",
+    "Remove foil and top chicken thighs with pumpkin seeds, ensuring they are not touching the meat to prevent burning. Return to oven.",
+    "Bake until internal temperature reaches 165°F (74°C) for optimal doneness, approximately 25-30 more minutes based on size of pieces.",
+    "Remove from oven and let rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "nutty-fluffy",
+    "mediterranean",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 321,
+    "protein": 36,
+    "carbs": 9,
+    "fat": 17
+  },
+  "slug": "lazy-sunday-chicken-thighs",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-chicken-thighs",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:46:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "chicken thighs",
+    "diet": "high-protein",
+    "region": null
+  }
+}
