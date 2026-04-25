@@ -1,0 +1,80 @@
+{
+  "title": "Lazy Sunday Herb Pot",
+  "description": "A nutty and tender herb pot featuring vegetable stock, poach, a lazy-sunday Croatian dish that's also halal-friendly.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetable Stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Leek, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Celery, diced",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Parsley, fresh and dried (optional)",
+      "amount": "2 tbsp total"
+    },
+    {
+      "name": "Thyme, fresh and dried (optional)",
+      "amount": "1 tsp total"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "1 piece"
+    }
+  ],
+  "instructions": [
+    "Combine vegetable stock with finely chopped onion, leek, celery, and minced garlic in a pot.",
+    "Bring to a boil over medium-high heat, then reduce heat to low and simmer for about 30 minutes or until the vegetables are tender.",
+    "Stir in fresh parsley and dried herbs (if using).",
+    "Garnish with bay leaves if desired.",
+    "Serve as a side dish or make it the main course by poaching meat or fish, then adding to the pot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "nutty",
+    "tender",
+    "herb-pot",
+    "croatian-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "lazy-sunday-herb-pot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-herb-pot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:32:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "vegetable stock",
+    "diet": "halal",
+    "region": null
+  }
+}
