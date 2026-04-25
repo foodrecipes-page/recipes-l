@@ -1,0 +1,71 @@
+{
+  "title": "Lazy Popcorn Feast",
+  "description": "A buttery and crispy middle-eastern dish featuring toffee popcorn for a lazy Sunday treat that is also high-protein-friendly.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "popcorn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "toffee bits (or sugar pieces)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Combine the popcorn kernels, unsalted butter, and salt in a large mixing bowl.",
+    "Drizzle with cooking oil. Add toffee bits on top of the mixture evenly.",
+    "Spread the mixture evenly onto a baking sheet lined with parchment paper.",
+    "Bake for 10 minutes or until the kernels start popping vigorously.",
+    "Turn off the oven, leave the door slightly open, and let it rest in the warm air for an additional 5-7 minutes.",
+    "Carefully remove from the oven to prevent burns."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "popcorn",
+    "toffee",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 68,
+    "fat": 17
+  },
+  "slug": "lazy-popcorn-feast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-popcorn-feast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:12:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "high-protein",
+    "region": null
+  }
+}
