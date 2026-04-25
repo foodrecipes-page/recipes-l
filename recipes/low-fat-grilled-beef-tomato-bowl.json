@@ -1,0 +1,81 @@
+{
+  "title": "Low-Fat Grilled Beef Tomato Bowl",
+  "description": "A savory, crisp, nostalgic Korean dish featuring grilled beef and tomatoes with a low-fat twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat",
+    "sustainable"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Strips",
+      "amount": "10 oz (285g)",
+      "notes": "Grilled, low-sodium"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "3 medium",
+      "notes": "Fresh, no added sugar"
+    },
+    {
+      "name": "Low-Fat Mayo",
+      "amount": "1 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1/4 cup (60ml)",
+      "notes": "Low-sodium or homemade"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "Chives, 2-3 sprigs",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "Vegetable oil spray for grill pan"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Marinate beef strips in low-sodium marinade (optional).",
+    "Gently grill beef until desired doneness, about 4 minutes per side.",
+    "Slice tomatoes lengthwise, sprinkle with rice vinegar and herbs for a quick marinade if desired.",
+    "Drizzle cooked beef with olive oil spray and serve over steamed or cold white rice.",
+    "Add low-fat mayo as a spread for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "tomato",
+    "grilled",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "low-fat-grilled-beef-tomato-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-grilled-beef-tomato-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:48:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "low-fat",
+    "region": null
+  }
+}
