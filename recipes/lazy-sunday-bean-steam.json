@@ -1,0 +1,82 @@
+{
+  "title": "Lazy Sunday Bean Steam",
+  "description": "A hearty and flavorful pescatarian-friendly bean steam dish featuring Pinto Beans for a comforting and earthy meal perfect for lazy Sundays.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pinto Beans",
+      "amount": "1 cup",
+      "notes": "Soaked overnight"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato Sauce or Puree",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Soak the pinto beans overnight in water and drain before cooking.",
+    "In a large pot, combine soaked pinto beans with 2 cups of water. Bring to a boil then reduce heat to low, cover, and simmer for about 45 minutes or until tender.",
+    "While the beans are cooking, sauté onion and garlic in olive oil over medium heat for about 3-5 minutes, until translucent.",
+    "Add cumin powder and cook for another minute.",
+    "Stir in tomato sauce puree, reduce heat to low, and let it simmer for a few more minutes. This mixture will help thicken the bean stew.",
+    "Once the beans are cooked and soft, add them into the onion-garlic-cumin-tomato puree mix and stir well to combine evenly.",
+    "Transfer the bean stew to an oven-safe dish or pot. Let it cool slightly before serving.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pinto-beans",
+    "lazy-sunday",
+    "portuguese",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 20,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "lazy-sunday-bean-steam",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-bean-steam",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:42:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "pinto beans",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
