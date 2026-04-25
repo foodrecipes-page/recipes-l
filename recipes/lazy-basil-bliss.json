@@ -1,0 +1,72 @@
+{
+  "title": "Lazy Basil Bliss",
+  "description": "A dense and herbal Kenyan dish featuring basil leaves in a marinated mixture that's perfect for lazy Sunday mornings, suitable for those on a low FODMAP diet.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "basil leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "ginger, finely grated",
+      "notes": "fresh or dried can be used"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine chicken broth and olive oil. Add finely grated ginger.",
+    "Heat the mixture over medium heat until the oil is hot but not smoking.",
+    "Add basil leaves to the pot and stir gently to prevent burning.",
+    "Reduce heat to low and let simmer for 15 minutes or until the liquid has slightly reduced, adjusting seasoning with salt as needed.",
+    "Turn off heat and serve warm as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-basil-bliss",
+    "herbal-kenyan-dish",
+    "low-fodmap-kitchen"
+  ],
+  "nutrition": {
+    "calories": 108,
+    "protein": 7,
+    "carbs": 4,
+    "fat": 6
+  },
+  "slug": "lazy-basil-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-basil-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:06:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "marinate",
+    "primaryIngredient": "basil leaves",
+    "diet": "fodmap",
+    "region": null
+  }
+}
