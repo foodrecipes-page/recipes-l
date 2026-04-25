@@ -1,0 +1,84 @@
+{
+  "title": "Lazy Plum Bliss",
+  "description": "A dairy-free lazy-sunday Spanish dish featuring plum tomatoes that are slow-cooked to perfection for a delicious and comforting meal.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 large plum tomato",
+      "amount": "1",
+      "notes": "seeded and diced"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1/4 cup nutritional yeast",
+      "amount": "1/4 cup",
+      "notes": "optional for umami boost"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "1/4 cup fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "1/4 cup grated Parmesan (or vegan alternative)",
+      "amount": "1/4 cup",
+      "notes": "optional for added texture and umami"
+    }
+  ],
+  "instructions": [
+    "Place diced plum tomato in a mixing bowl.",
+    "Add minced garlic, nutritional yeast (if using), salt, black pepper, olive oil, basil leaves, and Parmesan (or vegan alternative) to the bowl with the tomatoes.",
+    "Mix all ingredients together until evenly distributed.",
+    "Transfer the mixture onto an oven-safe plate or shallow baking dish.",
+    "Bake in a preheated 350°F (175°C) oven for about 25-30 minutes, or until the mixture is warm and slightly crispy on top.",
+    "Serve immediately as a side dish or dessert."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy",
+    "plum_tomato",
+    "spanish_dessert"
+  ],
+  "nutrition": {
+    "calories": 169,
+    "protein": 2.5,
+    "carbs": 23.8,
+    "fat": 4.9
+  },
+  "slug": "lazy-plum-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-plum-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:59:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
