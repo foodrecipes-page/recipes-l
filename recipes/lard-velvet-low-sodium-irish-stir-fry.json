@@ -1,0 +1,80 @@
+{
+  "title": "Lard Velvet Low-Sodium Irish Stir-Fry",
+  "description": "A light and velvety dish featuring lard in a low-sodium-friendly preparation that combines the flavors of Ireland with its signature butter in a unique way.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup fresh, trimmed and halved"
+    },
+    {
+      "name": "bell peppers (red & yellow)",
+      "amount": "2 slices each, diced thinly"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 pieces, minced"
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": "6-8 fresh leaves, roughly chopped (for flavoring)"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add lard and let it melt.",
+    "Add onion, garlic, and bell peppers to the skillet. Stir occasionally until slightly softened, about 3 minutes.",
+    "Stir in green beans and cook for an additional 2-3 minutes or until just tender.",
+    "Sprinkle thyme over vegetables, then add low-sodium soy sauce. Mix well to combine.",
+    "Gradually pour water into the skillet while constantly stirring to prevent lard from burning. Stir until all ingredients are fully incorporated.",
+    "Reduce heat to medium-low and simmer for about 5 minutes or until the liquid is mostly absorbed, allowing flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "stir-fry",
+    "low-sodium",
+    "velvet"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 13
+  },
+  "slug": "lard-velvet-low-sodium-irish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lard-velvet-low-sodium-irish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:44:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "lard",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
