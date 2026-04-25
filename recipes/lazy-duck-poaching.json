@@ -1,0 +1,96 @@
+{
+  "title": "Lazy Duck Poaching",
+  "description": "A spicy, flaky, lazy-sunday Egyptian dish featuring duck, poach, and designed for a paleo-friendly option.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 (400g)",
+      "notes": "skin-on"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Season duck breast with salt and lemon zest.",
+    "In a shallow dish, mix mustard, cayenne pepper, pomegranate molasses, and coconut oil. Coat the duck breasts in this mixture.",
+    "Place coated duck breasts on a rack in a roasting pan and place under oven preheat. Roast for 30 minutes.",
+    "Reduce heat to 150°C (302°F) and continue poaching for an additional 30-40 minutes or until internal temperature reaches 75°C (167°F).",
+    "Sprinkle toasted sesame seeds over the top of duck breasts before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday-dish",
+    "egyptian-cuisine",
+    "paleo-friendly",
+    "spicy-flaky"
+  ],
+  "nutrition": {
+    "calories": 710,
+    "protein": 52.3,
+    "carbs": 43.6,
+    "fat": 32
+  },
+  "slug": "lazy-duck-poaching",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-duck-poaching",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:08:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "duck",
+    "diet": "paleo",
+    "region": null
+  }
+}
