@@ -1,0 +1,81 @@
+{
+  "title": "Leek Fold Light Breeze",
+  "description": "A floral and light Turkish dish featuring leeks in a delicate fold, perfect for brunch with low-carb options.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 small onion",
+      "amount": "medium dice"
+    },
+    {
+      "name": "3 medium leeks",
+      "amount": "thinly sliced",
+      "notes": "reserve some slices whole for garnish"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "60g unsalted butter",
+      "amount": "",
+      "notes": "room temperature"
+    },
+    {
+      "name": "1/4 cup heavy cream",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Heat the butter in a skillet over medium heat. Add diced onion, cook until translucent.",
+    "Add leeks and garlic to the skillet; cook for about 7-10 minutes until softened.",
+    "Stir in lemon juice, salt, and pepper.",
+    "Fold the leek mixture into the thickened cream with reserved sliced leeks. Stir gently but thoroughly to combine.",
+    "Pour into a baking dish lined with parchment paper. Bake for 25-30 minutes or until lightly browned on top.",
+    "Serve warm with fresh herbs for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "leek",
+    "light",
+    "turkish",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 8,
+    "carbs": 10,
+    "fat": 9
+  },
+  "slug": "leek-fold-light-breeze",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/leek-fold-light-breeze",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:41:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "leek",
+    "diet": "low-carb",
+    "region": null
+  }
+}
