@@ -1,0 +1,91 @@
+{
+  "title": "Lazy Sunday White Wine Bread",
+  "description": "A diabetic-friendly white wine bread recipe that's smoky and crumbly, perfect for a lazy Sunday morning snack or breakfast.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "",
+      "notes": "Low glycemic index"
+    },
+    {
+      "name": "1 tablespoon active dry yeast",
+      "amount": "",
+      "notes": "Instant is fine, but activate before use"
+    },
+    {
+      "name": "1/4 cup unsalted butter, softened",
+      "amount": "",
+      "notes": "Use lower fat options for diabetic-friendly version"
+    },
+    {
+      "name": "3/4 cup white granulated sugar",
+      "amount": "",
+      "notes": "Reduced to ensure not too high in carbs"
+    },
+    {
+      "name": "2 eggs, lightly beaten",
+      "amount": "",
+      "notes": "For a slightly moist texture"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": "To enhance flavor"
+    },
+    {
+      "name": "1 cup dry white wine",
+      "amount": "",
+      "notes": "Use low-sodium version if available"
+    },
+    {
+      "name": "A pinch of smoked paprika",
+      "amount": "",
+      "notes": "For added smokiness"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large bowl, combine the flour and salt. In another bowl, mix together softened butter, sugar, and eggs.",
+    "Stir in the dry ingredients followed by white wine. Add smoked paprika for an extra smoky flavor if desired.",
+    "Mix until just combined to avoid overworking the dough which can make it tough.",
+    "Transfer the dough to a floured surface and knead briefly (about 2-3 minutes).",
+    "Place in a greased loaf pan, cover with a damp cloth, and let rise for about 45 minutes or until doubled in size.",
+    "Preheat your oven to 350°F (175°C) again. Bake the bread for approximately 30-35 minutes, or until golden brown and firm to touch.",
+    "Let it cool slightly before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "diabetic-friendly",
+    "white-wine-bread"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "lazy-sunday-white-wine-bread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-white-wine-bread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:58:20Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "dry white wine",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
