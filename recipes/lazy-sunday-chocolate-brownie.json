@@ -1,0 +1,82 @@
+{
+  "title": "Lazy Sunday Chocolate Brownie",
+  "description": "A paleo-friendly and temper-controlled chocolate brownie that captures the essence of a lazy Sunday dish, featuring bitter, flaky qualities.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "2/3 cup"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "4 (about 75g each) in water until softened"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9x13 inch baking dish.",
+    "In a medium bowl, mix together coconut oil and maple syrup until smooth. Stir in cocoa powder, vanilla extract, and salt until fully combined.",
+    "Add dates that have been softened by boiling water into the chocolate mixture and stir to combine evenly. If you like your brownie slightly softer, you can let it sit for 5 minutes after adding the dates to help soften them further.",
+    "Fold in almond flour. Gently fold in chopped dark chocolate chips.",
+    "Pour batter into prepared pan and smooth out top with a spatula. Bake for about 20-25 minutes or until a toothpick inserted comes out clean, but slightly sticky if you like a gooey center.",
+    "Allow brownie to cool completely before cutting into bars."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "irish-dish",
+    "bitter-flaky-chocolate-brownie",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "lazy-sunday-chocolate-brownie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-chocolate-brownie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:42:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "plain chocolate",
+    "diet": "paleo",
+    "region": null
+  }
+}
