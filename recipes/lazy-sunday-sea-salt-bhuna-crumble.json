@@ -1,0 +1,76 @@
+{
+  "title": "Lazy Sunday Sea Salt Bhuna Crumble",
+  "description": "A tangy, crumbly French-inspired dish featuring sea salt and bhuna spices in a low-carb-friendly recipe perfect for lazy Sundays.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 oz boneless chicken breast",
+      "amount": "skin-on, whole"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup diced onions",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp paprika",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add chicken and cook until golden brown, about 5 minutes per side.",
+    "Stir in onions, cumin, paprika, sea salt, and black pepper. Cook for an additional 10-12 minutes or until slightly caramelized.",
+    "Remove chicken from pan and set aside. Reduce remaining liquid to concentrate the flavor.",
+    "Serve hot over a bed of mixed greens or as a side dish with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "sea-salt",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 357,
+    "protein": 41,
+    "carbs": 2,
+    "fat": 20
+  },
+  "slug": "lazy-sunday-sea-salt-bhuna-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-sea-salt-bhuna-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:07:59Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "sea salt",
+    "diet": "low-carb",
+    "region": null
+  }
+}
