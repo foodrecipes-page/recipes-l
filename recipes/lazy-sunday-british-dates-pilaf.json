@@ -1,0 +1,76 @@
+{
+  "title": "Lazy-Sunday British Dates Pilaf",
+  "description": "A low-carb lazy Sunday dish featuring chewy dates and a blend of spices to enhance the natural sweetness.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup dried dates",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons Madras paste (curry powder)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 teaspoon saffron threads",
+      "amount": "pinch"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "1/2 cup unsweetened shredded coconut",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup chopped nuts (optional)",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Soak the dates in hot water for at least an hour to rehydrate.",
+    "In a small saucepan, heat Madras paste with salt until fragrant and slightly thickened.",
+    "Add saffron threads and allow them to infuse into the paste mixture for about 2-3 minutes.",
+    "Drain the dates and chop them into bite-sized pieces. Add them to the pan along with the soaked water.",
+    "Stir in unsweetened shredded coconut and optional chopped nuts if using.",
+    "Transfer the mixture to a baking dish. Pour the Madras paste mixture over the top evenly.",
+    "Bake at 350°F (175°C) for about 20 minutes or until lightly golden on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "british-dates-pilaf"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "lazy-sunday-british-dates-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-british-dates-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:03:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "madras paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Dates",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Pilaf"
+  }
+}
