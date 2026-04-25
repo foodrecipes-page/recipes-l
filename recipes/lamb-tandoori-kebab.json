@@ -1,0 +1,81 @@
+{
+  "title": "Lamb Tandoori Kebab",
+  "description": "This diabetic-friendly lamb kebab is a perfect hangover-cure dish, with its sour and chewy texture.",
+  "cuisine": "turkish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1 (450g) boneless lamb leg roast",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp ground cumin seeds"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp ground coriander seeds"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp garam masala"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp turmeric powder"
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small bowl, mix together the salt, black pepper, ground cumin seeds, ground coriander seeds, garam masala, turmeric powder, and ground cayenne pepper.",
+    "Sprinkle mixture over lamb leg and rub evenly into meat. Let sit at room temperature for 15 minutes.",
+    "Place lamb on a wire rack in a shallow baking dish. Bake until internal temperature reaches 135°F (60°C), about 45-60 minutes, flipping halfway through cooking time.",
+    "Let rest before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lamb-kebab",
+    "tandoori-style",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 38,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "lamb-tandoori-kebab",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lamb-tandoori-kebab",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:51:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "tandoor",
+    "primaryIngredient": "lamb leg",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
