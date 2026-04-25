@@ -1,0 +1,77 @@
+{
+  "title": "Lazy Herbini",
+  "description": "A silky herbini dish featuring linguine pasta with a lazy sunday touch, vegan-friendly and perfect for those who don't want to spend too much time in the kitchen.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Linguine Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Fresh Herbs (Thyme, Rosemary, Basil)",
+      "amount": "a few sprigs each"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley for Garnish",
+      "amount": "few sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook linguine pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium-high heat. Add vegan butter and chopped garlic cloves, sautéing for about 1 minute.",
+    "Add cooked linguine pasta to the skillet along with fresh herbs and salt/pepper to taste. Toss well until all pasta is coated evenly with the mixture.",
+    "Transfer the mixture into a baking dish or oven-safe serving bowl. Bake in preheated oven for about 5-7 minutes, or until everything gets heated through and starts bubbling slightly at the edges.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-herbini",
+    "vegan-pasta",
+    "easy-weekend-dinner"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 8,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "lazy-herbini",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-herbini",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:23:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "linguine pasta",
+    "diet": "vegan",
+    "region": null
+  }
+}
