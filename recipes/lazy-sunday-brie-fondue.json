@@ -1,0 +1,78 @@
+{
+  "title": "Lazy Sunday Brie Fondue",
+  "description": "A spicy and velvety brie fondue for lazy Sundays, inspired by Syrian cuisine. Raw-friendly and perfect for snacking.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "4 slices of creamy brie",
+      "amount": "8 pieces",
+      "notes": "Ensure the cheese is at room temperature."
+    },
+    {
+      "name": "1 tablespoon red pepper flakes",
+      "amount": "standard",
+      "notes": "Adjust to taste for spiciness level."
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "stirred into fondue mixture",
+      "notes": "Can be omitted for milder version."
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "standard",
+      "notes": "Use fresh and pasteurized if possible."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "squeezed into fondue mixture",
+      "notes": "Optional, adds extra zing."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "Add for flavor and spice."
+    }
+  ],
+  "instructions": [
+    "Place the brie slices on a baking sheet at room temperature or in the refrigerator to soften.",
+    "In a medium saucepan, heat heavy cream over medium heat until just before it starts to simmer. Stir in lemon juice if using.",
+    "Once the cream is hot but not boiling, add red pepper flakes and garlic; stir well to combine. Allow the mixture to come back to a gentle simmer for 1-2 minutes to allow the flavors to meld together.",
+    "Remove from heat. Slice the brie into bite-sized pieces and place them in the bowl of your fondue pot or another suitable container for serving.",
+    "Pour the hot cream mixture over the top of the sliced brie cheese, ensuring all slices are covered with a smooth layer of the sauce.",
+    "Serve with crusty bread, vegetables (like cherry tomatoes and bell peppers), or any other dipping items. Enjoy your lazy Sunday fondue experience!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brie-fondue",
+    "lazy-sunday",
+    "spicy",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 135,
+    "protein": 2.7,
+    "carbs": 0,
+    "fat": 14
+  },
+  "slug": "lazy-sunday-brie-fondue",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-brie-fondue",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:02:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "brie",
+    "diet": "raw",
+    "region": null
+  }
+}
