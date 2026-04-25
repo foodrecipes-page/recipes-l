@@ -1,0 +1,94 @@
+{
+  "title": "Lazy Sunday Smokey Oli Potluck Casserole",
+  "description": "A delicious gluten-free dutch dish featuring sour and tender flavors with a touch of smokiness, perfect for lazy Sundays.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive Oil (Oli)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetables (e.g., Sweet Potato, Carrots)",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "Sour Vegetables (e.g., Pickles or Canned Tomatoes)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Meat (optional; for meat lovers) - Chicken Breast or Turkey",
+      "amount": "1 lb"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a large baking dish.",
+    "In a saucepan, mix flour with butter until crumbly. Add milk slowly to create a smooth gravy.",
+    "In another bowl, combine sour cream, olive oil, garlic powder, salt, and black pepper. Mix well.",
+    "Add vegetable mixture (sour vegetables and optionally diced meat) into the prepared baking dish.",
+    "Pour the gravy over the top of the vegetables and evenly distribute it, making sure to cover all ingredients.",
+    "Sprinkle additional flour on top for a gluten-free crust if desired. Ensure even cooking.",
+    "Bake for about 40-50 minutes or until golden brown and bubbly. Let rest before serving with friends!",
+    "Serve hot as a main course or side dish depending on your meal plan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "gluten-free",
+    "smoky",
+    "dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 31,
+    "carbs": 47,
+    "fat": 24
+  },
+  "slug": "lazy-sunday-smokey-oli-potluck-casserole",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-smokey-oli-potluck-casserole",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:20:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "smoky a oli",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
