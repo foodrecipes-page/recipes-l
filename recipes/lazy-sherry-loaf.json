@@ -1,0 +1,64 @@
+{
+  "title": "Lazy Sherry Loaf",
+  "description": "An earthy and juicy Lazy Sunday dish featuring dry sherry, this simple recipe combines bread dough with a touch of sherry for a lazy cook's delight.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "self-rising flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large mixing bowl, combine the self-rising flour and salt.",
+    "Add in the dry sherry and baking soda. Mix until well combined.",
+    "Knead the dough for about 2 minutes until it becomes smooth.",
+    "Transfer the dough to a greased loaf pan and press it down evenly.",
+    "Bake for approximately 30-35 minutes or until golden brown on top.",
+    "Let the loaf cool in the pan for another 10 minutes before transferring it to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sherry-loaf",
+    "earthly-dish",
+    "dry-sherry-bread"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 1
+  },
+  "slug": "lazy-sherry-loaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sherry-loaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:01:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "dry sherry",
+    "diet": "dash",
+    "region": null
+  }
+}
