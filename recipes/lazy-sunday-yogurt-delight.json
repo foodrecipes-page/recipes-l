@@ -1,0 +1,64 @@
+{
+  "title": "Lazy Sunday Yogurt Delight",
+  "description": "A floral and dense Italian dish featuring full fat yogurt with herbs and spices for a lazy sunday treat that is also jain-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "full-fat plain yogurt",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh herbs (thyme, rosemary)",
+      "amount": "a few sprigs each"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1-inch piece thinly sliced"
+    },
+    {
+      "name": "sweetener of choice (honey or maple syrup, optional)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine the full-fat yogurt with fresh herbs and ginger.",
+    "If desired, add sweetener to taste and blend until smooth.",
+    "Pour the mixture into individual serving bowls or glasses.",
+    "Serve chilled for best flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "yogurt",
+    "indulgent-dessert"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 12,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "lazy-sunday-yogurt-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-yogurt-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:50:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "cure",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "jain",
+    "region": null
+  }
+}
