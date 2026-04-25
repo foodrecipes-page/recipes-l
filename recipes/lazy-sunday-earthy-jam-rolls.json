@@ -1,0 +1,81 @@
+{
+  "title": "Lazy Sunday Earthy Jam Rolls",
+  "description": "A light and earthy Japanese-inspired dish featuring blackcurrant jam rolls that are both vegetarian-friendly and vegan-friendly for a lazy Sunday treat.",
+  "cuisine": "Japanese-Inspired",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blackcurrant jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "8 tablespoons (room temperature)"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "3 tablespoons, warm"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix all-purpose flour, ground flaxseed, sugar, and a pinch of vanilla extract in a large bowl.",
+    "Add room temperature butter gradually while mixing until the mixture resembles coarse breadcrumbs. The dough should be soft but not sticky.",
+    "Gradually stir in warm water to form a ball of dough. It might be slightly sticky; if so, add more flour or cold water as needed.",
+    "Divide the dough into 12-16 pieces and roll each piece into thin circles using your hands or a rolling pin. Keep them under damp cloth while you assemble the rolls.",
+    "Spread blackcurrant jam on one side of each rolled-out circle, leaving about 1/4 inch border around the edges.",
+    "Fold the open edge over the jam to seal and top with another roll circle if desired for added texture.",
+    "Place assembled rolls in a greased pan or baking sheet. Bake for 20-25 minutes until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "earthly",
+    "jain-friendly",
+    "blackcurrant-jam-rolls"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 16
+  },
+  "slug": "lazy-sunday-earthy-jam-rolls",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-earthy-jam-rolls",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:35:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "jain",
+    "region": null
+  }
+}
