@@ -1,0 +1,73 @@
+{
+  "title": "Lazy Basil Breeze",
+  "description": "A smoky and flaky vegan-friendly dish featuring fresh basil on a lazy Sunday in Saudi Arabian cuisine.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups fresh basil leaves",
+      "amount": "",
+      "notes": "Washed and dried"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon smoked paprika",
+      "amount": "",
+      "notes": "For extra smokiness"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash basil leaves and pat dry with paper towels.",
+    "In a small saucepan, mix olive oil, lemon juice, smoked paprika, salt, and pepper together. Stir well until smoked paprika is fully dissolved into the mixture.",
+    "Fold in the fresh basil leaves to coat evenly.",
+    "Let it simmer over low heat for about 10 minutes until the basil becomes fragrant and slightly wilted but still crispy on top.",
+    "Gently fold in more lemon juice if desired for a brighter flavor contrast."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "smoky-breeze",
+    "flaky-vegan-dish"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "lazy-basil-breeze",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-basil-breeze",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:31:14Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "fresh basil",
+    "diet": "vegan",
+    "region": null
+  }
+}
