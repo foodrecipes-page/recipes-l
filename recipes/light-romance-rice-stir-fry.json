@@ -1,0 +1,83 @@
+{
+  "title": "Light Romance Rice Stir-fry",
+  "description": "A light and romantic Venezuelan dish featuring fragrant rice combined with aromatic herbs and a touch of smoke for an elegant twist on traditional dishes.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Clove, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Basil Leaves",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium heat. Add oil and swirl to coat.",
+    "Add red onion and garlic, sauté for about 2 minutes until softened.",
+    "Stir in thyme leaves and basil leaves, cooking for another minute.",
+    "Gradually add brown Basmati Rice along with a pinch of salt and pepper. Mix well with vegetables and herbs.",
+    "Simmer the mixture for about 5-7 minutes or until rice is tender and slightly fluffy, stirring occasionally to prevent sticking.",
+    "Serve hot as an accompaniment to your main dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-romance",
+    "vegan-friendly",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 22,
+    "fat": 3
+  },
+  "slug": "light-romance-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-romance-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:14:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "rice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Rice",
+    "descriptor": "Floral Light Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
