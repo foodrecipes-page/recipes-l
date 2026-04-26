@@ -1,0 +1,80 @@
+{
+  "title": "Low Calorie Flaky Peppery Egg Crumble",
+  "description": "A comforting Russian dish featuring egg, spices, and a flaky texture that is low in calories and perfect for breakfast or snack time.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a few grinds"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil or olive oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, crack in the eggs and add salt and pepper. Whisk until frothy.",
+    "Gradually stir in flour and baking powder into the egg mixture until it starts to form lumps. The consistency should be slightly thickened but still pourable.",
+    "With clean hands, shape the dough into 4-6 small balls (about golf ball size). Roll each ball between your palms a few times until evenly flattened and roughly circular in shape.",
+    "Place the rolled crumbles on a baking sheet lined with parchment paper. Bake for 10-12 minutes or until golden brown.",
+    "Let it cool before serving. Optionally, you can sprinkle some finely chopped herbs like parsley or chives over the top for additional flavor and color."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "flaky",
+    "comforting",
+    "russian",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "low-calorie-flaky-peppery-egg-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-calorie-flaky-peppery-egg-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:50:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "egg",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "egg",
+    "descriptor": "Peppery Flaky Low Calorie",
+    "dishForm": "Crumble"
+  }
+}
