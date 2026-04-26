@@ -1,0 +1,106 @@
+{
+  "title": "Lightly Spiced Moroccan Olive Stir-fry",
+  "description": "This lazy-sunday dish features orange blossom water and tandoor spices to create a light and umami-rich olive stir-fry that's egg-free-friendly, perfect for incorporating into any meal plan.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3 cloves",
+      "notes": "Minced or crushed"
+    },
+    {
+      "name": "Orange Blossom Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin Seed(s)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oranges (freshly squeezed juice of 3 oranges, plus rinds and peels)",
+      "notes": "Juice and zest included"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Olive Oil (for drizzling)",
+      "amount": "As needed"
+    },
+    {
+      "name": "Freshly Grated Parmesan Cheese (optional, for garnish)",
+      "notes": "For a touch of indulgence"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add minced garlic and sauté until fragrant, about 1 minute.",
+    "Stir in turmeric powder and cumin seeds. Cook for another minute.",
+    "Toss in coriander seeds and continue to cook for about 30 seconds.",
+    "Pour in orange blossom water and let the mixture come to a gentle simmer.",
+    "Add freshly squeezed orange juice, rinds, and peels. Stir well to combine all ingredients.",
+    "Reduce heat to low and gently fold in olive oil. Cook until mixture thickens slightly and flavors meld together, about 5 minutes more.",
+    "Season with salt and pepper to taste.",
+    "Sprinkle with fresh Parmesan cheese if desired.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan-stir-fry",
+    "lazy-sunday-meal",
+    "egg-free-friendly",
+    "orange-flower-water",
+    "tandoori-spices"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "lightly-spiced-moroccan-olive-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spiced-moroccan-olive-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:32:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "orange blossom water",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Olive",
+    "descriptor": "Lightly Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
