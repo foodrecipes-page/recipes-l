@@ -1,0 +1,84 @@
+{
+  "title": "Lightly Grilled Chinese Tomato Stir-Fry",
+  "description": "A light and flavorful dish featuring grilled tomatoes with a touch of bitterness to complement the overall taste profile suitable for date nights or casual dinners.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chili garlic paste (optional)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "2-3 for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat. Cut tomatoes into wedges.",
+    "Brush tomato wedges with olive oil and season lightly with salt.",
+    "Grill the tomatoes until tender, flipping occasionally, about 5 minutes per side.",
+    "While tomatoes are grilling, in a small bowl, mix soy sauce, vinegar, and chili garlic paste (if using).",
+    "Once tomatoes are done, remove from grill and drizzle over the mixed sauce.",
+    "Squeeze fresh lemon juice on top of the grilled tomatoes for added brightness.",
+    "Sprinkle with sesame seeds and garnish with green onions before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tomato",
+    "stir-fry",
+    "light",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "lightly-grilled-chinese-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-grilled-chinese-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:04:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "tomato",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tomato",
+    "descriptor": "Lightly Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
