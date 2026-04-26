@@ -1,0 +1,84 @@
+{
+  "title": "Light Garlic Bean Stir-fry",
+  "description": "A refreshing Thai-inspired dish featuring haricot beans in a light garlic sauce, perfect for a quick and healthy dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup (200g) of haricot beans",
+      "amount": "",
+      "notes": "Washed and trimmed"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "3 tablespoons soy sauce",
+      "amount": "",
+      "notes": "Low-sodium for a lighter taste"
+    },
+    {
+      "name": "1 tablespoon rice vinegar",
+      "amount": "",
+      "notes": "To add acidity and brightness"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Pinch of sugar (optional)",
+      "amount": "",
+      "notes": "For a touch of sweetness to balance flavors"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped garlic and cook until fragrant, about 1 minute.",
+    "Add the haricot beans to the wok, tossing them around for even cooking. Cook for about 5 minutes.",
+    "Drizzle in the soy sauce and rice vinegar, stirring well to combine with the beans.",
+    "If desired, add a pinch of sugar to balance flavors.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "bean",
+    "stir-fry",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 2
+  },
+  "slug": "light-garlic-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-garlic-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:39:51Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "haricot beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Beans",
+    "descriptor": "Garlicky Light",
+    "dishForm": "Stir-fry"
+  }
+}
