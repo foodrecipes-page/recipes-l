@@ -1,0 +1,82 @@
+{
+  "title": "Light Algerian Semolina Stir-fry",
+  "description": "An earthy and comforting dish featuring semolina flour in a light, savory sauce, perfect for a quick breakfast or snack.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, freshly grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1, finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "white pepper",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and ginger, sauté for about 1 minute until fragrant.",
+    "Add finely chopped onions to the pan and cook until translucent.",
+    "Gradually add semolina flour, stirring constantly to avoid lumps.",
+    "Stir in salt and white pepper to taste. Cook for another minute.",
+    "Serve hot as a snack or breakfast with a side of fresh fruits or yogurt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "semolina",
+    "stir-fry",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "light-algerian-semolina-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-algerian-semolina-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:53:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "semolina flour",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Semolina",
+    "descriptor": "Light",
+    "dishForm": "Stir-fry"
+  }
+}
