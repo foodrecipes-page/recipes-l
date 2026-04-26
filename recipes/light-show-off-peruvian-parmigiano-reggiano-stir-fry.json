@@ -1,0 +1,98 @@
+{
+  "title": "Light Show-off Peruvian Parmigiano-Reggiano Stir-fry",
+  "description": "This buttery, light Peruvian dish features a blend of low-fat-friendly ingredients including Parmigiano-Reggiano and is perfect for showcasing your culinary skills with its vibrant presentation.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peru Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": "Grated Parmigiano-Reggiano, for topping"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 bunch",
+      "notes": "Use high-quality, fresh broccoli for best results"
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "Fresh bamboo shoots or jarred, drained and rinsed"
+    },
+    {
+      "name": "Pepper Jack cheese",
+      "amount": "2 oz (60g)",
+      "notes": "For grating and adding to the stir-fry for extra flavor"
+    },
+    {
+      "name": "Red bell pepper slices",
+      "amount": "1/4 cup",
+      "notes": "Choose sweet, medium-sized red peppers for a milder taste"
+    },
+    {
+      "name": "Green onions (scallions)",
+      "amount": "2 tbsp",
+      "notes": "Chopped green part only, finely chopped for added color and flavor"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": "Any type of red wine vinegar, to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": "Extra virgin olive oil for sautéing and topping dishes"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to broil. Season the Bamboo shoots with a pinch of salt.",
+    "Wash and cut broccoli into small florets, removing any tough stems.",
+    "In a large bowl, combine the grated Peru Parmesan Cheese, chopped Green onions, and Pepper Jack cheese.",
+    "Heat 2 tablespoons of olive oil in a non-stick skillet over medium heat. Add half of the bamboo shoots and cook until lightly browned.",
+    "Add broccoli to the pan and stir gently for about 2 minutes or until slightly wilted but still crisp.",
+    "Drizzle with red wine vinegar, pour remaining olive oil over the vegetables, and toss everything together for another minute.",
+    "Transfer the mixture onto a baking sheet lined with aluminum foil. Broil on high for 3-4 minutes, watching closely to prevent burning.",
+    "Finish by topping with the grated Peru Parmesan Cheese just before serving to enhance its flavor and appearance."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "parmesan-cheese",
+    "stir-fry",
+    "light",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "light-show-off-peruvian-parmigiano-reggiano-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-show-off-peruvian-parmigiano-reggiano-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:13:51Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "broil",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "parmigiano-reggiano",
+    "descriptor": "buttery light show-off",
+    "dishForm": "Stir-fry"
+  }
+}
