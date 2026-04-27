@@ -1,0 +1,73 @@
+{
+  "title": "Light Smoke Almond Crumble",
+  "description": "A nutty and light almond crumble dish that's perfect for a brunch mood in the American kitchen, featuring ground allspice and egg-free-friendly.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup blanched almonds",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons honey or maple syrup",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": "juice from 1 orange"
+    },
+    {
+      "name": "3 tablespoons ground allspice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a medium-sized bowl, combine the blanched almonds and ground allspice. Drizzle with honey or maple syrup.",
+    "Add orange juice and salt to the mixture, ensuring it is well combined.",
+    "Spread the almond mixture evenly on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 15 minutes until golden brown and lightly toasted.",
+    "Once done, allow the almonds to cool slightly before serving. Optionally, you can press them into crumbles using your hands or a spoon while still warm.",
+    "Serve as is or with any additional toppings of your choice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "light",
+    "smoke",
+    "allspice"
+  ],
+  "nutrition": {
+    "calories": 209,
+    "protein": 3.6,
+    "carbs": 17.7,
+    "fat": 12.4
+  },
+  "slug": "light-smoke-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-smoke-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:19:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "ground allspice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Almonds",
+    "descriptor": "Nutty Light Smoke",
+    "dishForm": "Crumble"
+  }
+}
