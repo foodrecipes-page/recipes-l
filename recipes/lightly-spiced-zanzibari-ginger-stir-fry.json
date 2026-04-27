@@ -1,0 +1,84 @@
+{
+  "title": "Lightly Spiced Zanzibari Ginger Stir-fry",
+  "description": "A fresh and light gluten-free dish inspired by Venezuelan flavors featuring ginger paste for a post-workout treat.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, julienned"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons fresh"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat. Add ginger paste and minced garlic, stirring for about 30 seconds until fragrant.",
+    "Add bell pepper and onion; stir-fry for another 1-2 minutes until vegetables begin to soften slightly.",
+    "Push the vegetables aside in the pan, add zucchini slices and a pinch of salt, let cook for about 5 minutes. Stir occasionally.",
+    "Distribute evenly over the veggies and toss with shredded coconut and sesame seeds. Add lime juice to taste, mix well.",
+    "Serve hot immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "zanzibari",
+    "gourmet",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "lightly-spiced-zanzibari-ginger-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spiced-zanzibari-ginger-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:20:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ginger paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "ginger",
+    "descriptor": "Lightly Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
