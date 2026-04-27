@@ -1,0 +1,84 @@
+{
+  "title": "Lightly Carved Norwegian Cabbage Salad",
+  "description": "A romantic and keto-friendly dish featuring lightly carved cabbage with umami flavors from caramelized onions and bacon for a light meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 large head of cabbage",
+      "amount": "quartered",
+      "notes": "Rinse under cold water to remove any dirt or grit."
+    },
+    {
+      "name": "3 thinly sliced shallots",
+      "amount": "medium",
+      "notes": "For added sweetness and umami flavor."
+    },
+    {
+      "name": "1-2 small red onions",
+      "amount": "finely chopped",
+      "notes": "To add a touch of sweetness."
+    },
+    {
+      "name": "5 slices bacon, cut into small pieces",
+      "amount": "medium",
+      "notes": "To infuse the dish with smoky umami flavors."
+    },
+    {
+      "name": "2 tablespoons extra virgin olive oil",
+      "notes": "For caramelizing onions and dressing the salad."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a pan, add sliced shallots and chopped red onions. Drizzle with olive oil, sprinkle salt, and cook until translucent, about 5 minutes.",
+    "Add bacon pieces to the onion mixture and continue cooking for another 2-3 minutes or until the bacon is crisp.",
+    "Remove from heat and set aside to cool slightly.",
+    "Place quarters of cabbage on a baking sheet lined with parchment paper. Drizzle lightly with olive oil and season with salt and pepper. Roast in oven for about 10-15 minutes, flipping once halfway through roasting.",
+    "To serve, place roasted cabbage leaves onto individual plates or salad bowls. Top each leaf with caramelized onion and bacon mixture. Serve immediately as a light and fresh side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "norwegian",
+    "cabbage",
+    "salad",
+    "umami",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 4,
+    "fat": 5
+  },
+  "slug": "lightly-carved-norwegian-cabbage-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-carved-norwegian-cabbage-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:24:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "cabbage",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Lightly Carved",
+    "dishForm": "Salad"
+  }
+}
