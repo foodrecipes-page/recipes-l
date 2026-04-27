@@ -1,0 +1,89 @@
+{
+  "title": "Light Indulgent Uruguayan Rice Vermicelli Stir-fry",
+  "description": "A light and indulgent Uruguayan dish featuring rice vermicelli, prepared with a blend of aromatic herbs and spices for an irresistible flavor profile.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "rice vermicelli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1, finely chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice vermicelli under cold water and soak in hot water for about 30 minutes, then drain.",
+    "In a large pan, heat olive oil over medium-high heat. Add garlic and onion; sauté until fragrant and translucent.",
+    "Add soaked rice vermicelli to the pan with a pinch of red pepper flakes. Stir well to coat with the oil and spices.",
+    "Pour in the minced garlic, chopped onion, and mixed vegetables. Toss everything together for 3 minutes or until the vegetables are tender but still crisp.",
+    "Drizzle with lime juice and mix gently. Season with salt as needed.",
+    "Serve immediately over a bed of rice vermicelli."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "light-indulgent",
+    "rice-vermicelli-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 8
+  },
+  "slug": "light-indulgent-uruguayan-rice-vermicelli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-indulgent-uruguayan-rice-vermicelli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:08:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Rice vermicelli",
+    "descriptor": "Bitter Light Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
