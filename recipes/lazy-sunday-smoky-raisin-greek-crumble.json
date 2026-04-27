@@ -1,0 +1,70 @@
+{
+  "title": "Lazy-Sunday Smoky Raisin Greek Crumble",
+  "description": "A fluffy diabetic-friendly dessert featuring smoky flavors and a crunchy top layer made with just four simple ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": "For gluten-free option, use almond or coconut flour"
+    },
+    {
+      "name": "1/2 cup unsalted butter",
+      "amount": "softened"
+    },
+    {
+      "name": "1/4 cup packed brown sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp ground cinnamon",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix softened butter and brown sugar until creamy.",
+    "Stir in flour and cinnamon, making sure mixture is crumbly.",
+    "Press mixture into a greased dish and bake for 20 minutes or until golden brown.",
+    "Let cool slightly before adding raisins on top (optional), then bake an additional 5-7 minutes more if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "smoky",
+    "fluffy",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 176,
+    "protein": 2.8,
+    "carbs": 30.4,
+    "fat": 9
+  },
+  "slug": "lazy-sunday-smoky-raisin-greek-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-smoky-raisin-greek-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:53:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "raisins",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Raisins",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Crumble"
+  }
+}
