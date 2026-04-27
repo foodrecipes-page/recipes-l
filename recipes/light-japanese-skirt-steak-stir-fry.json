@@ -1,0 +1,90 @@
+{
+  "title": "Light Japanese Skirt Steak Stir-fry",
+  "description": "A fresh and light Japanese dish featuring skirt steak, served as a sick-day meal due to its low-fat content.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "150g",
+      "notes": "trimmed and sliced thinly"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "green onion",
+      "amount": "4-6",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium or tamari for vegan option"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "scallion (green onions)",
+      "amount": "6-8",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Heat the sesame oil and add the thinly sliced skirt steak. Cook until browned, about 2 minutes per side.",
+    "Add minced ginger and garlic to the pan; cook for an additional minute until fragrant but not burnt.",
+    "Push the steak aside and stir in red bell pepper strips. Cook for another 2-3 minutes or until slightly softened.",
+    "Return the steak to the wok with vegetables, pour in soy sauce (or tamari), cover and simmer gently for about 1 minute.",
+    "Sprinkle chopped green onions on top and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-japanese-stir-fry",
+    "low-fat-friendly",
+    "fresh-skirt-steak"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "light-japanese-skirt-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-japanese-skirt-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:21:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "skirty steak",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Skirt Steak",
+    "descriptor": "Light",
+    "dishForm": "Stir-fry"
+  }
+}
