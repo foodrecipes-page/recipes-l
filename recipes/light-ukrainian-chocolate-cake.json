@@ -1,0 +1,88 @@
+{
+  "title": "Light Ukrainian Chocolate Cake",
+  "description": "A light and floral chocolate cake that is perfect for kids and gluten-free friendly. The plain chocolate cake serves as a beautiful introduction to the flavors of Ukraine without overwhelming sweet tastes.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose Gluten-Free Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsweetened Cocoa Powder",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Non-Dairy Milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C). Grease a cake pan and line with parchment paper.",
+    "In a large mixing bowl, combine the all-purpose gluten-free flour, cocoa powder, brown sugar, oil, eggs, milk, vanilla extract, salt, and baking soda. Mix until well combined; be careful not to overmix.",
+    "Pour batter into prepared pan and bake for 30-35 minutes or until a toothpick inserted comes out clean.",
+    "Allow cake to cool in the pan before removing parchment paper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "floral",
+    "kid-friendly",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "light-ukrainian-chocolate-cake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-ukrainian-chocolate-cake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:34:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "plain chocolate",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Light",
+    "dishForm": "Cake"
+  }
+}
