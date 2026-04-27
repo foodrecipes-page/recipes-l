@@ -1,0 +1,91 @@
+{
+  "title": "Light Italian Mixed Grain Stir-fry",
+  "description": "A fresh and light Italian dish featuring mixed grain, toasted grains, and a dairy-free-friendly sauce, perfect for a monsoon-inspired meal.",
+  "cuisine": "Italian (Sicilian style)",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed Grain",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Toast Sesame Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Toast sesame seeds in a dry pan until golden brown, then grind them into powder.",
+    "Sauté garlic and onion until translucent, add pepper and cook for another minute.",
+    "Add mixed grains to the pan with vegetable oil. Stir-fry until they start to crisp up.",
+    "Pour tomato sauce over the grains. Add dried oregano and salt, stir well.",
+    "Cook for an additional 5 minutes until all ingredients are heated through.",
+    "Garnish with the toasted sesame powder if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-italian",
+    "mixed-grain-stir-fry",
+    "sauce-free",
+    "sesame-seeds",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "light-italian-mixed-grain-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-italian-mixed-grain-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:45:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "toast",
+    "primaryIngredient": "mixed grain",
+    "diet": "dairy-free",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mixed grain",
+    "descriptor": "Light",
+    "dishForm": "Stir-fry"
+  }
+}
