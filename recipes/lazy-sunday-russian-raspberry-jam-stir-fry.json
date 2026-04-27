@@ -1,0 +1,63 @@
+{
+  "title": "Lazy-Sunday Russian Raspberry Jam Stir-fry",
+  "description": "A dense and flavorful fusion of fermented raspberry jam with a touch of smokiness, perfect for lazy Sundays when you want something quick yet satisfying.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberry Jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Smoked Paprika Powder",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Warm the olive oil in a small pan over low heat.",
+    "Add the raspberry jam and mix until well combined, stirring gently to avoid smashing the berries too much.",
+    "Stir in smoked paprika powder until evenly distributed and heated through but not burnt.",
+    "Serve immediately as a sweet and smoky accompaniment or spread on toast for added flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "russian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 103,
+    "protein": 0,
+    "carbs": 24.75,
+    "fat": 8.9
+  },
+  "slug": "lazy-sunday-russian-raspberry-jam-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-russian-raspberry-jam-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:51:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "smoke",
+    "primaryIngredient": "raspberry jam",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Raspberry Jam",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
