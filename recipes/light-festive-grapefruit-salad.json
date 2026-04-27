@@ -1,0 +1,68 @@
+{
+  "title": "Light Festive Grapefruit Salad",
+  "description": "A floral and light Filipino dish featuring grapefruit juice, broiled to perfection in a dairy-free-friendly manner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grapefruit",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "a small handful",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "for broiling"
+    }
+  ],
+  "instructions": [
+    "Wash and slice the grapefruit into thin wedges.",
+    "In a large bowl, mix together the sliced grapefruit and some sesame seeds (if using).",
+    "Preheat your broiler to high heat.",
+    "Place the grapefruit slices on a baking sheet lined with parchment paper. Sprinkle with salt.",
+    "Broil for about 2 minutes per side or until lightly caramelized and slightly crispy.",
+    "Serve immediately as a light festive snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 3,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-festive",
+    "grapefruit-salad",
+    "filipino-dish",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 35,
+    "protein": 0.5,
+    "carbs": 6,
+    "fat": 1
+  },
+  "slug": "light-festive-grapefruit-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-festive-grapefruit-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:52:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "broil",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Grapefruit",
+    "descriptor": "Light Festive",
+    "dishForm": "Salad"
+  }
+}
