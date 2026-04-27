@@ -1,0 +1,92 @@
+{
+  "title": "Low Cali Friendly Portuguese Mincemeat Stir-fry",
+  "description": "A low-calorie-friendly brunch dish featuring a tender and umami-flavored stir-fry using Portuguese mincemeat, designed for those watching their calorie intake.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-calorie",
+    "low-sodium"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Portuguese Mincemeat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 small, chopped finely"
+    },
+    {
+      "name": "Yellow Peppers",
+      "amount": "1 small, chopped finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water or Chicken Stock",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant.",
+    "Add Portuguese mincemeat to the pan, stirring continuously for 2-3 minutes until heated through.",
+    "Fold in finely chopped red peppers, yellow peppers, and onion. Stir fry for an additional 2-3 minutes.",
+    "Pour in lemon juice and water or chicken stock. Let it come to a simmer.",
+    "Season with salt and pepper to taste. Reduce heat if needed to maintain the sauce's consistency.",
+    "Stir-fry until all ingredients are tender and well combined, about 5-7 more minutes.",
+    "Serve hot as part of your brunch dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "low-calorie-friendly",
+    "portuguese-mincemeat"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "low-cali-friendly-portuguese-mincemeat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-cali-friendly-portuguese-mincemeat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:42:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "boil",
+    "primaryIngredient": "mincemeat",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Low Calorie Friendly",
+    "dishForm": "Stir-fry"
+  }
+}
