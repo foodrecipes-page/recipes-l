@@ -1,0 +1,79 @@
+{
+  "title": "Lightly Smoked Irish Lettuce Wraps",
+  "description": "A savory and light dish featuring lettuce wraps made with smoked flavors for a post-workout meal.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lettuce leaves",
+      "amount": "12-16 pieces"
+    },
+    {
+      "name": "Smoked salmon",
+      "amount": "3 oz"
+    },
+    {
+      "name": "Low-sodium crumbled feta cheese (halal)",
+      "amount": "30g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill (diced)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Minced garlic (fresh or roasted, about 2 cloves)",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Place the lettuce leaves on a baking sheet. If using fresh dill, finely chop it and sprinkle over the lettuce for added freshness.",
+    "Mix together olive oil, minced garlic, salt, pepper, and fresh dill in a small bowl. Drizzle this mixture onto each lettuce leaf to lightly coat them evenly.",
+    "Top the lettuce leaves with smoked salmon and crumbled feta cheese. Allow them to sit at room temperature for 10 minutes before serving, or keep refrigerated until ready to serve.",
+    "Serve immediately as a refreshing snack that's perfect post-workout."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lightly-smoked",
+    "irish-lettuce-wraps",
+    "post-workout-meal",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "lightly-smoked-irish-lettuce-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-irish-lettuce-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:49:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "lettuce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Lightly Smoked",
+    "dishForm": "Wraps"
+  }
+}
