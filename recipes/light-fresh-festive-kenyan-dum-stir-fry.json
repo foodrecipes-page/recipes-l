@@ -1,0 +1,92 @@
+{
+  "title": "Light Fresh Festive Kenyan Dum Stir-fry",
+  "description": "A fresh and festive Kenyan dish featuring spaghetti and dumplings in a light sauce, ideal for any meal time.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh Dumplings",
+      "amount": "100g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili Pepper(s)",
+      "amount": "1-2, finely chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, finely diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Bay Leaf",
+      "amount": "1-2"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "juice of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium heat.",
+    "Add finely chopped garlic and chili peppers, cook for about 30 seconds until fragrant.",
+    "Stir in finely diced onion and tomato, cook until softened and slightly browned.",
+    "Fold in the dumplings gently with a spoon. Add salt to taste.",
+    "Pour the lemon juice over everything, stirring quickly to combine all ingredients evenly.",
+    "Serve hot as an accompaniment to rice or can be eaten on its own."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kitchen-dinner",
+    "spaghetti-and-dumplings",
+    "light-kitchen",
+    "festive-kenyan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "light-fresh-festive-kenyan-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fresh-festive-kenyan-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:57:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "dum",
+    "primaryIngredient": "spaghetti",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "dum",
+    "descriptor": "Fresh Light Festive",
+    "dishForm": "Stir-fry"
+  }
+}
