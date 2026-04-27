@@ -1,0 +1,86 @@
+{
+  "title": "Light Boil Pork Stir-fry",
+  "description": "A quick-fix Chinese dish featuring ground pork and a light broth for vegetarians or those following a pescatarian diet.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 cup",
+      "notes": "Pre-cooked, available in most supermarkets."
+    },
+    {
+      "name": "Vegetable Broth Base (optional)",
+      "amount": "2 tablespoons",
+      "notes": "For vegetarians or vegans, a vegetable broth can be used instead of a pork broth."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1 stalk",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1/4 cup",
+      "notes": "Or Hoisin sauce for a sweeter flavor, optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added umami and protein boost"
+    },
+    {
+      "name": "Cornstarch Slurry",
+      "amount": "1 tablespoon cornstarch mixed with 1.5 tablespoons water",
+      "notes": "To thicken the sauce"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat, add vegetable broth base and ground pork, cook until pork is lightly browned.",
+    "Add minced garlic and stir for about 30 seconds, then mix in oyster sauce or hoisin sauce (if used), soy sauce, and cornstarch slurry.",
+    "Stir continuously to prevent clumping of ingredients. Bring to a simmer and let the mixture thicken slightly.",
+    "Remove from heat once the broth has thickened as desired, stir in finely chopped green onions before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-boil-pork-stir-fry",
+    "quick-chinese-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "light-boil-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-boil-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:50:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "ground pork",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Boil Light",
+    "dishForm": "Stir-fry"
+  }
+}
