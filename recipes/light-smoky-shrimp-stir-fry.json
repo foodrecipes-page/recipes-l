@@ -1,0 +1,95 @@
+{
+  "title": "Light Smoky Shrimp Stir-fry",
+  "description": "A midnight-craving French dish featuring jumbo shrimp in a smoky and light sauce, perfect for Mediterranean-friendly meals.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "12-14 pieces"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "a few"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic, red pepper flakes, and paprika; sauté for about 30 seconds.",
+    "Throw in shallots and cook until translucent, around 2 minutes.",
+    "Toss in shrimp, almond meal, chicken broth, lemon zest, Dijon mustard, and thyme leaves. Stir well to coat the shrimp evenly.",
+    "Simmer gently for approximately 4-5 minutes until the sauce slightly thickens and the shrimp are opaque but still tender.",
+    "Serve hot over steamed rice or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-smoky-shrimp-stir-fry",
+    "jumbo-shrimp",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 17
+  },
+  "slug": "light-smoky-shrimp-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-smoky-shrimp-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:23:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Smoky Light",
+    "dishForm": "Stir-fry"
+  }
+}
