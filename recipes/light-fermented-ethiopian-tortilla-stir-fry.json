@@ -1,0 +1,72 @@
+{
+  "title": "Light Fermented Ethiopian Tortilla Stir-fry",
+  "description": "A comforting gluten-free Ethiopian dish featuring fermented tortillas that are stir-fried and served with a light sauce for a delightful breakfast or snack.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented tortillas",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced finely"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/4 medium",
+      "notes": "chopped thinly"
+    },
+    {
+      "name": "Green onions",
+      "amount": "6",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide machine to 70°C (158°F) for vacuum-sealed tortillas.",
+    "Place fermented tortillas in a sous-vide bag and seal it. Cook for 30 minutes at the preheated temperature.",
+    "Heat a non-stick skillet over medium heat. Add minced garlic, green onions, and red bell pepper to sauté until fragrant and softened.",
+    "Remove tortillas from the oven and place them on a clean plate. Drizzle with olive oil and serve the stir-fry mixture alongside the tortillas.",
+    "Enjoy your Light Fermented Ethiopian Tortilla Stir-fry as an accompaniment to yogurt or served over a bed of greens."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light-ethiopian",
+    "stir-fry-tortilla",
+    "fermented-dish",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 22,
+    "carbs": 41,
+    "fat": 20
+  },
+  "slug": "light-fermented-ethiopian-tortilla-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fermented-ethiopian-tortilla-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:46:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "tortillas",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Tortilla",
+    "descriptor": "Fermented Light Comfortable",
+    "dishForm": "Stir-fry"
+  }
+}
