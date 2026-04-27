@@ -1,0 +1,85 @@
+{
+  "title": "Light Floral Indulgent Irish Soy Milk Stir-fry",
+  "description": "A light and indulgent vegan dish featuring soy milk as the main ingredient, infused with floral notes from herbs and spices for a unique twist on traditional stir-fries.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soy Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Herbs (Thyme, Rosemary)",
+      "amount": "a handful each"
+    },
+    {
+      "name": "Spices (Pepper, Nutmeg)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Shallots",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium heat.",
+    "Add shallots and carrots, cook until they soften slightly.",
+    "Stir in herbs and spices. Cook for another minute to infuse the dish with their flavors.",
+    "Pour in soy milk and vegetable broth. Stir well to combine.",
+    "Increase heat to high, bring to a boil and then reduce to low, allowing it to simmer for 5 minutes until slightly thickened.",
+    "Stir in green peppers and cook for an additional minute or so.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-floral",
+    "indulgent-irish",
+    "vegan-friendly",
+    "soy-milk-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 48,
+    "fat": 7
+  },
+  "slug": "light-floral-indulgent-irish-soy-milk-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-floral-indulgent-irish-soy-milk-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:22:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "soy milk",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Soy Milk",
+    "descriptor": "Floral Light Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
