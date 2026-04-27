@@ -1,0 +1,85 @@
+{
+  "title": "Light French Suet Pie",
+  "description": "A rich and comforting French dish featuring suet, marinated with herbs and spices, perfectly adapted for a whole30-friendly diet.",
+  "cuisine": "French",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "suet (tallow)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh herbs (optional)",
+      "amount": "few sprigs of thyme or rosemary, roughly chopped"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Melt the unsalted butter and suet in a small saucepan over medium heat. Stir in flour, cocoa powder, and ground cinnamon.",
+    "Add vanilla extract and herbs, if using. Mix until smooth.",
+    "Gradually add whole milk while stirring continuously to prevent lumps from forming. Stir until mixture is thickened (about 1 minute).",
+    "Pour the suet mixture into a greased pie dish. Allow to cool slightly before refrigerating for at least an hour to set.",
+    "Serve cold or at room temperature, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "suet pie",
+    "whole30",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 248,
+    "protein": 11,
+    "carbs": 27,
+    "fat": 15
+  },
+  "slug": "light-french-suet-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-french-suet-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:18:55Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "suet",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "suet",
+    "descriptor": "Light",
+    "dishForm": "Pie"
+  }
+}
