@@ -1,0 +1,86 @@
+{
+  "title": "Light Comforting Doner Wraps",
+  "description": "A light and comforting French dish featuring doner meat wrapped in a crisp wrap for high-protein-friendly snacking.",
+  "cuisine": "French",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 small baguette or whole wheat pita bread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "2 oz doner meat (turkey or chicken)",
+      "amount": "2 oz, sliced thinly"
+    },
+    {
+      "name": "1 tbsp fresh garlic paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "Juice of 1 lemon"
+    },
+    {
+      "name": "2 sprigs fresh parsley",
+      "amount": "2 sprigs (chopped)"
+    },
+    {
+      "name": "1/4 cup diced pickled red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Slice the baguette or pita bread into rounds.",
+    "Place a slice of doner meat on each piece of bread.",
+    "Spread garlic paste over the top of the meat.",
+    "Squeeze lemon juice evenly over the garlic mixture.",
+    "Chop parsley and sprinkle it over the meat.",
+    "Add diced pickled red onion on top.",
+    "Season with salt and pepper.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "doner",
+    "wraps",
+    "light",
+    "comforting",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 87,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "light-comforting-doner-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-comforting-doner-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:26:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "doner meat",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Doner Meat",
+    "descriptor": "Garlicky Light Comforting",
+    "dishForm": "Wraps"
+  }
+}
