@@ -1,0 +1,88 @@
+{
+  "title": "Cozy Earthy Lightly Spiced Saudi Fish Stir-fry",
+  "description": "A light and earthy vegan-friendly dish featuring fish seasoning in a quick stir-fry that's perfect for any meal.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "200g tilapia fillets",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "1 red bell pepper, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "1 yellow onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 garlic clove, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil or vegan alternative",
+      "amount": ""
+    },
+    {
+      "name": "2 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Season the tilapia fillets with salt, pepper, ground cumin, and smoked paprika. Set aside.",
+    "In the same skillet, add olive oil or vegan alternative. Once heated, add onions and garlic, sautéing for 2 minutes until translucent.",
+    "Add bell peppers and continue to stir-fry for another minute, until they slightly soften.",
+    "Gently place the seasoned tilapia fillets into the skillet. Cook for about 3-4 minutes on each side or until fully cooked through.",
+    "Remove from heat and serve hot with steamed vegetables if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "earthly",
+    "light",
+    "saudi",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "lightly-spiced-saudia-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spiced-saudia-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:30:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "fish seasoning",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "fish",
+    "descriptor": "Lightly Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
