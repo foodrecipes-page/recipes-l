@@ -1,0 +1,79 @@
+{
+  "title": "Light Uruguayan Coconut Stir-fry",
+  "description": "A light and flavorful dish featuring coconut cream in an air fryer to cure hangovers, perfect for a quick breakfast or snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Coconut Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4-6 stalks",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1-2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Place coconut cream in a bowl and add soy sauce, mix well to combine.",
+    "Heat olive oil in an air fryer basket at high heat.",
+    "Add chopped green onions and garlic cloves to the heated oil and cook until fragrant.",
+    "Pour the mixed coconut cream mixture into the air fryer with the cooked vegetables.",
+    "Cook on medium-high for about 5 minutes or until slightly thickened, stirring occasionally.",
+    "Season with black pepper if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light-cooking",
+    "coconut-cream-dish",
+    "uruguayan-snack"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 4
+  },
+  "slug": "light-uruguayan-coconut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-uruguayan-coconut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:21:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "coconut cream",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Coconut",
+    "descriptor": "Light",
+    "dishForm": "Stir-fry"
+  }
+}
