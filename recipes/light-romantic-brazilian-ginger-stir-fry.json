@@ -1,0 +1,87 @@
+{
+  "title": "Light Romantic Brazilian Ginger Stir-fry",
+  "description": "A light and romantic dish featuring floral notes from ground ginger, cooked at low temperatures to ensure a tender texture and low-calorie-friendly meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground ginger",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "2 pieces, diced"
+    },
+    {
+      "name": "mixed greens (arugula and endive)",
+      "amount": "30g"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "20g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced garlic cloves",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok over medium-high heat.",
+    "Add minced garlic and stir-fry for about 30 seconds until fragrant.",
+    "Fold in ground ginger and cook for another minute, stirring constantly to avoid burning.",
+    "Stir in chicken pieces and soy sauce; cover and simmer for approximately 5 minutes or until the chicken is cooked through and tender.",
+    "Toss in cherry tomatoes and continue cooking for about 2 minutes more.",
+    "Add mixed greens on top of the stir-fry just before serving to keep them fresh and bright, stirring gently not to break them apart."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "romantic",
+    "brazilian",
+    "stir-fry",
+    "ginger"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 9,
+    "carbs": 4,
+    "fat": 2
+  },
+  "slug": "light-romantic-brazilian-ginger-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-romantic-brazilian-ginger-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:19:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "ground ginger",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Ginger",
+    "descriptor": "Light Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
