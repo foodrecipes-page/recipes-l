@@ -1,0 +1,67 @@
+{
+  "title": "Light Midnight-Craving British Butter Wrap",
+  "description": "A light and buttery British dish featuring casabe, a whole30-friendly flatbread alternative, combined with roast vegetables to create a midnight-craving meal.",
+  "cuisine": "British",
+  "diet": [
+    "whole30",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Casabe Bread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Roasted Vegetables (e.g. Brussels sprouts, carrots)",
+      "amount": "4 oz",
+      "notes": "Choose from a variety of whole roasted vegetables."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Use organic or clarified butter for a richer flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Place the Casabe bread on a baking sheet and drizzle with melted butter. Bake for 2-3 minutes until golden brown.",
+    "Meanwhile, arrange the roasted vegetables in a single layer on another baking sheet and roast at 425°F (220°C) for about 15-20 minutes or until tender and slightly caramelized.",
+    "To assemble, spread roasted vegetable puree evenly over the Casabe bread, followed by placing the crispy Casabe piece inside to create a wrap-like structure. Top with additional butter to enhance its flavor.",
+    "Serve hot as an appetizer or small snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "casabe",
+    "british-butter-wrap",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 9
+  },
+  "slug": "light-midnight-craving-british-butter-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-midnight-craving-british-butter-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:09:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "casabe",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Butter",
+    "descriptor": "Light Midnight-Craving Whole30-Friendly",
+    "dishForm": "Wrap"
+  }
+}
