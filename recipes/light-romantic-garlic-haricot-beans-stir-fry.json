@@ -1,0 +1,75 @@
+{
+  "title": "Light Romantic Garlic Haricot Beans Stir-fry",
+  "description": "A light and romantic Ukrainian dish featuring haricot beans, sautéed with garlic for a simple yet delicious meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup dried haricot beans",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 onion",
+      "amount": "medium"
+    },
+    {
+      "name": "3 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried haricot beans and soak them in water for at least 6 hours or overnight.",
+    "Drain the soaked beans, rinse under cold water, then add to a pot with enough fresh water. Bring to a boil, reduce heat, cover, and simmer until tender (about 1 hour).",
+    "While the beans are cooking, chop the garlic finely and thinly slice the onion.",
+    "Heat olive oil in a skillet over medium-high heat. Add chopped garlic and sauté for about 30 seconds or until fragrant.",
+    "Add sliced onions to the skillet with the garlic. Cook for another minute until they start to soften slightly.",
+    "Add cooked haricot beans, salt, and pepper to taste. Stir well to combine all ingredients evenly.",
+    "Reduce heat to low and let everything simmer together in the skillet for about 5 minutes or until the sauce thickens a bit."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "light",
+    "romantic",
+    "ukrainian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "light-romantic-garlic-haricot-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-romantic-garlic-haricot-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:45:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "saute",
+    "primaryIngredient": "haricot beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Haricot beans",
+    "descriptor": "Garlicky Light Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
