@@ -1,0 +1,95 @@
+{
+  "title": "Light Show-off Argentinian Chicken Salad",
+  "description": "A rich and light dish featuring a blend of cumin-spiced chicken with raw-friendly vegetables for a show-off Argentinean meal.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless Chicken Breast",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tablespoons fresh, chopped"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium, finely diced"
+    },
+    {
+      "name": "Jalapeno Pepper",
+      "amount": "1 small, seeded and finely chopped (adjust for heat preference)"
+    },
+    {
+      "name": "Limes",
+      "amount": "Juice of 2 limes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "A few tablespoons, to taste"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4 cloves, minced"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Romaine Lettuce",
+      "amount": "A handful, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine minced garlic and cumin powder. Season with salt and pepper.",
+    "Cut the chicken into bite-sized pieces. Add them to the spice mixture, toss well, and marinate for at least 20 minutes or up to several hours in the refrigerator.",
+    "Heat olive oil in a non-stick skillet over medium-high heat. Remove chicken from marinade and discard excess liquid. Sear the chicken until golden brown on all sides, about 5-7 minutes per side.",
+    "Remove chicken from skillet and set aside. Pour out any remaining fat from the skillet and wipe clean or add new oil if needed.",
+    "Add red onion and jalapeno to the skillet. Cook for another minute before adding cilantro. Stir in lime juice. Sauté until onions become translucent, about 2-3 minutes more.",
+    "Return chicken to the skillet with the vegetables, toss gently. Remove from heat.",
+    "Divide lettuce leaves on plates or bowls. Spoon chicken mixture over the top. Drizzle with extra lime juice and additional olive oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentine",
+    "light",
+    "show-off",
+    "cumin",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 16,
+    "fat": 8
+  },
+  "slug": "light-show-off-argentinian-chicken-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-show-off-argentinian-chicken-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:38:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "cumin",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Light Show-off",
+    "dishForm": "Salad"
+  }
+}
