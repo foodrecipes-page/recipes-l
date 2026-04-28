@@ -1,0 +1,80 @@
+{
+  "title": "Light Nutty Almond Crumble",
+  "description": "A light and indulgent almond crumble featuring cornmeal, a hint of sweetness from dates, and broiled to perfection for an Italian-inspired dessert dish that's also jain-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour"
+    },
+    {
+      "name": "3/4 cup cornstarch"
+    },
+    {
+      "name": "1/2 cup quick-cooking oats"
+    },
+    {
+      "name": "1/4 cup shredded dates"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Pinch of cinnamon"
+    },
+    {
+      "name": "2 tablespoons coconut oil, melted"
+    },
+    {
+      "name": "2 tablespoons maple syrup or honey"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to broil.",
+    "Combine almond flour, cornstarch, oats, dates, salt, and cinnamon in a mixing bowl. Stir until well combined.",
+    "Add the melted coconut oil and maple syrup/honey, stirring continuously to create a smooth dough.",
+    "Press the dough mixture into an 8x8 inch baking dish lined with parchment paper.",
+    "Bake at broil setting for about 10 minutes or until golden brown. Watch carefully as it can burn quickly.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "indulgent",
+    "almond",
+    "crumble",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 6
+  },
+  "slug": "light-nutty-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-nutty-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:20:19Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "cornmeal",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Nutty Light Indulgent",
+    "dishForm": "Crumble"
+  }
+}
