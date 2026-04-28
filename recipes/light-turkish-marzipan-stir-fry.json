@@ -1,0 +1,115 @@
+{
+  "title": "Light Turkish Marzipan Stir-fry",
+  "description": "A rich and dense dish featuring marzipan mixed with bhuna spices in a light sauce for a unique pescatarian-friendly treat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Marzipan",
+      "amount": "100g",
+      "notes": "Use vegan marzipan if needed."
+    },
+    {
+      "name": "Bhuna Spices (Turkish Blend)",
+      "amount": "2 tsp",
+      "notes": "Can be adjusted for spice level."
+    },
+    {
+      "name": "Heavy Cream or Coconut Milk",
+      "amount": "150ml",
+      "notes": "For a lighter texture, add a splash of water if needed."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying the vegetables."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped for adding to the sauce."
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Finely minced or pressed, adds depth and flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp grated fresh ginger",
+      "notes": "For extra umami and freshness."
+    },
+    {
+      "name": "Capsicum (Bell Pepper)",
+      "amount": "2 pieces",
+      "notes": "Chopped for color contrast and additional vitamins."
+    },
+    {
+      "name": "Almonds, finely ground or chopped",
+      "amount": "10g",
+      "notes": "To add crunch to the dish."
+    },
+    {
+      "name": "Sugar",
+      "amount": "50g",
+      "notes": "For sweetness; optional if using marzipan with natural sweetness."
+    },
+    {
+      "name": "Turkish Delight (optional)",
+      "amount": "2 pieces",
+      "notes": "For a sweet and gel-like texture to complement the dish."
+    },
+    {
+      "name": "Water",
+      "amount": "50ml",
+      "notes": "To thin out the sauce if needed, keeps it light."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Melt the vegan or regular marzipan in a small saucepan with a bit of sugar and water.",
+    "Meanwhile, stir-fry onion, garlic, ginger, capsicum in oil over medium heat until translucent.",
+    "Add Bhuna spices to the stir-fried vegetables and cook for 1 minute. Stir in the melted marzipan mixture.",
+    "Simmer gently for about 5 minutes or until the sauce thickens slightly.",
+    "Fold in finely chopped almonds, Turkish Delight if using, and garnish with a piece of fruit (optional).",
+    "Serve warm as a dessert or light snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "light",
+    "turkish",
+    "marzipan",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "light-turkish-marzipan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-turkish-marzipan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:16:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "bhuna",
+    "primaryIngredient": "marzipan",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Marzipan",
+    "descriptor": "Light",
+    "dishForm": "Stir-fry"
+  }
+}
