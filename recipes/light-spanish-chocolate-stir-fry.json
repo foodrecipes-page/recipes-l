@@ -1,0 +1,79 @@
+{
+  "title": "Light Spanish Chocolate Stir-fry",
+  "description": "A quick-fix, herbal dish featuring cocoa powder and bhuna spices in a light and healthy stir-fry that is also fodmap-friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "herbal",
+    "low-carb",
+    "keto",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bhuna Masala (adjust to taste)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "Bell Pepper, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cilantro (optional for garnish)",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onions and bell pepper slices. Stir-fry until the vegetables are slightly softened, about 5 minutes.",
+    "Stir in cocoa powder and bhuna masala. Mix well to combine all ingredients.",
+    "Reduce heat to low, let it simmer for another minute or two until the flavors are well combined.",
+    "Serve hot with a side of fresh cilantro if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light-spanish",
+    "chocolate-stir-fry",
+    "fodmap-friendly-diet"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 5,
+    "carbs": 7,
+    "fat": 3
+  },
+  "slug": "light-spanish-chocolate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-spanish-chocolate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:52:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "cocoa powder",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chocolate",
+    "descriptor": "Light",
+    "dishForm": "Stir-fry"
+  }
+}
