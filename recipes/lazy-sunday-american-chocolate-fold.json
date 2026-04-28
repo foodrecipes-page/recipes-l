@@ -1,0 +1,58 @@
+{
+  "title": "Lazy-Sunday American Chocolate Fold",
+  "description": "A simple and indulgent chocolate dish perfect for a lazy Sunday with just the right amount of richness and warmth.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plain dark chocolate",
+      "amount": "100g",
+      "notes": "At least 65% cocoa for a rich flavor."
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Melt the plain dark chocolate in a heatproof bowl placed over a pot of simmering water. Ensure not to let the bottom touch the water.",
+    "While the chocolate is melting, pour the heavy cream into another clean bowl and bring it to just below boiling point (just avoid the temperature where it starts to boil vigorously).",
+    "Once both are at their ideal temperatures, slowly fold one mixture into the other. This helps prevent any separation of the fat from the solid chocolate.",
+    "Let the mix sit for a few minutes until it becomes thick and creamy. Serve warm or room temperature as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "cream",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 11,
+    "carbs": 59,
+    "fat": 27
+  },
+  "slug": "lazy-sunday-american-chocolate-fold",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-american-chocolate-fold",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:17:54Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "plain chocolate",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chocolate",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Fold"
+  }
+}
