@@ -1,0 +1,96 @@
+{
+  "title": "Low-Fat Crunchy Herbal Stir-fry",
+  "description": "This sick-day Russian dish features a low-fat friendly herbal stir-fry seasoned with hot sauce and marinated vegetables for added flavor and texture.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-fat",
+    "keto",
+    "intermittent-fasting"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bell peppers, green",
+      "amount": "1 medium",
+      "notes": "use low fat variety if available"
+    },
+    {
+      "name": "bell peppers, red",
+      "amount": "1 medium",
+      "notes": "use low fat variety if available"
+    },
+    {
+      "name": "onions, yellow or white",
+      "amount": "2 small",
+      "notes": "use organic if possible"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "use low fat varieties if available"
+    },
+    {
+      "name": "low-fat croutons",
+      "amount": "4 tablespoons",
+      "notes": "ensure they are low fat and gluten-free if needed"
+    },
+    {
+      "name": "honey mustard vinaigrette dressing",
+      "amount": "2 tablespoons",
+      "notes": "ensure it is low in calories and sugar"
+    },
+    {
+      "name": "low-fat hot sauce",
+      "amount": "1 tablespoon",
+      "notes": "use a mild variety to avoid overpowering the flavors"
+    },
+    {
+      "name": "mixed herbs (such as parsley, dill, mint)",
+      "amount": "1/4 cup",
+      "notes": "ensure they are low in calories"
+    }
+  ],
+  "instructions": [
+    "Prepare all vegetables by washing and cutting into thin strips.",
+    "Marinate the bell peppers, zucchini, onions, and mixed herbs in the honey mustard vinaigrette for at least 30 minutes to an hour.",
+    "Heat a pan over medium-high heat and add the marinated vegetables.",
+    "Stir-fry until tender but still crisp, adding the hot sauce towards the end of cooking to avoid burning.",
+    "Toss with low-fat croutons and serve immediately.",
+    "Garnish with additional mixed herbs for added freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "herbal",
+    "crunchy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "low-fat-crunchy-herbal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-crunchy-herbal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:04:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "marinate",
+    "primaryIngredient": "hotsauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "herb",
+    "descriptor": "Crunchy Low-Fat",
+    "dishForm": "Stir-fry"
+  }
+}
