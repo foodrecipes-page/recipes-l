@@ -1,0 +1,78 @@
+{
+  "title": "Light Roasted Nutty Salad",
+  "description": "An adventurous Argentinian dish featuring roasted soy milk nuts and other low-calorie-friendly ingredients for a light and nutritious meal.",
+  "cuisine": "Argentine",
+  "diet": [
+    "vegan",
+    "lactose-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Soy Milk Nuts",
+      "amount": "20g"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Tomatoes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Diced Red Onion",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh Parsley Leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Yogurt Dip (for serving)",
+      "amount": "1 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place soy milk nuts on a baking sheet and roast for about 10 minutes or until golden brown.",
+    "In a large bowl, combine roasted soy milk nuts with mixed greens, chopped tomatoes, diced red onion, and fresh parsley leaves.",
+    "Garnish with soy yogurt dip if desired. Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light-roasted-nutty-salad",
+    "argentine-dish",
+    "low-calorie-friendly",
+    "vegan-recipe",
+    "lactose-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "light-roasted-nutty-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-roasted-nutty-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:29:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "roast",
+    "primaryIngredient": "soy milk",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "nuts",
+    "descriptor": "Nutty Light Roasted",
+    "dishForm": "Salad"
+  }
+}
