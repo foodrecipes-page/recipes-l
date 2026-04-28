@@ -1,0 +1,82 @@
+{
+  "title": "Light Roasted Norwegian Cashew Nut Stir-fry",
+  "description": "A floral and velvety light dish featuring roasted cashew nuts in a halal-friendly stir-fry that highlights the unique flavor of this nut.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch (chopped)"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 (minced)"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Shell and rinse the cashew nuts. Toss them in a bowl with 1 tablespoon of sesame oil, salt, and pepper.",
+    "Spread the coated cashews evenly on a baking sheet lined with parchment paper. Roast for about 20 minutes or until they are golden brown and crispy.",
+    "Meanwhile, in a small mixing bowl, combine soy sauce, ginger paste, green onions, and remaining 1 tablespoon of sesame oil. Mix well to make a dressing.",
+    "In a wok or large skillet, heat the remaining tablespoon of sesame oil over medium-high heat. Add minced garlic and stir for about 30 seconds until fragrant but not browned.",
+    "Add roasted cashews, green onions, and ginger paste mixture to the wok. Stir well until all ingredients are evenly coated with the dressing.",
+    "Cook for an additional 2-3 minutes or until the liquid has mostly evaporated and you have a velvety consistency.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-roasted",
+    "stir-fry",
+    "cashew-nuts",
+    "floral",
+    "velvety",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "light-roasted-norwegian-cashew-nut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-roasted-norwegian-cashew-nut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:24:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "cashew nuts",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cashew nuts",
+    "descriptor": "light roasted",
+    "dishForm": "Stir-fry"
+  }
+}
