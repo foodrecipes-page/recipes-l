@@ -1,0 +1,83 @@
+{
+  "title": "Light Korean Cottage Cheese Stir-fry",
+  "description": "A light and healthy meal-prep option featuring cottage cheese in a quick stir-fry with minimal oil and spices for a halal-friendly dish.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup light cottage cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "tbsp",
+      "notes": "use low sodium if available"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "clove"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 tablespoons low-sodium soy sauce (or tamari for a gluten-free option)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup mixed frozen vegetables (e.g., carrots, peas)",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cottage cheese with lemon juice and minced garlic.",
+    "Add soy sauce, black pepper, and salt to taste. Stir well.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat until shimmering.",
+    "Pour the mixture into the heated pan and stir-fry for about 3-4 minutes, or until vegetables are tender-crisp and cheese is warm but not fully melted.",
+    "Garnish with fresh herbs like mint or cilantro if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "cottage cheese",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 36,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "light-korean-cottage-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-korean-cottage-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:27:01Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "cottage cheese",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Cottage Cheese",
+    "descriptor": "light",
+    "dishForm": "Stir-fry"
+  }
+}
