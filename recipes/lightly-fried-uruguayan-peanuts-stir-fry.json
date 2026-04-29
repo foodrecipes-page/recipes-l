@@ -1,0 +1,73 @@
+{
+  "title": "Lightly Fried Uruguayan Peanuts Stir-fry",
+  "description": "A light and kid-friendly dish featuring fresh peanuts stir-fried with a touch of dairy-free sauce for a simple snack or appetizer.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup",
+      "amount": "peanuts"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "olive oil"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "notes": "For deglazing and adding acidity to the dish."
+    },
+    {
+      "name": "Pinch",
+      "amount": "salt"
+    },
+    {
+      "name": "Pinch",
+      "amount": "black pepper"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick pan over medium-high heat.",
+    "Add peanuts to the pan and stir-fry for about 2-3 minutes or until lightly toasted and golden brown, shaking the pan occasionally.",
+    "Deglaze with lemon juice by adding it to the pan after the peanuts have started to toast, scraping up any browned bits from the bottom of the pan. Stir well.",
+    "Season with salt and black pepper to taste.",
+    "Remove from heat immediately to prevent burning and for a lighter texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan-peanuts",
+    "light-fried",
+    "kid-friendly",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "lightly-fried-uruguayan-peanuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fried-uruguayan-peanuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:26:51Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "peanuts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Lightly Fried",
+    "dishForm": "Stir-fry"
+  }
+}
