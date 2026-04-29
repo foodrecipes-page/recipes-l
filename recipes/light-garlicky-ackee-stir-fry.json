@@ -1,0 +1,90 @@
+{
+  "title": "Light Garlicky Ackee Stir-fry",
+  "description": "An energizing and light dish featuring ackee mixed with dumplings (likely plantains or bananas), garlic, and other aromatic vegetables for a quick breakfast or snack.",
+  "cuisine": "Slovakian-inspired, adapted",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 fresh ackee fruits",
+      "amount": "each",
+      "notes": "Ensure they are safe to eat and prepared properly"
+    },
+    {
+      "name": "1 cup diced dumplings (banana or plantain)",
+      "amount": "whole",
+      "notes": "Choose ripe, fresh ones if using banana or ensure the correct kind if using plantain"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "minced",
+      "notes": "Fresh is best"
+    },
+    {
+      "name": "1/2 red bell pepper, chopped",
+      "amount": "about 1/2 cup",
+      "notes": "For color and flavor"
+    },
+    {
+      "name": "1 small cucumber, julienned",
+      "amount": "about 1/4 cup",
+      "notes": "Add texture and freshness"
+    },
+    {
+      "name": "1 tablespoon olive oil or vegan alternative",
+      "amount": "full",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Wash ackee under running water and remove any outer skin. Dice the dumplings.",
+    "Heat olive oil in a wok or large skillet over medium heat. Add minced garlic and sauté for about 1 minute until fragrant but not browned.",
+    "Add diced ackee, dumplings, and chopped bell pepper to the pan. Season with salt.",
+    "Stir-fry everything together for about 3-5 minutes until vegetables are tender and flavors meld together.",
+    "Garnish with julienned cucumber if using, then serve hot as a light meal or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "light",
+    "energizing",
+    "ackee",
+    "slovenian-inspired",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 2
+  },
+  "slug": "light-garlicky-ackee-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-garlicky-ackee-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:05:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "dum",
+    "primaryIngredient": "ackee",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ackee",
+    "descriptor": "garlicky light energizing",
+    "dishForm": "Stir-fry"
+  }
+}
