@@ -1,0 +1,86 @@
+{
+  "title": "Lazy Saudia Nutella Stir-fry",
+  "description": "A rich and juicy dish featuring nutella in a low-sodium-friendly stir-fry that's perfect for lazy Sunday mornings.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nutella",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2, beaten"
+    },
+    {
+      "name": "green onions",
+      "amount": "4-6, thinly sliced"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Add nutella and tomato sauce to the skillet. Stir until well combined.",
+    "Fold in bell peppers and onions. Cook for about 5 minutes or until vegetables are tender.",
+    "Pour beaten egg whites into the mixture and stir quickly until scrambled, creating small pasta-like strands.",
+    "Season with low-sodium soy sauce and garlic. Add green onions for extra flavor.",
+    "Serve hot as a snack with whole grain bread or crackers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "saudi-arabian",
+    "stir-fry",
+    "nutella"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "lazy-saudia-nutella-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-saudia-nutella-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:01:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "nutella",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Nutella",
+    "descriptor": "Lazy",
+    "dishForm": "Stir-fry"
+  }
+}
