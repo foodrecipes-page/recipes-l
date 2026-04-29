@@ -1,0 +1,87 @@
+{
+  "title": "Limey Flaky Low-Fat Japanese Buttery Pancake Stir-fry",
+  "description": "A one-pot meal that combines the crispy flakiness of a pancake with the tanginess of lime juice in a savory stir-fry, perfect for those who enjoy light and low-fat options.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter (for frying)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Low-Fat Whipped Cream or Greek Yogurt (optional for topping)",
+      "amount": "1/4 cup",
+      "notes": "For a low-fat and creamy twist"
+    },
+    {
+      "name": "Rice Vinegar (or Rice Wine Vinegar)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime Juice (freshly squeezed)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Green Peppers, finely chopped (optional for extra crunchiness)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shredded Green Onion (scallions) for garnish (optional)",
+      "amount": "",
+      "notes": "For a pop of color and flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the pan over medium-high heat. Add butter and melt it evenly.",
+    "Add minced garlic to the melted butter, cook for about 15 seconds until fragrant but not browned.",
+    "Squeeze in lime juice directly into the butter and garlic mixture, stirring quickly to combine with the ingredients.",
+    "Stir-fry green peppers if using. Cook them until they start to soften slightly, about 2-3 minutes.",
+    "Mix in Greek yogurt or whipped cream for a creamy element, stirring gently to ensure it dissolves well into the stir-fry.",
+    "Cook for an additional minute, allowing the flavors to meld together and the sauce to thicken slightly. Taste and adjust seasoning if needed (add more lime juice for more citrusy flavor).",
+    "Remove from heat immediately to prevent burning. Serve garnished with shredded green onions for a pop of color and texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky-pancake",
+    "lime-flavored",
+    "low-fat-japanese",
+    "one-pot-meal",
+    "stir-fry-pancake"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "limey-flaky-low-fat-japanese-buttery-pancake-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/limey-flaky-low-fat-japanese-buttery-pancake-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:13:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "lime juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Buttery Pancake",
+    "descriptor": "Limey Flaky Low-Fat",
+    "dishForm": "Stir-fry"
+  }
+}
