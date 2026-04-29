@@ -1,0 +1,72 @@
+{
+  "title": "Low-Calorie Dense Fresh Lime Leaves Stir-Fry",
+  "description": "This low-calorie and dense dish features fresh makrut lime leaves, designed to be a hangover-cure Slovakian-inspired recipe suitable for those following a low-calorie diet.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "makrut lime leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "chopped bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the makrut lime leaves.",
+    "Mince the garlic cloves and chop the onion finely.",
+    "Heat a pan over medium heat. Add a small amount of olive oil to prevent sticking.",
+    "Add minced garlic and chopped onion to the pan, stir for about 2 minutes until fragrant.",
+    "Fold in chopped bell peppers, cook for another 3-5 minutes until they start to soften.",
+    "Add the washed makrut lime leaves to the pan. Stir frequently to avoid burning.",
+    "Cook for approximately 5-7 more minutes or until the lime leaves are dense and the vegetables are fully cooked.",
+    "Stir in any additional herbs, spices, or seasonings as desired.",
+    "Garnish with fresh lime juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "slovakian",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 2.5,
+    "carbs": 10,
+    "fat": 4
+  },
+  "slug": "low-calorie-dense-fresh-lime-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-calorie-dense-fresh-lime-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:14:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lime leaves",
+    "descriptor": "Fresh Dense Low-Calorie",
+    "dishForm": "Stir-fry"
+  }
+}
