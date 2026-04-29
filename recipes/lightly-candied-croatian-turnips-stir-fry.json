@@ -1,0 +1,77 @@
+{
+  "title": "Lightly Candied Croatian Turnips Stir-Fry",
+  "description": "A flavorful and herbal stir-fry featuring light-caramelized turnips that are perfect for a quick weeknight meal.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2-3"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Celtic sea salt or Kosher salt",
+      "amount": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Peel the turnips, cut into thin slices.",
+    "Cut garlic cloves thinly and set aside.",
+    "Slice green onions finely. Adjust quantity based on desired flavor intensity.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add sliced turnips and sauté for about 5 minutes until tender but still crisp.",
+    "Add minced garlic and stir-fry for another minute until fragrant.",
+    "Stir in green onions, season with salt and pepper to taste, then cook for an additional minute allowing flavors to meld together.",
+    "Optional: Sprinkle with Celtic sea salt or Kosher salt just before serving for extra crunch and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "candied turnips",
+    "stir-fry",
+    "vegan",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "lightly-candied-croatian-turnips-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-candied-croatian-turnips-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:32:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "caramelize",
+    "primaryIngredient": "turnips",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Turnips",
+    "descriptor": "Lightly Candied",
+    "dishForm": "Stir-fry"
+  }
+}
