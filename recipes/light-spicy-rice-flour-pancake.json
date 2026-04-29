@@ -1,0 +1,82 @@
+{
+  "title": "Light Spicy Rice Flour Pancake",
+  "description": "A dairy-free and smoke-infused light spicy rice flour pancake suitable for a solo dinner in Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garam Masala (or Black Pepper)",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sesame Oil or Sunflower Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chives or Spring Onions, finely chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rice flour and water. Stir until the mixture becomes smooth without any lumps.",
+    "Add turmeric powder and garam masala (or black pepper), salt to taste. Mix well until everything is evenly distributed in the batter.",
+    "Heat sesame oil or sunflower oil in a non-stick skillet over medium heat. When hot, pour the prepared pancake mixture into the pan, tilting the pan to spread it out evenly and form a circular shape.",
+    "Cook for about 2-3 minutes on each side until golden brown. Keep warm with extra sesame oil if desired.",
+    "Sprinkle finely chopped chives or spring onions over the cooked pancakes before serving. Enjoy your light, spicy rice flour pancake as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "spicy",
+    "rice-flour",
+    "croatian",
+    "smoke"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 4
+  },
+  "slug": "light-spicy-rice-flour-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-spicy-rice-flour-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:18:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "smoke",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Rice Flour Pancake",
+    "descriptor": "Spicy Light",
+    "dishForm": "Pancake"
+  }
+}
