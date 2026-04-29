@@ -1,0 +1,85 @@
+{
+  "title": "Light Indulgent Syrian Rice Stir-fry",
+  "description": "An indulgent yet light dish featuring rice paper sheets and a delicious vegetarian sauce that complements the earthy flavors of the vegetables.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Chili Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "3-4 sprigs (parsley, basil)"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the rice in water for about 15 minutes.",
+    "Drain the soaked rice, then cook it according to package instructions until tender. Set aside.",
+    "In a saucepan, combine vegetable broth, chili paste, garlic powder, diced tomatoes, fresh herbs, and 2 cups of water. Bring to a boil, then reduce heat to low and simmer for about 15 minutes or until the mixture is thickened.",
+    "Fold in cooked rice into the sauce while it's warm, mixing well.",
+    "Slice rice paper sheets thinly and lightly fry them in hot oil until crispy but not burned.",
+    "Arrange fried rice papers on a plate, pour the warm rice stir-fry over the papers. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "vegan",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 6,
+    "carbs": 58,
+    "fat": 11
+  },
+  "slug": "light-indulgent-syrian-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-indulgent-syrian-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:40:58Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Rice",
+    "descriptor": "Indulgent Light",
+    "dishForm": "Stir-fry"
+  }
+}
