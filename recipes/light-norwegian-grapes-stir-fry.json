@@ -1,0 +1,97 @@
+{
+  "title": "Light Norwegian Grapes Stir-fry",
+  "description": "A light and umami-rich dish featuring grapes with a touch of midnight allure, perfect for satisfying your cravings in an elegant dairy-free-friendly way.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup halved green grapes",
+      "amount": "",
+      "notes": "Choose fresh, ripe grapes."
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "",
+      "notes": "Use the sweet part of the bulb."
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": "Add a touch of depth to your dish."
+    },
+    {
+      "name": "Pinch of smoked paprika",
+      "amount": "",
+      "notes": "For an added smoky flavor."
+    },
+    {
+      "name": "1/4 cup white wine vinegar",
+      "amount": "",
+      "notes": "Helps in the umami aspect and lightness of the dish."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Fresh citrus to enhance the flavors."
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "To balance the sweetness of the grapes and vinegar."
+    },
+    {
+      "name": "4 oz (113g) cashews, roasted and chopped",
+      "amount": "",
+      "notes": "For a crunchy texture and nutty flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "In a large bowl, combine halved green grapes with finely chopped red onion.",
+    "Add minced garlic and smoked paprika, toss gently to coat the fruit evenly.",
+    "Squeeze in lemon juice and pour in white wine vinegar. Mix well.",
+    "Season with salt, taste for sweetness or sourness as needed, and adjust accordingly.",
+    "Place the grape-onion mixture on a baking sheet lined with parchment paper.",
+    "Roast in preheated oven for 15-20 minutes until slightly caramelized and fragrant.",
+    "Gently fold in chopped roasted cashews towards the end of cooking time to keep them crunchy.",
+    "Serve immediately or let it cool slightly before serving, garnished with additional lemon zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grape",
+    "stir-fry",
+    "norwegian",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "light-norwegian-grapes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-norwegian-grapes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:16:35Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "grapes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Grapes",
+    "descriptor": "Light",
+    "dishForm": "Stir-fry"
+  }
+}
