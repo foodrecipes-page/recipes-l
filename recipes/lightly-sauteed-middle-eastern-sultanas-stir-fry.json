@@ -1,0 +1,71 @@
+{
+  "title": "Lightly Sauteed Middle Eastern Sultanas Stir-fry",
+  "description": "A light and umami-dense dish featuring sautéed sultanas for a date-night favorite that’s dairy-free friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup dried sultanas",
+      "amount": "",
+      "notes": "Soaked in warm water for 30 minutes"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "Juice of half a lemon",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your pan over medium heat.",
+    "Add the soaked sultanas, garlic, lemon juice, olive oil, salt, and pepper to a preheated pan. Stir-fry for about 5-7 minutes or until the sultanas start to soften and caramelize slightly.",
+    "Adjust seasoning if needed and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 19,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sultanas",
+    "stir-fry",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 2
+  },
+  "slug": "lightly-sauteed-middle-eastern-sultanas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-sauteed-middle-eastern-sultanas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:18:46Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "sultanas",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "sultanas",
+    "descriptor": "Lightly Sauteed",
+    "dishForm": "Stir-fry"
+  }
+}
