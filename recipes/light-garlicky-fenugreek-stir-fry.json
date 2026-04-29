@@ -1,0 +1,84 @@
+{
+  "title": "Light Garlicky Fenugreek Stir-fry",
+  "description": "A light and indulgent Greek-inspired dish featuring fenugreek leaves, lightly sautéed with garlic for a perfect plant-based meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fenugreek leaves",
+      "amount": "2 cups fresh",
+      "notes": "Washed and roughly chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup freshly squeezed",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "a few sprigs",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add chopped garlic and sauté until fragrant, about 1 minute.",
+    "Add fenugreek leaves and cook for another 2-3 minutes until softened but still crisp.",
+    "Stir in lemon juice and salt to taste. Remove from heat immediately to prevent the leaves from becoming too soft or bitter.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-fare",
+    "indulgent-greek-dish",
+    "slow-cooked",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 7,
+    "carbs": 19,
+    "fat": 8
+  },
+  "slug": "light-garlicky-fenugreek-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-garlicky-fenugreek-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:05:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "fenugreek",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Fenugreek",
+    "descriptor": "Garlicky Light Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
