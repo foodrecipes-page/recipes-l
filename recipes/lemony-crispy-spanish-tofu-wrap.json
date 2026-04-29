@@ -1,0 +1,101 @@
+{
+  "title": "Lemony Crispy Spanish Tofu Wrap",
+  "description": "A savory and flaky post-workout dish featuring lemon zest, caramelized flavors, and a plant-based twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": "Silken tofu or soft tofu"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Plant-based milk or water",
+      "amount": "150ml"
+    }
+  ],
+  "instructions": [
+    "Blend tofu with flour, lemon juice, Dijon mustard, salt, lemon zest, garlic powder, red pepper flakes, and cumin in a food processor.",
+    "Gradually add plant-based milk or water while blending until the mixture reaches a spreadable consistency.",
+    "Heat olive oil in a non-stick pan over medium heat. Pour the tofu mixture into the pan and cook for 3-4 minutes on each side until golden brown.",
+    "Sprinkle baking soda on top of the cooked wrap for an extra crisp texture, then return to the hot pan for another minute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-wrap",
+    "tofu-wrap",
+    "lemon-lemony",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "lemony-crispy-spanish-tofu-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-crispy-spanish-tofu-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:39:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "lemon zest",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tofu",
+    "descriptor": "Lemony Crispy",
+    "dishForm": "Wrap"
+  }
+}
