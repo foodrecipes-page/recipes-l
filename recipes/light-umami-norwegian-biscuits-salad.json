@@ -1,0 +1,112 @@
+{
+  "title": "Light Umami Norwegian Biscuits Salad",
+  "description": "A refreshing, dairy‑free post‑workout salad that blends crisp oat‑based cookie crumbs with salmon, avocado, and an umami dressing.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free",
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dairy‑free Oreo‑style cream biscuits",
+      "amount": "8 biscuits",
+      "notes": "crumbled after toasting"
+    },
+    {
+      "name": "arugula",
+      "amount": "1 cup",
+      "notes": "fresh, light green"
+    },
+    {
+      "name": "cured salmon",
+      "amount": "1/2 cup",
+      "notes": "diced, seasoned with dill"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 fruit",
+      "notes": "diced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat a small skillet over medium heat and toast the biscuits until golden brown, about 2 minutes.",
+    "Transfer the toasted biscuits to a bowl and crush them into fine crumbs using a rolling pin or your hands.",
+    "In a separate small bowl, whisk together soy sauce, miso paste, rice vinegar, lime juice, olive oil, salt, and pepper until well blended.",
+    "Add the arugula to the bowl of dressing and toss until the leaves are evenly coated.",
+    "Fold in the crumbled biscuits, diced salmon, avocado, and toasted sesame seeds, mixing gently to keep the avocado from breaking apart.",
+    "Taste and adjust seasoning if necessary.",
+    "Serve immediately for a crunchy, light, umami‑packed snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "low-fat",
+    "post-workout",
+    "norwegian",
+    "light",
+    "umami",
+    "salad",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "light-umami-norwegian-biscuits-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-umami-norwegian-biscuits-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:52:18Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Biscuits",
+    "descriptor": "Light Umami",
+    "dishForm": "Salad"
+  }
+}
