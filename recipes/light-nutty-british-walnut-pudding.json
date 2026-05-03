@@ -1,0 +1,100 @@
+{
+  "title": "Light Nutty British Walnut Pudding",
+  "description": "A gluten‑free, adventurous British pudding that blends nutty walnuts with sweet anko red bean paste and a delicate lacquer glaze.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "100g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "30g"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "30g"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "20g"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "oat milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ancho red bean paste",
+      "amount": "50g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "20ml"
+    },
+    {
+      "name": "gelatin powder",
+      "amount": "2g",
+      "notes": "for glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and line an 8‑inch square tin with parchment paper.",
+    "Pulse walnuts in a food processor until coarsely chopped, then transfer to a bowl.",
+    "Add almond flour, cocoa powder, flaxseed, coconut sugar, vanilla and oat milk; blend until smooth.",
+    "Fold in anko red bean paste and maple syrup until evenly distributed.",
+    "Pour the batter into the tin and bake for 25‑30 minutes until a toothpick comes out clean.",
+    "While the pudding bakes, whisk anko paste, oat milk and gelatin in a small saucepan until gelatin dissolves.",
+    "Cool the tin to room temperature, then pour the glaze over the pudding and smooth with a spatula.",
+    "Refrigerate for at least 2 hours before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "british",
+    "dessert",
+    "gluten-free",
+    "light",
+    "nutty",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "light-nutty-british-walnut-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-nutty-british-walnut-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:34:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Walnut",
+    "descriptor": "Light Nutty",
+    "dishForm": "Pudding"
+  }
+}
