@@ -1,0 +1,110 @@
+{
+  "title": "Luscious Creamy Syrian Kombu Stew",
+  "description": "A savory, creamy, lazy-sunday stew that blends fermented kombu with chickpeas and coconut milk for a comforting Syrian-inspired dish.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried kombu",
+      "amount": "10 g",
+      "notes": "rehydrated and finely chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium (150 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves (9 g)",
+      "notes": "minced"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "400 g cooked"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp (30 g)"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp (30 g)"
+    },
+    {
+      "name": "Za'atar",
+      "amount": "1 tsp (2 g)"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp (2 g)"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp (1 g)"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp (15 ml)"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried kombu in cool water, then soak in 2 cups of warm water for 20 minutes to rehydrate.",
+    "Drain and finely chop the kombu into a small dice.",
+    "Heat 2 tablespoons of olive oil in a large pot over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Stir in the minced garlic and sauté for 1 minute until fragrant.",
+    "Add the chopped kombu, chickpeas, tomato paste, ground cumin, coriander, and za'atar; stir to coat and cook for 2 minutes.",
+    "Pour in 200 ml of coconut milk and 50 ml of water, bring to a gentle simmer, and let it thicken for 10 minutes.",
+    "Whisk in 2 tablespoons of tahini to create a creamy texture, then season with salt and pepper to taste.",
+    "Finish with a squeeze of fresh lemon juice, stir gently, and remove from heat.",
+    "Serve hot with a drizzle of olive oil and a sprinkle of fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "kombu",
+    "lazy-sunday",
+    "syrian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 21
+  },
+  "slug": "luscious-creamy-syrian-kombu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-creamy-syrian-kombu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:18:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "ferment",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "kombu",
+    "descriptor": "Luscious Creamy",
+    "dishForm": "Stew"
+  }
+}
