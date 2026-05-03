@@ -1,0 +1,84 @@
+{
+  "title": "Lightly Shattered Crunchy American Flour Hash",
+  "description": "A nutty, shattering, and energizing American dish made with flour, featuring a brine-dried flavor and grilled on a Binchotan grill. This recipe is inspired by Ayurvedic and Sattvic principles.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Nutmeg powder",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and water to form a dough.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 4-6 equal pieces, depending on the desired size of your hash.",
+    "Roll out each piece into a thin sheet, about 1/16 inch thick.",
+    "Brush the top of each sheet with coconut oil and sprinkle with nutmeg powder and black pepper.",
+    "Place the sheets on a Binchotan grill and cook for 2-3 minutes on each side, or until lightly browned and crispy.",
+    "Remove the hash from the grill and let it cool for a few minutes.",
+    "Break the hash into shattering pieces and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "brine-dried",
+    "gluten-free",
+    "high-fiber",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "lightly-shattered-crunchy-american-flour-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-shattered-crunchy-american-flour-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:59:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "brine-dry",
+    "primaryIngredient": "flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "flour",
+    "descriptor": "Lightly Shattered Crunchy",
+    "dishForm": "Hash"
+  }
+}
