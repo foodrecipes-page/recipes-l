@@ -1,0 +1,114 @@
+{
+  "title": "Light Salty Jamaican Fish Curry",
+  "description": "A flavorful yet low-calorie Jamaican dish, perfect for post-workout meals. This curry combines the spices of Jamaica with the freshness of spring onions.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "250g",
+      "notes": "Wild-caught, skin removed"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced, spring onions"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1-2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "1-2 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Bhuna paste",
+      "amount": "1-2 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Green chilies",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "handful",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the sliced onions and sauté for 5 minutes, until softened.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Jamaican curry powder and Bhuna paste, and cook for 1 minute, until fragrant.",
+    "Add the fish fillets and cook for 3-4 minutes, until lightly browned.",
+    "Pour in the lime juice and stir to coat the fish.",
+    "Add a pinch of salt and black pepper to taste.",
+    "Simmer the curry for 5-7 minutes, until the fish is cooked through.",
+    "Garnish with mixed greens and sliced green chilies.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "fish-curry",
+    "low-carb",
+    "post-workout",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "light-salty-jamaican-fish-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-salty-jamaican-fish-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:49:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "spring onions",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "light salty",
+    "dishForm": "Curry"
+  }
+}
