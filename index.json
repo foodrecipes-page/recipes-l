@@ -2062,5 +2062,16 @@
     "cuisine": "Thai",
     "totalTimeMin": null,
     "shard": "l"
+  },
+  {
+    "slug": "lush-italian-beef-casserole",
+    "title": "Lush Italian Beef Casserole",
+    "tags": [
+      "italian",
+      "dinner"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]

@@ -1,0 +1,107 @@
+{
+  "title": "Lush Italian Beef Casserole",
+  "description": "A hearty Italian beef casserole with rich tomato gravy and aromatic herbs. Melted mozzarella and parmesan crown the dish, perfect for festive gatherings.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.5 lb",
+      "notes": "cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees F.",
+    "Heat olive oil in a Dutch oven over medium-high and brown beef cubes in batches, then set aside.",
+    "Add diced onion to the pot and cook until translucent.",
+    "Stir in minced garlic and cook for 30 seconds.",
+    "Deglaze the pan with red wine, scraping up all browned bits.",
+    "Add beef broth, tomato sauce, dried oregano, dried basil, and red pepper flakes, bringing the mixture to a simmer.",
+    "Return the browned beef to the pot, cover with a lid, and bake in the preheated oven for 90 minutes.",
+    "Remove the pot from the oven, stir in shredded mozzarella and grated parmesan until melted and creamy.",
+    "If desired, sprinkle chopped fresh parsley on top before serving.",
+    "Serve hot, optionally with toasted breadcrumbs or crusty bread on the side."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "italian",
+    "dinner"
+  ],
+  "slug": "lush-italian-beef-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-italian-beef-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:46:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "beef gravy",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "beef",
+    "descriptor": "Lush",
+    "dishForm": "Casserole"
+  }
+}
