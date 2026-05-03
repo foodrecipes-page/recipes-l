@@ -1,0 +1,110 @@
+{
+  "title": "Light Canadian Parmigiano‑Reggiano Crumble",
+  "description": "A sweet, crumbly crumble that blends maple‑sweetened oats with a light Parmigiano‑Reggiano topping, perfect for a low‑fat Canadian dessert.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "about 81g"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1 cup",
+      "notes": "about 100g"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "1/2 cup",
+      "notes": "about 125g"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/4 cup",
+      "notes": "about 60g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "3 tablespoons",
+      "notes": "about 45g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh grated Parmigiano‑Reggiano",
+      "amount": "2 tablespoons",
+      "notes": "about 20g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh apples, diced",
+      "amount": "2 cups",
+      "notes": "about 240g"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 °C (350 °F).",
+    "Rinse and dice the apples; toss them with 1 tablespoon of maple syrup and the ground cinnamon.",
+    "Spread the apple mixture in an 8‑inch square baking dish.",
+    "In a large bowl, whisk together the rolled oats, oat flour, baking powder, and salt.",
+    "In a separate bowl, combine the applesauce, almond milk, remaining maple syrup, and vanilla extract; whisk until smooth.",
+    "Pour the wet mixture into the dry ingredients and stir with a spoon until a crumbly dough forms; knead lightly just enough to bring the pieces together.",
+    "Fold in the grated Parmigiano‑Reggiano, then sprinkle the crumbly topping evenly over the apples.",
+    "Bake for 20 minutes, or until the crumble is golden brown and the apples are tender.",
+    "Let rest for 5 minutes before serving warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "low-fat",
+    "canadian",
+    "crumble",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 7,
+    "carbs": 48,
+    "fat": 4
+  },
+  "slug": "light-canadian-parmigiano-reggiano-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-canadian-parmigiano-reggiano-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:39:03Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "parmigiano-reggiano",
+    "descriptor": "Light",
+    "dishForm": "Crumble"
+  }
+}

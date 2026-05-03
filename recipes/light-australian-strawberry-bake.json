@@ -1,0 +1,100 @@
+{
+  "title": "Light Australian Strawberry Bake",
+  "description": "A kosher-friendly dessert featuring strawberries in a creamy and light Australian bake, balanced with a hint of bitterness from dark chocolate. It's perfect for a sweet treat any time of the day.",
+  "cuisine": "Australian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups hulled and sliced",
+      "notes": "fresh"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together flour, baking powder, and salt.",
+    "In a large bowl, combine sugar, melted butter, yogurt, eggs, and vanilla extract. Mix until smooth.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Gently fold in the sliced strawberries and dark chocolate chips.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 40-45 minutes or until a toothpick inserted comes out clean.",
+    "Let it cool for 10 minutes before serving.",
+    "Serve warm, garnished with additional sliced strawberries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "strawberry",
+    "bake",
+    "dessert",
+    "kosher"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 43,
+    "fat": 16
+  },
+  "slug": "light-australian-strawberry-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-australian-strawberry-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:39:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "strawberries",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "strawberries",
+    "descriptor": "bitter creamy light",
+    "dishForm": "Bake"
+  }
+}

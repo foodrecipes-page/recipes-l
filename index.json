@@ -694,6 +694,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-australian-strawberry-bake",
+    "title": "Light Australian Strawberry Bake",
+    "tags": [
+      "australian",
+      "strawberry",
+      "bake",
+      "dessert",
+      "kosher"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
     "slug": "light-boil-pork-stir-fry",
     "title": "Light Boil Pork Stir-fry",
     "tags": [
@@ -703,6 +717,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "light-canadian-parmigiano-reggiano-crumble",
+    "title": "Light Canadian Parmigiano‑Reggiano Crumble",
+    "tags": [
+      "dessert",
+      "low-fat",
+      "canadian",
+      "crumble",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
