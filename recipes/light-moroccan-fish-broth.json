@@ -1,0 +1,133 @@
+{
+  "title": "Light Moroccan Fish Broth",
+  "description": "A bitter, light, post‑workout Moroccan dish with poached fish served over crisp onion rings in a fragrant, low‑sodium broth.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "low-sodium fish stock",
+      "amount": "4 cups",
+      "notes": "or homemade with kombu and seaweed for extra umami"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 lb (450 g)",
+      "notes": "skin removed, cut into 2‑inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced into rings"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "½ tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "¼ tsp",
+      "notes": "soaked in 1 tbsp warm water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "use low-sodium or omit"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium saucepan over medium heat.",
+    "Add onion rings, garlic, and ginger; sauté until onions soften, about 3–4 minutes.",
+    "Stir in cumin, coriander, paprika, cinnamon, and saffron-infused water; cook 1 minute until fragrant.",
+    "Pour in fish stock and bring to a gentle simmer; let infuse for 5 minutes.",
+    "Add lemon juice, pepper, and a pinch of low-sodium salt; stir to combine.",
+    "Gently place cod fillets into the broth, cover, and poach until the fish is opaque, 6–8 minutes.",
+    "Remove the fish and keep the broth warm on low heat.",
+    "Serve each fish fillet over a nest of onion rings, ladle broth over it, and garnish with cilantro and parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-broth",
+    "low-sodium",
+    "post-workout",
+    "moroccan",
+    "poach",
+    "onion-rings",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 7,
+    "fat": 5
+  },
+  "slug": "light-moroccan-fish-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-moroccan-fish-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:14:24Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "onion rings",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Fish",
+    "descriptor": "Light",
+    "dishForm": "Broth"
+  }
+}
