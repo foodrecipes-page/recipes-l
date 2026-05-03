@@ -685,6 +685,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-croatian-lentil-stew",
+    "title": "Light Croatian Lentil Stew",
+    "tags": [
+      "lentil-stew",
+      "croatian-cuisine",
+      "vegan-recipes",
+      "comfort-food",
+      "sick-day-meals"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "light-fermented-ethiopian-tortilla-stir-fry",
     "title": "Light Fermented Ethiopian Tortilla Stir-fry",
     "tags": [
@@ -708,6 +722,19 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "light-filipino-sweet-potato-hash",
+    "title": "Light Filipino Sweet Potato Hash",
+    "tags": [
+      "filipino-food",
+      "sweet-potato-recipe",
+      "low-fat-recipe",
+      "vegetarian-recipe"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

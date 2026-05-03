@@ -1,0 +1,105 @@
+{
+  "title": "Light Filipino Sweet Potato Hash",
+  "description": "A light and earthy Filipino dish featuring sweet potatoes, onions, and a hint of sugar, perfect for a nostalgic breakfast or snack. This low-fat-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "1 tablespoon",
+      "notes": "or lemon juice"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large non-stick skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the diced sweet potatoes and cook for about 5 minutes, until they start to soften.",
+    "Add the salt, black pepper, and sugar, and stir to combine.",
+    "Continue cooking the sweet potatoes for another 10-12 minutes, until they are tender and lightly browned.",
+    "Stir in the fish sauce (if using) and cook for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the sweet potato hash to a serving platter and top with chopped scallions and a squeeze of calamansi juice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-food",
+    "sweet-potato-recipe",
+    "low-fat-recipe",
+    "vegetarian-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 4
+  },
+  "slug": "light-filipino-sweet-potato-hash",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/light-filipino-sweet-potato-hash",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:22:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "sugars",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "earthy light",
+    "dishForm": "Hash"
+  }
+}

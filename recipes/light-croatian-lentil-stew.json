@@ -1,0 +1,113 @@
+{
+  "title": "Light Croatian Lentil Stew",
+  "description": "A hearty, earthy, and comforting Croatian-inspired lentil stew with a hint of cocoa, perfect for a sick day. This vegan-friendly dish is made with red lentils and a blend of aromatic spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Saute the onion, garlic, carrots, and celery in a pressure cooker over medium heat until the vegetables are tender.",
+    "Add the lentils, cocoa powder, paprika, vegetable broth, tomato paste (if using), salt, and black pepper to the pressure cooker.",
+    "Stir well to combine, then close the lid and set the valve to 'sealing'.",
+    "Pressure cook on high for 10-12 minutes, or until the lentils are tender.",
+    "Allow the pressure to release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley or thyme (optional).",
+    "Store leftovers in an airtight container in the refrigerator for up to 5 days or freeze for up to 3 months."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil-stew",
+    "croatian-cuisine",
+    "vegan-recipes",
+    "comfort-food",
+    "sick-day-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "light-croatian-lentil-stew",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/light-croatian-lentil-stew",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:23:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "cocoa",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lentils",
+    "descriptor": "earthy light",
+    "dishForm": "Stew"
+  }
+}
