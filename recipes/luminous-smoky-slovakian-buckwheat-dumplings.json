@@ -1,0 +1,104 @@
+{
+  "title": "Luminous Smoky Slovakian Buckwheat Dumplings",
+  "description": "Silky buckwheat dumplings infused with smoky paprika and fresh herbs for a hearty Slovakian-inspired Whole30 meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup (dry)",
+      "notes": "rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup buckwheat groats until water runs clear.",
+    "In a medium saucepan, combine rinsed buckwheat with 1 cup water, 1 tsp smoked paprika, 1 tsp smoked salt, and a pinch of pepper; bring to a boil, then simmer, covered, for 15 minutes until tender.",
+    "Drain excess water and transfer buckwheat to a bowl; let cool while whisking in 1 large egg, 1 tbsp olive oil, and minced garlic.",
+    "Stir in 1/2 tsp dried thyme, 1/2 tsp ground pepper, and chopped parsley until evenly mixed; season with additional smoked salt to taste.",
+    "Using a small spoon, shape the mixture into bite‑size dumplings, about 1.5 inches in diameter.",
+    "In a large pot, bring 4 cups water to a gentle boil, then add dumplings in batches, covering to keep water from boiling over.",
+    "Simmer dumplings for 8–10 minutes, or until they float to the surface and are cooked through.",
+    "Drain dumplings and serve hot, optionally garnished with a drizzle of olive oil or a sprinkle of fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "dumplings",
+    "silky",
+    "slovakian",
+    "smoky",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 5,
+    "carbs": 29,
+    "fat": 5
+  },
+  "slug": "luminous-smoky-slovakian-buckwheat-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luminous-smoky-slovakian-buckwheat-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:39:32Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "dum",
+    "primaryIngredient": "buckwheat",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Luminous Smoky",
+    "dishForm": "Dumplings"
+  }
+}
