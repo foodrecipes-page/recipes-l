@@ -1,0 +1,82 @@
+{
+  "title": "Light Smoky Avocado Salad",
+  "description": "A kid-friendly Spanish dish featuring ghee for a smoky flavor, perfect for a light and low-carb snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large"
+    },
+    {
+      "name": "cilantro",
+      "amount": "handful"
+    },
+    {
+      "name": "lime juice",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "ghee",
+      "amount": "a few drops"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice the avocado and scoop out its flesh into a mixing bowl.",
+    "Core and chop the tomato finely, then add it to the bowl with the avocado.",
+    "Add the juice of one lime to both ingredients for acidity.",
+    "Fold in chopped cilantro leaves. Use your hands if you’re comfortable with cilantro, or use tongs.",
+    "Drizzle a few drops of ghee over the salad and gently stir to combine.",
+    "Season with salt to taste.",
+    "Serve immediately as a light snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "smoky",
+    "avocado",
+    "spanish",
+    "kid-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "light-smoky-avocado-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-smoky-avocado-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:18:59Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "ghee",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "avocado",
+    "descriptor": "Smoky Light",
+    "dishForm": "Salad"
+  }
+}
