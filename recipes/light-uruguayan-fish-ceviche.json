@@ -1,0 +1,112 @@
+{
+  "title": "Light Uruguayan Fish Ceviche",
+  "description": "A bright, low‑sodium ceviche that showcases fresh Atlantic salmon cured in vinegar, accented with citrus and fresh herbs for a clean, airy finish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh Atlantic salmon fillet",
+      "amount": "400 g",
+      "notes": "skin removed, trimmed into 1 cm cubes"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "120 ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "60 ml"
+    },
+    {
+      "name": "orange juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "20 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "10 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "seaweed salt",
+      "amount": "1 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "sliced, optional"
+    }
+  ],
+  "instructions": [
+    "In a non‑reactive bowl, combine the diced salmon.",
+    "Pour vinegar, lime, and orange juices over the fish, stirring gently to coat.",
+    "Add seaweed salt, pepper, and mix until the fish is evenly coated.",
+    "Cover and refrigerate for 30 minutes to cure the fish and allow flavors to meld.",
+    "While curing, dice the cucumber and slice the onion; rinse and chop cilantro and mint.",
+    "After 30 minutes, drain 10% of the liquid and discard.",
+    "Add cucumber, onion, herbs, and avocado; toss gently.",
+    "Serve chilled over a bed of mixed greens or with toasted corn tortilla chips."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "ceviche",
+    "low-sodium",
+    "fish",
+    "fresh",
+    "light",
+    "seafood",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 8,
+    "fat": 10
+  },
+  "slug": "light-uruguayan-fish-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-uruguayan-fish-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:00:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "vinegar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Fish",
+    "descriptor": "Light",
+    "dishForm": "Ceviche"
+  }
+}
