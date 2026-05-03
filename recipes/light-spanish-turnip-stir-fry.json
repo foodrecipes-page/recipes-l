@@ -1,0 +1,90 @@
+{
+  "title": "Light Spanish Turnip Stir-fry",
+  "description": "A fresh, light sauté of turnips with smoky paprika, lemon, and herbs, perfect for a quick monsoon meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turnip",
+      "amount": "2 medium",
+      "notes": "peeled and sliced into 1/4 inch sticks"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 lemon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large nonstick skillet over medium heat until shimmering.",
+    "Add the minced garlic and sauté for 30 seconds until fragrant.",
+    "Toss in the sliced turnips and stir to coat with oil and garlic.",
+    "Sprinkle smoked paprika, dried oregano, salt, and pepper over the turnips and stir to combine.",
+    "Cook for 4-5 minutes, stirring occasionally, until the turnips start to soften.",
+    "Drizzle the lemon juice over the vegetables and cook until the turnips are tender but still crisp, about 2 more minutes.",
+    "Remove from heat, stir in chopped parsley, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "low-carb",
+    "one-pan",
+    "vegetarian",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "light-spanish-turnip-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-spanish-turnip-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:57:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "saute",
+    "primaryIngredient": "turnips",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "turnips",
+    "descriptor": "Light",
+    "dishForm": "Stir-fry"
+  }
+}
