@@ -1,0 +1,110 @@
+{
+  "title": "Light Crispy British Chicken Stir-Fry",
+  "description": "A savory, low‑calorie stir‑fry that marries classic British flavors—rich chicken stock concentrate, fresh greens, and a hint of seaweed—delivering a crisp, juicy bite.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast fillets, sliced into strips",
+      "amount": "300g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Carrot, julienned",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Chicken stock concentrate powder (1 tsp) dissolved in 1 cup water",
+      "amount": "1 teaspoon concentrate + 1 cup water",
+      "notes": "Dissolve in hot water until clear"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh parsley, chopped (optional garnish)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken strips in 1 tablespoon soy sauce and 1 teaspoon of the dissolved chicken stock concentrate for 5 minutes.",
+    "Heat 1 tablespoon olive oil in a large skillet or wok over medium-high heat.",
+    "Add the marinated chicken and stir‑fry until it begins to brown, about 3 minutes.",
+    "Add the sliced onion, bell pepper, carrot, and broccoli; continue stir‑frying until the veggies are crisp‑tender, 4-5 minutes.",
+    "Stir in the minced garlic and cook for 30 seconds until fragrant.",
+    "Add the remaining dissolved chicken stock concentrate and a splash of water; cook for another minute, allowing the sauce to thicken slightly.",
+    "Season with salt, pepper, and lemon zest, adjusting to taste.",
+    "Remove from heat and transfer to a serving dish.",
+    "Garnish with chopped parsley if desired.",
+    "Serve hot as a solo‑dinner dish.",
+    ""
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie",
+    "british",
+    "stir-fry",
+    "quick",
+    "protein-rich"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "slug": "light-crispy-british-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-crispy-british-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:09:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chicken",
+    "descriptor": "Light Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
