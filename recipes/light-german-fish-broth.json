@@ -1,0 +1,103 @@
+{
+  "title": "Light German Fish Broth",
+  "description": "A delicate and refreshing German-inspired fish broth featuring the subtle flavors of dill and tender fish, perfect for a light and satisfying meal. This dish is low in carbs, making it suitable for those following a low-carb diet.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets (6 oz each)",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon slices",
+      "amount": "2 slices"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the water, white wine, sliced carrots, sliced celery, and sliced onion.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the chopped fresh dill and lemon slices to the pot, stirring gently to combine.",
+    "Add the cod fillets to the pot, making sure they are fully submerged in the broth.",
+    "Return the broth to a simmer and cook for an additional 8-10 minutes, or until the fish is cooked through and flakes easily with a fork.",
+    "Remove the pot from the heat and season the broth with salt and black pepper to taste.",
+    "Serve the fish and broth hot, garnished with additional chopped fresh dill if desired.",
+    "Strain the broth through a fine-mesh sieve into bowls, discarding the solids, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-broth",
+    "german-cuisine",
+    "low-carb",
+    "light-meal",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "light-german-fish-broth",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-german-fish-broth",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:01:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "boil",
+    "primaryIngredient": "dill",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "fish",
+    "descriptor": "tender light",
+    "dishForm": "Broth"
+  }
+}
