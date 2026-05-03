@@ -1,0 +1,89 @@
+{
+  "title": "Lovely Golden American Egg Omelette",
+  "description": "A crispy and peppery American-style omelette perfect for a Mediterranean-inspired brunch.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "softened"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dijon mustard powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional for added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together eggs, salt, and pepper until well combined.",
+    "In a medium non-stick skillet, melt butter over medium heat.",
+    "Using a spatula, gently fold the edges of the omelette towards the center, allowing uncooked egg to flow to the edges.",
+    "Sprinkle chopped parsley on one half of the omelette.",
+    "Add Dijon mustard powder, if using.",
+    "Using the spatula, carefully fold the other half of the omelette over the filling.",
+    "Cook for an additional 1-2 minutes, or until the cheese is melted and the eggs are cooked through.",
+    "Slide the omelette onto a plate and serve hot.",
+    "Blanch fresh parsley in boiling water for 10-15 seconds, then immediately plunge into an ice bath to stop cooking.",
+    "Chop blanched parsley and use as garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "brunch-mood",
+    "easy-omelette",
+    "eggs-travagant"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 17
+  },
+  "slug": "lovely-golden-american-egg-omelette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-golden-american-egg-omelette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:56:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "mustard powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Egg",
+    "descriptor": "Lovely Golden",
+    "dishForm": "Omelette"
+  }
+}
