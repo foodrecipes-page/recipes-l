@@ -1,0 +1,103 @@
+{
+  "title": "Light Sichuan Melon Skillet",
+  "description": "A delicate and refreshing Sichuan-inspired dish featuring sautéed melon, perfect for a solo dinner. This Whole30-friendly recipe combines floral and light flavors for a unique culinary experience.",
+  "cuisine": "Chinese",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canary melon",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tsp",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add minced garlic and grated ginger, sauté for 1-2 minutes until fragrant.",
+    "Add toasted and ground Sichuan peppercorns, cook for 1 minute.",
+    "Add diced Canary melon, cook for 3-4 minutes until lightly browned.",
+    "Add chopped scallions, cook for an additional 1-2 minutes.",
+    "Season with salt to taste.",
+    "Stir in chopped fresh cilantro and lime juice.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sichuan",
+    "melon",
+    "whole30",
+    "gluten-free",
+    "dairy-free",
+    "light",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "light-sichuan-melon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-sichuan-melon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:28:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "melons",
+    "diet": "whole30",
+    "region": "sichuan",
+    "cuisineAdjective": "Sichuan",
+    "mainIngredient": "melons",
+    "descriptor": "Light Saute",
+    "dishForm": "Skillet"
+  }
+}
