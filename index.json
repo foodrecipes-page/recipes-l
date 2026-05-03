@@ -2353,5 +2353,20 @@
     "cuisine": "Italian",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "luxurious-fatty-australian-lamb-fried-rice",
+    "title": "Luxurious Fatty Australian Lamb Fried Rice",
+    "tags": [
+      "australian-cuisine",
+      "fried-rice",
+      "high-protein",
+      "lamb-recipes",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "l"
   }
 ]
