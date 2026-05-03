@@ -1,0 +1,116 @@
+{
+  "title": "Lavender Creamy Croatian Cheese Fritters",
+  "description": "Floral, gooey fritters bursting with Croatian sheep cheese and lavender, served with caramelized onion rings and a tangy fermented yogurt dip.",
+  "cuisine": "Croatian",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paški sir (sheep cheese)",
+      "amount": "200 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced into rings"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Unsweetened Greek yogurt",
+      "amount": "3 tbsp",
+      "notes": "for dip"
+    },
+    {
+      "name": "Dried lavender buds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten, for binding"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/2 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large skillet over medium heat and set aside 2 tbsp for frying the fritters.",
+    "Add the sliced onion rings to the skillet, season with salt and pepper, and cook until caramelized, about 5-7 minutes. Remove and keep warm.",
+    "In a bowl, whisk the beaten egg, shredded cheese, dried lavender, cumin, paprika, and cayenne pepper until well combined.",
+    "Stir in the almond flour until a thick batter forms. The mixture should be moist but hold its shape.",
+    "Drop spoonfuls of the batter into the hot oil, flatten slightly, and fry until golden brown on both sides, about 3 minutes per side.",
+    "Drain the fritters on paper towels and sprinkle with a pinch of salt.",
+    "Serve the warm fritters with the caramelized onion rings and a side of yogurt dip.",
+    "Drizzle a little lemon zest over the fritters for brightness (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "cheese",
+    "fritter",
+    "croatian",
+    "sugar-free",
+    "low-carb",
+    "quick",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 281,
+    "protein": 10.75,
+    "carbs": 4.5,
+    "fat": 22.75
+  },
+  "slug": "lavender-creamy-croatian-cheese-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lavender-creamy-croatian-cheese-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:52:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "onion rings",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Lavender Creamy",
+    "dishForm": "Fritters"
+  }
+}
