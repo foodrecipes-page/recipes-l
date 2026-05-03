@@ -1,0 +1,112 @@
+{
+  "title": "Luscious Spicy German Sausage Bake",
+  "description": "A spicy, creamy, gluten-friendly German solo-dinner dish featuring phyllo dough, clay-pot-cooked to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "pork-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten-free phyllo dough",
+      "amount": "1 package (usually 12-16 sheets)"
+    },
+    {
+      "name": "Spicy German sausages",
+      "amount": "4-6 sausages",
+      "notes": "such as Weisswurst or Currywurst"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain, gluten-free"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded, gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large clay pot or oven-safe dish, layer 4-6 sheets of phyllo dough, brushing each sheet with melted butter.",
+    "Arrange the sliced onion on top of the phyllo dough, leaving a 1-inch border around the edges.",
+    "Add the minced garlic, cayenne pepper, salt, and black pepper on top of the onion.",
+    "Place the Spicy German sausages on top of the onion-garlic mixture.",
+    "In a separate bowl, mix the Greek yogurt and cheddar cheese until well combined.",
+    "Pour the yogurt-cheese mixture over the sausages.",
+    "Repeat the phyllo dough layering process, brushing each sheet with melted butter, and finishing with a layer of phyllo on top.",
+    "Cover the pot with a lid or aluminum foil and bake for 25 minutes.",
+    "Remove the lid or foil and continue baking for an additional 10-15 minutes, or until the phyllo is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "german-cuisine",
+    "gluten-free",
+    "one-pan",
+    "pork-friendly",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 55
+  },
+  "slug": "luscious-spicy-german-sausage-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-spicy-german-sausage-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:39:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "phyllo dough",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sausage",
+    "descriptor": "Luscious Spicy",
+    "dishForm": "Bake"
+  }
+}
