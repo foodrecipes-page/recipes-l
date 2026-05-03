@@ -1,0 +1,80 @@
+{
+  "title": "Light Saudi Blueberry Bowl",
+  "description": "A refreshing, herbal dish using natural blue food coloring for a vibrant hue, designed to be diabetic-friendly with minimal sugar and fermenting for probiotic benefits.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "diabetic-friendly",
+    "fermented"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "blue food coloring (natural)",
+      "amount": "1 tsp",
+      "notes": "use food-safe blue dye for vibrant color without added sugar"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "2 tbsp",
+      "notes": "chopped for herbal flavor"
+    },
+    {
+      "name": "blueberries",
+      "amount": "100g",
+      "notes": "fresh or frozen, no added sugar"
+    },
+    {
+      "name": "fermented date paste",
+      "amount": "1 tbsp",
+      "notes": "made from dates fermented for probiotics (use 1 date, 100ml water, 24h)"
+    },
+    {
+      "name": "almond milk",
+      "amount": "200ml",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine 100g blueberries with 2 tbsp chopped mint leaves.",
+    "Add 1 tsp natural blue food coloring to the blueberries for color.",
+    "Mix in 1 tbsp fermented date paste for probiotic benefits.",
+    "Gently stir in 200ml almond milk until smooth.",
+    "Chill for 10 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "saudi",
+    "herbal",
+    "blueberry",
+    "fermented",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 22,
+    "fat": 4
+  },
+  "slug": "light-saudi-blueberry-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-saudi-blueberry-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:48:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "blue food colouring",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "blueberries",
+    "descriptor": "light",
+    "dishForm": "Bowl"
+  }
+}
