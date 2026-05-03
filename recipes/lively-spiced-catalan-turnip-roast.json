@@ -1,0 +1,106 @@
+{
+  "title": "Lively Spiced Catalan Turnip Roast",
+  "description": "A bright, spicy vegan roast featuring turnips, aromatic spices, and a final broil for crisp edges—perfect for meal prep.",
+  "cuisine": "catalan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turnips",
+      "amount": "1 kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and set the rack in the middle position.",
+    "Wash, peel, and cube the turnips into bite‑sized pieces.",
+    "In a large bowl, whisk together olive oil, smoked paprika, cumin, sumac, oregano, rosemary, minced garlic, lemon zest, lemon juice, salt, and pepper until well blended.",
+    "Toss the cubed turnips in the spice mixture until evenly coated.",
+    "Spread the coated turnips in a single layer on a parchment‑lined baking sheet.",
+    "Roast in the preheated oven for 25 minutes, stirring halfway through, until the edges are golden and the interior is tender.",
+    "Switch the oven to broil, place the sheet back on the upper rack, and broil for 2 minutes, watching carefully until a light crisp forms on top.",
+    "Remove from the oven, let cool slightly, then transfer to airtight containers for meal prep; refrigerate up to 4 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broil",
+    "catalan",
+    "meal-prep",
+    "one-pan",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "lively-spiced-catalan-turnip-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-spiced-catalan-turnip-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:20:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "turnips",
+    "diet": "buddhist-temple",
+    "region": "catalan",
+    "cuisineAdjective": "Catalan",
+    "mainIngredient": "turnip",
+    "descriptor": "Lively Spiced",
+    "dishForm": "Roast"
+  }
+}
