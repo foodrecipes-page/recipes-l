@@ -1,0 +1,94 @@
+{
+  "title": "Light Garlic Korean Chicken Stir-fry",
+  "description": "A light and flavorful Korean-inspired dish using chicken bouillon powder as a base for this quick weeknight meal that's also keto-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "1 (6 oz)",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium or gluten-free soy sauce for a lighter version"
+    },
+    {
+      "name": "rice wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "optional, use in moderation"
+    },
+    {
+      "name": "ground beef or pork",
+      "amount": "3 oz (or substitute with tofu or shrimp)",
+      "notes": "as a protein alternative"
+    },
+    {
+      "name": "green onions",
+      "amount": "2-3",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "pinch",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "optional, add more for spiciness"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat and add a tablespoon of sesame oil.",
+    "Add minced garlic and cook until fragrant, about 30 seconds.",
+    "Add chicken pieces and stir-fry until they turn white and are almost cooked through, about 5 minutes.",
+    "Stir in soy sauce, rice wine vinegar (if using), and Korean chili flakes. Cook for an additional minute to let the flavors meld together.",
+    "For added protein, add ground beef or pork, tofu, or shrimp if desired and continue cooking until fully heated.",
+    "Toss with chopped green onions and sesame seeds just before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "light",
+    "korean",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 27,
+    "carbs": 5,
+    "fat": 9
+  },
+  "slug": "light-garlic-korean-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-garlic-korean-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:12:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Garlicky Light",
+    "dishForm": "Stir-fry"
+  }
+}
