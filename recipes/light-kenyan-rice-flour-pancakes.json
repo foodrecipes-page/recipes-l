@@ -1,0 +1,93 @@
+{
+  "title": "Light Kenyan Rice Flour Pancakes",
+  "description": "A traditional Kenyan dish featuring fermented rice flour pancakes, perfect for a light and indulgent breakfast or snack. These gluten-free friendly pancakes are slow-cooked to perfection.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "preferably from short-grain rice"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine rice flour, yeast, sugar, and salt.",
+    "Gradually add water to the bowl, mixing until a smooth batter forms.",
+    "Cover the bowl with a cloth and let it ferment in a warm place for 2 hours.",
+    "After fermentation, add coconut milk, eggs, and melted butter to the batter, mixing well.",
+    "Heat a non-stick pan over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings.",
+    "Repeat the cooking process until all the batter is used up."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 120,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-cuisine",
+    "gluten-free",
+    "breakfast-ideas",
+    "pancake-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "light-kenyan-rice-flour-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-kenyan-rice-flour-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:10:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rice flour",
+    "descriptor": "light indulgent",
+    "dishForm": "Pancakes"
+  }
+}
