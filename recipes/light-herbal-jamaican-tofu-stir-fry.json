@@ -1,0 +1,115 @@
+{
+  "title": "Light Herbal Jamaican Tofu Stir-fry",
+  "description": "A mild, herb‑infused Jamaican‑style tofu stir‑fry with creamy Monterey Jack, bright peppers and a splash of coconut milk, perfect for a quick, egg‑free lunch.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "egg‑free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "400g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "150g",
+      "notes": "grated"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Medium onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Allspice",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Coconut milk (light)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Press tofu for at least 20 minutes to remove excess moisture, then cut into 1\" cubes.",
+    "Combine tofu cubes with 1 tsp dried thyme, ½ tsp allspice, and a pinch of salt; toss gently and set aside.",
+    "Heat 1 tbsp olive oil in a wok or large skillet over medium‑high heat; add tofu and stir‑fry until golden on all sides, about 5–6 minutes. Remove tofu and set aside.",
+    "Add remaining 1 tbsp oil to the pan; sauté onion and bell pepper until softened, 3–4 minutes.",
+    "Stir in garlic and ginger; cook for 30 seconds until fragrant.",
+    "Return tofu to the pan, pour in coconut milk, and add lime juice; toss to coat.",
+    "Sprinkle grated Monterey Jack over the mixture; cover and let melt for 2 minutes, stirring occasionally.",
+    "Mix in sliced scallions and adjust seasoning with salt and pepper to taste.",
+    "Serve hot over steamed jasmine rice or quinoa if desired, garnished with extra scallions. Enjoy a light, herby Jamaican stir‑fry that’s egg‑free and full of flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "light",
+    "stir-fry",
+    "jamaican",
+    "vegetarian",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 326,
+    "protein": 16,
+    "carbs": 8,
+    "fat": 26
+  },
+  "slug": "light-herbal-jamaican-tofu-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-herbal-jamaican-tofu-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:02:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tofu",
+    "descriptor": "Light Herbal",
+    "dishForm": "Stir-fry"
+  }
+}
