@@ -1,0 +1,107 @@
+{
+  "title": "Luscious Thai Tofu Curry",
+  "description": "A creamy, cilantro‑infused tofu curry that feels indulgent yet stays light and vegetarian-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 Tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat until shimmering.",
+    "Add the onion, garlic, and ginger; sauté until the onion becomes translucent, about 3‑4 minutes.",
+    "Stir in the red curry paste and cook for 30 seconds until fragrant.",
+    "Pour in the coconut milk and bring to a gentle simmer.",
+    "Add the tofu cubes, bell pepper, carrot, and zucchini, and simmer for 10 minutes until the vegetables are tender but still crisp.",
+    "Season with soy sauce, brown sugar, and a pinch of salt; stir in the lime juice and chopped parsley just before serving.",
+    "Taste and adjust seasoning if needed, then serve hot over steamed jasmine rice or with warm naan.",
+    "Allow the curry to sit for 5 minutes; the flavors will deepen while the tofu soaks up the sauce."
+  ],
+  "slug": "luscious-thai-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-thai-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:15:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Luscious",
+    "dishForm": "Curry"
+  }
+}

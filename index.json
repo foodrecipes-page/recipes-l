@@ -1941,5 +1941,13 @@
     "cuisine": "Syrian",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-thai-tofu-curry",
+    "title": "Luscious Thai Tofu Curry",
+    "tags": [],
+    "cuisine": "Thai",
+    "totalTimeMin": null,
+    "shard": "l"
   }
 ]
