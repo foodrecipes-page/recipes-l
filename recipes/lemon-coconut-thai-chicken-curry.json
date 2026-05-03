@@ -1,0 +1,117 @@
+{
+  "title": "Lemon Coconut Thai Chicken Curry",
+  "description": "A rich, juicy Thai curry that balances bright lemon flavor with creamy coconut, perfect for kids and low‑sodium friendly.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone‑in, skin‑on chicken thighs",
+      "amount": "454 g",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "1 tbsp",
+      "notes": "use low‑sodium variety"
+    },
+    {
+      "name": "low‑sodium fish sauce",
+      "amount": "1 tbsp",
+      "notes": "use low‑sodium variety"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "adds sweetness, can reduce if needed"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "full‑fat coconut milk",
+      "amount": "1 can (14 oz / 400 ml)",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup, sliced",
+      "notes": "about 150 g"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup, chopped",
+      "notes": "about 90 g"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, minced",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together low‑sodium soy sauce, low‑sodium fish sauce, honey, lemon juice, and red curry paste until smooth; set aside.",
+    "Heat a tablespoon of vegetable oil in a large skillet or wok over medium heat. Add minced garlic and ginger, cooking until fragrant (about 30 seconds).",
+    "Add chicken pieces and sear until browned on all sides, about 5 minutes. Transfer chicken to a plate.",
+    "Pour coconut milk into the skillet, scraping up browned bits. Bring to a gentle simmer.",
+    "Return chicken to the skillet along with the prepared sauce mixture. Stir to combine.",
+    "Add sliced carrots and broccoli florets. Cover and cook on low heat until vegetables are tender and chicken reaches 75 °C (165 °F), about 10‑12 minutes.",
+    "Stir in lemon zest, lemon juice, and a splash of water if the sauce is too thick. Let simmer for 2 minutes, adjusting seasoning with a pinch of salt if needed.",
+    "Serve curry over steamed jasmine rice or cauliflower rice, garnishing with fresh cilantro or green onions. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "curry",
+    "lemon",
+    "coconut",
+    "kid-friendly",
+    "low-sodium",
+    "vegetable-rich"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 17,
+    "carbs": 13,
+    "fat": 32
+  },
+  "slug": "lemon-coconut-thai-chicken-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-coconut-thai-chicken-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:24:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "lemons",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Chicken",
+    "descriptor": "Lemon Coconut",
+    "dishForm": "Curry"
+  }
+}
