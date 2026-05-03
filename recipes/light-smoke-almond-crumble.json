@@ -27,7 +27,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "In a medium-sized bowl, combine the blanched almonds and ground allspice. Drizzle with honey or maple syrup.",
     "Add orange juice and salt to the mixture, ensuring it is well combined.",
     "Spread the almond mixture evenly on a baking sheet lined with parchment paper.",
@@ -48,9 +48,9 @@
   ],
   "nutrition": {
     "calories": 209,
-    "protein": 3.6,
-    "carbs": 17.7,
-    "fat": 12.4
+    "protein": 4,
+    "carbs": 18,
+    "fat": 12
   },
   "slug": "light-smoke-almond-crumble",
   "source": "ollama-qwen2.5:3b",

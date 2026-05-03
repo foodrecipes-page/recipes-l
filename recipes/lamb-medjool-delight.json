@@ -1,6 +1,6 @@
 {
   "title": "Lamb Medjool Delight",
-  "description": "A buttery and juicy Syrian dish featuring lamb loin chops that's perfect for post-workout recovery. This mediterranean-friendly meal is seasoned with aromatic herbs and spices, then sautéed until perfectly tender.",
+  "description": "A buttery and juicy Syrian dish featuring lamb loin chops that's perfect for post-workout recovery. This mediterranean-friendly meal is seasoned with aromatic herbs and spices, then sauteed until perfectly tender.",
   "cuisine": "Syrian",
   "diet": [
     "vegan",
@@ -17,7 +17,7 @@
     {
       "name": "Extra-virgin olive oil",
       "amount": "2 tablespoons",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "Fresh lemon juice",
@@ -46,12 +46,12 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375°F (190°C).",
+    "Preheat your oven to 375\u00b0F (190\u00b0C).",
     "Pat the lamb chops dry with paper towels and season them generously on both sides with salt, pepper, and crushed red pepper flakes. Optionally, you can also add a pinch of cinnamon or cumin for extra depth of flavor.",
     "Heat 2 tablespoons of olive oil in a large oven-proof skillet over medium-high heat. Once the oil is shimmering hot, carefully place the lamb chops in the pan, skin side down first. Cook for about 5 minutes on each side until they develop nice grill marks and are nicely browned. Remove from the skillet and set aside.",
     "Pour out most of the cooking fat from the skillet but leave a small amount to prevent sticking. Add minced garlic cloves and cook for another minute, being careful not to burn them. Then add fresh lemon juice and chopped mint leaves. Stir gently to combine all the ingredients together until they form a fragrant sauce. If needed, you can use a little more olive oil at this point to thin out the sauce if it becomes too thick.",
     "Place the seasoned lamb chops back into the skillet, spooning the warm marinade over them so that they are fully covered in the flavorful mixture. You may drizzle some extra virgin olive oil on top of each chop for a richer flavor and appearance.",
-    "Transfer the skillet to your preheated oven and roast the lamb at 375°F (190°C) until cooked through, about 20 minutes more. For an even better result, you can also baste the chops with the warm marinade every 8-10 minutes during this final phase of cooking.",
+    "Transfer the skillet to your preheated oven and roast the lamb at 375\u00b0F (190\u00b0C) until cooked through, about 20 minutes more. For an even better result, you can also baste the chops with the warm marinade every 8-10 minutes during this final phase of cooking.",
     "Once done, remove the lamb from the oven and let it rest for a few minutes before slicing into pieces. Serve hot with your favorite sides or as is to enjoy the juicy and buttery goodness."
   ],
   "prepTimeMin": 30,

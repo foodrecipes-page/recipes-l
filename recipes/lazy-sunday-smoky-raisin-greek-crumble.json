@@ -26,7 +26,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Mix softened butter and brown sugar until creamy.",
     "Stir in flour and cinnamon, making sure mixture is crumbly.",
     "Press mixture into a greased dish and bake for 20 minutes or until golden brown.",
@@ -45,8 +45,8 @@
   ],
   "nutrition": {
     "calories": 176,
-    "protein": 2.8,
-    "carbs": 30.4,
+    "protein": 3,
+    "carbs": 30,
     "fat": 9
   },
   "slug": "lazy-sunday-smoky-raisin-greek-crumble",

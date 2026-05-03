@@ -42,17 +42,17 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide machine to 50°C (122°F). Season the chuck roast generously with salt and pepper.",
+    "Preheat your sous-vide machine to 50\u00b0C (122\u00b0F). Season the chuck roast generously with salt and pepper.",
     "Sear the beef on all sides in a pan until golden brown, then transfer to the sous-vide bag. Cook for about 4-6 hours.",
     "Remove from the cooker and let it rest at room temperature for at least an hour before slicing thinly against the grain.",
-    "Heat olive oil in a large pot over medium heat; add onion and garlic, sauté until translucent. Stir in sliced beef and cook till browned.",
+    "Heat olive oil in a large pot over medium heat; add onion and garlic, saut\u00e9 until translucent. Stir in sliced beef and cook till browned.",
     "Add red bell pepper, thyme sprigs, lemon juice, remaining fresh thyme leaves. Cover with vegetable broth or water to reach your desired liquid level.",
     "Simmer gently for 30 minutes, then remove the lid and reduce sauce until thickened slightly (around 25-30 more minutes).",
     "Serve hot as a hearty main dish or side, garnished with fresh thyme sprigs."
   ],
   "prepTimeMin": 1,
   "cookTimeMin": 45,
-  "totalTimeMin": 120,
+  "totalTimeMin": 46,
   "servings": 6,
   "difficulty": "medium",
   "tags": [

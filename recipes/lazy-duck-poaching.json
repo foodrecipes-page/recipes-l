@@ -55,11 +55,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (392°F).",
+    "Preheat oven to 200\u00b0C (392\u00b0F).",
     "Season duck breast with salt and lemon zest.",
     "In a shallow dish, mix mustard, cayenne pepper, pomegranate molasses, and coconut oil. Coat the duck breasts in this mixture.",
     "Place coated duck breasts on a rack in a roasting pan and place under oven preheat. Roast for 30 minutes.",
-    "Reduce heat to 150°C (302°F) and continue poaching for an additional 30-40 minutes or until internal temperature reaches 75°C (167°F).",
+    "Reduce heat to 150\u00b0C (302\u00b0F) and continue poaching for an additional 30-40 minutes or until internal temperature reaches 75\u00b0C (167\u00b0F).",
     "Sprinkle toasted sesame seeds over the top of duck breasts before serving."
   ],
   "prepTimeMin": 15,
@@ -75,8 +75,8 @@
   ],
   "nutrition": {
     "calories": 710,
-    "protein": 52.3,
-    "carbs": 43.6,
+    "protein": 52,
+    "carbs": 44,
     "fat": 32
   },
   "slug": "lazy-duck-poaching",

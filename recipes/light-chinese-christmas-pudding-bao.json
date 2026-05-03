@@ -1,6 +1,6 @@
 {
   "title": "Light Chinese Christmas Pudding Bao",
-  "description": "Fluffy, gluten‑free bao filled with a fragrant light Christmas pudding reduction, perfect for a brunch‑style holiday treat.",
+  "description": "Fluffy, glutenfree bao filled with a fragrant light Christmas pudding reduction, perfect for a brunchstyle holiday treat.",
   "cuisine": "Chinese",
   "diet": [
     "gluten-free",
@@ -9,7 +9,7 @@
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "gluten‑free all‑purpose flour blend",
+      "name": "gluten\u2011free all\u2011purpose flour blend",
       "amount": "250g"
     },
     {
@@ -33,7 +33,7 @@
       "amount": "2 tbsp"
     },
     {
-      "name": "warm water (40°C)",
+      "name": "warm water (40\u00b0C)",
       "amount": "120ml"
     },
     {
@@ -41,7 +41,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "light Christmas pudding (low‑sugar)",
+      "name": "light Christmas pudding (low\u2011sugar)",
       "amount": "120g"
     },
     {
@@ -67,7 +67,7 @@
     "After the dough has risen, punch it down and divide into 8 equal portions.",
     "Flatten each portion into a circle, place a tablespoon of the pudding filling in the center, fold the dough over and seal the edges by pinching or pressing with a fork.",
     "Place the shaped bao on a parchment-lined steamer tray, cover with a damp cloth, and steam over boiling water for 10 minutes.",
-    "Remove the bun from the steamer, let rest for 5 minutes, and serve warm – optionally dusted with powdered sugar or drizzled with a light coconut milk sauce."
+    "Remove the bun from the steamer, let rest for 5 minutes, and serve warm \u2013 optionally dusted with powdered sugar or drizzled with a light coconut milk sauce."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,

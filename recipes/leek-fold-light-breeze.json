@@ -5,7 +5,7 @@
   "diet": [
     "low-carb"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "1 small onion",
@@ -39,7 +39,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (180°C).",
+    "Preheat oven to 350\u00b0F (180\u00b0C).",
     "Heat the butter in a skillet over medium heat. Add diced onion, cook until translucent.",
     "Add leeks and garlic to the skillet; cook for about 7-10 minutes until softened.",
     "Stir in lemon juice, salt, and pepper.",

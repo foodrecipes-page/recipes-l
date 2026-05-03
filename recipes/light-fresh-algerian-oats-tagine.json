@@ -70,9 +70,9 @@
   ],
   "nutrition": {
     "calories": 250,
-    "protein": "5g",
-    "carbs": "45g",
-    "fat": "5g"
+    "protein": 5,
+    "carbs": 45,
+    "fat": 5
   },
   "slug": "light-fresh-algerian-oats-tagine",
   "source": "groq-llama-3.1-8b-instant",

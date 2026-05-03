@@ -9,7 +9,7 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Paški sir (sheep cheese)",
+      "name": "Pa\u0161ki sir (sheep cheese)",
       "amount": "200 g",
       "notes": "shredded"
     },
@@ -91,9 +91,9 @@
   ],
   "nutrition": {
     "calories": 281,
-    "protein": 10.75,
-    "carbs": 4.5,
-    "fat": 22.75
+    "protein": 11,
+    "carbs": 4,
+    "fat": 23
   },
   "slug": "lavender-creamy-croatian-cheese-fritters",
   "source": "ocloud-gpt-oss:20b",

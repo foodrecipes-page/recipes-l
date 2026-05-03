@@ -1,6 +1,6 @@
 {
   "title": "Light Flaky Brazilian Flour Dumplings",
-  "description": "Delicate, airy dumplings made with self‑raising flour that puff into fluffy, translucent spheres, perfect for a light snack or side dish.",
+  "description": "Delicate, airy dumplings made with selfraising flour that puff into fluffy, translucent spheres, perfect for a light snack or side dish.",
   "cuisine": "Brazilian",
   "diet": [
     "vegetarian",
@@ -9,39 +9,39 @@
   "meal": "snack",
   "ingredients": [
     {
-      "name": "self‑raising flour",
-      "amount": "200 g"
+      "name": "self\u2011raising flour",
+      "amount": "200\u202fg"
     },
     {
       "name": "water",
-      "amount": "120 ml",
+      "amount": "120\u202fml",
       "notes": "warm"
     },
     {
       "name": "salt",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "olive oil",
-      "amount": "1 tbsp"
+      "amount": "1\u202ftbsp"
     },
     {
       "name": "paprika",
-      "amount": "½ tsp"
+      "amount": "\u00bd\u202ftsp"
     },
     {
       "name": "sugar",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     }
   ],
   "instructions": [
-    "In a large bowl, whisk 200 g self‑raising flour, 1 tsp salt, ½ tsp paprika, and 1 tsp sugar until well blended.",
-    "Create a well in the center and pour in 120 ml warm water and 1 tbsp olive oil.",
+    "In a large bowl, whisk 200\u202fg self\u2011raising flour, 1\u202ftsp salt, \u00bd\u202ftsp paprika, and 1\u202ftsp sugar until well blended.",
+    "Create a well in the center and pour in 120\u202fml warm water and 1\u202ftbsp olive oil.",
     "Stir with a wooden spoon until a soft, slightly sticky dough forms.",
-    "Turn the dough onto a lightly floured surface and knead gently for 1–2 minutes until smooth.",
-    "Divide the dough into 12 equal portions and roll each into a small ball about 1.5 cm in diameter.",
+    "Turn the dough onto a lightly floured surface and knead gently for 1\u20132 minutes until smooth.",
+    "Divide the dough into 12 equal portions and roll each into a small ball about 1.5\u202fcm in diameter.",
     "Bring a large pot of salted water to a rolling boil; gently drop dumplings in batches, stirring gently to prevent sticking.",
-    "Boil for 3–4 minutes, or until the dumplings rise to the surface and are tender; remove with a slotted spoon and serve warm."
+    "Boil for 3\u20134 minutes, or until the dumplings rise to the surface and are tender; remove with a slotted spoon and serve warm."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,

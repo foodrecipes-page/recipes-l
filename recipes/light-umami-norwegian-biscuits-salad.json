@@ -1,6 +1,6 @@
 {
   "title": "Light Umami Norwegian Biscuits Salad",
-  "description": "A refreshing, dairy‑free post‑workout salad that blends crisp oat‑based cookie crumbs with salmon, avocado, and an umami dressing.",
+  "description": "A refreshing, dairyfree postworkout salad that blends crisp oatbased cookie crumbs with salmon, avocado, and an umami dressing.",
   "cuisine": "Norwegian",
   "diet": [
     "dairy-free",
@@ -9,7 +9,7 @@
   "meal": "snack",
   "ingredients": [
     {
-      "name": "dairy‑free Oreo‑style cream biscuits",
+      "name": "dairy\u2011free Oreo\u2011style cream biscuits",
       "amount": "8 biscuits",
       "notes": "crumbled after toasting"
     },
@@ -33,7 +33,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "low‑sodium soy sauce",
+      "name": "low\u2011sodium soy sauce",
       "amount": "2 tsp"
     },
     {
@@ -49,7 +49,7 @@
       "amount": "1 tsp"
     },
     {
-      "name": "extra‑virgin olive oil",
+      "name": "extra\u2011virgin olive oil",
       "amount": "1 tsp"
     },
     {
@@ -68,7 +68,7 @@
     "Add the arugula to the bowl of dressing and toss until the leaves are evenly coated.",
     "Fold in the crumbled biscuits, diced salmon, avocado, and toasted sesame seeds, mixing gently to keep the avocado from breaking apart.",
     "Taste and adjust seasoning if necessary.",
-    "Serve immediately for a crunchy, light, umami‑packed snack."
+    "Serve immediately for a crunchy, light, umami\u2011packed snack."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 2,

@@ -37,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 180°C (350°F).",
+    "Preheat your oven to 180\u00b0C (350\u00b0F).",
     "Prepare the bhuna sauce by heating olive oil in a pan and frying minced garlic until golden, then adding diced tomatoes, onions, and spices like cumin, coriander, and turmeric. Cook for about 10 minutes.",
     "Rinse fermented vegetables well to remove excess salt and rinse off any visible brine, if necessary. Chop finely and mix into the bhuna sauce with protein crumbles (if using).",
     "In a baking dish, place lasagne sheets one by one, layering with the bhuna sauce mixture in between each sheet. If using cheese, sprinkle it evenly on top of the last layer.",
@@ -50,9 +50,9 @@
   "servings": 6,
   "difficulty": "easy",
   "tags": [
-    "lazy sunday",
-    "protein lasagne",
-    "fermented vegetables"
+    "lazy-sunday",
+    "protein-lasagne",
+    "fermented-vegetables"
   ],
   "nutrition": {
     "calories": 1200,

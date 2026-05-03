@@ -39,8 +39,8 @@
   "nutrition": {
     "calories": 103,
     "protein": 0,
-    "carbs": 24.75,
-    "fat": 8.9
+    "carbs": 25,
+    "fat": 9
   },
   "slug": "lazy-sunday-russian-raspberry-jam-stir-fry",
   "source": "ollama-qwen2.5:3b",

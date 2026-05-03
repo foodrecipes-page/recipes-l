@@ -43,7 +43,7 @@
   ],
   "prepTimeMin": 2,
   "cookTimeMin": 0,
-  ": ": "totalTimeMin”: 3",
+  ": ": "totalTimeMin\u201d: 3",
   "servings": 1,
   "difficulty": "easy",
   "tags": [
@@ -76,5 +76,6 @@
     "mainIngredient": "black pudding",
     "descriptor": "Light",
     "dishForm": "Sandwich"
-  }
+  },
+  "totalTimeMin": 40
 }

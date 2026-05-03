@@ -31,10 +31,10 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "In a medium saucepan, combine the butter and sugar. Stir until smooth and well combined.",
     "Add corn syrup and vanilla extract. Heat over medium-high heat, stirring frequently to prevent burning.",
-    "Increase heat to high and bring mixture to a boil, stirring constantly. Continue cooking for about 3 minutes or until it reaches a soft ball stage (235°F).",
+    "Increase heat to high and bring mixture to a boil, stirring constantly. Continue cooking for about 3 minutes or until it reaches a soft ball stage (235\u00b0F).",
     "Remove from heat and carefully stir in the ground walnuts and salt until evenly coated. Let cool slightly before spreading onto parchment-lined baking sheets.",
     "Chill in refrigerator for at least an hour, then slice into small pieces."
   ],
@@ -51,9 +51,9 @@
   ],
   "nutrition": {
     "calories": 149,
-    "protein": 2.3,
-    "carbs": 16.7,
-    "fat": 8.8
+    "protein": 2,
+    "carbs": 17,
+    "fat": 9
   },
   "slug": "lazy-sunday-walnut-caramels",
   "source": "ollama-qwen2.5:3b",

@@ -35,7 +35,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a mixing bowl, combine cornstarch and melted butter. Add vanilla extract and sugar.",
     "Add eggs one at a time, blending well after each addition.",
     "Gradually add flour while continuing to mix until just combined. Do not overmix.",
@@ -58,5 +58,20 @@
     "primaryIngredient": "cornstarch",
     "diet": "dash",
     "region": null
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "chinese",
+    "dessert"
+  ]
 }

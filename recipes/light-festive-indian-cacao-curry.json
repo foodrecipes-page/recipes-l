@@ -1,6 +1,6 @@
 {
   "title": "Light Festive Indian Cacao Curry",
-  "description": "A bright, fermented cacao-infused curry that blends the warmth of Indian spices with a subtle chocolate undertone, topped with fresh herbs, perfect for a protein‑friendly, festive meal.",
+  "description": "A bright, fermented cacao-infused curry that blends the warmth of Indian spices with a subtle chocolate undertone, topped with fresh herbs, perfect for a proteinfriendly, festive meal.",
   "cuisine": "Indian",
   "diet": [
     "vegetarian",
@@ -73,10 +73,10 @@
   "instructions": [
     "Blanch the spinach by bringing a pot of water to a boil, adding the spinach for 30 seconds, then transferring it to ice water, draining, and setting aside.",
     "Heat 1 teaspoon neutral oil in a saucepan over medium heat. Add the diced onion and cook until translucent, about 3 minutes.",
-    "Add the minced garlic and grated ginger, sautéing for 1 minute until fragrant.",
+    "Add the minced garlic and grated ginger, saut\u00e9ing for 1 minute until fragrant.",
     "Stir in smoked paprika, ground cumin, and cacao powder; cook for 30 seconds to toast the spices.",
-    "Pour in the low‑fat coconut milk and bring the mixture to a gentle simmer.",
-    "Add the cubed tofu, drained chickpeas, fermented soy sauce, and lime juice. Simmer for 5–7 minutes so the flavors meld.",
+    "Pour in the low\u2011fat coconut milk and bring the mixture to a gentle simmer.",
+    "Add the cubed tofu, drained chickpeas, fermented soy sauce, and lime juice. Simmer for 5\u20137 minutes so the flavors meld.",
     "Fold in the blanched spinach and cook until just wilted, about 2 minutes.",
     "Taste and adjust seasoning, adding a pinch of salt if needed.",
     "Transfer the curry to serving bowls, garnish with a sprinkle of chopped fresh cilantro if desired.",
@@ -99,5 +99,20 @@
     "mainIngredient": "cacao",
     "descriptor": "Light Festive",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "lunch"
+  ]
 }

@@ -5,7 +5,7 @@
   "diet": [
     "high-protein-friendly"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Chicken Thighs",
@@ -49,13 +49,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Season chicken thighs with salt, pepper, and a pinch of thyme.",
     "Coat both sides of chicken with olive oil, including on the skin side for added crunchiness.",
     "Place chicken in a baking dish skin-side up. Arrange red onion slices and garlic clove mash evenly over each thigh.",
     "Drizzle white wine over chicken, cover tightly with foil to seal in moisture, then place into preheated oven for 30 minutes.",
     "Remove foil and top chicken thighs with pumpkin seeds, ensuring they are not touching the meat to prevent burning. Return to oven.",
-    "Bake until internal temperature reaches 165°F (74°C) for optimal doneness, approximately 25-30 more minutes based on size of pieces.",
+    "Bake until internal temperature reaches 165\u00b0F (74\u00b0C) for optimal doneness, approximately 25-30 more minutes based on size of pieces.",
     "Remove from oven and let rest for a few minutes before serving."
   ],
   "prepTimeMin": 20,

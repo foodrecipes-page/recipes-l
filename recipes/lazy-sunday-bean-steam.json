@@ -39,10 +39,10 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Soak the pinto beans overnight in water and drain before cooking.",
     "In a large pot, combine soaked pinto beans with 2 cups of water. Bring to a boil then reduce heat to low, cover, and simmer for about 45 minutes or until tender.",
-    "While the beans are cooking, sauté onion and garlic in olive oil over medium heat for about 3-5 minutes, until translucent.",
+    "While the beans are cooking, saut\u00e9 onion and garlic in olive oil over medium heat for about 3-5 minutes, until translucent.",
     "Add cumin powder and cook for another minute.",
     "Stir in tomato sauce puree, reduce heat to low, and let it simmer for a few more minutes. This mixture will help thicken the bean stew.",
     "Once the beans are cooked and soft, add them into the onion-garlic-cumin-tomato puree mix and stir well to combine evenly.",
@@ -78,5 +78,6 @@
     "primaryIngredient": "pinto beans",
     "diet": "pescatarian",
     "region": null
-  }
+  },
+  "prepTimeMin": 15
 }

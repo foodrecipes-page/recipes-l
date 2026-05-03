@@ -1,6 +1,6 @@
 {
   "title": "Low-Fat Tagliatelle Wot",
-  "description": "A savory, light festive Ethiopian dish featuring tagliatelle made with a low-fat sauce that’s quick to prepare and cook.",
+  "description": "A savory, light festive Ethiopian dish featuring tagliatelle made with a low-fat sauce thats quick to prepare and cook.",
   "cuisine": "Ethiopian",
   "diet": [
     "low-fat",
@@ -55,7 +55,7 @@
   ],
   "instructions": [
     "Heat almond oil in a large pot over medium heat.",
-    "Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Add minced garlic and saut\u00e9 for about 1 minute until fragrant.",
     "Stir in chili powder, turmeric, tomato paste, water, milk or almond milk, and canned tomatoes. Bring to a boil.",
     "Reduce heat to low, cover, and let simmer for about 20 minutes, stirring occasionally.",
     "Mix in green onions and shredded mozzarella cheese until melted and smooth.",
@@ -77,8 +77,8 @@
   ],
   "nutrition": {
     "calories": 341,
-    "protein": 17.6,
-    "carbs": 29.5,
+    "protein": 18,
+    "carbs": 30,
     "fat": 8
   },
   "slug": "low-fat-tagliatelle-wot",

@@ -1,6 +1,6 @@
 {
   "title": "Luscious Thai Tofu Curry",
-  "description": "A creamy, cilantro‑infused tofu curry that feels indulgent yet stays light and vegetarian-friendly.",
+  "description": "A creamy, cilantroinfused tofu curry that feels indulgent yet stays light and vegetarian-friendly.",
   "cuisine": "Thai",
   "diet": [
     "vegetarian"
@@ -9,40 +9,40 @@
   "ingredients": [
     {
       "name": "firm tofu",
-      "amount": "400 g",
+      "amount": "400\u202fg",
       "notes": "pressed and cubed"
     },
     {
       "name": "coconut milk",
-      "amount": "400 ml"
+      "amount": "400\u202fml"
     },
     {
       "name": "red curry paste",
-      "amount": "2 Tbsp"
+      "amount": "2\u202fTbsp"
     },
     {
       "name": "fresh parsley",
-      "amount": "1/4 cup",
+      "amount": "1/4\u202fcup",
       "notes": "finely chopped"
     },
     {
       "name": "red bell pepper",
-      "amount": "1 medium",
+      "amount": "1\u202fmedium",
       "notes": "sliced thin"
     },
     {
       "name": "carrot",
-      "amount": "1 medium",
+      "amount": "1\u202fmedium",
       "notes": "julienned"
     },
     {
       "name": "zucchini",
-      "amount": "1 cup",
+      "amount": "1\u202fcup",
       "notes": "sliced"
     },
     {
       "name": "onion",
-      "amount": "1 medium",
+      "amount": "1\u202fmedium",
       "notes": "diced"
     },
     {
@@ -52,24 +52,24 @@
     },
     {
       "name": "fresh ginger",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "grated"
     },
     {
       "name": "soy sauce",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "brown sugar",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "lime juice",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "vegetable oil",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "salt",
@@ -78,7 +78,7 @@
   ],
   "instructions": [
     "Heat the oil in a large skillet over medium heat until shimmering.",
-    "Add the onion, garlic, and ginger; sauté until the onion becomes translucent, about 3‑4 minutes.",
+    "Add the onion, garlic, and ginger; saut\u00e9 until the onion becomes translucent, about 3\u20114 minutes.",
     "Stir in the red curry paste and cook for 30 seconds until fragrant.",
     "Pour in the coconut milk and bring to a gentle simmer.",
     "Add the tofu cubes, bell pepper, carrot, and zucchini, and simmer for 10 minutes until the vegetables are tender but still crisp.",
@@ -103,5 +103,20 @@
     "mainIngredient": "tofu",
     "descriptor": "Luscious",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "thai",
+    "dinner"
+  ]
 }
