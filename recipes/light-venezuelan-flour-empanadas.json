@@ -1,0 +1,124 @@
+{
+  "title": "Light Venezuelan Flour Empanadas",
+  "description": "Flaky, sweet empanadas made with low‑sodium flour dough, a coconut‑raspberry filling, and a subtle sweet chili bhuna sauce.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups (240 g)",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.2 tsp",
+      "notes": "low‑sodium variety"
+    },
+    {
+      "name": "unsalted butter, cold",
+      "amount": "2 tbsp (28 g)",
+      "notes": ""
+    },
+    {
+      "name": "cold water",
+      "amount": "3/4 cup (180 ml)",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp (25 g)",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup (240 ml)",
+      "notes": ""
+    },
+    {
+      "name": "coconut flakes, toasted",
+      "amount": "1/2 cup (45 g)",
+      "notes": ""
+    },
+    {
+      "name": "raspberries, fresh",
+      "amount": "1 cup (120 g)",
+      "notes": ""
+    },
+    {
+      "name": "sweet chili bhuna sauce",
+      "amount": "2 tbsp (30 ml)",
+      "notes": ""
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for greasing",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk flour, baking powder, salt, and sugar.",
+    "Cut in cold butter with a pastry blender until the mixture resembles coarse crumbs.",
+    "Add cold water gradually, stirring until a dough forms.",
+    "Turn dough onto a floured surface, knead lightly until smooth, then cover and chill 30 minutes.",
+    "Meanwhile, combine coconut milk, toasted coconut flakes, and raspberries in a saucepan over low heat until the fruit softens, about 5 minutes.",
+    "Stir in sweet chili bhuna sauce and cook for 1 minute; cool slightly.",
+    "Preheat oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+    "Roll out chilled dough to 1/8-inch thickness; cut 3-inch circles with a cutter.",
+    "Place a spoonful of filling in the center of each circle, fold into a half‑moon, and press edges with a fork.",
+    "Brush tops with beaten egg; place on prepared sheet.",
+    "Bake for 12–15 minutes or until golden.",
+    "Cool on a rack; serve warm or at room temperature."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-friendly",
+    "low-sodium",
+    "sweet",
+    "flaky",
+    "empanada",
+    "venezuelan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 5,
+    "carbs": 43,
+    "fat": 12
+  },
+  "slug": "light-venezuelan-flour-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-venezuelan-flour-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:38:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "bhuna",
+    "primaryIngredient": "chilli sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "flour",
+    "descriptor": "Light",
+    "dishForm": "Empanadas"
+  }
+}
