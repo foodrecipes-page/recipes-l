@@ -533,6 +533,20 @@
     "shard": "l"
   },
   {
+    "slug": "lean-dutch-chicken-roast",
+    "title": "Lean Dutch Chicken Roast",
+    "tags": [
+      "lean",
+      "dutch-roast",
+      "low-carb",
+      "diabetic-friendly",
+      "post-workout"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 75,
+    "shard": "l"
+  },
+  {
     "slug": "leek-fold-light-breeze",
     "title": "Leek Fold Light Breeze",
     "tags": [
@@ -656,6 +670,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "light-caramelized-moroccan-chicken-tagine",
+    "title": "Light Caramelized Moroccan Chicken Tagine",
+    "tags": [
+      "moroccan",
+      "chicken",
+      "tagine",
+      "caramelized",
+      "diabetic-friendly",
+      "gluten-free"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
