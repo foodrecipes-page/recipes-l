@@ -1,0 +1,106 @@
+{
+  "title": "Australian Macaroni with Peppery Knead",
+  "description": "A light, peppery, one-pot Australian macaroni pasta dish that's easy to make and vegetarian-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Kipfler potatoes",
+      "amount": "2 medium, peeled and diced",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Peppery Knead (see note)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Grated cheddar",
+      "amount": "100g",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large saucepan over medium heat. Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for a further minute.",
+    "Add the diced potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the Peppery Knead, tomato paste, vegetable broth, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to the boil, then reduce the heat to low and simmer for 10-12 minutes, or until the potatoes are tender.",
+    "Add the macaroni to the saucepan and stir to combine. Cook for a further 8-10 minutes, or until the macaroni is al dente.",
+    "If using, stir in the grated cheddar until melted.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Note: To make Peppery Knead, combine 2 tbsp of chopped fresh parsley, 1 tsp of grated ginger, and 1/2 tsp of black pepper in a bowl. Mix well to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "macaroni-pasta",
+    "peppery-knead",
+    "vegetarian-friendly",
+    "one-pot",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 62,
+    "fat": 12
+  },
+  "slug": "light-peppery-australian-macaroni-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-peppery-australian-macaroni-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:49:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "macaroni",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "macaroni",
+    "descriptor": "light peppery",
+    "dishForm": "Pasta"
+  }
+}
