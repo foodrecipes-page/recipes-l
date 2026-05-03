@@ -1,0 +1,103 @@
+{
+  "title": "Light Malaysian Fish Bun",
+  "description": "A delicate and flavorful Malaysian-inspired dish featuring steamed fish and soft buns, perfect for a lazy Sunday. This pescatarian-friendly recipe combines the freshness of fish with the comfort of a warm bun.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4 pieces (120g each)",
+      "notes": "any white fish works, such as cod or tilapia"
+    },
+    {
+      "name": "buns",
+      "amount": "4 pieces",
+      "notes": "soft and fluffy Malaysian-style buns"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the steamer by filling the bottom with 1 cup of water and bringing it to a boil.",
+    "Reduce the heat to medium-low and place the fish fillets in the steamer basket.",
+    "Steam the fish for 8-10 minutes or until cooked through.",
+    "While the fish is cooking, toast the buns by steaming them for 2-3 minutes.",
+    "Prepare the sauce by mixing soy sauce, sesame oil, salt, pepper, and lemon juice in a small bowl.",
+    "Once the fish is cooked, remove it from the steamer and place it on a plate.",
+    "Brush the sauce over the fish and garnish with chopped scallions and sliced ginger.",
+    "Serve the fish with the toasted buns and enjoy.",
+    "You can also add other toppings such as sliced cucumbers or pickled carrots to the buns.",
+    "To assemble, place a piece of fish on each bun and add your desired toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "fish",
+    "bun",
+    "steamed",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "light-malaysian-fish-bun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-malaysian-fish-bun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:48:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "bun",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fish",
+    "descriptor": "light",
+    "dishForm": "Bun"
+  }
+}
