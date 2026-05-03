@@ -1,0 +1,107 @@
+{
+  "title": "Light Crispy Japanese Tuna Poke",
+  "description": "A refreshing and light Japanese dish made with sashimi-grade tuna, black olives, and air-fried to perfection. Perfect for a date-night dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "raw-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sashimi-grade tuna",
+      "amount": "200g",
+      "notes": "Fresh and of high quality"
+    },
+    {
+      "name": "Black olives",
+      "amount": "1/4 cup, pitted",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Sushi rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "For dressing the tuna"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added umami flavor"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon",
+      "notes": "For balance of sweetness"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tablespoons",
+      "notes": "For air-frying"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Cut the sashimi-grade tuna into small cubes and place in a bowl.",
+    "In a small bowl, whisk together sushi rice vinegar, soy sauce, and honey.",
+    "Pour the dressing over the tuna and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat the air fryer to 400°F (200°C).",
+    "Add the black olives to the air fryer basket and cook for 2-3 minutes, or until crispy.",
+    "Remove the black olives from the air fryer and set aside.",
+    "Add the green onion to the air fryer basket and cook for 1-2 minutes, or until slightly caramelized.",
+    "Remove the green onion from the air fryer and set aside.",
+    "Add the sesame seeds to the air fryer basket and cook for 1 minute, or until lightly toasted.",
+    "Remove the sesame seeds from the air fryer and set aside.",
+    "Using a slotted spoon, remove the tuna from the dressing and place on a serving plate.",
+    "Drizzle the remaining dressing over the tuna and top with crispy black olives, green onion, and toasted sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "seafood",
+    "date-night",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "light-crispy-japanese-tuna-poke",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-crispy-japanese-tuna-poke",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:03:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "air-fry",
+    "primaryIngredient": "black olives",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tuna",
+    "descriptor": "Light Crispy",
+    "dishForm": "Poke"
+  }
+}
