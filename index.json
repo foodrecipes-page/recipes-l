@@ -717,6 +717,23 @@
     "shard": "l"
   },
   {
+    "slug": "light-chinese-christmas-pudding-bao",
+    "title": "Light Chinese Christmas Pudding Bao",
+    "tags": [
+      "gluten-free",
+      "vegetarian",
+      "brunch",
+      "pudding",
+      "bao",
+      "light",
+      "dessert",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 90,
+    "shard": "l"
+  },
+  {
     "slug": "light-comforting-doner-wraps",
     "title": "Light Comforting Doner Wraps",
     "tags": [
@@ -1213,6 +1230,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 33,
+    "shard": "l"
+  },
+  {
+    "slug": "light-peppery-middle-eastern-chickpeas-tagine",
+    "title": "Light Peppery Middle Eastern Chickpeas Tagine",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "tagine",
+      "chickpea",
+      "peppery"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {

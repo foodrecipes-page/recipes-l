@@ -1,0 +1,121 @@
+{
+  "title": "Light Peppery Middle Eastern Chickpeas Tagine",
+  "description": "A bright, peppery chickpea tagine that balances cumin, coriander, and smoked paprika with a velvety drizzle of clotted cream, and can be made dairy‑free with coconut cream.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas, dried",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion, medium",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "¼ cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "2 tbsp",
+      "notes": "optional; replace with coconut cream for dairy‑free"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust at end"
+    }
+  ],
+  "instructions": [
+    "Rinse soaked chickpeas and set aside.",
+    "Heat olive oil in a heavy‑bottomed pot or tagine over medium heat. Add diced onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute until fragrant.",
+    "Stir in cumin, coriander, smoked paprika, and a pinch of freshly ground black pepper; cook spices for 30 seconds to bloom.",
+    "Add chickpeas, lemon juice, and vegetable broth. Bring to a gentle simmer, cover, and cook 25–30 minutes until chickpeas are tender and sauce thickens.",
+    "Stir in clotted cream (or coconut cream), allowing it to warm through but not boil, to retain its silky texture.",
+    "Taste and season with salt, adjusting lemon juice if needed; add a pinch of cayenne if extra heat is desired.",
+    "Remove from heat, stir in chopped fresh cilantro and a few drops of lemon juice if extra brightness is desired.",
+    "Serve hot with warm flatbread or over couscous, garnished with extra cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "tagine",
+    "chickpea",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "light-peppery-middle-eastern-chickpeas-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-peppery-middle-eastern-chickpeas-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:17:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "clotted cream",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Light Peppery",
+    "dishForm": "Tagine"
+  }
+}

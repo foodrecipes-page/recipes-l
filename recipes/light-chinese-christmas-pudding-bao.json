@@ -1,0 +1,111 @@
+{
+  "title": "Light Chinese Christmas Pudding Bao",
+  "description": "Fluffy, gluten‑free bao filled with a fragrant light Christmas pudding reduction, perfect for a brunch‑style holiday treat.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "gluten‑free all‑purpose flour blend",
+      "amount": "250g"
+    },
+    {
+      "name": "tapioca starch",
+      "amount": "50g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "warm water (40°C)",
+      "amount": "120ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "light Christmas pudding (low‑sugar)",
+      "amount": "120g"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brandy (optional)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cornstarch slurry",
+      "amount": "1 tsp cornstarch + 2 tsp water",
+      "notes": "to thicken pudding"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together the flour blend, tapioca starch, baking powder, salt, and sugar.",
+    "In a small bowl dissolve the yeast in warm water with a pinch of sugar, let stand for 5 minutes until frothy.",
+    "Add the yeast mixture and olive oil to the dry ingredients, mix until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface for about 5 minutes until smooth, then cover and let rise in a warm place until doubled in size, about 60 minutes.",
+    "While the dough is rising, prepare the pudding filling: whisk the light Christmas pudding with brandy, ginger powder, and the cornstarch slurry until smooth, then simmer over medium heat for 3 minutes until slightly thickened; set aside to cool.",
+    "After the dough has risen, punch it down and divide into 8 equal portions.",
+    "Flatten each portion into a circle, place a tablespoon of the pudding filling in the center, fold the dough over and seal the edges by pinching or pressing with a fork.",
+    "Place the shaped bao on a parchment-lined steamer tray, cover with a damp cloth, and steam over boiling water for 10 minutes.",
+    "Remove the bun from the steamer, let rest for 5 minutes, and serve warm – optionally dusted with powdered sugar or drizzled with a light coconut milk sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegetarian",
+    "brunch",
+    "pudding",
+    "bao",
+    "light",
+    "dessert",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 56,
+    "fat": 2
+  },
+  "slug": "light-chinese-christmas-pudding-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-chinese-christmas-pudding-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:16:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "knead",
+    "primaryIngredient": "christmas pudding",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Light",
+    "dishForm": "Bao"
+  }
+}
