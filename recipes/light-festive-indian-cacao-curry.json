@@ -1,0 +1,103 @@
+{
+  "title": "Light Festive Indian Cacao Curry",
+  "description": "A bright, fermented cacao-infused curry that blends the warmth of Indian spices with a subtle chocolate undertone, topped with fresh herbs, perfect for a protein‑friendly, festive meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Low-fat coconut milk",
+      "amount": "1 can (400 ml)",
+      "notes": null
+    },
+    {
+      "name": "Canned chickpeas",
+      "amount": "200 g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "200 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cacao powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fermented soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "1 cup",
+      "notes": "blanched"
+    }
+  ],
+  "instructions": [
+    "Blanch the spinach by bringing a pot of water to a boil, adding the spinach for 30 seconds, then transferring it to ice water, draining, and setting aside.",
+    "Heat 1 teaspoon neutral oil in a saucepan over medium heat. Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and grated ginger, sautéing for 1 minute until fragrant.",
+    "Stir in smoked paprika, ground cumin, and cacao powder; cook for 30 seconds to toast the spices.",
+    "Pour in the low‑fat coconut milk and bring the mixture to a gentle simmer.",
+    "Add the cubed tofu, drained chickpeas, fermented soy sauce, and lime juice. Simmer for 5–7 minutes so the flavors meld.",
+    "Fold in the blanched spinach and cook until just wilted, about 2 minutes.",
+    "Taste and adjust seasoning, adding a pinch of salt if needed.",
+    "Transfer the curry to serving bowls, garnish with a sprinkle of chopped fresh cilantro if desired.",
+    "Serve hot, accompanied by steamed rice or flatbread."
+  ],
+  "slug": "light-festive-indian-cacao-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-festive-indian-cacao-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:40:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "cacao",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cacao",
+    "descriptor": "Light Festive",
+    "dishForm": "Curry"
+  }
+}
