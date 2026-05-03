@@ -1,0 +1,109 @@
+{
+  "title": "Laced Thai Fish Roast",
+  "description": "A salty, crumbly date‑night Thai dish featuring goose fat and a roasted fish fillet glazed with a fragrant lemongrass and lime paste, pescatarian-friendly and perfect for an intimate dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "200 g",
+      "notes": "e.g., snapper or sea bass"
+    },
+    {
+      "name": "goose fat",
+      "amount": "20 g",
+      "notes": "for roasting"
+    },
+    {
+      "name": "fresh lemongrass stalk",
+      "amount": "1 stalk",
+      "notes": "crushed and minced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "gluten‑free tamari"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "10 g",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional for balance"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Pat fish fillets dry and season lightly with salt and pepper.",
+    "Combine minced lemongrass, garlic, chili, lime juice, cilantro, tamari, sesame seeds, and brown sugar in a bowl to make a paste.",
+    "Melt goose fat in a skillet and spread it evenly over a baking sheet.",
+    "Place the fish fillets on the sheet and spread the aromatic paste on top of each fillet.",
+    "Roast for 20 minutes until the fish flakes easily and the exterior is crisp.",
+    "Let the fish rest for 3 minutes before serving.",
+    "Serve with extra lime wedges and a sprinkle of fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "one-pan",
+    "pescatarian",
+    "salty",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 34,
+    "carbs": 3,
+    "fat": 26
+  },
+  "slug": "laced-thai-fish-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/laced-thai-fish-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:00:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "goose fat",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fish",
+    "descriptor": "Laced",
+    "dishForm": "Roast"
+  }
+}

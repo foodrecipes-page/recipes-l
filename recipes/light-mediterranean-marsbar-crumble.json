@@ -1,0 +1,91 @@
+{
+  "title": "Light Mediterranean Marsbar Crumble",
+  "description": "A playful, salty crumble that blends the salty crunch of a Mars Bar with fresh Mediterranean flavors for a low-sodium snack or dessert.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars Bar",
+      "amount": "1",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dried figs, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "Pinch of"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit and whisk together the almond flour, rolled oats, chopped almonds, honey, olive oil, dried figs, and sea salt in a bowl until crumbly.",
+    "Fold in the broken Mars Bar pieces until evenly distributed throughout the crumble mixture.",
+    "Spread the mixture evenly onto a greased baking sheet or small oven-safe dish.",
+    "Bake for 12 to 15 minutes, or until the edges are golden brown and the crumble feels firm to the touch.",
+    "Remove from the oven and allow to cool for a few minutes before breaking into pieces.",
+    "Serve warm as a dessert or a crunchy snack alongside a cup of herbal tea or a glass of white wine.",
+    "Store any leftovers in an airtight container at room temperature for up to 3 days.",
+    "Reheat briefly in a 350-degree oven for 2 minutes if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "dessert",
+    "low-sodium",
+    "mediterranean",
+    "one-pan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 9,
+    "carbs": 72,
+    "fat": 37
+  },
+  "slug": "light-mediterranean-marsbar-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mediterranean-marsbar-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:01:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "mars bar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Marsbar",
+    "descriptor": "Light",
+    "dishForm": "Crumble"
+  }
+}

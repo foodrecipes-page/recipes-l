@@ -1,5 +1,20 @@
 [
   {
+    "slug": "laced-thai-fish-roast",
+    "title": "Laced Thai Fish Roast",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "one-pan",
+      "pescatarian",
+      "salty",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lamb-medjool-delight",
     "title": "Lamb Medjool Delight",
     "tags": [
@@ -1236,6 +1251,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-mediterranean-marsbar-crumble",
+    "title": "Light Mediterranean Marsbar Crumble",
+    "tags": [
+      "crumble",
+      "dessert",
+      "low-sodium",
+      "mediterranean",
+      "one-pan",
+      "snack"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "light-midnight-craving-british-butter-wrap",
     "title": "Light Midnight-Craving British Butter Wrap",
     "tags": [
@@ -2110,6 +2140,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-lime-american-chicken-wrap",
+    "title": "Luscious Lime American Chicken Wrap",
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "quick",
+      "savory",
+      "wrap"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {

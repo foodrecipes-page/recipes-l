@@ -1,0 +1,113 @@
+{
+  "title": "Luscious Lime American Chicken Wrap",
+  "description": "A crisp, sweet and tangy chicken wrap packed with lime zest and a crunchy protein boost, perfect for a quick romantic meal.",
+  "cuisine": "American",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skinless chicken breast",
+      "amount": "200g",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "2 large"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "almonds, crushed",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Season the chicken strips with lime zest, lime juice, garlic powder, smoked paprika, cumin, salt, and pepper, then toss to coat evenly.",
+    "Heat a skillet over medium-high heat, add the olive oil, and cook the chicken for 5 minutes until golden and cooked through.",
+    "Take a tortilla, warm it in the skillet for 30 seconds on each side, then spread a thin layer of Greek yogurt over the center.",
+    "Lay the cooked chicken strips onto the yogurt, sprinkle chopped cilantro and crushed almonds over the top.",
+    "Fold the sides of the tortilla in, then roll tightly to enclose the filling, ensuring the wrap is sealed.",
+    "Place the wrapped tortilla seam-side down in the skillet and cook for 2 minutes, then flip and cook the other side for 1 minute.",
+    "Remove from heat, slice the wrap diagonally, and serve warm.",
+    "Optionally drizzle a little lime juice over the top for extra zing.",
+    "Serve immediately with a side of cucumber slices or a light salad.",
+    "Enjoy your high-protein, low-carb crunchy wrap!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "quick",
+    "savory",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "luscious-lime-american-chicken-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-lime-american-chicken-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:01:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "mixture powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Luscious Lime",
+    "dishForm": "Wrap"
+  }
+}
