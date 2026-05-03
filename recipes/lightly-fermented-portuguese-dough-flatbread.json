@@ -1,0 +1,90 @@
+{
+  "title": "Lightly Fermented Portuguese Dough Flatbread",
+  "description": "A traditional Portuguese dish featuring lightly fermented dough and gherkin relish, perfect for satisfying midnight cravings. This recipe is FODMAP friendly and made with simple ingredients.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "at 100F"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine warm water, yeast, and sugar, and let it sit for 10 minutes until the yeast is activated.",
+    "Add flour, salt, and 1 tablespoon of olive oil to the bowl, and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a cool place for 12 hours.",
+    "Preheat the oven to 400F and punch down the dough.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and brush with the remaining 1 tablespoon of olive oil.",
+    "Bake the flatbreads for 15 minutes until they are lightly browned.",
+    "Remove the flatbreads from the oven and top each one with gherkin relish.",
+    "Serve the flatbreads warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-dough",
+    "flatbread",
+    "fodmap-friendly",
+    "gherkin-relish",
+    "midnight-craving",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "lightly-fermented-portuguese-dough-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fermented-portuguese-dough-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:54:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "gherkin relish",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "dough",
+    "descriptor": "Lightly Fermented",
+    "dishForm": "Flatbread"
+  }
+}
