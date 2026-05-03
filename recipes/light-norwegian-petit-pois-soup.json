@@ -1,0 +1,93 @@
+{
+  "title": "Light Norwegian Petit Pois Soup",
+  "description": "A bright, mild soup made from petit pois (snow peas) simmered with a quick deglaze for depth, perfect for meal prep and egg‑free friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "snow peas (petit pois)",
+      "amount": "400 g",
+      "notes": "fresh or frozen, trimmed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 L",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "finely diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 Tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "white wine",
+      "amount": "½ cup",
+      "notes": "for deglaze"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion, carrot, celery and garlic; sauté 5 min until softened.",
+    "Stir in white wine, let reduce for 2 min to deglaze the pan, scraping up brown bits.",
+    "Add snow peas and vegetable broth; bring to a gentle boil.",
+    "Reduce heat, cover and simmer for 10 min until peas are tender.",
+    "Season with salt, pepper, and dried dill; adjust as needed.",
+    "Use an immersion blender to partially puree for a silky texture, or leave chunky for contrast.",
+    "Serve warm, or allow to cool and store in airtight containers for up to 3 days."
+  ],
+  "slug": "light-norwegian-petit-pois-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-norwegian-petit-pois-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:30:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "petit pois",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "petit pois",
+    "descriptor": "Light",
+    "dishForm": "Soup"
+  }
+}
