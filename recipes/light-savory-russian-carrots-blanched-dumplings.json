@@ -1,0 +1,90 @@
+{
+  "title": "Light Savory Russian Carrot Blanched Dumplings",
+  "description": "A delicate, comforting Russian vegetarian dish featuring cardamom and blanched carrots.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 4 cups of water to a boil. Blanch the carrots for 5-7 minutes, or until tender.",
+    "Drain the carrots and let them cool to room temperature.",
+    "In a large mixing bowl, combine the flour, cold unsalted butter, and water. Mix until the dough comes together.",
+    "Knead the dough for 5-7 minutes until it is smooth and elastic.",
+    "Divide the dough into 8 equal pieces. Roll each piece into a ball and flatten it slightly into a disk.",
+    "Place a tablespoon of cooled carrots in the center of each dough disk. Fold the dough over the carrots and press the edges to seal.",
+    "In a large pot of boiling water, cook the dumplings for 5-7 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot.",
+    "Garnish with chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "vegetarian",
+    "dumplings",
+    "cardamom",
+    "carrots"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "light-savory-russian-carrots-blanched-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-savory-russian-carrots-blanched-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:33:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "blanch",
+    "primaryIngredient": "cardamom",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "carrots",
+    "descriptor": "light savory",
+    "dishForm": "Blanched Dumplings"
+  }
+}

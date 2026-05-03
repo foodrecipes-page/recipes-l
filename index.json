@@ -806,6 +806,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-fresh-algerian-oats-tagine",
+    "title": "Light Fresh Algerian Oats Tagine",
+    "tags": [
+      "algerian",
+      "oats",
+      "tagine",
+      "low-fat",
+      "snack",
+      "midnight-craving"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "light-fresh-festive-kenyan-dum-stir-fry",
     "title": "Light Fresh Festive Kenyan Dum Stir-fry",
     "tags": [
@@ -1168,6 +1183,20 @@
     ],
     "cuisine": "saudi arabian",
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "light-savory-russian-carrots-blanched-dumplings",
+    "title": "Light Savory Russian Carrot Blanched Dumplings",
+    "tags": [
+      "russian",
+      "vegetarian",
+      "dumplings",
+      "cardamom",
+      "carrots"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
