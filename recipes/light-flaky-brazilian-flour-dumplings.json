@@ -1,0 +1,84 @@
+{
+  "title": "Light Flaky Brazilian Flour Dumplings",
+  "description": "Delicate, airy dumplings made with self‑raising flour that puff into fluffy, translucent spheres, perfect for a light snack or side dish.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "self‑raising flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "water",
+      "amount": "120 ml",
+      "notes": "warm"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk 200 g self‑raising flour, 1 tsp salt, ½ tsp paprika, and 1 tsp sugar until well blended.",
+    "Create a well in the center and pour in 120 ml warm water and 1 tbsp olive oil.",
+    "Stir with a wooden spoon until a soft, slightly sticky dough forms.",
+    "Turn the dough onto a lightly floured surface and knead gently for 1–2 minutes until smooth.",
+    "Divide the dough into 12 equal portions and roll each into a small ball about 1.5 cm in diameter.",
+    "Bring a large pot of salted water to a rolling boil; gently drop dumplings in batches, stirring gently to prevent sticking.",
+    "Boil for 3–4 minutes, or until the dumplings rise to the surface and are tender; remove with a slotted spoon and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "flaky",
+    "dumplings",
+    "vegetarian",
+    "nut-free",
+    "quick",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 880,
+    "protein": 12,
+    "carbs": 74,
+    "fat": 14
+  },
+  "slug": "light-flaky-brazilian-flour-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-flaky-brazilian-flour-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:44:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "boil",
+    "primaryIngredient": "self-raising flour",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "flour",
+    "descriptor": "Light Flaky",
+    "dishForm": "dumplings"
+  }
+}
