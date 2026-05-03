@@ -1,0 +1,105 @@
+{
+  "title": "Light Rich Indian Mulukhiyah Curry",
+  "description": "A Mangalorean-inspired curry featuring mulukhiyah, perfect for a hangover cure or a light meal. This dish is rich in flavor yet low in fat.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mulukhiyah leaves",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle.",
+    "Add chopped onion, minced garlic, and grated ginger. Cook until the onion is translucent.",
+    "Add chopped green chili and cook for another minute.",
+    "Add mulukhiyah leaves and cook until they wilt.",
+    "In a separate bowl, whisk together coconut milk, coriander powder, turmeric powder, and salt.",
+    "Pour the coconut milk mixture into the pan and stir well.",
+    "Transfer the curry to a sous-vide bag and seal.",
+    "Cook in a water bath at 180°F (82°C) for 30 minutes.",
+    "Serve hot over rice or with roti."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-curry",
+    "low-fat",
+    "gluten-free",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "light-rich-indian-mulukhiyah-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-rich-indian-mulukhiyah-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:46:01Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "low-fat",
+    "region": "mangalorean",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "light rich",
+    "dishForm": "Curry"
+  }
+}
