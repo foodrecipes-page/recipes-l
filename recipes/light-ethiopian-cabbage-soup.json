@@ -1,0 +1,122 @@
+{
+  "title": "Light Ethiopian Cabbage Soup",
+  "description": "A bright, sour, one‑pot soup with shredded cabbage, fermented cabbage, oregano, and a splash of lemon, kosher‑friendly and wonderfully light.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "1 head (shredded, ~2 cups)",
+      "notes": ""
+    },
+    {
+      "name": "fermented cabbage (sauerkraut)",
+      "amount": "1 cup (drained)",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium (diced)",
+      "notes": "~1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (diced)",
+      "notes": "~1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves (minced)",
+      "notes": "~1 tbsp"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tbsp (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth, low sodium",
+      "amount": "4 cups (960 ml)",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup (240 ml)",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a 6‑quart pot over medium heat.",
+    "Add diced onion and carrots, sauté until softened, about 5 minutes.",
+    "Stir in minced garlic and oregano, cook for 30 seconds until fragrant.",
+    "Add shredded cabbage and fermented cabbage, stir to combine.",
+    "Pour in vegetable broth and water, bring to a gentle boil.",
+    "Reduce heat, cover, and simmer for 15 minutes until cabbage is tender.",
+    "Season with kosher salt and black pepper, adjusting to taste.",
+    "Stir in lemon juice, then remove from heat.",
+    "Let the soup rest for 5 minutes before serving.",
+    "Ladle into bowls, garnish with fresh oregano if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "sour",
+    "one-pot",
+    "kosher-friendly",
+    "vegetarian",
+    "low-fat",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 17,
+    "carbs": 62,
+    "fat": 15
+  },
+  "slug": "light-ethiopian-cabbage-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-ethiopian-cabbage-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:57:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "oregano",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Light",
+    "dishForm": "Soup"
+  }
+}
