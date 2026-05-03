@@ -1,0 +1,80 @@
+{
+  "title": "Light American Black Pudding Sandwich",
+  "description": "A fresh, light sandwich featuring black pudding, pickle, and a touch of mustard for a bold yet balanced flavor profile. Perfect for adventurous eaters seeking a quick, kosher-friendly meal.",
+  "cuisine": "american",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "2 oz (57g)",
+      "notes": "kashrut-certified"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup (60g)",
+      "notes": "diced, kosher pickles"
+    },
+    {
+      "name": "dill pickle relish",
+      "amount": "1 tsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/2 tsp",
+      "notes": "Dijon or yellow"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 slice",
+      "notes": "light, unsalted"
+    }
+  ],
+  "instructions": [
+    "Slice black pudding into thin rounds using a sharp knife.",
+    "Place 1 slice of whole wheat bread on a plate.",
+    "Layer 1/4 cup diced pickle and 1 tsp relish on the bread.",
+    "Top with a thin slice of black pudding.",
+    "Add 1/2 tsp mustard for flavor.",
+    "Press gently and serve immediately."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 0,
+  ": ": "totalTimeMin”: 3",
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "black-pudding",
+    "pickle",
+    "kosher",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "light-american-black-pudding-sandwich",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-american-black-pudding-sandwich",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:36:10Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "black pudding",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "black pudding",
+    "descriptor": "Light",
+    "dishForm": "Sandwich"
+  }
+}
