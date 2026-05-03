@@ -1,0 +1,89 @@
+{
+  "title": "Light American Rye Bread",
+  "description": "A fermented, light rye bread perfect for festive occasions, made with a simple dough that's both vegetarian-friendly and airy.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "2 cups",
+      "notes": "high-moisture, stone-ground"
+    },
+    {
+      "name": "white flour",
+      ": 1 cup, 1 cup for gluten structure and lightness (use all-purpose if needed, but rye flour is strong; balance with white for better rise and light texture) but in this case, to keep it light and American, use minimal white flour (e.g., 1/2 cup) to avoid heavy texture. Let's adjust: 1/2 cup white flour for better structure without heaviness. But the recipe should be 4-12 ingredients, so let's keep it simple. For a light rye bread, a common approach is to use 1 part rye flour and 1 part white flour. But to keep it light, we can use less white flour. However, the problem says ": "",
+      "amount": "1/2 cup",
+      "notes": "for gluten structure"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": "for fermentation"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "105-110°F (40-43°C)"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for fermentation and flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for flavor and gluten development"
+    }
+  ],
+  "instructions": [
+    "Combine warm water, sugar, and yeast in a bowl; let sit for 5 minutes until foamy.",
+    "Add rye flour, white flour, salt, and a pinch of sugar to the yeast mixture; mix until a shaggy dough forms.",
+    "Knead for 5-7 minutes until smooth and elastic (add a splash of water if too dry).",
+    "Place dough in a lightly oiled bowl, cover with a damp cloth, and let rise for 1 hour at room temperature.",
+    "Punch down the dough, shape into a loaf, and place in a greased pan.",
+    "Let rise again for 30 minutes, then bake at 350°F (175°C) for 25-30 minutes until golden and hollow-sounding when tapped.",
+    "Cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 30,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "rye",
+    "fermented",
+    "light",
+    "vegetarian",
+    "bread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 8,
+    "carbs": 28,
+    "fat": 2
+  },
+  "slug": "light-american-rye-bread",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-american-rye-bread",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:15:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "knead",
+    "primaryIngredient": "rye",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "rye",
+    "descriptor": "Light",
+    "dishForm": "Bread"
+  }
+}
