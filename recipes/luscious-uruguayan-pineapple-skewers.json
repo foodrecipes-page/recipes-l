@@ -1,0 +1,107 @@
+{
+  "title": "Luscious Uruguayan Pineapple Skewers",
+  "description": "A midnight craving grilled pineapple skewer with brine-dry salt, umami soy-worcestershire glaze, and a touch of smoky paprika.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb",
+    "umami"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple, medium",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Aged sea salt",
+      "amount": "1 tsp",
+      "notes": "for brine-dry"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tbsp",
+      "notes": "adds umami"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional heat"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a bowl, whisk together soy sauce, Worcestershire sauce, smoked paprika, lime juice, olive oil, black pepper, garlic powder, and crushed red pepper flakes.",
+    "Pat pineapple cubes dry with paper towels, then sprinkle with sea salt and toss to coat.",
+    "Thread pineapple cubes onto skewers, spacing them evenly.",
+    "Brush each skewer generously with the glaze mixture, reserving some for later use.",
+    "Place skewers on the grill and cook 3 to 4 minutes per side, basting with remaining glaze as they turn.",
+    "Remove from grill when pineapple is caramelized and slightly charred, about 12 minutes total.",
+    "Serve hot, optionally garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "late-night",
+    "low-carb",
+    "skewers",
+    "snack",
+    "umami",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 13,
+    "fat": 4
+  },
+  "slug": "luscious-uruguayan-pineapple-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-uruguayan-pineapple-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:42:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "brine-dry",
+    "primaryIngredient": "pineapple",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Luscious",
+    "dishForm": "Skewers"
+  }
+}
