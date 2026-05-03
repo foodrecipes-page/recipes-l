@@ -1,0 +1,63 @@
+{
+  "title": "Light Italian Corn Arepa",
+  "description": "A herbal, light post-workout Italian dish featuring corn arepa filled with fresh mozzarella and herbs. Perfect for gluten-free diets.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1/2 cup",
+      "notes": "gluten-free cornmeal"
+    },
+    {
+      "name": "fresh mozzarella",
+      "amount": "1/4 cup",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Combine cornmeal and 1/4 cup water in a bowl. Let rest 5 minutes.",
+    "Heat a small pan over medium heat. Add cornmeal mixture and cook until golden.",
+    "While cooking, blend fresh mozzarella with a pinch of salt and 1 tbsp basil.",
+    "Place mozzarella mixture in the center of the corn arepa. Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "italian",
+    "corn",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 8,
+    "carbs": 22,
+    "fat": 8
+  },
+  "slug": "light-italian-corn-arepa",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-italian-corn-arepa",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:20:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "corn",
+    "descriptor": "light",
+    "dishForm": "arepa"
+  }
+}
