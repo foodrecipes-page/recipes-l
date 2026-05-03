@@ -1,0 +1,63 @@
+{
+  "title": "Light Kenyan Lamb Stew",
+  "description": "A nostalgic Kenyan dish featuring tender lamb cooked in a light lamb stock with minimal spices, perfect for diabetics due to low carbohydrate content.",
+  "cuisine": "kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "200g",
+      "notes": "bone-in, skin-on for tenderness"
+    },
+    {
+      "name": "lamb stock",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Brown lamb pieces in a pot over medium heat until lightly seared",
+    "Add lamb stock and 1 cup water; simmer gently for 25 minutes",
+    "Stir in 1 tsp ginger, 1/2 tsp turmeric, and 1/4 tsp black pepper",
+    "Simmer uncovered for 15 minutes until lamb is tender"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 40,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "lamb",
+    "stew",
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "light-kenyan-lamb-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-kenyan-lamb-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T08:51:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "marinate",
+    "primaryIngredient": "lamb stock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Light",
+    "dishForm": "Stew"
+  }
+}
