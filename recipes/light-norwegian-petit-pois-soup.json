@@ -1,6 +1,6 @@
 {
   "title": "Light Norwegian Petit Pois Soup",
-  "description": "A bright, mild soup made from petit pois (snow peas) simmered with a quick deglaze for depth, perfect for meal prep and egg‑free friendly.",
+  "description": "A bright, mild soup made from petit pois (snow peas) simmered with a quick deglaze for depth, perfect for meal prep and eggfree friendly.",
   "cuisine": "Norwegian",
   "diet": [
     "vegetarian"
@@ -14,8 +14,8 @@
     },
     {
       "name": "vegetable broth",
-      "amount": "1 L",
-      "notes": "low‑sodium"
+      "amount": "1\u202fL",
+      "notes": "low\u2011sodium"
     },
     {
       "name": "carrot",
@@ -39,17 +39,17 @@
     },
     {
       "name": "olive oil",
-      "amount": "1 Tbsp",
-      "notes": "for sauté"
+      "amount": "1\u202fTbsp",
+      "notes": "for saut\u00e9"
     },
     {
       "name": "white wine",
-      "amount": "½ cup",
+      "amount": "\u00bd\u202fcup",
       "notes": "for deglaze"
     },
     {
       "name": "dried dill",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "optional"
     },
     {
@@ -58,16 +58,16 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": "freshly ground"
     }
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add onion, carrot, celery and garlic; sauté 5 min until softened.",
-    "Stir in white wine, let reduce for 2 min to deglaze the pan, scraping up brown bits.",
+    "Add onion, carrot, celery and garlic; saut\u00e9 5\u202fmin until softened.",
+    "Stir in white wine, let reduce for 2\u202fmin to deglaze the pan, scraping up brown bits.",
     "Add snow peas and vegetable broth; bring to a gentle boil.",
-    "Reduce heat, cover and simmer for 10 min until peas are tender.",
+    "Reduce heat, cover and simmer for 10\u202fmin until peas are tender.",
     "Season with salt, pepper, and dried dill; adjust as needed.",
     "Use an immersion blender to partially puree for a silky texture, or leave chunky for contrast.",
     "Serve warm, or allow to cool and store in airtight containers for up to 3 days."
@@ -89,5 +89,20 @@
     "mainIngredient": "petit pois",
     "descriptor": "Light",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "norwegian",
+    "lunch"
+  ]
 }
