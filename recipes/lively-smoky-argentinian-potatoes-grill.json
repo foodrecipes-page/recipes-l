@@ -1,0 +1,84 @@
+{
+  "title": "Lively Smoky Argentinian Potatoes Grill",
+  "description": "A smoky, bouncy potato dish that delivers comfort and Argentinian flair, perfect for a temple-friendly meal.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Charlotte potatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Wash the potatoes and cut them in thick slices about 1 inch thick.",
+    "Pat the slices dry with a clean towel to ensure a crisp surface."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "buddhist-friendly",
+    "comfort-food",
+    "grill",
+    "one-pan",
+    "potatoes",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "lively-smoky-argentinian-potatoes-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-smoky-argentinian-potatoes-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:25:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Lively Smoky",
+    "dishForm": "Grill"
+  }
+}
