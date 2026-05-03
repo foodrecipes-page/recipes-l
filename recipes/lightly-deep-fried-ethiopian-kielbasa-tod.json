@@ -1,0 +1,87 @@
+{
+  "title": "Lightly Deep-Fried Ethiopian Kielbasa Tod",
+  "description": "A quick-fix Ethiopian-inspired dish featuring kielbasa, deep-fried tod, and a hint of spices. This recipe is perfect for a weeknight dinner or lunch.",
+  "cuisine": "ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan or a deep fryer to 350°F (180°C).",
+    "Cut the kielbasa into 1-inch pieces and set aside.",
+    "In a shallow dish, mix together the flour, cornstarch, sambal oelek, salt, and black pepper.",
+    "Dip each kielbasa piece into the beaten eggs and then coat in the flour mixture, shaking off excess.",
+    "Fry the coated kielbasa pieces in batches until golden brown, about 3-4 minutes per batch.",
+    "Using a slotted spoon, remove the fried kielbasa from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the fried kielbasa hot with a side of tod (Ethiopian flatbread) for dipping in the spicy oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "lightly-deep-fried-ethiopian-kielbasa-tod",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-deep-fried-ethiopian-kielbasa-tod",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:25:18Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "kielbasa",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Lightly Deep-Fried",
+    "dishForm": "Tod"
+  }
+}
