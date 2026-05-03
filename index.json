@@ -2020,6 +2020,21 @@
     "shard": "l"
   },
   {
+    "slug": "lovely-gooey-german-beef-stew",
+    "title": "Lovely Gooey German Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "date-night",
+      "german-cuisine",
+      "one-pot",
+      "paleo-friendly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 150,
+    "shard": "l"
+  },
+  {
     "slug": "low-cali-friendly-portuguese-mincemeat-stir-fry",
     "title": "Low Cali Friendly Portuguese Mincemeat Stir-fry",
     "tags": [
@@ -2153,6 +2168,21 @@
       "wrap"
     ],
     "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-thai-new-potatoes-curry",
+    "title": "Luscious Thai New Potatoes Curry",
+    "tags": [
+      "hangover-cure",
+      "low-sodium",
+      "one-pot",
+      "potato-curry",
+      "quick-dinner",
+      "thai-curry"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 30,
     "shard": "l"
   },

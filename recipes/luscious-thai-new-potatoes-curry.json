@@ -1,0 +1,111 @@
+{
+  "title": "Luscious Thai New Potatoes Curry",
+  "description": "Savory, velvety Thai curry that feels like a hangover cure, featuring tender new potatoes in a low-sodium coconut broth.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "500g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low-sodium fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "shallot",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4 torn leaves"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 handful, chopped"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Wash and slice the new potatoes into bite-sized pieces.",
+    "Heat the oil in a large pot over medium heat and sauté the garlic, shallot, and ginger until fragrant.",
+    "Add the red curry paste and cook for 2 minutes, stirring constantly.",
+    "Pour in the coconut milk and water, then bring the mixture to a gentle simmer.",
+    "Add the sliced potatoes and low-sodium fish sauce, cover, and simmer for 15 minutes or until the potatoes are tender.",
+    "Stir in the lime juice, kaffir lime leaves, and fresh basil, cooking for an additional 2 minutes.",
+    "Taste the curry and adjust seasoning if needed, keeping the salt low.",
+    "Serve the curry hot over steamed rice or enjoy on its own, garnishing with extra basil or crushed peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "low-sodium",
+    "one-pot",
+    "potato-curry",
+    "quick-dinner",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "luscious-thai-new-potatoes-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-thai-new-potatoes-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:07:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "new potatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "New Potatoes",
+    "descriptor": "Luscious",
+    "dishForm": "Curry"
+  }
+}
