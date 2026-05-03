@@ -1,0 +1,119 @@
+{
+  "title": "Lovely Crumbly British Sausage Fried Sausage Roll",
+  "description": "A cozy British dish featuring crumbly sausage, capers, and a hint of mustard. Serve warm and enjoy with a cup of tea!",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sausage meat (500g)",
+      "amount": "500g",
+      "notes": "Use a store-bought or homemade sausage meat mixture"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "100g",
+      "notes": "Panko or regular breadcrumbs work well"
+    },
+    {
+      "name": "Cheddar cheese (115g)",
+      "amount": "115g",
+      "notes": "Shredded or grated cheese is best"
+    },
+    {
+      "name": "Capers (15g)",
+      "amount": "15g",
+      "notes": "Chopped or sliced capers are fine"
+    },
+    {
+      "name": "Mustard (10g)",
+      "amount": "10g",
+      "notes": "Dijon or whole-grain mustard is good"
+    },
+    {
+      "name": "Egg (1)",
+      "amount": "1",
+      "notes": "Use one whole egg for the sausage mixture"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Water",
+      "amount": "50g",
+      "notes": "For the papillote"
+    },
+    {
+      "name": "Olive oil (10g)",
+      "amount": "10g",
+      "notes": "For frying"
+    },
+    {
+      "name": "Baking paper",
+      "amount": "",
+      "notes": "For the papillote"
+    },
+    {
+      "name": "Aluminum foil",
+      "amount": "",
+      "notes": "For wrapping the papillote"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a large mixing bowl, combine the sausage meat, breadcrumbs, cheddar cheese, capers, and mustard. Mix well with your hands until just combined.",
+    "Crack in the egg and mix until the mixture is sticky but not too wet. Season with salt and black pepper to taste.",
+    "Divide the mixture into 4 equal pieces and shape each into a ball. Flatten each ball slightly into a disk shape.",
+    "Place a piece of baking paper on a flat surface and lay a disk-shaped sausage mixture in the center. Drizzle with a little water and fold the baking paper over to create a papillote.",
+    "Wrap the papillote in aluminum foil and place on a baking sheet. Repeat with the remaining sausage mixture.",
+    "Bake the papillotes in the preheated oven for 20 minutes.",
+    "Remove the papillotes from the oven and carefully unwrap them. Heat a non-stick pan over medium heat and add a small amount of olive oil.",
+    "Fry the sausage rolls in the pan for 2-3 minutes on each side until golden brown and crispy.",
+    "Serve the Lovely Crumbly British Sausage Fried Sausage Roll warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "lovely-crumbly-british-sausage-fried-sausage-roll",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crumbly-british-sausage-fried-sausage-roll",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:35:19Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "papillote",
+    "primaryIngredient": "capers",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Sausage",
+    "descriptor": "Lovely Crumbly",
+    "dishForm": "Fried Sausage Roll"
+  }
+}
