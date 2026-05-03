@@ -1,0 +1,105 @@
+{
+  "title": "Luxuriant Dense Chinese Rice Congee",
+  "description": "A traditional and festive Chinese dish featuring hot chilli powder and a variety of earthy ingredients, served in a fondue pot for a unique and interactive dining experience.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese rice",
+      "amount": "2 cups",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "hot chilli powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Chinese rice in a fine mesh strainer until the water runs clear.",
+    "In a large fondue pot, combine the rinsed rice and water, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the rice has broken down and the mixture has a thick, creamy consistency.",
+    "In a small bowl, mix together the hot chilli powder, grated ginger, and minced garlic.",
+    "Add the chilli powder mixture to the rice mixture and stir to combine.",
+    "Add the sliced mushrooms, soy sauce, and sesame oil to the pot, and stir to combine.",
+    "Continue to simmer, covered, for an additional 10 minutes, or until the mushrooms are tender.",
+    "Season the congee with salt to taste.",
+    "Transfer the congee to a serving bowl and garnish with chopped scallions.",
+    "Serve the congee hot, directly from the fondue pot, and allow each guest to customize their own bowl with their choice of toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-inspired",
+    "comfort-food",
+    "festive",
+    "one-pot",
+    "spicy",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "luxuriant-dense-chinese-rice-congee",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-dense-chinese-rice-congee",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:48:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "rice",
+    "descriptor": "Luxuriant Dense",
+    "dishForm": "Congee"
+  }
+}
