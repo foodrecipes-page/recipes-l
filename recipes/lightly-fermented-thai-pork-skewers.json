@@ -1,0 +1,102 @@
+{
+  "title": "Lightly Fermented Thai Pork Skewers",
+  "description": "A central Thai dish featuring yuzu and robata grilled pork, lightly fermented for a crunchy texture, this recipe is egg free friendly and perfect for a snack or dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai chili",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yuzu juice, fish sauce, brown sugar, garlic, and Thai chili to make the marinade.",
+    "Add the sliced pork to the marinade and mix well to coat, then cover and refrigerate for 2 hours to lightly ferment.",
+    "Soak the bamboo skewers in water for 30 minutes to prevent burning.",
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Thread 2-3 pieces of the marinated pork onto each skewer, leaving a small space between each piece.",
+    "Brush the grill with vegetable oil to prevent sticking, then grill the skewers for 5-7 minutes per side, or until cooked through.",
+    "Season the skewers with salt and black pepper to taste.",
+    "Serve the skewers hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 20,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "fermented-food",
+    "gluten-free",
+    "grilled-meat",
+    "one-pan",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-fermented-thai-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fermented-thai-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:57:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "robata-grill",
+    "primaryIngredient": "yuzu",
+    "diet": "egg-free",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Lightly fermented",
+    "dishForm": "Skewers"
+  }
+}
