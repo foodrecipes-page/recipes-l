@@ -1,0 +1,113 @@
+{
+  "title": "Lively Norwegian Pork Skillet",
+  "description": "A hearty, fatty pork skillet packed with sweet dark brown sugar, tangy pickles, and fresh cabbage for an energizing Norwegian feast.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 kg",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "low sodium broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add pork cubes and brown on all sides for about 6 minutes.",
+    "Add onion and garlic, cooking until onion becomes translucent.",
+    "Stir in dark brown sugar and mustard, letting them caramelize for 2 minutes.",
+    "Pour in the low sodium broth, then add the shredded cabbage and pickles.",
+    "Season with smoked paprika, cayenne pepper, sea salt, and black pepper.",
+    "Reduce heat to medium-low, cover, and simmer for 20 minutes until pork is tender.",
+    "Remove the lid and let the sauce reduce until it coats the pork, about 5 minutes.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot straight from the skillet."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 3800,
+    "protein": 155,
+    "carbs": 53,
+    "fat": 227
+  },
+  "slug": "lively-norwegian-pork-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-norwegian-pork-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:11:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Pork",
+    "descriptor": "Lively",
+    "dishForm": "Skillet"
+  }
+}
