@@ -1,0 +1,97 @@
+{
+  "title": "Light Fluffy Brazilian Pumpkin Empanadas",
+  "description": "Savory Brazilian empanadas filled with pumpkin and cheese, perfect for a kid-friendly snack or meal. These empanadas are made with a laminated puff pastry crust for a light and fluffy texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pumpkin puree",
+      "amount": "1 cup",
+      "notes": "canned or fresh, cooked and mashed"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded, kosher"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a bowl, mix together the pumpkin puree, onion, cheese, salt, and pepper.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the pumpkin mixture in the center of each pastry circle.",
+    "Fold the pastry in half over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Drizzle the tops with olive oil.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "empanadas",
+    "kid-friendly",
+    "laminated-pastry",
+    "pumpkin-recipe",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "light-fluffy-brazilian-pumpkin-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fluffy-brazilian-pumpkin-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:17:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "lamination-puff",
+    "primaryIngredient": "pumpkin",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "light fluffy",
+    "dishForm": "Empanadas"
+  }
+}
