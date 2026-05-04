@@ -1,0 +1,98 @@
+{
+  "title": "Lightly Smoky Russian Pepper Pilaf",
+  "description": "A savory and pillowy Russian dish featuring roasted peppers and a hint of smokiness from binchotan charcoal, made paleo-friendly with cauliflower rice.",
+  "cuisine": "Russian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2 pieces",
+      "notes": "for smoking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the cauliflower florets with 1 tablespoon of olive oil and roast in the oven for 20 minutes.",
+    "Meanwhile, roast the bell peppers over an open flame or in the oven until the skin is charred.",
+    "Peel the skin off the roasted peppers and chop them into small pieces.",
+    "In a large skillet, heat the remaining 1 tablespoon of olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the roasted cauliflower, chopped peppers, salt, and black pepper to the skillet and stir to combine.",
+    "Smoke the mixture with binchotan charcoal for 5 minutes, or until lightly smoky.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower-rice",
+    "gluten-free",
+    "one-pan",
+    "paleo-friendly",
+    "russian-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "lightly-smoky-russian-pepper-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-russian-pepper-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:28:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "roasted pepper",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pepper",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Pilaf"
+  }
+}
