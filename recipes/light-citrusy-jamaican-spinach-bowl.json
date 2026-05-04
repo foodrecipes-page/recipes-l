@@ -1,0 +1,119 @@
+{
+  "title": "Light Citrusy Jamaican Spinach Bowl",
+  "description": "A refreshing and flavorful Jamaican-inspired dish perfect for a date night, featuring spinach, yuzu-cure, and halal-friendly ingredients.",
+  "cuisine": "jamaican",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby spinach",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "yuzu-cure",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Sauté the red onion and fresh ginger for 3 minutes, until softened.",
+    "Add the garlic and cook for an additional 1 minute.",
+    "Add the spinach and cook until wilted, about 2-3 minutes.",
+    "Stir in the yuzu-cure, yuzu juice, lemon juice, and honey.",
+    "Season with salt and black pepper to taste.",
+    "Top with toasted almonds and serve immediately.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "jamaican",
+    "one-pan",
+    "vegan-optional"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "light-citrusy-jamaican-spinach-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-citrusy-jamaican-spinach-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "spinach",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "spinach",
+    "descriptor": "light citrusy",
+    "dishForm": "Bowl"
+  }
+}

@@ -594,6 +594,19 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-herbal-snappy-croatian-beef-stock-pasta",
+    "title": "lazy-sunday herbal snappy croatian beef stock pasta",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-malaysian-chicken-noodles",
     "title": "Lazy Sunday Malaysian Chicken Noodles",
     "tags": [
@@ -1341,6 +1354,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 90,
+    "shard": "l"
+  },
+  {
+    "slug": "light-citrusy-jamaican-spinach-bowl",
+    "title": "Light Citrusy Jamaican Spinach Bowl",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "jamaican",
+      "one-pan",
+      "vegan-optional"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -5035,6 +5062,20 @@
     ],
     "cuisine": "Argentine",
     "totalTimeMin": 16,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-chinese-mixed-peel-scallion-pancake",
+    "title": "luscious chinese mixed peel scallion pancake",
+    "tags": [
+      "mixed-peel",
+      "one-pan",
+      "satvik-friendly",
+      "scallion-pancake",
+      "weeknight"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {

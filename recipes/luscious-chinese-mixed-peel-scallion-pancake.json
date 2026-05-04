@@ -1,0 +1,71 @@
+{
+  "title": "luscious chinese mixed peel scallion pancake",
+  "description": "a sour, shattering, solo-dinner chinese dish featuring mixed peel, double-fry-kfc, satvik-friendly, form=scallion-pancake. perfect for a weeknight meal.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "mixed peel (orange, lemon, lime)",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine flour and water. knead the dough for about 10 minutes until smooth and elastic.",
+    "cover the dough with plastic wrap and let rest for 30 minutes.",
+    "divide the dough into 4 equal pieces. roll each piece into a ball and flatten slightly into a disk shape.",
+    "brush the surface of each disk with a little vegetable oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mixed-peel",
+    "one-pan",
+    "satvik-friendly",
+    "scallion-pancake",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "luscious-chinese-mixed-peel-scallion-pancake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-chinese-mixed-peel-scallion-pancake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mixed peel",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "mixed peel",
+    "descriptor": "Luscious",
+    "dishForm": "Scallion Pancake"
+  }
+}
