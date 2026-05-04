@@ -1,0 +1,107 @@
+{
+  "title": "Light Flaky Jamaican Pork Patties",
+  "description": "Savory and flaky Jamaican pork patties featuring allspice, perfect for a hangover cure or a snack. This diabetic-friendly dish is made with a brine-wet method and served on a lazy-susan-spinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, allspice, onion, scallion, garlic, salt, black pepper, and paprika.",
+    "Mix well with your hands or a wooden spoon until just combined.",
+    "Stir in the beaten egg.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Spoon the pork mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges with a little water, then fold the other half of the pastry over the filling.",
+    "Press the edges to seal and use a fork to crimp.",
+    "Place the patties on a baking sheet lined with parchment paper and brush with a little water.",
+    "Bake for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brine-wet-method",
+    "diabetic-friendly",
+    "flaky-pastry",
+    "jamaican-cuisine",
+    "pork-recipes",
+    "snack-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "light-flaky-jamaican-pork-patties",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-flaky-jamaican-pork-patties",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:40:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "brine-wet",
+    "primaryIngredient": "allspice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "light flaky",
+    "dishForm": "Patties"
+  }
+}
