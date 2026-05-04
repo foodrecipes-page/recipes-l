@@ -2145,6 +2145,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-sweet-mediterranean-date-skewers",
+    "title": "Lightly Sweet Mediterranean Date Skewers",
+    "tags": [
+      "brine-wet",
+      "kid-friendly",
+      "kosher-friendly",
+      "mediterranean",
+      "quick-snack",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-yeasted-jamaican-egg-white-bake",
     "title": "Lightly Yeasted Jamaican Egg White Bake",
     "tags": [
@@ -2608,6 +2623,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-velvety-croatian-matcha-salad",
+    "title": "Luscious Velvety Croatian Matcha Salad",
+    "tags": [
+      "croatian-dish",
+      "easy",
+      "matcha-salad",
+      "pungent",
+      "raw-friendly",
+      "velvety"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {

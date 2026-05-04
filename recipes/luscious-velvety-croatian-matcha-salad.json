@@ -1,0 +1,116 @@
+{
+  "title": "Luscious Velvety Croatian Matcha Salad",
+  "description": "A pungent, velvety salad that blends matcha, feta, and fresh Croatian ingredients for a refreshing indulgence.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Matcha powder",
+      "amount": "2 tsp",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "50 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "12",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Toasted pine nuts",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl whisk together matcha powder, lemon juice, olive oil, honey, salt, and pepper until smooth.",
+    "Toss mixed greens in a large salad bowl.",
+    "Add diced avocado, halved cherry tomatoes, sliced olives, and thinly sliced red onion to greens.",
+    "Drizzle matcha vinaigrette over salad and toss gently to coat.",
+    "Sprinkle crumbled feta cheese evenly across the salad.",
+    "Add toasted pine nuts for crunch.",
+    "Plate the salad on a chilled serving dish.",
+    "Serve immediately while ingredients are fresh.",
+    "Optionally garnish with extra matcha powder for visual appeal.",
+    "Enjoy the velvety, pungent Croatian matcha salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-dish",
+    "easy",
+    "matcha-salad",
+    "pungent",
+    "raw-friendly",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 20,
+    "carbs": 39,
+    "fat": 64
+  },
+  "slug": "luscious-velvety-croatian-matcha-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-velvety-croatian-matcha-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:27:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "matcha",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Matcha",
+    "descriptor": "Luscious Velvety",
+    "dishForm": "Salad"
+  }
+}
