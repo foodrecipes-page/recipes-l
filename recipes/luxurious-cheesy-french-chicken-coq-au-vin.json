@@ -1,0 +1,96 @@
+{
+  "title": "Luxurious Cheesy French Chicken Coq Au Vin",
+  "description": "A rich and flavorful French dish featuring chicken cooked in a cheesy poppy seed sauce, flambeed to perfection in a copper mug.",
+  "cuisine": "French",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large copper mug over medium heat until melted.",
+    "Add the chicken to the mug and cook until browned on all sides.",
+    "Add the poppy seeds, flour, salt, and pepper to the mug and stir to combine.",
+    "Add the red wine and chicken broth to the mug and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the grated cheese until melted and smooth.",
+    "Flambe the mixture by igniting the wine with a match.",
+    "Simmer for an additional 5 minutes or until the sauce has thickened.",
+    "Serve hot in the copper mug."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "copper-cooking",
+    "flambe",
+    "french-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "luxurious-cheesy-french-chicken-coq-au-vin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-cheesy-french-chicken-coq-au-vin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:14:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "flambe",
+    "primaryIngredient": "poppy seeds",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Luxurious cheesy",
+    "dishForm": "Coq Au Vin"
+  }
+}
