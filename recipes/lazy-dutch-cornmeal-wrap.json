@@ -1,0 +1,105 @@
+{
+  "title": "Lazy Dutch Cornmeal Wrap",
+  "description": "A floral, flaky wrap made from fine yellow cornmeal, filled with Mediterranean-inspired ingredients for a relaxed Sunday lunch.",
+  "cuisine": "Dutch-Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "1/4 cup (25g)",
+      "notes": null
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup (60ml)",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (15ml)",
+      "notes": "plus extra for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "black olives",
+      "amount": "30g",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "romaine lettuce leaf",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "hummus",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together the cornmeal, warm water, 2 teaspoons of olive oil, and pinch of salt until smooth.",
+    "Heat a non-stick skillet over medium heat and lightly coat with a teaspoon of olive oil.",
+    "Pour about 2 tablespoons of the batter into the skillet, spreading it thin like a crepe; cook 2-3 minutes until the edges lift.",
+    "Flip the cornmeal pancake and cook another 1-2 minutes, then transfer to a plate and cover with foil to keep warm.",
+    "Repeat with the remaining batter, making 4-5 thin pancakes.",
+    "Spread a thin layer of hummus on each pancake, then top with crumbled feta, sliced olives, diced tomato, cucumber slices, and romaine leaf.",
+    "Fold the sides over the filling, roll tightly, and lightly press to seal.",
+    "Serve immediately, optionally garnishing with fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "lazy",
+    "mediterranean-friendly",
+    "quick",
+    "ssam-wrap"
+  ],
+  "nutrition": {
+    "calories": 485,
+    "protein": 10,
+    "carbs": 31,
+    "fat": 32
+  },
+  "slug": "lazy-dutch-cornmeal-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-dutch-cornmeal-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:34:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Lazy",
+    "dishForm": "Wrap"
+  }
+}
