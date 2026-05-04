@@ -1,0 +1,106 @@
+{
+  "title": "Lively Croatian Potato Casserole",
+  "description": "A tangy, crispy one‑pot Croatian casserole featuring allspice berries, beurre-monte and a burst of Mediterranean herbs, perfect for a vegetarian lunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "1.5 kg",
+      "notes": "peeled and sliced 3 mm"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 minced"
+    },
+    {
+      "name": "Allspice berries",
+      "amount": "5 whole"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "300 ml"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Beurre-monte (clarified butter)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "In a large Dutch oven, heat olive oil over medium heat until shimmering.",
+    "Add minced garlic and allspice berries; sauté for 30 seconds until fragrant.",
+    "Stir in paprika and tomato paste, cooking for 1 minute.",
+    "Add sliced potatoes, roasted side down, and pour in vegetable broth, covering potatoes by about 2 cm.",
+    "Season with salt and pepper; bring to a gentle simmer, cover, and cook 15 minutes.",
+    "Remove lid, increase oven temperature to 220C, and bake for 25 minutes until potatoes are golden and crispy.",
+    "While baking, melt beurre-monte in a small saucepan, then drizzle over the casserole when it’s almost done.",
+    "After baking, sprinkle chopped parsley on top and let rest 5 minutes before serving.",
+    "Serve hot, optionally with a side of fresh salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "croatian",
+    "flavorful",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 309,
+    "protein": 6,
+    "carbs": 49,
+    "fat": 14
+  },
+  "slug": "lively-croatian-potato-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-croatian-potato-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:39:49Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "beurre-monte",
+    "primaryIngredient": "allspice berries",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "potato",
+    "descriptor": "Lively",
+    "dishForm": "Casserole"
+  }
+}
