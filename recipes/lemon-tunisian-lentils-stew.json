@@ -1,0 +1,103 @@
+{
+  "title": "Lemon Tunisian Lentils Stew",
+  "description": "A tangy, pillowy stew that soothes hangovers with warm fermented whey, bright lemon and aromatic spices—no onion or garlic.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried brown lentils",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "800ml"
+    },
+    {
+      "name": "fermented whey",
+      "amount": "100ml",
+      "notes": "use leftover kefir or yogurt strained to liquid"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse lentils under cold water until water runs clear.",
+    "In a large pot, combine rinsed lentils, water, fermented whey, cumin, coriander, smoked paprika, cayenne, sea salt, and black pepper; stir.",
+    "Bring to a rolling boil, then reduce heat to low, cover, and simmer for 25 minutes until lentils are tender.",
+    "Stir in fresh lemon juice and lemon zest; reduce heat to low and simmer for an additional 5 minutes.",
+    "Remove from heat, drizzle with olive oil, and stir to coat the stew.",
+    "Let the stew rest for 5 minutes, then ladle into bowls and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "no-garlic",
+    "no-onion",
+    "tunisian",
+    "vegetarian",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 42,
+    "carbs": 124,
+    "fat": 17
+  },
+  "slug": "lemon-tunisian-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-tunisian-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:52:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "warm water",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lentils",
+    "descriptor": "Lemon",
+    "dishForm": "Stew"
+  }
+}
