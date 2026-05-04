@@ -1,0 +1,103 @@
+{
+  "title": "lightly-larded-peruvian-aubergine-tortilla",
+  "description": "a peruvian twist on the classic tortilla, featuring roasted aubergine and air-fried to perfection.",
+  "cuisine": "peruvian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 large aubergines",
+      "amount": "1 each",
+      "notes": "any color"
+    },
+    {
+      "name": "6 slices of pancetta",
+      "amount": "1/8 cup",
+      "notes": "or lardons"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon quinoa flour",
+      "amount": "1 tablespoon",
+      "notes": "or cornstarch"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tablespoon",
+      "notes": "or avocado oil"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2 eggs",
+      "notes": ""
+    },
+    {
+      "name": "1 cup diced tomatoes",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "1 tablespoon chopped fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the air fryer to 375 degrees fahrenheit. prepare the aubergine by cutting it into 1-inch thick slices and placing them on a baking sheet lined with parchment paper.",
+    "roast the aubergine in the oven at 425 degrees fahrenheit for 15 minutes, or until the skin is blistered and charred.",
+    "while the aubergine is roasting, cook the pancetta in a skillet over medium heat until crispy. remove from heat and set aside.",
+    "in the same skillet, cook the diced onion and minced garlic until softened. add the diced tomatoes and cook for an additional 2-3 minutes.",
+    "in a large bowl, whisk together the eggs, quinoa flour, and a pinch of salt and pepper.",
+    "add the cooked aubergine, cooked pancetta, and tomato mixture to the bowl with the eggs. stir until well combined.",
+    "heat the olive oil in a non-stick skillet over medium heat. pour in the egg mixture and cook until the edges start to set.",
+    "use a spatula to gently lift and fold the edges of the tortilla towards the center, allowing the uncooked egg to flow to the edges.",
+    "once the tortilla is almost set, use the spatula to carefully fold the tortilla in half and cook for an additional 1-2 minutes.",
+    "remove the tortilla from the skillet and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "air-fry",
+    "hangover-cure",
+    "macrobiotic-friendly",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "lightly-larded-peruvian-aubergine-tortilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-larded-peruvian-aubergine-tortilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T07:57:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "aubergine",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "aubergine",
+    "descriptor": "Lightly Larded",
+    "dishForm": "Tortilla"
+  }
+}
