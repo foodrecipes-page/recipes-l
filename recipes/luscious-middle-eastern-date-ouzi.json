@@ -1,0 +1,113 @@
+{
+  "title": "Luscious Middle Eastern Date Ouzi",
+  "description": "A briny, velvety Middle Eastern stew of dates and anchovy that ends with a swirl of pistachio ice cream, perfect for a monsoon-inspired dessert.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fennel bulb",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "anchovy fillets",
+      "amount": "4",
+      "notes": "whole"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pistachio ice cream",
+      "amount": "4 oz"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "to garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced onion and minced garlic, sauté until translucent, about 4 minutes.",
+    "Stir in chopped fennel and cherry tomatoes, cook until tomatoes soften, about 5 minutes.",
+    "Add chopped dates, anchovy fillets, ground cumin, cinnamon, and a pinch of salt; cook for 3 minutes, letting flavors meld.",
+    "Pour in 1 cup of water, bring to a gentle simmer, cover, and let cook for 15 minutes until dates are tender and sauce thickens.",
+    "Remove from heat and stir in a spoonful of pistachio ice cream, letting it melt into the warm sauce for a velvety finish.",
+    "Serve the warm stew over a bed of cooked millet or couscous, spooning extra sauce on top.",
+    "Garnish with fresh mint leaves and a final swirl of pistachio ice cream before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date",
+    "ice-cream",
+    "macrobiotic",
+    "middle-eastern",
+    "soffritto",
+    "sweet-salty",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 1044,
+    "protein": 15,
+    "carbs": 116,
+    "fat": 38
+  },
+  "slug": "luscious-middle-eastern-date-ouzi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-middle-eastern-date-ouzi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:14:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "soffritto-base",
+    "primaryIngredient": "ice cream",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Date",
+    "descriptor": "Luscious",
+    "dishForm": "Ouzi"
+  }
+}
