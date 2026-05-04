@@ -1,0 +1,102 @@
+{
+  "title": "Luscious Polish Ovoli Mushroom Gratin",
+  "description": "A salty, indulgent dish featuring ovoli-mushroom, yuzu-cure, and Mediterranean-friendly flavors.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ovoli-mushroom",
+      "amount": "500 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "baby spinach",
+      "amount": "200 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked gouda",
+      "amount": "150 g",
+      "notes": "grated"
+    },
+    {
+      "name": "walnuts",
+      "amount": "50 g",
+      "notes": "toasted and chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 Celsius.",
+    "Heat olive oil in a skillet over medium heat and sauté garlic until fragrant.",
+    "Add sliced ovoli-mushroom and cook until golden, about 5 minutes.",
+    "Stir in spinach and cook until wilted, then remove from heat.",
+    "In a bowl, whisk heavy cream, yuzu zest, lemon juice, and sea salt until smooth.",
+    "Layer half the mushroom mixture in a baking dish, top with half the gouda and walnuts.",
+    "Pour half the cream mixture over the layer, then repeat with remaining mushroom mixture, gouda, and walnuts.",
+    "Bake for 25 minutes until cheese is bubbly and golden, let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indulgent",
+    "one-pan",
+    "salty",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "luscious-polish-ovoli-mushroom-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-polish-ovoli-mushroom-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:27:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Ovoli Mushroom",
+    "descriptor": "Luscious",
+    "dishForm": "Gratin"
+  }
+}

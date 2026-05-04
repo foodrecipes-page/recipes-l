@@ -1,0 +1,91 @@
+{
+  "title": "Light Grilled Japanese Wagyu Skewers",
+  "description": "A simple and flavorful Japanese dish featuring herbal notes and tender wagyu beef, perfect for a solo dinner",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "12 oz",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together sesame oil, soy sauce, rice vinegar, grated ginger, and garlic",
+    "Add the wagyu beef to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated beef onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 3-4 minutes per side, or until they reach an internal temperature of 130 degrees",
+    "Let the skewers rest for 5 minutes before serving",
+    "Garnish with green onions and sesame seeds"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "japanese-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "light-grilled-japanese-wagyu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-grilled-japanese-wagyu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:27:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "wagyu",
+    "diet": "gluten-free",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "wagyu",
+    "descriptor": "light grilled",
+    "dishForm": "Skewers"
+  }
+}

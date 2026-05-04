@@ -1342,6 +1342,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-grilled-japanese-wagyu-skewers",
+    "title": "Light Grilled Japanese Wagyu Skewers",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "japanese-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 32,
+    "shard": "l"
+  },
+  {
     "slug": "light-grilled-uruguayan-chicken-grill",
     "title": "Light Grilled Uruguayan Chicken Grill",
     "tags": [
@@ -3305,6 +3319,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-polish-ovoli-mushroom-gratin",
+    "title": "Luscious Polish Ovoli Mushroom Gratin",
+    "tags": [
+      "gluten-free",
+      "indulgent",
+      "one-pan",
+      "salty",
+      "vegetarian"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
