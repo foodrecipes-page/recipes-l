@@ -1,0 +1,97 @@
+{
+  "title": "Luscious Turkish Nectarines Toast",
+  "description": "A resinous, molten toast topped with sweet nectarines, feta, and a runny egg, finished with honey, sumac, and mint for a bold Turkish twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "nectarine",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50 grams, crumbled"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat a nonstick skillet over medium heat.",
+    "Brush both sides of each bread slice with melted butter and place in the skillet until golden brown on both sides.",
+    "While the bread is toasting, slice the nectarines into thin rounds and set aside.",
+    "In a small bowl, whisk the egg with a pinch of salt until blended.",
+    "When the toast is golden, remove it from the skillet and spread crumbled feta evenly over the hot surface.",
+    "Arrange nectarine slices on each toast, drizzle honey, sprinkle sumac, and scatter chopped mint over the fruit.",
+    "Pour the whisked egg over the fruit and cook until the egg whites are set and the edges lightly brown, about 2-3 minutes.",
+    "Drizzle a small amount of olive oil over the finished toast, then serve immediately while still warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "meal-prep",
+    "ovo-vegetarian",
+    "quick-easy",
+    "sweet-savory",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 16,
+    "carbs": 58,
+    "fat": 36
+  },
+  "slug": "luscious-turkish-nectarines-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-turkish-nectarines-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:33:02Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "nectarines",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "nectarines",
+    "descriptor": "Luscious",
+    "dishForm": "Toast"
+  }
+}
