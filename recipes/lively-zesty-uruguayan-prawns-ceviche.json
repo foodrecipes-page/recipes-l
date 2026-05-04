@@ -1,0 +1,113 @@
+{
+  "title": "Lively Zesty Uruguayan Prawns Ceviche",
+  "description": "Pungent, springy, weeknight Uruguayan ceviche featuring raw king prawns, brine-wet and ovo-vegetarian-friendly, served on a hot-stone plate.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "raw king prawns",
+      "amount": "300g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "200ml"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 small",
+      "notes": "seeded and diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the peeled king prawns under cold water and pat dry with a paper towel.",
+    "Place the prawns in a shallow glass bowl and pour the lime juice and 100ml water over them, ensuring the prawns stay wet; cover and refrigerate for 10 minutes to allow the acidity to lightly cure the seafood.",
+    "While the prawns marinate, dice the red bell pepper, slice the red onion, seed and dice the tomato, and chop the cilantro.",
+    "After marination, drain the prawns, reserving a tablespoon of the citrus liquid to keep them juicy; transfer the prawns to a new bowl.",
+    "Add the diced vegetables, cilantro, garlic powder, smoked paprika, sea salt, black pepper, and hot sauce to the prawns, tossing gently to combine.",
+    "Taste the ceviche, adjusting salt or lime if needed, then stir in the reserved citrus liquid to maintain moisture.",
+    "Preheat a hot stone plate over medium heat until it glows hot, then lightly oil it with a paper towel dipped in olive oil to prevent sticking.",
+    "Spoon the ceviche onto the hot stone, letting it sit for 2-3 minutes before serving, which gives a pleasant springy texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brine-wet",
+    "ceviche",
+    "hot-stone",
+    "ovo-vegetarian",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 80,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "lively-zesty-uruguayan-prawns-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-zesty-uruguayan-prawns-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:15:34Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "brine-wet",
+    "primaryIngredient": "raw king prawns",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "prawns",
+    "descriptor": "Lively Zesty",
+    "dishForm": "Ceviche"
+  }
+}
