@@ -1,0 +1,131 @@
+{
+  "title": "Luscious Silky Mediterranean Seafood Risotto",
+  "description": "A roasted, silky midnight-craving dish featuring a dairy‑free, seafood stock risotto steamed to perfection in a bamboo steamer.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup (200 g)",
+      "notes": "for risotto texture"
+    },
+    {
+      "name": "Seafood stock",
+      "amount": "4 cups (960 ml)",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "200 g",
+      "notes": "peeled and cleaned"
+    },
+    {
+      "name": "Mussels",
+      "amount": "200 g",
+      "notes": "cleaned and debearded"
+    },
+    {
+      "name": "Calamari rings",
+      "amount": "200 g",
+      "notes": "cleaned"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1/2 cup (120 ml)",
+      "notes": "for deglazing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30 ml)",
+      "notes": "for sauté"
+    },
+    {
+      "name": "Saffron",
+      "amount": "1 tsp",
+      "notes": "steeped in 1 tbsp warm water"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "zest of 1",
+      "notes": "for brightness"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 tbsp",
+      "notes": "drained"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a deep skillet over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Pour in white wine, let it reduce by half.",
+    "Add Arborio rice, stir to coat grains and toast lightly for 2 minutes.",
+    "Gradually ladle in hot seafood stock, one ladle at a time, stirring constantly until liquid is absorbed before adding the next.",
+    "When rice is al dente after about 18 minutes, stir in saffron infusion, lemon zest, and capers.",
+    "Gently fold in shrimp, mussels, and calamari, cover, and steam in a bamboo steamer for 5 minutes or until seafood is cooked.",
+    "Remove the risotto from the steamer, season with salt and pepper, and stir in chopped parsley.",
+    "Serve immediately, garnished with extra parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "dairy-free",
+    "mediterranean",
+    "seafood",
+    "slow-cooking",
+    "steam"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "luscious-silky-mediterranean-seafood-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-silky-mediterranean-seafood-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:33:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "seafood stock",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Seafood",
+    "descriptor": "Luscious Silky",
+    "dishForm": "Risotto"
+  }
+}
