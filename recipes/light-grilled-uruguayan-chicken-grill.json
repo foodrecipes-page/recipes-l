@@ -1,0 +1,98 @@
+{
+  "title": "Light Grilled Uruguayan Chicken Grill",
+  "description": "A fresh and pillowy Uruguayan dish featuring arabic rice and grilled chicken, perfect for a brunch mood, served in a bento box.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 lbs",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "arabic rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, paprika, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Grill the chicken for 6 minutes per side, or until it reaches an internal temperature of 165 degrees Fahrenheit.",
+    "While the chicken is cooking, prepare the arabic rice according to package instructions.",
+    "To assemble the dish, place a scoop of arabic rice in the bento box, followed by a few pieces of grilled chicken.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Serve hot and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "brunch-ideas",
+    "easy-meals",
+    "gluten-free",
+    "grilled-chicken",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "light-grilled-uruguayan-chicken-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-grilled-uruguayan-chicken-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:40:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "arabic rice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken",
+    "descriptor": "light grilled",
+    "dishForm": "Grill"
+  }
+}
