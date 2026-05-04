@@ -1,0 +1,102 @@
+{
+  "title": "Light Tender American Fry Salad",
+  "description": "A light and refreshing American dish featuring baby lettuce leaves, crispy fries, and halal-friendly chicken. This salad is perfect for those looking for a quick and easy meal.",
+  "cuisine": "American",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby Lettuce Leaves",
+      "amount": "4 cups",
+      "notes": "Fresh from the market"
+    },
+    {
+      "name": "Fries",
+      "amount": "2 cups",
+      "notes": "Cooked in halal-friendly oil"
+    },
+    {
+      "name": "Halal Chicken Breast",
+      "amount": "1 pound",
+      "notes": "Grilled to perfection"
+    },
+    {
+      "name": "Diced Onions",
+      "amount": "1 cup",
+      "notes": "Sauteed to bring out sweetness"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh from the garden"
+    },
+    {
+      "name": "Crumbled Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional for those looking for extra flavor"
+    },
+    {
+      "name": "Balsamic Vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Season to perfection"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) to cook the fries.",
+    "Cut the fries into 1/2 inch thick sticks and place them on a baking sheet.",
+    "Drizzle with halal-friendly oil and toss to coat.",
+    "Roast the fries in the preheated oven for 20 minutes, or until crispy.",
+    "Grill the chicken breast to perfection.",
+    "Slice the chicken into thin strips.",
+    "In a large bowl, combine the baby lettuce leaves, diced onions, diced tomatoes, and crumbled feta cheese.",
+    "In a small bowl, whisk together the balsamic vinaigrette and a pinch of salt and pepper.",
+    "Pour the dressing over the salad and toss to coat.",
+    "Top the salad with the roasted fries and sliced chicken."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "high-protein",
+    "one-pan",
+    "quick-meal",
+    "salad",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "light-tender-american-fry-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-tender-american-fry-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:13:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "fry",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "fry",
+    "descriptor": "Light Tender",
+    "dishForm": "Salad"
+  }
+}
