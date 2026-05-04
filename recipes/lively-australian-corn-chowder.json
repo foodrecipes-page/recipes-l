@@ -1,0 +1,101 @@
+{
+  "title": "Lively Australian Corn Chowder",
+  "description": "A tangy, crunchy chowder that celebrates Aussie corn with coconut cream and lime, crafted to be jain-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn kernels, frozen",
+      "amount": "400 g"
+    },
+    {
+      "name": "corn kernels, fresh",
+      "amount": "200 g"
+    },
+    {
+      "name": "coconut milk, canned",
+      "amount": "300 ml"
+    },
+    {
+      "name": "vegetable broth, low sodium",
+      "amount": "500 ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime, juice only",
+      "amount": "60 ml"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "15 g"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "100 g"
+    },
+    {
+      "name": "salt, to taste",
+      "amount": "5 g"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1 g"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat until melted.",
+    "Add diced red bell pepper and sauté until softened, about 3 minutes.",
+    "Stir in frozen and fresh corn kernels, cooking for 2 minutes to release steam.",
+    "Pour in vegetable broth and coconut milk, then bring to a gentle simmer.",
+    "Season with salt, pepper, and lime juice, letting flavors meld for 6 minutes.",
+    "Add fresh spinach and cook, stirring, until wilted, about 2 minutes.",
+    "Remove from heat and stir in chopped cilantro for a bright finish.",
+    "Ladle into bowls and serve immediately for a tangy, crunchy chowder."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-chowder",
+    "jain-friendly",
+    "lunch",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 24
+  },
+  "slug": "lively-australian-corn-chowder",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-australian-corn-chowder",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:55:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "render-fat",
+    "primaryIngredient": "creamed corn",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "corn",
+    "descriptor": "Lively",
+    "dishForm": "Chowder"
+  }
+}
