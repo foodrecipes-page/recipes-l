@@ -1,0 +1,97 @@
+{
+  "title": "light briny vietnamese pork shoulder fry",
+  "description": "a light and refreshing vietnamese-inspired dish featuring pork shoulder, perfect for a quick weeknight dinner. ",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "in a small bowl, whisk together fish sauce, lime juice, brown sugar, and 2 cloves of minced garlic.",
+    "in a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "add the pork shoulder to the skillet and cook for 2-3 minutes on each side, or until browned.",
+    "remove the pork from the skillet and set aside.",
+    "in the same skillet, add the remaining 1 tablespoon of vegetable oil and cook for 1 minute.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the soy sauce and rice vinegar to the skillet, whisking to combine.",
+    "return the pork shoulder to the skillet and cook for an additional 2-3 minutes, until coated in the sauce.",
+    "transfer the pork to a cutting board and let rest for 5 minutes.",
+    "slice the pork into thin strips and serve with green onions and fresh cilantro scattered on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "pork",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 17
+  },
+  "slug": "light-briny-vietnamese-pork-shoulder-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-briny-vietnamese-pork-shoulder-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "fry",
+    "primaryIngredient": "pork shoulder",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "light briny",
+    "dishForm": "Fry"
+  }
+}

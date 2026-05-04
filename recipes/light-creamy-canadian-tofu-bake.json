@@ -1,0 +1,115 @@
+{
+  "title": "Light Creamy Canadian Tofu Bake",
+  "description": "A sour, creamy, and light Canadian-inspired dish featuring silken tofu, perfect for a weeknight dinner or a casual get-together. This recipe is easy to make and packed with nutritious ingredients.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 14-ounce package",
+      "notes": ""
+    },
+    {
+      "name": "plain whole wheat bread",
+      "amount": "1 cup cubed",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tablespoons chopped",
+      "notes": "chopped fresh or 1 teaspoon dried"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "2 tablespoons chopped",
+      "notes": "chopped fresh or 1 teaspoon dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a blender or food processor, combine the silken tofu, lemon juice, apple cider vinegar, unsweetened almond milk, and chopped fresh dill and chives. Blend until smooth and creamy.",
+    "In a large bowl, combine the cubed whole wheat bread and chopped fresh dill and chives.",
+    "Add the blended tofu mixture to the bread and stir until well combined.",
+    "Transfer the mixture to a 9x9-inch baking dish and drizzle with olive oil.",
+    "Sprinkle the tempering chocolate on top of the bread mixture.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 25 minutes, or until the top is golden brown and the bread is toasted.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "light-creamy-canadian-tofu-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-creamy-canadian-tofu-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "silken tofu",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "tofu",
+    "descriptor": "light creamy",
+    "dishForm": "bake"
+  }
+}

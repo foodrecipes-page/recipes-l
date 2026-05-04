@@ -1,0 +1,103 @@
+{
+  "title": "Luscious Velvety Mediterranean Tempeh Ramekin",
+  "description": "A rich, velvety, plant-based dinner dish featuring tempeh, pickle, and Mediterranean flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tempeh",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Pickle relish",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic minced",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cashew cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Rinse the tempeh and crumble it into small pieces.",
+    "In a small saucepan, heat the olive oil over low heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the pickle relish, lemon juice, oregano, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes until slightly thickened.",
+    "Stir in the cashew cream until smooth.",
+    "Transfer the tempeh to a ramekin and spoon the sauce over the top.",
+    "Sprinkle the nutritional yeast over the sauce.",
+    "Bake the tempeh in the preheated oven for 20-25 minutes until golden brown.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "mediterranean",
+    "plant-based",
+    "ramekin",
+    "tempeh",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "luscious-velvety-mediterranean-tempeh-ramekin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-velvety-mediterranean-tempeh-ramekin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "tempeh",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Tempeh",
+    "descriptor": "Luscious Velvety",
+    "dishForm": "Ramekin"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Low-fat-friendly Molten Herbal Saudi-arabian Taleggio Dish",
+  "description": "A post-workout Saudi-arabian dish that combines the creamy molten taleggio with the spicy kick of ferment-kimchi for a refreshing herbal meal.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a mixing bowl, combine the taleggio cheese, ferment-kimchi, parsley, mint, lemon zest, garlic, salt, and black pepper.",
+    "Transfer the mixture to a baking dish and bake in the preheated oven for 10 minutes.",
+    "Remove the dish from the oven and let it cool for a minute.",
+    "Use a spoon to scoop the molten taleggio mixture onto plates.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "low-fat",
+    "post-workout",
+    "saudi-arabian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "low-fat-friendly-molten-herbal-saudi-arabian-taleggio-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-friendly-molten-herbal-saudi-arabian-taleggio-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "taleggio",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi-arabian",
+    "mainIngredient": "taleggio",
+    "descriptor": "low-fat-friendly molten herbal",
+    "dishForm": "Dish"
+  }
+}

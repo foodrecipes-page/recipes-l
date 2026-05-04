@@ -1331,6 +1331,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-briny-vietnamese-pork-shoulder-fry",
+    "title": "light briny vietnamese pork shoulder fry",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "pork",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "light-british-bread-pie-and-mash",
     "title": "Light British Bread Pie And Mash",
     "tags": [
@@ -1471,6 +1485,20 @@
       "weeknight"
     ],
     "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-creamy-canadian-tofu-bake",
+    "title": "Light Creamy Canadian Tofu Bake",
+    "tags": [
+      "canadian",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "canadian",
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -5051,6 +5079,20 @@
     "shard": "l"
   },
   {
+    "slug": "low-fat-friendly-molten-herbal-saudi-arabian-taleggio-dish",
+    "title": "Low-fat-friendly Molten Herbal Saudi-arabian Taleggio Dish",
+    "tags": [
+      "herbal",
+      "low-fat",
+      "post-workout",
+      "saudi-arabian",
+      "snack"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
     "slug": "low-fat-friendly-syrian-beef-shin-tagine",
     "title": "Low-Fat-Friendly Syrian Beef Shin Tagine",
     "tags": [
@@ -6186,6 +6228,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 10,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-velvety-mediterranean-tempeh-ramekin",
+    "title": "Luscious Velvety Mediterranean Tempeh Ramekin",
+    "tags": [
+      "date-night",
+      "mediterranean",
+      "plant-based",
+      "ramekin",
+      "tempeh",
+      "vegan"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
