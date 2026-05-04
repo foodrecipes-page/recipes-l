@@ -1,0 +1,112 @@
+{
+  "title": "Laced Peruvian Carrot Stew",
+  "description": "A mustardy, crumbly one-pot stew with sautéed carrots, toasted pumpkin seeds, and bright lime, perfect for a paleo-friendly Peruvian lunch or dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "500g",
+      "notes": "sliced into 1/2 inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "30g",
+      "notes": "toasted for crumbly texture"
+    },
+    {
+      "name": "fresh lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion, minced garlic, and toasted mustard seeds, sautéing until the onion softens.",
+    "Stir in sliced carrots and dried oregano, cooking for 3 minutes.",
+    "Pour in chicken stock, bring to a boil, then reduce heat and simmer for 15 minutes until carrots are tender.",
+    "Season the stew with lime juice, salt, and pepper, stirring to combine.",
+    "Fold in chopped cilantro just before serving.",
+    "Sprinkle toasted pumpkin seeds over each bowl to add a crumbly crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mustard-flavor",
+    "one-pot",
+    "paleo-friendly",
+    "peruvian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 12,
+    "fat": 9
+  },
+  "slug": "laced-peruvian-carrot-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/laced-peruvian-carrot-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:00:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "brine-dry",
+    "primaryIngredient": "carrots",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Carrot",
+    "descriptor": "Laced",
+    "dishForm": "Stew"
+  }
+}
