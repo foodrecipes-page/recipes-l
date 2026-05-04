@@ -1,0 +1,111 @@
+{
+  "title": "Lacquered Moroccan Chicken Tangia",
+  "description": "A savory, crispy chicken tangia glazed with a sweet-salty lacquer, served atop toasted wholegrain bread for a protein-packed Moroccan snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "2",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "wholegrain bread slices",
+      "amount": "4"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Season the chicken cubes with cumin, coriander, paprika, cinnamon, salt, and pepper.",
+    "Heat olive oil in a heavy skillet over medium heat and add the chicken, cooking until browned on all sides.",
+    "Whisk together honey, lemon juice, and a tablespoon of olive oil to create the lacquer glaze.",
+    "Pour the glaze over the chicken, reduce heat, and simmer for 10 minutes, turning occasionally.",
+    "Toast the wholegrain bread slices until crisp.",
+    "Spread melted butter on each toasted slice and sprinkle with toasted sesame seeds.",
+    "Arrange the glazed chicken on top of the buttered bread slices.",
+    "Garnish with chopped cilantro for freshness.",
+    "Let the dish rest for 5 minutes to allow flavors to meld.",
+    "Serve warm, optionally drizzling any remaining glaze over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lacquer-glaze",
+    "moroccan",
+    "savory",
+    "snack",
+    "tangia",
+    "wholegrain"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 36,
+    "carbs": 42,
+    "fat": 15
+  },
+  "slug": "lacquered-moroccan-chicken-tangia",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lacquered-moroccan-chicken-tangia",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:19:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Lacquered",
+    "dishForm": "Tangia"
+  }
+}
