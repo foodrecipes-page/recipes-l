@@ -1,0 +1,124 @@
+{
+  "title": "Lively Peruvian Lentil Stew",
+  "description": "A peppery, chewy Peruvian stew that honors Jain principles and features a hearty lentil base simmered in a kazan cauldron.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "boiling"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 sticks",
+      "notes": "sliced"
+    },
+    {
+      "name": "fennel",
+      "amount": "1/2 bulb",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "kashmiri cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "whole"
+    },
+    {
+      "name": "aji amarillo paste",
+      "amount": "1 tbsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "aji panca paste",
+      "amount": "1 tbsp",
+      "notes": "for smokiness"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup lentils under cold water until clear.",
+    "In a kazan cauldron, heat 2 tbsp olive oil over medium heat.",
+    "Add diced carrot, sliced celery, and fennel to the cauldron, sauté for 5 minutes until slightly softened.",
+    "Stir in 1 tsp cumin and 1 bay leaf, cooking for 1 minute to release aromas.",
+    "Add the rinsed lentils and 4 cups boiling water, bring to a simmer.",
+    "Reduce heat to low, cover, and simmer for 30 minutes, stirring occasionally, until lentils are tender but still chewy.",
+    "Stir in 1 tbsp aji amarillo paste, 1 tbsp aji panca paste, and 1 tsp salt, cooking for an additional 5 minutes.",
+    "Finish with freshly ground pepper, chopped cilantro, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "lentil",
+    "peruvian",
+    "spicy",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 132,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "lively-peruvian-lentil-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-peruvian-lentil-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:35:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "boiling water",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lentils",
+    "descriptor": "Lively",
+    "dishForm": "Stew"
+  }
+}
