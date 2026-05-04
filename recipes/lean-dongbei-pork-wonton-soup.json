@@ -1,0 +1,121 @@
+{
+  "title": "Lean Dongbei Pork Wonton Soup",
+  "description": "A briny, shattering one-pot soup with sweet peppadew peppers and low-carb pork wontons that showcases the hearty flavors of Dongbei cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder rest meat",
+      "amount": "200g",
+      "notes": "ground or finely chopped"
+    },
+    {
+      "name": "lean pork",
+      "amount": "200g",
+      "notes": "ground"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "sweet peppadew peppers",
+      "amount": "6 pieces",
+      "notes": "whole, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallion",
+      "amount": "1 stalk",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "water or low-sodium chicken broth",
+      "amount": "1 liter"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Mix the ground pork shoulder and lean pork with minced garlic, grated ginger, soy sauce, oyster sauce, fish sauce, salt, and pepper to form the filling.",
+    "Place 1 teaspoon of filling onto each wonton wrapper, wet the edges with water, fold into triangles, and seal the seams.",
+    "Heat a saucepan over medium heat and bring the water or broth to a gentle boil.",
+    "Add the wontons to the boiling liquid and cook for 5 minutes, stirring gently to prevent sticking.",
+    "Insert sliced peppadew peppers into the soup and reduce heat to a low simmer.",
+    "Continue simmering for another 4 minutes, or until the wontons float and are cooked through.",
+    "Drizzle sesame oil into the soup and stir.",
+    "Remove the pot from heat, garnish with sliced scallion, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dongbei",
+    "healthy",
+    "low-carb",
+    "one-pot",
+    "pork",
+    "quick",
+    "wonton-soup"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 26,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "lean-dongbei-pork-wonton-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lean-dongbei-pork-wonton-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:44:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "rest-meat",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "low-carb",
+    "region": "dongbei",
+    "cuisineAdjective": "Dongbei",
+    "mainIngredient": "Pork",
+    "descriptor": "Lean",
+    "dishForm": "Wonton Soup"
+  }
+}
