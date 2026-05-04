@@ -1,0 +1,107 @@
+{
+  "title": "Luscious Saudi Vermicelli Casserole",
+  "description": "A resinous and juicy casserole that blends fragrant vermicelli with saffron milk, yogurt, and toasted nuts for a crowd‑pleasing Saudi‑Arabian comfort dish.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli",
+      "amount": "200 g"
+    },
+    {
+      "name": "milk",
+      "amount": "250 ml",
+      "notes": "use whole milk for richness"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "150 g",
+      "notes": "coconut yogurt can be used for a dairy‑free version"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white sugar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "saffron strands",
+      "amount": "1 tsp",
+      "notes": "steep in warm milk"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "4"
+    },
+    {
+      "name": "raisin",
+      "amount": "50 g"
+    },
+    {
+      "name": "almond slivers",
+      "amount": "30 g"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "30 g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a skillet over medium heat and lightly toast the vermicelli until golden brown.",
+    "Add cardamom pods, raisins, almonds, and dried apricots to the skillet, sautéing for two minutes to release aromas.",
+    "Transfer the toasted mixture to a 9x13 inch baking dish and spread evenly.",
+    "In a bowl whisk together milk, saffron, sugar, lemon zest, yogurt, and salt until smooth.",
+    "Pour the warm milk mixture over the vermicelli, stirring gently to coat each strand.",
+    "Cover the dish with foil and bake at 180°C for 20 minutes, or until the milk is absorbed and the top is lightly golden.",
+    "Remove the foil, increase the temperature to 200°C, and bake for an additional 5 minutes to crisp the surface.",
+    "Let the casserole rest for 5 minutes before serving.",
+    "Serve warm, optionally garnishing with extra toasted nuts for added crunch."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi-arabian",
+    "dinner"
+  ],
+  "slug": "luscious-saudi-vermicelli-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-saudi-vermicelli-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:00:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "en-croute",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "vermicelli",
+    "descriptor": "Luscious",
+    "dishForm": "Casserole"
+  }
+}
