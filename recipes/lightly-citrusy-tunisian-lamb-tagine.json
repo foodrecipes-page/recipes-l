@@ -1,0 +1,103 @@
+{
+  "title": "Lightly Citrusy Tunisian Lamb Tagine",
+  "description": "A dense and flavorful Tunisian dish featuring lamb, citrus, and pink food coloring, perfect for a post-workout meal. This halal-friendly recipe is made with brine-dried ingredients and is sure to satisfy your hunger.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried lemon peel",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brine-dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the dried lemon peel, pink food coloring, salt, and black pepper.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the chopped brine-dried apricots and cook for an additional 10 minutes.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "lamb-recipes",
+    "one-pot",
+    "post-workout",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lightly-citrusy-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-citrusy-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:30:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "brine-dry",
+    "primaryIngredient": "pink food colouring",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly Citrusy",
+    "dishForm": "Tagine"
+  }
+}
