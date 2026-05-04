@@ -1,0 +1,106 @@
+{
+  "title": "malaysian black olive clay pot tagine",
+  "description": "light, nutty, and anti-inflammatory-friendly, this malaysian-inspired dish features pitted black olives cooked in a clay pot using banana leaves.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pitted black olives",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "10g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "tumeric",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in the clay pot over medium heat.",
+    "add minced garlic and ginger, cooking for 2 minutes.",
+    "add black olives, lemon juice, olive oil, cumin, coriander, and turmeric. stir well.",
+    "tuck banana leaves under the pot's lid to create a steamy environment.",
+    "cook for 15 minutes over low heat, stirring occasionally.",
+    "season with salt to taste and serve.",
+    "serve the black olive tagine with steamed rice or roti."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-fiber",
+    "low-calorie",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "light-ikan-style-cooked-malaysian-black-olives-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-ikan-style-cooked-malaysian-black-olives-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:01:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "pitted black olives",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "black olives",
+    "descriptor": "Light ikan-style cooked",
+    "dishForm": "Tagine"
+  }
+}
