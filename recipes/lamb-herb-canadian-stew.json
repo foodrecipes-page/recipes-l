@@ -1,0 +1,92 @@
+{
+  "title": "Lamb-Herb Canadian Stew",
+  "description": "A hearty, one-pot stew featuring lamb, herbs, and chocolate chips, all while staying within the Whole30 guidelines. This dish is perfect for a cold winter's night.",
+  "cuisine": "canadian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup",
+      "notes": "use high-quality, dairy-free chocolate"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat the oil over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 2 minutes per side.",
+    "Remove the lamb and set it aside, then add the onion and garlic to the pot. Cook until the onion is translucent, about 5 minutes.",
+    "Add the thyme and rosemary to the pot and cook for 1 minute, stirring constantly.",
+    "Return the lamb to the pot, then add the broth and chocolate chips. Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the lamb is tender, about 2 hours.",
+    "Remove the pot from the heat and let it cool slightly, then stir in the fresh herbs. Serve hot, garnished with additional herbs if desired.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew over cauliflower mash or with a side of roasted vegetables for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "comfort-food",
+    "herbs",
+    "lamb",
+    "one-pot",
+    "paleo",
+    "whole30",
+    "winter-warmer"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 36,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "lamb-herb-canadian-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lamb-herb-canadian-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:41Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "chocolate chips",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "lamb-herb",
+    "dishForm": "stew"
+  }
+}

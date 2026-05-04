@@ -107,6 +107,23 @@
     "shard": "l"
   },
   {
+    "slug": "lamb-herb-canadian-stew",
+    "title": "Lamb-Herb Canadian Stew",
+    "tags": [
+      "chocolate",
+      "comfort-food",
+      "herbs",
+      "lamb",
+      "one-pot",
+      "paleo",
+      "whole30",
+      "winter-warmer"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 135,
+    "shard": "l"
+  },
+  {
     "slug": "lamb-medjool-delight",
     "title": "Lamb Medjool Delight",
     "tags": [
@@ -1764,6 +1781,20 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-filipino-pork-pan-canton",
+    "title": "Light Filipino Pork Pan-Canton",
+    "tags": [
+      "filipino",
+      "one-pan",
+      "oven-roasted",
+      "pork",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -4650,6 +4681,20 @@
     "shard": "l"
   },
   {
+    "slug": "long-simmered-korean-yakimono-jjim",
+    "title": "Long-Simmered Korean Yakimono Jjim",
+    "tags": [
+      "high-protein",
+      "korean",
+      "one-pan",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 140,
+    "shard": "l"
+  },
+  {
     "slug": "loomy-comforting-mung-bean-sproutsukju-pilaf",
     "title": "Loomy Comforting Mung-bean-sproutsukju Pilaf",
     "tags": [
@@ -6824,6 +6869,23 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriantly-british-butter-beans-sunday-roast",
+    "title": "Luxuriantly British Butter Beans Sunday Roast",
+    "tags": [
+      "beef",
+      "british",
+      "butter-beans",
+      "comfort-food",
+      "holiday",
+      "kombu-cold-extract",
+      "special-occasion",
+      "sunday-roast"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 255,
     "shard": "l"
   },
   {

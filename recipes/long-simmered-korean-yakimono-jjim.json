@@ -1,0 +1,112 @@
+{
+  "title": "Long-Simmered Korean Yakimono Jjim",
+  "description": "Umami-rich and comforting Korean dish featuring a nutella-glazed yakimono-grilled protein, served on a hot stone plate.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "nutella",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "koranchi pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season beef short ribs with salt and koranchi pepper.",
+    "Heat 1 tablespoon of sesame oil in a large pan over medium-high heat.",
+    "Sear beef short ribs until browned on all sides, then remove from heat and set aside.",
+    "Add 1 tablespoon of sesame oil to the same pan and saut\u00129e the minced garlic and grated ginger until fragrant.",
+    "Add in the nutella, brown sugar, soy sauce, and 1 cup of water to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 2 hours, or until the sauce has thickened and the beef is tender.",
+    "Add the seared beef short ribs back into the pan and simmer for an additional 30 minutes, or until the meat is easily shredded with a fork.",
+    "Remove the beef from the pan and let rest for 10 minutes before slicing.",
+    "Strain the sauce and discard the solids, then return the sauce to the heat and simmer until it has thickened to your liking.",
+    "Serve the beef short ribs on a hot stone plate, drizzled with the nutella-glazed sauce and garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 64,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "long-simmered-korean-yakimono-jjim",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/long-simmered-korean-yakimono-jjim",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "nutella",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "yakimono",
+    "descriptor": "long-simmered",
+    "dishForm": "Jjim"
+  }
+}

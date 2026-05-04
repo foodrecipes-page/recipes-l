@@ -1,0 +1,131 @@
+{
+  "title": "Luxuriantly British Butter Beans Sunday Roast",
+  "description": "A rich and savory Sunday roast featuring butter beans, tender meat, and a silky kombu-cold-extract sauce, perfect for a special occasion or a cozy family gathering.",
+  "cuisine": "british",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butter beans, cannellini or navy",
+      "amount": "1 cup, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "beef brisket, boneless",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "kombu",
+      "amount": "2 pieces, dried",
+      "notes": "reconstitute in water, then strain to get cold extract"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "butter, unsalted",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef brisket with salt and pepper.",
+    "Heat butter in a large dutch oven over medium-high heat.",
+    "Sear the brisket until browned on all sides, about 5 minutes per side.",
+    "Transfer the brisket to a plate and set aside.",
+    "Add the chopped thyme and rosemary to the pot and cook for 1 minute.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef broth, whisking constantly to avoid lumps.",
+    "Bring the mixture to a boil, then reduce heat to a simmer.",
+    "Add the reconstituted kombu and cold extract to the pot, whisking to combine.",
+    "Add the browned brisket back to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and roast for 2 1/2 hours, or until the meat is tender and falls apart easily.",
+    "While the brisket is roasting, cook the butter beans in a separate pot with a pinch of salt and pepper until tender, about 30 minutes.",
+    "Once the brisket is done, remove it from the pot and let it rest for 10 minutes before slicing.",
+    "Strain the juices from the pot and discard the solids.",
+    "Add the red wine to the pot (if using) and simmer until reduced by half, stirring occasionally.",
+    "Serve the sliced brisket with the butter beans and silky kombu-cold-extract sauce.",
+    "Garnish with fresh thyme and rosemary, if desired.",
+    "Serve immediately, hot and bubbly.",
+    "Reheat any leftovers in the oven or on the stovetop before serving.",
+    "Adjust seasoning to taste before serving, if necessary."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 210,
+  "totalTimeMin": 255,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "british",
+    "butter-beans",
+    "comfort-food",
+    "holiday",
+    "kombu-cold-extract",
+    "special-occasion",
+    "sunday-roast"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 80
+  },
+  "slug": "luxuriantly-british-butter-beans-sunday-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-british-butter-beans-sunday-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "butter beans",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "butter beans",
+    "descriptor": "luxuriantly",
+    "dishForm": "Sunday Roast"
+  }
+}

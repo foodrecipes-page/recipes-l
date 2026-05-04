@@ -1,0 +1,104 @@
+{
+  "title": "Light Filipino Pork Pan-Canton",
+  "description": "A roasted, shaggy, light Filipino dish featuring minced pork. This ovo-vegetarian-friendly meal is perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Minced pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Rest-meat (pork shoulder)",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan, heat the vegetable oil over medium-high heat. Add the minced pork and cook until browned, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the rest-meat, soy sauce, sugar, salt, and black pepper to the pan and stir to combine.",
+    "Transfer the pan to the preheated oven and roast for 20-25 minutes, or until the meat is cooked through and lightly browned on top.",
+    "Remove the pan from the oven and sprinkle with chopped scallions.",
+    "Serve the Light Filipino Pork Pan-Canton hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "one-pan",
+    "oven-roasted",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 31
+  },
+  "slug": "light-filipino-pork-pan-canton",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-filipino-pork-pan-canton",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:51Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "rest-meat",
+    "primaryIngredient": "minced pork",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Light",
+    "dishForm": "Pan-Canton"
+  }
+}
