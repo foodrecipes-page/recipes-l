@@ -1,0 +1,110 @@
+{
+  "title": "Lively Zhejiang Tofu Stir-Fry",
+  "description": "A crisp, charred tofu dish simmered in a sweet sugar syrup with savory wok-hei, delivering a zesty, energizing flavor perfect for lunch.",
+  "cuisine": "Zhejiang",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallion",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Press tofu between paper towels and cube into 1-inch pieces.",
+    "Heat wok over high heat and add sesame oil until shimmering.",
+    "Add tofu cubes and stir-fry until golden brown on all sides, about 5 minutes, then remove to plate.",
+    "In same wok, sauté minced garlic, grated ginger, and scallion for 30 seconds until fragrant.",
+    "Stir in sugar, soy sauce, black vinegar, and water; bring to a gentle boil.",
+    "Whisk cornstarch with a splash of water to make a slurry, then pour into wok and stir until the sauce thickens.",
+    "Return tofu to wok, toss to coat with glossy sauce, and sprinkle with sesame seeds and chili flakes.",
+    "Cook for an additional 2 minutes, then transfer to serving dish and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "quick",
+    "savory-sweet",
+    "snack",
+    "tofu",
+    "vegetarian",
+    "zhejiang"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 32,
+    "fat": 10
+  },
+  "slug": "lively-zhejiang-tofu-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-zhejiang-tofu-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:35:16Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "wok-hei",
+    "primaryIngredient": "sugar syrup",
+    "diet": "vegetarian",
+    "region": "zhejiang",
+    "cuisineAdjective": "Zhejiang",
+    "mainIngredient": "tofu",
+    "descriptor": "Lively",
+    "dishForm": "Stir-fry"
+  }
+}
