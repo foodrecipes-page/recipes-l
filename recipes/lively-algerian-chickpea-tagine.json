@@ -1,0 +1,106 @@
+{
+  "title": "Lively Algerian Chickpea Tagine",
+  "description": "A vibrant low-glycemic tagine with chickpeas, rosemary and a zesty yuzu-kosho finish that awakens the senses.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas, cooked",
+      "amount": "400g"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Carrots, sliced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Zucchini, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Yuzu-kosho",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fermented soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy pot over medium heat and sauté onion and garlic until fragrant, about 3 minutes.",
+    "Add sliced carrots and zucchini and cook for 5 minutes, stirring occasionally.",
+    "Stir in diced tomatoes, chickpeas, fresh rosemary, salt and fermented soy sauce, then bring the mixture to a gentle simmer.",
+    "Cover the pot, reduce heat to low, and let the tagine cook for 25 minutes, allowing flavors to meld.",
+    "Remove the lid, stir in yuzu-kosho and lemon juice and adjust seasoning with more salt if desired.",
+    "Taste and ensure the internal temperature reaches 70°C to ensure safety, then remove from heat.",
+    "Let the tagine rest for 5 minutes before serving to allow the flavors to settle.",
+    "Garnish with chopped parsley or cilantro if desired, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "low-glycemic",
+    "one-pot",
+    "quick",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 7
+  },
+  "slug": "lively-algerian-chickpea-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-algerian-chickpea-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:45:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Lively",
+    "dishForm": "Tagine"
+  }
+}
