@@ -1,0 +1,105 @@
+{
+  "title": "Luscious Thai Tofu Noodles",
+  "description": "A mustardy, pillowy Thai noodle dish featuring miso-marinated tofu and red chilli powder, nostalgic and satvik-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess moisture, then cube it.",
+    "In a bowl mix miso paste, soy sauce, sesame oil, mustard powder, red chilli powder, lime juice, and coconut milk into a smooth sauce.",
+    "Toss tofu cubes in the sauce, cover, and marinate for 10 minutes.",
+    "Cook rice noodles according to package directions, then drain and set aside.",
+    "Heat a nonstick pan over medium heat, add a splash of water, and stir-fry marinated tofu for 5 minutes until lightly browned.",
+    "Add spinach and carrot, cook until wilted, then stir in the cooked noodles.",
+    "Toss everything together, garnish with scallions, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "noodles",
+    "plant-based",
+    "quick",
+    "thai",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 11
+  },
+  "slug": "luscious-thai-tofu-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-thai-tofu-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:39:08Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "red chilli powder",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Luscious",
+    "dishForm": "Noodles"
+  }
+}
