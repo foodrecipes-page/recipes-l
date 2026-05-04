@@ -1,0 +1,99 @@
+{
+  "title": "Luscious Tangy Malaysian Gobo Burdock Curry",
+  "description": "A tangy and gooey Malaysian curry featuring gobo burdock, perfect for a monsoon evening, this dish is egg free and friendly for all to enjoy.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gobo burdock",
+      "amount": "2 medium roots",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat and saute the onion until softened.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the sliced gobo burdock and cook for 5 minutes until it starts to soften.",
+    "Add the curry powder and cook for 1 minute until fragrant.",
+    "Add the tamarind paste and cook for 1 minute until well combined.",
+    "Add the coconut milk and water, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 20 minutes until the gobo burdock is tender.",
+    "Season the curry with salt to taste.",
+    "Flambe the curry with a small amount of oil to give it a smoky flavor.",
+    "Serve the curry hot over rice or with roti."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-curry",
+    "monsoon-food",
+    "one-pan",
+    "vegan-friendly",
+    "vegetarian-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luscious-tangy-malaysian-gobo-burdock-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-tangy-malaysian-gobo-burdock-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:31:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "flambe",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "gobo burdock",
+    "descriptor": "Luscious tangy",
+    "dishForm": "Curry"
+  }
+}
