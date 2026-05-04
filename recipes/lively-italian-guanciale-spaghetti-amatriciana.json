@@ -1,0 +1,92 @@
+{
+  "title": "Lively Italian Guanciale Spaghetti Amatriciana",
+  "description": "A nutty, crisp, quick-fix Italian dish featuring lettuce, soffritto-base, and dash-friendly Amatriciana form.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paccheri spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "Guanciale",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup, thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "14.5 oz"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup, grated"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, cook the guanciale over medium heat until crispy.",
+    "Remove the cooked guanciale from the skillet and set it aside on a paper towel-lined plate.",
+    "In the same skillet, add the sliced onion and cook until translucent.",
+    "Add the minced garlic and red pepper flakes to the skillet and cook for 1 minute.",
+    "Add the canned tomatoes to the skillet and stir to combine.",
+    "Add the cooked guanciale back into the skillet and stir to combine.",
+    "Add the cooked pasta to the skillet and toss to combine.",
+    "Stir in the Parmesan cheese and cook until melted.",
+    "Transfer the pasta to a serving dish and top with the shredded lettuce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "meat-lovers",
+    "one-pan",
+    "pasta",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 24,
+    "carbs": 70,
+    "fat": 26
+  },
+  "slug": "lively-italian-guanciale-spaghetti-amatriciana",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-italian-guanciale-spaghetti-amatriciana",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T14:43:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "soffritto-base",
+    "primaryIngredient": "lettuce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Guanciale",
+    "descriptor": "Lively",
+    "dishForm": "Spaghetti Amatriciana"
+  }
+}
