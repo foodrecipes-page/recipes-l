@@ -1,0 +1,131 @@
+{
+  "title": "Light Garlicky Spanish Garlic Paella",
+  "description": "A light and festive Spanish seafood paella dish featuring rose water, perfect for a weeknight dinner. This gluten-free-friendly paella is packed with the flavors of the Mediterranean.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Short-grain rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality, cold-pressed oil for added flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Use a mix of sweet and pungent garlic varieties for depth."
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 teaspoon",
+      "notes": "Add a floral touch to balance the richness."
+    },
+    {
+      "name": "Seafood mix",
+      "amount": "1 pound",
+      "notes": "Combine shrimp, mussels, clams, and squid for a seafood lover's delight."
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 (14 oz) can",
+      "notes": "Canned artichoke hearts for convenience."
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoky, rich flavor for added depth."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt for best flavor."
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Use a coarse black pepper for added texture."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh lemon",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "Use high-quality saffron for maximum flavor."
+    },
+    {
+      "name": "Tagine cook liquid",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the rice and water in a large mixing bowl and let it soak for 30 minutes.",
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the garlic and saut\u0016 and stir until fragrant, about 1 minute.",
+    "Add the seafood mix and cook until it starts to turn pink, about 2 minutes.",
+    "Add the artichoke hearts, smoked paprika, salt, and pepper, and stir to combine.",
+    "Add the soaked rice mixture and stir to combine.",
+    "Add the tagine cook liquid and bring to a boil.",
+    "Reduce the heat to low and cover the pan with a tight-fitting lid.",
+    "Simmer the paella for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Stir in the rose water, saffron, and chopped parsley and lemon for garnish.",
+    "Serve the paella hot, garnished with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "light-garlicky-spanish-garlic-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-garlicky-spanish-garlic-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "tagine-cook",
+    "primaryIngredient": "rose water",
+    "diet": "gluten-free",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Garlic",
+    "descriptor": "Light Garlicky",
+    "dishForm": "Paella"
+  }
+}
