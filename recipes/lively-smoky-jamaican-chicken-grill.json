@@ -1,0 +1,97 @@
+{
+  "title": "Lively Smoky Jamaican Chicken Grill",
+  "description": "Charred, tender chicken breasts infused with jerk spice and bright citrus, served with hearty roasted veggies on a raclette grill for a low‑calorie, sick‑day Jamaican treat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "800g",
+      "notes": "boneless, skinless, cut into 1-inch pieces"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mixed bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with jerk seasoning, lime juice, soy sauce, maple syrup, and vinegar, then marinate for 10 minutes.",
+    "Heat the raclette grill to medium-high and brush a thin layer of coconut oil.",
+    "Lay the marinated chicken pieces on the grill, leaving space between them, and cook for 4 minutes on each side until charred.",
+    "Add the bell pepper, onion, and broccoli to the grill, stirring occasionally, for 6 minutes until tender.",
+    "Transfer the grilled chicken and veggies to a serving plate.",
+    "Serve hot, optionally garnished with fresh herbs or a squeeze of lime."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "low-calorie",
+    "one-pan",
+    "quick",
+    "raclette-grill",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 980,
+    "protein": 91,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "lively-smoky-jamaican-chicken-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-smoky-jamaican-chicken-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:29:33Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "malai",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Lively Smoky",
+    "dishForm": "Grill"
+  }
+}
