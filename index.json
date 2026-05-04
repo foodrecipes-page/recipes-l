@@ -381,6 +381,20 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-british-cream-trifle",
+    "title": "Lazy Sunday British Cream Trifle",
+    "tags": [
+      "british-cuisine",
+      "classic-dessert",
+      "mediterranean-inspired",
+      "special-occasion",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-british-dates-pilaf",
     "title": "Lazy-Sunday British Dates Pilaf",
     "tags": [
@@ -2575,6 +2589,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 140,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-fried-turkish-lamb-kebabs",
+    "title": "Lightly Fried Turkish Lamb Kebabs",
+    "tags": [
+      "grilled-meats",
+      "kebabs",
+      "lamb-recipes",
+      "low-fat",
+      "middle-eastern",
+      "turkish-food"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {

@@ -1,0 +1,94 @@
+{
+  "title": "Lazy Sunday British Cream Trifle",
+  "description": "A classic British dessert featuring layers of creamy custard, sweet sponge cake, and fresh fruit, perfect for a relaxing Sunday afternoon. This recipe incorporates a long-fermentation-dough and Mediterranean-friendly ingredients for a unique twist.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "allowed to ferment for 24 hours"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh berries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sherry wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Prepare the long-fermentation-dough by mixing it with a small amount of water to create a thick batter.",
+    "Pour the batter into a greased 9x13 inch baking dish and bake for 25 minutes, or until lightly golden brown.",
+    "In a medium saucepan, combine the whole milk, granulated sugar, and cream of tartar, and heat over medium heat, stirring constantly, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the large eggs and a small amount of the hot milk mixture, then return the egg mixture to the saucepan and continue to heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the heavy cream.",
+    "Allow the custard to cool to room temperature, then cover and refrigerate until chilled.",
+    "To assemble the trifle, cut the cooled sponge cake into small cubes and place half of them in the bottom of a large serving dish.",
+    "Pour half of the chilled custard over the cake, followed by half of the fresh berries.",
+    "Repeat the layers, starting with the remaining cake, then the remaining custard, and finally the remaining berries.",
+    "If using sherry wine, drizzle it over the top of the trifle."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "classic-dessert",
+    "mediterranean-inspired",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "lazy-sunday-british-cream-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-british-cream-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:15:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cream of tartar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cream",
+    "descriptor": "lazy sunday",
+    "dishForm": "Trifle"
+  }
+}
