@@ -1,0 +1,101 @@
+{
+  "title": "Low Carb Irish Lamb Stew",
+  "description": "A hearty and flavorful stew made with lamb, papelon, and tadka spices, perfect for a post-workout meal. This dish is low in carbs and rich in protein and healthy fats.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "papelon",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tadka spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and celery and cook until the vegetables are tender, about 5 minutes.",
+    "Add the papelon, tadka spices, and carrots and cook for 1 minute.",
+    "Add the lamb broth and tomato paste and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley.",
+    "Let it cool completely before refrigerating or freezing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "irish-cuisine",
+    "lamb-recipes",
+    "low-carb",
+    "post-workout-meals",
+    "stew-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "low-carb-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/low-carb-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:31:43Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "tadka",
+    "primaryIngredient": "papelon",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "low carb",
+    "dishForm": "Stew"
+  }
+}
