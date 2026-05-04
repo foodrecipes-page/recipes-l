@@ -1,0 +1,94 @@
+{
+  "title": "Luscious dense Italian oyster mushrooms Carbonara",
+  "description": "A rich and creamy Italian dish featuring oyster mushrooms, perfect for a date night, made with sous-vide eggs and ovo-vegetarian friendly ingredients. This carbonara is a decadent and indulgent treat.",
+  "cuisine": "Italian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "12 oz",
+      "notes": "fresh or dried, rehydrated"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "sous-vide at 145F"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "8 oz",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the oyster mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "In a large bowl, whisk together the eggs, parmesan cheese, and a pinch of salt and pepper.",
+    "Add the cooked spaghetti to the bowl and toss to combine with the egg mixture.",
+    "Add the mushroom and garlic mixture to the bowl and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "italian-food",
+    "mushroom-lovers",
+    "ovo-vegetarian",
+    "rich-and-creamy",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "luscious-dense-italian-oyster-mushrooms-carbonara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-dense-italian-oyster-mushrooms-carbonara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:02:41Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "Luscious dense",
+    "dishForm": "Carbonara"
+  }
+}
