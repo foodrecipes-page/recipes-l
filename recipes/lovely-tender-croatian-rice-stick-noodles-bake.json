@@ -1,0 +1,104 @@
+{
+  "title": "Lovely Tender Croatian Rice Stick Noodles Bake",
+  "description": "A macrobiotic-friendly Croatian dish featuring tender rice stick noodles, umami flavors, and a romantic twist, perfect for a special dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice stick noodles",
+      "amount": "8 oz",
+      "notes": "preferably brown rice noodles"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced and sauteed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": " nutritional yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the rice stick noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the mushrooms and onions until tender.",
+    "Add the garlic, tomato paste, and nutritional yeast to the skillet and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked noodles, skillet mixture, and vegetable broth, and stir until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodle mixture to a baking dish and bake for 20 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "macrobiotic",
+    "one-pan",
+    "romantic",
+    "tender",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "lovely-tender-croatian-rice-stick-noodles-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-tender-croatian-rice-stick-noodles-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:21:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "rice stick noodles",
+    "descriptor": "Lovely tender",
+    "dishForm": "Bake"
+  }
+}
