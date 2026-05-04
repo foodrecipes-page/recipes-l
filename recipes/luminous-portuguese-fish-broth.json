@@ -1,0 +1,97 @@
+{
+  "title": "Luminous Portuguese Fish Broth",
+  "description": "A mustardy, glassy-jelly broth designed for sick-day comfort. This Portuguese-inspired fish stew uses mirin and no-onion-no-garlic ingredients for a gentle, soothing flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "800g"
+    },
+    {
+      "name": "Water",
+      "amount": "2000ml"
+    },
+    {
+      "name": "Mirin",
+      "amount": "30ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "15g"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "5g"
+    },
+    {
+      "name": "White pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "Kombu",
+      "amount": "5g"
+    },
+    {
+      "name": "Agar-agar powder",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Place water, kombu, and mirin in a saucepan and bring to a gentle boil.",
+    "Reduce heat to low and add the fish fillets, letting them cook for eight minutes until opaque.",
+    "Stir in soy sauce, mustard, lemon juice, salt, and pepper, then simmer for another two minutes.",
+    "Remove the saucepan from heat and let the broth cool slightly before adding agar-agar, stirring until fully dissolved.",
+    "Transfer the mixture to a shallow dish and refrigerate for at least one hour or until the broth sets into a glassy jelly.",
+    "Slice the set broth into bite-sized cubes and serve on a chilled plate."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "jelly",
+    "mustard",
+    "pescatarian",
+    "quick",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "luminous-portuguese-fish-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luminous-portuguese-fish-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:44:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "boil",
+    "primaryIngredient": "mirin",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "Luminous",
+    "dishForm": "Broth"
+  }
+}

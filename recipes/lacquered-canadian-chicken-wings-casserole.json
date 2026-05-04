@@ -1,0 +1,101 @@
+{
+  "title": "Lacquered Canadian Chicken Wings Casserole",
+  "description": "A dense, resinous casserole of glazed chicken wings cooked in a clay pot, infused with maple syrup, soy sauce, and herbs for a uniquely Canadian flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2000 g"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and lightly coat a clay pot with olive oil.",
+    "In a bowl combine butter, maple syrup, soy sauce, minced garlic, diced onion, thyme, lemon zest, salt, and pepper to make a glaze.",
+    "Arrange the chicken wings in the clay pot and pour the glaze over them, ensuring each wing is coated.",
+    "Cover the pot with a lid and bake for 20 minutes, then uncover and bake for an additional 25 minutes until wings are golden and cooked through.",
+    "Once done, remove from oven and let the casserole rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cook",
+    "dense-casserole",
+    "easy",
+    "halal-friendly",
+    "maple-glaze",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 100,
+    "carbs": 23,
+    "fat": 113
+  },
+  "slug": "lacquered-canadian-chicken-wings-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lacquered-canadian-chicken-wings-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:45:38Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chicken wings",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Lacquered",
+    "dishForm": "Casserole"
+  }
+}
