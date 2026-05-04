@@ -1,0 +1,112 @@
+{
+  "title": "Lush Indian Tomato Jalebi",
+  "description": "A silky, grassy dessert that marries the sweetness of San Marzano tomatoes with the crispness of traditional jalebi, perfect for midnight cravings.",
+  "cuisine": "Indian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "White wheat flour",
+      "amount": "150g"
+    },
+    {
+      "name": "Semolina",
+      "amount": "50g"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "50g"
+    },
+    {
+      "name": "Egg yolk",
+      "amount": "1"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2g",
+      "notes": "about 1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "120ml"
+    },
+    {
+      "name": "Ghee",
+      "amount": "100ml"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "2g",
+      "notes": "about 1/2 teaspoon"
+    },
+    {
+      "name": "Saffron strands",
+      "amount": "0.5g",
+      "notes": "a pinch"
+    },
+    {
+      "name": "Mint leaves for garnish",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Whisk wheat flour, semolina, yogurt, egg yolk, baking powder, cardamom and saffron with enough water to make a smooth, thick batter.",
+    "Heat a deep pan over medium heat and add ghee, ensuring the pan is evenly coated before the batter.",
+    "Drop spoonfuls of batter into the hot ghee, forming small, circular rings, and fry until golden and crisp.",
+    "Once fried, remove the jalebis and let them drain on paper towels to remove excess oil.",
+    "Blend the San Marzano tomatoes into a smooth puree, then stir in sugar until it dissolves completely.",
+    "Heat the tomato-sugar mixture in a saucepan until it reaches a gentle boil, then simmer for 5 minutes to thicken slightly.",
+    "Allow the tomato syrup to cool to room temperature before using it for drizzling over the jalebis.",
+    "Arrange the fried jalebis on a serving plate and drizzle the tomato syrup generously over each piece.",
+    "Garnish with chopped mint leaves for a fresh, grassy note.",
+    "Serve immediately, ensuring the texture remains silky and the flavors are balanced."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "grassy",
+    "indian",
+    "maharashtrian",
+    "midnight-craving",
+    "silky",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 6,
+    "carbs": 90,
+    "fat": 27
+  },
+  "slug": "lush-indian-tomato-jalebi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-indian-tomato-jalebi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:50:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "ovo-vegetarian",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Lush",
+    "dishForm": "Jalebi"
+  }
+}
