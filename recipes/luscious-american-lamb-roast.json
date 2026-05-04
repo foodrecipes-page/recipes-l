@@ -1,0 +1,112 @@
+{
+  "title": "Luscious American Lamb Roast",
+  "description": "A juicy, roasted lamb leg with a fragrant herb crust, served with caramelized carrots and onions, perfect for a romantic date night.",
+  "cuisine": "American",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg roast, bone-in",
+      "amount": "1.5 lb",
+      "notes": "score fat cap in crosshatch pattern"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary, chopped",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "zest of 1",
+      "notes": ""
+    },
+    {
+      "name": "carrots, sliced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for vegetables"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F and let the lamb roast sit at room temperature for 20 minutes.",
+    "Score the fat cap of the 1.5‑lb lamb roast in a crosshatch pattern about 1/8‑inch deep, being careful not to cut into the meat.",
+    "In a small bowl, combine 2 tbsp olive oil, 4 minced garlic cloves, 2 tbsp fresh rosemary, 1 tsp salt, 1/2 tsp black pepper and zest of one lemon; rub this mixture all over the lamb.",
+    "Place a rack in a roasting pan and arrange 2 sliced carrots and 1 sliced onion around the lamb.",
+    "Roast the lamb for 20 minutes, then lower the oven temperature to 300°F and continue cooking for another 70 minutes, basting with pan juices every 15 minutes.",
+    "Check the internal temperature with a meat thermometer; it should reach 145°F for medium‑rare.",
+    "Remove the roast from the oven, tent it with foil, and let it rest for 15 minutes before carving.",
+    "Meanwhile, transfer the roasted carrots and onions to a skillet and sauté them in a tablespoon of olive oil until tender, about 5 minutes.",
+    "Drizzle the pan juices over the vegetables, season with a pinch of sea salt, and serve the sliced lamb on top with the caramelized veggies.",
+    "Garnish the plate with a few sprigs of fresh rosemary for an aromatic finish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "date-night",
+    "family-friendly",
+    "gluten-free",
+    "high-protein",
+    "lamb",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "luscious-american-lamb-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-american-lamb-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:55:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "lamb",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lamb",
+    "descriptor": "Luscious",
+    "dishForm": "Roast"
+  }
+}
