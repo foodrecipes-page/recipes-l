@@ -1,0 +1,90 @@
+{
+  "title": "Venezuelan Semolina Empanadas",
+  "description": "Crispy fried empanadas filled with semolina and beef, perfect for a snack or meal, and made with fodmap friendly ingredients to accommodate dietary needs.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "2 cups",
+      "notes": "fine semolina"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine semolina, ground beef, onion, eggs, salt, and pepper, and mix well until just combined.",
+    "Divide the mixture into 8 equal portions and shape each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully place 2-3 empanadas in the hot oil and fry for 2-3 minutes on each side, until golden brown.",
+    "Remove the empanadas from the oil with a slotted spoon and place on a paper towel lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining empanadas.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "crispy-snacks",
+    "fodmap-friendly",
+    "fried-foods",
+    "latin-american",
+    "semolina-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "lightly-fried-venezuelan-semolina-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fried-venezuelan-semolina-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:04:58Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "semolina",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "semolina",
+    "descriptor": "Lightly fried",
+    "dishForm": "Empanadas"
+  }
+}
