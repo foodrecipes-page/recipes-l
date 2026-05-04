@@ -1,0 +1,63 @@
+{
+  "title": "Lightly Garlicy Mediterranean Poppy Seeds Bowl",
+  "description": "A light, garlicky, and nutritious bowl featuring ground poppy seeds, quinoa, and roasted vegetables. Perfect for meal prep and suitable for breakfast, lunch, or dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the quinoa according to package instructions using 2 cups of water. Rinse and set aside.",
+    "Toss the eggplant, red bell pepper, and zucchini with olive oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes, or until tender and lightly browned.",
+    "In a large bowl, combine the cooked quinoa, roasted vegetables, crumbled feta cheese, ground poppy seeds, mixed greens, green olives, and red onion.",
+    "Drizzle with lemon juice and toss to combine. Top with minced garlic and serve hot or cold.",
+    "Store in the refrigerator for up to 5 days or freeze for up to 3 months.",
+    "Reheat or serve chilled.",
+    "Adjust seasoning as needed before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "meal-prep",
+    "mediterranean",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lightly-garlicy-mediterranean-poppy-seeds-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-garlicy-mediterranean-poppy-seeds-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Poppy seeds",
+    "descriptor": "Lightly garlicy",
+    "dishForm": "Bowl"
+  }
+}
