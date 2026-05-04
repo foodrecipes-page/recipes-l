@@ -1,0 +1,108 @@
+{
+  "title": "Luscious French Paccheri Tarte",
+  "description": "A layered pastry of salty paccheri, silky cheese, and caramelized onions, baked into a molten, indulgent French mille-feuille.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "shredded Swiss cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "100g"
+    },
+    {
+      "name": "cooked bacon, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "sautéed mushrooms",
+      "amount": "100g"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "50g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "80ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh thyme, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the paccheri pasta according to package directions and set aside.",
+    "Sauté the mushrooms in olive oil until golden and set aside.",
+    "In a medium bowl combine the Swiss cheese, Parmesan, heavy cream, and egg, whisking until smooth.",
+    "Fold in the cooked bacon, sautéed mushrooms, caramelized onions, thyme, salt, and pepper into the cheese mixture.",
+    "Heat a 9x9 inch baking dish with a thin layer of olive oil.",
+    "Spread a thin layer of the cheese mixture into the dish and bake at 180C for 12 minutes until the edges start to bubble.",
+    "Add a second layer of paccheri pasta over the first cheese layer.",
+    "Pour the remaining cheese mixture over the pasta, ensuring an even spread.",
+    "Bake for an additional 15 minutes until the top is golden and the cheese is molten.",
+    "Remove from oven, let cool for 5 minutes, then slice into four pieces and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "low-carb",
+    "mille-feuille",
+    "molten",
+    "paccheri",
+    "salty"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 35
+  },
+  "slug": "luscious-french-paccheri-tarte",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-french-paccheri-tarte",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:06:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "wok-hei",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "paccheri",
+    "descriptor": "Luscious",
+    "dishForm": "Tarte"
+  }
+}
