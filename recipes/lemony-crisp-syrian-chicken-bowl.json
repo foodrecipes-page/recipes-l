@@ -1,0 +1,130 @@
+{
+  "title": "Lemony Crisp Syrian Chicken Bowl",
+  "description": "A citrusy, crisp, leaf‑wrapped chicken simmered with makrut lime leaves, served over quinoa with fresh veggies for a post‑workout boost.",
+  "cuisine": "Syrian",
+  "diet": [
+    "fodmap-friendly",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skinless boneless chicken breasts",
+      "amount": "800g",
+      "notes": "about 200g each"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "6",
+      "notes": "to wrap and steam the chicken"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C and prepare a steam basket.",
+    "Season the chicken breasts with salt, pepper, red pepper flakes, cumin, coriander, and paprika.",
+    "Wrap each chicken breast in two makrut lime leaves and secure with kitchen twine.",
+    "Place the wrapped chicken in the steam basket, add a splash of water, and steam for 15 minutes.",
+    "While the chicken steams, toss quinoa with lemon zest, lemon juice, tamarind paste, and a drizzle of olive oil.",
+    "In a skillet, heat the remaining olive oil and briefly sauté the bell pepper until crisp.",
+    "Arrange the quinoa base in a Korean brass bowl, top with steamed chicken, sautéed bell pepper, shredded cabbage, and fresh mint.",
+    "Serve immediately, ensuring the chicken remains wrapped for extra moisture and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "fodmap-friendly",
+    "high-protein",
+    "leaf-wrap",
+    "post-workout",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 126,
+    "carbs": 51,
+    "fat": 28
+  },
+  "slug": "lemony-crisp-syrian-chicken-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-crisp-syrian-chicken-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:00:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Lemony Crisp",
+    "dishForm": "Bowl"
+  }
+}
