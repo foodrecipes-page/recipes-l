@@ -2454,6 +2454,23 @@
     "shard": "l"
   },
   {
+    "slug": "light-russian-beurre-monte-flatbread",
+    "title": "Light Russian beurre-monte flatbread",
+    "tags": [
+      "breakfast-option",
+      "dinner-option",
+      "flatbread",
+      "healthy",
+      "lunch",
+      "russian",
+      "side-dish",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
     "slug": "light-salty-jamaican-fish-curry",
     "title": "Light Salty Jamaican Fish Curry",
     "tags": [
@@ -4722,6 +4739,20 @@
     "shard": "l"
   },
   {
+    "slug": "low-temperature-japanese-molten-stir-fry",
+    "title": "Low-Temperature Japanese Molten Stir-Fry",
+    "tags": [
+      "high-protein",
+      "low-sodium",
+      "one-pan",
+      "post-workout",
+      "tohoku"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "luminous-charred-polish-ham-toast",
     "title": "Luminous Charred Polish Ham Toast",
     "tags": [
@@ -6083,6 +6114,22 @@
     ],
     "cuisine": "Saudi-Arabian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriantly-aerated-jamaican-duck-hash",
+    "title": "luxuriantly aerated jamaican duck hash",
+    "tags": [
+      "comfort-food",
+      "date-night",
+      "high-protein",
+      "mediterranean-friendly",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {

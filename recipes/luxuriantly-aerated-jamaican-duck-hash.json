@@ -1,0 +1,147 @@
+{
+  "title": "luxuriantly aerated jamaican duck hash",
+  "description": "a spicy, savory hash featuring the bold flavors of jamaican jerk seasoning and the crunch of pan-seared duck. perfect for a date-night dinner.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless duck breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "chinese five spice powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cure",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "aleppo pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use kosher salt"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400.degree.f.\n",
+    "season the duck with chinese five spice powder, brown sugar, allspice, cinnamon, nutmeg, and salt.\n",
+    "heat 1 tablespoon of coconut oil in a large cast-iron skillet over medium-high heat.\n",
+    "sear the duck until browned, about 5 minutes per side.\n",
+    "remove the duck from the skillet and set aside.\n",
+    "add the remaining 1 tablespoon of coconut oil to the skillet.\n",
+    "add the onions and garlic and cook until the onions are translucent, about 5 minutes.\n",
+    "add the scotch bonnet peppers, thyme, and chicken broth to the skillet.\n",
+    "bring the mixture to a simmer and cook until the liquid has reduced by half, about 5 minutes.\n",
+    "flake the duck into the skillet and stir to combine with the onion mixture.\n",
+    "add the aleppo pepper and paprika to the skillet.\n",
+    "cook for an additional 2-3 minutes, until the duck is heated through.\n",
+    "serve the duck hash hot, garnished with chopped fresh herbs if desired.\n"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 45
+  },
+  "slug": "luxuriantly-aerated-jamaican-duck-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-aerated-jamaican-duck-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:29Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "duck",
+    "descriptor": "Luxuriantly aerated",
+    "dishForm": "Hash"
+  }
+}

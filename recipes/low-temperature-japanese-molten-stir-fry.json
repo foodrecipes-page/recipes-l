@@ -1,0 +1,118 @@
+{
+  "title": "Low-Temperature Japanese Molten Stir-Fry",
+  "description": "A post-workout Japanese dish from the Tohoku region featuring plum jam and stir-fry, suitable for low-sodium diets.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buckwheat soba noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Tohoku-style miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms (such as shiitake)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Plum jam",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Low-sodium sake",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Pickled mustard greens",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over low heat.",
+    "Add the sliced scallions and cook for 2 minutes, or until they start to soften.",
+    "Add the mushrooms and cook for 3-4 minutes, or until they release their liquid and start to brown.",
+    "Add the miso paste and cook for 1 minute, stirring constantly.",
+    "Add the plum jam and cook for 1 minute, stirring constantly.",
+    "Add the soba noodles, soy sauce, sake, and pickled mustard greens. Stir to combine.",
+    "Add the garlic and ginger. Cook for an additional 1-2 minutes, or until the noodles are well coated with the sauce.",
+    "Season with salt-free seasoning blend to taste.",
+    "Serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "post-workout",
+    "tohoku"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "low-temperature-japanese-molten-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-temperature-japanese-molten-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:27Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "plum jam",
+    "diet": "low-sodium",
+    "region": "tohoku",
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "molten",
+    "descriptor": "low-temperature",
+    "dishForm": "stir-fry"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Light Russian beurre-monte flatbread",
+  "description": "A simple and light Russian-inspired flatbread featuring a beurre-monte topping made with Greek yogurt, garlic, and chives. This dish is perfect for a quick snack or lunch.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat pita bread",
+      "amount": "1",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the pita bread on a baking sheet and toast in the oven for 5 minutes, or until lightly browned.",
+    "Meanwhile, mix the Greek yogurt, garlic, and chives in a small bowl.",
+    "Remove the pita bread from the oven and spread the beurre-monte mixture evenly over the top.",
+    "Add salt and black pepper to taste, then sprinkle with chopped fresh dill and crumbled unsalted butter."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-option",
+    "dinner-option",
+    "flatbread",
+    "healthy",
+    "lunch",
+    "russian",
+    "side-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "light-russian-beurre-monte-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-russian-beurre-monte-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "beurre-monte",
+    "primaryIngredient": "pita bread",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beurre-monte",
+    "descriptor": "Light",
+    "dishForm": "Flatbread"
+  }
+}
