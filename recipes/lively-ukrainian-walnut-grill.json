@@ -1,0 +1,102 @@
+{
+  "title": "Lively Ukrainian Walnut Grill",
+  "description": "A smoky, nutty grilled dish featuring toasted walnuts and pickled cucumber, brightened with canola oil and paprika. This savory snack showcases Ukrainian flavors in a quick, easy format.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "200 g",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "canola oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "2 tbsp",
+      "notes": "finely diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "sliced into rings"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium‑high heat (around 200°C).",
+    "In a bowl, combine walnuts, smoked paprika, dried dill, minced garlic, salt, pepper, and lemon juice.",
+    "Toss the walnuts in the canola oil until lightly coated.",
+    "Spread the walnut mixture evenly on a heat‑proof baking sheet that fits your grill.",
+    "Place the sheet on the grill grates and cook for 8 minutes, stirring occasionally.",
+    "While the walnuts are roasting, sauté the sliced red onion in a little canola oil until golden.",
+    "Once the walnuts are nutty and fragrant, remove the sheet and transfer the walnuts to a serving bowl.",
+    "Add the diced nuka-pickle, sautéed onion, and a drizzle of remaining canola oil on top of the walnuts.",
+    "Garnish with fresh dill and serve immediately as a side or snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "grilled",
+    "nutty",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1600,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 140
+  },
+  "slug": "lively-ukrainian-walnut-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-ukrainian-walnut-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:58:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "canola oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "walnut",
+    "descriptor": "Lively",
+    "dishForm": "Grill"
+  }
+}
