@@ -1,0 +1,105 @@
+{
+  "title": "Lush Seared Korean Tuna Bowl",
+  "description": "A cultured, pillowy date-night dish featuring seared tuna in a char-grilled tangy pineapple sauce served in a Korean brass bowl.",
+  "cuisine": "Korean fusion",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna steak",
+      "amount": "6 oz",
+      "notes": "high quality, firm"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "steamed white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "4 oz",
+      "notes": "julienned"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 tbsp",
+      "notes": "sliced thin"
+    }
+  ],
+  "instructions": [
+    "Pat the tuna steak dry and season both sides with salt and pepper.",
+    "Heat a cast-iron or grill pan over high heat until smoking and sear the tuna for 1 minute per side for a rare center.",
+    "In a small bowl whisk together pineapple juice, soy sauce, sesame oil, gochujang, honey, and rice vinegar to create the glaze.",
+    "Brush the glaze over the seared tuna and let it rest for 30 seconds.",
+    "Meanwhile, spread steamed rice in the bottom of a Korean brass bowl.",
+    "Top the rice with the seared tuna, cucumber julienne, and sliced green onion.",
+    "Sprinkle sesame seeds over the bowl, drizzle any remaining glaze, and serve immediately.",
+    "Enjoy the contrast of charred tuna, sweet pineapple, and crunchy veggies in one elegant bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "korean",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 43,
+    "carbs": 62,
+    "fat": 11
+  },
+  "slug": "lush-seared-korean-tuna-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-seared-korean-tuna-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:48:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "pineapple juice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Tuna",
+    "descriptor": "Lush Seared",
+    "dishForm": "Bowl"
+  }
+}
