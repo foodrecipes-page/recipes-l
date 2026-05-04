@@ -1,0 +1,94 @@
+{
+  "title": "Lightly Browned Kenyan Sausages Skewers",
+  "description": "A halal-friendly Kenyan dish featuring crispy sausages, served with a side of spicy ferment-kimchi, perfect for a solo dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan sausages",
+      "amount": "4",
+      "notes": "preferably beef or chicken"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, around 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together butter, salt, black pepper, and lemon juice.",
+    "Add the cut onion and bell pepper to the bowl and toss to coat with the butter mixture.",
+    "Thread the marinated onion and bell pepper onto skewers, leaving a small space between each piece.",
+    " Grill the skewers for 5 minutes per side, or until they are lightly browned.",
+    "Meanwhile, cook the Kenyan sausages in a pan over medium heat, browning them on all sides.",
+    "Once the sausages are cooked through, serve them on top of the grilled skewers.",
+    "Serve the skewers with a side of ferment-kimchi and enjoy.",
+    "Make sure to cook the sausages to an internal temperature of at least 160 degrees Fahrenheit to ensure food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-dishes",
+    "grilled-meats",
+    "halal-friendly",
+    "kenyan-cuisine",
+    "solo-dinner",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "lightly-browned-kenyan-sausages-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-browned-kenyan-sausages-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:59:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "sausages",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sausages",
+    "descriptor": "Lightly browned",
+    "dishForm": "Skewers"
+  }
+}
