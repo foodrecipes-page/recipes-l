@@ -1,0 +1,110 @@
+{
+  "title": "Lively Crunchy Argentinian Beef Wrap",
+  "description": "A bitter and crunchy brunch dish featuring seared beef, spicy vegetables, and a fresh lotus leaf wrap.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lean beef flank steak",
+      "amount": "500 g",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "200 g"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "100 g"
+    },
+    {
+      "name": "red onion, thinly sliced",
+      "amount": "1 small"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rendered beef fat",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lotus leaf sheets",
+      "amount": "4 sheets",
+      "notes": "pre-soaked in warm water"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine beef strips with chili powder, smoked paprika, cumin, salt, and 1 tbsp rendered beef fat; toss until coated.",
+    "Heat a skillet over medium-high heat; sear beef for 2-3 minutes per side until browned and cooked to medium; set aside.",
+    "In the same skillet, add remaining rendered beef fat and sauté shredded carrots, diced bell pepper, and thinly sliced onion for 5 minutes until crisp-tender.",
+    "Add lime juice and chopped cilantro to the vegetables, cook for 1 minute; remove from heat.",
+    "Warm lotus leaf sheets in a damp cloth for 5 minutes until pliable.",
+    "Divide the sautéed vegetable mixture evenly onto each lotus leaf, topping with the seared beef.",
+    "Fold the lotus leaves into wrap shape, securing with kitchen twine or a toothpick if needed.",
+    "Place the wrapped bundles on a baking sheet; bake at 180°C for 8 minutes to seal the edges.",
+    "Remove from oven; let rest 2 minutes; optionally drizzle with a small amount of rendered beef fat.",
+    "Slice each wrap into bite-sized pieces and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "beef-wrap",
+    "bitter",
+    "brunch",
+    "crunchy",
+    "lotus-leaf",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "lively-crunchy-argentinian-beef-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-crunchy-argentinian-beef-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:40:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "render-fat",
+    "primaryIngredient": "chilli powder",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Lively Crunchy",
+    "dishForm": "Wrap"
+  }
+}
