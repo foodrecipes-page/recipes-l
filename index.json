@@ -2992,6 +2992,21 @@
     "shard": "l"
   },
   {
+    "slug": "lively-portuguese-ovoli-mushroom-soup",
+    "title": "Lively Portuguese Ovoli Mushroom Soup",
+    "tags": [
+      "kid-friendly",
+      "low-sodium",
+      "one-pot",
+      "quick",
+      "shaggy-soup",
+      "sick-day"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lively-smoky-argentinian-potatoes-grill",
     "title": "Lively Smoky Argentinian Potatoes Grill",
     "tags": [
@@ -4004,6 +4019,21 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lush-egyptian-lentils-curry",
+    "title": "Lush Egyptian Lentils Curry",
+    "tags": [
+      "copper-mug",
+      "curry",
+      "date-night",
+      "grassy",
+      "lentils",
+      "tadka"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {

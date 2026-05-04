@@ -1,0 +1,116 @@
+{
+  "title": "Lively Portuguese Ovoli Mushroom Soup",
+  "description": "A tangy, shaggy soup that comforts sick days with a burst of Portuguese flavor, featuring ovoli mushrooms poached for silky texture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ovoli mushrooms",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 teaspoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add diced onion, minced garlic, sliced carrot, and celery, sautéing until onion becomes translucent.",
+    "Stir in sliced ovoli mushrooms and cook for 3 minutes until they release moisture.",
+    "Pour in white wine and let it reduce by half, scraping up browned bits.",
+    "Add vegetable broth, chopped thyme, smoked paprika, and lemon zest, bringing the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, allowing flavors to meld.",
+    "Use an immersion blender to mash the soup to a shaggy texture, or transfer to a blender in batches.",
+    "Return soup to the pot and stir to incorporate the blended mixture, adjusting consistency with a splash of broth if needed.",
+    "Taste and season with a pinch of salt if desired, keeping the low-sodium intent in mind.",
+    "Ladle the hot soup into bowls, garnish with a drizzle of olive oil, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "low-sodium",
+    "one-pot",
+    "quick",
+    "shaggy-soup",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "lively-portuguese-ovoli-mushroom-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-portuguese-ovoli-mushroom-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:29:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "poach",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "Lively",
+    "dishForm": "Soup"
+  }
+}

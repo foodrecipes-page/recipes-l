@@ -1,0 +1,115 @@
+{
+  "title": "Lush Egyptian Lentils Curry",
+  "description": "A fragrant, airy lentil curry with a smoky lard base, aromatic tadka, served warm from a copper mug, perfect for a tranquil date night.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils until the water runs clear and set aside.",
+    "In a copper mug, heat the lard over medium heat until shimmering, then add the diced onion and sauté until translucent.",
+    "Add the minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Stir in the ground cumin, coriander, turmeric, and cayenne pepper, letting the spices toast for 30 seconds.",
+    "Pour in the rinsed lentils and water, then bring to a gentle boil before reducing heat to low and covering.",
+    "Simmer for 25 minutes, or until the lentils are tender and the liquid has thickened.",
+    "Remove the mug from heat, stir in lemon juice and chopped cilantro, then season with salt to taste.",
+    "Serve the curry hot from the copper mug, and enjoy the airy, grassy flavors with your date."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "curry",
+    "date-night",
+    "grassy",
+    "lentils",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "lush-egyptian-lentils-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-egyptian-lentils-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:28:38Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "lard",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Lush",
+    "dishForm": "Curry"
+  }
+}
