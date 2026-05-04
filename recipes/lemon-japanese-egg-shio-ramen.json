@@ -1,0 +1,110 @@
+{
+  "title": "Lemon Japanese Egg Shio Ramen",
+  "description": "A bright and silky ramen featuring a citrus-infused shio broth, a silky glassy egg, and gentle steam vegetables, perfect for a romantic Kyoto-inspired dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetarian dashi stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "150 g"
+    },
+    {
+      "name": "free-range eggs",
+      "amount": "2"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup sliced"
+    }
+  ],
+  "instructions": [
+    "In a pot, combine water, dashi, soy sauce, mirin, salt, lemon zest, lemon juice, and miso paste; bring to a gentle simmer.",
+    "Reduce heat to low and let the broth infuse for 5 minutes.",
+    "Add sliced shiitake mushrooms and bamboo shoots to the simmering broth.",
+    "Bring the broth back to a low simmer and keep warm.",
+    "Cook ramen noodles in a separate pot of boiling salted water according to package instructions, about 3 minutes, then drain and set aside.",
+    "Place the eggs in a small saucepan and cover with water; bring to a gentle boil and cook for 7 minutes for a soft but firm yolk.",
+    "Transfer the eggs to ice water to halt cooking, then peel.",
+    "To create the glassy egg, wrap each peeled egg in a thin layer of tempered glass (or a sheet of plastic wrap) and insert it into the hot broth for 1 minute, then remove.",
+    "Warm the broth again and remove it from heat.",
+    "Divide the cooked noodles into bowls, pour the hot citrus broth over them.",
+    "Gently slide the glassy egg into each bowl, then top with warmed mushrooms and bamboo shoots.",
+    "Garnish with a sprinkle of green onion and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "glass-egg",
+    "lacto-vegetarian",
+    "quick",
+    "romantic",
+    "shio-ramen"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "lemon-japanese-egg-shio-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-japanese-egg-shio-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:46:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "lacto-vegetarian",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Egg",
+    "descriptor": "Lemon",
+    "dishForm": "Shio Ramen"
+  }
+}
