@@ -1,0 +1,110 @@
+{
+  "title": "Luscious Egyptian Coriander Stew",
+  "description": "A rich, sour stew full of ground coriander and chickpeas, simmered to a dense, nostalgic finish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "400 g",
+      "notes": "drained"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "200 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "300 ml"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "100 g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Add the ground coriander, ground cumin, and tomato paste; cook for another 2 minutes.",
+    "Pour in the diced tomatoes and vegetable broth, bring to a gentle simmer.",
+    "Add the drained chickpeas, reduce heat to low, and simmer for 20 minutes, stirring occasionally.",
+    "Whisk the yogurt until smooth, then stir it into the stew along with the lemon juice; heat until thickened but not boiling.",
+    "Season with salt and pepper to taste, garnish with optional parsley, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "egyptian",
+    "nostalgic",
+    "one-pot",
+    "soul-food",
+    "sour",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "luscious-egyptian-coriander-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-egyptian-coriander-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:30:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "ground coriander",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "coriander",
+    "descriptor": "Luscious",
+    "dishForm": "Stew"
+  }
+}

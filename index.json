@@ -219,6 +219,20 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-peruvian-chicken-roast",
+    "title": "Lazy Peruvian Chicken Roast",
+    "tags": [
+      "family-friendly",
+      "high-protein",
+      "lazy-dinner",
+      "one-pan",
+      "peruvian"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-plum-bliss",
     "title": "Lazy Plum Bliss",
     "tags": [
@@ -2970,6 +2984,22 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-egyptian-coriander-stew",
+    "title": "Luscious Egyptian Coriander Stew",
+    "tags": [
+      "dense",
+      "egyptian",
+      "nostalgic",
+      "one-pot",
+      "soul-food",
+      "sour",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {

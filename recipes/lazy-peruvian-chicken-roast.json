@@ -1,0 +1,101 @@
+{
+  "title": "Lazy Peruvian Chicken Roast",
+  "description": "A nutty, aerated, lazy-sunday Peruvian dish featuring balsamic vinegar and peanut butter for a high-protein, juicy pollo a la brasa style roast.",
+  "cuisine": "peruvian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone-in chicken thighs",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted almonds, slivered",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F.",
+    "In a small bowl mix olive oil, balsamic vinegar, peanut butter, garlic, cumin, smoked paprika, oregano, salt, and pepper until smooth.",
+    "Place chicken thighs in a large baking dish and pour the mixture over them, ensuring each piece is coated.",
+    "Let the chicken marinate at room temperature for 15 minutes to absorb flavors.",
+    "Roast the chicken for 35-40 minutes, turning halfway, until skin is crispy and internal temperature reaches 165°F.",
+    "While the chicken is roasting, toast the almond slivers in a dry skillet over medium heat until golden, about 3-4 minutes.",
+    "Once the chicken is done, remove it from the oven and let it rest for 5 minutes.",
+    "Sprinkle the toasted almonds over the chicken, drizzle with any remaining juices from the pan, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "family-friendly",
+    "high-protein",
+    "lazy-dinner",
+    "one-pan",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 39,
+    "carbs": 3,
+    "fat": 19
+  },
+  "slug": "lazy-peruvian-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-peruvian-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:30:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "marinate",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Lazy",
+    "dishForm": "Roast"
+  }
+}
