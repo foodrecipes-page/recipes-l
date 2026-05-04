@@ -1,0 +1,108 @@
+{
+  "title": "Luxuriant Juicy Korean Custard Tang",
+  "description": "A pungent and juicy Korean dish featuring custard, toast, and anti-inflammatory friendly ingredients, traditionally served in the Gyeongsang region as a hangover cure.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "white bread"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, combine eggs, milk, gochujang, soy sauce, garlic, ginger, and turmeric, and blend until smooth.",
+    "Pour the mixture into 4 ramekins or small cups.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "While the custard is baking, toast the bread until lightly browned.",
+    "Remove the custard from the water bath and let cool to room temperature.",
+    "To serve, place a slice of toast in the bottom of a bowl, top with a ramekin of custard, and garnish with green onions and a drizzle of sesame oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "hangover-cure",
+    "korean-food",
+    "spicy-food",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "luxuriant-juicy-korean-custard-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-juicy-korean-custard-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:36:51Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "toast",
+    "primaryIngredient": "custard",
+    "diet": "anti-inflammatory",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "custard",
+    "descriptor": "luxuriant juicy",
+    "dishForm": "Tang"
+  }
+}
