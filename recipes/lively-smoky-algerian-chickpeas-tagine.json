@@ -1,0 +1,113 @@
+{
+  "title": "Lively Smoky Algerian Chickpeas Tagine",
+  "description": "A winey, smoky chickpea dish with crunchy grilled tofu, perfect for a vegan Algerian dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "200ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "150g",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the ceramic-tagine to medium heat, brush with olive oil.",
+    "Sauté onion and garlic until translucent, stirring frequently.",
+    "Add smoked paprika, cumin, oregano, coriander, and crushed juniper berries, cooking for one minute to bloom the spices.",
+    "Pour in the white wine and let it reduce by half, scraping the bottom of the vessel.",
+    "Stir in the chickpeas, vegetable broth, and diced smoked tofu, then cover the tagine.",
+    "Transfer the tagine to the oven and bake at 180°C for 25 minutes, allowing the flavors to meld.",
+    "While the tagine bakes, quickly grill the tofu pieces on a hot grill pan until crisp on the edges.",
+    "After baking, stir in the grilled tofu, ensuring it stays crunchy.",
+    "Taste and adjust seasoning with salt and pepper, if needed.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "quick",
+    "smoky",
+    "tagine",
+    "vegan",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 804,
+    "protein": 26,
+    "carbs": 42,
+    "fat": 39
+  },
+  "slug": "lively-smoky-algerian-chickpeas-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-smoky-algerian-chickpeas-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:24:20Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "juniper berries",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Lively Smoky",
+    "dishForm": "Tagine"
+  }
+}
