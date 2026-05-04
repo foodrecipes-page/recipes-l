@@ -1,0 +1,115 @@
+{
+  "title": "Lemon Light British Lentils Curry",
+  "description": "A bright, citrusy vegan curry that uses sesame seed oil and a quick temper to give a snappy, kid-friendly bite.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup (200g)",
+      "notes": "rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 1/2 cups (360ml)"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mild curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 large",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust after adding lemon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water and set aside.",
+    "Heat the sesame seed oil in a saucepan over medium heat and sauté the onion until translucent, about 4 minutes.",
+    "Add the minced garlic and grated ginger and cook for 30 seconds until fragrant.",
+    "Stir in the cumin, turmeric, curry powder and a pinch of salt, cooking for 1 minute.",
+    "Add the lentils, diced tomatoes and vegetable broth, bring to a gentle boil, then reduce heat and simmer uncovered for 15 minutes until the lentils are tender.",
+    "Remove the pot from heat, stir in the lemon zest and juice, and season with additional salt if needed.",
+    "Divide the curry evenly into six ramekins, garnish each with chopped cilantro.",
+    "Serve immediately as a warm, citrusy main dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "citrus",
+    "kid-friendly",
+    "low-fat",
+    "one-pot",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 9,
+    "carbs": 32,
+    "fat": 4
+  },
+  "slug": "lemon-light-british-lentils-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-light-british-lentils-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:46:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lentils",
+    "descriptor": "Lemon Light",
+    "dishForm": "Curry"
+  }
+}

@@ -759,6 +759,22 @@
     "shard": "l"
   },
   {
+    "slug": "lemon-light-british-lentils-curry",
+    "title": "Lemon Light British Lentils Curry",
+    "tags": [
+      "british",
+      "citrus",
+      "kid-friendly",
+      "low-fat",
+      "one-pot",
+      "quick",
+      "vegan"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lemongrass-braised-crisp-dish",
     "title": "Lemongrass Braised Crisp Dish",
     "tags": [
@@ -3478,6 +3494,21 @@
     "tags": [],
     "cuisine": "Thai",
     "totalTimeMin": null,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-turkish-bean-stew",
+    "title": "Luscious Turkish Bean Stew",
+    "tags": [
+      "anti-inflammatory",
+      "comfort-food",
+      "high-protein",
+      "slow-cook",
+      "vegan-friendly",
+      "white-beans"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 105,
     "shard": "l"
   },
   {
