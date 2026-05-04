@@ -1,0 +1,109 @@
+{
+  "title": "Lively Peppery Australian Shrimp Stir-fry",
+  "description": "A festive, peppery stir-fry featuring shrimp, wok-hei sauce and creamy soy milk for a gooey, pescatarian-friendly dish.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp, peeled and deveined",
+      "amount": "400g"
+    },
+    {
+      "name": "soy milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "wok-hei seasoning sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 medium, sliced"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cornstarch slurry",
+      "amount": "1 tbsp",
+      "notes": "mixed with 2 tbsp water"
+    }
+  ],
+  "instructions": [
+    "Heat a wok over high heat until smoking and swirl sesame oil inside.",
+    "Add minced garlic, grated ginger, and chili flakes; stir-fry for 30 seconds until fragrant.",
+    "Toss in sliced red and green bell peppers; cook for 2 minutes, stirring constantly.",
+    "Insert shrimp and stir until they just start to turn pink, about 1 minute.",
+    "Pour in soy milk and wok-hei seasoning sauce, bring to a gentle simmer.",
+    "Stir in soy sauce and add the cornstarch slurry; cook until the sauce thickens and becomes glossy, about 2 minutes.",
+    "Add sliced cucumber, stir quickly for 30 seconds to preserve crunch.",
+    "Taste and adjust seasoning with more soy sauce or a pinch of salt if needed.",
+    "Transfer the stir-fry to a plate; drizzle with a few drops of sesame oil for shine.",
+    "Serve immediately over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aussie",
+    "festive",
+    "one-pot",
+    "peppery",
+    "pescatarian",
+    "wok"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "lively-peppery-australian-shrimp-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-peppery-australian-shrimp-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:50:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "wok-hei",
+    "primaryIngredient": "soya milk",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Lively Peppery",
+    "dishForm": "Stir-fry"
+  }
+}
