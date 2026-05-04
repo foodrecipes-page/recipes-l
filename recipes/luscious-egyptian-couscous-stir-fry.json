@@ -1,0 +1,97 @@
+{
+  "title": "Luscious Egyptian Couscous Stir-Fry",
+  "description": "A light, umami-packed Egyptian inspired stir-fry with parmesan and a fragrant spice blend, perfect for a quick hangover cure.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked chicken breast",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tamari sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mixed stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "carrot, bell pepper, zucchini"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spice blend",
+      "amount": "1 tsp",
+      "notes": "cumin, coriander, paprika, ginger, garlic powder, turmeric"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 2 cups of water to a boil, then stir in couscous, cover, remove from heat, and let stand 5 minutes to absorb water.",
+    "While couscous rests, heat 1 tbsp olive oil in a large skillet over medium heat.",
+    "Add the cooked chickpeas and chicken to the skillet, sautéing for 2 minutes to warm through.",
+    "Stir in the mixed vegetables and cook until just tender, about 3 minutes.",
+    "Sprinkle the spice blend over the mixture, tossing to coat evenly.",
+    "Add the tamari sauce, lemon juice, and grated parmesan, stirring until the cheese melts and the flavors meld.",
+    "Gently fold in the steamed couscous, ensuring all components are well combined and heated through.",
+    "Taste and adjust seasoning with extra lemon or tamari if desired, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "light",
+    "one-pan",
+    "quick",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 730,
+    "protein": 50,
+    "carbs": 84,
+    "fat": 21
+  },
+  "slug": "luscious-egyptian-couscous-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-egyptian-couscous-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:07:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "stir-fry",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "couscous",
+    "descriptor": "Luscious",
+    "dishForm": "Stir-fry"
+  }
+}

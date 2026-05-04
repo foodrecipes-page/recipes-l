@@ -2364,6 +2364,22 @@
     "shard": "l"
   },
   {
+    "slug": "luscious-egyptian-couscous-stir-fry",
+    "title": "Luscious Egyptian Couscous Stir-Fry",
+    "tags": [
+      "hangover-cure",
+      "high-protein",
+      "light",
+      "one-pan",
+      "quick",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "luscious-lime-american-chicken-wrap",
     "title": "Luscious Lime American Chicken Wrap",
     "tags": [
@@ -2430,6 +2446,23 @@
     "tags": [],
     "cuisine": "Thai",
     "totalTimeMin": null,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-turkish-tomatoes-tagine",
+    "title": "Luscious Turkish Tomatoes Tagine",
+    "tags": [
+      "ayurvedic",
+      "clay-vessel",
+      "creamy",
+      "flambe",
+      "sattvic-friendly",
+      "slow-cook",
+      "tomato",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {

@@ -1,0 +1,121 @@
+{
+  "title": "Luscious Turkish Tomatoes Tagine",
+  "description": "Charred, creamy, nostalgic Turkish dish featuring tomatoes flambéed in coconut milk, served from a traditional clay tajine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ayurvedic-sattvic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "800 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "brandy",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Warm the tajine clay vessel on a low flame for 5 minutes to reduce cracking risk.",
+    "Char the tomatoes by placing them on a hot grill or directly over a gas flame until skin blistered, 3-4 minutes per side, then peel and cut into wedges.",
+    "In a skillet, heat olive oil over medium heat and sauté onion and garlic until translucent, about 5 minutes.",
+    "Add cumin, paprika, coriander, and saffron, and cook for 1 minute until fragrant.",
+    "Stir in charred tomato wedges, coconut milk, sugar, and lemon juice, and bring to a gentle simmer.",
+    "Pour the mixture into the warmed tajine, cover, and transfer to the oven for 25 minutes.",
+    "While the tagine bakes, heat a small saucepan over low heat, add brandy, and ignite to flambe the tomatoes before draining the flame.",
+    "After baking, remove the tajine, sprinkle with fresh parsley, and serve hot with steamed rice or crusty bread.",
+    "Garnish with extra lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "clay-vessel",
+    "creamy",
+    "flambe",
+    "sattvic-friendly",
+    "slow-cook",
+    "tomato",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "luscious-turkish-tomatoes-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-turkish-tomatoes-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:07:57Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "flambe",
+    "primaryIngredient": "tomatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Luscious",
+    "dishForm": "Tagine"
+  }
+}
