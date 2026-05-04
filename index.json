@@ -4490,6 +4490,20 @@
     "shard": "l"
   },
   {
+    "slug": "luscious-greek-zucchini-pastitsio",
+    "title": "Luscious Greek Zucchini Pastitsio",
+    "tags": [
+      "baked",
+      "comforting",
+      "greek",
+      "low-carb",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
     "slug": "luscious-indian-paneer-wrap",
     "title": "Luscious Indian Paneer Wrap",
     "tags": [
@@ -4740,6 +4754,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-shaggy-irish-lamb-stew",
+    "title": "Luscious Shaggy Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "lamb-recipes",
+      "one-pot",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
     "shard": "l"
   },
   {

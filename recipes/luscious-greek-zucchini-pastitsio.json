@@ -1,0 +1,106 @@
+{
+  "title": "Luscious Greek Zucchini Pastitsio",
+  "description": "A salty, velvety comfort dish featuring ginger paste and a low-carb twist on traditional pastitsio.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "400g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Mozzarella",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Parmesan",
+      "amount": "1/2 cup grated"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190C.",
+    "Heat olive oil in a skillet over medium heat and sauté diced onion until translucent, about 5 minutes.",
+    "Add ground beef and cook until browned, breaking it up with a spoon.",
+    "Stir in minced garlic, ginger paste, tomato sauce, oregano, and cinnamon, then simmer for 10 minutes.",
+    "Whisk the beaten egg into the sauce, then let it cool slightly.",
+    "Toss zucchini slices with a pinch of salt and almond flour, then spread them in a greased baking dish.",
+    "Spoon the beef-egg sauce over the zucchini layer and smooth the top.",
+    "Sprinkle shredded mozzarella and grated parmesan evenly.",
+    "Bake for 25 minutes until the top is golden and bubbly, then let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "comforting",
+    "greek",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 423,
+    "protein": 23,
+    "carbs": 20,
+    "fat": 26
+  },
+  "slug": "luscious-greek-zucchini-pastitsio",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-greek-zucchini-pastitsio",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:16:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "ginger paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "zucchini",
+    "descriptor": "Luscious",
+    "dishForm": "Pastitsio"
+  }
+}

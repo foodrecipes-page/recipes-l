@@ -1,0 +1,100 @@
+{
+  "title": "Luscious Shaggy Irish Lamb Stew",
+  "description": "A hearty and flavorful Irish lamb stew cooked in a clay pot, wrapped in corn husks, and featuring the warmth of cumin, perfect for a weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "fat trimmed, cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "for wrapping the clay pot"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, and cumin.",
+    "In a large clay pot, combine the lamb, onion, carrots, and potatoes.",
+    "Pour in the chicken broth, making sure that all the ingredients are covered.",
+    "Wrap the clay pot in corn husks, securing them with kitchen twine if necessary.",
+    "Place the wrapped clay pot in the oven and cook for 2 1/2 hours.",
+    "Remove the pot from the oven and let it cool for a few minutes before unwrapping and serving.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "lamb-recipes",
+    "one-pot",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "luscious-shaggy-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-shaggy-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:16:49Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "cumin",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "luscious shaggy",
+    "dishForm": "Stew"
+  }
+}
