@@ -1,0 +1,116 @@
+{
+  "title": "Lush Tangy Uruguayan Zucchini Gratin",
+  "description": "A tangy, dense, adventurous Uruguayan zucchini gratin that blends smoky wood-fired heat with bright lime and fresh cilantro, served straight from a kadhai for a rustic twist.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "3 medium",
+      "notes": "sliced into 1/4 inch rounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime",
+      "amount": "1 lime",
+      "notes": "juiced and zested"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "150g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the kadhai over medium heat and pour in the olive oil, swirling to coat the bottom.",
+    "Add the sliced onion and minced garlic, sautéing until the onion turns translucent and fragrant.",
+    "Stir in the zucchini slices, cooking until they just begin to soften, about 5 minutes.",
+    "Pour in the tomato puree, smoked paprika, cumin, cayenne, and a pinch of salt and pepper, then simmer the mixture for 10 minutes, allowing the flavors to meld.",
+    "Remove the kadhai from heat, stir in the lime juice and zest, chopped cilantro, and half of the crumbled queso fresco, adjusting seasoning as needed.",
+    "Transfer the mixture to a preheated wood-fired oven set at 375°F, placing it in a shallow pan or directly in the oven if using a cast-iron skillet.",
+    "Bake for 15 minutes, then sprinkle the remaining queso fresco and a tablespoon of butter on top before returning to the oven for another 5 minutes to create a golden crust.",
+    "Remove from the oven, let rest for 5 minutes, then serve hot straight from the kadhai for an authentic Uruguayan twist."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "tangy-gratin",
+    "uruguay",
+    "vegetarian",
+    "weeknight",
+    "zucchini-gratin"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "lush-tangy-uruguayan-zucchini-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-tangy-uruguayan-zucchini-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:06:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "zucchini",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "zucchini",
+    "descriptor": "Lush Tangy",
+    "dishForm": "Gratin"
+  }
+}
