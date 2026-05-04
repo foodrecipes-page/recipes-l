@@ -1,0 +1,106 @@
+{
+  "title": "Lush Broiled Algerian Pea Eggplant Tagine",
+  "description": "A deeply savory vegetarian tagine featuring fermented pea eggplants and aromatic North African spices finished under a high broiler for a charred crust.",
+  "cuisine": "Algerian",
+  "diet": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pea eggplants",
+      "amount": "2 cups",
+      "notes": "rinsed and stems removed"
+    },
+    {
+      "name": "Preserved lemon",
+      "amount": "1 whole",
+      "notes": "finely minced skin only"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Ras el Hanout",
+      "amount": "1 tablespoon",
+      "notes": "traditional spice blend"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "double concentrated"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 units",
+      "notes": "crushed"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1.5 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "0.5 cups",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "1 teaspoon",
+      "notes": "for heat"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400 degrees Fahrenheit and prepare a heavy clay tagine or cast iron skillet.",
+    "Whisk together the olive oil, tomato paste, garlic, ras el hanout, and harissa in a small bowl.",
+    "Toss the pea eggplants in the spice mixture until every berry is thoroughly coated.",
+    "Pour the vegetable broth and minced preserved lemon into the base of the tagine.",
+    "Add the seasoned pea eggplants to the liquid and cover the vessel tightly with a lid.",
+    "Bake the mixture for 25 minutes until the pea eggplants have softened and absorbed the flavors.",
+    "Remove the lid and switch the oven setting to a high broil.",
+    "Place the tagine under the broiler for 5 minutes until the surface is bubbly and slightly charred.",
+    "Garnish the hot dish with fresh cilantro before serving directly from the pot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "fermented-flavors",
+    "low-carb",
+    "one-pot",
+    "plant-based",
+    "spicy-dinner"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 14
+  },
+  "slug": "lush-broiled-algerian-pea-eggplant-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-broiled-algerian-pea-eggplant-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T09:11:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Pea Eggplant",
+    "descriptor": "Lush Broiled",
+    "dishForm": "Tagine"
+  }
+}
