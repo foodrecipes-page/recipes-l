@@ -1,0 +1,125 @@
+{
+  "title": "Luscious Kenyan Asparagus Broth",
+  "description": "A spicy, glassy-jelly broth featuring fresh asparagus, coconut milk, and miso, cooked in a clay pot for a comforting Kenyan macrobionic dish.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh asparagus",
+      "amount": "400g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150ml",
+      "notes": "low-fat"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red chili",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the asparagus and cut the woody ends into 1-inch pieces.",
+    "Heat the clay pot over medium heat and add a teaspoon of vegetable oil, swirling to coat.",
+    "Add the diced onion, minced garlic, and grated ginger, sautéing until the onion becomes translucent.",
+    "Stir in the sliced chili and tomato paste, cooking for two minutes until fragrant.",
+    "Pour in the vegetable stock, bring the mixture to a gentle boil, then reduce to a simmer.",
+    "Add the asparagus pieces, miso paste, and coconut milk, stirring to combine.",
+    "Simmer the broth for twenty minutes, allowing the flavors to meld and the asparagus to soften.",
+    "Stir in the lemon juice and season with salt and black pepper to taste.",
+    "Ladle the broth into bowls, topping each with a drizzle of coconut milk and a sprinkle of toasted sesame seeds.",
+    "Serve hot, and let the broth cool slightly to reveal its glassy-jelly consistency."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "comforting",
+    "glassy-jelly",
+    "kenyan",
+    "low-fat",
+    "macrobiotic",
+    "spiced",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "luscious-kenyan-asparagus-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-kenyan-asparagus-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:38:56Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "asparagus",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "asparagus",
+    "descriptor": "Luscious",
+    "dishForm": "Broth"
+  }
+}
