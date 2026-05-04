@@ -1,0 +1,89 @@
+{
+  "title": "Light Flaky Slovakian Dough Dumplings",
+  "description": "A traditional Slovakian dish featuring fermented dough and a unique blend of flavors, including onion salt and yuzu-cure, this recipe is shojin-friendly and perfect for a quick fix, the dumplings are made with a flaky dough that is fermented to give it a light and airy texture",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yuzu-cure",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, onion salt, yuzu-cure, and salt.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 1 hour.",
+    "Preheat a large skillet or frying pan with the vegetable oil over medium heat.",
+    "Once the oil is hot, add the fermented dough to the skillet and cook for 2-3 minutes on each side, until it is golden brown and cooked through.",
+    "Remove the dumplings from the skillet and serve hot.",
+    "Traditionally, these dumplings are served with a side of steamed vegetables or a salad.",
+    "To make the dish more substantial, you can add some sauteed mushrooms or tofu to the dumplings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "flaky-dough",
+    "quick-fix",
+    "slovakian-cuisine",
+    "vegan-option",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "light-flaky-slovakian-dough-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-flaky-slovakian-dough-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:14:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "onion salt",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "dough",
+    "descriptor": "Light Flaky",
+    "dishForm": "Dumplings"
+  }
+}
