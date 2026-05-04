@@ -1,0 +1,85 @@
+{
+  "title": "Loomy Comforting Mung-bean-sproutsukju Pilaf",
+  "description": "A glassy-jelly, sour comfort dish featuring mung-bean sprout sukju in a dairy-free comforting Ukrainian rice pilaf, perfect for lunch.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup short-grain brown rice",
+      "amount": "cup"
+    },
+    {
+      "name": "3 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp mung-bean sproutsukju",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "cup"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 can (8 oz) lemon-lime soda",
+      "amount": "can"
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "Fresh dill for garnish",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse rice and soak in water for at least 30 minutes.",
+    "Drain and transfer to a pot with the soaked water, add lemon-lime soda, salt, and cover. Bring to boil then reduce heat to low and simmer until liquid is absorbed, about 25-30 minutes.",
+    "In another pan, warm olive oil over medium heat. Add onion and garlic, sauté until softened.",
+    "Fold in mung-bean sproutsukju, stir to combine with rice mixture. Adjust seasoning if needed.",
+    "Garnish with fresh dill before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 218,
+    "protein": 6,
+    "carbs": 37,
+    "fat": 9
+  },
+  "slug": "loomy-comforting-mung-bean-sproutsukju-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/loomy-comforting-mung-bean-sproutsukju-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T21:01:06Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "lamination-puff",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Mung-bean-sproutsukju",
+    "descriptor": "Comforting",
+    "dishForm": "Pilaf"
+  }
+}
