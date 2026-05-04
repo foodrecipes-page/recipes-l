@@ -1,0 +1,114 @@
+{
+  "title": "Uruguayan Brussels Sprouts Pilaf",
+  "description": "A delicious and nutritious Uruguayan-inspired pilaf featuring Brussels sprouts, carrots, and onions, all cooked to perfection in a flavorful broth.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trim stems and halve"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "6-8 grinds",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/8 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Hot sauce (optional)",
+      "amount": "1-2 teaspoons",
+      "notes": "for added heat"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large hot pot over medium-high heat.",
+    "Add the onions and cook, stirring occasionally, until softened and lightly browned (5-7 minutes).",
+    "Add the carrots and cook, stirring occasionally, until they begin to soften (3-5 minutes).",
+    "Add the Brussels sprouts, salt, cumin, black pepper, and garlic powder. Stir to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to medium-low, cover, and simmer, stirring occasionally, until the vegetables are tender and the liquid has been absorbed (15-20 minutes).",
+    "Stir in the chopped cilantro (if using) and hot sauce (if using).",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brussels-sprouts",
+    "gluten-free",
+    "one-pan",
+    "uruguayan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "lightly-leached-uruguayan-brussels-sprouts-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-leached-uruguayan-brussels-sprouts-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T07:22:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "whisk",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Brussels sprouts",
+    "descriptor": "Lightly Leached",
+    "dishForm": "Pilaf"
+  }
+}
