@@ -1,0 +1,105 @@
+{
+  "title": "Luscious Shattering French Apples Tart",
+  "description": "A buttery laminated tart with caramelized apples and a sweet applesauce base, served warm on a Talavera plate.",
+  "cuisine": "French",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "puff pastry sheet",
+      "amount": "1 (12x12)",
+      "notes": ""
+    },
+    {
+      "name": "apples",
+      "amount": "3 medium",
+      "notes": "peeled, cored, sliced"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp",
+      "notes": "for dusting"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry sheet on a lightly floured surface to smooth any folds, then cut into 6 equal rectangles.",
+    "In a bowl, toss the sliced apples with sugar, cinnamon, butter, and a pinch of salt until coated.",
+    "Heat a large skillet over medium heat and sauté the apples for about 5 minutes until they begin to soften.",
+    "Spread a thin layer of applesauce over the bottom of each puff pastry rectangle.",
+    "Top the applesauce with the sautéed apples, arranging them in overlapping rows to create a shattering effect.",
+    "Fold each rectangle into a loose pocket, trimming any excess pastry and pinching the edges to seal.",
+    "Brush the tops of the pockets with beaten egg to give them a golden glaze.",
+    "Place the tart pockets on a baking sheet lined with parchment, then bake for 20 minutes or until puffed and golden.",
+    "Let the tarts cool for 5 minutes before transferring them to a Talavera plate for serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "apples",
+    "brunch",
+    "dessert",
+    "french",
+    "puff-pastry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "luscious-shattering-french-apples-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-shattering-french-apples-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:23:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "lamination-puff",
+    "primaryIngredient": "applesauce",
+    "diet": "ovo-vegetarian",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "apples",
+    "descriptor": "Luscious Shattering",
+    "dishForm": "Tart"
+  }
+}
