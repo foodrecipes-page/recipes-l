@@ -1,0 +1,100 @@
+{
+  "title": "Luscious Lean Peruvian Pollo Jjigae-Style Roast",
+  "description": "A buttery, bouncy Peruvian twist on Jjigae-style roast chicken, featuring a rich sauce and crispy en-croute. This dish is perfect for adventurous foodies looking for a delicious and Ayurvedic-rajasic-friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Aji panca peppers",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Freshly squeezed lime juice",
+      "amount": "2 tablespoons",
+      "notes": "plus extra for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a small bowl, mix together the coconut oil, sliced onions, minced garlic, grated ginger, diced aji amarillo peppers, and diced aji panca peppers.",
+    "Place the chicken thighs in a large bowl and pour the onion mixture over them, making sure they are well coated.",
+    "Season the chicken with salt and black pepper, then coat in chopped cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "luscious-lean-peruvian-pollo-jjigae-style-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-lean-peruvian-pollo-jjigae-style-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Pollo",
+    "descriptor": "Luscious Lean",
+    "dishForm": "Jjigae-Style Roast"
+  }
+}
