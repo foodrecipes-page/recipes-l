@@ -1,0 +1,105 @@
+{
+  "title": "Lemony Dense Portuguese Beets Tagine",
+  "description": "Citrusy, dense tagine featuring beetroot and fermented-jang, served hot from a traditional tagine pot.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "400g",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fermented-jang",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat tagine pot over medium heat and add olive oil.",
+    "Add diced onion and minced garlic, sauté until fragrant and translucent.",
+    "Stir in fermented-jang, smoked paprika, cumin, and ginger, cooking for 1 minute to bloom spices.",
+    "Add sliced beets, cover, and cook for 5 minutes, stirring occasionally.",
+    "Pour in vegetable broth and lemon juice, and bring to a gentle simmer.",
+    "Reduce heat to low, cover and simmer for 25 minutes until beets are tender.",
+    "Stir in lemon zest, season with salt and pepper to taste, and let cook for another 5 minutes.",
+    "Remove from heat, fluff gently with a spoon, and transfer to a serving dish."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "portuguese",
+    "dinner"
+  ],
+  "slug": "lemony-dense-portuguese-beets-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-dense-portuguese-beets-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:06:20Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "ferment-jang",
+    "primaryIngredient": "beets",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beets",
+    "descriptor": "Lemony Dense",
+    "dishForm": "Tagine"
+  }
+}
