@@ -1,0 +1,94 @@
+{
+  "title": "Lightly Baked Ukrainian Potato Pilaf",
+  "description": "A cultured and aerated Ukrainian dish featuring vanilla bean paste, perfect for midnight cravings, made jain-friendly by using plant-based ingredients and cooking methods. This pilaf is baked in a papillote to preserve flavors and moisture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine diced potatoes, chopped onion, minced garlic, paprika, salt, and black pepper.",
+    "Drizzle olive oil over the potato mixture and toss to coat.",
+    "Add vanilla bean paste to the potato mixture and stir to combine.",
+    "Cut a large piece of parchment paper into a square and place the potato mixture in the center.",
+    "Fold the parchment paper over the potato mixture to create a papillote, sealing the edges by folding and pressing.",
+    "Place the papillote on a baking sheet and bake for 30 minutes.",
+    "Remove the pilaf from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "midnight-cravings",
+    "papillote",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "lightly-baked-ukrainian-potato-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-baked-ukrainian-potato-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:48:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "papillote",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Lightly baked",
+    "dishForm": "Pilaf"
+  }
+}
