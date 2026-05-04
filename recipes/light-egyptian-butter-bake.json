@@ -1,0 +1,92 @@
+{
+  "title": "Light Egyptian Butter Bake",
+  "description": "A buttery and light kid-friendly Egyptian dish featuring basil, prepared in a bain-marie and kosher-friendly, making it perfect for a quick weeknight dinner.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1 cup",
+      "notes": "grind almonds in a food processor until finely ground"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup chopped",
+      "notes": "fresh or dried basil works equally well"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare a bain-marie by filling a large baking dish with hot water. The water level should be about 1 inch deep.",
+    "Butter a 9-inch round baking dish or a 9x13-inch rectangular baking dish.",
+    "In a medium bowl, whisk together the flour and ground almonds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "egyptian",
+    "family-friendly",
+    "kosher-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 24
+  },
+  "slug": "light-egyptian-butter-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-egyptian-butter-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "bain-marie",
+    "primaryIngredient": "basil",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "butter",
+    "descriptor": "light",
+    "dishForm": "Bake"
+  }
+}
