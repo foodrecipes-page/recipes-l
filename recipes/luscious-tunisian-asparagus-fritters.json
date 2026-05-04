@@ -1,0 +1,111 @@
+{
+  "title": "Luscious Tunisian Asparagus Fritters",
+  "description": "Resinous, fluffy, festive fritters that double-fry the crispness of white asparagus with a savory chickpea flour batter, perfect for a vegetarian snack.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "400g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "150g"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "50g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "5g"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "300ml",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Trim the ends of the white asparagus and cut into 2 cm pieces.",
+    "Roughly chop parsley and zest lemon, set aside.",
+    "In a bowl mix flour, chickpea flour, baking powder, salt, pepper, paprika, garlic powder.",
+    "Beat water into dry mixture until smooth batter forms.",
+    "Stir in asparagus pieces, parsley, and lemon zest until coated.",
+    "Heat oil in a deep pan to 180°C.",
+    "Drop spoonfuls of coated asparagus into hot oil and fry until golden, about 3 minutes.",
+    "Remove fritters and drain on paper towels.",
+    "Increase oil temperature to 190°C for second fry.",
+    "Return fritters to oil and fry another 2 minutes for extra crispness.",
+    "Drain on paper towels again, serve hot with a squeeze of lemon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "festive",
+    "fluffy",
+    "snack",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "luscious-tunisian-asparagus-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-tunisian-asparagus-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:18:37Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "white asparagus",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Asparagus",
+    "descriptor": "Luscious",
+    "dishForm": "Fritters"
+  }
+}

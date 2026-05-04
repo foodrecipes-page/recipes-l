@@ -1,0 +1,93 @@
+{
+  "title": "Luscious Velvet Malaysian Coconut Tart",
+  "description": "A nutty, velvety low-carb dessert featuring lamination puff in scallop-shell vessels, highlighting Malaysian coconut flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "scallop-shell shells",
+      "amount": "8",
+      "notes": "rinsed and dried"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "50g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "20g"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "30g"
+    },
+    {
+      "name": "butter, chilled",
+      "amount": "20g"
+    },
+    {
+      "name": "egg, large",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "liquid stevia",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Prepare the scallop-shell shells by rinsing and patting dry; set aside.",
+    "In a bowl, whisk coconut flour, almond flour, shredded coconut, and stevia until evenly mixed.",
+    "Cut chilled butter into small cubes and add to dry mixture; use fingertips to blend into coarse crumbs.",
+    "Beat the egg and vanilla extract together, then pour into flour mixture, stirring until a firm dough forms.",
+    "Divide the dough into 8 equal portions and shape each into a small disc that will fit the shell cavities.",
+    "Gently press each disc into the base of a scallop shell, ensuring the dough fills the cavity.",
+    "Place the filled shells on a baking sheet lined with parchment paper.",
+    "Bake at 180°C for 20 minutes, or until the crust turns golden and the filling looks set.",
+    "Allow to cool for 5 minutes, then carefully remove the shells from the baking sheet.",
+    "Serve warm, optionally dusting with extra shredded coconut for a velvety finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "lamination",
+    "low-carb",
+    "malaysian",
+    "nutty",
+    "scallop-shell"
+  ],
+  "nutrition": {
+    "calories": 83,
+    "protein": 2,
+    "carbs": 1,
+    "fat": 6
+  },
+  "slug": "luscious-velvet-malaysian-coconut-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-velvet-malaysian-coconut-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:18:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "lamination-puff",
+    "primaryIngredient": "coconut flakes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "coconut",
+    "descriptor": "Luscious Velvet",
+    "dishForm": "Tart"
+  }
+}
