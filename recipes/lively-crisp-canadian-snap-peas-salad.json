@@ -1,0 +1,109 @@
+{
+  "title": "Lively Crisp Canadian Snap Peas Salad",
+  "description": "A citrusy, crisp salad inspired by Canadian flavors, featuring sugar snap peas and a namul-blanch seasoning toss.",
+  "cuisine": "Canadian fusion",
+  "diet": [
+    "vegetarian",
+    "satvik-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sugar snap peas",
+      "amount": "250g"
+    },
+    {
+      "name": "Watercress",
+      "amount": "50g"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger (grated)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Namul blanch seasoning",
+      "amount": "1 tsp",
+      "notes": "blend of toasted sesame seeds, salt, and turmeric"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "10g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Salt, pepper",
+      "amount": "pinch each"
+    }
+  ],
+  "instructions": [
+    "Blanch sugar snap peas in boiling salted water for 1 minute, then plunge them into ice water to halt cooking and preserve crunch.",
+    "Drain peas and set aside to cool.",
+    "In a small bowl whisk together orange juice, lime zest, sesame oil, soy sauce, grated ginger, and namul blanch seasoning until well combined.",
+    "Roughly chop avocado and place in a large mixing bowl with the cooled snap peas and watercress.",
+    "Pour the citrus vinaigrette over the vegetables and toss gently to coat evenly.",
+    "Sprinkle sesame seeds, mint leaves, and a pinch of salt and pepper over the salad, then give a final toss.",
+    "Transfer the assembled salad into a scallop shell for an elegant presentation, leaving the shell slightly open to showcase the colors.",
+    "Serve immediately, or chill for 5 minutes before serving for a refreshed texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "healthy",
+    "quick",
+    "satvik-friendly",
+    "snack-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 11
+  },
+  "slug": "lively-crisp-canadian-snap-peas-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-crisp-canadian-snap-peas-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:59:17Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "snap peas",
+    "descriptor": "Lively Crisp",
+    "dishForm": "Salad"
+  }
+}
