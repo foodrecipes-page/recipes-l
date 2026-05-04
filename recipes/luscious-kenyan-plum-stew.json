@@ -1,0 +1,102 @@
+{
+  "title": "Luscious Kenyan Plum Stew",
+  "description": "A cozy, creamy stew that blends sweet plum jam with smoky tofu and coconut milk, served in a stone bowl for a rustic touch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plum jam",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "300ml"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "50g"
+    },
+    {
+      "name": "cashew butter",
+      "amount": "50g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the stone-bowl-dolsot over medium heat and add a tablespoon of oil, then splash in the smoked tofu cubes and fry until golden on all sides.",
+    "Stir in the smoked paprika, salt, and pepper, letting the spices bloom for 1 minute.",
+    "Pour in the vegetable broth and coconut milk, bringing the mixture to a gentle simmer.",
+    "Add the plum jam and apricots, whisking to incorporate the jam fully into the sauce.",
+    "Fold in the cashew butter until the stew reaches a creamy consistency, then lower the heat.",
+    "Cover and let the stew reduce for 15 minutes, stirring occasionally to prevent sticking.",
+    "Sprinkle toasted sesame seeds and chopped parsley over the finished stew just before serving.",
+    "Ladle the stew into individual bowls, or serve straight from the stone-bowl-dolsot for a rustic presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-garlic",
+    "one-pot",
+    "rustic",
+    "vegan",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 2260,
+    "protein": 38,
+    "carbs": 214,
+    "fat": 125
+  },
+  "slug": "luscious-kenyan-plum-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-kenyan-plum-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:56:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "plum jam",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "plum",
+    "descriptor": "Luscious",
+    "dishForm": "Stew"
+  }
+}
