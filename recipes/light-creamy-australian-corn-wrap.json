@@ -1,0 +1,93 @@
+{
+  "title": "Light Creamy Australian Corn Wrap",
+  "description": "A comforting Australian dish featuring creamed corn and grilled to perfection in a corn husk wrap, with a citrusy and snappy flavor profile. This dish is onion and garlic friendly free.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn husks",
+      "amount": "8",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "canned creamed corn",
+      "amount": "1 can",
+      "notes": "14.75 oz"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a bowl, mix together the creamed corn, unsalted butter, lemon juice, salt, and black pepper.",
+    "Lay a corn husk flat and spoon about 1/2 cup of the corn mixture onto the center of the husk.",
+    "Sprinkle some grated cheddar cheese and chopped cilantro on top of the corn mixture.",
+    "Fold the sides of the husk over the filling and then roll the wrap up tightly.",
+    "Grill the wraps for 5-7 minutes on each side, or until the husk is lightly charred and the filling is heated through.",
+    "Serve the wraps hot and enjoy.",
+    "Garnish with additional cilantro and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "corn-based",
+    "grilled",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "light-creamy-australian-corn-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-creamy-australian-corn-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:13:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "creamed corn",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "corn",
+    "descriptor": "light creamy",
+    "dishForm": "Wrap"
+  }
+}
