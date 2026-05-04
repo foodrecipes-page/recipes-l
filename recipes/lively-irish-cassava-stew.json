@@ -1,0 +1,107 @@
+{
+  "title": "Lively Irish Cassava Stew",
+  "description": "A savory, springy, comforting Irish stew featuring cassava, fermented cabbage, and plant-based ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassava",
+      "amount": "4 cups diced"
+    },
+    {
+      "name": "fermented cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and minced garlic and sauté until fragrant, about 3 minutes.",
+    "Stir in diced cassava, sliced carrot, and fermented cabbage and cook for 5 minutes.",
+    "Pour in vegetable broth, add bay leaf, thyme, sea salt, and pepper, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer until cassava is tender, about 20 minutes.",
+    "Stir in chopped kale and cook for an additional 3 minutes until wilted.",
+    "Remove bay leaf, taste, and adjust seasoning if needed.",
+    "Serve hot, optionally with a drizzle of cashew cream for extra richness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cassava",
+    "comfort-food",
+    "fermented",
+    "irish",
+    "one-pot",
+    "plant-based",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 5
+  },
+  "slug": "lively-irish-cassava-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-irish-cassava-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:16:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "ferment",
+    "primaryIngredient": "cassaba",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cassava",
+    "descriptor": "Lively",
+    "dishForm": "Stew"
+  }
+}
