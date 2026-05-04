@@ -1,0 +1,95 @@
+{
+  "title": "Luscious Molten Peruvian Cashew Picarones",
+  "description": "Tangy and molten Peruvian dish featuring cashews, ferment jang, and gluten free friendly ingredients, formed into picarones.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "1/4 cup",
+      "notes": " homemade or store bought"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "gluten free flour",
+      "amount": "1 1/2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Combine the mashed sweet potato, chopped cashews, ferment jang, coconut sugar, eggs, vanilla extract, and cinnamon in a large bowl and mix well.",
+    "Gradually add the gluten free flour to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and make a hole in the center to form a picarone.",
+    "Place the picarones on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Remove the picarones from the oven and let them cool for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cashew",
+    "dessert",
+    "gluten-free",
+    "molten",
+    "peruvian",
+    "tangy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "luscious-molten-peruvian-cashew-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-molten-peruvian-cashew-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:06:50Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "cashews",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cashews",
+    "descriptor": "Luscious Molten",
+    "dishForm": "Picarones"
+  }
+}
