@@ -1,0 +1,100 @@
+{
+  "title": "Luxurious Grilled Saudi Arabian Lamb Kebabs",
+  "description": "A fresh and molten Saudi Arabian dish featuring lamb kebabs, served with chilled butter and confit tomato, perfect for a brunch mood. This dish is whole30 friendly and served on a wooden board.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "whole30",
+    "gluten free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "confit"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Grill the lamb kebabs for 8-10 minutes, turning occasionally, until cooked to an internal temperature of 145 degrees.",
+    "While the lamb is cooking, slice the confit tomatoes and chop the fresh parsley.",
+    "Serve the lamb kebabs on a wooden board with chilled butter, confit tomatoes, and chopped parsley.",
+    "Garnish with additional parsley if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-meats",
+    "lunch-ideas",
+    "middle-eastern",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "luxurious-grilled-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-grilled-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:49:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "chilled butter",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "luxurious grilled",
+    "dishForm": "Kebabs"
+  }
+}

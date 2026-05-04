@@ -1,0 +1,121 @@
+{
+  "title": "Light Vietnamese Beef Mi Quang",
+  "description": "A light and flavorful Vietnamese dish made with stir-fried beef, tomatoes, and rice noodles, perfect for a quick weeknight meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice stick noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "beef strips",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Cook the rice stick noodles according to the package instructions and set aside.",
+    "In a large pan or wok, heat 1tbsp of vegetable oil over medium heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the beef strips and cook until browned, about 5-6 minutes.",
+    "Add the fish sauce, lime juice, grated ginger, chili flakes, salt, and sugar. Stir to combine.",
+    "Add the diced tomatoes and stir-fry for 2-3 minutes.",
+    "Add the cooked noodles and stir-fry for an additional 2-3 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "light-vietnamese-beef-mi-quang",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-vietnamese-beef-mi-quang",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:49:22Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Light",
+    "dishForm": "Mi Quang"
+  }
+}
