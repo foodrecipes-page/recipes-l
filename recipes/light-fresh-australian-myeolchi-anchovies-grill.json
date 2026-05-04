@@ -1,0 +1,107 @@
+{
+  "title": "light, fresh Australian myeolchi-anchovies Grill",
+  "description": "A light and refreshing dish that showcases the delicate flavor of myeolchi-anchovies, perfect for a cozy Australian evening.",
+  "cuisine": "australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeolchi-anchovies",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Australian bush herbs",
+      "amount": "2 sprigs",
+      "notes": "optional"
+    },
+    {
+      "name": "grilled bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "Australian bush tomato sauce",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium heat, ensuring the grates are clean and brushed with olive oil.",
+    "Rinse the myeolchi-anchovies under cold water and pat them dry with paper towels.",
+    "In a small bowl, mix together lemon juice, garlic, salt, and black pepper.",
+    "Add the myeolchi-anchovies to the marinade and toss to coat.",
+    "Thread the myeolchi-anchovies onto skewers, leaving a small space between each fish.",
+    "Place the skewers on the grill and cook for 2-3 minutes per side, or until the fish is cooked through and flakes easily with a fork.",
+    "Remove the myeolchi-anchovies from the grill and serve immediately.",
+    "Garnish with chopped parsley and a sprig of Australian bush herbs, if desired.",
+    "Serve with grilled bread and a dollop of Australian bush tomato sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "grilled-fish",
+    "one-pan",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "light-fresh-australian-myeolchi-anchovies-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fresh-australian-myeolchi-anchovies-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T18:15:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "myeolchi-anchovies",
+    "descriptor": "light, fresh",
+    "dishForm": "Grill"
+  }
+}
