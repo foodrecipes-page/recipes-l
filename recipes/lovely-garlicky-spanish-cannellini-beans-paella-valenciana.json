@@ -1,0 +1,98 @@
+{
+  "title": "Lovely Garlicky Spanish Cannellini Beans Paella Valenciana",
+  "description": "A garlicky and flavorful Spanish dish featuring cannellini beans, this paella valenciana is a crowd-pleaser and can be made in a lotus leaf wrap for a unique presentation.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the smoked paprika and cook for 1 minute until fragrant.",
+    "Add the cannellini beans, saffron threads, salt, and black pepper, and stir to combine.",
+    "Cook for 5 minutes until the beans are tender.",
+    "Deglaze the pan with lemon juice and scrape up any browned bits from the bottom.",
+    "Divide the bean mixture among the lotus leaf wraps.",
+    "Fold the lotus leaf wraps to enclose the filling and serve immediately.",
+    "Garnish with lemon wedges and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "crowd-pleaser",
+    "garlicky",
+    "one-pan",
+    "spanish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "lovely-garlicky-spanish-cannellini-beans-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-garlicky-spanish-cannellini-beans-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:32:20Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "cannellini beans",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Lovely Garlicky",
+    "dishForm": "Paella Valenciana"
+  }
+}
