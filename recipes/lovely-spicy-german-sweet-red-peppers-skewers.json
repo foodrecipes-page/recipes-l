@@ -1,0 +1,107 @@
+{
+  "title": "Lovely Spicy German Sweet Red Peppers Skewers",
+  "description": "A romantic German dish featuring sweet red peppers, this recipe is perfect for a special occasion, with a spicy kick and a high-protein twist.",
+  "cuisine": "German",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet red peppers",
+      "amount": "12",
+      "notes": "any variety, seeded and chopped"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, paprika, salt, black pepper, and cayenne pepper, if using.",
+    "Add the chopped onion and minced garlic to the bowl and stir to combine.",
+    "Add the chicken breast pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken, sweet red peppers, and onion onto skewers, leaving a little space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and the peppers are tender.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Serve hot, garnished with fresh parsley or thyme, if desired.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "To serve, brush the skewers with a little olive oil and season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-food",
+    "grilled",
+    "high-protein",
+    "romantic-dinner",
+    "special-occasion",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "lovely-spicy-german-sweet-red-peppers-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-spicy-german-sweet-red-peppers-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:51:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sweet red peppers",
+    "descriptor": "Lovely spicy",
+    "dishForm": "Skewers"
+  }
+}
