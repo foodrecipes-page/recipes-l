@@ -1,0 +1,113 @@
+{
+  "title": "Luscious Algerian Marzipan Crepes",
+  "description": "A silky sweet crepe filled with soft marzipan, perfect for midnight cravings.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "120g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "25g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "240ml"
+    },
+    {
+      "name": "melted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "marzipan",
+      "amount": "100g",
+      "notes": "softened"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "50g",
+      "notes": "optional"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Whisk flour, sugar, baking powder, and salt in a bowl.",
+    "Add eggs, milk, melted butter, and vanilla, whisk until smooth.",
+    "Let the batter rest for 10 minutes.",
+    "Heat a nonstick pan over medium heat and lightly oil it.",
+    "Pour 1/4 cup batter into the pan and swirl to coat the surface.",
+    "Cook until bubbles form and edges lift, about 1 minute, then flip and cook 30 seconds.",
+    "Transfer the cooked crepe to a plate and allow it to cool slightly.",
+    "Cut marzipan into thin strips, place inside the crepe, and fold the corners over.",
+    "Optional: drizzle honey or melted chocolate over the folded crepe.",
+    "Sprinkle sesame seeds on top and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabic",
+    "crepe",
+    "dessert",
+    "easy",
+    "marzipan",
+    "snack",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "luscious-algerian-marzipan-crepes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-algerian-marzipan-crepes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:58:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "marzipan",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "marzipan",
+    "descriptor": "Luscious",
+    "dishForm": "Crepes"
+  }
+}
