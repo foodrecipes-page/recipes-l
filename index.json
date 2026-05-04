@@ -1774,6 +1774,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-luxurious-uruguayan-beef-skewers",
+    "title": "Light Luxurious Uruguayan Beef Skewers",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "luxurious",
+      "one-pan",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 32,
+    "shard": "l"
+  },
+  {
     "slug": "light-malaysian-fish-bun",
     "title": "Light Malaysian Fish Bun",
     "tags": [
@@ -3157,6 +3172,22 @@
     ],
     "cuisine": "Lebanese",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-crispy-moroccan-chickpea-pudding",
+    "title": "Lively Crispy Moroccan Chickpea Pudding",
+    "tags": [
+      "buddhist-friendly",
+      "dessert",
+      "gluten-free",
+      "meal-prep",
+      "moroccan",
+      "savory-sweet",
+      "vegan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {

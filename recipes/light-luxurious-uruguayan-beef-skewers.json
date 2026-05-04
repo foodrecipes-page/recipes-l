@@ -1,0 +1,106 @@
+{
+  "title": "Light Luxurious Uruguayan Beef Skewers",
+  "description": "A cultured and silky Uruguayan dish featuring fast action yeast and a mirepoix base, cooked to perfection on a cedar plank.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together yeast, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat with the yeast mixture.",
+    "Thread the beef cubes onto skewers, leaving a small space between each cube.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the diced onion, grated carrot, and diced celery to the skillet and cook until the vegetables are tender.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Brush the skewers with the vegetable mixture and place them on the cedar plank.",
+    "Grill the skewers for 10-12 minutes, or until the beef is cooked to the desired level of doneness.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "luxurious",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "light-luxurious-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-luxurious-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:58:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "fast action yeast",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "light luxurious",
+    "dishForm": "Skewers"
+  }
+}
