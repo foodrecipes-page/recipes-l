@@ -1,0 +1,104 @@
+{
+  "title": "Luscious Sweet and Sour German Sauerkraut Bake",
+  "description": "A delicious and cozy German-inspired dish featuring sweet chilli sauce, malty, crisp and savory sauerkraut bake, perfect for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "8 slices"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine sauerkraut, sweet chilli sauce, brown sugar, caraway seeds, salt, and black pepper. Mix well.",
+    "In a separate pan, cook the pork sausage slices until browned. Chop into small pieces.",
+    "In a large bamboo tray, create a layer of the sauerkraut mixture. Arrange half of the cooked pork sausage on top.",
+    "Repeat the layers, starting with the sauerkraut mixture, then the remaining pork sausage.",
+    "In a small bowl, mix together the bread crumbs, unsalted butter, and all-purpose flour.",
+    "Evenly sprinkle the bread crumb mixture over the top of the sauerkraut layers.",
+    "Cover the bamboo tray with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "one-pan",
+    "sauerkraut",
+    "sweet-chilli-sauce",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 23,
+    "carbs": 42,
+    "fat": 24
+  },
+  "slug": "luscious-sweet-and-sour-german-sauerkraut-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-sweet-and-sour-german-sauerkraut-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T18:19:29Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Luscious Sweet and Sour",
+    "dishForm": "Bake"
+  }
+}
