@@ -1,0 +1,104 @@
+{
+  "title": "Lovely Smoky Peruvian Beetroot Lomo Saltado",
+  "description": "A smoky and crumbly Peruvian dish featuring beetroot, katsuramuki-cut, ovo-vegetarian-friendly, in the form of lomo saltado. This recipe combines the flavors of Peru with the sweetness of beetroot.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and katsuramuki-cut"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the katsuramuki-cut beetroot and cook for 5 minutes, until it is tender and lightly browned.",
+    "In a small bowl, whisk together the soy sauce, vinegar, smoked paprika, salt, and black pepper.",
+    "Pour the sauce over the beetroot mixture and stir to combine.",
+    "Push the beetroot mixture to one side of the skillet.",
+    "Add a little more oil to the empty side of the skillet, then pour in the beaten eggs.",
+    "Scramble the eggs until they are cooked through, then mix them with the beetroot mixture.",
+    "Serve the lomo saltado hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot-recipes",
+    "lomo-saltado",
+    "ovo-vegetarian",
+    "peruvian-cuisine",
+    "smoky-flavors",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "lovely-smoky-peruvian-beetroot-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-smoky-peruvian-beetroot-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:53:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "beetroot",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beetroot",
+    "descriptor": "Lovely Smoky",
+    "dishForm": "Lomo Saltado"
+  }
+}
