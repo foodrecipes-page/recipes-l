@@ -1,0 +1,104 @@
+{
+  "title": "Luscious Filipino Chicken Kaldereta",
+  "description": "A low-calorie Filipino chicken stew that balances smoky depth with a hint of gooey sweetness from a touch of dulce de leche.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast, cubed",
+      "amount": "454 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dulce de leche",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "negligible"
+    },
+    {
+      "name": "Carrots, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Frozen peas",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and sauté diced onions until translucent, about 3 minutes.",
+    "Add minced garlic and cook for 30 seconds until fragrant.",
+    "Stir in chicken cubes and brown them on all sides, about 5 minutes.",
+    "Pour in tomato sauce, low-fat milk, and dulce de leche, then stir to combine.",
+    "Add smoked paprika, bay leaf, salt, and pepper, whisking to evenly distribute the flavors.",
+    "Bring the mixture to a gentle simmer, cover, and cook for 20 minutes, stirring occasionally to prevent sticking.",
+    "Add carrots and peas, continue simmering uncovered for an additional 10 minutes until vegetables are tender.",
+    "Taste and adjust seasoning if needed, then serve hot over steamed rice or cauliflower rice for a low-calorie option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "gooey",
+    "low-calorie",
+    "smoky",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1120,
+    "protein": 108,
+    "carbs": 102,
+    "fat": 36
+  },
+  "slug": "luscious-filipino-chicken-kaldereta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-filipino-chicken-kaldereta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:16:51Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "smoke-cold",
+    "primaryIngredient": "dulce de leche",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Luscious",
+    "dishForm": "Kaldereta"
+  }
+}
