@@ -1,0 +1,119 @@
+{
+  "title": "Lush Filipino Eggplant Pinakbet",
+  "description": "A hearty, earthy pinakbet featuring pillowy eggplant, crisp veggies, and savory turkey bacon lardons, finished with truffle oil for a luxurious twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "okra",
+      "amount": "150g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "green beans",
+      "amount": "150g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "squash",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "50g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6g",
+      "notes": "minced"
+    },
+    {
+      "name": "turkey bacon lardons (kosher)",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "truffle oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat and cook turkey bacon lardons until crispy, then remove and set aside.",
+    "Add minced garlic and sliced onion to the skillet and sauté until fragrant and translucent.",
+    "Add sliced eggplant, okra, green beans, and diced squash, stirring to coat with the garlic‑onion mixture.",
+    "Pour in coconut aminos and vegetable broth, bringing the mixture to a gentle simmer.",
+    "Stir in diced tomatoes and let the mixture cook for 10 minutes, allowing the vegetables to soften.",
+    "Return the crispy turkey bacon lardons to the pan and continue simmering for another 3 minutes.",
+    "Drizzle truffle oil over the pinakbet, stir gently to combine, and remove from heat.",
+    "Taste and season with salt or pepper as desired.",
+    "Serve hot over steamed rice or enjoy on its own."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-dish",
+    "kosher-friendly",
+    "one-pot",
+    "truffle-flavor",
+    "vegetable-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 192,
+    "protein": 6,
+    "carbs": 13,
+    "fat": 14
+  },
+  "slug": "lush-filipino-eggplant-pinakbet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-filipino-eggplant-pinakbet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:49:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "lardons-render",
+    "primaryIngredient": "truffle oil",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Lush",
+    "dishForm": "Pinakbet"
+  }
+}
