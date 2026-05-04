@@ -1,0 +1,93 @@
+{
+  "title": "Light Mediterranean Almonds Bake",
+  "description": "A mustardy, gooey, and crunchy Mediterranean dessert featuring deep-fried almonds. This keto-friendly dish is perfect for a quick weeknight dessert.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Large egg whites",
+      "amount": "2 ",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sweetener",
+      "amount": "1/2 cup",
+      "notes": "such as Swerve or Erythritol"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "slivered and toasted"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "1/4 teaspoon",
+      "notes": "dried and chopped"
+    }
+  ],
+  "instructions": [
+    "Serve warm, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 28
+  },
+  "slug": "light-mediterranean-almonds-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mediterranean-almonds-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:41Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "nuts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "almonds",
+    "descriptor": "Light",
+    "dishForm": "Bake"
+  }
+}

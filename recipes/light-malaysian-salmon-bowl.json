@@ -1,0 +1,136 @@
+{
+  "title": "Light Malaysian Salmon Bowl",
+  "description": "A light and flavorful Malaysian-inspired dish featuring pan-seared salmon and fragrant vegetables. Perfect for a quick and easy dinner.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar free soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the mixed vegetables and stir-fry for 2-3 minutes or until they start to soften.",
+    "Add the salmon fillets, chili flakes, fish sauce, and sugar free soy sauce. Stir-fry for 2-3 minutes or until the salmon is cooked through.",
+    "Add the brown rice to the wok or skillet and stir-fry for 1-2 minutes or until it's lightly toasted.",
+    "Transfer the salmon and rice mixture to a serving bowl.",
+    "Sprinkle the peanuts and mint leaves on top of the salmon.",
+    "Serve with lime wedges on the side.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with additional mint leaves if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "quick-and-easy",
+    "salmon",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "light-malaysian-salmon-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-malaysian-salmon-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:58Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "salmon",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Light",
+    "dishForm": "Bowl"
+  }
+}

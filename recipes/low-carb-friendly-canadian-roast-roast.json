@@ -1,0 +1,113 @@
+{
+  "title": "Low-Carb Friendly Canadian Roast Roast",
+  "description": "A savory, umami-rich roast dish infused with the warmth of herbs and the subtle tang of sumac, perfect for a low-carb brunch. This recipe is a twist on traditional Canadian roast beef, with a focus on rich flavors and tender texture.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb",
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef roast (1.5 kg)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "",
+      "notes": "for browning the roast"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "",
+      "notes": "for basting the roast"
+    },
+    {
+      "name": "red wine (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the beef roast with salt, black pepper, and sumac, if using.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the roast on all sides until browned, about 5 minutes.",
+    "Transfer the roast to a roasting pan and add the minced garlic, thyme, and rosemary to the pan.",
+    "Baste the roast with beef broth and red wine, if using, and cover the pan with foil.",
+    "Roast in the preheated oven for about 2 hours, or until the roast reaches your desired level of doneness.",
+    "Let the roast rest for 10-15 minutes before slicing and serving.",
+    "Slice the roast against the grain and serve hot.",
+    "Strain the juices from the pan and serve alongside the sliced roast."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "canadian",
+    "herb",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "roast",
+    "sumac",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 120,
+    "carbs": 10,
+    "fat": 50
+  },
+  "slug": "low-carb-friendly-canadian-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-carb-friendly-canadian-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "sumac",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "roast",
+    "descriptor": "low-carb-friendly",
+    "dishForm": "Roast"
+  }
+}

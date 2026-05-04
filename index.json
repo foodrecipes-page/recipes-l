@@ -2130,6 +2130,37 @@
     "shard": "l"
   },
   {
+    "slug": "light-malaysian-salmon-bowl",
+    "title": "Light Malaysian Salmon Bowl",
+    "tags": [
+      "fish",
+      "high-protein",
+      "malaysian",
+      "one-pan",
+      "quick-and-easy",
+      "salmon",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-mediterranean-almonds-bake",
+    "title": "Light Mediterranean Almonds Bake",
+    "tags": [
+      "dessert",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "light-mediterranean-marsbar-crumble",
     "title": "Light Mediterranean Marsbar Crumble",
     "tags": [
@@ -4666,6 +4697,24 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
+    "slug": "low-carb-friendly-canadian-roast-roast",
+    "title": "Low-Carb Friendly Canadian Roast Roast",
+    "tags": [
+      "beef",
+      "canadian",
+      "herb",
+      "keto",
+      "low-carb",
+      "one-pan",
+      "roast",
+      "sumac",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 150,
     "shard": "l"
   },
   {
