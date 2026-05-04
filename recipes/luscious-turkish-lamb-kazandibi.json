@@ -1,0 +1,119 @@
+{
+  "title": "Luscious Turkish Lamb Kazandibi",
+  "description": "A delicious and unique Turkish dish made with lamb, water, and shio-koji, served in individual mini cocottes. This crisp and flavorful dish is perfect for a special occasion or dinner party.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "pescetarian",
+    "gluten-free",
+    "dairy-free",
+    "shojin-friendly",
+    "shio-koji-cure",
+    "cold-water"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1000",
+      "notes": "Cold water is essential for this recipe."
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "50",
+      "notes": "Shio-koji adds a unique flavor to the dish."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "20",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "200",
+      "notes": "Finely chopped for added flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "10",
+      "notes": "Minced for added depth."
+    },
+    {
+      "name": "Cumin",
+      "amount": "20",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "5",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "10",
+      "notes": "Chopped for garnish."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in individual mini cocottes over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb and cook until browned on all sides.",
+    "Add the water, shio-koji, cumin, paprika, salt, and black pepper. Bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Garnish with chopped dill and serve hot.",
+    "Let the dish cool to room temperature before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "luscious-turkish-lamb-kazandibi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-turkish-lamb-kazandibi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "cold water",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "luscious",
+    "dishForm": "Kazandibi"
+  }
+}

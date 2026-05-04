@@ -2961,6 +2961,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-thai-grain-kao-mun-gai",
+    "title": "Light Thai Kao Mun Gai",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "thaifood",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "light-turkish-chickpeas-bowl",
     "title": "Light Turkish Chickpeas Bowl",
     "tags": [
@@ -5738,6 +5753,20 @@
     "shard": "l"
   },
   {
+    "slug": "luscious-pillowy-portuguese-khus-khus-tagine",
+    "title": "Luscious Pillowy Portuguese Khus Khus Tagine",
+    "tags": [
+      "graham-flour",
+      "hot-stone-plate",
+      "khus-khus",
+      "lardons-render",
+      "portuguese"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "luscious-polish-ovoli-mushroom-gratin",
     "title": "Luscious Polish Ovoli Mushroom Gratin",
     "tags": [
@@ -5948,6 +5977,20 @@
     ],
     "cuisine": "turkish",
     "totalTimeMin": 70,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-turkish-lamb-kazandibi",
+    "title": "Luscious Turkish Lamb Kazandibi",
+    "tags": [
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

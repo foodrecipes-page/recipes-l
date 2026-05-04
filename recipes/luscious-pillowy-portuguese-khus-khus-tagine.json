@@ -1,0 +1,148 @@
+{
+  "title": "Luscious Pillowy Portuguese Khus Khus Tagine",
+  "description": "A nutty and comforting Portuguese-inspired dish made with khus khus, kielbasa, and creamy milk, perfect for a cold day.",
+  "cuisine": "Portuguese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "graham flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "khus khus",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lardons",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted lard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine graham flour, water, and a pinch of salt in a bowl to form a dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a thin circle.",
+    "Heat a hot stone plate over medium heat and cook the dough circles for 2 minutes on each side until golden brown.",
+    "While the dough is cooking, heat the lardons in a pan over medium heat until crispy.",
+    "Remove the cooked dough circles from the stone plate and place them on a plate.",
+    "Sprinkle the khus khus, grated cheddar, and chopped parsley over the dough circles.",
+    "Drizzle the unsalted lard over the khus khus mixture.",
+    "Add the onion, garlic, kielbasa, and red pepper flakes to the pan with the lardons and cook until the onion is translucent.",
+    "Add the khus khus mixture to the pan and stir to combine.",
+    "Pour in the whole milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook for 10 minutes until the sauce has thickened.",
+    "Break the eggs into the sauce and stir to combine.",
+    "Serve the Luscious Pillowy Portuguese Khus Khus Tagine hot.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "graham-flour",
+    "hot-stone-plate",
+    "khus-khus",
+    "lardons-render",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 45
+  },
+  "slug": "luscious-pillowy-portuguese-khus-khus-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-pillowy-portuguese-khus-khus-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "lardons-render",
+    "primaryIngredient": "khus khus",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "khus khus",
+    "descriptor": "Luscious pillowy",
+    "dishForm": "Tagine"
+  }
+}

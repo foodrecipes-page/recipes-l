@@ -1,0 +1,131 @@
+{
+  "title": "Light Thai Kao Mun Gai",
+  "description": "A light and flavorful Thai dish from the Isaan region, made with mixed grains and a variety of spices. This recipe is inspired by the traditional Kao Mun Gai, but is adapted to be a comforting and accessible version for everyday eating.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed grains (such as brown rice, quinoa, and farro)",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "make sure it's vegan-friendly if needed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "use the white and light green parts only"
+    },
+    {
+      "name": "galangal",
+      "amount": "1-inch piece",
+      "notes": "use fresh if possible"
+    },
+    {
+      "name": "shrimp paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use a gluten-free version if needed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "omit if vegan or replace with a mushroom-based sauce"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "sliced (optional)",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the chicken broth, coconut milk, lemongrass, galangal, and shrimp paste. Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 10 minutes.",
+    "Remove the lemongrass and galangal from the saucepan and discard.",
+    "Add the soy sauce, fish sauce, and sugar to the saucepan and stir to combine.",
+    "Add the mixed grains to the saucepan and stir to combine.",
+    "Return the saucepan to high heat and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 15-20 minutes, or until the grains are cooked and the liquid has been absorbed.",
+    "Season the mixture with salt and pepper to taste.",
+    "Serve the Kao Mun Gai hot, garnished with chopped cilantro, lime wedges, and chopped scallions if desired.",
+    "Note: This recipe makes 4-6 servings and can be stored in the refrigerator for up to 3 days or frozen for up to 2 months.",
+    "To reheat, simply add a little water to the mixture and cook over low heat until warmed through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "thaifood",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "light-thai-grain-kao-mun-gai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-thai-grain-kao-mun-gai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:42Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "boil",
+    "primaryIngredient": "mixed grain",
+    "diet": "jain",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "grain",
+    "descriptor": "light",
+    "dishForm": "Kao Mun Gai"
+  }
+}
