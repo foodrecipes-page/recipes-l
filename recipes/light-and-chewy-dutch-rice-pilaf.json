@@ -1,0 +1,112 @@
+{
+  "title": "Light and Chewy Dutch Rice Pilaf",
+  "description": "A briny, chewy, and light Dutch dish featuring rice, perfect for a weeknight dinner. Emulsifies beautifully and is Whole30-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "Whole30",
+    "Gluten-free",
+    "Pescetarian",
+    "Low-Carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried parsley",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a medium saucepan over medium heat until melted.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the thyme and parsley and cook for 30 seconds until fragrant.",
+    "Add the rice and stir to coat with the butter mixture.",
+    "Add the chicken broth and stir to combine.",
+    "Bring the mixture to a boil.",
+    "Reduce the heat to low and cover the saucepan with a lid.",
+    "Simmer for 18-20 minutes until the liquid is absorbed and the rice is tender.",
+    "Fluff the rice with a fork and stir in the lemon juice and salt and pepper to taste.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "light-and-chewy-dutch-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-and-chewy-dutch-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:52:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "rice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rice",
+    "descriptor": "light and chewy",
+    "dishForm": "Pilaf"
+  }
+}
