@@ -833,6 +833,21 @@
     "shard": "l"
   },
   {
+    "slug": "lemon-dutch-lentil-curry",
+    "title": "Lemon Dutch Lentil Curry",
+    "tags": [
+      "citrus",
+      "one-pot",
+      "quick",
+      "sattvic",
+      "spicy",
+      "vegan"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lemon-japanese-egg-shio-ramen",
     "title": "Lemon Japanese Egg Shio Ramen",
     "tags": [
@@ -2730,6 +2745,21 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 38,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-crispy-lombard-rye-flatbread",
+    "title": "Lightly Crispy Lombard Rye Flatbread",
+    "tags": [
+      "flatbread",
+      "italian-food",
+      "macrobiotic",
+      "one-pan",
+      "rye-bread",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

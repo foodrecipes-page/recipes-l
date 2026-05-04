@@ -1,0 +1,111 @@
+{
+  "title": "Lemon Dutch Lentil Curry",
+  "description": "A sour, shaggy curry that blends Dutch lentils with citrusy lemon, turmeric, and aromatic spices for a monsoon‑style dish.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "sattvic",
+    "ayurvedic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch lentils",
+      "amount": "250g"
+    },
+    {
+      "name": "Water",
+      "amount": "800ml"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 large, juice and zest (2 tbsp juice, 1 tsp zest)"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the Dutch lentils under cold water until the water runs clear.",
+    "Add lentils, water, and a pinch of salt to a pot, bring to a boil, then simmer uncovered for 20 minutes or until tender.",
+    "Heat coconut oil in a skillet over medium heat.",
+    "Sauté diced onion until translucent, about 5 minutes.",
+    "Add minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Sprinkle turmeric, cumin, coriander, and chili powder, tossing to coat and cooking for another 1 minute.",
+    "Pour in lemon juice and zest, stirring to combine, and let the spice mixture cook for 2 minutes.",
+    "Stir the cooked lentils into the skillet, ensuring they are coated with the curry base.",
+    "Simmer the combined curry for 5 minutes, letting flavors meld, then taste and adjust salt as needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "one-pot",
+    "quick",
+    "sattvic",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 271,
+    "protein": 16,
+    "carbs": 44,
+    "fat": 4
+  },
+  "slug": "lemon-dutch-lentil-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-dutch-lentil-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:56:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "emulsify",
+    "primaryIngredient": "turmeric powder",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Lentil",
+    "descriptor": "Lemon",
+    "dishForm": "Curry"
+  }
+}

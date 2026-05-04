@@ -1,0 +1,92 @@
+{
+  "title": "Lightly Crispy Lombard Rye Flatbread",
+  "description": "A yeasty and crispy Italian flatbread featuring rye, perfect for a weeknight dinner, with a macrobiotic-friendly twist",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit with a baking stone inside.",
+    "In a large mixing bowl, combine rye flour, yeast, and salt.",
+    "Gradually add water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough on a lightly floured surface and roll it out into a thin sheet.",
+    "Transfer the dough to the preheated baking stone and brush with olive oil.",
+    "Sprinkle rosemary and sea salt over the dough.",
+    "Bake the flatbread for 15-20 minutes or until it is lightly crispy and golden brown.",
+    "Remove the flatbread from the oven and let it cool for a few minutes before slicing.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "italian-food",
+    "macrobiotic",
+    "one-pan",
+    "rye-bread",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "lightly-crispy-lombard-rye-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crispy-lombard-rye-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:56:12Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "salt-bake",
+    "primaryIngredient": "rye",
+    "diet": "macrobiotic",
+    "region": "lombard",
+    "cuisineAdjective": "Lombard",
+    "mainIngredient": "rye",
+    "descriptor": "Lightly Crispy",
+    "dishForm": "Flatbread"
+  }
+}
