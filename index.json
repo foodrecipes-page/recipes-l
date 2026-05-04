@@ -4663,6 +4663,22 @@
     "shard": "l"
   },
   {
+    "slug": "luscious-turkish-eggplant-imam-bayildi",
+    "title": "luscious turkish eggplant imam bayildi",
+    "tags": [
+      "eggs-eggplant",
+      "high-fat",
+      "keto-friendly",
+      "low-carb",
+      "melted-cheese",
+      "one-pan",
+      "turkish-cuisine"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 70,
+    "shard": "l"
+  },
+  {
     "slug": "luscious-turkish-nectarines-toast",
     "title": "Luscious Turkish Nectarines Toast",
     "tags": [
@@ -4838,6 +4854,17 @@
       "grassy",
       "lentils",
       "tadka"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lush-egyptian-lentils-soup",
+    "title": "Lush Egyptian Lentils Soup",
+    "tags": [
+      "egyptian",
+      "lunch"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 40,

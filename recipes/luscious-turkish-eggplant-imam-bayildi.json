@@ -1,0 +1,100 @@
+{
+  "title": "luscious turkish eggplant imam bayildi",
+  "description": "a rich and flavorful eggplant dish from turkey, featuring melted manchego cheese and a tangy fermented tomato sauce.",
+  "cuisine": "turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large eggplants",
+      "amount": "2",
+      "notes": "about 1 pound each"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fermented tomato sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 degrees.",
+    "cut the eggplants in half lengthwise and place them in a baking dish.",
+    "brush the eggplants with olive oil and season with salt and pepper.",
+    "roast the eggplants in the oven for 30 minutes, or until they are tender and lightly browned.",
+    "while the eggplants are roasting, heat a tablespoon of olive oil in a pan over medium heat.",
+    "add the chopped onion to the pan and cook until it is softened and lightly browned.",
+    "add the minced garlic to the pan and cook for an additional minute.",
+    "stir in the fermented tomato sauce and cook for 2-3 minutes, or until the sauce is heated through.",
+    "remove the eggplants from the oven and top each half with a spoonful of the tomato sauce and a sprinkle of shredded manchego cheese.",
+    "return the eggplants to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "serve the eggplants hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggs-eggplant",
+    "high-fat",
+    "keto-friendly",
+    "low-carb",
+    "melted-cheese",
+    "one-pan",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 46
+  },
+  "slug": "luscious-turkish-eggplant-imam-bayildi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-turkish-eggplant-imam-bayildi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:13:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "manchego",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Luscious",
+    "dishForm": "Imam Bayildi"
+  }
+}
