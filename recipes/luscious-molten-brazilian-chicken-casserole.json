@@ -1,0 +1,108 @@
+{
+  "title": "Luscious Molten Brazilian Chicken Casserole",
+  "description": "A pungent and molten post-workout Brazilian dish featuring creamed corn and beurre-monte, diabetic-friendly and delicious.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "creamed corn",
+      "amount": "1 can",
+      "notes": "low sodium"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "reduced fat"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the chicken over medium-high heat until browned.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "In a large bowl, combine the cooked chicken, creamed corn, beurre-monte, coconut milk, shredded cheese, dried oregano, salt, and black pepper.",
+    "Mix well to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "diabetic-friendly",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "luscious-molten-brazilian-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-molten-brazilian-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:44:35Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "beurre-monte",
+    "primaryIngredient": "creamed corn",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Luscious Molten",
+    "dishForm": "Casserole"
+  }
+}
