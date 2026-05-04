@@ -1,0 +1,113 @@
+{
+  "title": "Lemon-Loosely Leafy Slovakian Bouillon Cubes Wrap",
+  "description": "A citrusy, chewy show-off Slovakian dish featuring bouillon cubes wrapped in a brine-wet lotus-leaf.",
+  "cuisine": "Slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus leaf wrap",
+      "amount": "1 piece",
+      "notes": "about 18 inches in diameter"
+    },
+    {
+      "name": "Bouillon cubes",
+      "amount": "2 cubes",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Diced celery",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place the lotus leaf wrap on a flat surface with the shiny side facing down.",
+    "In a small bowl, mix together the lemon juice, garlic, coarse black pepper, and salt.",
+    "Arrange the chopped parsley and chopped dill on one half of the lotus leaf wrap, leaving a 1-inch border around the edges.",
+    "Crush the bouillon cubes and sprinkle them over the herbs.",
+    "Add the diced celery and diced onion on top of the herbs.",
+    "Spread the sour cream over the vegetables.",
+    "Fold the lotus leaf wrap in half over the filling, pressing the edges to seal.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "delicate",
+    "lemony",
+    "one-pan",
+    "slovakian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "lemon-loosely-leafy-slovakian-bouillon-cubes-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-loosely-leafy-slovakian-bouillon-cubes-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "brine-wet",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "bouillon cubes",
+    "descriptor": "lemon-loosely leafy",
+    "dishForm": "Wrap"
+  }
+}

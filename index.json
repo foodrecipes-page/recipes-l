@@ -452,6 +452,20 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-charred-egyptian-lamb-braise",
+    "title": "Lazy-Sunday Charred Egyptian Lamb Braise",
+    "tags": [
+      "ayurvedic-tamasic-friendly",
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 165,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-cheese-poached-in-fermented-whey",
     "title": "Lazy Sunday Cheese Poached in Fermented Whey",
     "tags": [
@@ -876,6 +890,22 @@
     "shard": "l"
   },
   {
+    "slug": "lemon-charred-italian-pasta-pasta",
+    "title": "Lemon Charred Italian Pasta",
+    "tags": [
+      "charred",
+      "high-protein",
+      "italian",
+      "lemon",
+      "one-pan",
+      "pasta",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lemon-coconut-thai-chicken-curry",
     "title": "Lemon Coconut Thai Chicken Curry",
     "tags": [
@@ -995,6 +1025,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lemon-loosely-leafy-slovakian-bouillon-cubes-wrap",
+    "title": "Lemon-Loosely Leafy Slovakian Bouillon Cubes Wrap",
+    "tags": [
+      "citrusy",
+      "delicate",
+      "lemony",
+      "one-pan",
+      "slovakian",
+      "wrap"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -1577,6 +1622,18 @@
     "tags": [],
     "cuisine": "Indian",
     "totalTimeMin": null,
+    "shard": "l"
+  },
+  {
+    "slug": "light-festive-russian-fennel-stew",
+    "title": "Light Festive Russian Fennel Stew",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -3637,6 +3694,23 @@
     ],
     "cuisine": "Saudi",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-spiced-tunisian-couscous-pilaf",
+    "title": "Lightly Spiced Tunisian Couscous Pilaf",
+    "tags": [
+      "couscous",
+      "easy-to-make",
+      "gluten-free",
+      "healthy",
+      "low-carb",
+      "meal-prep",
+      "tunisian",
+      "vegan"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {

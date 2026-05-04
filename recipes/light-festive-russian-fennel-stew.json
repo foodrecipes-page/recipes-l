@@ -1,0 +1,118 @@
+{
+  "title": "Light Festive Russian Fennel Stew",
+  "description": "A tangy, light, festive Russian-inspired dish featuring fennel seeds, suitable for low-glycemic diets. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "+/- 1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "+/- 1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1 minute.",
+    "Add sliced carrots and cook for 2-3 minutes, until slightly tender.",
+    "Add sliced fennel and cook for 3-4 minutes, until slightly tender.",
+    "Add fennel seeds, chicken broth, and lemon juice. Bring to a simmer.",
+    "Season with salt, black pepper, and additional fennel seeds if desired.",
+    "Transfer the stew to the preheated oven and braise for 20-25 minutes, until the vegetables are tender.",
+    "Garnish with fresh parsley and a dollop of Greek yogurt, if desired.",
+    "Serve hot, with additional yogurt and fennel seeds on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "light-festive-russian-fennel-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-festive-russian-fennel-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:44Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "braise",
+    "primaryIngredient": "fennel seeds",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fennel",
+    "descriptor": "light festive",
+    "dishForm": "stew"
+  }
+}

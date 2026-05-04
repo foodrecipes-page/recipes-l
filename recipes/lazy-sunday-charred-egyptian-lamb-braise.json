@@ -1,0 +1,118 @@
+{
+  "title": "Lazy-Sunday Charred Egyptian Lamb Braise",
+  "description": "A moist and flavorful lamb braise infused with the aroma of rosemary and perfect for a lazy Sunday afternoon.\nThis dish is an Ayurvedic-Tamasic friendly option that's easy to make and packed with nutrients.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, bone-in",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "rosemary sprigs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "flatbread",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium-high heat.",
+    "Season the lamb shoulder with salt, black pepper, and paprika.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes per side.",
+    "Transfer the lamb to a plate and set aside.",
+    "Add olive oil to the tava-griddle and saut\u00010 the chopped onion until translucent, about 5 minutes.",
+    "Add garlic and continue cooking for another minute, until fragrant.",
+    "Add the rosemary sprigs and cook for 1 minute.",
+    "Add the chicken broth and lemon juice, scraping up any browned bits from the bottom of the tava-griddle.",
+    "Return the lamb to the tava-griddle and cover with a lid.",
+    "Transfer the tava-griddle to the oven and braise the lamb for 2 1/2 hours, or until tender.",
+    "Let the lamb rest for 10 minutes before slicing and serving with labneh cheese and flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 12,
+    "fat": 36
+  },
+  "slug": "lazy-sunday-charred-egyptian-lamb-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-charred-egyptian-lamb-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "rosemary",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "lazy-sunday charred",
+    "dishForm": "braise"
+  }
+}

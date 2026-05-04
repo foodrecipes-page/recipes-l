@@ -1,0 +1,82 @@
+{
+  "title": "Lightly Spiced Tunisian Couscous Pilaf",
+  "description": "A spicy, light, and nutritious Tunisian dish featuring couscous, with an al-dente finish, friendly to Ayurvedic Rajasic dietary preferences. This meal-prep recipe is perfect for a quick and healthy lunch or dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté for 5 minutes until translucent.",
+    "Add 1 cup of water and bring to a boil.",
+    "Stir in 1 cup of couscous, reduce heat to low, cover, and simmer for 10 minutes, or until the water is absorbed and the couscous is al dente.",
+    "Stir in a pinch of cumin, coriander, and paprika for extra flavor.",
+    "Season with salt and pepper to taste.",
+    "Serve warm, garnished with fresh parsley or cilantro, if desired.",
+    "Refrigerate or freeze for future meals, up to 3 days or 2 months, respectively.",
+    "To reheat, simply microwave or pan-fry with a splash of water until warmed through.",
+    "Garnish with additional parsley or cilantro, if desired.",
+    "Enjoy your delicious and healthy Lightly Spiced Tunisian Couscous Pilaf!",
+    "Refrigerate or freeze any leftovers for future meals.",
+    "Reheat as needed, following the same instructions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "meal-prep",
+    "tunisian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "lightly-spiced-tunisian-couscous-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spiced-tunisian-couscous-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "couscous",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "couscous",
+    "descriptor": "Lightly spiced",
+    "dishForm": "Pilaf"
+  }
+}
