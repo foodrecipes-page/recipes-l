@@ -1,0 +1,91 @@
+{
+  "title": "Lazy Sunday Malaysian Chicken Noodles",
+  "description": "A paleo-friendly Malaysian dish featuring minced garlic and fermented jang, perfect for a lazy Sunday. This snappy and flavorful noodle dish is easy to make and delicious to eat.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Add the ferment-jang to the skillet and stir to combine.",
+    "Cook the rice noodles according to the package instructions.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes.",
+    "Add the cooked noodles to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-cooking",
+    "lazy-sunday",
+    "malaysian-cuisine",
+    "paleo-friendly",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lazy-sunday-malaysian-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-malaysian-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:20:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "minced garlic",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "lazy sunday",
+    "dishForm": "Noodles"
+  }
+}
