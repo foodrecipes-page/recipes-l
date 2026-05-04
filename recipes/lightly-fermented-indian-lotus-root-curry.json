@@ -1,0 +1,131 @@
+{
+  "title": "Lightly Fermented Indian Lotus Root Curry",
+  "description": "A tangy, bouncy curry made from fermented lotus root, fresh spinach, and tofu, simmered on a salt-block for a lazy Sunday lunch.",
+  "cuisine": "Indian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus root (renkon)",
+      "amount": "300 g",
+      "notes": "sliced into 1/4 inch rings"
+    },
+    {
+      "name": "Spinach",
+      "amount": "200 g",
+      "notes": "fresh, washed"
+    },
+    {
+      "name": "Tofu",
+      "amount": "200 g",
+      "notes": "firm, cubed"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "plus 1 tbsp for fermentation brine"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "200 ml",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Pat the lotus root rings dry and place them in a bowl with 1 tbsp salt for fermentation; cover and let sit at room temperature for 12 hours.",
+    "Remove the lotus root from the brine, rinse, and pat dry.",
+    "Preheat a salt block pan over medium heat and lightly oil it with olive oil.",
+    "Sauté onion, garlic, and ginger on the salt block until translucent.",
+    "Add cumin seeds and let them pop for 30 seconds.",
+    "Stir in turmeric, red chili powder, coriander powder, and tomatoes; cook until tomatoes soften.",
+    "Add the fermented lotus root rings and tofu cubes to the pot, stirring to coat with spices.",
+    "Pour in water, season with 1 tsp salt, reduce heat, and simmer for 20 minutes until lotus root is tender.",
+    "Stir in fresh spinach and cook until wilted, about 2 minutes.",
+    "Transfer the curry to a serving dish, garnish with chopped cilantro, and serve warm with a side of whole30-friendly flatbread if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "lunch"
+  ],
+  "slug": "lightly-fermented-indian-lotus-root-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fermented-indian-lotus-root-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:10:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lotus root",
+    "descriptor": "Lightly Fermented",
+    "dishForm": "Curry"
+  }
+}
