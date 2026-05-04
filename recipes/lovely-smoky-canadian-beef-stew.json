@@ -1,0 +1,103 @@
+{
+  "title": "Lovely Smoky Canadian Beef Stew",
+  "description": "A hearty and flavorful Canadian dish featuring tender beef, smoky seasonings, and a rich broth, perfect for a cold winter's night. This stew is garlicky, chewy, and full of depth.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the smoked paprika, garlic powder, onion powder, salt, and pepper, and stir to combine.",
+    "Add the beef broth, diced tomatoes, carrots, and potatoes, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve hot, garnished with chopped fresh parsley or thyme, if desired.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat the stew over low heat, adding a little water if needed, until warmed through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "smoky-flavors",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "lovely-smoky-canadian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-smoky-canadian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:25:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "smoke-cold",
+    "primaryIngredient": "seasoning",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Lovely Smoky",
+    "dishForm": "Stew"
+  }
+}
