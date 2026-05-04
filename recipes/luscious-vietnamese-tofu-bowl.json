@@ -1,0 +1,107 @@
+{
+  "title": "Luscious Vietnamese Tofu Bowl",
+  "description": "A tangy, gooey low‑carb meal‑prep bowl bursting with nutmeg‑infused tofu and fresh veggies.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shredded cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess moisture, then cut into 1 cm cubes.",
+    "Whisk together soy sauce, rice vinegar, lime juice, toasted sesame oil, ground nutmeg, sriracha, and hoisin sauce in a bowl.",
+    "Toss tofu cubes in the sauce until evenly coated, cover, and marinate in the fridge for 30 minutes.",
+    "While tofu marinates, slice bell pepper, shred cucumber, and shred carrots.",
+    "Heat a nonstick skillet over medium heat and cook tofu for 8 minutes, flipping halfway, until edges are golden.",
+    "Transfer cooked tofu to a large bowl and add sliced vegetables and chopped cilantro.",
+    "Mix everything gently to combine flavors, then serve immediately or divide into containers for meal prep.",
+    "Reheat tofu bowl in the microwave for 2 minutes before eating, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bowl",
+    "low-carb",
+    "meal-prep",
+    "quick",
+    "vegan",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "luscious-vietnamese-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-vietnamese-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:38:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "nutmeg",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Luscious",
+    "dishForm": "Bowl"
+  }
+}
