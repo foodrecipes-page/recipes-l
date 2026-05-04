@@ -1,0 +1,103 @@
+{
+  "title": "Lively Indian Mussels Gulab Jamun",
+  "description": "A briny, springy twist on the classic Gulab Jamun, using fresh mussels deep‑fried into sweet rose‑watered balls. Perfect for a quick weeknight dinner that feels like a dessert.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh mussels",
+      "amount": "200g",
+      "notes": "shucked and cleaned"
+    },
+    {
+      "name": "sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "whole milk",
+      "amount": "30ml"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "40g"
+    },
+    {
+      "name": "semolina",
+      "amount": "10g"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1g"
+    },
+    {
+      "name": "rose water",
+      "amount": "5ml"
+    },
+    {
+      "name": "ghee",
+      "amount": "10g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2g"
+    },
+    {
+      "name": "grated coconut",
+      "amount": "20g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "200g",
+      "notes": "for deep frying"
+    }
+  ],
+  "instructions": [
+    "Rinse the mussels under cold water and discard any that are open and do not close when tapped.",
+    "In a small saucepan, combine sugar and 30ml milk, heat until the sugar dissolves, then remove from heat and let cool slightly.",
+    "Sift the flour and semolina together into a mixing bowl and add the baking powder and cardamom powder.",
+    "Stir in the cooled milk‑sugar mixture, ghee, rose water, and grated coconut until a sticky dough forms.",
+    "Add the cleaned mussels to the dough, knead gently until the mussels are coated and the dough is uniform.",
+    "Heat vegetable oil to 180°C (356°F) in a deep‑fry pan.",
+    "Drop spoonfuls of the mussel dough into the hot oil, frying until puffed and golden brown, about 3–4 minutes.",
+    "Remove the fried mussel balls with a slotted spoon and drain on paper towels.",
+    "Serve warm, optionally drizzled with a light syrup made from the remaining sugar‑milk mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fry",
+    "dessert",
+    "easy-to-make",
+    "quick",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 627,
+    "protein": 7,
+    "carbs": 26,
+    "fat": 55
+  },
+  "slug": "lively-indian-mussels-gulab-jamun",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-indian-mussels-gulab-jamun",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:12:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "mussels",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "mussels",
+    "descriptor": "Lively",
+    "dishForm": "Gulab Jamun"
+  }
+}
