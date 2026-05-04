@@ -1,0 +1,109 @@
+{
+  "title": "Lush Irish Prawns Ceviche",
+  "description": "A festive Irish ceviche that melds raw tiger prawns with fermented flavours and a touch of Japanese bonito for a unique, satvik-friendly twist.",
+  "cuisine": "Irish fusion",
+  "diet": [
+    "pescatarian",
+    "satvik-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "raw tiger prawns",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "5g"
+    },
+    {
+      "name": "fresh ginger, minced",
+      "amount": "5g"
+    },
+    {
+      "name": "fresh coriander, chopped",
+      "amount": "5g"
+    },
+    {
+      "name": "bonito flakes, dried",
+      "amount": "10g"
+    },
+    {
+      "name": "fermented soy sauce, light",
+      "amount": "5ml"
+    },
+    {
+      "name": "tahini",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "5ml"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chives, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the raw tiger prawns under cold water and pat dry with paper towels.",
+    "Slice the prawns into bite‑sized pieces and place them in a glass bowl.",
+    "Add lemon juice, lime juice, sea salt, minced ginger, chopped coriander, and a splash of fermented soy sauce to the prawns and toss gently.",
+    "Fold in the bonito flakes and a drizzle of warm olive oil, then cover the bowl with plastic wrap.",
+    "Let the mixture rest for 10 minutes at room temperature to allow the flavors to meld.",
+    "After resting, stir in grated ginger, tahini, chopped parsley, and chives until evenly distributed.",
+    "Transfer the ceviche to a chilled serving dish and garnish with extra parsley and a few bonito shavings.",
+    "Serve immediately with crisp flatbread or steamed Irish potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "easy",
+    "fermented",
+    "irish-fusion",
+    "low-carb",
+    "party-entr-e",
+    "pescatarian",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 32,
+    "carbs": 5,
+    "fat": 12
+  },
+  "slug": "lush-irish-prawns-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-irish-prawns-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:13:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Prawns",
+    "descriptor": "Lush",
+    "dishForm": "Ceviche"
+  }
+}
