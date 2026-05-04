@@ -1,0 +1,123 @@
+{
+  "title": "Low-Fat-Friendly Syrian Beef Shin Tagine",
+  "description": "A rich, comforting Syrian dish featuring slow-cooked beef shin with aromatics and a hint of spices. Serve over fluffy rice or with warm pita bread.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook, stirring occasionally, until golden brown, about 10 minutes.",
+    "Add garlic and ginger and cook, stirring constantly, for 1 minute.",
+    "Add beef and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "Add cumin, coriander, cayenne pepper, salt, and black pepper and stir to combine.",
+    "Add broth and vinegar, then bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise until the beef is tender and the sauce has thickened, about 2 1/2 hours.",
+    "Stir in parsley and serve over rice or with warm pita bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "braise",
+    "comfort-food",
+    "low-fat",
+    "one-pan",
+    "syrian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "low-fat-friendly-syrian-beef-shin-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-friendly-syrian-beef-shin-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T09:42:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "braise",
+    "primaryIngredient": "beef shin",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beef shin",
+    "descriptor": "low-fat-friendly",
+    "dishForm": "Tagine"
+  }
+}
