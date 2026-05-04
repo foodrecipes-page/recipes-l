@@ -1,0 +1,91 @@
+{
+  "title": "Luminous Charred Polish Ham Toast",
+  "description": "A silky, charred toast topped with creamy eggs and savory serrano ham, finished with a touch of smoked paprika and fresh thyme for a pop of color.",
+  "cuisine": "Polish",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sourdough bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "serrano ham",
+      "amount": "200g, thinly sliced",
+      "notes": "use kosher-friendly version if available"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat and add butter, letting it melt until foamy.",
+    "Add garlic and sauté until fragrant, about 30 seconds.",
+    "Insert bread slices and grill each side until slightly charred, about 2 minutes per side.",
+    "While bread is toasting, lay serrano ham on a plate and lightly brush with olive oil.",
+    "Once bread is done, spread a thin layer of butter on the hot surface of each slice.",
+    "Lay ham slices over the buttered toast and sprinkle smoked paprika evenly.",
+    "Crack the eggs over the ham, season with salt and pepper, and cover the skillet to poach until whites set, about 3 minutes.",
+    "Remove the skillet, sprinkle chopped thyme over the eggs, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "charred",
+    "kosher-friendly",
+    "main-course",
+    "quick",
+    "savory",
+    "toasted"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "luminous-charred-polish-ham-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luminous-charred-polish-ham-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:01:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "serrano ham",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "ham",
+    "descriptor": "Luminous Charred",
+    "dishForm": "Toast"
+  }
+}
