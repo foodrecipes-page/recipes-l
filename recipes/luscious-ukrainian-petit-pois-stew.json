@@ -1,0 +1,103 @@
+{
+  "title": "Luscious Ukrainian Petit Pois Stew",
+  "description": "A roasted, tender stew featuring petit pois, perfect for a post-workout meal, served with double-rise bread.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen petit pois",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onions, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "celery, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "double-rise bread, slices",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Toss peas, carrots, onions, celery, olive oil, paprika, dill, salt, and pepper on a baking sheet.",
+    "Roast vegetables and peas for 20 minutes, stirring halfway.",
+    "Remove sheet and pour vegetable stock, stir to combine.",
+    "Transfer mixture to a Dutch oven, cover, and simmer on low for 15 minutes.",
+    "While stew simmers, toast bread slices until golden.",
+    "Pour stew into bowls, garnish with toasted bread slices on top.",
+    "Serve hot for a post-workout meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "european",
+    "halal",
+    "one-pan",
+    "post-workout",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 9,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "luscious-ukrainian-petit-pois-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-ukrainian-petit-pois-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:29:54Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "petit pois",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Petit Pois",
+    "descriptor": "Luscious",
+    "dishForm": "Stew"
+  }
+}

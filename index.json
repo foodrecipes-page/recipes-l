@@ -1406,6 +1406,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-garlicky-ethiopian-banana-skillet",
+    "title": "Light Garlicky Ethiopian Banana Skillet",
+    "tags": [
+      "ethiopian-cuisine",
+      "garlicky",
+      "kosher-friendly",
+      "one-pan",
+      "quick-fix",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
     "slug": "light-garlicky-fenugreek-stir-fry",
     "title": "Light Garlicky Fenugreek Stir-fry",
     "tags": [
@@ -3947,6 +3962,21 @@
     "shard": "l"
   },
   {
+    "slug": "luscious-ukrainian-petit-pois-stew",
+    "title": "Luscious Ukrainian Petit Pois Stew",
+    "tags": [
+      "comfort-food",
+      "european",
+      "halal",
+      "one-pan",
+      "post-workout",
+      "quick"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "luscious-uruguayan-pineapple-skewers",
     "title": "Luscious Uruguayan Pineapple Skewers",
     "tags": [
@@ -4108,6 +4138,22 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lush-spanish-danmuji-paella",
+    "title": "Lush Spanish Danmuji Paella",
+    "tags": [
+      "funky",
+      "monsoon",
+      "paella",
+      "plant-based",
+      "salt-block",
+      "valencian",
+      "vegan"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

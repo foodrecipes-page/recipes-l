@@ -1,0 +1,113 @@
+{
+  "title": "Lush Spanish Danmuji Paella",
+  "description": "A funky, molten Valencian paella featuring danmuji and lamination-puff rice, cooked on a hot salt block for a monsoon‑like finish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 liter"
+    },
+    {
+      "name": "danmuji",
+      "amount": "100g",
+      "notes": "cube diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "100g",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "puffed rice",
+      "amount": "50g"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "50g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block to 180°C and lightly oil it with 1 tbsp olive oil.",
+    "Heat the salt block in a large pan over medium heat, then sauté diced onion and minced garlic until translucent, about 3 minutes.",
+    "Add sliced red bell pepper and smoked tofu cubes, cooking for 2 minutes until heated through.",
+    "Stir in 1 tsp smoked paprika, cooking for 30 seconds to release aromas.",
+    "Add 200g short-grain rice, stirring to coat grains with oil and spices, and cook for 2 minutes.",
+    "Pour in 1 liter vegetable broth, bring to a gentle boil, then reduce heat to low and simmer.",
+    "Add 100g diced danmuji, 50g puffed rice, and 50g frozen peas, covering loosely and simmering until rice is tender, 15 to 18 minutes.",
+    "Finish with 1 tbsp lemon zest, season with salt to taste, and garnish with extra puffed rice for texture.",
+    "Let the paella rest on the salt block for 5 minutes before serving for a molten, monsoon finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "funky",
+    "monsoon",
+    "paella",
+    "plant-based",
+    "salt-block",
+    "valencian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 24,
+    "carbs": 140,
+    "fat": 24
+  },
+  "slug": "lush-spanish-danmuji-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-spanish-danmuji-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:30:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "lamination-puff",
+    "primaryIngredient": "danmuji",
+    "diet": "plant-based",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "danmuji",
+    "descriptor": "Lush",
+    "dishForm": "Paella"
+  }
+}
