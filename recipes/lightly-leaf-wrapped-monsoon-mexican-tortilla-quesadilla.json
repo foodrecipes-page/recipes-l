@@ -1,0 +1,107 @@
+{
+  "title": "Monsoon Mexican Tortilla Quesadilla",
+  "description": "A twist on traditional Mexican quesadillas, this dish incorporates the unique flavors of Veracruz, including sansho pepper, crispy tortillas, and a tangy slaw made with pickled red onion and cilantro.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "4",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "Monsoon Mexican cheese blend",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "pickled"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing tortillas"
+    },
+    {
+      "name": "leaves of collard greens",
+      "amount": "6-8",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a griddle or frying pan over medium heat.",
+    "In a small bowl, mix together the cheese blend and sansho pepper.",
+    "In a separate bowl, mix together the cabbage, pickled red onion, and chopped cilantro.",
+    "Brush both sides of the tortillas with olive oil.",
+    "Place a few leaves of collard greens on a work surface and place a tortilla in the center.",
+    "Spoon a quarter of the cheese blend mixture onto half of the tortilla.",
+    "Top with a quarter of the cabbage mixture.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Place the quesadilla on the preheated griddle and cook for 2 minutes or until crispy and golden brown.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and sprinkle with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mexican",
+    "one-pan",
+    "quesadilla",
+    "veggie-filled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "lightly-leaf-wrapped-monsoon-mexican-tortilla-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-leaf-wrapped-monsoon-mexican-tortilla-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:33:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sansho",
+    "diet": "keto",
+    "region": "veracruzan",
+    "cuisineAdjective": "Monsoon Mexican",
+    "mainIngredient": "Tortilla",
+    "descriptor": "Lightly leaf-wrapped",
+    "dishForm": "Quesadilla"
+  }
+}

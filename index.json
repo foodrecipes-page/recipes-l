@@ -251,6 +251,21 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-basque-french-yellow-onion-quiche",
+    "title": "Lazy Sunday Basque French Yellow Onion Quiche",
+    "tags": [
+      "basque",
+      "brunch",
+      "french",
+      "lazy-sunday",
+      "low-fat",
+      "quiche"
+    ],
+    "cuisine": "Basque French",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-bean-steam",
     "title": "Lazy Sunday Bean Steam",
     "tags": [
@@ -2062,6 +2077,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-leaf-wrapped-monsoon-mexican-tortilla-quesadilla",
+    "title": "Monsoon Mexican Tortilla Quesadilla",
+    "tags": [
+      "keto",
+      "mexican",
+      "one-pan",
+      "quesadilla",
+      "veggie-filled"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {

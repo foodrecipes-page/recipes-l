@@ -1,0 +1,92 @@
+{
+  "title": "Lazy Sunday Basque French Yellow Onion Quiche",
+  "description": "A savory and satisfying quiche featuring caramelized yellow onions, perfect for a lazy Sunday morning. This low-fat-friendly dish is baked to perfection on a hot stone plate.",
+  "cuisine": "Basque French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yellow onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pie crust and place it on a hot stone plate.",
+    "In a large skillet, caramelize the sliced yellow onions over medium heat for 20 minutes.",
+    "In a separate bowl, whisk together the eggs, low-fat milk, salt, and black pepper.",
+    "Add the grated cheese to the egg mixture and stir to combine.",
+    "Add the caramelized onions to the egg mixture and stir to combine.",
+    "Pour the egg mixture into the pie crust.",
+    "Drizzle the olive oil over the quiche.",
+    "Bake the quiche for 35 minutes or until the crust is golden brown and the center is set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "basque",
+    "brunch",
+    "french",
+    "lazy-sunday",
+    "low-fat",
+    "quiche"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "lazy-sunday-basque-french-yellow-onion-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-basque-french-yellow-onion-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:32:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "salt-bake",
+    "primaryIngredient": "yellow onion",
+    "diet": "low-fat",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque French",
+    "mainIngredient": "yellow onion",
+    "descriptor": "lazy sunday",
+    "dishForm": "Quiche"
+  }
+}
