@@ -1,0 +1,97 @@
+{
+  "title": "Lush Smoky Uruguayan Comte Salad",
+  "description": "A low-carb, smoky salad featuring crumbly Comte, smoked beef bhuna, and fresh arugula, perfect for meal prep in a tagliere.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "150 g"
+    },
+    {
+      "name": "Smoked beef bhuna",
+      "amount": "100 g"
+    },
+    {
+      "name": "Arugula",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "6 medium"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the Comte into bite-sized cubes and set aside.",
+    "Slice the smoked beef bhuna into thin strips and arrange them on a tagliere.",
+    "Halve the cherry tomatoes and scatter them over the cheese and beef.",
+    "Toss the arugula lightly with olive oil, lemon juice, smoked paprika, salt, and pepper.",
+    "Add the walnuts on top of the salad.",
+    "Arrange all ingredients on a tagliere for an appealing presentation.",
+    "Serve immediately or cover and refrigerate for up to 2 days for meal prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "meal-prep",
+    "quick",
+    "salad",
+    "smoky",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 940,
+    "protein": 43,
+    "carbs": 4,
+    "fat": 79
+  },
+  "slug": "lush-smoky-uruguayan-comte-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-smoky-uruguayan-comte-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:53:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "comte",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Comte",
+    "descriptor": "Lush Smoky",
+    "dishForm": "Salad"
+  }
+}
