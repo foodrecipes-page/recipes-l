@@ -1,0 +1,99 @@
+{
+  "title": "Lazy-sunday Ukrainian Water Borscht",
+  "description": "A simplified Ukrainian Borscht recipe that celebrates minimal effort and delicious flavor. Just rest and let the veggies simmer in water.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Beets",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "cold"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine sliced beets, carrots, onions, and garlic in a large pot.",
+    "Add cold water, making sure all the vegetables are covered.",
+    "Bring the mixture to a boil over medium heat, then reduce heat to low and simmer for 30 minutes.",
+    "Add sliced potatoes and salt, and simmer for another 20 minutes or until the potatoes are tender.",
+    "Turn off the heat and let the soup rest for 10 minutes before serving.",
+    "Garnish with chopped fresh dill before serving.",
+    "Serve warm or at room temperature, depending on your preference.",
+    "Strain the soup if desired to remove excess water and achieve a thicker consistency.",
+    "Adjust seasoning as needed with salt to taste.",
+    "Store leftovers in the refrigerator for up to 3 days or freeze for up to 3 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-soup",
+    "summer",
+    "ukrainian",
+    "veggie-dominant",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "lazy-sunday-ukrainian-water-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-ukrainian-water-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "water",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "water",
+    "descriptor": "Lazy-sunday",
+    "dishForm": "Borscht"
+  }
+}

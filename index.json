@@ -777,6 +777,20 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-ukrainian-water-borscht",
+    "title": "Lazy-sunday Ukrainian Water Borscht",
+    "tags": [
+      "cold-soup",
+      "summer",
+      "ukrainian",
+      "veggie-dominant",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-walnut-caramels",
     "title": "Lazy Sunday Walnut Caramels",
     "tags": [
@@ -1288,6 +1302,22 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-and-tangy-brazilian-fish-bowl",
+    "title": "Light and Tangy Brazilian Fish Bowl",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "grilled",
+      "low-carb",
+      "one-pan",
+      "steamed",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -2606,6 +2636,26 @@
     "shard": "l"
   },
   {
+    "slug": "light-quick-malaysian-shungiku-satay",
+    "title": "Light Quick Malaysian Shungiku Satay",
+    "tags": [
+      "asian",
+      "breakfast",
+      "dinner",
+      "green",
+      "grilled",
+      "lunch",
+      "one-pan",
+      "pescatarian",
+      "quick-fix",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 23,
+    "shard": "l"
+  },
+  {
     "slug": "light-rich-indian-mulukhiyah-curry",
     "title": "Light Rich Indian Mulukhiyah Curry",
     "tags": [
@@ -3380,6 +3430,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-cured-mediterranean-little-gem-lettuce-salad",
+    "title": "lightly cured mediterranean little gem lettuce salad",
+    "tags": [
+      "date-night",
+      "easy-to-make",
+      "gluten-free",
+      "mediterranean",
+      "romantic",
+      "salad"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -4915,6 +4980,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 180,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-ethiopian-greens-gomen",
+    "title": "Lovely Smoky Ethiopian Greens Gomen",
+    "tags": [
+      "collard-greens",
+      "ethiopian",
+      "ghee",
+      "one-pan",
+      "stovetop",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {

@@ -1,0 +1,126 @@
+{
+  "title": "Light and Tangy Brazilian Fish Bowl",
+  "description": "A refreshing Brazilian dish featuring grilled fish, crispy slaw, and a hint of saffron, all steamed together for a light and flavorful meal. Perfect for a quick weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "fodmap-friendly",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh, skin removed, cut into 1-inch pieces"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced",
+      "notes": ""
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 cup, shredded",
+      "notes": "Fodmap-friendly alternative to traditional slaw ingredients"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup, chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the steam basket to 180\u0001476F (82\u0001476C).",
+    "Add the cod fillets to the steam basket and steam for 8 minutes, or until cooked through.",
+    "In a separate bowl, mix together the saffron threads, olive oil, grated ginger, garlic cloves, and lime juice for the marinade.",
+    "Add the shredded red cabbage and grated carrots to the marinade and toss to coat.",
+    "Transfer the slaw mixture to the steam basket with the cod and steam for an additional 2-3 minutes, or until the vegetables are slightly tender.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro leaves and serve immediately.",
+    "Serve hot, garnished with chopped cilantro and a squeeze of lime juice, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "grilled",
+    "low-carb",
+    "one-pan",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "light-and-tangy-brazilian-fish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-and-tangy-brazilian-fish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "saffron",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "light and tangy",
+    "dishForm": "Bowl"
+  }
+}

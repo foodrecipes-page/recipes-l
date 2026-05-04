@@ -1,0 +1,130 @@
+{
+  "title": "Light Quick Malaysian Shungiku Satay",
+  "description": "Sweet and savory, this light Malaysian dish is perfect for a quick fix dinner. Featuring shungiku, a Asian green, and a sweet lacquer glaze, this pescatarian-friendly recipe is a flavorful and refreshing twist on traditional satay.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shungiku",
+      "amount": "1 bunch",
+      "notes": "Stem and slice the shungiku into thin strips."
+    },
+    {
+      "name": "Lacquer Glaze",
+      "amount": "2 tbsp",
+      "notes": "You can find lacquer glaze in most Asian grocery stores or make your own by mixing equal parts honey and soy sauce."
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "To make this dish gluten-free, use gluten-free panko breadcrumbs."
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "Use a neutral-tasting oil like coconut oil for grilling."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cloves",
+      "notes": "Mince the ginger and mix with the lacquer glaze for a bold flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince the garlic and mix with the lacquer glaze for a pungent flavor."
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": "This is a key component of the lacquer glaze, so don't skip it!"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": "Balance out the savory flavors with a touch of sweetness."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "This adds depth and umami to the dish."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use a flaky sea salt for the best flavor."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "Use freshly ground black pepper for the best flavor."
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "Add a touch of heat to your satay (optional)"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 lb",
+      "notes": "Peel and de-vein the shrimp before grilling."
+    },
+    {
+      "name": "Toasted Coconut Flakes",
+      "amount": "1/4 cup",
+      "notes": "Sprinkle toasted coconut flakes on top of the satay for added flavor and texture."
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat. Thread the shrimp and shungiku onto skewers, leaving a little space between each piece.",
+    "Brush the panko breadcrumbs onto the shrimp and shungiku for a crispy coating.",
+    "Mix the lacquer glaze ingredients together and brush onto the skewers.",
+    "Grill the skewers for 2-3 minutes per side, or until the shrimp are pink and the shungiku is tender.",
+    "Serve the satay hot, garnished with toasted coconut flakes and a sprinkle of sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "breakfast",
+    "dinner",
+    "green",
+    "grilled",
+    "lunch",
+    "one-pan",
+    "pescatarian",
+    "quick-fix",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 342,
+    "protein": 34,
+    "carbs": 26,
+    "fat": 16
+  },
+  "slug": "light-quick-malaysian-shungiku-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-quick-malaysian-shungiku-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:52Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "shungiku",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "shungiku",
+    "descriptor": "light quick",
+    "dishForm": "satay"
+  }
+}

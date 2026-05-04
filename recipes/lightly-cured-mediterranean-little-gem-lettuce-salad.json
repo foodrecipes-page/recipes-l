@@ -1,0 +1,89 @@
+{
+  "title": "lightly cured mediterranean little gem lettuce salad",
+  "description": "a buttery, crispy mediterranean dish perfect for a romantic date night, featuring fresh little gem lettuce and a delicate cure. this salad is free from onions and garlic, making it suitable for those with sensitivities.",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "little gem lettuce",
+      "amount": "4 heads",
+      "notes": ""
+    },
+    {
+      "name": "cured lemon",
+      "amount": "2 lemons",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbly, high-quality feta for the best flavor"
+    },
+    {
+      "name": "pistachios",
+      "amount": "30g",
+      "notes": "unsalted, unsweetened pistachios for a crunchy texture"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed for the best flavor"
+    },
+    {
+      "name": "dill",
+      "amount": "10g",
+      "notes": "fresh, chopped dill for garnish"
+    }
+  ],
+  "instructions": [
+    "remove the leaves from the little gem lettuce heads and place them in a large bowl.",
+    "in a small bowl, whisk together the lemon juice, olive oil, and a pinch of salt until well combined.",
+    "add the cured lemon to the bowl and stir to coat the little gem lettuce leaves evenly.",
+    "crumble the feta cheese over the top of the salad and sprinkle with pistachios.",
+    "garnish with chopped fresh dill and serve immediately in copper mugs or individual glass bowls.",
+    "cover the salad with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "easy-to-make",
+    "gluten-free",
+    "mediterranean",
+    "romantic",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "lightly-cured-mediterranean-little-gem-lettuce-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-cured-mediterranean-little-gem-lettuce-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Little gem lettuce",
+    "descriptor": "Lightly cured and luscious",
+    "dishForm": "Salad"
+  }
+}
