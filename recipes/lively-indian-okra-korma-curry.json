@@ -1,0 +1,113 @@
+{
+  "title": "Lively Indian Okra Korma Curry",
+  "description": "A briny, springy one-pot curry that blanches okra before simmering it in a creamy coconut‑almond sauce with a hint of white chocolate chips.",
+  "cuisine": "south indian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh okra",
+      "amount": "500 g"
+    },
+    {
+      "name": "frozen white chocolate chips",
+      "amount": "200 g",
+      "notes": "use sparingly to keep flavor bright"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "200 ml",
+      "notes": "low‑fat"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add a splash of oil.",
+    "Add the diced onion, minced garlic, and grated ginger, sautéing until fragrant and translucent.",
+    "Stir in the ground turmeric, coriander, cumin, and cayenne pepper, cooking for 30 seconds to bloom the spices.",
+    "Add the sliced okra, coating it well with the spice mixture, and sauté for 2 minutes.",
+    "Deglaze the pot with the coconut milk, then bring to a gentle simmer.",
+    "Add the almond butter and frozen white chocolate chips, stirring until the chocolate melts into a silky sauce.",
+    "Simmer the curry for 15 minutes, allowing the okra to become tender yet crisp.",
+    "Finish with fresh lemon juice, adjusting seasoning with salt and pepper as needed.",
+    "Serve the curry hot, garnished with toasted coconut flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "korma-curry",
+    "low-carb",
+    "one-pot",
+    "south-indian",
+    "springy",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "lively-indian-okra-korma-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-indian-okra-korma-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:19:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "blanch",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "whole30",
+    "region": "south",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Okra",
+    "descriptor": "Lively",
+    "dishForm": "Korma Curry"
+  }
+}
