@@ -1,0 +1,110 @@
+{
+  "title": "Lush Argentinian Ume Stew",
+  "description": "A fragrant, velvety stew that blends fermented ume with Asian miso and Argentine herbs, delivering a gentle energy boost while staying shojin-friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan",
+    "shojin-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ume plum (dried)",
+      "amount": "100g",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Cold water",
+      "amount": "500ml"
+    },
+    {
+      "name": "Kombu seaweed",
+      "amount": "5g",
+      "notes": "for umami"
+    },
+    {
+      "name": "Miso paste (white)",
+      "amount": "30g",
+      "notes": "for depth"
+    },
+    {
+      "name": "Soybean milk",
+      "amount": "200ml",
+      "notes": "smooth base"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "150g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Spinach",
+      "amount": "50g",
+      "notes": "leafy greens"
+    }
+  ],
+  "instructions": [
+    "Soak the dried ume plum in 500ml of cold water overnight to soften and release its flavors.",
+    "In a pot, combine the soaked ume, kombu, and a pinch of salt, and bring to a gentle simmer for 10 minutes.",
+    "Remove the kombu and stir in the miso paste until fully dissolved.",
+    "Add the soy milk, garlic, ginger, and sweet potato cubes, and simmer for another 15 minutes until the potatoes are tender.",
+    "Stir in the spinach and cook for 2 minutes until the leaves wilt.",
+    "Taste and adjust seasoning with a small pinch of salt if needed.",
+    "Garnish with chopped green onion before serving.",
+    "Serve hot, accompanied by a side of quinoa or crusty bread if desired.",
+    "Enjoy the herbal, velvety texture and gentle energizing lift of this shojin-friendly stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "energizing",
+    "herbal",
+    "low-fat",
+    "shojin-friendly",
+    "vegan",
+    "velvet"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "lush-argentinian-ume-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-argentinian-ume-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:33:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "ume-plum",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Ume",
+    "descriptor": "Lush",
+    "dishForm": "Stew"
+  }
+}
