@@ -1,0 +1,109 @@
+{
+  "title": "Luscious Nutty Rajasthani Olives Chaat",
+  "description": "A fluffy, nutty chaat that blends marinated olives with spiced chickpea pancakes and a smoky flambé touch, perfect for a hangover cure.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Olives, pitted, sliced",
+      "amount": "200g"
+    },
+    {
+      "name": "Chickpea flour (besan)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh mint, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Toasted almonds, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk chickpea flour with water, cumin, coriander, garam masala, and chili powder until smooth and lump free.",
+    "Heat coconut oil in a skillet over medium heat and pour in the batter, spreading evenly.",
+    "Cook the batter for 6 minutes until the edges lift and the surface is dimpled.",
+    "Flip the thin pancake and cook for an additional 4 minutes until golden brown.",
+    "Transfer the pancake to a cutting board and slice into small squares.",
+    "In a separate pan gently fry sliced olives in a teaspoon of coconut oil until slightly caramelized, about 3 minutes.",
+    "Add a splash of rum to flambé the olives, letting the flame subside and smoke clear.",
+    "Toss the olive cubes into the pancake squares, then sprinkle toasted almonds, cilantro, mint, and lemon juice.",
+    "Drizzle the remaining coconut oil over the chaat and garnish with extra herbs.",
+    "Serve immediately as a fluffy, nutty hangover cure snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flamb",
+    "hangover-cure",
+    "indian-chaat",
+    "nutty",
+    "quick",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "luscious-nutty-rajasthani-olives-chaat",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-nutty-rajasthani-olives-chaat",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:05:59Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "flambe",
+    "primaryIngredient": "olives",
+    "diet": "vegan",
+    "region": "rajasthani",
+    "cuisineAdjective": "Rajasthani",
+    "mainIngredient": "Olives",
+    "descriptor": "Luscious Nutty",
+    "dishForm": "Chaat"
+  }
+}
