@@ -1,0 +1,122 @@
+{
+  "title": "Lively Egyptian Fish Tagine",
+  "description": "A salty, flaky monsoon-inspired Egyptian dish with Dutch stroop and crispy lardons, low-glycemic for a light meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "800g",
+      "notes": "cut into 4 equal portions"
+    },
+    {
+      "name": "lardons",
+      "amount": "100g",
+      "notes": "crisp in a skillet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dutch stroop (sugar syrup)",
+      "amount": "1 tbsp",
+      "notes": "adds a subtle sweetness"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high and brown the lardons until crisp; set aside.",
+    "In the same skillet add olive oil, diced onion, and minced garlic and cook until the onion softens.",
+    "Stir in chopped tomatoes, cumin, coriander, paprika, and cayenne, and let the mixture simmer for 5 minutes.",
+    "Pour in Dutch stroop and squeeze in lemon juice, seasoning with salt and pepper to taste.",
+    "Gently place the fish fillets on top of the sauce, cover, and bake in a preheated oven at 180°C for 12 minutes.",
+    "Increase oven temperature to 200°C and bake for an additional 5 minutes until the fish flakes easily.",
+    "Remove the tagine from the oven and garnish with chopped parsley before serving.",
+    "Serve hot with a side of low-glycemic greens or a small portion of plain rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "egyptian",
+    "fish",
+    "low-glycemic",
+    "monsoon-flavor",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 16,
+    "carbs": 5,
+    "fat": 16
+  },
+  "slug": "lively-egyptian-fish-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-egyptian-fish-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:49:22Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "lardons-render",
+    "primaryIngredient": "dutch stroop",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fish",
+    "descriptor": "Lively",
+    "dishForm": "Tagine"
+  }
+}
