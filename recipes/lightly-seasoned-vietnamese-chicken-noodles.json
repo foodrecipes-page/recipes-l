@@ -1,0 +1,107 @@
+{
+  "title": "Lightly Seasoned Vietnamese Chicken Noodles",
+  "description": "A flavorful and earthy Vietnamese dish featuring chicken and noodles, perfect for a weeknight dinner, made with a mixture powder and mantecare-emulsify method, and is egg-free friendly, cooked on a tava griddle.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "mixture powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large tava griddle over medium-high heat.",
+    "Add the chicken to the tava griddle and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the tava griddle and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the tava griddle.",
+    "Add the mixture powder to the tava griddle and cook for 1 minute, stirring constantly.",
+    "Add the soy sauce, fish sauce, and lime juice to the tava griddle and cook for 1 minute, stirring constantly.",
+    "Add the cooked noodles to the tava griddle and stir to combine with the sauce.",
+    "Add the cooked chicken back to the tava griddle and stir to combine with the noodles and sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles to a serving platter and top with chopped green onions and bean sprouts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easy-cooking",
+    "gluten-free",
+    "one-pan-meal",
+    "vietnamese-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lightly-seasoned-vietnamese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-seasoned-vietnamese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:52:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "mixture powder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Lightly Seasoned",
+    "dishForm": "Noodles"
+  }
+}
