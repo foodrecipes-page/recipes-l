@@ -1,0 +1,108 @@
+{
+  "title": "Luscious Greek Quinoa Pastitsio",
+  "description": "A yeasty, silky Greek layer dish with quinoa, shaped into nigiri-style cylinders, diabetic-friendly and bursting with creamy sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup dry"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "200g"
+    },
+    {
+      "name": "low-fat Greek yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 C (350 F).",
+    "Rinse quinoa, then combine with 2 cups water, bring to a boil, simmer 15 minutes until fluffy, and let cool.",
+    "In a skillet, heat 2 tbsp olive oil over medium, add diced onion, and sauté until translucent.",
+    "Add ground turkey to the skillet, cook until browned, and season with salt.",
+    "Whisk together low-fat Greek yogurt, egg, grated Parmesan, and cooled quinoa mixture in a bowl.",
+    "Stir the cooked turkey and onion into the quinoa mixture until well combined.",
+    "In a saucepan, whisk flour into 200ml low-fat milk, cook over medium until thickened, then stir in 1 tsp instant yeast and salt until dissolved.",
+    "Spread the quinoa mixture evenly in a 20x20 cm baking dish, then pour the béchamel over it, smoothing the surface.",
+    "Bake for 30 minutes until the top is golden and set; let rest 10 minutes before slicing into 1-cm thick cylinders resembling nigiri.",
+    "Garnish with chopped parsley (optional) before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "greek",
+    "low-carb",
+    "pastitsio",
+    "quinoa",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 321,
+    "protein": 27,
+    "carbs": 21,
+    "fat": 14
+  },
+  "slug": "luscious-greek-quinoa-pastitsio",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-greek-quinoa-pastitsio",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:28:17Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "quinoa",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Luscious",
+    "dishForm": "Pastitsio"
+  }
+}
