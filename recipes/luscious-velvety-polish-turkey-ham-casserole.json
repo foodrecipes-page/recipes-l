@@ -1,0 +1,99 @@
+{
+  "title": "Luscious Velvety Polish Turkey Ham Casserole",
+  "description": "A hearty and comforting Polish dish featuring turkey ham and render-fat, perfect for a weeknight dinner",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "render-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large skillet, heat the render-fat over medium heat",
+    "Add the chopped onions and cook until they are translucent",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown",
+    "In a large bowl, combine the diced turkey ham, cooked onions and mushrooms, grated carrots, and sliced potatoes",
+    "In a separate bowl, whisk together the vegetable broth, salt, and black pepper",
+    "Pour the broth mixture over the turkey ham mixture and stir until everything is well combined",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil",
+    "Bake for 45 minutes, then remove the foil and continue baking for an additional 15 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "luscious-velvety-polish-turkey-ham-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-velvety-polish-turkey-ham-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:41:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "render-fat",
+    "primaryIngredient": "turkey ham",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Luscious velvety",
+    "dishForm": "Casserole"
+  }
+}
