@@ -1,0 +1,111 @@
+{
+  "title": "Luscious Egyptian Ham Pie",
+  "description": "A comforting, mustardy pie with flaky crust and a smoky hint from binchotan charcoal, perfect for a macrobiotic-friendly lunch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat pastry dough",
+      "amount": "500g"
+    },
+    {
+      "name": "ham, cooked and diced",
+      "amount": "250g"
+    },
+    {
+      "name": "yellow Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "150g"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low sodium vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and lightly oil a 9-inch pie dish.",
+    "Roll out the whole wheat pastry dough to fit the dish and line it, reserving a small piece for the top crust.",
+    "In a skillet, heat 1 tbsp olive oil over medium, sauté diced onion and minced garlic until fragrant, then add diced ham and cook for 3 minutes.",
+    "Stir in mustard, spinach, bay leaf, salt, pepper, and chickpea flour, then pour in vegetable broth and simmer until the mixture thickens, about 5 minutes.",
+    "Pour the ham mixture into the prepared crust, cover with remaining pastry, seal the edges, and cut slits for steam.",
+    "Bake for 30 minutes until golden and flaky, then remove from oven.",
+    "Sprinkle binchotan charcoal powder over the crust and return to oven for an additional 5 minutes to activate charcoal flavor and give a smoky finish.",
+    "Let rest 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baking",
+    "comfort-food",
+    "egyptian",
+    "flaky-pie",
+    "ham",
+    "macrobiotic-friendly",
+    "mustard-flavored"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 38,
+    "carbs": 97,
+    "fat": 23
+  },
+  "slug": "luscious-egyptian-ham-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-egyptian-ham-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:09:11Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "ham",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "ham",
+    "descriptor": "Luscious",
+    "dishForm": "Pie"
+  }
+}
