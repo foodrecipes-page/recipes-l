@@ -1,0 +1,121 @@
+{
+  "title": "Lovely Crunchy Syrian beets Tagine",
+  "description": "Umami, crunchy, energizing Syrian dish featuring beets, shio-cure, and halal-friendly ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2",
+      "notes": "2 medium beets"
+    },
+    {
+      "name": "shio-cured beef",
+      "amount": "1/2 cup",
+      "notes": "shio-cured beef, finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "olive oil for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated ginger"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "sweet paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "black pepper"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped parsley for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chopped shio-cured beef and cook until lightly browned, about 3-4 minutes.",
+    "Add the ground cumin, coriander, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the diced beets and cook until tender, about 20-25 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "evening-meal",
+    "healthy",
+    "high-protein",
+    "morning-meal",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "lovely-crunchy-syrian-beets-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crunchy-syrian-beets-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T06:16:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "shio-cure",
+    "primaryIngredient": "beets",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beets",
+    "descriptor": "Lovely Crunchy",
+    "dishForm": "Tagine"
+  }
+}

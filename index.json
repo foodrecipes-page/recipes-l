@@ -2332,6 +2332,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-browned-mediterranean-beef-kidney-skewers",
+    "title": "Lightly Browned Mediterranean Beef Kidney Skewers",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "mediterranean",
+      "one-pot",
+      "satvik",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-candied-croatian-turnips-stir-fry",
     "title": "Lightly Candied Croatian Turnips Stir-Fry",
     "tags": [
@@ -3018,6 +3033,22 @@
       "weeknight"
     ],
     "cuisine": "British",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-crunchy-syrian-beets-tagine",
+    "title": "Lovely Crunchy Syrian beets Tagine",
+    "tags": [
+      "evening-meal",
+      "healthy",
+      "high-protein",
+      "morning-meal",
+      "one-pan",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
     "totalTimeMin": 40,
     "shard": "l"
   },
