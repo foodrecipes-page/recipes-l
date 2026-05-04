@@ -1,0 +1,112 @@
+{
+  "title": "Luscious Kenyan Bread Casserole",
+  "description": "A roasted, gooey, kid-friendly Kenyan dish featuring rum and long-fermentation dough baked in a Dutch oven.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-sodium",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "500g",
+      "notes": "for dough"
+    },
+    {
+      "name": "warm water",
+      "amount": "300ml",
+      "notes": "110°F"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "240ml"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, yeast, sugar, salt, and warm water; stir until a shaggy dough forms.",
+    "Knead the dough for 8 minutes until smooth, then add olive oil and continue kneading for 2 minutes.",
+    "Place dough in a greased bowl, cover with a damp cloth, and let rise at room temperature for 3 hours, or until doubled in size.",
+    "Preheat your oven to 375°F and place a Dutch oven with lid on the middle rack.",
+    "After the dough has risen, punch it down, shape it into a round loaf, and place it in the Dutch oven.",
+    "In a saucepan, melt butter over medium heat, then add cream, evaporated milk, rum, vanilla, and beaten eggs; whisk until smooth and pour over the loaf.",
+    "Cover with the Dutch oven lid, bake for 30 minutes, then remove the lid and bake for an additional 15 minutes until golden brown and bubbly.",
+    "Let the casserole cool for 10 minutes before slicing; serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread-casserole",
+    "dutch-oven",
+    "kenyan",
+    "kid-friendly",
+    "low-sodium",
+    "one-pot",
+    "rum-flavor"
+  ],
+  "nutrition": {
+    "calories": 710,
+    "protein": 14,
+    "carbs": 67,
+    "fat": 28
+  },
+  "slug": "luscious-kenyan-bread-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-kenyan-bread-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:09:44Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "rum",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Bread",
+    "descriptor": "Luscious",
+    "dishForm": "Casserole"
+  }
+}
