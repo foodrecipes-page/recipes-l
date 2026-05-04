@@ -1,0 +1,99 @@
+{
+  "title": "Lively Spiced Moroccan Chicken Tagine",
+  "description": "A snappy, post‑workout Moroccan dish featuring mustard powder and a soffritto base, served from an agave leaf vessel.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fodmap",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone‑in chicken thighs",
+      "amount": "800g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery, diced",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "500 ml"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy‑bottom pot over medium heat.",
+    "Add diced onion, carrot, and celery, sauté until softened, about 5 minutes.",
+    "Stir in garlic powder, cumin, smoked paprika, and mustard powder, cook for 1 minute until fragrant.",
+    "Add chicken thighs, brown on all sides, about 3 minutes per side.",
+    "Pour in chicken broth, bring to a gentle simmer, cover, and cook for 25 minutes until chicken is cooked through.",
+    "Remove the lid and simmer uncovered for an additional 5 minutes to reduce sauce.",
+    "Taste and season with salt and pepper if needed.",
+    "Garnish with freshly chopped cilantro and serve hot from an agave leaf vessel."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf",
+    "high-protein",
+    "low-fodmap",
+    "moroccan",
+    "one-pot",
+    "spiced"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 45,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "lively-spiced-moroccan-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-spiced-moroccan-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:38:05Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "soffritto-base",
+    "primaryIngredient": "mustard powder",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Lively Spiced",
+    "dishForm": "Tagine"
+  }
+}
