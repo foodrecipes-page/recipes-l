@@ -1,0 +1,103 @@
+{
+  "title": "Luxurious Ethiopian Lentil Flatbread",
+  "description": "A traditional Ethiopian dish featuring crusty flatbread filled with spicy lentils, perfect for a vegan-friendly meal. This recipe combines the flavors of Ethiopia with a crunchy and indulgent twist.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown lentils work well"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for at least 30 minutes.",
+    "Drain and boil the lentils in 2 cups of water until they are tender.",
+    "Saute the onion, garlic, and ginger in olive oil until the onion is translucent.",
+    "Add the berbere spice to the onion mixture and stir for 1 minute.",
+    "Combine the cooked lentils with the onion mixture and season with salt.",
+    "In a separate bowl, mix the flour, yeast, and salt.",
+    "Gradually add water to the flour mixture to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 4-6 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle and cook for 1-2 minutes on each side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "flatbread",
+    "indulgent",
+    "lentil",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "luxurious-ethiopian-lentil-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-ethiopian-lentil-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:56:16Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "fold",
+    "primaryIngredient": "crusty bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "luxurious",
+    "dishForm": "Flatbread"
+  }
+}
