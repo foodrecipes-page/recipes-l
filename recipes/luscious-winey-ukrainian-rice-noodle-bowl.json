@@ -1,0 +1,114 @@
+{
+  "title": "Luscious Winey Ukrainian Rice Noodle Bowl",
+  "description": "A light, pillowy bowl of brown rice noodles tossed in a wine-infused mushroom sauce and topped with sous‑vide chicken, perfect for a low‑glycemic Ukrainian dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown rice noodles",
+      "amount": "200 g"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "200 g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "50 ml"
+    },
+    {
+      "name": "Low‑sodium chicken broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "15 g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "100 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide water bath to 65°C.",
+    "Season the chicken breast with salt and pepper.",
+    "Place the chicken in a vacuum‑sealed bag with 20 ml of wine and sous‑vide for 90 minutes.",
+    "While the chicken cooks, bring a pot of salted water to a boil and cook the rice noodles according to package instructions for 8 minutes, then drain.",
+    "In a skillet, melt butter over medium heat and sauté minced garlic until fragrant.",
+    "Add the chopped onion and sliced mushrooms to the skillet and cook until softened.",
+    "Pour in the remaining wine, reduce by half, and stir in the low‑sodium broth.",
+    "Toss the cooked noodles into the skillet, coating them with the sauce.",
+    "Remove the chicken from the bag, slice, and fold it into the noodle bowl.",
+    "Garnish with fresh dill and parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-glycemic",
+    "quick-meal",
+    "rice-noodles",
+    "sous-vide",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "luscious-winey-ukrainian-rice-noodle-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-winey-ukrainian-rice-noodle-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:47:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "rice noodle",
+    "descriptor": "Luscious Winey",
+    "dishForm": "Bowl"
+  }
+}

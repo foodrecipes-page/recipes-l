@@ -1,0 +1,101 @@
+{
+  "title": "Lovely Light Korean Tofu Ssam",
+  "description": "A funky and crisp Korean dish from Busan, perfect for a sick day, featuring ground cumin and pickle, and is vegetarian-friendly, served in the form of ssam.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "perilla leaves",
+      "amount": "1 package"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the crumbled tofu and cook until lightly browned, breaking it up into small pieces as it cooks.",
+    "Add the ground cumin and cook for 1 minute, stirring constantly.",
+    "Stir in the chopped pickle and cook for an additional 2 minutes.",
+    "Season the tofu mixture with soy sauce to taste.",
+    "To assemble the ssam, place a spoonful of the tofu mixture onto a perilla leaf, followed by a spoonful of cooked rice.",
+    "Garnish with chopped green onions and serve immediately.",
+    "Repeat with the remaining ingredients.",
+    "Serve with additional soy sauce and sesame oil on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "healthy",
+    "korean-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "lovely-light-korean-tofu-ssam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-light-korean-tofu-ssam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:48:00Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "ground cumin",
+    "diet": "vegetarian",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Lovely Light",
+    "dishForm": "Ssam"
+  }
+}

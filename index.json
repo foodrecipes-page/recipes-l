@@ -803,6 +803,21 @@
     "shard": "l"
   },
   {
+    "slug": "lemon-crispy-british-broccoli-afternoon-tea",
+    "title": "Lemon Crispy British Broccoli Afternoon Tea",
+    "tags": [
+      "afternoon-tea",
+      "crispy",
+      "low-carb",
+      "sattvic-friendly",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lemon-laced-french-chicken-wings-confit",
     "title": "Lemon Laced French Chicken Wings Confit",
     "tags": [
@@ -3513,6 +3528,21 @@
     "shard": "l"
   },
   {
+    "slug": "lovely-light-korean-tofu-ssam",
+    "title": "Lovely Light Korean Tofu Ssam",
+    "tags": [
+      "easy-meal",
+      "healthy",
+      "korean-food",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lovely-light-spanish-chicken-paella-valenciana",
     "title": "Lovely Light Spanish Chicken Paella Valenciana",
     "tags": [
@@ -4375,6 +4405,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-winey-ukrainian-rice-noodle-bowl",
+    "title": "Luscious Winey Ukrainian Rice Noodle Bowl",
+    "tags": [
+      "comfort-food",
+      "low-glycemic",
+      "quick-meal",
+      "rice-noodles",
+      "sous-vide",
+      "wine-based"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 105,
     "shard": "l"
   },
   {

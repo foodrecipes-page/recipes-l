@@ -1,0 +1,100 @@
+{
+  "title": "Lemon Crispy British Broccoli Afternoon Tea",
+  "description": "Citrusy, crispy broccoli wrapped in whole wheat ssam wraps, perfect for a quick weeknight British afternoon tea.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Purple sprouting broccoli",
+      "amount": "300 g"
+    },
+    {
+      "name": "Whole wheat ssam wraps",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 lemon",
+      "notes": "zest of"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Diced cucumber",
+      "amount": "100 g"
+    },
+    {
+      "name": "Sliced red bell pepper",
+      "amount": "50 g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 C and line a baking sheet with parchment paper.",
+    "Wash the purple sprouting broccoli and cut into bite-sized florets.",
+    "In a bowl, toss the broccoli with olive oil, lemon zest, lemon juice, sea salt, black pepper until evenly coated.",
+    "Spread the seasoned broccoli on the prepared baking sheet and roast for 15 minutes, turning halfway through, until crisp and slightly charred.",
+    "While the broccoli roasts, warm the ssam wraps on a dry skillet for 30 seconds on each side; keep them flexible.",
+    "In a small bowl, whisk honey and a pinch of sea salt to make a quick glaze.",
+    "Assemble each wrap by placing a handful of roasted broccoli, slices of cucumber, and red bell pepper, then drizzle with the honey glaze.",
+    "Fold the wrap into a ssam-style roll, slice in half, and serve immediately with a squeeze of fresh lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "afternoon-tea",
+    "crispy",
+    "low-carb",
+    "sattvic-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "lemon-crispy-british-broccoli-afternoon-tea",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-crispy-british-broccoli-afternoon-tea",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:47:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Lemon Crispy",
+    "dishForm": "Afternoon Tea"
+  }
+}
