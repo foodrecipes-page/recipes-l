@@ -1,0 +1,96 @@
+{
+  "title": "Lightly Grilled Greek Lamb Souvlaki",
+  "description": "A rich and crumbly Greek dish featuring lamb souvlaki, perfect for a brunch mood, with a hint of blue food coloring for a unique touch, all while being keto-friendly and cooked to perfection using a bain-marie, although the blue food coloring is used sparingly for presentation and does not affect the keto-friendly aspect of the dish",
+  "cuisine": "Greek",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "blue food coloring",
+      "amount": "1/4 teaspoon",
+      "notes": "optional for presentation"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, approximately 400 degrees Fahrenheit, ensuring a safe internal temperature for cooking lamb",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, dried oregano, salt, and pepper to create a marinade",
+    "Add the lamb cubes to the marinade and toss to coat, then cover and refrigerate for at least 30 minutes to allow the flavors to penetrate the meat",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece to facilitate even cooking",
+    "Grill the lamb souvlaki for 8-10 minutes per side, or until cooked to an internal temperature of 145 degrees Fahrenheit for medium-rare, ensuring food safety",
+    "While the lamb is cooking, prepare a bain-marie by filling a large saucepan with water to a depth of about 2 inches and bringing it to a simmer over low heat",
+    "Once the lamb is cooked, place the skewers in the bain-marie, cover, and let cook for an additional 5 minutes to keep warm and maintain a safe internal temperature",
+    "Remove the skewers from the bain-marie and garnish with a sprinkle of blue food coloring, if desired, for a unique and visually appealing presentation",
+    "Serve the lamb souvlaki hot, garnished with additional lemon wedges and a side of roasted vegetables or a salad, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "grilled-meat",
+    "keto-friendly",
+    "low-carb",
+    "lunch-ideas",
+    "mediterranean-diet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "lightly-grilled-greek-lamb-souvlaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-grilled-greek-lamb-souvlaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:39:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "bain-marie",
+    "primaryIngredient": "blue food colouring",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly Grilled",
+    "dishForm": "Souvlaki"
+  }
+}

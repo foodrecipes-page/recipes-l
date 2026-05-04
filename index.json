@@ -2626,6 +2626,22 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-fermented-greek-honey-loukoumades",
+    "title": "Lightly Fermented Greek Honey Loukoumades",
+    "tags": [
+      "deep-fried",
+      "greek-dessert",
+      "honey-based",
+      "low-fat",
+      "midnight-cravings",
+      "traditional",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-fermented-indian-lotus-root-curry",
     "title": "Lightly Fermented Indian Lotus Root Curry",
     "tags": [
@@ -2705,6 +2721,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-grilled-greek-lamb-souvlaki",
+    "title": "Lightly Grilled Greek Lamb Souvlaki",
+    "tags": [
+      "greek-cuisine",
+      "grilled-meat",
+      "keto-friendly",
+      "low-carb",
+      "lunch-ideas",
+      "mediterranean-diet"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -2802,6 +2833,21 @@
       "traditional"
     ],
     "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoky-kenyan-mussels-stew",
+    "title": "Lightly Smoky Kenyan Mussels Stew",
+    "tags": [
+      "flexitarian",
+      "kenyan-cuisine",
+      "one-pot",
+      "seafood",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
     "totalTimeMin": 35,
     "shard": "l"
   },

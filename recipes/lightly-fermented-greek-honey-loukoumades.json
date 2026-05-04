@@ -1,0 +1,100 @@
+{
+  "title": "Lightly Fermented Greek Honey Loukoumades",
+  "description": "A traditional Greek dessert featuring lightly fermented dough balls drizzled with honey and sprinkled with fines herbes, perfect for satisfying midnight cravings. This low-fat friendly treat is encrusted in a crunchy shell and filled with juicy sweetness.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt.",
+    "Gradually add water and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic.",
+    "Place the dough in a greased bowl, cover it, and let it ferment in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan to 375 degrees.",
+    "Using a spoon, drop the dough into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the dough balls until they are golden brown and puffed up.",
+    "Drain the loukoumades on paper towels and drizzle with honey.",
+    "Sprinkle fines herbes and confectioners sugar over the top.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "greek-dessert",
+    "honey-based",
+    "low-fat",
+    "midnight-cravings",
+    "traditional",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "lightly-fermented-greek-honey-loukoumades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fermented-greek-honey-loukoumades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:39:03Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "en-croute",
+    "primaryIngredient": "fines-herbes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "honey",
+    "descriptor": "Lightly Fermented",
+    "dishForm": "Loukoumades"
+  }
+}
