@@ -1,0 +1,96 @@
+{
+  "title": "Luxurious Creamy Italian Pork Carbonara",
+  "description": "A rich and creamy Italian dish featuring pork, salted butter, and shio-koji cure, perfect for a romantic evening, this recipe is raw-friendly and formed into a traditional carbonara style.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "shio-koji cured"
+    },
+    {
+      "name": "salted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, melt 2 tablespoons of salted butter over medium heat and cook the shio-koji cured pork tenderloin until browned on all sides and cooked through.",
+    "Remove the pork from the skillet and set aside to rest, then add the remaining 2 tablespoons of salted butter to the skillet and cook until melted.",
+    "Add the minced garlic to the skillet and cook for 1 minute until fragrant.",
+    "In a large bowl, whisk together the eggs, parmesan cheese, and a pinch of salt and pepper.",
+    "Add the cooked spaghetti to the bowl and toss to combine with the egg mixture.",
+    "Slice the rested pork into thin strips and add to the bowl, tossing to combine with the spaghetti and egg mixture.",
+    "Season with freshly ground black pepper to taste, then garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "italian-food",
+    "one-pot",
+    "pork-recipes",
+    "romantic-dinners"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 50
+  },
+  "slug": "luxurious-creamy-italian-pork-carbonara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-creamy-italian-pork-carbonara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:21:22Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "salted butter",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "luxurious creamy",
+    "dishForm": "Carbonara"
+  }
+}
