@@ -1,0 +1,96 @@
+{
+  "title": "Luscious Norwegian Wagyu Bowl",
+  "description": "A fatty, bouncy-qq hangover cure featuring seared wagyu, steamed papillote, and a bright dill‑lemon rice base.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu sirloin steak",
+      "amount": "200g"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onion",
+      "amount": "2 stalks, sliced"
+    }
+  ],
+  "instructions": [
+    "Rinse and pat dry the wagyu steak; season both sides with sea salt, pepper, and a drizzle of olive oil.",
+    "Heat a heavy skillet over high heat; sear the steak for 2–3 minutes per side for medium rare, then remove and let rest.",
+    "While the steak rests, cook brown rice following package instructions; fluff and set aside.",
+    "In a parchment square, arrange the seared steak, drizzle remaining olive oil, sprinkle dill, lemon juice, soy sauce, and sesame seeds; fold into a tight papillote.",
+    "Steam the papillote in a pot with a tight-fitting lid for 5 minutes to meld flavors.",
+    "Slice the steak into strips once the parchment opens, releasing steam carefully to avoid burns.",
+    "Toss the cooked rice with sliced green onions, a splash of soy sauce, and a pinch of sea salt; then top with steak strips.",
+    "Serve immediately, garnishing with extra dill and a wedge of lemon for an extra zing that helps soothe a hangover."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "norwegian",
+    "papillote",
+    "quick-meal",
+    "wagyu"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 34,
+    "carbs": 45,
+    "fat": 46
+  },
+  "slug": "luscious-norwegian-wagyu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-norwegian-wagyu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:14:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "wagyu",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Luscious",
+    "dishForm": "Bowl"
+  }
+}
