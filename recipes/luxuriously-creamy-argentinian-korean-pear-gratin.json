@@ -1,0 +1,99 @@
+{
+  "title": "Luxuriously Creamy Argentinian Korean Pear Gratin",
+  "description": "A lacto-vegetarian friendly Argentinian dish featuring charred Korean pear, miso marinate, and creamy sauce, perfect for a nostalgic dinner",
+  "cuisine": "Argentinian Korean fusion",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean pear",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1 cup",
+      "notes": "lacto-vegetarian friendly"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, whisk together miso paste, olive oil, garlic, salt, and black pepper to make the marinate",
+    "Add the sliced Korean pear to the marinate and toss to coat",
+    "Arrange the marinated pear slices in a single layer in a baking dish",
+    "Pour the heavy cream over the pear slices",
+    "Sprinkle the grated cheese over the cream",
+    "Top with chopped fresh thyme",
+    "Bake for 25 minutes or until the top is golden brown and the cream is bubbly",
+    "Remove from the oven and let it rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "autumn-recipe",
+    "comfort-food",
+    "korean-fusion",
+    "lacto-vegetarian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "luxuriously-creamy-argentinian-korean-pear-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-creamy-argentinian-korean-pear-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:24:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "korean-pear",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "korean pear",
+    "descriptor": "luxuriously creamy",
+    "dishForm": "Gratin"
+  }
+}

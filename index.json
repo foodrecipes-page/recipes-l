@@ -3338,5 +3338,20 @@
     "cuisine": "Australian",
     "totalTimeMin": 45,
     "shard": "l"
+  },
+  {
+    "slug": "luxuriously-creamy-argentinian-korean-pear-gratin",
+    "title": "Luxuriously Creamy Argentinian Korean Pear Gratin",
+    "tags": [
+      "argentinian-cuisine",
+      "autumn-recipe",
+      "comfort-food",
+      "korean-fusion",
+      "lacto-vegetarian",
+      "one-pan"
+    ],
+    "cuisine": "Argentinian Korean fusion",
+    "totalTimeMin": 45,
+    "shard": "l"
   }
 ]
