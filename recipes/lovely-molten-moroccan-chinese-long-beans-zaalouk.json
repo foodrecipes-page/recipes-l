@@ -1,0 +1,105 @@
+{
+  "title": "Lovely Molten Moroccan Chinese Long Beans Zaalouk",
+  "description": "A plant-based Moroccan dish featuring roasted Chinese long beans in a rich and spicy glaze, perfect for adventurous eaters. This recipe is a unique fusion of Moroccan and Chinese flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the Chinese long beans with 2 tablespoons of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the beans out in a single layer on a baking sheet and roast for 20 minutes, or until they are tender and lightly browned.",
+    "In a large skillet, heat the remaining 2 tablespoons of olive oil over medium heat.",
+    "Add the chopped onion to the skillet and cook, stirring occasionally, until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook, stirring constantly, for 1 minute.",
+    "Stir in the tomato paste, smoked paprika, and cumin, and cook for 1 minute.",
+    "Add the roasted Chinese long beans to the skillet and stir to combine with the onion and spice mixture.",
+    "Cook for an additional 2 minutes, stirring constantly, until the beans are well coated with the glaze."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan-inspiration",
+    "one-pan",
+    "plant-based",
+    "roasted-vegetables",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "lovely-molten-moroccan-chinese-long-beans-zaalouk",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-molten-moroccan-chinese-long-beans-zaalouk",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:09:13Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "chinese long beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chinese Long Beans",
+    "descriptor": "Lovely Molten",
+    "dishForm": "Zaalouk"
+  }
+}
