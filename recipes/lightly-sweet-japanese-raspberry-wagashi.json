@@ -1,0 +1,92 @@
+{
+  "title": "Lightly Sweet Japanese Raspberry Wagashi",
+  "description": "A traditional Japanese dessert featuring raspberry jam and a glassy jelly texture, often served as a comfort food when feeling unwell. This recipe incorporates anti-inflammatory friendly ingredients and is lightly sweetened.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberry jam",
+      "amount": "1/2 cup",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": "for anti-inflammatory properties"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/4 teaspoon",
+      "notes": "for anti-inflammatory properties"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, whisk together the water, sugar, agar agar powder, and turmeric over low heat until the sugar and agar agar are fully dissolved.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Remove the saucepan from the heat and stir in the lemon juice and ginger.",
+    "Let the mixture cool slightly, until it reaches a temperature of 120 degrees Fahrenheit.",
+    "Whisk the raspberry jam in a separate bowl until it is smooth.",
+    "Slowly pour the cooled agar agar mixture into the raspberry jam, whisking constantly to prevent lumps from forming.",
+    "Pour the mixture into small wagashi molds or a 9x9 inch baking dish.",
+    "Refrigerate the mixture until it is set, at least 3 hours or overnight.",
+    "Once set, remove the wagashi from the molds or cut it into small squares if using a baking dish.",
+    "Serve the wagashi chilled, garnished with fresh raspberries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "japanese-dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "lightly-sweet-japanese-raspberry-wagashi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-sweet-japanese-raspberry-wagashi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:34:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "raspberry jam",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "raspberry",
+    "descriptor": "Lightly Sweet",
+    "dishForm": "Wagashi"
+  }
+}
