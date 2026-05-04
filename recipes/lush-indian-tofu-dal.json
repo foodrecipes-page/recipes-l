@@ -1,0 +1,125 @@
+{
+  "title": "Lush Indian Tofu Dal",
+  "description": "A fresh, snappy, indulgent Indian tofu dal bursting with parsley and aromatic spices, served in a bamboo tray for a rustic touch.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "red lentils",
+      "amount": "200 g",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "full fat"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wide, shallow bamboo tray over medium heat.",
+    "Add chopped onion, garlic, and ginger, sauté until translucent and aromatic.",
+    "Stir in cumin, coriander, and turmeric, cooking for 30 seconds until fragrant.",
+    "Add diced tomatoes and cook until softened, about 5 minutes.",
+    "Pour in rinsed lentils and coconut milk, stirring to combine.",
+    "Bring to a gentle boil, then reduce heat to low and simmer, covering partially, for 20 minutes until lentils are tender.",
+    "Add tofu cubes and fresh parsley, simmer for an additional 5 minutes until tofu is heated through.",
+    "Season with garam masala and salt to taste, then serve hot with steamed rice or naan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "indian",
+    "one-pot",
+    "quick",
+    "tofu-dal",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 770,
+    "protein": 38,
+    "carbs": 48,
+    "fat": 50
+  },
+  "slug": "lush-indian-tofu-dal",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-indian-tofu-dal",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:37:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "parsley",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tofu",
+    "descriptor": "Lush",
+    "dishForm": "Dal"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Lively Canadian Callaloo Salad",
+  "description": "A fermented, crispy, hangover‑cure Canadian salad that pairs tangy callaloo with roasted sweet potato and a citrus‑ginger vinaigrette.",
+  "cuisine": "Canadian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "callaloo leaves",
+      "amount": "4 cups",
+      "notes": "washed"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinate and roasting"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "sweetener"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "citrus"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "1/4 cup",
+      "notes": "whole30 compliant"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss diced sweet potato with 1 tbsp olive oil, salt, pepper, ginger, garlic, and maple syrup until coated.",
+    "Spread sweet potato on a baking sheet and roast for 20 minutes, flipping halfway.",
+    "While sweet potato roasts, combine callaloo, sauerkraut, lemon juice, salt, pepper, and remaining olive oil in a bowl.",
+    "Massage the leafy mixture for 2 minutes to wilt and release juices.",
+    "After sweet potato is crisp, remove from oven and let cool slightly.",
+    "Add roasted sweet potato to the salad and toss gently.",
+    "Sprinkle roasted almonds and chopped cilantro over the salad.",
+    "Taste and adjust seasoning with more lemon or salt if needed.",
+    "Serve immediately, optionally with a glass of water infused with lemon slices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "easy",
+    "fermented",
+    "hangover-cure",
+    "quick",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 758,
+    "protein": 13,
+    "carbs": 57,
+    "fat": 45
+  },
+  "slug": "lively-canadian-callaloo-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-canadian-callaloo-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:36:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "callaloo",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Callaloo",
+    "descriptor": "Lively",
+    "dishForm": "Salad"
+  }
+}

@@ -3468,6 +3468,21 @@
     "shard": "l"
   },
   {
+    "slug": "lively-canadian-callaloo-salad",
+    "title": "Lively Canadian Callaloo Salad",
+    "tags": [
+      "crispy",
+      "easy",
+      "fermented",
+      "hangover-cure",
+      "quick",
+      "whole30"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lively-chewy-mexican-corn-tacos",
     "title": "Lively Chewy Mexican Corn Tacos",
     "tags": [
@@ -5429,6 +5444,22 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lush-indian-tofu-dal",
+    "title": "Lush Indian Tofu Dal",
+    "tags": [
+      "bamboo-tray",
+      "indian",
+      "one-pot",
+      "quick",
+      "tofu-dal",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
