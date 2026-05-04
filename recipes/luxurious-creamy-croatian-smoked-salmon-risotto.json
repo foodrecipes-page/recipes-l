@@ -1,0 +1,112 @@
+{
+  "title": "Luxurious Creamy Croatian Smoked Salmon Risotto",
+  "description": "A rich and creamy Croatian dish featuring smoked salmon, this risotto is a perfect hangover cure, made with plant-based friendly ingredients and cooked in a traditional ttukbaegi earthenware pot.",
+  "cuisine": "Croatian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup",
+      "notes": "preferably imported from Italy"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 ounces",
+      "notes": "wild caught and sustainably sourced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry and plant-based friendly"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store bought, plant-based friendly"
+    },
+    {
+      "name": "cashew cream",
+      "amount": "1/2 cup",
+      "notes": "soaked in water for at least 4 hours and blended with 1/4 cup water"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large ttukbaegi earthenware pot over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the Arborio rice and cook for 1-2 minutes, until the rice is coated in oil and slightly toasted.",
+    "Add the white wine and cook until the liquid is almost completely absorbed, stirring constantly.",
+    "Add 1/2 cup of vegetable broth to the pot and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding the broth in 1/2 cup increments, stirring constantly, until the rice is cooked and creamy, about 20-25 minutes.",
+    "Stir in the cashew cream and cook for an additional 2-3 minutes, until the cream is fully incorporated and the risotto is creamy.",
+    "Flake in the smoked salmon and cook until heated through, about 2-3 minutes.",
+    "Season the risotto with salt, black pepper, and dried parsley to taste.",
+    "Serve the risotto immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "croatian",
+    "one-pot",
+    "plant-based",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "luxurious-creamy-croatian-smoked-salmon-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-creamy-croatian-smoked-salmon-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:02:36Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "smoked salmon",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "luxurious creamy",
+    "dishForm": "Risotto"
+  }
+}
