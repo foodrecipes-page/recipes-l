@@ -2330,6 +2330,21 @@
     "shard": "l"
   },
   {
+    "slug": "lovely-crispy-venezuelan-beef-skewers",
+    "title": "Lovely Crispy Venezuelan Beef Skewers",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "high-protein",
+      "low-lactose",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 32,
+    "shard": "l"
+  },
+  {
     "slug": "lovely-crumbly-british-sausage-fried-sausage-roll",
     "title": "Lovely Crumbly British Sausage Fried Sausage Roll",
     "tags": [
@@ -2369,6 +2384,20 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 150,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-light-spanish-chicken-paella-valenciana",
+    "title": "Lovely Light Spanish Chicken Paella Valenciana",
+    "tags": [
+      "chicken-dishes",
+      "clay-pot-cooking",
+      "one-pot",
+      "shojin-friendly",
+      "spanish-cuisine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {

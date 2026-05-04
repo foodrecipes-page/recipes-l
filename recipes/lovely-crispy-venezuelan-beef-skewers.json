@@ -1,0 +1,104 @@
+{
+  "title": "Lovely Crispy Venezuelan Beef Skewers",
+  "description": "A show-off Venezuelan dish featuring mixed beef cuts, this recipe combines floral and crispy elements in a FODMAP-friendly way, perfect for special occasions.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Beef ribeye",
+      "amount": "1/2 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lime juice, olive oil, garlic-infused oil, paprika, salt, and black pepper.",
+    "Add the mixed beef cuts to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated beef pieces onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking and grill the skewers for 10-12 minutes, turning occasionally.",
+    "During the last 2 minutes of grilling, brush the skewers with additional garlic-infused oil if desired.",
+    "Once cooked, remove the skewers from the grill and garnish with chopped cilantro and parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "low-lactose",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "lovely-crispy-venezuelan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crispy-venezuelan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:35:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "emulsify",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Lovely crispy",
+    "dishForm": "Skewers"
+  }
+}
