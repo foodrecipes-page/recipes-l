@@ -1,0 +1,94 @@
+{
+  "title": "Luscious Juicy Irish Lamb Skewers",
+  "description": "A Whole30-friendly Irish dish featuring lamb skewers with a mustardy flavor, grilled to perfection on a robata grill with lemongrass stalks.",
+  "cuisine": "Irish",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "4",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together Dijon mustard, olive oil, garlic powder, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the mustard mixture.",
+    "Thread a lamb cube, a lemongrass piece, and another lamb cube onto each skewer, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "irish-food",
+    "lamb-recipes",
+    "lemongrass",
+    "robata-grill",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "luscious-juicy-irish-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-juicy-irish-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:51:01Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "robata-grill",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Luscious Juicy",
+    "dishForm": "Skewers"
+  }
+}
