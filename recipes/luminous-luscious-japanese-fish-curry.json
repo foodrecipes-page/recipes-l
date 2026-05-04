@@ -1,0 +1,96 @@
+{
+  "title": "Luminous Luscious Japanese Fish Curry",
+  "description": "A bright, low‑carb Japanese fish curry that blends fresh fromage frais and ferment‑jang for a silky, savory sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "seafood",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Atlantic cod fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Fromage frais",
+      "amount": "100g"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "100g"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dried shiitake mushrooms",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Pat the cod fillets dry and season lightly with salt and pepper.",
+    "Heat sesame oil in a skillet over medium heat and sear the cod for 2 minutes on each side.",
+    "Add the ginger, green onions and shiitake mushrooms, cooking until fragrant about 3 minutes.",
+    "Pour in the coconut milk and bring to a gentle simmer, then stir in the ferment‑jang and soy sauce.",
+    "Reduce the heat and add the tofu, allowing the curry to thicken over 5 minutes.",
+    "Fold in the fromage frais just before turning off the heat, letting it melt into a creamy sauce.",
+    "Serve the curry over cauliflower rice or steamed greens for a low‑carb finish.",
+    "Garnish with extra green onions or a drizzle of sesame oil if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "japanese",
+    "dinner"
+  ],
+  "slug": "luminous-luscious-japanese-fish-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luminous-luscious-japanese-fish-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:48:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "ferment-jang",
+    "primaryIngredient": "fromage frais",
+    "diet": "low-carb",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Fish",
+    "descriptor": "Luminous Luscious",
+    "dishForm": "Curry"
+  }
+}
