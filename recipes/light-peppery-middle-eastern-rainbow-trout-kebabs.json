@@ -1,0 +1,93 @@
+{
+  "title": "Light Peppery Middle Eastern Rainbow Trout Kebabs",
+  "description": "A flavorful and healthy dish featuring rainbow trout, perfect for a light lunch or dinner, with a peppery kick to help cure hangovers",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rainbow trout fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 teaspoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, sumac, paprika, and black pepper",
+    "Add the rainbow trout cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated trout cubes onto skewers, leaving a little space between each piece",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the fish is cooked through",
+    "Serve the kebabs hot, garnished with chopped fresh parsley",
+    "Serve with a side of dum or other Middle Eastern flatbread",
+    "Refrigerate any leftovers promptly and consume within a day"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "healthy",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "light-peppery-middle-eastern-rainbow-trout-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-peppery-middle-eastern-rainbow-trout-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:17:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "rainbow trout",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "rainbow trout",
+    "descriptor": "light peppery",
+    "dishForm": "Kebabs"
+  }
+}
