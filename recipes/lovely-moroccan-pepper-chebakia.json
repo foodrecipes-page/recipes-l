@@ -1,0 +1,111 @@
+{
+  "title": "Lovely Moroccan Pepper Chebakia",
+  "description": "This monsoon Moroccan dish features roasted pepper and tagine-cook in a low-sodium-friendly chebakia form, offering umami flavors and a cheese-pull experience.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "roasted red peppers",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low-sodium feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the roasted red peppers, tagine spice mix, salt, and black pepper to the skillet and cook for 5 minutes.",
+    "In a large bowl, combine the cooked pepper mixture, crumbly feta cheese, and chopped parsley.",
+    "Layer the filo dough in a large baking dish, brushing each layer with the beaten eggs.",
+    "Spoon the pepper and cheese mixture onto the filo dough, leaving a 1-inch border around the edges.",
+    "Fold the filo dough over the filling to form a chebakia shape and brush the top with the remaining eggs.",
+    "Bake the chebakia in the preheated oven for 35 minutes, or until golden brown.",
+    "Remove the chebakia from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chebakia",
+    "low-sodium",
+    "moroccan",
+    "roasted-peppers",
+    "tagine-cook",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 16
+  },
+  "slug": "lovely-moroccan-pepper-chebakia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-moroccan-pepper-chebakia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:12:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "tagine-cook",
+    "primaryIngredient": "roasted pepper",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "peppers",
+    "descriptor": "Low Sodium",
+    "dishForm": "Chebakia"
+  }
+}
