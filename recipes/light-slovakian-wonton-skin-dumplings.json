@@ -1,0 +1,97 @@
+{
+  "title": "Light Slovakian Wonton Skin Dumplings",
+  "description": "A traditional Slovakian dish featuring wonton skin, filled with a yeast based mixture, steamed to perfection in a bamboo steamer, this recipe is egg free friendly and suitable for all",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "egg free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wonton skin",
+      "amount": "20 sheets",
+      "notes": "found in most asian markets"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "make sure to activate before use"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the warm water, sugar, and yeast, stir to dissolve the yeast and let it sit for 5 minutes",
+    "Add the salt, vegetable oil, onion, and garlic to the bowl and mix until well combined",
+    "Lay a wonton skin on a flat surface and place a small spoonful of the yeast mixture in the center of the skin",
+    "Dip your finger in a small amount of water and run it along the edges of the skin",
+    "Fold the skin into a triangle by bringing the two opposite corners together to form a point",
+    "Press the edges together to seal the dumpling",
+    "Repeat the process with the remaining wonton skins and yeast mixture",
+    "Place the dumplings in a bamboo steamer lined with parchment paper, leaving some space between each dumpling",
+    "Steam the dumplings over boiling water for 10 minutes, or until they are cooked through and fluffy",
+    "Serve the dumplings hot with your favorite dipping sauce"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "egg-free",
+    "slovakian",
+    "steamed",
+    "vegetarian",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "light-slovakian-wonton-skin-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-slovakian-wonton-skin-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:25:39Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "en-croute",
+    "primaryIngredient": "wonton skin",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "wonton skin",
+    "descriptor": "light yeasty",
+    "dishForm": "Dumplings"
+  }
+}
