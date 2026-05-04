@@ -4168,6 +4168,20 @@
     "shard": "l"
   },
   {
+    "slug": "lovely-earthy-french-cheese-tagine",
+    "title": "Lovely Earthy French Cheese Tagine",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "french-cuisine",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "lovely-golden-american-egg-omelette",
     "title": "Lovely Golden American Egg Omelette",
     "tags": [
@@ -5817,6 +5831,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriantly-roasted-turkish-fish-stew",
+    "title": "Luxuriantly Roasted Turkish Fish Stew",
+    "tags": [
+      "date-night",
+      "fish-stew",
+      "one-pan",
+      "pescatarian-friendly",
+      "roasted-dish",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {

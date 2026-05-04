@@ -1,0 +1,115 @@
+{
+  "title": "Luxuriantly Roasted Turkish Fish Stew",
+  "description": "A rich and flavorful Turkish fish stew made with roasted ingredients and served in a kadhai, perfect for a date night dinner",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salted butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "firm white fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish red pepper",
+      "amount": "1 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large kadhai, melt 2 tablespoons of salted butter over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Stir in the crushed turkish red pepper and cook for 1 minute",
+    "Add the confit tomatoes, chicken broth, salt, and black pepper, and bring to a simmer",
+    "Roast the firm white fish in the oven with the remaining 2 tablespoons of salted butter for 8 minutes, or until cooked through",
+    "Add the roasted fish to the kadhai and stir to combine",
+    "Squeeze the lemon juice over the top and sprinkle with chopped parsley",
+    "Serve the stew hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "fish-stew",
+    "one-pan",
+    "pescatarian-friendly",
+    "roasted-dish",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "luxuriantly-roasted-turkish-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-roasted-turkish-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:30:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "confit-tomato",
+    "primaryIngredient": "salted butter",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fish",
+    "descriptor": "Luxuriantly roasted",
+    "dishForm": "Stew"
+  }
+}
