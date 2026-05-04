@@ -1,0 +1,120 @@
+{
+  "title": "Lemony Cheesy Malaysian Paneer Curry",
+  "description": "A vibrant citrusy curry with paneer, black olives and a creamy coconut base, perfect for a crowd-pleasing, lacto-vegetarian Malaysian feast.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer cubes",
+      "amount": "200g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Black olives, sliced",
+      "amount": "50g"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a kazan cauldron over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic and ginger, cooking until fragrant.",
+    "Sprinkle turmeric, coriander, cumin, and garam masala, stirring for 1 minute.",
+    "Pour coconut milk and bring to a gentle simmer.",
+    "Add paneer cubes, lemon zest, lemon juice, and sliced olives; simmer for 5 minutes.",
+    "Season with salt and stir gently.",
+    "Remove from heat and let rest 2 minutes to allow flavors to meld.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "citrusy",
+    "crowd-pleaser",
+    "lacto-vegetarian",
+    "malaysian",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "lemony-cheesy-malaysian-paneer-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-cheesy-malaysian-paneer-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:35:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "black olives",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Paneer",
+    "descriptor": "Lemony Cheesy",
+    "dishForm": "Curry"
+  }
+}
