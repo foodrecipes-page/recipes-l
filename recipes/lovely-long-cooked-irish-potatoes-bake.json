@@ -1,0 +1,115 @@
+{
+  "title": "lovely long-cooked irish potatoes bake",
+  "description": "a comforting, pillowy irish dish made with long-fermentation-dough and red potatoes, perfect for meal prep. it's also an ayurvedic-sattvic-friendly option.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "7",
+      "notes": ""
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "2",
+      "notes": "you can make your own or use store-bought"
+    },
+    {
+      "name": "ghee",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "grated parsnip",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat your bamboo steamer over boiling water.",
+    "mix the long-fermentation-dough with the salt, black pepper, and garlic powder.",
+    "roll out the dough to a thickness of about 1/4 inch.",
+    "place the red potatoes on one half of the dough, leaving a 1/2 inch border around the edges.",
+    "dot the top of the potatoes with butter.",
+    "sprinkle the grated carrot and parsnip on top of the potatoes.",
+    "fold the other half of the dough over the potatoes and press the edges to seal.",
+    "place the stuffed dough in the bamboo steamer, seam-side down.",
+    "cover the steamer with a lid and cook for 2 hours, or until the dough is golden brown and the potatoes are tender.",
+    "remove the steamer from the heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 120,
+  "totalTimeMin": 165,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "irish",
+    "meal-prep",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 90,
+    "fat": 12
+  },
+  "slug": "lovely-long-cooked-irish-potatoes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-long-cooked-irish-potatoes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "red potatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "lovely long-cooked",
+    "dishForm": "Bake"
+  }
+}

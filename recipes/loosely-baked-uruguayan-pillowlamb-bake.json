@@ -1,0 +1,97 @@
+{
+  "title": "LooselyBaked Uruguayan Pillowlamb Bake",
+  "description": "A traditionally-inspired, ayurvedic-tamasic-friendly dish from Uruguay that combines the bitter flavors of red pepper and the pillowy texture of lamb, all in one pot.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "red pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute more.",
+    "Add the chopped red pepper and cook for an additional 2 minutes.",
+    "Add the chicken broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the lamb shoulder to the pot and transfer to the preheated oven.",
+    "Bake for 2.5 hours, or until the lamb is tender and falls apart easily."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pot",
+    "tamasic",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "loosely-baked-uruguayan-pillowlamb-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/loosely-baked-uruguayan-pillowlamb-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "salt-bake",
+    "primaryIngredient": "red pepper",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pillowlamb",
+    "descriptor": "LooselyBaked",
+    "dishForm": "Bake"
+  }
+}

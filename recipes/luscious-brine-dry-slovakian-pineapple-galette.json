@@ -1,0 +1,120 @@
+{
+  "title": "Luscious Brine-Dry Slovakian Pineapple Galette",
+  "description": "A winey, molten, romantic Slovakian dish featuring pineapple, brine-dry, diabetic-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple rings",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried pineapple rings",
+      "amount": "1/2 cup",
+      "notes": "rehydrated in 1/4 cup white wine and 1/4 cup sugar syrup"
+    },
+    {
+      "name": "Slovakian honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg replacers",
+      "amount": "2",
+      "notes": "made from almond milk and tapioca starch"
+    },
+    {
+      "name": "Xanthan gum",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turbinado sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/8 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F and prepare a bamboo tray with parchment paper.",
+    "Combine coconut flour, almond flour, xanthan gum, and salt in a bowl, then mix in coconut oil using a fork.",
+    "Mix dried pineapple rings with Slovakian honey, egg replacers, and Slovakian vanilla extract in another bowl.",
+    "Add rehydrated pineapple mixture to crust mixture and mix until combined.",
+    "Add water and turbinado sugar, then mix until a dough forms.",
+    "Press dough into a circle on the bamboo tray, leaving a 1-inch border around the edges.",
+    "Bake for 45 minutes or until the edges are golden brown and the center is molten.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "diabetic",
+    "gluten-free",
+    "one-pan",
+    "romantic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "luscious-brine-dry-slovakian-pineapple-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-brine-dry-slovakian-pineapple-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:35Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "pineapple",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Luscious Brine-Dry",
+    "dishForm": "Galette"
+  }
+}

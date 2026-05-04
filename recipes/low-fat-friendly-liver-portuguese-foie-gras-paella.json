@@ -1,0 +1,112 @@
+{
+  "title": "Low-fat-friendly Liver Portuguese foie-gras Paella",
+  "description": "This umami-packed paella dish features tender foie-gras, juicy liver, and a medley of low-fat-friendly ingredients, all perfectly balanced in a single pan. Serve hot and enjoy!",
+  "cuisine": "portuguese",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Foie gras",
+      "amount": "1 (12 oz) piece",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Liver",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large paella pan over medium heat.",
+    "Add the chicken stock and bring to a boil.",
+    "Add the foie gras and liver, and cook for 5 minutes or until the liver is browned.",
+    "Add the saffron, smoked paprika, cumin powder, salt, and black pepper, and stir to combine.",
+    "Add the Spanish rice and green beans, and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 20 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "foie-gras",
+    "liver",
+    "low-fat",
+    "one-pan",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "low-fat-friendly-liver-portuguese-foie-gras-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-friendly-liver-portuguese-foie-gras-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "brine-wet",
+    "primaryIngredient": "foie-gras",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "foie-gras",
+    "descriptor": "Low-fat-friendly Liver",
+    "dishForm": "Paella"
+  }
+}
