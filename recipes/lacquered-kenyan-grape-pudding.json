@@ -1,0 +1,98 @@
+{
+  "title": "Lacquered Kenyan Grape Pudding",
+  "description": "A jammy, aerated dessert that evokes Kenyan nostalgia, featuring grape juice, a glossy lacquer glaze, and anti-inflammatory spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "anti-inflammatory"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "grape juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gelatin powder",
+      "amount": "2 tbsp",
+      "notes": "dissolved in 1/4 cup cold water"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Combine grape juice and sugar in a saucepan and heat until the sugar has dissolved.",
+    "Add vanilla, ginger, and turmeric and stir for 30 seconds.",
+    "Remove the saucepan from heat and allow the mixture to cool to 80°F.",
+    "Whisk gelatin powder into 1/4 cup cold water until fully dispersed.",
+    "Stir the gelatin mixture into the warm grape mixture until fully incorporated.",
+    "Pour the mixture into a shallow dish, cover, and refrigerate for 180 minutes until set.",
+    "Whisk honey in a small bowl then brush it over the set pudding to create a lacquer glaze.",
+    "Let the glaze set for 10 minutes.",
+    "Sprinkle crushed almonds over the glaze and garnish with mint leaves.",
+    "Serve chilled for a nostalgic Kenyan dessert experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "african",
+    "anti-inflammatory",
+    "dessert",
+    "gelatin",
+    "glazed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 10,
+    "carbs": 140,
+    "fat": 15
+  },
+  "slug": "lacquered-kenyan-grape-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lacquered-kenyan-grape-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:33:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "grape juice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "grape",
+    "descriptor": "Lacquered",
+    "dishForm": "Pudding"
+  }
+}
