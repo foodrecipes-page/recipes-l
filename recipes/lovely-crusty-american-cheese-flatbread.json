@@ -1,0 +1,96 @@
+{
+  "title": "Lovely Crusty American Cheese Flatbread",
+  "description": "A crowd-pleasing, vegan-friendly American dish featuring crusty bread and a cheese pull, perfect for a snack or light meal. This floral-inspired flatbread is boiled and then baked to create a crispy crust.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vegan american cheese shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh rosemary leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the melted vegan butter and water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a large rectangle.",
+    "Sprinkle the vegan american cheese shreds and chopped rosemary leaves evenly over the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough over the filling to create a crust.",
+    "Place the flatbread in a large pot of boiling water for 30 seconds on each side.",
+    "Remove the flatbread from the water and place it on a baking sheet lined with parchment paper.",
+    "Bake the flatbread in the preheated oven for 20 minutes, or until it is golden brown and crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "crowd-pleaser",
+    "crusty-bread",
+    "flatbread",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "lovely-crusty-american-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crusty-american-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:39:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "crusty bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cheese",
+    "descriptor": "Lovely crusty",
+    "dishForm": "Flatbread"
+  }
+}
