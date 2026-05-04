@@ -1331,6 +1331,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-brazilian-shaggy-bake",
+    "title": "Light Brazilian Shaggy Bake",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "shojin",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
     "slug": "light-briny-vietnamese-pork-shoulder-fry",
     "title": "light briny vietnamese pork shoulder fry",
     "tags": [
@@ -3146,6 +3160,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "light-venezuelan-mini-pudding",
+    "title": "Light Venezuelan Mini Pudding",
+    "tags": [
+      "dessert",
+      "diabetic-friendly",
+      "high-protein",
+      "veggan-options",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {

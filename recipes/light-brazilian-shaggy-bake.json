@@ -1,0 +1,133 @@
+{
+  "title": "Light Brazilian Shaggy Bake",
+  "description": "A resinous, shaggy, light Brazilian dish featuring black pepper, salt-bake, shojin-friendly. It's a unique breakfast recipe that explores the intersection of salt-baking and shojin cooking.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "250g",
+      "notes": "Rinse and soak quinoa for 4 hours before using."
+    },
+    {
+      "name": "Brazilian sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "0.5 tsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2tbsp",
+      "notes": "Minced."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "250ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Mix quinoa, sweet potatoes, coconut sugar, cayenne pepper, salt, and black pepper in a bowl.",
+    "Drizzle the mixture with avocado oil and mix well.",
+    "Transfer the mixture to the prepared baking sheet and spread it evenly.",
+    "Bake for 30 minutes or until the top is golden brown.",
+    "While the mixture is baking, mix egg, ginger, lime juice, and nutritional yeast in a bowl.",
+    "Once the mixture is done, add it to the bowl with egg mixture and mix well.",
+    "Transfer the mixture to a serving dish and sprinkle with chopped cilantro.",
+    "Serve hot and enjoy!",
+    "This dish is best served immediately, but it can be refrigerated for up to 24 hours and reheated in the oven before serving.",
+    "Reheat in the oven at 375°F (190°C) for 10-15 minutes or until warm and crispy on top.",
+    "Serve hot and enjoy!",
+    "This dish is a unique breakfast recipe that explores the intersection of salt-baking and shojin cooking.",
+    "It's a great option for a weeknight meal or a special occasion.",
+    "This dish is also vegan and gluten-free, making it a great option for those with dietary restrictions.",
+    "It's a great option for a weeknight meal or a special occasion.",
+    "This dish is also vegan and gluten-free, making it a great option for those with dietary restrictions."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "shojin",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "light-brazilian-shaggy-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-brazilian-shaggy-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "salt-bake",
+    "primaryIngredient": "black pepper",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Shaggy",
+    "descriptor": "Light",
+    "dishForm": "Bake"
+  }
+}
