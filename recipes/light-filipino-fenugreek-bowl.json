@@ -1,0 +1,60 @@
+{
+  "title": "Light Filipino Fenugreek Bowl",
+  "description": "A winey, light, and festive Filipino dish featuring fenugreek, perfect for low-calorie meals, served in an earthenware bowl.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fenugreek leaves",
+      "amount": "1 bunch",
+      "notes": "about 2 cups chopped"
+    }
+  ],
+  "instructions": [
+    "Combine chopped fenugreek leaves, minced garlic, and sliced green chilies in a bowl.",
+    "Heat rice bran oil in a pan over medium heat.",
+    "Sauté the onion until softened, about 3 minutes.",
+    "Add the coconut milk and fish sauce, stirring constantly.",
+    "Simmer for 2 minutes, then season with salt.",
+    "Garnish with fresh cilantro and serve over the fenugreek mixture.",
+    "Garnish with additional green chilies if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "filipino",
+    "light",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "light-filipino-fenugreek-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-filipino-fenugreek-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:12:58Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "infuse-oil",
+    "primaryIngredient": "fenugreek",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fenugreek",
+    "descriptor": "Light",
+    "dishForm": "Bowl"
+  }
+}
