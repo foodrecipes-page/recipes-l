@@ -1,0 +1,109 @@
+{
+  "title": "Lively Peppery Slovakian Squid Wrap",
+  "description": "A spicy Slovakian-inspired wrap featuring tender baby squid and crisp pork, finished with fresh herbs and a tangy lime kick.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby squid, cleaned",
+      "amount": "200g"
+    },
+    {
+      "name": "pork belly, thinly sliced",
+      "amount": "150g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "fresh ginger, minced",
+      "amount": "1-inch"
+    },
+    {
+      "name": "red chili, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime, juiced",
+      "amount": "1"
+    },
+    {
+      "name": "cucumber, julienned",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pandan leaf",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Wash and pat dry the pandan leaves, then set aside.",
+    "In a skillet, heat sesame oil over medium heat and sear the pork belly slices until browned and crispy, about 3 minutes per side.",
+    "Remove pork and set aside; in same skillet, add minced garlic, ginger, and sliced chili, sauté until fragrant, about 1 minute.",
+    "Add the cleaned baby squid to the skillet and stir-fry quickly until just opaque, about 2 minutes.",
+    "Return the pork belly to the skillet, pour in soy sauce, add lime juice, and stir to combine, cooking for an additional 1 minute.",
+    "Season the mixture with salt and let it rest for 1 minute.",
+    "Lay a prepared pandan leaf on a flat surface and spoon a portion of the squid and pork mixture onto the center.",
+    "Sprinkle chopped cilantro and julienned cucumber over the filling.",
+    "Fold the sides of the leaf over the filling and roll tightly, securing with a toothpick if desired.",
+    "Serve immediately or pack for a fresh lunch on the go."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "lunch",
+    "macrobiotic-friendly",
+    "peppery",
+    "quick",
+    "slovakian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 1065,
+    "protein": 57,
+    "carbs": 4,
+    "fat": 73
+  },
+  "slug": "lively-peppery-slovakian-squid-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-peppery-slovakian-squid-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:50:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "rest-meat",
+    "primaryIngredient": "baby squid",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "squid",
+    "descriptor": "Lively Peppery",
+    "dishForm": "Wrap"
+  }
+}
