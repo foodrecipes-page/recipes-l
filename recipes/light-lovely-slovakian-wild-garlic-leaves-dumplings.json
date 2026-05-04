@@ -1,0 +1,94 @@
+{
+  "title": "Slovakian Wild Garlic Leaves Dumplings",
+  "description": "A sweet and light Slovakian dish featuring wild garlic leaves, perfect for a midnight craving, made with halal-friendly ingredients and mushimono-steam cooking method.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 cup",
+      "notes": "freshly picked"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, eggs, milk, melted butter, salt, and sugar, and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Roll out each ball into a thin circle.",
+    "Place a few wild garlic leaves in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining dough and filling.",
+    "In a large steamer basket, arrange the dumplings in a single layer, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 10 minutes, or until they are cooked through and fluffy.",
+    "Serve the dumplings hot, garnished with additional wild garlic leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "light-snack",
+    "midnight-craving",
+    "slovakian-cuisine",
+    "steamed-dumplings",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "light-lovely-slovakian-wild-garlic-leaves-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-lovely-slovakian-wild-garlic-leaves-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:51:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "light lovely",
+    "dishForm": "Dumplings"
+  }
+}
