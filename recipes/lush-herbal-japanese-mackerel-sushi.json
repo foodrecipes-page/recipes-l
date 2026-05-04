@@ -1,0 +1,108 @@
+{
+  "title": "Lush Herbal Japanese Mackerel Sushi",
+  "description": "A fragrant herb‑fused mackerel ehomaki with juicy sashimi, bright greens and a silky soy‑sesame glaze, perfect for a brunch‑mood lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets (sashimi grade)",
+      "amount": "200g"
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "150g uncooked"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nori sheets",
+      "amount": "4"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "whisked with soy sauce and chili"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice until water runs clear, then cook it with water according to package instructions.",
+    "Whisk together rice vinegar, sugar, and salt until the sugar dissolves.",
+    "Transfer the cooked rice to a bowl and fold in the vinegar mixture, letting it cool to room temperature.",
+    "Combine the chopped dill and cilantro with the rice, mixing gently.",
+    "Heat a non‑stick skillet over medium‑high heat, add a splash of oil, and sear the mackerel fillets for 2 minutes on each side until just cooked through.",
+    "Remove the fish from the skillet, let it rest for a minute, then thinly slice it lengthwise into strips.",
+    "Whisk soy sauce, sesame oil, and chili flakes together in a small bowl to create a quick glaze.",
+    "Lay a sheet of nori on a bamboo sushi mat, wet your hands with water, spread a thin layer of the herb‑rice mixture across the nori leaving a 1 cm border at the top.",
+    "Arrange the sliced mackerel and a drizzle of the soy‑sesame glaze over the rice, then roll the mat tightly to form a cylinder.",
+    "Slice the ehomaki into 8 equal rounds and sprinkle toasted sesame seeds over the top before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "chugoku",
+    "herbal",
+    "pescetarian",
+    "seafood",
+    "sushi"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 25
+  },
+  "slug": "lush-herbal-japanese-mackerel-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-herbal-japanese-mackerel-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:00:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "mackerel",
+    "diet": "plant-based",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Mackerel",
+    "descriptor": "Lush Herbal",
+    "dishForm": "Sushi"
+  }
+}
