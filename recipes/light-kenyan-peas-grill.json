@@ -1,0 +1,102 @@
+{
+  "title": "Light Kenyan Peas Grill",
+  "description": "A simple, plant‑based grilled dish featuring peas, veggies, and a splash of soy sauce for a bright, springy flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "200g"
+    },
+    {
+      "name": "diced onion",
+      "amount": "50g"
+    },
+    {
+      "name": "diced garlic",
+      "amount": "1 clove",
+      "notes": "chopped"
+    },
+    {
+      "name": "sliced bell pepper",
+      "amount": "70g"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "80g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Heat the tava‑griddle over medium heat until shimmering.",
+    "Toss frozen peas with sesame oil, smoked paprika, salt, and pepper until coated.",
+    "Spread peas in a single layer on the heated griddle and cook for 3 minutes without stirring to develop a golden crust.",
+    "Flip the peas and add diced onion, bell pepper, and tomatoes, sprinkling soy sauce over the mixture.",
+    "Cook for another 4 minutes, stirring occasionally, until vegetables soften and peas are hot.",
+    "Remove from heat, sprinkle chopped cilantro, and squeeze a squeeze of lime if desired.",
+    "Serve immediately as a light lunch or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "low-fat",
+    "plant-based",
+    "quick",
+    "springy",
+    "tava"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "light-kenyan-peas-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-kenyan-peas-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:31:37Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "peas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "peas",
+    "descriptor": "Light",
+    "dishForm": "Grill"
+  }
+}
