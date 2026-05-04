@@ -1,0 +1,105 @@
+{
+  "title": "Lively Kenyan Rice Noodles Crumble",
+  "description": "A sweet, crumbly festive treat featuring rice noodles, honey, and candied coconut, perfect for celebrations.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "candied coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice noodles in cold water and soak them in warm water for 10 minutes until just softened.",
+    "Drain the noodles and set them aside.",
+    "Melt the ghee in a saucepan over medium heat, add sugar and honey, and stir until the mixture turns light amber.",
+    "Add the soaked noodles to the saucepan, tossing to coat them evenly with the syrup.",
+    "Stir in the candied coconut flakes, raisins, sesame seeds, poppy seeds, and ground cardamom, cooking for three more minutes.",
+    "Remove the saucepan from the heat, then stir in lime zest and a pinch of salt.",
+    "Spread the noodle crumble onto a parchment-lined baking sheet and allow it to cool to room temperature.",
+    "Break the cooled mixture into bite-sized crumbs and sprinkle with extra sesame or poppy seeds if desired.",
+    "Serve the crumble as a festive dessert or snack garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "festive",
+    "gluten-free",
+    "rice-noodles",
+    "sweet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 65,
+    "fat": 10
+  },
+  "slug": "lively-kenyan-rice-noodles-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-kenyan-rice-noodles-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:28:29Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "candy",
+    "primaryIngredient": "rice noodles",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Lively",
+    "dishForm": "Crumble"
+  }
+}

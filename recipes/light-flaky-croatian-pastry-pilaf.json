@@ -1,0 +1,97 @@
+{
+  "title": "Croatian Pastry Pilaf",
+  "description": "A traditional Croatian dish featuring flaky pastry and a savory pilaf, perfect for a hangover cure. This version is dairy-free friendly and packed with umami flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for pastry"
+    },
+    {
+      "name": "malai",
+      "amount": "1/2 cup",
+      "notes": "or non-dairy yogurt"
+    },
+    {
+      "name": "brine-dried vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots and zucchini"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees.",
+    "In a large bowl, whisk together flour and salt.",
+    "Add malai and mix until a dough forms.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Cut into squares and layer in a baking dish.",
+    "In a separate pan, saute the mushrooms and onion in olive oil.",
+    "Add brine-dried vegetables and cook until heated through.",
+    "Spoon the pilaf mixture over the pastry layers.",
+    "Bake for 25 minutes or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "dairy-free",
+    "flaky-pastry",
+    "hangover-cure",
+    "umami-rich",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "light-flaky-croatian-pastry-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-flaky-croatian-pastry-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:28:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "malai",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pastry",
+    "descriptor": "light flaky",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1285,6 +1285,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-flaky-croatian-pastry-pilaf",
+    "title": "Croatian Pastry Pilaf",
+    "tags": [
+      "breakfast-idea",
+      "dairy-free",
+      "flaky-pastry",
+      "hangover-cure",
+      "umami-rich",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "light-flaky-slovakian-dough-dumplings",
     "title": "Light Flaky Slovakian Dough Dumplings",
     "tags": [
@@ -3077,6 +3092,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-kenyan-rice-noodles-crumble",
+    "title": "Lively Kenyan Rice Noodles Crumble",
+    "tags": [
+      "crumble",
+      "festive",
+      "gluten-free",
+      "rice-noodles",
+      "sweet",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
