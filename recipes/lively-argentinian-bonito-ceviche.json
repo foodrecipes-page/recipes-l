@@ -1,0 +1,111 @@
+{
+  "title": "Lively Argentinian Bonito Ceviche",
+  "description": "A resinous and light ceviche featuring shaved bonito, bright citrus, and aromatic spices served over a bed of fluffy vialone nano rice.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "no-dairy",
+    "no-gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bonito fillet",
+      "amount": "200g",
+      "notes": "fresh, thinly shaved"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cooked vialone nano rice",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Place the molcajete and grind the onion, ginger, and garlic until smooth.",
+    "Transfer the ground mixture to a bowl and add lime juice, soy sauce, vinegar, paprika, chili powder, cilantro, and salt, then stir to combine.",
+    "In a separate bowl, gently shred the 200g bonito fillet into thin strips and lay them over the citrus mixture, then let marinate for 5 minutes.",
+    "Meanwhile, scoop 50g of cooked vialone nano rice into individual serving bowls.",
+    "Spoon the marinated bonito mixture over the rice, ensuring an even layer.",
+    "Chill the ceviche in the refrigerator for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "buddhist-temple-friendly",
+    "festive",
+    "light",
+    "molcajete",
+    "rice-based",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 12,
+    "carbs": 7,
+    "fat": 2
+  },
+  "slug": "lively-argentinian-bonito-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-argentinian-bonito-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:21:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "vialone-nano",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "bonito",
+    "descriptor": "Lively",
+    "dishForm": "Ceviche"
+  }
+}
