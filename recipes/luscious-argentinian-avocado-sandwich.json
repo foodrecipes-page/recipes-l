@@ -1,0 +1,109 @@
+{
+  "title": "Luscious Argentinian Avocado Sandwich",
+  "description": "A garlicky, silky avocado sandwich on toasted rye, infused with Argentine cilantro lime mayo and topped with crunchy pumpkin seeds.",
+  "cuisine": "Argentine",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rye bread",
+      "amount": "4 slices",
+      "notes": "sliced"
+    },
+    {
+      "name": "ripe avocado",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the rye bread slices in a dry skillet over medium heat until golden brown, about 2 minutes per side.",
+    "In a bowl, mash the avocado with a fork until silky, then stir in minced garlic, lemon juice, sea salt, black pepper, and red pepper flakes.",
+    "Drizzle olive oil over the mashed avocado mixture and fold in chopped cilantro.",
+    "Spread the avocado mixture evenly onto the toasted rye slices.",
+    "Sprinkle pumpkin seeds over the avocado spread.",
+    "Place the remaining bread slice on top to form a sandwich.",
+    "Cut the sandwich into halves along the diagonal edge.",
+    "Serve immediately, optionally accompanied by a side of fresh fruit salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "satvik",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1210,
+    "protein": 27,
+    "carbs": 151,
+    "fat": 75
+  },
+  "slug": "luscious-argentinian-avocado-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-argentinian-avocado-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:45:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "rest",
+    "primaryIngredient": "rye bread",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Avocado",
+    "descriptor": "Luscious",
+    "dishForm": "Sandwich"
+  }
+}
