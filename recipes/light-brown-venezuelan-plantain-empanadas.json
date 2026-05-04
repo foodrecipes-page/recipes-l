@@ -1,0 +1,90 @@
+{
+  "title": "Light Brown Venezuelan Plantain Empanadas",
+  "description": "Buttery, dense, indulgent Venezuelan dish featuring light brown soft sugar, made with whole30-friendly ingredients and cooked on a wooden board.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4 large",
+      "notes": "ripe"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Peel the plantains and slice them into 1-inch rounds.",
+    "In a large bowl, mix together the sliced plantains, light brown sugar, and salt.",
+    "In a separate bowl, whisk together the eggs and coconut oil.",
+    "Add the almond flour to the egg mixture and stir until well combined.",
+    "Add the plantain mixture to the egg mixture and stir until a dough forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place on a wooden board.",
+    "Bake the empanadas for 20 minutes, or until lightly browned.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indulgent",
+    "south-american",
+    "vegan-friendly",
+    "whole30-friendly",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "light-brown-venezuelan-plantain-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-brown-venezuelan-plantain-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:00:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "light brown dense",
+    "dishForm": "Empanadas"
+  }
+}
