@@ -1,0 +1,98 @@
+{
+  "title": "Lightly Toasted Canadian Bun Ssam Wrap",
+  "description": "A herbal and energizing Canadian dish featuring a lightly toasted bun and ssam wrap, perfect for a quick and easy meal",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian bun",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Herbal butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a tava griddle over medium heat",
+    "Butter the Canadian buns lightly with herbal butter",
+    "Toast the buns on the tava griddle for 2 minutes on each side",
+    "Assemble the ssam wraps by spreading a layer of herbal butter on each wrap",
+    "Add a toasted bun to each ssam wrap",
+    "Top the bun with shredded lettuce, sliced tomato, and sliced cucumber",
+    "Sprinkle chopped parsley and dill on top of the vegetables",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "easy-meal",
+    "gluten-free",
+    "herbal-butter",
+    "quick-lunch",
+    "ssam-wrap",
+    "tava-griddle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "lightly-toasted-canadian-bun-ssam-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-toasted-canadian-bun-ssam-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:38:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "bun",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "bun",
+    "descriptor": "Lightly toasted",
+    "dishForm": "Wrap"
+  }
+}
