@@ -4622,6 +4622,20 @@
     "shard": "l"
   },
   {
+    "slug": "luscious-jammy-dutch-lotusroot-gratin",
+    "title": "Luscious Jammy Dutch Lotusroot Gratin",
+    "tags": [
+      "cheese-pull",
+      "meal-prep",
+      "one-pan",
+      "satvik-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "luscious-kenyan-asparagus-broth",
     "title": "Luscious Kenyan Asparagus Broth",
     "tags": [
@@ -5000,6 +5014,22 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 17,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-turkish-tofu-menemen",
+    "title": "Luscious Turkish Tofu Menemen",
+    "tags": [
+      "clay-pot",
+      "dairy-free",
+      "minicocotte",
+      "quick",
+      "tofu",
+      "turkish",
+      "vegan"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {

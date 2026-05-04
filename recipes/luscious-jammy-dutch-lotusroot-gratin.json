@@ -1,0 +1,105 @@
+{
+  "title": "Luscious Jammy Dutch Lotusroot Gratin",
+  "description": "A creamy, cheese-pull Dutch gratin with sweet lotusroot marinated in apricot jam, cooked to perfection in an iron teppan for a satvik-friendly lunch.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lotusroot (renkon)",
+      "amount": "400g",
+      "notes": "sliced 4mm"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "grated gouda",
+      "amount": "150g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "25g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/2tsp"
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "1tsp"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "3tbsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Preheat an iron teppan over medium-high heat.",
+    "In a saucepan melt butter and whisk in flour to make a roux.",
+    "Gradually pour in milk, stir until smooth, and season with salt, pepper, and thyme.",
+    "Fold in grated gouda, parmesan, and beaten egg until melted and glossy.",
+    "Arrange sliced lotusroot in the teppan and drizzle apricot jam over the layers.",
+    "Pour the cheese sauce over the lotusroot, spreading evenly.",
+    "Cook until the edges brown and the cheese pulls, about 15 minutes.",
+    "Add a handful of thyme on top and cover with a lid for 5 minutes to finish cooking.",
+    "Remove from heat, let rest 5 minutes before slicing.",
+    "Plate and serve warm, optionally accompanied by steamed greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "meal-prep",
+    "one-pan",
+    "satvik-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "luscious-jammy-dutch-lotusroot-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-jammy-dutch-lotusroot-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:41:10Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lotusroot",
+    "descriptor": "Luscious Jammy",
+    "dishForm": "Gratin"
+  }
+}

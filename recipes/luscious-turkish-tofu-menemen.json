@@ -1,0 +1,111 @@
+{
+  "title": "Luscious Turkish Tofu Menemen",
+  "description": "Herbal, silky, romantic vegan Turkish dish cooked in a clay pot with tofu and tomatoes.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "200g",
+      "notes": "crumble gently"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "3 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegan white wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot over medium heat and drizzle the olive oil.",
+    "Slice the onion, bell pepper, and tomatoes into small cubes.",
+    "Add the onion and pepper to the pot and sauté until translucent, about 4 minutes.",
+    "Stir in the minced garlic and cook for another minute until fragrant.",
+    "Pour in the diced tomatoes, add oregano, salt, and pepper, and simmer for 7 minutes until tomatoes soften.",
+    "Gently crumble the silken tofu into the pot, stir softly, and season with vinegar.",
+    "Reduce heat to low, cover, and let the mixture thicken for 5 minutes, stirring occasionally.",
+    "Taste and adjust seasoning with additional salt, pepper, or vinegar if needed.",
+    "Sprinkle the chopped parsley on top just before serving.",
+    "Serve each portion in its own mini cocotte, accompanied by crusty bread if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "clay-pot",
+    "dairy-free",
+    "minicocotte",
+    "quick",
+    "tofu",
+    "turkish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 14,
+    "carbs": 36,
+    "fat": 20
+  },
+  "slug": "luscious-turkish-tofu-menemen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-turkish-tofu-menemen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:40:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "tofu",
+    "descriptor": "Luscious",
+    "dishForm": "Menemen"
+  }
+}
