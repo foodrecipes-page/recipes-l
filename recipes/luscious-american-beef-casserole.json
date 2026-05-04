@@ -1,0 +1,116 @@
+{
+  "title": "Luscious American Beef Casserole",
+  "description": "A malty, flaky, festive American dish featuring savory beef gravy and a crisp breadcrumb topping, with a subtle flexitarian-friendly twist.",
+  "cuisine": "American",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck roast",
+      "amount": "2 lbs",
+      "notes": "cubed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Mixed carrots and celery",
+      "amount": "4 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add cubed beef to the skillet and sear until browned on all sides, about 5 minutes.",
+    "Remove beef and set aside.",
+    "In the same skillet, add diced onion and the sliced mixed carrots/celery; cook until softened, about 4 minutes.",
+    "Stir in minced garlic and cook for 30 seconds.",
+    "Return beef to the skillet, add tomato paste, Worcestershire sauce, soy sauce, and beef broth; stir to combine.",
+    "Bring mixture to a simmer, cover, and let simmer for 15 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish; spread evenly.",
+    "In a bowl, combine melted butter, breadcrumbs, and Parmesan cheese; sprinkle mixture over casserole.",
+    "Bake uncovered for 25 minutes, until the topping is golden and the casserole is heated through.",
+    "Let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-dish",
+    "beef",
+    "comfort-food",
+    "festive",
+    "flaky-topping",
+    "flexitarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 2380,
+    "protein": 120,
+    "carbs": 90,
+    "fat": 130
+  },
+  "slug": "luscious-american-beef-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-american-beef-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:28:04Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "beef gravy",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "Luscious",
+    "dishForm": "Casserole"
+  }
+}
