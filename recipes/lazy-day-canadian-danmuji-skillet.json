@@ -1,0 +1,103 @@
+{
+  "title": "Lazy Day Canadian Danmuji Skillet",
+  "description": "A rich and comforting Canadian dish featuring danmuji, perfect for a sick day, made in a cast-iron skillet and pressure-cooked for ease and speed.",
+  "cuisine": "Canadian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "danmuji",
+      "amount": "1 cup",
+      "notes": "Korean pickled radish"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tbsp",
+      "notes": "FODMAP-friendly substitute for garlic"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz can"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the garlic-infused oil in a large cast-iron skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the danmuji, beef broth, diced tomatoes, potato, salt, and black pepper to the skillet.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 20 minutes.",
+    "Use a pressure cooker to speed up the cooking process, if desired, cooking for an additional 10 minutes.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "fodmap-friendly",
+    "one-pan",
+    "pressure-cooker",
+    "skillet-meal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "lazy-day-canadian-danmuji-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-day-canadian-danmuji-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:23:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "danmuji",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "danmuji",
+    "descriptor": "lazy day",
+    "dishForm": "Skillet"
+  }
+}
