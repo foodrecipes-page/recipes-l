@@ -1,0 +1,102 @@
+{
+  "title": "Lemon Laced French Chicken Wings Confit",
+  "description": "Savory, crisp chicken wings cooked in a butter and olive oil confit, finished in a cataplana and chilled in an ice-bath for ultimate texture.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "1.2 kg"
+    },
+    {
+      "name": "salt",
+      "amount": "12 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "6 g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "200 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "50 ml"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "5 g"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "from 2 lemons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "60 ml"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "ice cubes",
+      "amount": "500 g"
+    }
+  ],
+  "instructions": [
+    "Pat the chicken wings dry with paper towels and season all sides with salt and pepper.",
+    "In a large skillet, melt the butter and heat the olive oil over medium heat until the mixture foams.",
+    "Add the thyme, bay leaves, minced garlic, and lemon zest, and sauté for 2 minutes to infuse the aromatics.",
+    "Carefully place the seasoned wings into the skillet, turning occasionally, until the edges are golden and the internal temperature reaches 165°F (74°C).",
+    "Remove the wings from the skillet and let them cool to room temperature, then transfer them into a container.",
+    "Fill the container with ice cubes and pour cold lemon juice over the wings, creating an ice-bath shock that firms the meat and enhances crispness.",
+    "Seal the container and refrigerate for at least 2 hours, preferably overnight, to allow flavors to develop.",
+    "Preheat a cataplana over medium-high heat and drizzle a small amount of olive oil.",
+    "Place the chilled wings into the cataplana and cook, turning once, until they are crusted and heated through, about 8 minutes.",
+    "Serve immediately, garnished with additional lemon zest and a drizzle of olive oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana",
+    "confit",
+    "ice-bath",
+    "lemon-laced",
+    "monsoon-french",
+    "savory-crisp"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 2,
+    "fat": 15
+  },
+  "slug": "lemon-laced-french-chicken-wings-confit",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-laced-french-chicken-wings-confit",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:57:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "chicken wings",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Chicken Wings",
+    "descriptor": "Lemon Laced",
+    "dishForm": "Confit"
+  }
+}
