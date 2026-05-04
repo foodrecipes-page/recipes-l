@@ -1,0 +1,108 @@
+{
+  "title": "Lively Crisp Lebanese Chickpeas Ouzi",
+  "description": "A peppery, dairy‑free‑friendly chickpea dish with crisp puff pastry and a zesty Tabasco kick, perfect for a crowd‑pleasing Middle Eastern meal.",
+  "cuisine": "Lebanese",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "400 g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium (60 g)"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2 cloves (6 g)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp (5 ml)"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp (5 ml)"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 tsp (2.5 ml)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "Tabasco sauce",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "vegan puff pastry sheet",
+      "amount": "1 sheet (100 g)"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp (15 ml)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "Heat olive oil in a skillet over medium heat and sauté the onion until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 30 seconds until fragrant.",
+    "Stir in the chickpeas, smoked paprika, cumin, coriander, and sumac, cooking until the spices are evenly distributed, about 3 minutes.",
+    "Pour in the Tabasco sauce and lemon juice, season with salt and pepper, and simmer the mixture for 2 minutes before removing from heat.",
+    "Layer the puff pastry sheet on a parchment‑lined baking sheet and spread the chickpea mixture evenly over it, then fold the edges inward and roll the pastry loosely.",
+    "Bake in the preheated oven for 15 minutes until the pastry is puffed and golden brown.",
+    "Let the ouzi cool for 5 minutes, then sprinkle chopped parsley on top before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "crisp",
+    "dairy-free",
+    "puff-pastry",
+    "quick",
+    "tabasco",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1040,
+    "protein": 19,
+    "carbs": 86,
+    "fat": 64
+  },
+  "slug": "lively-crisp-lebanese-chickpeas-ouzi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-crisp-lebanese-chickpeas-ouzi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:13:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Lebanese",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Lively Crisp",
+    "dishForm": "Ouzi"
+  }
+}
