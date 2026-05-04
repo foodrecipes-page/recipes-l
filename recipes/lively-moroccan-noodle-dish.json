@@ -1,0 +1,113 @@
+{
+  "title": "lively moroccan noodle dish",
+  "description": "a tangy, bouncy lacto-vegetarian-friendly moroccan noodle dish perfect for post-workout meals. made with noodles, yuzu-cure, and a variety of spices.",
+  "cuisine": "morooccan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "buckwheat noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "yuzu-cure",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    }
+  ],
+  "instructions": [
+    "cook buckwheat noodles according to package instructions. drain and set aside.",
+    "heat olive oil in a large skillet over medium heat. add onion, garlic, and ginger. cook until the onion is translucent, about 3 minutes.",
+    "add yuzu-cure, cumin, coriander, smoked paprika, salt, and pepper to the skillet. stir to combine.",
+    "add cooked noodles to the skillet and stir to combine with the spice mixture.",
+    "garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "lively-moroccan-noodle-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-moroccan-noodle-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "noodles",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "noodles",
+    "descriptor": "lacto-vegetarian-friendly",
+    "dishForm": null
+  }
+}
