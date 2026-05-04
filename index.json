@@ -2176,6 +2176,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-mediterranean-sevaiiya-pilaf",
+    "title": "light mediterranean sevaiiya pilaf",
+    "tags": [
+      "easy-lunch",
+      "gluten-free",
+      "low-calorie",
+      "mediterranean",
+      "pastafree",
+      "quick-dinner"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "light-middle-eastern-chickpeas-hummus-fold",
     "title": "Light Middle-Eastern Chickpeas Hummus Fold",
     "tags": [
@@ -2944,6 +2959,20 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
+    "slug": "light-warming-russian-eggs-bake",
+    "title": "Light Warming Russian Eggs Bake",
+    "tags": [
+      "breakfast",
+      "one-pan",
+      "rusian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -4614,6 +4643,22 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 32,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-springy-dutch-celeriac-gratin",
+    "title": "Lovely Springy Dutch Celeriac Gratin",
+    "tags": [
+      "celeriac",
+      "dairy-free",
+      "dutch",
+      "gluten-free",
+      "gratin",
+      "spring",
+      "vegan"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 75,
     "shard": "l"
   },
   {

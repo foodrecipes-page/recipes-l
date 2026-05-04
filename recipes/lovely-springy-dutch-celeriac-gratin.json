@@ -1,0 +1,74 @@
+{
+  "title": "Lovely Springy Dutch Celeriac Gratin",
+  "description": "A winey, springy, adventurous Dutch dish featuring celeriac and lardons. This vegan-friendly gratin is perfect for a weeknight dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "750g",
+      "notes": ""
+    },
+    {
+      "name": "Lardons",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "dairy-free",
+    "dutch",
+    "gluten-free",
+    "gratin",
+    "spring",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "lovely-springy-dutch-celeriac-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-springy-dutch-celeriac-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "lardons-render",
+    "primaryIngredient": "celeriac",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "celeriac",
+    "descriptor": "lovely springy",
+    "dishForm": "Gratin"
+  }
+}

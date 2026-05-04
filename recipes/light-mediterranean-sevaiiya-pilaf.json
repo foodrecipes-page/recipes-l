@@ -1,0 +1,105 @@
+{
+  "title": "light mediterranean sevaiiya pilaf",
+  "description": "a light mediterranean dish featuring sevaiiya, bonito flakes, and a hint of mustard. perfect for a quick weeknight dinner or lunch.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sevaiiya (rice noodles)",
+      "amount": "250g",
+      "notes": "look for brown rice noodles for a nuttier flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 teaspoons",
+      "notes": "can be found in most asian grocery stores or online"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "grated romano cheese",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of olive oil in a medium saucepan over medium heat",
+    "add the garlic and cook for 1 minute, until fragrant",
+    "add the bonito flakes and cook for 1-2 minutes, until they start to smell like the sea",
+    "add the sevaiiya noodles and cook for 2-3 minutes, until they are slightly browned",
+    "add the lemon juice, mustard, salt, and pepper, and stir to combine",
+    "cook for an additional 2-3 minutes, until the noodles are coated in the sauce",
+    "transfer the pilaf to a serving dish and top with chopped parsley and grated romano cheese (if using)"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-lunch",
+    "gluten-free",
+    "low-calorie",
+    "mediterranean",
+    "pastafree",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "light-mediterranean-sevaiiya-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mediterranean-sevaiiya-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sevaiiya",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "light",
+    "dishForm": "pilaf"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Light Warming Russian Eggs Bake",
+  "description": "A buttery, light, and festive Russian dish featuring Jamaican curry powder, perfect for breakfast or brunch. It's an egg-free-friendly option that's easy to make and pleasing to the senses.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "80g",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2g",
+      "notes": "adds a unique flavor dimension"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5g",
+      "notes": ""
+    },
+    {
+      "name": "large mushrooms",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "frozen diced bell peppers",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "large onion",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 degrees Celsius (350 degrees Fahrenheit).",
+    "Butter a 20x20 cm baking dish and set aside.",
+    "Melt butter in a saucepan over medium heat, then add curry powder and cook for 1 minute, stirring constantly.",
+    "In a separate bowl, whisk together flour and milk until smooth, then add grated cheese, sour cream, salt, and black pepper. Stir until combined.",
+    "Add cooked mushrooms, chopped dill, diced bell peppers, and grated zucchini to the saucepan with curry powder and butter. Cook for 2-3 minutes, until vegetables are slightly tender.",
+    "Transfer the saucepan mixture to the prepared baking dish and pour the flour-milk-cheese mixture over it.",
+    "Bake in the preheated oven for 25 minutes, or until the top is golden brown and the eggs bake are set.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Sprinkle with additional grated cheese, if desired.",
+    "Serve warm, garnished with additional fresh dill, if desired.",
+    "Store leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "one-pan",
+    "rusian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 19
+  },
+  "slug": "light-warming-russian-eggs-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-warming-russian-eggs-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "eggs",
+    "descriptor": "Light Warming",
+    "dishForm": "Bake"
+  }
+}
