@@ -1,0 +1,99 @@
+{
+  "title": "Light and Buttery Egyptian Rice Koshari",
+  "description": "A simple, comforting Egyptian dish made with rice, lentils, and a blend of aromatic spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red lentils, rinsed and drained",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils in a fine mesh sieve until the water runs clear.",
+    "In a 3-quart ttukbaegi earthenware pot, combine the water, lentils, cumin, coriander, allspice, and salt.",
+    "Bring to a boil over high heat, then reduce the heat to low and simmer for 20 minutes.",
+    "While the lentils cook, heat 2 tablespoons of butter in a medium saucepan over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add the rice to the saucepan and cook, stirring constantly, for 1-2 minutes.",
+    "Add 4 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the water has been absorbed and the rice is tender.",
+    "Fluff the rice with a fork and stir in the remaining 2 tablespoons of butter.",
+    "To serve, place a scoop of the rice mixture on a plate, followed by a spoonful of the cooked lentils.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "lentil-based",
+    "one-pan",
+    "rice-bowl",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "light-and-buttery-egyptian-rice-koshari",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-and-buttery-egyptian-rice-koshari",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:19:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "ground allspice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "rice",
+    "descriptor": "Light and Buttery",
+    "dishForm": "Koshari"
+  }
+}

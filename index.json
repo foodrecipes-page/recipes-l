@@ -753,6 +753,22 @@
     "shard": "l"
   },
   {
+    "slug": "light-and-buttery-egyptian-rice-koshari",
+    "title": "Light and Buttery Egyptian Rice Koshari",
+    "tags": [
+      "comfort-food",
+      "high-fiber",
+      "lentil-based",
+      "one-pan",
+      "rice-bowl",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
     "slug": "light-and-kneaded-argentinian-chicken-broth",
     "title": "Argentinian Chicken Broth",
     "tags": [
@@ -1188,6 +1204,21 @@
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "light-indian-baby-new-potatoes-gulab-jamun",
+    "title": "Light Indian Baby New Potatoes Gulab Jamun",
+    "tags": [
+      "herbal",
+      "indian-cuisine",
+      "quick-fix",
+      "snack",
+      "vegetarian",
+      "whole30-friendly"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
