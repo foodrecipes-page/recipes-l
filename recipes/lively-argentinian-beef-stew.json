@@ -1,0 +1,132 @@
+{
+  "title": "Lively Argentinian Beef Stew",
+  "description": "A fragrant, low-carb stew infused with ghee and a classic mirepoix base.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.5 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "oregano dried",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pot over medium-high heat until shimmering.",
+    "Add the beef cubes and sear each side until browned, about 3 minutes per side.",
+    "Remove the beef and set aside, then lower the heat to medium to reduce grease if necessary.",
+    "Add the diced onion, carrot, and celery to the pot and cook for 5 minutes until softened.",
+    "Stir in the minced garlic, oregano, paprika, cumin, and bay leaf, cooking for 1 minute until fragrant.",
+    "Pour in the red wine to deglaze, scraping up brown bits, and let it reduce by half, about 3 minutes.",
+    "Return the beef to the pot along with tomato paste, beef broth, salt, and pepper.",
+    "Bring the mixture to a gentle simmer, cover, and cook on low heat for 65 minutes until the beef is tender.",
+    "Uncover, stir, and continue to simmer for another 10 minutes to thicken the sauce.",
+    "Garnish with chopped parsley before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentine",
+    "beef",
+    "ghee",
+    "low-carb",
+    "one-pot",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "lively-argentinian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-argentinian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:30:05Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "ghee",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Beef",
+    "descriptor": "Lively",
+    "dishForm": "Stew"
+  }
+}
