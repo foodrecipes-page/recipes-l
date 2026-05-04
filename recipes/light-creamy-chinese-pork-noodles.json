@@ -1,0 +1,105 @@
+{
+  "title": "Light Creamy Chinese Pork Noodles",
+  "description": "A grassy and creamy Chinese dish featuring pork, noodles, and a variety of spices, this crowd-pleaser is a staple of Shandong cuisine, with a focus on salt, score-fat, and low-sodium ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to the package instructions.",
+    "In a small bowl, whisk together the soy sauce, oyster sauce, and sesame oil.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the pork to the skillet and cook until browned, about 5 minutes.",
+    "Add the ginger and garlic to the skillet and cook for 1 minute.",
+    "Pour the soy sauce mixture into the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the pork and sauce.",
+    "Season with salt to taste.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "low-sodium",
+    "noodle-dishes",
+    "one-pan",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "light-creamy-chinese-pork-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-creamy-chinese-pork-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:10:38Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "salt",
+    "diet": "low-sodium",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "light creamy",
+    "dishForm": "Noodles"
+  }
+}
