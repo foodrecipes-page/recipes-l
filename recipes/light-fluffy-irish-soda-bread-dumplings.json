@@ -1,0 +1,98 @@
+{
+  "title": "Light Fluffy Irish Soda Bread Dumplings",
+  "description": "Moist, pillowy, and aromatic Irish dumplings made with plain flour and a hint of whole wheat.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Plain flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "50g",
+      "notes": "Whole wheat adds nutty flavor and extra nutrition"
+    },
+    {
+      "name": "Butter, softened",
+      "amount": "50g"
+    },
+    {
+      "name": "Milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Steaming liquid (water or broth)",
+      "amount": "250ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer basket over boiling water.",
+    "In a large mixing bowl, whisk together flours, baking powder, and salt.",
+    "Add softened butter, broken into small pieces, and use a pastry blender or fingers to work it into the flour mixture until it resembles coarse breadcrumbs.",
+    "In a separate bowl, whisk together milk, egg, and sugar.",
+    "Pour the wet ingredients into the dry ingredients and mix until a shaggy dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Place the dumplings in the steamer basket, leaving about 1 inch of space between each.",
+    "Steam the dumplings for 12-15 minutes, or until cooked through and fluffy.",
+    "Serve hot with your favorite soup or stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread-dumplings",
+    "comfort-food",
+    "high-fiber",
+    "irish-dish",
+    "one-pan",
+    "steamed-dumplings"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "light-fluffy-irish-soda-bread-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fluffy-irish-soda-bread-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:12:05Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "plain flour",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "soda bread",
+    "descriptor": "light fluffy",
+    "dishForm": null
+  }
+}
