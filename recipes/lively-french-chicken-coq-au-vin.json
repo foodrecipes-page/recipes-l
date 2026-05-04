@@ -1,0 +1,107 @@
+{
+  "title": "Lively French Chicken Coq Au Vin",
+  "description": "A buttery, snappy crowd-pleaser that blends classic coq au vin with a low-carb twist, accented by a subtle cream of tartar thickener and a crusty long-fermentation bread.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "800g"
+    },
+    {
+      "name": "Bacon",
+      "amount": "200g"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Butter",
+      "amount": "30g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Red wine",
+      "amount": "480ml"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "240ml"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "5g"
+    },
+    {
+      "name": "Long-fermentation dough",
+      "amount": "200g"
+    },
+    {
+      "name": "Cream of tartar",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C for the crusty bread.",
+    "In a large pot, melt 30g butter with 30ml olive oil over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and diced bacon, browning the bacon until crisp.",
+    "Add chicken thighs, brown all sides until golden.",
+    "Pour in 480ml red wine, bring to a simmer and deglaze the pan.",
+    "Add 200g sliced mushrooms, 240ml chicken stock, and 5g salt & pepper; simmer uncovered for 20 minutes.",
+    "Stir in 2g cream of tartar, letting the sauce reduce and thicken for an additional 10 minutes.",
+    "While the sauce simmers, place a 200g long-fermentation dough on parchment, brush with olive oil, bake for 15 minutes until golden, and serve the chicken topped with sauce alongside the warm bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "coq-au-vin",
+    "crowd-pleaser",
+    "french",
+    "low-carb",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 909,
+    "protein": 47,
+    "carbs": 20,
+    "fat": 52
+  },
+  "slug": "lively-french-chicken-coq-au-vin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-french-chicken-coq-au-vin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:00:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cream of tartar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Lively",
+    "dishForm": "Coq Au Vin"
+  }
+}
