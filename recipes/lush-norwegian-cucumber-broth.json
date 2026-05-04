@@ -1,0 +1,94 @@
+{
+  "title": "Lush Norwegian Cucumber Broth",
+  "description": "A silky, grassy broth made with Persian cucumber, herbs, and a cauldron cook, perfect for a macrobiotic-friendly one-pot meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "4 medium, sliced",
+      "notes": "thinly sliced for glazing"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Water",
+      "amount": "1.5 liters"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the cauldron over medium heat and add the water.",
+    "Add the diced carrot, celery, and thinly sliced onion to the water and bring to a gentle simmer.",
+    "Stir in the sea salt and let the vegetables cook for 10 minutes until they start to soften.",
+    "Add the sliced Persian cucumbers and let the broth simmer for another 8 minutes, allowing the cucumber to release a natural gelatinous texture.",
+    "Remove the cauldron from heat and stir in the chopped dill and fresh lemon juice.",
+    "Taste and adjust seasoning with additional salt or lemon juice if desired.",
+    "Let the broth rest for 5 minutes to develop a deeper grassy flavor.",
+    "Serve the broth hot in individual bowls, spooning a few cucumber slices into each.",
+    "Optionally garnish with a sprig of dill or a dash of sea salt.",
+    "Enjoy the light, glassy-jelly broth as a soothing, macrobiotic-friendly lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glass-jelly",
+    "grassy",
+    "macrobiotic-friendly",
+    "norwegian",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "lush-norwegian-cucumber-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-norwegian-cucumber-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:07:45Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "persian cucumber",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Lush",
+    "dishForm": "Broth"
+  }
+}
