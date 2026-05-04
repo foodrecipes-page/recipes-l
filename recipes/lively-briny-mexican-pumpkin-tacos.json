@@ -1,0 +1,111 @@
+{
+  "title": "Lively Briny Mexican Pumpkin Tacos",
+  "description": "A vibrant and energizing Mexican dish featuring roasted poblano peppers, crunchy pumpkin seeds, and a zesty briny marinade.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Poblano Peppers",
+      "amount": "4"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Queso Fresco",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 corn tortillas"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the poblano peppers with 2 tbsp of oil, salt, and pepper on a baking sheet and roast for 20-25 minutes or until the skin is blistered and charred.",
+    "While the peppers are roasting, heat 1 tbsp of oil in a skillet over medium-high heat.",
+    "Add the red onion and cook for 5-7 minutes or until softened, stirring occasionally.",
+    "Add the pumpkin seeds to the skillet and cook for an additional 2-3 minutes or until toasted and fragrant.",
+    "Remove the peppers from the oven and let them cool in a bowl covered with plastic wrap.",
+    "Once cool enough to handle, peel off the skin, remove the seeds, and chop the flesh.",
+    "In a blender or food processor, combine the chopped peppers, chili powder, cumin, garlic powder, salt, and coriander. Blend until smooth.",
+    "Heat the lime juice in a skillet over low heat.",
+    "Add the blended pepper mixture to the skillet and stir to combine.",
+    "Add the cooked onion and pumpkin seeds to the skillet and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the pepper mixture onto a tortilla, topping with queso fresco, and garnishing with fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fall-recipe",
+    "gluten-free",
+    "high-protein",
+    "mexican-cuisine",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lively-briny-mexican-pumpkin-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-briny-mexican-pumpkin-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:57:54Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "pumpkin",
+    "diet": "dash",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Lively Briny",
+    "dishForm": "Tacos"
+  }
+}
