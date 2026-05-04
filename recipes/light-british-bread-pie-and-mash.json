@@ -1,0 +1,116 @@
+{
+  "title": "Light British Bread Pie And Mash",
+  "description": "A vegan, wholegrain bread pie with herb‑infused sautéed vegetables and creamy mashed potato filling, slow‑cooked to a golden, gooey finish.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wholegrain loaf bread",
+      "amount": "500g",
+      "notes": "cut into 4x4 cm squares"
+    },
+    {
+      "name": "potatoes",
+      "amount": "300g",
+      "notes": "peeled, cubed, boiled until tender"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "plant milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "herbs",
+      "amount": "1 tsp each",
+      "notes": "thyme, rosemary, sage"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegan cheese (optional)",
+      "amount": "2 tbsp",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 150°C (300°F).",
+    "Boil potatoes until tender, then mash with vegan butter, plant milk, salt and pepper.",
+    "Heat olive oil in a skillet over medium heat and sauté onion, garlic and mushrooms until soft.",
+    "Add spinach to the skillet, cook until wilted, then stir in herbs and season with salt and pepper.",
+    "Layer bread squares on the bottom of a greased baking dish and spread the sautéed vegetable mixture evenly over them.",
+    "Evenly spread the mashed potato mixture over the vegetables, smoothing the surface.",
+    "Optional: sprinkle vegan cheese over the top.",
+    "Cover the dish tightly with foil and bake for 45 minutes.",
+    "Remove foil and bake for an additional 15 minutes until the top is golden.",
+    "Let the pie rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-dinner",
+    "comfort-food",
+    "slow-cook",
+    "vegan",
+    "wholegrain"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 9,
+    "carbs": 82,
+    "fat": 8
+  },
+  "slug": "light-british-bread-pie-and-mash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-british-bread-pie-and-mash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:36:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "vegan",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Bread",
+    "descriptor": "Light",
+    "dishForm": "Pie And Mash"
+  }
+}
