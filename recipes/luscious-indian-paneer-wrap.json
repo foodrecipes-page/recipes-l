@@ -1,0 +1,115 @@
+{
+  "title": "Luscious Indian Paneer Wrap",
+  "description": "Creamy paneer filling wrapped in blanched corn husks, seasoned with turmeric and herbs for a pillowy, anti‑inflammatory weeknight treat.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "200g"
+    },
+    {
+      "name": "low-fat Greek yogurt",
+      "amount": "100g"
+    },
+    {
+      "name": "light heavy cream",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "toasted cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "corn husks",
+      "amount": "8 pieces soaked 30 min"
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a dry skillet to medium heat.",
+    "Combine paneer, yogurt, cream, ginger‑garlic paste, cumin, coriander, turmeric, chili powder, salt, and lemon juice in a bowl and whisk until smooth.",
+    "Let the mixture sit for 10 minutes to meld flavors.",
+    "Heat a nonstick pan, add a light spray of oil, and cook the paneer mixture for 4 minutes, stirring, until lightly golden.",
+    "Blanch corn husks by boiling for 30 seconds, then drain and pat dry.",
+    "Place a husk flat, spread 1–2 tbsp of paneer filling, top with cilantro, mint, cucumber, and a dollop of coconut milk.",
+    "Roll the husk tightly into a wrap, sealing the edges with a dab of yogurt.",
+    "Lay the wrap seam‑side down on the hot skillet and cook 2 minutes per side until the husk is crisp and golden.",
+    "Serve hot with a side of mint yogurt dip."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "corn-husk-wrap",
+    "low-fat",
+    "quick-veg",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 31,
+    "carbs": 11,
+    "fat": 28
+  },
+  "slug": "luscious-indian-paneer-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-indian-paneer-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:10:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "cream",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Paneer",
+    "descriptor": "Luscious",
+    "dishForm": "Wrap"
+  }
+}
