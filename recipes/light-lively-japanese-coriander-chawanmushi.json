@@ -1,0 +1,107 @@
+{
+  "title": "Light Lively Japanese Coriander Chawanmushi",
+  "description": "A bright, airy steamed custard enriched with fresh coriander and a subtle salt kick, finished with an ice-bath chill for a refreshing bite.",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg yolks",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "250 ml",
+      "notes": "warm"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "15 ml",
+      "notes": "light"
+    },
+    {
+      "name": "mirin",
+      "amount": "15 ml",
+      "notes": "sweet"
+    },
+    {
+      "name": "water",
+      "amount": "30 ml",
+      "notes": "cold"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "30 g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "20 g",
+      "notes": "optional"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 stalk",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Whisk the egg yolks and vegetable stock together until smooth.",
+    "Add soy sauce, mirin, water, and salt; stir until dissolved.",
+    "Fold in chopped coriander, carrot, and green onion.",
+    "Strain the mixture through a fine sieve into heat‑proof ramekins.",
+    "Cover the ramekins with foil and steam over simmering water for 10 minutes.",
+    "Remove the ramekins and place them in a bowl of ice water to chill for 5 minutes.",
+    "Drain and dust with sesame seeds before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "fresh",
+    "kitchen-plant-based",
+    "light",
+    "quick",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 12,
+    "carbs": 7,
+    "fat": 13
+  },
+  "slug": "light-lively-japanese-coriander-chawanmushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-lively-japanese-coriander-chawanmushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:17:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "coriander",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Coriander",
+    "descriptor": "Light Lively",
+    "dishForm": "Chawanmushi"
+  }
+}
