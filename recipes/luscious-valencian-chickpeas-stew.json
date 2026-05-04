@@ -1,0 +1,106 @@
+{
+  "title": "Luscious Valencian Chickpeas Stew",
+  "description": "A savory, juicy chickpea stew with Valencian flair, finished with a scoop of orange ice cream for a sweet contrast.",
+  "cuisine": "Spanish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "400 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 liter"
+    },
+    {
+      "name": "smoked tempeh",
+      "amount": "200 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "potatoes",
+      "amount": "200 g"
+    },
+    {
+      "name": "orange ice cream",
+      "amount": "2 scoops"
+    }
+  ],
+  "instructions": [
+    "Rinse chickpeas and soak overnight in water.",
+    "In a tagine or Dutch oven, heat olive oil over medium heat and sauté onion, garlic, and carrot until softened.",
+    "Add smoked tempeh, paprika, and cumin to the pot and stir for 2 minutes.",
+    "Pour in vegetable broth, diced tomatoes, bay leaf, and bring to a boil.",
+    "Add chickpeas and potatoes, reduce heat, cover, and simmer for 45 minutes until chickpeas are tender.",
+    "Stir occasionally, season with salt and pepper to taste, and adjust consistency with water if needed.",
+    "Ladle stew into bowls, garnish with fresh parsley, and serve hot.",
+    "Offer a scoop of orange ice cream on the side for a sweet contrast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chickpeas",
+    "dessert-twist",
+    "flexitarian",
+    "spanish",
+    "tagine-cook",
+    "valencia"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 21,
+    "carbs": 52,
+    "fat": 11
+  },
+  "slug": "luscious-valencian-chickpeas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-valencian-chickpeas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:26:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "ice cream",
+    "diet": "flexitarian",
+    "region": "valencian",
+    "cuisineAdjective": "Valencian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Luscious",
+    "dishForm": "Stew"
+  }
+}
