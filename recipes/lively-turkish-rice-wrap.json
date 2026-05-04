@@ -1,0 +1,109 @@
+{
+  "title": "Lively Turkish Rice Wrap",
+  "description": "A savory, kid-friendly Turkish wrap filled with aromatic rice, veggies, and lentils. Served in a soft corn husk, it offers a crunchy yet tender bite.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "1 cup",
+      "notes": "rinse and drain"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "corn husks",
+      "amount": "6",
+      "notes": "soak in warm water for 10 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until water runs clear.",
+    "Heat ghee in a saucepan over medium heat and add cumin, paprika, and coriander, cooking until fragrant.",
+    "Add chopped onions and carrots, sauté until softened.",
+    "Stir in rice, vegetable broth, and salt, bring to a boil then reduce heat, cover, and simmer for 18 minutes.",
+    "Fold in spinach, diced tomatoes, and cooked lentils, cover and cook for an additional 5 minutes until rice is tender.",
+    "While rice cooks, soak corn husks in warm water for 10 minutes to soften.",
+    "Remove the rice from heat, fluff with a fork, and let cool slightly.",
+    "Lay a corn husk flat, place a spoonful of rice mixture in the center, fold the sides, and roll tightly into a wrap.",
+    "Heat a nonstick pan over medium heat and lightly oil, then place each wrap seam side down and cook until golden brown, about 2 minutes per side.",
+    "Slice each wrap in half and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "quick",
+    "savory",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "lively-turkish-rice-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-turkish-rice-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:18:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "ghee",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "rice",
+    "descriptor": "Lively",
+    "dishForm": "Wrap"
+  }
+}
