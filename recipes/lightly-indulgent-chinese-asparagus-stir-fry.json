@@ -1,0 +1,98 @@
+{
+  "title": "Lightly Indulgent Chinese Asparagus Stir Fry",
+  "description": "A yeasty and springy Chinese dish featuring white asparagus, this stir fry is a delicious and indulgent treat. It is a jain friendly dish that is perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 pound",
+      "notes": "katsuramuki cut"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium high heat.",
+    "Add the garlic and ginger and stir fry for 1 minute.",
+    "Add the asparagus and stir fry for 3-4 minutes or until tender.",
+    "In a small bowl whisk together the soy sauce, rice vinegar, and sesame oil.",
+    "Pour the sauce over the asparagus and stir fry for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with sesame seeds and chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indulgent",
+    "jain",
+    "one-pan",
+    "stir-fry",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "lightly-indulgent-chinese-asparagus-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-indulgent-chinese-asparagus-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:11:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "white asparagus",
+    "diet": "jain",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "asparagus",
+    "descriptor": "Lightly Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}

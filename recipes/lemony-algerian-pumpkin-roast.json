@@ -1,0 +1,112 @@
+{
+  "title": "Lemony Algerian Pumpkin Roast",
+  "description": "A comforting roasted pumpkin dish infused with makrut lime leaves and cumin, finished with a touch of honey and lemon for a bright, anti‑inflammatory finish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "800g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Makrut lime leaves",
+      "amount": "5",
+      "notes": "torn"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Toss pumpkin cubes with olive oil, minced garlic, cumin, coriander, turmeric, salt, and pepper.",
+    "Spread pumpkin in a single layer on a baking sheet.",
+    "Roast for 30 minutes, stirring halfway through.",
+    "While roasting, combine water, torn lime leaves, lemon juice, and honey in a small pot.",
+    "Bring the mixture to a gentle simmer and reduce for 5 minutes.",
+    "Remove pumpkin from oven and drizzle the lime‑honey reduction over it.",
+    "Return to oven and roast for an additional 10 minutes.",
+    "Let the pumpkin rest for 5 minutes before serving.",
+    "Garnish with extra torn lime leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "pumpkin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "lemony-algerian-pumpkin-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-algerian-pumpkin-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:11:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Pumpkin",
+    "descriptor": "Lemony",
+    "dishForm": "Roast"
+  }
+}

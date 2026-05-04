@@ -954,6 +954,21 @@
     "shard": "l"
   },
   {
+    "slug": "lemony-algerian-pumpkin-roast",
+    "title": "Lemony Algerian Pumpkin Roast",
+    "tags": [
+      "anti-inflammatory",
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "pumpkin",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
     "slug": "lemony-cheesy-malaysian-paneer-curry",
     "title": "Lemony Cheesy Malaysian Paneer Curry",
     "tags": [
@@ -3002,6 +3017,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-indulgent-chinese-asparagus-stir-fry",
+    "title": "Lightly Indulgent Chinese Asparagus Stir Fry",
+    "tags": [
+      "indulgent",
+      "jain",
+      "one-pan",
+      "stir-fry",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
