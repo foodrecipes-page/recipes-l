@@ -1,0 +1,108 @@
+{
+  "title": "Lively Light Polish Cabbage Salad",
+  "description": "A spicy, shattering salad that blends crisp cabbage with a touch of sweetness and savory bonito flakes for a light Polish-inspired lunch.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red cabbage",
+      "amount": "400g"
+    },
+    {
+      "name": "Carrot",
+      "amount": "50g",
+      "notes": "julienned"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "30g",
+      "notes": "thin slices"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "20g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Papelon",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine the sliced cabbage, julienned carrot, and bell pepper.",
+    "Add the chopped cilantro and sliced green onions to the bowl.",
+    "Sprinkle the papelon, chili flakes, salt, and pepper over the vegetables.",
+    "Pour lime juice and olive oil over the mixture and toss until evenly coated.",
+    "Gently fold in the bonito flakes, allowing them to shatter and release aroma.",
+    "Taste and adjust seasoning with more salt, pepper, or lime if desired.",
+    "Let the salad rest for 5 minutes to allow flavors to meld.",
+    "Serve chilled or at room temperature as a light, spicy Polish-inspired lunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "pescatarian",
+    "polish",
+    "quick",
+    "salad",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "lively-light-polish-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-light-polish-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:51:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "bonito-shave",
+    "primaryIngredient": "papelon",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cabbage",
+    "descriptor": "Lively Light",
+    "dishForm": "Salad"
+  }
+}
