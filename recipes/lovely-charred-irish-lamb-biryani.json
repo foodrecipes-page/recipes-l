@@ -1,0 +1,104 @@
+{
+  "title": "Lovely Charred Irish Lamb Biryani",
+  "description": "A charred, crumbly, crowd-pleaser Irish dish featuring biryani masala, cooked in individual mini cocottes, with anti-inflammatory friendly ingredients. This recipe combines the flavors of Ireland and India in a unique and delicious way.",
+  "cuisine": "Irish-Indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "biryani masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ttukbaegi earthenware cook oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the ttukbaegi earthenware cook oil in a large skillet over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger to the skillet and cook until the onion is translucent.",
+    "Stir in the biryani masala, turmeric, salt, and black pepper.",
+    "Add the basmati rice to the skillet and stir to combine with the lamb and spice mixture.",
+    "Transfer the mixture to individual mini cocottes.",
+    "Cover the cocottes with lids and bake for 25 minutes.",
+    "Remove the lids and bake for an additional 10 minutes, or until the top is lightly charred."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dairy-free",
+    "gluten-free",
+    "irish-indian",
+    "lamb-recipes",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "lovely-charred-irish-lamb-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-charred-irish-lamb-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:16:47Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "biryani masala",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Lovely charred",
+    "dishForm": "Biryani"
+  }
+}
