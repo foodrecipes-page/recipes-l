@@ -1,0 +1,106 @@
+{
+  "title": "Light & Crispy Korean Sushi Fried-Rice",
+  "description": "A light and crispy Korean-inspired dish made with sushi rice, vegetables, and a touch of sesame oil.",
+  "cuisine": "Korean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "preferably sesame oil"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a ttukbaegi or large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1 minute, until fragrant.",
+    "Add the grated carrot and diced zucchini and bell pepper. Cook for 3-4 minutes, until the vegetables are tender.",
+    "Add the Korean chili flakes, if using, and cook for another minute.",
+    "Add the sushi rice to the pan and stir to combine with the vegetables and garlic.",
+    "Add the soy sauce, rice vinegar, and sesame oil to the pan and stir-fry until the rice is well coated.",
+    "Transfer the rice mixture to a plate or a serving platter.",
+    "Drizzle with additional sesame oil, if desired, and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "korean-cuisine",
+    "lacto-vegetarian",
+    "one-pan",
+    "rice-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 55,
+    "fat": 11
+  },
+  "slug": "light-crispy-korean-sushi-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-crispy-korean-sushi-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T15:22:48Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "sushi rice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sushi",
+    "descriptor": "Light & Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
