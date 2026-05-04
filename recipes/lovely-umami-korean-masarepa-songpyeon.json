@@ -1,0 +1,95 @@
+{
+  "title": "Lovely Umami Korean Masarepa Songpyeon",
+  "description": "A traditional Korean Jeju dish with a Mediterranean twist, featuring crispy masarepa songpyeon filled with umami flavors, perfect for a brunch mood. The combination of wok-hei and white masarepa creates a shattering texture and savory taste.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white masarepa",
+      "amount": "2 cups",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or wok over medium-high heat.",
+    "In a large bowl, mix together the white masarepa, korean chili flakes, grated parmesan cheese, chopped scallions, and salt.",
+    "Gradually add the sesame oil, soy sauce, and rice vinegar to the bowl, stirring until the mixture forms a dough.",
+    "Knead the dough for about 5 minutes until it becomes pliable and smooth.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Flatten each ball into a disk shape, using a rolling pin or your hands.",
+    "Heat about 1-2 inches of sesame oil in the preheated skillet or wok over medium-high heat.",
+    "When the oil is hot, add a few of the songpyeon disks to the skillet, being careful not to overcrowd.",
+    "Fry the songpyeon until they are golden brown and crispy, about 2-3 minutes on each side.",
+    "Remove the songpyeon from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the lovely umami korean masarepa songpyeon hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "crispy-snacks",
+    "korean-cuisine",
+    "mediterranean-inspired",
+    "umami-flavors",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "lovely-umami-korean-masarepa-songpyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-umami-korean-masarepa-songpyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:48:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "wok-hei",
+    "primaryIngredient": "white masarepa",
+    "diet": "mediterranean",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "masarepa",
+    "descriptor": "Lovely Umami",
+    "dishForm": "Songpyeon"
+  }
+}
