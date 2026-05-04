@@ -1,0 +1,109 @@
+{
+  "title": "Light Slovakian Cabbage Flatbread",
+  "description": "A savory low calorie flatbread with tender sauerkraut, crispy puffed layers, and a hint of spicy cajun seasoning that echoes nostalgic Slovak flavors.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb",
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2g"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "300g",
+      "notes": "lightly shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "50g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1g"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "5g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "5ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C and line a baking sheet with parchment paper.",
+    "In a bowl mix flour, salt, baking powder and water until a sticky dough forms.",
+    "Knead dough on a lightly floured surface for 2 minutes, then roll into a 30cm square.",
+    "Brush one side of the dough with olive oil and sprinkle evenly with paprika and cayenne.",
+    "Spread shredded cabbage and sliced onion over the seasoned side, then drizzle lemon juice and sprinkle dill.",
+    "Fold the dough over the filling, pinch edges to seal, and cut into six equal wedges.",
+    "Place wedges cut-side down on the prepared sheet and bake for 15 minutes until golden and crispy.",
+    "Flip each wedge, bake another 10 minutes until fully puffed and puffed edges.",
+    "Remove from oven, let cool on a rack for 5 minutes before serving.",
+    "Garnish with extra dill if desired and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "low-calorie",
+    "puff",
+    "quick",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "light-slovakian-cabbage-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-slovakian-cabbage-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:29:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cajun",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Light",
+    "dishForm": "Flatbread"
+  }
+}
