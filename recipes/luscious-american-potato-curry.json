@@ -1,0 +1,120 @@
+{
+  "title": "Luscious American Potato Curry",
+  "description": "A resinous, molten one‑pot curry that marries American staples with tandoori spices for a gluten‑free feast.",
+  "cuisine": "american fusion",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "full‑fat"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "stirred in"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "300 ml",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "tandoori spice mix",
+      "amount": "2 tbsp",
+      "notes": "homemade or store brand"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Dice potatoes, chop onion, mince garlic, and grate ginger.",
+    "Add onion to the pot and sauté until translucent.",
+    "Stir in garlic and ginger, cooking for 1 minute until fragrant.",
+    "Add potato cubes and stir to coat with oil and spices.",
+    "Pour in vegetable broth, add tomato paste, tandoori spice mix, salt, and pepper, stirring well.",
+    "Bring the mixture to a gentle boil, then reduce heat, cover, and simmer for 15 minutes until potatoes are tender.",
+    "Stir in coconut milk, bring to a low simmer, and cook for an additional 5 minutes until the sauce thickens.",
+    "Taste and adjust seasoning if needed.",
+    "Remove from heat, stir in chopped cilantro, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-fusion",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "starch",
+    "tandoori"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 28
+  },
+  "slug": "luscious-american-potato-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-american-potato-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:40:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "starch",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Potato",
+    "descriptor": "Luscious",
+    "dishForm": "Curry"
+  }
+}
