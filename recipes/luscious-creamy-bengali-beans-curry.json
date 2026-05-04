@@ -1,0 +1,107 @@
+{
+  "title": "Luscious Creamy Bengali Beans Curry",
+  "description": "A funky, creamy curry packed with refried black beans, coconut milk, and aromatic spices, perfect for crowd-pleasing Bengali feasts.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked black beans",
+      "amount": "200 g"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "100 g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150 g"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried red chili",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "onion",
+      "amount": "50 g, diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "10 g, chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a heavy-bottomed pan over medium heat.",
+    "Add mustard seeds, cumin seeds, and dried chilies, letting them sizzle for 30 seconds.",
+    "Add diced onion, minced garlic, and grated ginger; sauté until onion turns translucent.",
+    "Stir in tomato puree and cook for 2 minutes, letting flavors meld.",
+    "Add cooked black beans and coconut milk; bring to a gentle simmer.",
+    "Season with salt, adjust consistency with a splash of water if needed, and let simmer for 10 minutes.",
+    "Finish by swirling in chopped cilantro and squeezing fresh lemon juice.",
+    "Serve hot with steamed idli, plated in a clay tajine for an aromatic presentation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-curry",
+    "bengali",
+    "creamy",
+    "crowd-pleaser",
+    "idli-serving",
+    "tajine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 14,
+    "carbs": 42,
+    "fat": 41
+  },
+  "slug": "luscious-creamy-bengali-beans-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-creamy-bengali-beans-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:31:06Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "refried beans",
+    "diet": "lacto-vegetarian",
+    "region": "bengali",
+    "cuisineAdjective": "Bengali",
+    "mainIngredient": "Beans",
+    "descriptor": "Luscious Creamy",
+    "dishForm": "Curry"
+  }
+}
