@@ -1,0 +1,89 @@
+{
+  "title": "lazy-sunday korean hojicha gyoza",
+  "description": "Crispy, savory, and comforting Korean hojicha gyoza that's perfect for a lazy Sunday. Serve with your favorite dipping sauce.",
+  "cuisine": "korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hojicha powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grouper fillet",
+      "amount": "1",
+      "notes": "optional, for added protein"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "24",
+      "notes": "about 1 package"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped green onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Combine hojicha powder, soy sauce, and brown sugar in a bowl to make the hojicha marinade."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "korean-cuisine",
+    "lazy-sunday",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "lazy-sunday-korean-hojicha-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-korean-hojicha-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "hojicha",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "hojicha",
+    "descriptor": "lazy-sunday",
+    "dishForm": "Gyoza"
+  }
+}

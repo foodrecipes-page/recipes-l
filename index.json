@@ -607,6 +607,21 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-korean-hojicha-gyoza",
+    "title": "lazy-sunday korean hojicha gyoza",
+    "tags": [
+      "high-protein",
+      "korean-cuisine",
+      "lazy-sunday",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-malaysian-chicken-noodles",
     "title": "Lazy Sunday Malaysian Chicken Noodles",
     "tags": [
@@ -1562,6 +1577,20 @@
     "tags": [],
     "cuisine": "Indian",
     "totalTimeMin": null,
+    "shard": "l"
+  },
+  {
+    "slug": "light-festive-slovakian-potatoes-bake",
+    "title": "Light Festive Slovakian Potatoes Bake",
+    "tags": [
+      "dairy-free",
+      "festive",
+      "one-pan",
+      "slovakian",
+      "winter"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 65,
     "shard": "l"
   },
   {

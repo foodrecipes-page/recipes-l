@@ -1,0 +1,95 @@
+{
+  "title": "Light Festive Slovakian Potatoes Bake",
+  "description": "A traditional Slovakian dish featuring fermented potatoes, baked in the oven for a light and festive twist. Perfect for a cold winter evening.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes, peeled and grated",
+      "amount": "4 large",
+      "notes": "use a mix of Russet and sweet potatoes for the best results"
+    },
+    {
+      "name": "Sour cream, dairy-free alternative",
+      "amount": "1/2 cup",
+      "notes": "such as soy or coconut cream"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium",
+      "notes": "use a sweet onion for added flavor"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "use 2 cloves for a milder flavor"
+    },
+    {
+      "name": "Sour rye flour",
+      "amount": "2 tablespoons",
+      "notes": "adds a traditional Slovakian flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "use a flaky sea salt for added texture"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground for the best flavor"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "adds a pop of color and fresh flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the grated potatoes, sour cream, onion, garlic, sour rye flour, salt, and black pepper. Mix well until the potatoes are coated in the wet ingredients.",
+    "Transfer the potato mixture to a 9x13 inch baking dish and smooth the top. ",
+    "Bake the potatoes for 45 minutes, or until they are golden brown and crispy on top.",
+    "Remove the potatoes from the oven and sprinkle with chopped fresh parsley. ",
+    "Serve the potatoes hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "festive",
+    "one-pan",
+    "slovakian",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "light-festive-slovakian-potatoes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-festive-slovakian-potatoes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "floury potatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potatoes",
+    "descriptor": "light festive",
+    "dishForm": "Bake"
+  }
+}
