@@ -1,0 +1,110 @@
+{
+  "title": "Luxurious Silky Croatian Tempeh Stir fry",
+  "description": "A high-protein Croatian dish featuring tempeh, perfect for a date night, with a jammy and silky texture, this stir-fry is a must try for any food lover.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and bell peppers, cook until they start to soften.",
+    "Add the tempeh and cook until it is golden brown on all sides.",
+    "Add the tomato paste, paprika, salt, and black pepper, stir to combine.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook for 10 minutes, stirring occasionally.",
+    "Serve the stir-fry hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "stir-fry",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "luxurious-silky-croatian-tempeh-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-silky-croatian-tempeh-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:54:25Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "tempeh",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "tempeh",
+    "descriptor": "luxurious silky",
+    "dishForm": "Stir-fry"
+  }
+}

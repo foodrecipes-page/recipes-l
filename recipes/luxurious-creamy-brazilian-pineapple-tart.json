@@ -1,0 +1,99 @@
+{
+  "title": "Luxurious Creamy Brazilian Pineapple Tart",
+  "description": "A show-stopping lacto-vegetarian dessert featuring caramelized pineapple, creamy coconut custard, and a hint of cinnamon, all in a flaky pastry crust. This winey and creamy tart is sure to impress any dinner guest.",
+  "cuisine": "brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pineapple",
+      "amount": "1 large",
+      "notes": "sashimi-cut into thin slices"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": "for garnish"
+    },
+    {
+      "name": "port wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Roll out the pastry dough and place it in a tart pan with a removable bottom.",
+    "In a large bowl, whisk together the coconut milk, sugar, melted butter, and eggs.",
+    "Add the flour, port wine, and vanilla extract to the bowl and whisk until smooth.",
+    "Arrange the pineapple slices in a pattern on the tart dough, leaving a 1 inch border around the edges.",
+    "Pour the coconut custard over the pineapple slices and smooth the top.",
+    "Bake the tart for 40 minutes, or until the edges are golden brown.",
+    "Remove the tart from the oven and let it cool completely on a wire rack.",
+    "Just before serving, garnish with a cinnamon stick and slice into wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian-desserts",
+    "coconut-custard",
+    "lacto-vegetarian",
+    "pineapple-tart",
+    "special-occasion",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "luxurious-creamy-brazilian-pineapple-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-creamy-brazilian-pineapple-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:55:05Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "pineapple",
+    "descriptor": "luxurious creamy",
+    "dishForm": "Tart"
+  }
+}
