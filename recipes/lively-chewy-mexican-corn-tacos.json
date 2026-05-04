@@ -1,0 +1,98 @@
+{
+  "title": "Lively Chewy Mexican Corn Tacos",
+  "description": "Bitter, chewy, crowd-pleasing tacos featuring black olives and bonito flakes, perfect for a paleo-friendly fiesta.",
+  "cuisine": "Mexican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "12 small"
+    },
+    {
+      "name": "roasted corn kernels",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "black olives, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "avocado, sliced",
+      "amount": "1 cup",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium heat and warm the corn tortillas until fragrant and pliable.",
+    "In the same skillet, sauté the diced onion until translucent, about 2 minutes.",
+    "Add the roasted corn kernels and black olives to the skillet, cooking for an additional 2 minutes.",
+    "Stir in the bonito flakes, lime juice, chili powder, and sea salt, cooking until the mixture is heated through.",
+    "Remove the skillet from heat and mix in the chopped cilantro.",
+    "Divide the filling evenly among the warmed tortillas, topping each with sliced avocado if desired.",
+    "Fold the tortillas over the filling to form tacos and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "chewy",
+    "crowd-pleaser",
+    "mexican",
+    "paleo-friendly",
+    "taco"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "lively-chewy-mexican-corn-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-chewy-mexican-corn-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:08:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "bonito-shave",
+    "primaryIngredient": "black olives",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Lively Chewy",
+    "dishForm": "Tacos"
+  }
+}
