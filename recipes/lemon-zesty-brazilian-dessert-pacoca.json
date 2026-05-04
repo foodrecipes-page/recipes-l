@@ -1,0 +1,106 @@
+{
+  "title": "Lemon Zesty Brazilian Pa\u00069oca",
+  "description": "A classic Brazilian dessert made with peanuts, coconut milk, and a hint of lemon zest. This creamy and rich dessert is perfect for warm weather or as a comforting treat anytime of the year.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": "for dusting"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Pulse the peanuts in a food processor until finely chopped.",
+    "In a medium saucepan, combine the coconut milk, sugar, lemon zest, and salt. Cook over medium heat, stirring constantly, until the sugar dissolves.",
+    "In a separate bowl, whisk together the vanilla extract, egg yolks, and butter until smooth.",
+    "Gradually pour the warm coconut milk mixture into the egg yolk mixture, whisking constantly to prevent the eggs from scrambling.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "Remove from heat and stir in the flour to prevent lumps from forming.",
+    "Transfer the mixture to a 9-inch springform pan and smooth the top.",
+    "Dust the top with a thin layer of flour and refrigerate for at least 2 hours or until set.",
+    "To serve, remove the pan from the refrigerator and let it sit at room temperature for 30 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brasilian",
+    "dessert",
+    "low-calorie",
+    "south-american",
+    "summer",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "lemon-zesty-brazilian-dessert-pacoca",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-zesty-brazilian-dessert-pacoca",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:22Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "lemon zest",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Dessert",
+    "descriptor": "Lemon Zesty",
+    "dishForm": "Paçoca"
+  }
+}

@@ -985,6 +985,22 @@
     "shard": "l"
   },
   {
+    "slug": "lemon-zesty-brazilian-dessert-pacoca",
+    "title": "Lemon Zesty Brazilian Pa\u00069oca",
+    "tags": [
+      "brasilian",
+      "dessert",
+      "low-calorie",
+      "south-american",
+      "summer",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "lemongrass-braised-crisp-dish",
     "title": "Lemongrass Braised Crisp Dish",
     "tags": [
@@ -4417,6 +4433,21 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-juicy-moroccan-garlic-mechoui",
+    "title": "Lovely Juicy Moroccan Garlic Mechoui",
+    "tags": [
+      "brunch",
+      "low-carb",
+      "moroccan",
+      "one-pan",
+      "slow-cooker",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 150,
     "shard": "l"
   },
   {
