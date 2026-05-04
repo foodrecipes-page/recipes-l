@@ -1,0 +1,104 @@
+{
+  "title": "Luxuriant Russian Tofu Dumplings",
+  "description": "A plant-based take on traditional Russian dumplings, featuring crispy deep-fried tofu and a rich double cream sauce, served on a slate tile vessel.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "double cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, thyme, salt, and pepper to make the dumpling coating.",
+    "Toss the tofu cubes in the flour mixture to coat evenly.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep fry the coated tofu cubes in batches until golden brown and crispy, about 3-4 minutes per batch.",
+    "Using a slotted spoon, remove the fried tofu from the oil and place on a paper towel lined plate to drain excess oil.",
+    "In a medium saucepan, combine the double cream, chopped onion, and minced garlic, and bring to a simmer over medium heat.",
+    "Reduce the heat to low and let the cream sauce simmer for 5 minutes, stirring occasionally, until it thickens slightly.",
+    "To assemble the dumplings, place a few pieces of the fried tofu on a slate tile vessel, then spoon some of the cream sauce over the top.",
+    "Serve the Luxuriant Russian Tofu Dumplings immediately, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream-sauce",
+    "deep-fried",
+    "plant-based",
+    "russian-inspired",
+    "slate-tile-serve",
+    "tofu-dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "luxuriant-russian-tofu-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-russian-tofu-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:46:40Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "double cream",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tofu",
+    "descriptor": "luxuriant deep fried",
+    "dishForm": "Dumplings"
+  }
+}
