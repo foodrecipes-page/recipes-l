@@ -1,0 +1,96 @@
+{
+  "title": "Light Middle-Eastern Chickpeas Hummus Fold",
+  "description": "A tangy and fluffy vegan-friendly Middle Eastern dish made with chickpeas, tahini, lemon juice, and red chilli flakes, served in a foldable flatbread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the chickpeas, and transfer them to a blender or food processor.",
+    "Add the tahini, lemon juice, olive oil, garlic powder, cumin powder, salt, and red chilli flakes to the blender.",
+    "Blend the mixture on high speed until smooth and creamy, stopping to scrape down the sides as needed.",
+    "Add the water to the blender and continue blending until the desired consistency is reached.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the hummus to a serving bowl, and garnish with extra chickpeas or herbs if desired.",
+    "Warm the flatbread according to package instructions.",
+    "Spread a layer of hummus onto the flatbread, leaving a 1-inch border around the edges.",
+    "Fold the flatbread in half to enclose the hummus, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "light-middle-eastern-chickpeas-hummus-fold",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-middle-eastern-chickpeas-hummus-fold",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:41:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Light",
+    "dishForm": "Hummus Fold"
+  }
+}
