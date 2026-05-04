@@ -1,0 +1,108 @@
+{
+  "title": "Luminous Syrian Vegetables Soup",
+  "description": "A midnight-craving, glassy-jelly soup brimming with umami from spices and tomato paste. Egg-free and hearty, it offers a soothing, vegetable-filled comfort.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "eggs-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "6 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Add 1 tbsp lemon juice when finishing"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic, cumin, coriander, and cinnamon, cooking for 1 minute until fragrant.",
+    "Add sliced carrots, diced sweet potato, chopped zucchini, and eggplant, tossing to coat with spices.",
+    "Pour in vegetable stock and tomato paste, stirring until the paste dissolves.",
+    "Bring the mixture to a boil, then reduce heat and simmer uncovered for 20 minutes, stirring occasionally.",
+    "Using an immersion blender, blend the soup until smooth and glossy, adding a small amount of stock if needed to reach desired consistency.",
+    "Taste and season with salt and pepper; stir in a splash of lemon juice if desired.",
+    "Serve hot, garnished with fresh herbs or a drizzle of olive oil, and enjoy the glassy, umami-rich texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "eggs-free",
+    "glassy-jelly",
+    "midnight-craving",
+    "one-pot",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "luminous-syrian-vegetables-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luminous-syrian-vegetables-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:00:18Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "vegetable stock",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Luminous",
+    "dishForm": "Soup"
+  }
+}

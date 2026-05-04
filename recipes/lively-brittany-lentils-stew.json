@@ -1,0 +1,105 @@
+{
+  "title": "Lively Brittany Lentils Stew",
+  "description": "A peppery, bouncy-qq French stew from Brittany that balances truffle oil, shio-koji cure and macrobiotic-friendly ingredients into a single pot hearty dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "shio-koji sauce",
+      "amount": "2 tbsp",
+      "notes": "salt substitute"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "truffle oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a Dutch oven over medium heat.",
+    "Add diced onion, carrot, and celery and sauté until softened, about five minutes.",
+    "Stir in minced garlic and cook for one minute until fragrant.",
+    "Mix in tomato paste, dried thyme, rosemary, and cracked pepper, cooking for two minutes.",
+    "Add rinsed lentils, vegetable stock, and shio-koji, bring to a simmer.",
+    "Reduce heat, cover, and let cook for twenty-five minutes until lentils are tender and broth thickened.",
+    "Stir in truffle oil and adjust seasoning with salt if needed.",
+    "Serve hot, optionally garnish with fresh herbs or a drizzle of truffle oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brittany",
+    "macrobiotic-friendly",
+    "one-pot",
+    "peppery",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 138,
+    "protein": 14,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "lively-brittany-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-brittany-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:00:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "truffle oil",
+    "diet": "macrobiotic",
+    "region": "brittany",
+    "cuisineAdjective": "Brittany",
+    "mainIngredient": "lentils",
+    "descriptor": "Lively",
+    "dishForm": "Stew"
+  }
+}

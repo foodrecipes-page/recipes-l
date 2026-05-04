@@ -1,0 +1,119 @@
+{
+  "title": "Luscious Malaysian Pork Tenderloin Bao",
+  "description": "Yeasty, silky bao filled with savory pork tenderloin, dairy-free and brunch‑ready.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "500g",
+      "notes": "fresh"
+    },
+    {
+      "name": "leftover pork tenderloin",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "60g",
+      "notes": "soy‑free sauce"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "30g",
+      "notes": "light"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "15ml",
+      "notes": "for flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "five-spice powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp",
+      "notes": "slurry"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp",
+      "notes": "for slurry"
+    },
+    {
+      "name": "vegan bao buns",
+      "amount": "6",
+      "notes": "yeasty"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Trim the pork tenderloin into a 500g portion and slice into 1cm thick medallions.",
+    "In a bowl, whisk together coconut aminos, brown sugar, sesame oil, garlic, ginger, and five-spice powder until sugar dissolves.",
+    "Coat the pork slices with the mixture, cover, and marinate in the fridge for 15 minutes.",
+    "Meanwhile, prepare a slurry by mixing cornstarch and water until smooth, then set aside.",
+    "Heat a non-stick skillet over medium-high heat and sear the marinated pork for 2–3 minutes per side until caramelized.",
+    "Add the cornstarch slurry to the pan, stir until the sauce thickens, then remove from heat.",
+    "Warm the vegan bao buns in a steamer for 3 minutes, then fill each bun with 80–100g of the pork and a sprinkle of sesame seeds.",
+    "Serve the bao hot with a side of fresh cucumber slices for a refreshing finish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "dairy-free",
+    "malaysian",
+    "quick",
+    "savory",
+    "vegan-bao",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 154,
+    "carbs": 180,
+    "fat": 20
+  },
+  "slug": "luscious-malaysian-pork-tenderloin-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-malaysian-pork-tenderloin-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:00:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "rest-meat",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "Luscious",
+    "dishForm": "Bao"
+  }
+}

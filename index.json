@@ -2554,6 +2554,21 @@
     "shard": "l"
   },
   {
+    "slug": "lively-brittany-lentils-stew",
+    "title": "Lively Brittany Lentils Stew",
+    "tags": [
+      "brittany",
+      "macrobiotic-friendly",
+      "one-pot",
+      "peppery",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lively-chewy-mexican-corn-tacos",
     "title": "Lively Chewy Mexican Corn Tacos",
     "tags": [
@@ -3004,6 +3019,20 @@
     "shard": "l"
   },
   {
+    "slug": "luminous-syrian-vegetables-soup",
+    "title": "Luminous Syrian Vegetables Soup",
+    "tags": [
+      "eggs-free",
+      "glassy-jelly",
+      "midnight-craving",
+      "one-pot",
+      "umami"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "luscious-algerian-marzipan-crepes",
     "title": "Luscious Algerian Marzipan Crepes",
     "tags": [
@@ -3149,6 +3178,22 @@
       "wrap"
     ],
     "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-malaysian-pork-tenderloin-bao",
+    "title": "Luscious Malaysian Pork Tenderloin Bao",
+    "tags": [
+      "brunch",
+      "dairy-free",
+      "malaysian",
+      "quick",
+      "savory",
+      "vegan-bao",
+      "yeasty"
+    ],
+    "cuisine": "Malaysian",
     "totalTimeMin": 30,
     "shard": "l"
   },
