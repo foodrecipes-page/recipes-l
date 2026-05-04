@@ -1,0 +1,94 @@
+{
+  "title": "Luxuriously Creamy American Sweet Potato Bowl",
+  "description": "A charred and creamy American dish featuring shredded coconut and miso-marinated sweet potatoes, served in an earthenware bowl, perfect for a brunch mood.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, whisk together miso paste, olive oil, salt, and black pepper.",
+    "Add the cubed sweet potatoes to the bowl and toss to coat with the miso mixture.",
+    "Spread the sweet potatoes on a baking sheet and roast for 20 minutes.",
+    "While the sweet potatoes are roasting, heat the coconut milk in a saucepan over medium heat.",
+    "Stir in the shredded coconut and cook for 2 minutes.",
+    "Remove the sweet potatoes from the oven and let cool for 5 minutes.",
+    "To assemble the bowls, divide the roasted sweet potatoes among four earthenware bowls.",
+    "Spoon the coconut milk mixture over the sweet potatoes and top with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "coconut-milk",
+    "earthenware-bowl",
+    "miso-glazed",
+    "sweet-potato-bowl",
+    "vegetarian-breakfast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luxuriously-creamy-american-sweet-potato-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-creamy-american-sweet-potato-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:25:26Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "miso-marinate",
+    "primaryIngredient": "shredded coconut",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "luxuriously creamy",
+    "dishForm": "Bowl"
+  }
+}
