@@ -1,0 +1,93 @@
+{
+  "title": "Light Peruvian Beef Fillet Wrap",
+  "description": "A sweet and light Peruvian dish featuring beef fillet, leaf wrap steam, and Buddhist temple friendly ingredients, perfect for a snack or lunch",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer basket over boiling water.",
+    "In a small bowl, whisk together lime juice, olive oil, garlic, and ginger.",
+    "Add the beef strips to the bowl and marinate for 10 minutes.",
+    "Cut the banana leaves into large squares and place a beef strip in the center of each square.",
+    "Fold the banana leaves over the beef to form a tight package and place in the steamer basket.",
+    "Steam the beef packages for 10 minutes or until cooked through.",
+    "Serve the beef wraps hot with a sprinkle of salt and pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dairy-free",
+    "gluten-free",
+    "light-meals",
+    "peruvian-cuisine",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "light-peruvian-beef-fillet-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-peruvian-beef-fillet-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:27:03Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "beef fillet",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef fillet",
+    "descriptor": "light festive",
+    "dishForm": "Wrap"
+  }
+}
