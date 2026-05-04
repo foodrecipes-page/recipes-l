@@ -1,0 +1,110 @@
+{
+  "title": "Luscious Jamaican Rice Pilaf",
+  "description": "Sweet, velvety, cozy Jamaican rice pilaf with jasmine rice, beurre-monte, and tropical flavors, perfect for a comforting meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": "200g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "30ml"
+    },
+    {
+      "name": "Butter (beurre-monte)",
+      "amount": "4 tbsp",
+      "notes": "60g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium",
+      "notes": "120g"
+    },
+    {
+      "name": "Garlic clove, minced",
+      "amount": "1",
+      "notes": "5g"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": "2g"
+    },
+    {
+      "name": "Allspice",
+      "amount": "½ tsp",
+      "notes": "1g"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tsp",
+      "notes": "2g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "½ cup",
+      "notes": "120ml"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "2 tbsp",
+      "notes": "25g"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic, thyme, allspice, and lime zest, cooking for 1 minute until fragrant.",
+    "Pour in jasmine rice, stirring to coat the grains with oil and spices.",
+    "Add coconut milk and dark brown sugar, bringing the mixture to a gentle simmer.",
+    "Reduce heat to low, cover, and let the rice absorb liquid for 15 minutes.",
+    "Remove from heat and fluff the rice with a fork, then stir in beurre-monte until melted and silky.",
+    "Taste and season with salt if desired.",
+    "Serve warm, garnished with a sprinkle of fresh herbs if available.",
+    "Enjoy the sweet, velvety coconut-infused flavor of this Jamaican pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beurre-monte",
+    "comfort-food",
+    "jamaican",
+    "ovo-vegetarian",
+    "rice",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "luscious-jamaican-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-jamaican-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:04:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "beurre-monte",
+    "primaryIngredient": "jasmine rice",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Rice",
+    "descriptor": "Luscious",
+    "dishForm": "Pilaf"
+  }
+}
