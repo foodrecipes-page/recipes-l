@@ -1427,6 +1427,22 @@
     "shard": "l"
   },
   {
+    "slug": "light-croatian-vegetable-pilaf",
+    "title": "Light Croatian Vegetable Pilaf",
+    "tags": [
+      "buddhist-friendly",
+      "croatian",
+      "garlicky",
+      "light",
+      "one-pot",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "light-crunchy-spanish-vialone-nano-pa-amb-tomaquet",
     "title": "Light Crunchy Spanish Vialone Nano Pa Amb Tomaquet",
     "tags": [
@@ -3063,6 +3079,21 @@
       "thai-cuisine"
     ],
     "cuisine": "Thai",
+    "totalTimeMin": 140,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-fermented-vietnamese-beef-pho-bo",
+    "title": "Lightly Fermented Vietnamese Beef Pho Bo",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "fermented-foods",
+      "mediterranean-inspired",
+      "noodle-soups",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
     "totalTimeMin": 140,
     "shard": "l"
   },

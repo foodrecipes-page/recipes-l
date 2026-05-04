@@ -1,0 +1,110 @@
+{
+  "title": "Light Croatian Vegetable Pilaf",
+  "description": "A garlicky and light one-pot Croatian dish featuring a mirepoix base and a hint of pink food coloring, making it a unique and Buddhist-temple-friendly meal option.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a mild variety"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked white or brown"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender, about 8 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, stirring constantly to prevent burning.",
+    "Add the pink food coloring, if using, and stir to combine.",
+    "Add the vegetable broth, rice, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 18 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Remove the saucepan from the heat and let it sit, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-friendly",
+    "croatian",
+    "garlicky",
+    "light",
+    "one-pot",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "light-croatian-vegetable-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-croatian-vegetable-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:54:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "pink food colouring",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "vegetables",
+    "descriptor": "light garlicky",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Lightly Fermented Vietnamese Beef Pho Bo",
+  "description": "A fermented, tender, and energizing Vietnamese dish featuring treacle and an al-dente finish, with Mediterranean-friendly flavors, in the form of pho bo.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 pounds",
+      "notes": "preferably oxtail or beef neck bones"
+    },
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "treacle",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced into thin pieces"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2 whole"
+    },
+    {
+      "name": "black cardamom",
+      "amount": "2 whole"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the beef bones in the oven for 30 minutes to enhance the flavor.",
+    "In a large pot, combine the roasted beef bones, fish sauce, treacle, onion, ginger, star anise, cinnamon sticks, and black cardamom.",
+    "Add 4 quarts of water to the pot and bring to a boil, then reduce the heat to a simmer.",
+    "Let the broth simmer for 1 hour to allow the flavors to meld together.",
+    "While the broth is simmering, cook the rice noodles according to the package instructions until they are al-dente.",
+    "Slice the beef brisket into thin strips and add it to the pot, cooking for an additional 10 minutes or until the beef is tender.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the cooked noodles, bean sprouts, and sliced beef to the pot, cooking for an additional 2 minutes to heat through.",
+    "Serve the pho bo hot, garnished with lime wedges and any desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "fermented-foods",
+    "mediterranean-inspired",
+    "noodle-soups",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lightly-fermented-vietnamese-beef-pho-bo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fermented-vietnamese-beef-pho-bo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:54:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "treacle",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Lightly Fermented",
+    "dishForm": "Pho Bo"
+  }
+}
