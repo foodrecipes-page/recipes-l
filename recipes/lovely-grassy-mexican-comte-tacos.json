@@ -1,0 +1,97 @@
+{
+  "title": "Lovely Grassy Mexican Comte Tacos",
+  "description": "A high-protein Mexican dish featuring Comte cheese, miso-marinated chicken, and fresh grassy flavors, perfect for a special occasion.",
+  "cuisine": "Mexican",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Comte cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, lime juice, and olive oil to make the marinade.",
+    "Add the chicken pieces to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the chicken from the marinade and cook until browned and cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of chicken onto a tortilla, followed by a sprinkle of Comte cheese, cilantro, and green onions.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grassy",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "show-off",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lovely-grassy-mexican-comte-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-grassy-mexican-comte-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:56:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "miso-marinate",
+    "primaryIngredient": "comte",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Comte",
+    "descriptor": "Lovely Grassy",
+    "dishForm": "Tacos"
+  }
+}
