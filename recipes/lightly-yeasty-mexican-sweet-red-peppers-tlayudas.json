@@ -1,0 +1,105 @@
+{
+  "title": "Lightly Yeasty Mexican Sweet Red Peppers Tlayudas",
+  "description": "A yeasty, silky, meal-prep Mexican dish featuring sweet red peppers, yakimono-grill, vegetarian-friendly, in the form of tlayudas, cooked on an iron-teppan.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet red peppers",
+      "amount": "4 large",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine warm water and yeast, stir to dissolve, and let it sit for 5 minutes.",
+    "Add flour, salt, sugar, and 2 tablespoons of vegetable oil to the bowl, mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal parts and roll each part into a ball.",
+    "Using a rolling pin, flatten each ball into a thin circle.",
+    "Heat the iron-teppan over medium heat and brush with the remaining vegetable oil.",
+    "Place a dough circle on the teppan and cook for 1 minute on each side.",
+    "Repeat the cooking process with the remaining dough circles.",
+    "Grill the sweet red peppers on the teppan until the skin is charred and blistered.",
+    "Peel the skin off the peppers and slice them into thin strips.",
+    "Top each cooked tlayuda with sliced peppers, onion, garlic, and oregano."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "iron-teppan",
+    "mexican",
+    "tlayudas",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lightly-yeasty-mexican-sweet-red-peppers-tlayudas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-yeasty-mexican-sweet-red-peppers-tlayudas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:54:32Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "sweet red peppers",
+    "descriptor": "lightly yeasty",
+    "dishForm": "Tlayudas"
+  }
+}
