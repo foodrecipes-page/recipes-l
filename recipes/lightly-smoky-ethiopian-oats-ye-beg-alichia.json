@@ -1,0 +1,92 @@
+{
+  "title": "Lightly Smoky Ethiopian Oats Ye Beg Alichia",
+  "description": "A traditional Ethiopian dish featuring smoky porridge oats and miso-marinate, served in an agave leaf vessel.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "1 cup",
+      "notes": "rolled oats work too"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees.",
+    "In a large bowl, whisk together miso paste and water.",
+    "Add smoked paprika, garlic, onion, and salt to the bowl and stir.",
+    "Add porridge oats to the bowl and stir until well combined.",
+    "Spoon the oat mixture onto the center of each agave leaf.",
+    "Fold the leaves over the oats to form a triangle or square shape.",
+    "Place the agave leaves on a baking sheet and bake for 20 minutes.",
+    "Remove the leaves from the oven and let cool for 5 minutes.",
+    "Serve the ye beg alichia hot, straight from the agave leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ethiopian",
+    "high-fiber",
+    "oat-based",
+    "smoky",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "lightly-smoky-ethiopian-oats-ye-beg-alichia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-ethiopian-oats-ye-beg-alichia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:37:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "miso-marinate",
+    "primaryIngredient": "porridge oats",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "oats",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Ye Beg Alichia"
+  }
+}
