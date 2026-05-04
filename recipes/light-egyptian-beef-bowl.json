@@ -1,0 +1,120 @@
+{
+  "title": "Light Egyptian Beef Bowl",
+  "description": "A flavorful and refreshing Egyptian-inspired beef bowl featuring a tangy, cheese-pull sauce and topped with crunchy vegetables. Perfect for a light and satisfying meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lean beef strips (1 pound, 450g)",
+      "amount": "12 ounces (340g)",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt (1 cup, 240ml)",
+      "amount": "8 ounces (225g)",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice (2 tablespoons, 30ml)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin (1 teaspoon)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander (1 teaspoon)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes (1/2 teaspoon)",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt (1/2 teaspoon)",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (1/2 teaspoon)",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese (8 ounces, 225g)",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Chopped parsley (1/4 cup, 15g)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cucumber (1/2 cup, 55g)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped tomato (1/2 cup, 70g)",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together yogurt, lemon juice, garlic, cumin, coriander, red pepper flakes, salt, and black pepper.",
+    "Add the beef strips to the bowl and mix well to coat with the yogurt sauce.",
+    "Transfer the beef to a baking sheet lined with parchment paper and bake for 15 minutes or until cooked through.",
+    "Meanwhile, crumble the feta cheese into a small bowl and microwave for 10-15 seconds or until slightly melted.",
+    "To assemble the bowls, place a portion of the cooked beef onto a plate or bowl, followed by a dollop of the yogurt sauce, and top with crumbled feta cheese, chopped parsley, cucumber, and tomato.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "light-egyptian-beef-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-egyptian-beef-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:18Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "brine-dry",
+    "primaryIngredient": "beef",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "beef",
+    "descriptor": "light",
+    "dishForm": "Bowl"
+  }
+}

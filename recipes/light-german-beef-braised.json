@@ -1,0 +1,124 @@
+{
+  "title": "Light German Beef Braised",
+  "description": "A rich and flavorful German dish featuring beef stock concentrate, perfect for a date night dinner. This halal-friendly recipe is easy to prepare and has a tender, fall-apart texture.",
+  "cuisine": "german",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Sear the beef short ribs until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the caraway seeds and allspice and cook for 1 minute.",
+    "Add the red wine to the pot and stir to deglaze, scraping up any browned bits.",
+    "Return the beef to the pot and add the beef stock concentrate, salt, and pepper.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the beef for 2 hours, or until tender.",
+    "Strain the sauce and discard the solids.",
+    "Whisk in the flour to thicken the sauce.",
+    "Stir in the heavy cream and cook for 2 minutes.",
+    "Serve the beef short ribs with the sauce spooned over the top and garnished with parsley.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "date-night",
+    "flavorful",
+    "german",
+    "halal",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "light-german-beef-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-german-beef-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "dehydrate",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef",
+    "descriptor": "light",
+    "dishForm": "Braised"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Light Irish Tomato Wrap",
+  "description": "A light and energizing Irish dish featuring tomato puree and a hint of tempering chocolate, served in a pandan leaf wrap. This diabetic-friendly snack is perfect for a quick pick-me-up.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tomato Puree",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tempering Chocolate",
+      "amount": "1 tablespoon",
+      "notes": "Melted and cooled"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "2 tablespoons",
+      "notes": "Plain, non-fat"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 tablespoon",
+      "notes": "Fresh, chopped"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 tablespoon",
+      "notes": "Crumbed, reduced-fat"
+    },
+    {
+      "name": "Pandan Leaf Wrap",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine tomato puree and tempering chocolate in a small bowl.",
+    "Mix in Greek yogurt until smooth.",
+    "Add chopped spinach and crumbled feta cheese. Mix well.",
+    "Season with salt, black pepper, honey, and lemon juice to taste.",
+    "Place the pandan leaf wrap on a flat surface and spread the mixture evenly down the center of the wrap.",
+    "Add chopped fresh cilantro on top of the mixture.",
+    "Fold the bottom half of the wrap up over the mixture, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "easy-snack",
+    "gluten-free",
+    "high-fiber",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "light-irish-tomato-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-irish-tomato-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "tomato puree",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "tomato",
+    "descriptor": "Light",
+    "dishForm": "Wrap"
+  }
+}

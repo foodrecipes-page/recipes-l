@@ -1648,6 +1648,19 @@
     "shard": "l"
   },
   {
+    "slug": "light-egyptian-beef-bowl",
+    "title": "Light Egyptian Beef Bowl",
+    "tags": [
+      "easy-to-make",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
     "slug": "light-egyptian-butter-bake",
     "title": "Light Egyptian Butter Bake",
     "tags": [
@@ -2066,6 +2079,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-german-beef-braised",
+    "title": "Light German Beef Braised",
+    "tags": [
+      "beef",
+      "date-night",
+      "flavorful",
+      "german",
+      "halal",
+      "rich"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 130,
+    "shard": "l"
+  },
+  {
     "slug": "light-german-fish-broth",
     "title": "Light German Fish Broth",
     "tags": [
@@ -2189,6 +2217,36 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-irish-gruy-1e-pilaf",
+    "title": "Light Irish Gruyere Pilaf",
+    "tags": [
+      "gruyere",
+      "irish",
+      "low-glycemic",
+      "pilaf",
+      "sick-day",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-irish-tomato-wrap",
+    "title": "Light Irish Tomato Wrap",
+    "tags": [
+      "diabetic-friendly",
+      "easy-snack",
+      "gluten-free",
+      "high-fiber",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
@@ -6070,6 +6128,21 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-smoky-slovakian-pork-goulash",
+    "title": "Luscious Smoky Slovakian Pork Goulash",
+    "tags": [
+      "anti-inflammatory",
+      "comfort-food",
+      "goulash",
+      "one-pan",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 150,
     "shard": "l"
   },
   {
