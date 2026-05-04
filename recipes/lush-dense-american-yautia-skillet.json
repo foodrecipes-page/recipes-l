@@ -1,0 +1,96 @@
+{
+  "title": "Lush Dense American Yautia Skillet",
+  "description": "A pungently flavored, dense skillet dish featuring yautia, smoky bacon, and bold herbs, perfect for a lazy Sunday dinner. The iron teppan delivers a crisp crust while the interior stays tender.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia root, peeled and diced",
+      "amount": "800g"
+    },
+    {
+      "name": "smoked bacon, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "yellow onion, finely sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "fresh thyme, leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt, to taste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "butter (or vegan butter)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat iron teppan over medium-high heat until hot.",
+    "In a bowl, toss diced yautia with smoked paprika, salt, pepper, and 1 tbsp butter; set aside.",
+    "Cook diced bacon in teppan until crisp, then remove and set aside, leaving bacon fat in pan.",
+    "Add remaining butter to teppan and sauté onions until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook until fragrant, about 30 seconds.",
+    "Add yautia to pan, spread evenly, and sear for 5 minutes on each side until golden brown.",
+    "Sprinkle fresh thyme and lemon zest over yautia, then add cooked bacon back to pan.",
+    "Cook for an additional 2 minutes, allowing flavors to meld, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dense",
+    "egg-free",
+    "lazy-sunday",
+    "one-pan",
+    "pungent"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 18
+  },
+  "slug": "lush-dense-american-yautia-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-dense-american-yautia-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:01:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "yautia",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "yautia",
+    "descriptor": "Lush Dense",
+    "dishForm": "Skillet"
+  }
+}
