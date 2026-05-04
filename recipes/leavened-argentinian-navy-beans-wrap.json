@@ -1,0 +1,125 @@
+{
+  "title": "Leavened Argentinian Navy Beans Wrap",
+  "description": "A yeasty, chewy wrap filled with creamy navy beans and herbs, steamed to tender perfection and perfect for kids.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water for soaking",
+      "amount": "4 cups"
+    },
+    {
+      "name": "water for cooking",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "100 g"
+    },
+    {
+      "name": "instant dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "8 large"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak the navy beans in 4 cups of water overnight or for at least 12 hours.",
+    "Drain the beans and place them in a pot with 2 cups of fresh water, salt, diced onion, minced garlic, cumin, paprika, oregano, and a splash of olive oil.",
+    "Bring to a boil, reduce heat, cover, and simmer for 90 minutes until the beans are tender.",
+    "Remove the pot from heat, then mash the beans partially with a fork, leaving some texture.",
+    "Stir in the cream cheese, instant dry yeast, chopped parsley, lemon juice, and black pepper until well combined.",
+    "Heat 8 large spinach leaves briefly in a steamer or in a pan with a splash of water to soften them and make them pliable.",
+    "Place a heaping spoonful of the bean mixture onto each spinach leaf and roll tightly from one end to the other to create a wrap.",
+    "Steam the assembled wraps for an additional 3 minutes to meld flavors and ensure the wraps stay warm.",
+    "Serve the wraps immediately, optionally with a side of fresh fruit or a light vinaigrette.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 95,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "bean-based",
+    "chewy",
+    "kid-friendly",
+    "lacto-vegetarian",
+    "steamed",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 28,
+    "carbs": 42,
+    "fat": 65
+  },
+  "slug": "leavened-argentinian-navy-beans-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/leavened-argentinian-navy-beans-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:34:02Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "navy beans",
+    "descriptor": "Leavened",
+    "dishForm": "Wrap"
+  }
+}
