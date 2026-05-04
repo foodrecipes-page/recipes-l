@@ -1,0 +1,100 @@
+{
+  "title": "Lightly Crispy Moroccan Burrata Mrouzia",
+  "description": "A buttery and crispy Moroccan dish featuring burrata, poached in a low-fat friendly mrouzia form, served in a bento-box.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "mrouzia spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the mrouzia spice blend, salt, and black pepper.",
+    "Place the burrata cheese in a bento-box and sprinkle the spice blend mixture evenly over the top.",
+    "Drizzle the olive oil and lemon juice over the burrata cheese.",
+    "Add the minced garlic and chopped parsley on top of the burrata cheese.",
+    "Pour the low-sodium chicken broth into the bento-box, making sure the burrata cheese is partially submerged.",
+    "Cover the bento-box with aluminum foil and bake for 15 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is lightly crispy.",
+    "Remove the bento-box from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "crispy",
+    "low-fat",
+    "lunch",
+    "moroccan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-crispy-moroccan-burrata-mrouzia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crispy-moroccan-burrata-mrouzia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:59:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "burrata",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "burrata",
+    "descriptor": "Lightly Crispy",
+    "dishForm": "Mrouzia"
+  }
+}
