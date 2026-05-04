@@ -1,0 +1,87 @@
+{
+  "title": "Luscious Venezuelan Asparagus Salad",
+  "description": "A vibrant Venezuelan asparagus salad that blends earthy spears with rendered pork fat, crumbly cheese, and bright citrus, served on a natural agave leaf for a romantic date-night dish.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh asparagus spears",
+      "amount": "800g"
+    },
+    {
+      "name": "rendered pork fat",
+      "amount": "30g"
+    },
+    {
+      "name": "crumbly queso fresco",
+      "amount": "56g"
+    },
+    {
+      "name": "freshly squeezed lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh oregano, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Trim the asparagus spears and blanch them in boiling water for 2 minutes until bright green and slightly tender, then immediately transfer to ice water to stop cooking.",
+    "Drain the asparagus and pat dry, then slice each spear into 1.5 cm pieces.",
+    "Heat a small skillet over medium heat, add the rendered pork fat, and let it melt completely, infusing the fat with the flavor of the pork.",
+    "Toss the sliced asparagus with the hot rendered pork fat until evenly coated, letting the heat from the fat lightly toast the spears.",
+    "Place the warm asparagus onto a clean agave leaf and sprinkle with the crumbly queso fresco, toasted pumpkin seeds, chopped cilantro, oregano, and sea salt.",
+    "Drizzle the freshly squeezed lime juice over the salad, adding a bright citrus finish that balances the richness of the render fat and cheese.",
+    "Gently toss the salad to combine all the flavors, ensuring each asparagus piece is coated with cheese, seeds, and lime.",
+    "Serve immediately on the agave leaf for an elegant presentation, ideal for a date-night meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "agave-leaf",
+    "crunchy",
+    "date-night",
+    "no-onion-garlic",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 26,
+    "carbs": 23,
+    "fat": 42
+  },
+  "slug": "luscious-venezuelan-asparagus-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-venezuelan-asparagus-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:01:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "asparagus",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "asparagus",
+    "descriptor": "Luscious",
+    "dishForm": "Salad"
+  }
+}
