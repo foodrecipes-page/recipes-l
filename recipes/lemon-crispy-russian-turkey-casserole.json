@@ -1,0 +1,99 @@
+{
+  "title": "Lemon Crispy Russian Turkey Casserole",
+  "description": "A bright, citrusy casserole with tender turkey mince, crisp lemon topping simmered gently in a copper pot.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground turkey",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2 large",
+      "notes": "for crisp topping"
+    }
+  ],
+  "instructions": [
+    "Heat the copper pot over medium heat and add the tablespoon of olive oil until shimmering.",
+    "Toss in the diced onion and minced garlic, cooking until the onion becomes translucent.",
+    "Stir in the ground turkey, breaking it apart with a spoon, and cook until it loses its pink color.",
+    "Sprinkle paprika, salt, and pepper, then pour in lemon juice and stir in the lemon zest.",
+    "Let the mixture simmer for 10 minutes, allowing flavors to meld.",
+    "While the mixture simmers, whisk the egg whites until soft peaks form and spoon them over the top to create a crisp layer.",
+    "Cover the pot and place it in a bain‑marie over a pan of simmering water to finish cooking gently.",
+    "Once the top is golden and firm, remove from heat, garnish with fresh herbs, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "citrus",
+    "copper-pot",
+    "easy",
+    "sugar-free",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 30,
+    "carbs": 14,
+    "fat": 16
+  },
+  "slug": "lemon-crispy-russian-turkey-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-crispy-russian-turkey-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:55:05Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "bain-marie",
+    "primaryIngredient": "turkey mince",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Turkey",
+    "descriptor": "Lemon Crispy",
+    "dishForm": "Casserole"
+  }
+}
