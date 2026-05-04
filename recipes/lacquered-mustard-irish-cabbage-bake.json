@@ -1,0 +1,104 @@
+{
+  "title": "Lacquered Mustard Irish Cabbage Bake",
+  "description": "A comforting, low-carb Irish staple featuring tender cabbage wedges coated in a sticky, savory mustard glaze with melted butter. This dish provides a chewy, satisfying texture perfect for recovery or cold evenings.",
+  "cuisine": "Irish",
+  "diet": [
+    "Keto",
+    "Low-Carb",
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green Cabbage",
+      "amount": "1 medium head",
+      "notes": "cut into 8 thick wedges with core intact"
+    },
+    {
+      "name": "Salted Butter",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "3 tablespoons",
+      "notes": "sharp and smooth"
+    },
+    {
+      "name": "Whole Grain Mustard",
+      "amount": "1 tablespoon",
+      "notes": "for texture"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "to cut through the richness"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "even coating"
+    },
+    {
+      "name": "Liquid Stevia or Monkfruit",
+      "amount": "5 drops",
+      "notes": "optional for the lacquer effect"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 teaspoon",
+      "notes": "freshly cracked"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400 degrees Fahrenheit and grease a large rimmed baking sheet.",
+    "Whisk together the melted butter, both mustards, vinegar, sweetener, garlic powder, and pepper in a small bowl.",
+    "Arrange the cabbage wedges on the baking sheet ensuring they do not overlap.",
+    "Brush half of the mustard mixture generously over the tops and sides of each cabbage wedge.",
+    "Cover the tray tightly with aluminum foil and bake for 20 minutes to tenderize the leaves.",
+    "Remove the foil and brush the remaining mustard glaze over the cabbage wedges.",
+    "Return the tray to the oven uncovered and bake for another 15 minutes until the edges are charred.",
+    "Baste the cabbage with the rendered butter from the pan halfway through the final baking time.",
+    "Switch the oven to broil for the last 2 minutes to achieve a sticky lacquer finish.",
+    "Serve immediately while the butter is bubbling and the cabbage is soft yet chewy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 37,
+  "totalTimeMin": 47,
+  "serv": 4,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "irish-inspired",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "vegetable-side"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "lacquered-mustard-irish-cabbage-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lacquered-mustard-irish-cabbage-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T08:11:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "melted butter",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Lacquered Mustard",
+    "dishForm": "Bake"
+  }
+}
