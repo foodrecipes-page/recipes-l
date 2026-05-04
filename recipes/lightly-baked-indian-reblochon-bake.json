@@ -1,0 +1,105 @@
+{
+  "title": "Lightly Baked Indian Reblochon Bake",
+  "description": "A tangy and springy one-pot Indian dish featuring reblochon, perfect for pescatarian diets, baked to perfection in a wood-fired oven.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "200g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the basmati rice, chopped onion, grated ginger, garam masala, turmeric, and salt.",
+    "In a separate pan, heat some oil and saute the shrimp until they are pink and cooked through.",
+    "Add the cooked shrimp to the bowl with the rice mixture and stir well.",
+    "In a greased baking dish, create a layer of the rice and shrimp mixture.",
+    "Arrange a layer of sliced reblochon cheese on top of the rice mixture.",
+    "Repeat the layers until all the ingredients are used up, ending with a layer of cheese on top.",
+    "Drizzle the lemon juice over the cheese and sprinkle with chopped cilantro.",
+    "Bake the dish in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "indian-cuisine",
+    "one-pot",
+    "pescatarian-friendly",
+    "springy",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lightly-baked-indian-reblochon-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-baked-indian-reblochon-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:25:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "reblochon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "reblochon",
+    "descriptor": "Lightly baked",
+    "dishForm": "Bake"
+  }
+}
