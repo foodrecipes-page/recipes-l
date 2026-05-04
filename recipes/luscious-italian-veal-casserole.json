@@ -1,0 +1,94 @@
+{
+  "title": "Luscious Italian Veal Casserole",
+  "description": "An earthy, light and cozy Italian casserole that blends tender veal shanks with dark brown soft sugar, dehydrate-style aromatics, and a silky braising liquid for a comforting meal.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal shanks",
+      "amount": "4 pieces, 800 g",
+      "notes": "egg-free-friendly"
+    },
+    {
+      "name": "Dark brown soft sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp, chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F.",
+    "Season the veal shanks with salt and pepper.",
+    "Heat olive oil in a large oven-safe pot over medium-high heat and brown the shanks on all sides.",
+    "Remove the shanks and set aside.",
+    "Add tomato paste to the pot and cook for 2 minutes, stirring.",
+    "Deglaze with red wine, scraping up browned bits, and let it reduce by half.",
+    "Stir in dried oregano, dried rosemary, dark brown soft sugar, and vegetable broth.",
+    "Return the veals to the pot, cover, and transfer to the oven.",
+    "Bake for 80 minutes, turning once, until the veal is fork-tender.",
+    "Serve hot garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egg-free",
+    "italian",
+    "slow-cook",
+    "veal"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 90,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "luscious-italian-veal-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-italian-veal-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:21:30Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "dehydrate",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Veal",
+    "descriptor": "Luscious",
+    "dishForm": "Casserole"
+  }
+}

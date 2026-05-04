@@ -1,0 +1,109 @@
+{
+  "title": "Luscious Indian Pork Tenderloin Skillet",
+  "description": "Buttery, cheese-pull, weeknight Indian dish featuring pork tenderloin in a skillet.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "450 g",
+      "notes": "cut into 2-inch thick slices"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add the olive oil.",
+    "Add the sliced pork and sear until browned on both sides, about 2-3 minutes per side.",
+    "Sprinkle the garam masala, cumin, paprika, turmeric, salt, and pepper over the pork and stir to coat evenly.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Reduce the heat to low and spread the shredded cheddar cheese evenly over the pork and onion mixture.",
+    "Cover the skillet with a lid and let the cheese melt for 1-2 minutes until bubbly.",
+    "Use a spatula to gently drape the melted cheese over the pork slices, creating a pull-apart effect.",
+    "Drizzle a little butter on top of the cheese for extra richness and let it melt.",
+    "Cook the pork until it reaches an internal temperature of 145°F (63°C), about 8-10 more minutes total.",
+    "Serve hot with steamed rice or naan and enjoy the buttery, cheese-pull experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "indian",
+    "one-pan",
+    "pork",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1700,
+    "protein": 130,
+    "carbs": 10,
+    "fat": 120
+  },
+  "slug": "luscious-indian-pork-tenderloin-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-indian-pork-tenderloin-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:21:55Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Pork Tenderloin",
+    "descriptor": "Luscious",
+    "dishForm": "Skillet"
+  }
+}
