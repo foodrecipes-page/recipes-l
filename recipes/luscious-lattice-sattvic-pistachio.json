@@ -1,0 +1,89 @@
+{
+  "title": "Luscious Lattice Sattvic Pistachio",
+  "description": "A fatty, gooey, romantic Saudi Arabian dessert featuring pistachios and an ayurvedic-friendly glaze.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pistachio paste",
+      "amount": 120
+    },
+    {
+      "name": "coconut milk",
+      "amount": "?"
+    },
+    {
+      "name": "honey",
+      "amount": 50
+    },
+    {
+      "name": "almond meal",
+      "amount": 100
+    },
+    {
+      "name": "pistachios, ground",
+      "amount": 240
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "a pinch"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "to taste"
+    },
+    {
+      "name": "almond meal for layering",
+      "amount": 150
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350.",
+    "Mix together all ingredients except almond meal and sesame seeds in a bowl until smooth.",
+    "Layer the mixture into an inverted pan lined with almond meal.",
+    "Sprinkle ground pistachios over the layer.",
+    "Place in preheated oven for 15 minutes, then bake for another 10-15 minutes on 325.",
+    "Remove from oven and let cool slightly.",
+    "Gently remove from pan using a knife or toothpick. Dust with sesame seeds before serving.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "glazed-dessert",
+    "lighter-dessert",
+    "pistachio-recipe",
+    "romantic-dessert",
+    "sandy-cool",
+    "saudi-arabian-dessert"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 17,
+    "carbs": 98,
+    "fat": 36
+  },
+  "slug": "luscious-lattice-sattvic-pistachio",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-lattice-sattvic-pistachio",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T12:43:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "glaze",
+    "primaryIngredient": "pistachio",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Sattvic",
+    "mainIngredient": "pistachios",
+    "descriptor": "Luscious",
+    "dishForm": "Dessert"
+  }
+}
