@@ -1,0 +1,86 @@
+{
+  "title": "Lemony Glazed White Cabbage Corn-Husk Wrap",
+  "description": "A sour, juicy Japanese dish featuring white cabbage wrapped in corn-husk, glazed with a lactic acid-based sauce that is lacto-vegetarian-friendly.",
+  "cuisine": "chugoku",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": 2
+    },
+    {
+      "name": "corn-husk",
+      "amount": "4"
+    },
+    {
+      "name": "lemon juice",
+      "amount": 100
+    },
+    {
+      "name": "glutinous rice wine vinegar (takuan-soya)",
+      "amount": 30
+    },
+    {
+      "name": "sweet soy sauce",
+      "amount": 20
+    },
+    {
+      "name": "sesame oil",
+      "amount": 10
+    },
+    {
+      "name": "sugar",
+      "amount": 5
+    },
+    {
+      "name": "salt",
+      "amount": 5
+    }
+  ],
+  "instructions": [
+    "Wash the white cabbage and remove any damaged leaves.",
+    "Core the cabbage by cutting off about a third of its top to create a flat surface for wrapping.",
+    "Blanch the corn-husk in boiling water for 30 seconds, then remove with tongs. Lay out on a clean kitchen towel and let dry thoroughly.",
+    "Place one piece of blanched corn-husk on a chopping board and place a cabbage leaf over it. Wrap the cabbage around the corn-husk in pleats, securing with skewers if needed.",
+    "In a small bowl, mix together lemon juice, glutinous rice wine vinegar (takuan-soya), sweet soy sauce, sesame oil, sugar, and salt to taste. Pour the mixture evenly over each wrapped cabbage leaf.",
+    "Place the prepared corn-husk wraps on a baking sheet lined with parchment paper. Bake in a 200°C preheated oven for 15 minutes or until the cabbage is tender and slightly caramelized.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "corn-husk-wrap",
+    "glazed-cabbage",
+    "japanese-chugoku",
+    "sour-savory",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "lemony-glazed-white-cabbage-corn-husk-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-glazed-white-cabbage-corn-husk-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:01:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "white cabbage",
+    "diet": "lacto-vegetarian",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "white cabbage",
+    "descriptor": "Lemony Glazed",
+    "dishForm": "Wrap"
+  }
+}
