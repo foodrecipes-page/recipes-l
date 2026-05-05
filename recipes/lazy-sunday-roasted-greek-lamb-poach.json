@@ -1,0 +1,115 @@
+{
+  "title": "Lazy-Sunday Roasted Greek Lamb Poach",
+  "description": "A delicious and easy-to-make roasted lamb dish from Greece, featuring a rich red wine jelly and a poached egg for a satisfying lazy Sunday meal.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leg of lamb",
+      "amount": "1.5 lbs",
+      "notes": "boneless"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "reduced"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "raw honey"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "for poaching"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u0012F (200\u0012C).",
+    "Season the lamb with salt, pepper, and oregano.",
+    "In a small saucepan, combine the reduced red wine, honey, and lemon juice.",
+    "Bring the sauce to a simmer and cook until slightly thickened.",
+    "Place the lamb in a roasting pan and spoon the sauce over the top.",
+    "Roast the lamb in the preheated oven for 20 minutes per pound, or until it reaches an internal temperature of 145\u0012F (63\u0012C).",
+    "While the lamb is cooking, poach the eggs in a separate saucepan of simmering water.",
+    "To serve, slice the lamb and top with a dollop of red wine jelly and a poached egg.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "lazy-sunday",
+    "low-carb",
+    "paleo",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "lazy-sunday-roasted-greek-lamb-poach",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-roasted-greek-lamb-poach",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "red wine jelly",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Lazy-Sunday Roasted",
+    "dishForm": "Poach"
+  }
+}

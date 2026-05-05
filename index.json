@@ -778,6 +778,20 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-roasted-greek-lamb-poach",
+    "title": "Lazy-Sunday Roasted Greek Lamb Poach",
+    "tags": [
+      "greek",
+      "lazy-sunday",
+      "low-carb",
+      "paleo",
+      "roasted"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 75,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-russian-raspberry-jam-stir-fry",
     "title": "Lazy-Sunday Russian Raspberry Jam Stir-fry",
     "tags": [
@@ -3765,6 +3779,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-yeasty-kenyan-barramundi-cazuela",
+    "title": "Light, Yeasty Kenyan Barramundi Cazuela",
+    "tags": [
+      "fish",
+      "kevian",
+      "one-pan",
+      "weeknight",
+      "yeast"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
