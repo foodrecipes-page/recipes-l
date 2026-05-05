@@ -1,0 +1,94 @@
+{
+  "title": "Australian Nutty Cake",
+  "description": "A light and nutty breakfast cake with an Australian twist, using orange blossom water and plant-based ingredients.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "flaxseed",
+      "amount": "1 tablespoon ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees Fahrenheit.",
+    "Grease a 9-inch round cake pan with non-stick spray.",
+    "In a large bowl, whisk together almond flour, coconut sugar, and baking powder.",
+    "In a separate bowl, whisk together non-dairy milk, canola oil, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the chopped walnuts and ground flaxseed.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35 minutes, or until a toothpick inserted in the center comes out clean."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "breakfast",
+    "nutty",
+    "orange-blossom-water",
+    "spherify"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "light-australian-nutty-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-australian-nutty-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:15Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "spherify",
+    "primaryIngredient": "orange blossom water",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "nutty",
+    "descriptor": "light",
+    "dishForm": "cake"
+  }
+}
