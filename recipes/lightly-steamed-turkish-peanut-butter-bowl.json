@@ -1,0 +1,92 @@
+{
+  "title": "Lightly Steamed Turkish Peanut Butter Bowl",
+  "description": "A refreshing, floral twist on traditional Turkish cuisine. Perfect for a leisurely brunch or light meal.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "4"
+    },
+    {
+      "name": "Sliced fresh mint",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a small saucepan over low heat.",
+    "Add the ginger paste and cook for 1 minute, stirring constantly.",
+    "Stir in the peanut butter until smooth and creamy.",
+    "Add the dashi extract, honey, and salt. Whisk until well combined.",
+    "Pour the mixture into a donabe or small saucepan.",
+    "Bring the mixture to a gentle simmer over low heat.",
+    "Steam the mixture for 5 minutes, or until heated through.",
+    "Garnish with sliced scallions and fresh mint sprigs.",
+    "Serve immediately, hot or warm.",
+    "Garnish with additional scallions and mint if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "donabe",
+    "easy",
+    "healthy",
+    "peanut-butter",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "lightly-steamed-turkish-peanut-butter-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-steamed-turkish-peanut-butter-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "dashi-extract",
+    "primaryIngredient": "peanut butter",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "peanut butter",
+    "descriptor": "Lightly Steamed",
+    "dishForm": "Bowl"
+  }
+}
