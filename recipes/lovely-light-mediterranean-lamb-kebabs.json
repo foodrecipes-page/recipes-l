@@ -1,0 +1,103 @@
+{
+  "title": "Lovely Light Mediterranean Lamb Kebabs",
+  "description": "Umami and energizing Mediterranean dish featuring lamb kebabs with a miso marinade, red bell peppers, and ayurvedic-tamasic-friendly ingredients, perfect for a light dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, lemon juice, olive oil, red food coloring, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and mix well to coat, then cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Thread the marinated lamb cubes, red bell pepper, and onion onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley and a side of quinoa or couscous.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "gluten-free",
+    "grilled-meats",
+    "healthy-dinner",
+    "lamb-recipes",
+    "mediterranean-diet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "lovely-light-mediterranean-lamb-kebabs",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-light-mediterranean-lamb-kebabs",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:10:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "miso-marinate",
+    "primaryIngredient": "red food colouring",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Lovely Light",
+    "dishForm": "Kebabs"
+  }
+}
