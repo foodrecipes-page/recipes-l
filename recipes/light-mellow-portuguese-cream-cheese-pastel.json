@@ -1,0 +1,113 @@
+{
+  "title": "Light Mellow Portuguese Cream Cheese Pastel",
+  "description": "A light, festive Portuguese dessert featuring a mirepoix-base, cream cheese, and a jammy filling.",
+  "cuisine": "Portuguese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "butter, softened",
+      "amount": "6 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sodium chloride"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "black pepper"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "dry garlic"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "cream cheese, softened",
+      "amount": "8 ounces",
+      "notes": "low-fat"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 \u001285F (180 \u001285C).",
+    "In a medium bowl, whisk together flour, salt, and black pepper.",
+    "In a large skillet, heat butter over medium heat. Add grated onion, carrot, and zucchini. Cook until tender, about 15 minutes.",
+    "Add garlic powder and cook for 1 minute, stirring constantly.",
+    "Roll out biscuit dough on a lightly floured surface to a thickness of about 1/8 inch. Cut into circles using a cookie cutter or the rim of a glass.",
+    "Place dough circles into a 9-inch tart pan with a removable bottom. Trim edges to fit. ",
+    "Combine cream cheese, sugar, and unsweetened almond milk in a blender or food processor. Blend until smooth and creamy.",
+    "Pour cream cheese mixture into the prepared tart shell. ",
+    "Bake for 35-40 minutes, or until the edges are golden brown and the filling is set.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "light-mellow-portuguese-cream-cheese-pastel",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mellow-portuguese-cream-cheese-pastel",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:58Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "cream cheese",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "cream cheese",
+    "descriptor": "light mellow",
+    "dishForm": "Pastel"
+  }
+}

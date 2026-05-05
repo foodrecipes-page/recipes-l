@@ -30,6 +30,18 @@
     "shard": "l"
   },
   {
+    "slug": "lacquer-glazed-malaysian-saskatoon-berries-stew",
+    "title": "Lacquer-Glazed Malaysian Saskatoon Berries Stew",
+    "tags": [
+      "one-pan",
+      "raw-friendly",
+      "vegan"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lacquered-canadian-chicken-wings-casserole",
     "title": "Lacquered Canadian Chicken Wings Casserole",
     "tags": [
@@ -2919,6 +2931,21 @@
     ],
     "cuisine": "mediterranean",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-mellow-portuguese-cream-cheese-pastel",
+    "title": "Light Mellow Portuguese Cream Cheese Pastel",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "high-protein",
+      "one-pan",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 70,
     "shard": "l"
   },
   {
@@ -6603,6 +6630,20 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-hangover-italian-sausages-tiramisu",
+    "title": "Luscious Hangover Italian Sausages Tiramisu",
+    "tags": [
+      "hangover-cure",
+      "italian",
+      "italian-sausages",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 70,
     "shard": "l"
   },
   {

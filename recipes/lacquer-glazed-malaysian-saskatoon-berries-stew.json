@@ -1,0 +1,95 @@
+{
+  "title": "Lacquer-Glazed Malaysian Saskatoon Berries Stew",
+  "description": "Quick fix aerated stew originating from Malaysia, using saskatoon berries and a lacquer glaze, suitable for raw-friendly diets.",
+  "cuisine": "malaysian",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon Berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lacquer Glaze",
+      "amount": "2 tablespoons",
+      "notes": "available at Asian markets or online stores"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Mint Leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a cazuela over medium heat.",
+    "Saute ginger until fragrant, about 1 minute.",
+    "Add saskatoon berries and cook for 2 minutes.",
+    "Add coconut milk and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until the saskatoon berries start to break down.",
+    "Stir in honey and lacquer glaze.",
+    "Season with fish sauce to taste.",
+    "Garnish with mint leaves and serve immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pan",
+    "raw-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "lacquer-glazed-malaysian-saskatoon-berries-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lacquer-glazed-malaysian-saskatoon-berries-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:37:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "lacquer-glazed",
+    "dishForm": "stew"
+  }
+}

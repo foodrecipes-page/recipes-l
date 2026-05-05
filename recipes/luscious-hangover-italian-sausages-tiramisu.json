@@ -1,0 +1,108 @@
+{
+  "title": "Luscious Hangover Italian Sausages Tiramisu",
+  "description": "Freshest, molten, and carefully crafted Italian dish featuring rich sausages, a tagine-cooked twist, and a gluten-free twist perfect for hangover recovery. Perfect for using up leftover Italian sausages and eggs.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gluten-free Italian Sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free pasta",
+      "amount": "8 oz",
+      "notes": "cook al dente, reserve water for later use"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned, diced"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded, gluten-free"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded, gluten-free"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "large, for egg tempering"
+    },
+    {
+      "name": "Unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine sausage, pasta, tomatoes, mozzarella cheese, and Parmesan cheese, reserving some mozzarella for topping.",
+    "Tagine-cook the sausage mixture at 375 degrees F for 30 minutes, stirring occasionally.",
+    "In a small mixing bowl, whisk eggs and unsweetened almond milk, then temper the egg mixture with the cooked sausage mixture, stirring gently.",
+    "Transfer the sausage mixture to a molcajete or a large serving dish, topping with the reserved mozzarella cheese and sprinkling with chopped fresh basil, then refrigerate for at least 30 minutes to set the egg tempering, allowing the flavors to meld together and the mozzarella to melt in.",
+    "Garnish with chopped fresh basil and serve immediately, using any leftover egg tempering mixture as a sauce for the dish, if desired.",
+    "Serve warm or at room temperature, garnished with additional fresh basil if desired.",
+    "Make sure the tagine is preheated to a high temperature for the best results.",
+    "Heat the oven to 375 degrees F, making sure it has reached a hot and even temperature before adding the sausage mixture for the best cooking results.",
+    "Ensure all ingredients are at room temperature before cooking for even cooking times and results.",
+    "Reserve some mozzarella for topping so it melts evenly and stays crispy on top.",
+    "Add some fresh basil on top to add color and extra flavor to the dish, and help the flavors meld together.",
+    "Cook the pasta al dente so it holds up in the egg tempering and doesn't become mushy or overcooked.",
+    "Temper the egg mixture carefully to avoid scrambling the eggs and ensure the egg tempering is evenly distributed throughout the dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "italian",
+    "italian-sausages",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "luscious-hangover-italian-sausages-tiramisu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-hangover-italian-sausages-tiramisu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:37:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "tagine-cook",
+    "primaryIngredient": "sausages",
+    "diet": "gluten-free",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sausages",
+    "descriptor": "Luscious Hangover",
+    "dishForm": "Tiramis\u00152"
+  }
+}
