@@ -2017,6 +2017,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-earthy-korean-duck-bowl",
+    "title": "Light Earthy Korean Duck Bowl",
+    "tags": [
+      "easy-to-make",
+      "korean",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
     "slug": "light-egyptian-beef-bowl",
     "title": "Light Egyptian Beef Bowl",
     "tags": [
@@ -3270,6 +3284,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "light-portuguese-malty-bake",
+    "title": "Light Portuguese Malt Loaf",
+    "tags": [
+      "gluten-rich",
+      "high-fiber",
+      "homestyle",
+      "portuguese",
+      "tahini",
+      "wood-fired"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {

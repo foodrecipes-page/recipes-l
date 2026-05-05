@@ -1,0 +1,105 @@
+{
+  "title": "Light Portuguese Malt Loaf",
+  "description": "A shaggy, light Portuguese-inspired dish featuring tahini paste, with a crusty wood-fired-bake finish. Perfect for a stress-free dinner or snack.",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "oat flour",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "tahini paste",
+      "amount": "60g",
+      "notes": "make sure it's well stirred before using"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15g",
+      "notes": "use a high-quality oil for best flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "20g",
+      "notes": "use a moderate amount for balance"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "fresh eggs are a must"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh rosemary",
+      "amount": "15g",
+      "notes": "freshly chopped is a must for best flavor"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven or conventional oven to 375°F (190°C).",
+    "Gather ingredients and equipment before starting to mix the dough.",
+    "Combine flours, tahini paste, sugar, salt, and rosemary in a large bowl.",
+    "Mix in olive oil, eggs, and plain yogurt until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper, leaving about 1 inch of space around it.",
+    "Brush the top of the loaf with olive oil and sprinkle with coarse salt.",
+    "Bake the loaf in the preheated oven for 35 minutes, or until it's golden brown and sounds hollow when tapped.",
+    "Let the loaf cool on a wire rack for 10 minutes before slicing.",
+    "Slice the loaf and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-rich",
+    "high-fiber",
+    "homestyle",
+    "portuguese",
+    "tahini",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "light-portuguese-malty-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-portuguese-malty-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "tahini paste",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "malty",
+    "descriptor": "Light",
+    "dishForm": "Bake"
+  }
+}

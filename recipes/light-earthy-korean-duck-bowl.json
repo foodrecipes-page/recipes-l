@@ -1,0 +1,63 @@
+{
+  "title": "Light Earthy Korean Duck Bowl",
+  "description": "A low-calorie, earthy, aerated Korean dish featuring duck fat and emulsified sauce, perfect for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Brown Arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C) and toast Arborio rice for 5 minutes, shaking occasionally."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "korean",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "light-earthy-korean-duck-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-earthy-korean-duck-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "duck fat",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "duck",
+    "descriptor": "light earthy",
+    "dishForm": "Bowl"
+  }
+}
