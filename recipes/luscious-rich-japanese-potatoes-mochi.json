@@ -1,0 +1,125 @@
+{
+  "title": "luscious rich Japanese potatoes Mochi",
+  "description": "A resinous, dense, and kid-friendly Japanese dish from Hokkaido featuring potatoes, spherified for a unique texture, making it suitable for a satvik diet.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "edible gold dust",
+      "amount": "a pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for finishing"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "1 cup",
+      "notes": "canned, drained and sliced"
+    },
+    {
+      "name": "green tea",
+      "amount": "1 teaspoon",
+      "notes": "bottled"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine 1 cup of water and 1/2 cup of sugar in a saucepan and heat until the sugar dissolves.",
+    "Wash and peel 2 large potatoes, then chop them into small cubes.",
+    "In a separate saucepan, mix 2 tablespoons of cornstarch with 1 cup of water to create a slurry.",
+    "Gradually add the slurry to the potato cubes and mix until the potatoes are coated.",
+    "Using a bamboo skewer, create small balls of the potato mixture and cook in a steamer for 4-5 minutes.",
+    "Meanwhile, combine 1/2 cup of sugar syrup and 1 teaspoon of matcha powder (if using) in a small bowl.",
+    "Once the potatoes are cooked, add them to the bowl and toss to coat with the matcha syrup.",
+    "Using a spherification kit or a syringe, create small spherical shapes with the potato mixture.",
+    "Paste the spheres with a pinch of edible gold dust (if using) and a drizzle of sesame oil.",
+    "Serve warm, garnished with sliced water chestnuts and a sprinkle of matcha powder (if using).",
+    "Optional: infuse the dish with green tea by drizzling a teaspoon of bottled green tea over the potatoes before serving.",
+    "Optional: add a pat of unsalted butter to the potatoes before serving for extra richness.",
+    "Garnish with a pinch of salt to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hokkaido",
+    "japanese",
+    "kid-friendly",
+    "satvik",
+    "spherified",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "luscious-rich-japanese-potatoes-mochi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-rich-japanese-potatoes-mochi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:30Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "spherify",
+    "primaryIngredient": "potatoes",
+    "diet": "satvik",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "potatoes",
+    "descriptor": "luscious rich",
+    "dishForm": "Mochi"
+  }
+}

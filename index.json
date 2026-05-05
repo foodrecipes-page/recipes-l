@@ -900,6 +900,19 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-tunisian-shrimp-paste-kapi-tagine",
+    "title": "Lazy-Sunday Tunisian Shrimp-Paste-Kapi Tagine",
+    "tags": [
+      "lazy-sunday",
+      "one-pan",
+      "tunisian",
+      "veggie-forward"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-ukrainian-water-borscht",
     "title": "Lazy-sunday Ukrainian Water Borscht",
     "tags": [
@@ -3063,6 +3076,23 @@
     "shard": "l"
   },
   {
+    "slug": "light-peppery-algerian-peas-tagine",
+    "title": "Light Peppery Algerian Peas Tagine",
+    "tags": [
+      "algerian",
+      "north-african",
+      "one-pan",
+      "peas",
+      "stew",
+      "tagine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "light-peppery-australian-macaroni-pasta",
     "title": "Australian Macaroni with Peppery Knead",
     "tags": [
@@ -3597,6 +3627,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-springy-spicy-russian-sake-stew",
+    "title": "Light Springy Spicy Russian Sake Stew",
+    "tags": [
+      "one-pan",
+      "paprika",
+      "sake",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
@@ -6952,6 +6996,22 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-rich-japanese-potatoes-mochi",
+    "title": "luscious rich Japanese potatoes Mochi",
+    "tags": [
+      "hokkaido",
+      "japanese",
+      "kid-friendly",
+      "satvik",
+      "spherified",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {

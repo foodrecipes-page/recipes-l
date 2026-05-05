@@ -1,0 +1,125 @@
+{
+  "title": "Lazy-Sunday Tunisian Shrimp-Paste-Kapi Tagine",
+  "description": "A flavorful and easy-to-make Tunisian-inspired dish featuring shrimp paste kapi,dehydrated vegetables, and a rich glassy jelly sauce,perfect for a lazy Sunday dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp paste kapi",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dehydrated onion",
+      "amount": "1/2 cup",
+      "notes": "Rehydrate in water before using"
+    },
+    {
+      "name": "Dehydrated bell pepper",
+      "amount": "1/2 cup",
+      "notes": "Rehydrate in water before using"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Pimenton",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked paprika"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large pan over medium heat.",
+    "Add the garlic and ginger and sauté for 2 minutes until fragrant.",
+    "Add the dehydrated onion and bell pepper and rehydrate in the pan with 1/4 cup of water.",
+    "Add the shrimp paste kapi and sauté for another 2 minutes until fragrant.",
+    "Add the tomato paste and sauté for 1 minute until caramelized.",
+    "Add the coconut water, salt, and black pepper, and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in the chopped parsley and pimenton.",
+    "Transfer the mixture to a wooden board and let cool to room temperature.",
+    "Refrigerate for at least 30 minutes before serving.",
+    "To serve, slice the jelly sauce and serve on top of crusty bread or on its own."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "one-pan",
+    "tunisian",
+    "veggie-forward"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "lazy-sunday-tunisian-shrimp-paste-kapi-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-tunisian-shrimp-paste-kapi-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "dehydrate",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Shrimp-paste-kapi",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Tagine"
+  }
+}

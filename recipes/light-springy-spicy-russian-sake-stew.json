@@ -1,0 +1,115 @@
+{
+  "title": "Light Springy Spicy Russian Sake Stew",
+  "description": "A light, vegetarian take on traditional Russian beef stews, made with sake, mushrooms, and a hint of spice.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sake",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sake in a large Dutch oven over medium heat until slightly reduced, about 5 minutes.",
+    "Add the onion, garlic, carrots, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the mushrooms, paprika, and cayenne pepper, and cook for 5 minutes, stirring occasionally.",
+    "Add the chicken broth, tomato paste, and black pepper, and stir to combine.",
+    "Bring the stew to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Season the stew with salt and pepper to taste, then stir in the chopped fresh dill.",
+    "Serve hot, garnished with additional fresh dill if desired.",
+    "Let the stew cool to room temperature, then refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "paprika",
+    "sake",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "light-springy-spicy-russian-sake-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-springy-spicy-russian-sake-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "sake",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sake",
+    "descriptor": "Light Springy Spicy",
+    "dishForm": "Stew"
+  }
+}
