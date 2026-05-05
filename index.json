@@ -4224,6 +4224,22 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-indulgent-french-mixed-grain-gougere",
+    "title": "Lightly Indulgent French Mixed Grain Gougere",
+    "tags": [
+      "breakfast",
+      "french",
+      "gougere",
+      "lunch",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-larded-peruvian-aubergine-tortilla",
     "title": "lightly-larded-peruvian-aubergine-tortilla",
     "tags": [
@@ -6711,6 +6727,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-low-fire-italian-herbal-glassy-jelly-wrap",
+    "title": "Luscious Low-Fire Italian Herbal Glassy-Jelly Wrap",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "gluten-free",
+      "hangover-cure",
+      "italian",
+      "one-pan"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {

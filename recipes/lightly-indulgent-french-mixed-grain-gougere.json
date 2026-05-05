@@ -1,0 +1,106 @@
+{
+  "title": "Lightly Indulgent French Mixed Grain Gougere",
+  "description": "A French-inspired choux gougere featuring a mix of grains and snappy pickle flavors. Perfect for a vegetarian snack or light lunch.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "grains (such as wheat berries, rye, and oats)",
+      "amount": "1/2 cup",
+      "notes": "Pre-soak for 4 hours"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup",
+      "notes": "Use a mixture of dill and sweet pickle juices"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "grated Gruyère cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the flour, grains, and salt.",
+    "Add the softened butter and mix until the dough resembles coarse crumbs.",
+    "Add the pickle juice, Gruyère cheese (if using), and mix until the dough is smooth.",
+    "Add the egg and mix until the dough is fully incorporated.",
+    "Transfer the dough to a piping bag fitted with a large round tip.",
+    "Pipe the dough onto a greased tava or griddle, forming small balls about 1 inch in diameter.",
+    "Bake for 15-20 minutes, or until the gougere are puffed and golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "french",
+    "gougere",
+    "lunch",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "lightly-indulgent-french-mixed-grain-gougere",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-indulgent-french-mixed-grain-gougere",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "mixed grain",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "mixed grain",
+    "descriptor": "Lightly Indulgent",
+    "dishForm": "Gougere"
+  }
+}
