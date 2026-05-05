@@ -1,0 +1,91 @@
+{
+  "title": "Lightly Savory Savoy Cabbage Pilaf",
+  "description": "A fluffy and light Slovakian dish featuring savory savoy cabbage cooked in a light pilaf with score-fat components for a diabetic-friendly meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": 400
+    },
+    {
+      "name": "score-fat breadcrumbs",
+      "amount": 100
+    },
+    {
+      "name": "onion",
+      "amount": "medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "light cream",
+      "amount": "250 ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": 100
+    },
+    {
+      "name": "salt",
+      "amount": 500
+    },
+    {
+      "name": "pepper",
+      "amount": 200
+    }
+  ],
+  "instructions": [
+    "Chop the savoy cabbage into bite-sized pieces.",
+    "Dice the onion and mince the garlic cloves.",
+    "Preheat oven to 180°C (350°F).",
+    "In a pot, sauté diced onion in vegetable oil until translucent.",
+    "Add minced garlic and cook for another minute, stirring constantly.",
+    "Stir in cabbage pieces with breadcrumbs, salt, and pepper.",
+    "Pour light cream over the ingredients and mix well.",
+    "Transfer mixture to an ovenproof dish, evenly distributing vegetables and crumbs.",
+    "Bake in preheated oven for 25 minutes or until all liquid is absorbed.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "fluffy",
+    "light",
+    "savory",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 395,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 8
+  },
+  "slug": "lightly-savory-savoy-cabbage-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-savory-savoy-cabbage-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T05:42:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "score-fat",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Savory",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Lightly",
+    "dishForm": "Pilaf"
+  }
+}
