@@ -1,0 +1,102 @@
+{
+  "title": "Lamb Luscious Kenyan Lamb Kebabs",
+  "description": "A flavorful and juicy Kenyan-inspired dish featuring lamb loin chops, with a hint of Indian and Middle Eastern spices. Perfect for a cozy dinner with family and friends.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Loin Chops",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the kebabs"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 1/2 teaspoons",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground spice"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground spice"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400°F (200°C).",
+    "Thread the lamb loin chops onto skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together the garam masala, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Brush the skewers with olive oil and sprinkle the spice blend over the lamb.",
+    "Grill the kebabs for 8-10 minutes per side, or until they're cooked to your desired level of doneness.",
+    "Meanwhile, mix together chopped cilantro and lemon juice for a simple sauce to serve with the kebabs.",
+    "Remove the kebabs from the grill and let them rest for a few minutes before serving.",
+    "Garnish with chopped cilantro and serve with the lemon sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "kebabs",
+    "kenyan",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "lamb-luscious-kenyan-lamb-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lamb-luscious-kenyan-lamb-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:50:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "emulsify",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Lamb luscious",
+    "dishForm": "Kebabs"
+  }
+}

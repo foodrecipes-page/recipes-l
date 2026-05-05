@@ -1,0 +1,113 @@
+{
+  "title": "lazy-sunday smoky kenyan beef flank steak braai",
+  "description": "a smoky and flavorful kenyan-inspired dish featuring braaied beef flank steak served with a side of spicy mango chutney.",
+  "cuisine": "kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1.5 kg",
+      "notes": "allow for 20 minutes resting time after braaing."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "120 ml",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "20 g",
+      "notes": "freshly toasted."
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "15 g",
+      "notes": "freshly toasted."
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "10 g",
+      "notes": "freshly crushed."
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced."
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated."
+    },
+    {
+      "name": "chili flakes",
+      "amount": "15 g",
+      "notes": "depending on desired spice level."
+    },
+    {
+      "name": "salt",
+      "amount": "10 g",
+      "notes": "preferably sea salt."
+    },
+    {
+      "name": "black pepper",
+      "amount": "5 g",
+      "notes": "preferably freshly ground."
+    },
+    {
+      "name": "mango chutney",
+      "amount": "200 g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the braai to medium-high heat (around 220°c).",
+    "season the beef flank steak with salt, black pepper, coriander seeds, cumin seeds, and cardamom pods, making sure to massage the spices into the meat.",
+    "heat the coconut oil in a small pan over medium heat and sauté the minced garlic and grated ginger until fragrant.",
+    "add the chili flakes to the pan and sauté for a further minute, stirring constantly.",
+    "brush the beef flank steak with the spiced oil mixture on both sides.",
+    "braai the beef flank steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "remove the beef from the braai and let it rest for 20 minutes before slicing thinly against the grain.",
+    "serve the sliced beef with a side of spicy mango chutney."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbecue",
+    "flank-steak",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 120,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "lazy-sunday-smoky-kenyan-beef-flank-steak-braai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-smoky-kenyan-beef-flank-steak-braai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:50:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "beef flank steak",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "lazy-sunday smoky",
+    "dishForm": "Braai"
+  }
+}
