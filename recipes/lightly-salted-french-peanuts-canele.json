@@ -1,0 +1,91 @@
+{
+  "title": "Lightly Salted French Peanuts Canelé",
+  "description": "A traditional French dessert from Provence, featuring peanuts and peanut oil, with a delicate touch of salt and a crispy exterior giving way to a pillowy interior. This vegan-friendly version uses a one-pot method to create the perfect canelé.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut oil",
+      "amount": "1 cup",
+      "notes": "preferably unrefined and expeller-pressed"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "unsalted and raw"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": " granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a medium saucepan, combine the peanut oil, peanuts, cornstarch, sugar, non-dairy milk, and salt. Heat the mixture over medium heat, whisking constantly, until it reaches a simmer.",
+    "Continue cooking the mixture for 5 minutes, or until it thickens and turns a light golden brown.",
+    "Remove the saucepan from the heat and stir in the vanilla extract, if using.",
+    "Pour the mixture into 6-8 canelé molds or ramekins, depending on their size.",
+    "Place the molds on a baking sheet lined with parchment paper and refrigerate for at least 2 hours or overnight.",
+    "Bake the canelés in the preheated oven for 20-25 minutes, or until they are golden brown and crispy on the outside and still slightly soft on the inside.",
+    "Remove the canelés from the oven and let them cool in the molds for 5 minutes before transferring them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 90,
+  "cookTimeMin": 25,
+  "totalTimeMin": 115,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "european",
+    "gluten-free",
+    "plant-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "lightly-salted-french-peanuts-canele",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-salted-french-peanuts-canele",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:03:46Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "peanut oil",
+    "diet": "vegan",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "peanuts",
+    "descriptor": "Lightly Salted",
+    "dishForm": "Canele"
+  }
+}
