@@ -107,6 +107,20 @@
     "shard": "l"
   },
   {
+    "slug": "lacto-vegetarian-crunchy-canadians-vermicelli-pilaf",
+    "title": "Lacto-Vegetarian Crunchy Canadians Vermicelli Pilaf",
+    "tags": [
+      "canadian",
+      "easy",
+      "lacto-vegetarian",
+      "one-pan",
+      "quick"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lamb-herb-canadian-stew",
     "title": "Lamb-Herb Canadian Stew",
     "tags": [
@@ -887,6 +901,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-xintense-jamaican-peas-bain-marie",
+    "title": "lazy-sunday xintense jamaican peas bain-marie",
+    "tags": [
+      "bain-marie",
+      "breakfast",
+      "comfort-food",
+      "jamaican",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
@@ -3390,6 +3418,23 @@
     "shard": "l"
   },
   {
+    "slug": "light-syrian-ham-bake",
+    "title": "Light Syrian Ham Bake",
+    "tags": [
+      "baked",
+      "egg-free",
+      "gluten-free",
+      "ham",
+      "high-protein",
+      "one-pan",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "light-syrian-roast-paella",
     "title": "Light Syrian Roast Paella",
     "tags": [
@@ -4268,6 +4313,24 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-steamed-chinese-chicken-wonton-soup",
+    "title": "Lightly Steamed Chinese Chicken Wonton Soup",
+    "tags": [
+      "chinese",
+      "dinner",
+      "easy",
+      "light",
+      "lunch",
+      "one-pan",
+      "soup",
+      "weeknight",
+      "wontons"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {

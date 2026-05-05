@@ -1,0 +1,122 @@
+{
+  "title": "Light Syrian Ham Bake",
+  "description": "A garlicky, egg-free-friendly Syrian dish perfect for a lazy Sunday morning or afternoon. This recipe features ham, cheese, and spices in a deliciously baked dish.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Thinly sliced ham",
+      "amount": "12 slices",
+      "notes": ""
+    },
+    {
+      "name": "Crushed garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Minced onion",
+      "amount": "1 small onion",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beaten eggs (optional)",
+      "amount": "",
+      "notes": "omit for egg-free version"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the sliced ham, crushed garlic, shredded mozzarella cheese, chopped fresh parsley, salt, pepper, paprika, and dried oregano.",
+    "Mix well to combine.",
+    "Transfer the mixture to a 9x13-inch baking dish.",
+    "In a small bowl, mix together the chopped onion, chopped fresh dill, and breadcrumbs.",
+    "Sprinkle the onion mixture evenly over the top of the ham mixture.",
+    "Drizzle the olive oil over the top.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "egg-free",
+    "gluten-free",
+    "ham",
+    "high-protein",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "light-syrian-ham-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-syrian-ham-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "ham",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "ham",
+    "descriptor": "light",
+    "dishForm": "bake"
+  }
+}

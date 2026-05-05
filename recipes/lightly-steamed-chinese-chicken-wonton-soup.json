@@ -1,0 +1,126 @@
+{
+  "title": "Lightly Steamed Chinese Chicken Wonton Soup",
+  "description": "A spicy, pillowy Chinese dish featuring a mixture powder and steam, dairy-free-friendly. Perfect as a light dinner or lunch option.",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20-24 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "mixture powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine chicken, mixture powder, ginger, garlic in a bowl and mix well.",
+    "Refrigerate the mixture for at least 30 minutes to allow the flavors to meld.",
+    "Bring a large pot of chicken broth and water to a boil, then reduce the heat to a simmer.",
+    "Add wonton wrappers to the pot and cook for 2-3 minutes or until they float to the surface.",
+    "Transfer the cooked wontons to a plate, then ladle the hot broth over them.",
+    "Sprinkle green onions over the top of the wontons and serve hot.",
+    "Season with soy sauce, sesame oil, and salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dinner",
+    "easy",
+    "light",
+    "lunch",
+    "one-pan",
+    "soup",
+    "weeknight",
+    "wontons"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "lightly-steamed-chinese-chicken-wonton-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-steamed-chinese-chicken-wonton-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "mixture powder",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Lightly Steamed",
+    "dishForm": "Wonton Soup"
+  }
+}

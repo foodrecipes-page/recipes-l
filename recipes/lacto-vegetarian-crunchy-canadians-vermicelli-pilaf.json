@@ -1,0 +1,154 @@
+{
+  "title": "Lacto-Vegetarian Crunchy Canadians Vermicelli Pilaf",
+  "description": "A spicy and crunchy monsoon-inspired Canadian dish featuring rice vermicelli, perfect for a quick and satisfying lacto-vegetarian meal. This dish combines the flavors of Canada with the comfort of a warm pilaf.",
+  "cuisine": "Canadian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice vermicelli",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cauliflower florets",
+      "amount": "1 cup",
+      "notes": "Use frozen or fresh, whichever is available."
+    },
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 cup",
+      "notes": "Cut in half to ensure even cooking."
+    },
+    {
+      "name": "Crispy fried shallots",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought, whichever is convenient."
+    },
+    {
+      "name": "Spicy maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste for desired level of sweetness."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing and frying."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "Add a smoky depth to the dish."
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "For added smokiness."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For added brightness."
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 teaspoon",
+      "notes": "For added warmth."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced to release its flavor."
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "For added heat."
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "Green and white parts, for garnish."
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1 cup",
+      "notes": "Red, yellow, or orange, whichever is available."
+    },
+    {
+      "name": "Diced carrots",
+      "amount": "1 cup",
+      "notes": "For added crunch."
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/4 cup",
+      "notes": "For added crunch."
+    },
+    {
+      "name": "Diced jalapeño",
+      "amount": "1/4 cup",
+      "notes": "For added heat."
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add the diced garlic and cook until fragrant, about 1 minute.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the diced bell peppers and cook until slightly tender, about 4-5 minutes.",
+    "Add the diced carrots and cook until slightly tender, about 4-5 minutes.",
+    "Add the Brussels sprouts and cauliflower and cook until tender, about 6-7 minutes.",
+    "Add the cooked vermicelli and stir to combine.",
+    "Add the spicy maple syrup, smoked paprika, ground cumin, and salt. Stir to combine.",
+    "Transfer the mixture to a serving dish and garnish with chopped cilantro, lime juice, grated ginger, scallions, and sliced almonds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "easy",
+    "lacto-vegetarian",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lacto-vegetarian-crunchy-canadians-vermicelli-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lacto-vegetarian-crunchy-canadians-vermicelli-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadians",
+    "mainIngredient": "vermicelli",
+    "descriptor": "lacto-vegetarian-crunchy",
+    "dishForm": "Pilaf"
+  }
+}
