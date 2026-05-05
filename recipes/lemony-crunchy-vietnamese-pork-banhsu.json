@@ -1,0 +1,139 @@
+{
+  "title": "Lemony Crunchy Vietnamese Pork Banhsu",
+  "description": "A citrusy, crunchy, and cozy Vietnamese dish featuring the flavors of rose water, served in a traditional cataplana vessel. This diabetic-friendly version of banh mi replaces traditional carbs with healthier alternatives.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "brown rice flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond meal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine pork shoulder, brown rice flour, almond meal, rose water, lemon juice, grated ginger, garlic powder, salt, and black pepper. Mix well to combine.",
+    "Heat coconut oil in a large skillet over medium-high heat. Add the pork mixture and cook until browned, breaking it up with a spoon as it cooks.",
+    "Transfer the pork mixture to a cataplana vessel and cover with a lid.",
+    "Bake for 25 minutes, or until the pork is cooked through and the internal temperature reaches 145°F (63°C).",
+    "While the pork is cooking, prepare the crunchy topping by combining crushed almonds, fresh cilantro, sliced scallions, pickled carrots, and pickled daikon in a bowl.",
+    "Once the pork is done, top it with the crunchy mixture and serve immediately.",
+    "Drizzle with sriracha sauce, if desired.",
+    "Serve hot in a traditional Vietnamese banh mi vessel, garnished with additional cilantro and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "lemony-crunchy-vietnamese-pork-banhsu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-crunchy-vietnamese-pork-banhsu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "rose water",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "lemony crunchy",
+    "dishForm": "Banhsu"
+  }
+}

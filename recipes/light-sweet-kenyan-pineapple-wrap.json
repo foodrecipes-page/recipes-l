@@ -1,0 +1,79 @@
+{
+  "title": "Light & Sweet Kenyan Pineapple Wrap",
+  "description": "A quick and easy Kenyan dish featuring the sweetness of pineapple and the crunch of beurre-monte, wrapped in a pandan leaf.",
+  "cuisine": "kenyan",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pandan leaf wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "young pineapple",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tbsp",
+      "notes": "chilled"
+    }
+  ],
+  "instructions": [
+    "Place a pandan leaf wrap on a flat surface.",
+    "Slice the young pineapple into thin rings.",
+    "Mix the beurre-monte and unsalted butter in a small bowl.",
+    "Spread the beurre-monte mixture evenly over the center of the pandan leaf wrap."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 2,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "high-carb",
+    "one-pan",
+    "quick-fix",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "light-sweet-kenyan-pineapple-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-sweet-kenyan-pineapple-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:37Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "beurre-monte",
+    "primaryIngredient": "pineapple",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pineapple",
+    "descriptor": "Light & Sweet",
+    "dishForm": "Wrap"
+  }
+}

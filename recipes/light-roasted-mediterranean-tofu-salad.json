@@ -1,0 +1,73 @@
+{
+  "title": "Light Roasted Mediterranean Tofu Salad",
+  "description": "A delicate, flavorful salad perfect for brunch, made with light-roasted tofu, tangy pickle, and a hint of Mediterranean herbs. ",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "koshers",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-Firm Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Pickle Slices",
+      "amount": "1/2 cup",
+      "notes": "any type, such as dill or sweet"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°. ",
+    "Place the tofu on a baking sheet and roast for 20 minutes. ",
+    "While the tofu is roasting, chop the cucumber, bell pepper, and red onion. ",
+    "In a bowl, combine the chopped vegetables, pickle slices, and chopped fresh herbs. ",
+    "Once the tofu is done roasting, let it cool slightly before cutting it into small cubes. ",
+    "Add the cubed tofu to the bowl with the vegetables. ",
+    "Drizzle the salad with olive oil and lemon juice. ",
+    "Season with salt and pepper to taste. ",
+    "Serve on a tagliere or a large plate. ",
+    "Garnish with a sprinkle of sumac, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "light",
+    "mediterranean",
+    "roasted",
+    "salad",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 15
+  },
+  "slug": "light-roasted-mediterranean-tofu-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-roasted-mediterranean-tofu-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:20Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "silken tofu",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Tofu",
+    "descriptor": "Light Roasted",
+    "dishForm": "Salad"
+  }
+}

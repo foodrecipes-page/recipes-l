@@ -1343,6 +1343,20 @@
     "shard": "l"
   },
   {
+    "slug": "lemony-crunchy-vietnamese-pork-banhsu",
+    "title": "Lemony Crunchy Vietnamese Pork Banhsu",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lemony-dense-portuguese-beets-tagine",
     "title": "Lemony Dense Portuguese Beets Tagine",
     "tags": [
@@ -3245,6 +3259,22 @@
     "shard": "l"
   },
   {
+    "slug": "light-roasted-mediterranean-tofu-salad",
+    "title": "Light Roasted Mediterranean Tofu Salad",
+    "tags": [
+      "easy-meal",
+      "gluten-free",
+      "light",
+      "mediterranean",
+      "roasted",
+      "salad",
+      "vegan"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "light-roasted-norwegian-cashew-nut-stir-fry",
     "title": "Light Roasted Norwegian Cashew Nut Stir-fry",
     "tags": [
@@ -3641,6 +3671,20 @@
     ],
     "cuisine": "russian",
     "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "light-sweet-kenyan-pineapple-wrap",
+    "title": "Light & Sweet Kenyan Pineapple Wrap",
+    "tags": [
+      "high-carb",
+      "one-pan",
+      "quick-fix",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
