@@ -1,0 +1,85 @@
+{
+  "title": "Lemony Sesame Bamboo-Steamer Pilaf",
+  "description": "A crowd-pleasing Turkish dish featuring doenjang, long-fermentation-dough, and raw-friendly components, cooked in a bamboo steamer for added texture.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "100g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lettuce leaves for wrapping",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Combine doenjang, long-fermentation-dough, sesame seeds, and lemon juice in a bowl.",
+    "Mix onion, garlic, and ginger into the mixture.",
+    "Divide dough into four equal parts. Wrap each part with a lettuce leaf.",
+    "Steam wrapped ingredients in bamboo steamer for 15 minutes at 100°C (212°F).",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer-based",
+    "doenjang-rich",
+    "lemon-licorice-flavored",
+    "nutritious",
+    "raw-friendly-dish",
+    "sesame-yum"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "lemony-sesame-bamboo-steamer-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-sesame-bamboo-steamer-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:16:35Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "doenjang",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sesame",
+    "descriptor": "Lemony",
+    "dishForm": "Pilaf"
+  }
+}
