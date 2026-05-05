@@ -1,0 +1,119 @@
+{
+  "title": "Light Smoky French Chestnuts Salad",
+  "description": "This dish is a twist on the traditional French chestnut salad, with smoky flavors added for a unique taste experience. It's perfect for the holiday season, and can be made in under 30 minutes.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted chestnuts",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Smoked chicken breast",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled goat cheese",
+      "amount": "75g",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinaigrette",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Diced fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Roast the chestnuts in the oven for 15 minutes, or until tender.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the diced red bell pepper and cook for 3 minutes, or until tender.",
+    "Add the smoked chicken breast and cook for 2 minutes, or until heated through.",
+    "In a large bowl, combine the mixed greens, roasted chestnuts, and smoked chicken breast mixture.",
+    "Top with crumbled goat cheese and a drizzle of balsamic vinaigrette.",
+    "Sprinkle with diced fresh parsley, smoked paprika, salt, and black pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chestnuts",
+    "french",
+    "holiday",
+    "main-course",
+    "salad",
+    "smoked-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "light-smoky-french-chestnuts-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-smoky-french-chestnuts-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "chestnuts",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "french",
+    "mainIngredient": "chestnuts",
+    "descriptor": "light smoky",
+    "dishForm": "salad"
+  }
+}

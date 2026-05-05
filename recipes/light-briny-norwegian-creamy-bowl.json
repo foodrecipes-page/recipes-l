@@ -1,0 +1,101 @@
+{
+  "title": "Light Briny Norwegian Creamy Bowl",
+  "description": "A refreshing and light Norwegian-inspired dish featuring peach juice, perfect for a low-fat meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Peach juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crab meat",
+      "amount": "3 oz",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh chives",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat light olive oil in a medium skillet over medium heat.",
+    "Add chopped fresh chives and saut\\u00e9 for 1 minute until fragrant.",
+    "Add crab meat and cook for 2-3 minutes until lightly browned, breaking up with a spoon as needed.",
+    "Deglaze the skillet with lemon juice, scraping up any browned bits from the bottom of the pan.",
+    "Stir in chopped fresh dill and season with salt and black pepper.",
+    "In a large bowl, combine peach juice and Greek yogurt. ",
+    "Garnish with chopped fresh dill and chives, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "creamy",
+    "light",
+    "low-fat",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "light-briny-norwegian-creamy-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-briny-norwegian-creamy-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "deglaze",
+    "primaryIngredient": "peach juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "creamy",
+    "descriptor": "light briny",
+    "dishForm": "bowl"
+  }
+}

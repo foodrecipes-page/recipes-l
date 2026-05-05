@@ -1,0 +1,104 @@
+{
+  "title": "Luscious Lyon Miso Bouillon",
+  "description": "A pungent and comforting dish from Lyon, France, featuring a rich miso-marinate and sweet maple syrup. Serve in a copper mug for an authentic experience.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White Miso Paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Combine maple syrup, miso paste, and 1 tablespoon of chicken broth in the bottom of a copper mug to create a marinade.",
+    "Thinly slice the onion and separate into rings.",
+    "Mince the garlic and add to the mug with the marinade.",
+    "Thinly slice the thyme and add to the mug with the marinade.",
+    "Add the bay leaves to the mug with the marinade.",
+    "Pour in the remaining chicken broth and bring the mixture to a simmer over medium heat.",
+    "Reduce the heat to low and let simmer for 10 minutes or until the flavors have melded together.",
+    "Stir in the heavy cream and let cook for an additional 5 minutes or until the cream has thickened slightly.",
+    "Remove from heat and stir in the unsalted butter until melted.",
+    "Strain the soup through a fine-mesh sieve into a clean copper mug and discard the solids.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "comforting",
+    "french",
+    "lyon",
+    "maple",
+    "miso",
+    "southern-french"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 36,
+    "fat": 43
+  },
+  "slug": "luscious-lyon-miso-bouillon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-lyon-miso-bouillon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:26Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "maple syrup",
+    "diet": "mediterranean",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "miso",
+    "descriptor": "Luscious Lyon",
+    "dishForm": "Bouillon"
+  }
+}

@@ -1599,6 +1599,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-briny-norwegian-creamy-bowl",
+    "title": "Light Briny Norwegian Creamy Bowl",
+    "tags": [
+      "briny",
+      "creamy",
+      "light",
+      "low-fat",
+      "norwegian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
     "slug": "light-briny-vietnamese-pork-shoulder-fry",
     "title": "light briny vietnamese pork shoulder fry",
     "tags": [
@@ -3335,6 +3349,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 5,
+    "shard": "l"
+  },
+  {
+    "slug": "light-smoky-french-chestnuts-salad",
+    "title": "Light Smoky French Chestnuts Salad",
+    "tags": [
+      "chestnuts",
+      "french",
+      "holiday",
+      "main-course",
+      "salad",
+      "smoked-chicken"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -6503,6 +6532,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-lyon-miso-bouillon",
+    "title": "Luscious Lyon Miso Bouillon",
+    "tags": [
+      "comforting",
+      "french",
+      "lyon",
+      "maple",
+      "miso",
+      "southern-french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
