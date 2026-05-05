@@ -1506,6 +1506,24 @@
     "shard": "l"
   },
   {
+    "slug": "light-briny-australian-pecorino-bisque",
+    "title": "Light Briny Australian Pecorino Bisque",
+    "tags": [
+      "australian",
+      "comfort-food",
+      "easy-snack",
+      "indoor-dinner",
+      "keto-snack",
+      "light-meal",
+      "one-pot",
+      "soup",
+      "weeknight-dinner"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
     "slug": "light-briny-vietnamese-pork-shoulder-fry",
     "title": "light briny vietnamese pork shoulder fry",
     "tags": [
@@ -2139,6 +2157,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-fresh-turkish-mustard-seeds-turkish-pastry-boregi",
+    "title": "light fresh turkish mustard seeds turkish pastry boregi",
+    "tags": [
+      "gluten-free",
+      "macrobiotic",
+      "snack",
+      "turkish",
+      "vegan"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {

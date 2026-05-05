@@ -1,0 +1,114 @@
+{
+  "title": "light fresh turkish mustard seeds turkish pastry boregi",
+  "description": "a pungent and crisp turkish dish featuring mustard seeds and dashi-extract. suitable for macrobiotic diets",
+  "cuisine": "turkish",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "turkish pastry dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "1/2 cup",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tablespoon",
+      "notes": "as egg substitute"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f (190c).",
+    "roll out the turkish pastry dough to a thickness of 1/8 inch.",
+    "mix together the mustard seeds, dashi extract, sunflower seeds, parsley, lemon juice, olive oil, salt, and black pepper in a small bowl.",
+    "brush the edges of the dough with water and sprinkle with flaxseed meal.",
+    "place the dough on a baking sheet lined with parchment paper and spread the mustard seed mixture evenly over the dough.",
+    "fold the dough over the filling to form a triangle and press the edges to seal.",
+    "bake for 20-25 minutes or until golden brown.",
+    "let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "macrobiotic",
+    "snack",
+    "turkish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "light-fresh-turkish-mustard-seeds-turkish-pastry-boregi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fresh-turkish-mustard-seeds-turkish-pastry-boregi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "dashi-extract",
+    "primaryIngredient": "mustard seeds",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Mustard seeds",
+    "descriptor": "Light Fresh",
+    "dishForm": "Turkish Pastry Boregi"
+  }
+}

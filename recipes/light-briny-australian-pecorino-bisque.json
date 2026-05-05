@@ -1,0 +1,110 @@
+{
+  "title": "Light Briny Australian Pecorino Bisque",
+  "description": "A cozy and refreshing Australian dish featuring the tangy flavors of Pecorino cheese served in a copper mug.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "keto",
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pecorino cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Tandoor-roasted garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a copper mug, combine Pecorino cheese, tandoor-roasted garlic, zucchini, and parsley.",
+    "Heat the mixture over medium heat, whisking constantly, until the cheese is melted and the soup is smooth.",
+    "Remove from heat and stir in lemon juice, olive oil, salt, and black pepper.",
+    "Add white wine vinegar and whisk until combined.",
+    "Taste and adjust seasoning as needed.",
+    "Serve immediately in the copper mug.",
+    "Garnish with additional parsley or lemon wedges if desired.",
+    "Reheat as needed, but be careful not to overheat the soup, which can cause the cheese to become grainy.",
+    "If reheating, stir in a small amount of water or broth to prevent the soup from becoming too thick.",
+    "Consider serving with a side of crusty bread or crackers for dipping in the soup."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "easy-snack",
+    "indoor-dinner",
+    "keto-snack",
+    "light-meal",
+    "one-pot",
+    "soup",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "light-briny-australian-pecorino-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-briny-australian-pecorino-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:15Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "pecorino",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "pecorino",
+    "descriptor": "light briny",
+    "dishForm": "bisque"
+  }
+}
