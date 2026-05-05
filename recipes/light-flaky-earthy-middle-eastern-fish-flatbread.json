@@ -1,0 +1,107 @@
+{
+  "title": "light flaky earthy middle-eastern fish flatbread",
+  "description": "a delicate and flavorful flatbread topped with a tangy gherkin relish and a sprinkle of sumac.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gills of sea bass",
+      "amount": "1 pound",
+      "notes": "scaled and boned, cut into small pieces"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade, recipe below"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine yeast and warm water and let sit for 5 minutes until frothy",
+    "add flour, salt, and olive oil to the bowl and mix until a shaggy dough forms",
+    "knead the dough on a floured surface for 10 minutes until smooth and elastic",
+    "place the dough in a lightly oiled bowl, cover, and let rise in a warm place for 1 hour until doubled in size",
+    "preheat the oven to 425\u000365f (220\u000365c)",
+    "punch down the dough and shape into a disk, place on a baking sheet",
+    "bake for 15-20 minutes until golden brown",
+    "while the flatbread is baking, mix the gherkin relish and sumac in a small bowl",
+    "spread the gherkin relish on the flatbread and sprinkle with parsley",
+    "top with gills of sea bass"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "light-flaky-earthy-middle-eastern-fish-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-flaky-earthy-middle-eastern-fish-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:57Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "gherkin relish",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "fish",
+    "descriptor": "light flaky earthy",
+    "dishForm": "Flatbread"
+  }
+}
