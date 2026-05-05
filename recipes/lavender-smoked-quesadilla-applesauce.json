@@ -1,0 +1,83 @@
+{
+  "title": "Lavender Smoked Quesadilla Applesauce",
+  "description": "A smoky and fluffy brunch dish featuring applesauce, smoke, egg-free-friendly, served on a cedar plank.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup of queso fresco",
+      "amount": "cup"
+    },
+    {
+      "name": "2 ripe apples",
+      "amount": "each"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp honey",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Handful fresh lavender buds",
+      "amount": "handful"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "Cedar plank for smoking",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Combine queso fresco, lemon juice, honey, and salt in a bowl.",
+    "Core the apples and mix them with fresh lavender buds. Season with a pinch of salt and pepper if needed.",
+    "Lay apple mixture on one half of each quesadilla shell.",
+    "Dab some olive oil or butter over each side of the cedar plank for smoking.",
+    "Place quesadillas face down on the plank, close them together, cover, and smoke over medium heat for 10-15 minutes or until golden brown and crispy on both sides.",
+    "Turn off the heat but keep covered to prevent cooling. Allow to cool slightly before slicing into wedges.",
+    "Serve with apple sauce alongside for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "cedar-plank",
+    "ethiopian",
+    "fluffy",
+    "smoke-cooking",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 62,
+    "fat": 18
+  },
+  "slug": "lavender-smoked-quesadilla-applesauce",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lavender-smoked-quesadilla-applesauce",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:35:14Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "applesauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Applesauce",
+    "descriptor": "Lavender Smoked",
+    "dishForm": "Quesadilla"
+  }
+}
