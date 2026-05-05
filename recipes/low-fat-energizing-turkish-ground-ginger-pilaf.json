@@ -1,0 +1,60 @@
+{
+  "title": "Low-fat Energizing Turkish Ground Ginger Pilaf",
+  "description": "A light and flavorful turkish dish featuring ground ginger, perfect for a quick energizing meal. Serve hot in a banana leaf wrapper for a complete experience.",
+  "cuisine": "turkish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add 1 small onion, finely chopped, and sauté until translucent, about 3-4 minutes.",
+    "Add 2 cloves of minced garlic and cook for 1 minute, until fragrant.",
+    "Add 1 tablespoon of grated fresh ginger and cook for 1 minute, until fragrant.",
+    "Add 1 cup of uncooked long-grain rice and stir to coat in oil and mix with spices.,",
+    "Add 2 cups of water and bring to a boil, then reduce heat to low, cover, and simmer for 15-18 minutes, or until rice is tender and fluffy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "one-pan",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "low-fat-energizing-turkish-ground-ginger-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-energizing-turkish-ground-ginger-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ground ginger",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Ground Ginger",
+    "descriptor": "Low-fat Energizing",
+    "dishForm": "Pilaf"
+  }
+}

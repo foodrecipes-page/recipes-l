@@ -119,6 +119,21 @@
     "shard": "l"
   },
   {
+    "slug": "lacto-lush-hazelnut-tagine",
+    "title": "Lacto-Lush Hazelnut Tagine",
+    "tags": [
+      "egyptian",
+      "high-fiber",
+      "lacto-vegetarian",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lacto-vegetarian-crunchy-canadians-vermicelli-pilaf",
     "title": "Lacto-Vegetarian Crunchy Canadians Vermicelli Pilaf",
     "tags": [
@@ -6107,6 +6122,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-energizing-turkish-ground-ginger-pilaf",
+    "title": "Low-fat Energizing Turkish Ground Ginger Pilaf",
+    "tags": [
+      "low-fat",
+      "one-pan",
+      "turkish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
