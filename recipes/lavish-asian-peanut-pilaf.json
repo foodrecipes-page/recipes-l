@@ -1,0 +1,84 @@
+{
+  "title": "Lavish Asian Peanut Pilaf",
+  "description": "A herbal and tender Brazilian dish featuring golden syrup in a high-protein-friendly papillote presentation.",
+  "cuisine": "Asian, Brazilian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Golden Syrup",
+      "amount": 100
+    },
+    {
+      "name": "Peanuts",
+      "amount": 250
+    },
+    {
+      "name": "Onions",
+      "amount": 100
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": 4
+    },
+    {
+      "name": "Herbs (parsley, cilantro)",
+      "amount": 30
+    },
+    {
+      "name": "Rice",
+      "amount": 250
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": 1000
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": 50
+    }
+  ],
+  "instructions": [
+    "In a pan, toast the peanuts until golden brown.",
+    "Saute onions and garlic in oil until translucent.",
+    "Add chicken broth and golden syrup. Simmer for 10 minutes.",
+    "Mix herbs with rice and add to soup mixture.",
+    "Transfer to papillote and bake at 350°F (175°C) for 20 minutes."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "papillote"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 55,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "lavish-asian-peanut-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lavish-asian-peanut-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:43:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "papillote",
+    "primaryIngredient": "golden syrup",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Asian",
+    "mainIngredient": "peanut",
+    "descriptor": "Lavish",
+    "dishForm": "Pilaf"
+  }
+}
