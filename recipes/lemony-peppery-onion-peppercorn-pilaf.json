@@ -1,0 +1,88 @@
+{
+  "title": "Lemony Peppery Onion Peppercorn Pilaf",
+  "description": "A hearty and flavorful lemongrass-infused pilaf with a spicy kick, perfect for a hangover cure. This recipe is designed to be buddhist-temple-friendly and can be prepared in sous-vide.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": 2,
+      "notes": "1 large per serving"
+    },
+    {
+      "name": "peppercorn",
+      "amount": 6
+    },
+    {
+      "name": "lemon peel",
+      "amount": 4
+    },
+    {
+      "name": "piccalilli",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice",
+      "amount": 150,
+      "notes": "2 cups cooked"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "3-4"
+    },
+    {
+      "name": "lentils",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a pan with olive oil and sauté the onion until translucent.",
+    "Add lemon peel, peppercorn, and lentils to the pan. Stir for about 5 minutes.",
+    "Pour in rice and mix well. Add piccalilli and mix thoroughly.",
+    "If using sous-vide, place the dish in a water bath at 160°F (72°C) for an hour.",
+    "In a separate pan, simmer lemon juice with saffron until thickened. Pour over the pilaf.",
+    "Sprinkle sesame seeds on top and serve hot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-flavor",
+    "hangover-cure",
+    "no-sauce",
+    "piccalilli-use",
+    "simple-pilaf",
+    "sous-vide-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "lemony-peppery-onion-peppercorn-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-peppery-onion-peppercorn-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T23:46:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "piccalilli",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peppery",
+    "mainIngredient": "Onion",
+    "descriptor": "Lemony",
+    "dishForm": "Pilaf"
+  }
+}
