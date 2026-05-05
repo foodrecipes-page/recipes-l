@@ -902,6 +902,23 @@
     "shard": "l"
   },
   {
+    "slug": "leaf-wrap-steam-american-grape-juice-tagine",
+    "title": "Leaf-Wrap-Steam American Grape Juice Tagine",
+    "tags": [
+      "american",
+      "breakfast",
+      "easy-to-make",
+      "grape-juice",
+      "healthy",
+      "low-fat",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lean-dongbei-pork-wonton-soup",
     "title": "Lean Dongbei Pork Wonton Soup",
     "tags": [
@@ -6150,6 +6167,23 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-indian-buckwheat-biryani",
+    "title": "Luscious Indian Buckwheat Biryani",
+    "tags": [
+      "adventurous",
+      "buckwheat",
+      "indian",
+      "jain-friendly",
+      "punjabi",
+      "shattering",
+      "umami",
+      "vegan"
+    ],
+    "cuisine": "punjabi",
+    "totalTimeMin": 75,
     "shard": "l"
   },
   {

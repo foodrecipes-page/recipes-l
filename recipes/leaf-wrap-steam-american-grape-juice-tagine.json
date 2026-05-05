@@ -1,0 +1,114 @@
+{
+  "title": "Leaf-Wrap-Steam American Grape Juice Tagine",
+  "description": "A comforting American dish featuring a rich grape juice flavor with crunchy leaf-wrapped steam.",
+  "cuisine": "american",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape Juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "American Wheat Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Leaves (such as lettuce or collard greens)",
+      "amount": "4-6",
+      "notes": "large leaves for wrapping"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together grape juice, salt, and black pepper to make the marinade.",
+    "Add the wheat flour and mix until the dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Heat a large non-stick skillet over medium heat.",
+    "Add 1 tablespoon of butter to the skillet and let it melt.",
+    "Place 1-2 leaves in the skillet, depending on their size.",
+    "Place a dough disk in the center of each leaf.",
+    "Add 1-2 cloves of garlic on top of each dough disk.",
+    "Drizzle a little bit of grape juice over the garlic.",
+    "Fold the leaves over the dough to enclose it, pressing the edges together to seal the tagine.",
+    "Cook for 3-4 minutes on each side, or until the crust is golden brown.",
+    "Repeat with the remaining dough and leaves.",
+    "Serve the tagine hot, garnished with fresh thyme and rosemary.",
+    "Serve immediately, or let it cool and refrigerate for up to 3 days.",
+    "Reheat the tagine by steaming the leaves for 2-3 minutes before serving.",
+    "Serve with additional grape juice on the side, if desired.",
+    "Serve with a side salad or roasted vegetables for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "breakfast",
+    "easy-to-make",
+    "grape-juice",
+    "healthy",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 4
+  },
+  "slug": "leaf-wrap-steam-american-grape-juice-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/leaf-wrap-steam-american-grape-juice-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:25Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "grape juice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "juice",
+    "descriptor": "leaf-wrap-steam",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Luscious Indian Buckwheat Biryani",
+  "description": "A savory umami-rich Indian dish made with buckwheat flour, perfect for adventurous eaters. Cooked in a clay pot for a unique flavor and texture.",
+  "cuisine": "punjabi",
+  "diet": [
+    null,
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili",
+      "amount": "1",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the clay pot over medium heat.",
+    "Sauté the chopped onion, ginger, and garlic until the onion is translucent.",
+    "Add the crushed red chili and sauté for 1 minute.",
+    "Add the coriander powder, turmeric powder, and garam masala powder. Cook for 1 minute.",
+    "Add the buckwheat flour and cook for 2 minutes, stirring constantly.",
+    "Gradually add 2 cups of water, stirring continuously to prevent lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the pot.",
+    "Simmer for 20 minutes or until the water is absorbed and the mixture has thickened.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Let the biryani rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "buckwheat",
+    "indian",
+    "jain-friendly",
+    "punjabi",
+    "shattering",
+    "umami",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 90,
+    "fat": 8
+  },
+  "slug": "luscious-indian-buckwheat-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-indian-buckwheat-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:55Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "jain",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Luscious",
+    "dishForm": "Biryani"
+  }
+}
