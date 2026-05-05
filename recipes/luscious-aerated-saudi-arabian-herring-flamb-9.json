@@ -1,0 +1,124 @@
+{
+  "title": "Luscious Aerated Saudi-Arabian Herring Flamb",
+  "description": "A kid-friendly dish featuring herring, flambe, and a keto-friendly twist, with a pungent and aerated twist.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Herring fillets",
+      "amount": "4",
+      "notes": "Canned or fresh."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Salted."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Fresh."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground."
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground."
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground."
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Chilled."
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2",
+      "notes": "Beaten."
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste."
+    },
+    {
+      "name": "Sugar (optional)",
+      "amount": "1 tablespoon",
+      "notes": "Granulated."
+    },
+    {
+      "name": "Flamb\u001519 oil",
+      "amount": "1 tablespoon",
+      "notes": "Vegetable oil."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Rinse the herring fillets and pat them dry with paper towels.",
+    "Place the herring fillets on the prepared baking sheet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "herring",
+    "keto-friendly",
+    "kid-friendly",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 28
+  },
+  "slug": "luscious-aerated-saudi-arabian-herring-flamb-9",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-aerated-saudi-arabian-herring-flamb-9",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "flambe",
+    "primaryIngredient": "herring",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "herring",
+    "descriptor": "luscious aerated",
+    "dishForm": "flamb\u00169"
+  }
+}

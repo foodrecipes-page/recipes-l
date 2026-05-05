@@ -1,0 +1,122 @@
+{
+  "title": "Light Peruvian Pork Tenderloin Chupe",
+  "description": "A vibrant, earthy, and energizing Peruvian dish featuring pork tenderloin, sweet potatoes, and purple corn. Perfect for a quick and healthy dinner or lunch.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegan-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "purple corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "2 ounces",
+      "notes": "broken into pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, cumin, salt, and sugar. Add the pork tenderloin and toss to coat.",
+    "In a separate bowl, boil the sweet potatoes in salted water until tender. Drain and set aside.",
+    "In a large skillet, heat a couple of tablespoons of olive oil over medium-high heat. Add the onion and red pepper and cook until tender, about 5 minutes.",
+    "Add the garlic and cook for an additional minute, stirring constantly.",
+    "Add the cooked sweet potatoes, purple corn, and cilantro to the skillet. Toss to combine.",
+    "Transfer the pork tenderloin to the oven and roast for 15-20 minutes, or until cooked to your desired level of doneness.",
+    "Remove the pork from the oven and let it rest for a few minutes before slicing.",
+    "To serve, place a serving of the sweet potato and corn mixture on a plate, then top with sliced pork tenderloin and drizzle with a bit of dark chocolate.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "light-peruvian-pork-tenderloin-chupe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-peruvian-pork-tenderloin-chupe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:12Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Pork Tenderloin",
+    "descriptor": "Light",
+    "dishForm": "Chupe"
+  }
+}

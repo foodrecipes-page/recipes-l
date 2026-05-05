@@ -1,0 +1,122 @@
+{
+  "title": "light fermented algerian danmuji soup",
+  "description": "a paleo-friendly soup that combines the tanginess of fermented ingredients with the creaminess of coconut milk and the crunch of danmuji. this dish is a unique twist on traditional algerian cuisine.",
+  "cuisine": "algerian",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "danmuji",
+      "amount": "2 cups, diced",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can, full-fat",
+      "notes": "full-fat coconut milk is essential for the creaminess of this dish."
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "fermented cauliflower blend",
+      "amount": "1 cup",
+      "notes": "use a store-bought or homemade fermented cauliflower blend for this recipe."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp, ground",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp, ground",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large saucepan over medium heat. ",
+    "add the onion and garlic and cook until the onion is translucent, about 5 minutes. ",
+    "add the cumin, coriander, salt, and black pepper, and cook for 1 minute, stirring constantly. ",
+    "add the fermented cauliflower blend, water, and diced danmuji, and bring to a boil. ",
+    "reduce the heat to low and simmer for 15-20 minutes, or until the flavors have melded together and the soup has thickened slightly. ",
+    "stir in the coconut milk and cook for an additional 5 minutes. ",
+    "taste and adjust the seasoning as needed. ",
+    "ladle the soup into copper mugs and garnish with chopped fresh parsley. ",
+    "serve warm and enjoy! "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "soup",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 26
+  },
+  "slug": "light-fermented-algerian-danmuji-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fermented-algerian-danmuji-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "danmuji",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "danmuji",
+    "descriptor": "light fermented",
+    "dishForm": "soup"
+  }
+}

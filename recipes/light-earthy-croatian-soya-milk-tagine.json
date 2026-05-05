@@ -1,0 +1,107 @@
+{
+  "title": "light earthy croatian soya milk tagine",
+  "description": "a light and earthy twist on traditional croatian cuisine, featuring soya milk and a refreshing ice bath",
+  "cuisine": "croatian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soya milk",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1",
+      "notes": "medium-sized onion, diced"
+    },
+    {
+      "name": "chopped carrot",
+      "amount": "1",
+      "notes": "medium-sized carrot, peeled and grated"
+    },
+    {
+      "name": "chopped parsnip",
+      "amount": "1",
+      "notes": "medium-sized parsnip, peeled and grated"
+    },
+    {
+      "name": "chopped celery",
+      "amount": "2 stalks",
+      "notes": "chopped stalks including leaves"
+    },
+    {
+      "name": "chopped mushrooms",
+      "amount": "1 cup",
+      "notes": "mixture of cremini and shiitake mushrooms, sliced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped leaves and stems, fresh or dried"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large tagine pot over medium heat",
+    "add onion, carrot, parsnip, and celery and cook until the vegetables are tender, about 10 minutes",
+    "add mushrooms, cumin, coriander, salt, and pepper, and cook for 2 minutes",
+    "pour in soya milk and bring to a simmer",
+    "reduce heat to low and cook, covered, until the liquid has thickened and the flavors have melded together, about 20 minutes",
+    "remove from heat and let cool slightly",
+    "transfer the tagine to an ice bath to stop the cooking process",
+    "let the tagine chill in the ice bath for 10 minutes",
+    "serve warm, garnished with chopped parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "easy-to-make",
+    "ice-bath",
+    "soya",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "light-earthy-croatian-soya-milk-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-earthy-croatian-soya-milk-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "soya milk",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "soya milk",
+    "descriptor": "light earthy",
+    "dishForm": "tagine"
+  }
+}

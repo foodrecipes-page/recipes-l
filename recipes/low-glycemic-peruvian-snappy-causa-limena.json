@@ -1,0 +1,112 @@
+{
+  "title": "Low-Glycemic Peruvian Snappy Causa-Limena",
+  "description": "A yeasty, snappy, monsoon Peruvian dish featuring coconut cream, binchotan charcoal, in a low-glycemic-friendly causa limena form, served in a donabe vessel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Coconut cream",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": "low-glycemic alternative to regular flour"
+    },
+    {
+      "name": "Bingotan charcoal",
+      "amount": "1/4 cup",
+      "notes": "activated charcoal powder for color and flavor"
+    },
+    {
+      "name": "Yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine coconut cream and rice flour in a medium bowl, mixing until smooth.",
+    "Add binchotan charcoal and yeast to the coconut cream mixture, stirring until well combined.",
+    "Add warm water, egg, salt, and black pepper to the mixture, stirring until a sticky dough forms.",
+    "Knead the dough for 5-7 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased donabe vessel, cover with a cloth, and let rise in a warm place for 1 hour.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Divide the dough into 4-6 equal pieces, depending on desired size.",
+    "Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "Cook the causa limena for 2-3 minutes on each side, until golden brown and crispy.",
+    "Garnish with chopped scallions and chives, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "causa-limena",
+    "donabe",
+    "low-glycemic",
+    "monsoon",
+    "peruvian",
+    "snappy",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "low-glycemic-peruvian-snappy-causa-limena",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-glycemic-peruvian-snappy-causa-limena",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:00Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "coconut cream",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "snappy",
+    "descriptor": "Low-Glycemic",
+    "dishForm": "Causa-Limena"
+  }
+}

@@ -1899,6 +1899,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-earthy-croatian-soya-milk-tagine",
+    "title": "light earthy croatian soya milk tagine",
+    "tags": [
+      "croatian",
+      "easy-to-make",
+      "ice-bath",
+      "soya",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "light-egyptian-beef-bowl",
     "title": "Light Egyptian Beef Bowl",
     "tags": [
@@ -1940,6 +1955,22 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "light-fermented-algerian-danmuji-soup",
+    "title": "light fermented algerian danmuji soup",
+    "tags": [
+      "algerian",
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "paleo",
+      "soup",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -3052,6 +3083,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 42,
+    "shard": "l"
+  },
+  {
+    "slug": "light-peruvian-pork-tenderloin-chupe",
+    "title": "Light Peruvian Pork Tenderloin Chupe",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "peruvian",
+      "weeknight",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
@@ -5905,6 +5951,22 @@
     "shard": "l"
   },
   {
+    "slug": "low-glycemic-peruvian-snappy-causa-limena",
+    "title": "Low-Glycemic Peruvian Snappy Causa-Limena",
+    "tags": [
+      "causa-limena",
+      "donabe",
+      "low-glycemic",
+      "monsoon",
+      "peruvian",
+      "snappy",
+      "yeasty"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "low-glycemic-portuguese-creme-patissiere-toast",
     "title": "Low-Glycemic Portuguese Creme-Patissiere Toast",
     "tags": [
@@ -6057,6 +6119,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-aerated-saudi-arabian-herring-flamb-9",
+    "title": "Luscious Aerated Saudi-Arabian Herring Flamb",
+    "tags": [
+      "flambe",
+      "herring",
+      "keto-friendly",
+      "kid-friendly",
+      "saudi-arabian"
+    ],
+    "cuisine": "Saudi-Arabian",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
