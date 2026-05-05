@@ -1,0 +1,63 @@
+{
+  "title": "Light Norwegian Sushi Rice",
+  "description": "A rich and silky light Norwegian dish featuring sushi rice, inspired by traditional sushi but adapted with anti-inflammatory-friendly ingredients and served on a talavera plate.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    }
+  ],
+  "instructions": [
+    "Mix sushi vinegar and water together in a small saucepan and bring to a boil on medium heat.",
+    "Reduce heat to low and simmer for 5 minutes, or until the mixture has thickened slightly.",
+    "In a large bowl, combine the cooked Japanese short-grain rice and sushi vinegar mixture. Mix gently until the rice is well coated.",
+    "Transfer the rice to a 9x13 inch baking dish and let it cool to room temperature.",
+    "After the rice has cooled, transfer it to a large mixing bowl and gently mix in tandoor-cooked turmeric, ginger, and lemongrass spices.",
+    "Finally, shape the sushi rice into small oval shapes.",
+    "Cut the tops off of 2 talavera plates and use them as molds to shape the sushi rice into perfect oval shapes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "talavera",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 65,
+    "fat": 4
+  },
+  "slug": "light-norwegian-sushi-rice-sushi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-norwegian-sushi-rice-sushi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:02:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "sushi rice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "sushi rice",
+    "descriptor": "light",
+    "dishForm": "sushi"
+  }
+}
