@@ -1,0 +1,116 @@
+{
+  "title": "Lamb Kicked by Wok Fluffy Lamb Dim-Sum",
+  "description": "A winey, fluffy, date-night Chinese dish featuring lamb mince, featuring a fermented kick.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Mince",
+      "amount": "1 pound 2 ounces",
+      "notes": "Make sure to use high-quality, grass-fed lamb for the best flavor."
+    },
+    {
+      "name": "Fermented Shaoxing Wine",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Gao Li",
+      "amount": "1 teaspoon",
+      "notes": "A Chinese fermented soybean paste that adds depth to the dish."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 teaspoon",
+      "notes": "Low-sodium soy sauce works best, as it won't overpower the other flavors."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Use superfine sugar for the best results."
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "Use superfine cornstarch for the best results."
+    },
+    {
+      "name": "Scallions",
+      "amount": "4 stems",
+      "notes": ""
+    },
+    {
+      "name": "Corn Flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Wok Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of vegetable oil in a wok over high heat until it starts to smoke.",
+    "Add the lamb mince to the wok and break it up with a spatula as it cooks, until it's browned and crispy, about 3 minutes.",
+    "Add the fermented Shaoxing wine, ginger, Gao Li, soy sauce, and sugar to the wok, and stir-fry until the liquid has almost completely evaporated, about 2 minutes.",
+    "Add the cornstarch to the wok and stir-fry for 1 minute, until the lamb is coated in the starch.",
+    "Transfer the lamb mixture to a bowl and set it aside to cool completely.",
+    "In a separate bowl, mix together the corn flour and a pinch of salt until well combined.",
+    "Add the scallions to the corn flour mixture and mix until they're evenly coated.",
+    "Using your hands, shape the scallion mixture into small dim-sum shapes, about 1 inch in diameter.",
+    "Heat a tablespoon of Wok Oil in a non-stick pan or wok over medium-high heat until it starts to smoke.",
+    "Add the lamb dim-sum to the pan and cook until they're golden brown on the bottom, about 2 minutes.",
+    "Flip the dim-sum over and cook until they're golden brown on the top, about 2 minutes.",
+    "Serve the lamb dim-sum hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chinese",
+    "date-night",
+    "fermented",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 52,
+    "carbs": 24,
+    "fat": 40
+  },
+  "slug": "lamb-kicked-by-wok-fluffy-lamb-dim-sum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lamb-kicked-by-wok-fluffy-lamb-dim-sum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "ferment-jang",
+    "primaryIngredient": "lamb mince",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "fluffy",
+    "mainIngredient": "lamb",
+    "descriptor": "Lamb Kicked by Wok",
+    "dishForm": "Dim-Sum"
+  }
+}
