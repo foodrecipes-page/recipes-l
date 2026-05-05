@@ -1601,6 +1601,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-and-snappy-thai-beans-toast",
+    "title": "Light and Snappy Thai Beans Toast",
+    "tags": [
+      "gluten-free",
+      "high-fiber",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "light-and-tangy-brazilian-fish-bowl",
     "title": "Light and Tangy Brazilian Fish Bowl",
     "tags": [
@@ -3209,6 +3223,20 @@
       "halal-friendly"
     ],
     "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-nutty-syrian-rocket-salad",
+    "title": "Light Nutty Syrian Rocket Salad",
+    "tags": [
+      "easy-to-make",
+      "healthy",
+      "salad",
+      "summer",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
     "totalTimeMin": 35,
     "shard": "l"
   },

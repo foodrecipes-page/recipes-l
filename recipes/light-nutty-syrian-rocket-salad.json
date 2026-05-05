@@ -1,0 +1,63 @@
+{
+  "title": "Light Nutty Syrian Rocket Salad",
+  "description": "A light and refreshing salad featuring rocket, crisp fried chickpeas, and a creamy tahini dressing.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Romaine lettuce (rocket)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Canned chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the romaine lettuce, tearing it into bite-sized pieces.",
+    "In a large bowl, combine the lettuce, crispy chickpeas, toasted hazelnuts, parsley, garlic, cumin, sumac, and lemon zest.",
+    "In a small bowl, whisk together the tahini paste, lemon juice, salt, and black pepper until smooth.",
+    "Pour the tahini dressing over the salad and toss to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve immediately, garnished with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "salad",
+    "summer",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "light-nutty-syrian-rocket-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-nutty-syrian-rocket-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "rocket",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Rocket",
+    "descriptor": "Light Nutty",
+    "dishForm": "Salad"
+  }
+}
