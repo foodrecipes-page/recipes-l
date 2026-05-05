@@ -1,0 +1,94 @@
+{
+  "title": "Lemony Smoky Shaggy Almond Pasta",
+  "description": "An energizing Indian dish featuring almond essence, lardons-rendered fat, and a smoky, shaggy texture for lacto-vegetarian dishes.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": 100
+    },
+    {
+      "name": "pasta",
+      "amount": 400
+    },
+    {
+      "name": "smoked paprika",
+      "amount": 2
+    },
+    {
+      "name": "lentils",
+      "amount": 300
+    },
+    {
+      "name": "onions, diced",
+      "amount": 100
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": 4
+    },
+    {
+      "name": "lemon zest and juice",
+      "amount": 2
+    },
+    {
+      "name": "lardons (caramelized fat)",
+      "amount": 150
+    },
+    {
+      "name": "salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "balsamic vinegar for garnish",
+      "amount": 20
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees F (190 C). Cook lentils in boiling water until tender.",
+    "Sauté onions and garlic in olive oil until translucent. Add almond flour, mix well, and cook for another minute.",
+    "Mix lentils with the almond-flour mixture and set aside. Toast lardons in a pan over medium heat.",
+    "Combine toasted lardons with smoky paprika, lemon zest, and salt/pepper. Mix evenly with the lentil-almond mix.",
+    "Boil pasta until al dente. Drain and mix with the lentil-lardon mixture.",
+    "Fold in balsamic vinegar for a bright finish. Garnish with fresh parsley if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "indian",
+    "lacto-vegetarian-friendly",
+    "shaggy",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 41,
+    "carbs": 53,
+    "fat": 28
+  },
+  "slug": "lemony-smoky-shaggy-almond-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-smoky-shaggy-almond-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T16:27:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "lardons-render",
+    "primaryIngredient": "almond essence",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Lemony",
+    "dishForm": "Pasta"
+  }
+}
