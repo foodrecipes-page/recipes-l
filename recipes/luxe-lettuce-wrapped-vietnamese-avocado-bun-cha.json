@@ -1,0 +1,121 @@
+{
+  "title": "Luxe Lettuce Wrapped Vietnamese Avocado Bun Cha",
+  "description": "A refreshing twist on traditional Vietnamese bun cha, featuring a shio-koji-cured pork patty, crunchy avocado, and fresh herbs, all wrapped in a crisp lettuce leaf.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shio-Koji-Cured Pork Patty",
+      "amount": "1",
+      "notes": "See notes for shio-koji cure recipe"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro Leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallop Shells",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce Leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Rice Noodles",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar-Based Dipping Sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chili Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chili Slices",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the shio-koji cure by mixing 1/2 cup of kosher salt, 1/4 cup of shio-koji powder, and 1/4 cup of sugar in a bowl.",
+    "Place the pork shoulder in a large ziplock bag and pour the shio-koji cure over the meat.",
+    "Massage the cure into the meat and refrigerate for at least 2 hours or overnight.",
+    "Grill the pork until it reaches an internal temperature of 145°F (63°C).",
+    "Slice the pork into thin patties.",
+    "Cut the avocado into thin slices.",
+    "Prepare the lettuce wraps by washing and drying the leaves.",
+    "Cook the rice noodles according to the package instructions.",
+    "Assemble the bun cha by placing a pork patty on a lettuce leaf, topping with a scoop of noodles, a few slices of avocado, and a sprinkle of herbs.",
+    "Serve with a side of vinegar-based dipping sauce, chili sauce, hoisin sauce, and fresh chili slices."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 45,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easily-transportable",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 36,
+    "fat": 32
+  },
+  "slug": "luxe-lettuce-wrapped-vietnamese-avocado-bun-cha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luxe-lettuce-wrapped-vietnamese-avocado-bun-cha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "avocado",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Avocado",
+    "descriptor": "Luxe Lettuce Wrapped",
+    "dishForm": "Bun Cha"
+  }
+}
