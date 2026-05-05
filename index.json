@@ -1622,6 +1622,19 @@
     "shard": "l"
   },
   {
+    "slug": "light-citrusy-american-broccoli-bowl",
+    "title": "Light Citrusy American Broccoli Bowl",
+    "tags": [
+      "high-fiber",
+      "one-pan",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "light-citrusy-jamaican-spinach-bowl",
     "title": "Light Citrusy Jamaican Spinach Bowl",
     "tags": [
@@ -5664,6 +5677,22 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "low-glycemic-portuguese-creme-patissiere-toast",
+    "title": "Low-Glycemic Portuguese Creme-Patissiere Toast",
+    "tags": [
+      "breakfast",
+      "dairy-friendly",
+      "dessert",
+      "healthy",
+      "high-protein",
+      "low-carb",
+      "one-pan"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {

@@ -1,0 +1,110 @@
+{
+  "title": "Low-Glycemic Portuguese Creme-Patissiere Toast",
+  "description": "A delicious breakfast or brunch dish rich in cheese-pull and low in sugar, suitable for those watching their blood sugar levels.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "dairy-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond Flour Bread",
+      "amount": "2 slices",
+      "notes": "Low-glycemic alternative to traditional Portuguese bread."
+    },
+    {
+      "name": "Low-Glycemic Creme-Patissiere",
+      "amount": "2 tablespoons",
+      "notes": "Made with almond milk and stevia for a lower sugar content."
+    },
+    {
+      "name": "Portuguese Queijo Fresco",
+      "amount": "4 oz",
+      "notes": "A low-carb, high-protein cheese perfect for cheese-pull."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For toasting the bread."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1/4 cup",
+      "notes": "For drizzling over the creme-patissiere."
+    },
+    {
+      "name": "Stevia",
+      "amount": "1/4 teaspoon",
+      "notes": "For sweetness."
+    },
+    {
+      "name": "Large Egg",
+      "amount": "1",
+      "notes": "For thickening the creme-patissiere."
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/8 teaspoon",
+      "notes": "For added flavor."
+    }
+  ],
+  "instructions": [
+    " Toast the almond flour bread slices until lightly browned.",
+    "Spread 1 tablespoon of low-glycemic creme-patissiere on each toasted bread slice.",
+    "Top each slice with 2 oz of Portuguese queijo fresco.",
+    "Drizzle 1 tablespoon of almond milk over the creme-patissiere.",
+    "Sprinkle stevia to taste for sweetness.",
+    "Add a pinch of cinnamon and salt for added flavor.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dairy-friendly",
+    "dessert",
+    "healthy",
+    "high-protein",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "low-glycemic-portuguese-creme-patissiere-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-glycemic-portuguese-creme-patissiere-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "toast",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "creme-patissiere",
+    "descriptor": "low-glycemic",
+    "dishForm": "toast"
+  }
+}

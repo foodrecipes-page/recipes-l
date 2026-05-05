@@ -1,0 +1,117 @@
+{
+  "title": "Light Citrusy American Broccoli Bowl",
+  "description": "A light, healthy, and flavorful American-style broccoli dish with a hint of citrus, perfect for a solo dinner.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Freshly squeezed Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce (gluten-free)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Katsuramuki-cut Carrots",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and ginger; saut\u0007\u0010 until fragrant, about 1 minute.",
+    "Add broccoli and soy sauce; stir-fry until broccoli starts to soften, about 2-3 minutes.",
+    "Add chili flakes, salt, and coconut sugar; stir-fry for 1 minute.",
+    "Add katsuramuki-cut carrots and stir-fry until tender-crisp, about 2-3 minutes.",
+    "Squeeze lemon juice over the broccoli mixture and stir-fry for 1 minute.",
+    "Garnish with cilantro and serve hot with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "light-citrusy-american-broccoli-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-citrusy-american-broccoli-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "broccoli",
+    "descriptor": "light citrusy",
+    "dishForm": "Bowl"
+  }
+}
