@@ -1,0 +1,110 @@
+{
+  "title": "Light Malty Portuguese Apricots Pasta",
+  "description": "A light, malty, and festive Portuguese dish featuring dried apricots and a pasta-water emulsion. Perfect for a flexitarian dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "120g",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole wheat spaghetti",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "240ml",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "60g",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, melt the butter over medium heat and add the chopped apricots, cinnamon, and cloves. Cook for 5-7 minutes, stirring occasionally.",
+    "Add the brown sugar to the skillet and stir to combine. Cook for an additional 2-3 minutes or until the mixture is caramelized.",
+    "In a small bowl, whisk together the water and heavy cream. Add to the skillet and stir to combine.",
+    "Add the cooked spaghetti to the skillet, tossing to combine with the apricot and cream mixture.",
+    "Season with kosher salt to taste and serve topped with grated parmesan and chopped parsley.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "portuguese",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 72,
+    "fat": 20
+  },
+  "slug": "light-malty-portuguese-apricots-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-malty-portuguese-apricots-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:46Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "dried apricots",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "apricots",
+    "descriptor": "light malty",
+    "dishForm": "Pasta"
+  }
+}
