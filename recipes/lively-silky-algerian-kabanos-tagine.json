@@ -1,0 +1,63 @@
+{
+  "title": "Lively Silky Algerian Kabanos Tagine",
+  "description": "This malty, silky Algerian dish features Polish kabanos sausage and candy, making it an energizing and vegetarian-friendly option.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Polish kabanos sausage",
+      "amount": "12 slices",
+      "notes": "preferably day-old, for crispy texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the kabanos sausage into 1-inch pieces and spread on a baking sheet.",
+    "Bake for 10 minutes or until the kabanos is crispy.",
+    "In a separate pan, toast 1 cup of golden raisins over medium heat until lightly browned.",
+    "Add 1 cup of honey to the pan with the raisins and stir constantly until the honey has dissolved.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 5 minutes.",
+    "Add 1 cup of chopped dried dates to the pan and stir to combine.",
+    "Add 1 teaspoon of ground cinnamon to the pan and stir to combine.",
+    "Add the crispy kabanos to the pan and stir to coat with the honey-raisin-date mixture.",
+    "Transfer the mixture to a serving dish and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 12
+  },
+  "slug": "lively-silky-algerian-kabanos-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-silky-algerian-kabanos-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:15Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "polish kabanos",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Kabanos",
+    "descriptor": "Lively Silky",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Lazy Sunday Moroccan Boudin Sellou",
+  "description": "A delicious and easy-to-make Moroccan boudin sellou that's perfect for a lazy Sunday breakfast or brunch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Boudin Noir",
+      "amount": "1 pound",
+      "notes": "High-quality boudin noir is essential for this recipe."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "Unbleached all-purpose flour works best."
+    },
+    {
+      "name": "Lard or vegetable shortening",
+      "amount": "1/2 cup",
+      "notes": "Use lard for a more authentic flavor or vegetable shortening as a substitute."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "Use pure cane sugar for the best flavor."
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Large eggs are best for this recipe."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "Softened unsalted butter makes the best sellou."
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "Sliced or slivered almonds add a nice crunch."
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "2 tablespoons",
+      "notes": "Dust the sellou with confectioners' sugar before serving."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, granulated sugar, and a pinch of salt.",
+    "Add the lard or shortening and use a pastry blender or your fingers to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Add the eggs and mix until the dough comes together in a ball.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat your oven to 400°F (200°C).",
+    "On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Fry the dough circles in hot oil (about 375°F or 190°C) until they are golden brown and puffed up.",
+    "Drain the sellou on paper towels and let cool slightly.",
+    "Dust the sellou with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "high-protein",
+    "moroccan",
+    "moroccan-breakfast",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "lazy-sunday-moroccan-boudin-sellou",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-moroccan-boudin-sellou",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:40Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "boudin-noir",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "boudin",
+    "descriptor": "Lazy Sunday",
+    "dishForm": "Sellou"
+  }
+}

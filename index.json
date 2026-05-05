@@ -786,6 +786,22 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-moroccan-boudin-sellou",
+    "title": "Lazy Sunday Moroccan Boudin Sellou",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "high-protein",
+      "moroccan",
+      "moroccan-breakfast",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-moroccan-lamb-tagine",
     "title": "Lazy Sunday Moroccan Lamb Tagine",
     "tags": [
@@ -887,6 +903,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-spanish-cheese-pull-paella",
+    "title": "lazy-sunday spanish cheese-pull paella",
+    "tags": [
+      "breakfast",
+      "cheese-lovers",
+      "comfort-food",
+      "one-pan",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -5379,6 +5410,33 @@
     "shard": "l"
   },
   {
+    "slug": "lively-silky-algerian-kabanos-tagine",
+    "title": "Lively Silky Algerian Kabanos Tagine",
+    "tags": [
+      "high-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-smoked-sweet-jamaican-sweet-potatoes-tagine",
+    "title": "Lively Smoked Sweet Jamaican Sweet Potatoes Tagine",
+    "tags": [
+      "jamaican",
+      "lacto-vegetarian",
+      "one-pan",
+      "smoked",
+      "sweet-potatoes",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "lively-smoky-algerian-chickpeas-tagine",
     "title": "Lively Smoky Algerian Chickpeas Tagine",
     "tags": [
@@ -6872,6 +6930,19 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 32,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-juicy-kid-friendly-australian-chicken-tagine",
+    "title": "luscious juicy kid-friendly australian chicken tagine",
+    "tags": [
+      "australian",
+      "kid-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {

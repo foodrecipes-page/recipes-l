@@ -1,0 +1,62 @@
+{
+  "title": "Lively Smoked Sweet Jamaican Sweet Potatoes Tagine",
+  "description": "A sour, juicy weeknight Jamaican dish featuring sweet smoked paprika, lacto-vegetarian-friendly, smoked to perfection in a tagine pot.",
+  "cuisine": "jamaican",
+  "meal": "dinner",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "3",
+      "notes": "medium-sized"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the tagine pot over medium heat",
+    "Add the onions and garlic and cook until softened, 5 minutes",
+    "Add the sweet potatoes and cook for another 5 minutes",
+    "Mix in the smoked paprika, thyme, and scotch bonnet peppers",
+    "Add the stock and bring to a boil, then reduce the heat to low and simmer for 20 minutes",
+    "Season with salt and pepper to taste",
+    "Serve hot, garnished with fresh herbs"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "lacto-vegetarian",
+    "one-pan",
+    "smoked",
+    "sweet-potatoes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "lively-smoked-sweet-jamaican-sweet-potatoes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-smoked-sweet-jamaican-sweet-potatoes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Lively Smoked Sweet",
+    "dishForm": "Tagine"
+  }
+}

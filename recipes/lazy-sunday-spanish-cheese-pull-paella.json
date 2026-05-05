@@ -1,0 +1,61 @@
+{
+  "title": "lazy-sunday spanish cheese-pull paella",
+  "description": "sweet breakfast or brunch recipe featuring castelvetrano olives and a gooey cheese pull in a clay pot",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "spainish rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large clay pot over medium heat",
+    "add cooked onion and cook until translucent, about 5 minutes",
+    "add uncooked rice and stir to coat in oil",
+    "add turmeric, paprika, and salt, stir to combine",
+    "add chicken broth, 1 cup at a time, until rice is cooked and liquid is absorbed",
+    "stir in diced tomatoes and shredded cheese until melted and creamy",
+    "stir in chopped olives and cook for 1-2 minutes",
+    "transfer paella to a warm serving plate and let rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheese-lovers",
+    "comfort-food",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 30,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "lazy-sunday-spanish-cheese-pull-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-spanish-cheese-pull-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:05Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "cheese-pull",
+    "descriptor": "lazy-sunday",
+    "dishForm": "paella"
+  }
+}

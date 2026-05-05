@@ -1,0 +1,111 @@
+{
+  "title": "luscious juicy kid-friendly australian chicken tagine",
+  "description": "australian-inspired chicken stew cooked in a clay tagine. perfect for a weeknight dinner with the kids.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "poultry",
+    "gluten-free",
+    "dairy-free",
+    "vegan:optional"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "1",
+      "notes": "make sure it's gluten-free or use homemade stock"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2",
+      "notes": "use a mild oil like canola or grapeseed if you prefer"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1",
+      "notes": "use a mild or kid-friendly curry blend"
+    },
+    {
+      "name": "paprika",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "notes": "minced or crushed for easier cooking"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat olive oil in the clay tagine over medium heat.",
+    "add the onion and cook until softened, about 5 minutes.",
+    "add the red bell pepper and cook for another 5 minutes.",
+    "add the tomato and cook for 2 minutes more.",
+    "add the chicken, stock cube, curry powder, and paprika. stir well to combine.",
+    "add 1 cup of water and bring to a simmer.",
+    "reduce heat to low and let cook for 20-25 minutes, or until the chicken is cooked through.",
+    "season with salt and pepper to taste.",
+    "garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "luscious-juicy-kid-friendly-australian-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-juicy-kid-friendly-australian-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:22Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Luscious Juicy Kid-Friendly",
+    "dishForm": "Tagine"
+  }
+}
