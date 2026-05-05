@@ -1,0 +1,132 @@
+{
+  "title": "lightly steamed malaysian rice bowl",
+  "description": "savory, chewy, light malaysian dish featuring brandy and yuzu-cure, vegan and gluten-free, suitable for buddhist temples. served in a bamboo tray.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short-grain japonica rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brandi-infused water",
+      "amount": "1 cup",
+      "notes": "use a ratio of 1 part brandy to 4 parts water, steep for at least 2 hours, then chill."
+    },
+    {
+      "name": "yuzu-cured tofu",
+      "amount": "6 slices",
+      "notes": "marinate tofu in a mixture of yuzu juice, soy sauce, and maple syrup for at least 2 hours, then chill."
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "yuzu wedges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "combine brandi-infused water and rice in a bamboo steamer and steam for 10 minutes.",
+    "meanwhile, toast coconut flakes in a small pan over low heat, stirring frequently, until lightly browned.",
+    "prepare yuzu-cured tofu by slicing into thin strips and placing on a plate.",
+    "in a small bowl, whisk together soy sauce, maple syrup, sesame oil, and grated ginger to make a sauce.",
+    "to assemble the dish, place a portion of steamed rice on a bamboo tray and top with yuzu-cured tofu, toasted coconut flakes, chopped scallions, and sesame oil sauce.",
+    "scatter salt and black pepper over the top and garnish with fresh cilantro, yuzu, and lemon wedges.",
+    "serve immediately, with additional yuzu wedges and lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "lightly-steamed-malaysian-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-steamed-malaysian-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "brandy",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rice",
+    "descriptor": "Lightly Steamed",
+    "dishForm": "Bowl"
+  }
+}

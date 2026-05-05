@@ -738,6 +738,27 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-mexican-cabbage-churros",
+    "title": "Lazy-Sunday Mexican Cabbage Churros",
+    "tags": [
+      "breakfast",
+      "churros",
+      "cinnamon",
+      "easy",
+      "jain",
+      "lunch",
+      "mexican",
+      "one-pan",
+      "snack",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-moroccan-lamb-tagine",
     "title": "Lazy Sunday Moroccan Lamb Tagine",
     "tags": [
@@ -3335,6 +3356,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-shattering-syrian-comte-grill",
+    "title": "Light Shattering Syrian Comte Grill",
+    "tags": [
+      "char-grilled",
+      "dinner-party",
+      "gourmet",
+      "grilled-cheese",
+      "high-end",
+      "syrian-cuisine"
+    ],
+    "cuisine": "syrian",
+    "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
     "slug": "light-show-off-argentinian-chicken-salad",
     "title": "Light Show-off Argentinian Chicken Salad",
     "tags": [
@@ -4504,6 +4540,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-steamed-malaysian-rice-bowl",
+    "title": "lightly steamed malaysian rice bowl",
+    "tags": [
+      "gluten-free",
+      "high-fiber",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {

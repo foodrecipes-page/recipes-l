@@ -1,0 +1,99 @@
+{
+  "title": "Light Shattering Syrian Comte Grill",
+  "description": "A rich and savory, whole30-friendly dish featuring the flavors of Syria, with the added complexity of char-grilled comte cheese, all wrapped in an agave leaf vessel. The result is a shattering, light, and utterly indulgent experience.",
+  "cuisine": "syrian",
+  "diet": [
+    "whole30",
+    "keto",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "3 oz",
+      "notes": "rich and creamy, perfect for shattering"
+    },
+    {
+      "name": "Agave leaves",
+      "amount": "4",
+      "notes": "large enough to wrap the cheese"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing the leaves"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced, adds depth"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": " adds herbal notes"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "to bring out flavors"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch",
+      "notes": "to balance flavors"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp",
+      "notes": "smoky, adds richness"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, around 400°F (200°C).",
+    "Brush the agave leaves with olive oil and place a comte cheese cube in the center of each leaf.",
+    "Sprinkle minced garlic and fresh thyme over the cheese.",
+    "Wrap the leaves around the cheese and secure with a toothpick, if needed.",
+    "Place the cheese packets on the grill and cook for 5-7 minutes on each side, or until the cheese is melted and the leaves are char-grilled.",
+    "Remove from heat and sprinkle with paprika, salt, and black pepper.",
+    "Serve immediately, allowing the cheese to shatter and the flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "char-grilled",
+    "dinner-party",
+    "gourmet",
+    "grilled-cheese",
+    "high-end",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 52
+  },
+  "slug": "light-shattering-syrian-comte-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-shattering-syrian-comte-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "comte",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Comte",
+    "descriptor": "Light Shattering",
+    "dishForm": "Grill"
+  }
+}
