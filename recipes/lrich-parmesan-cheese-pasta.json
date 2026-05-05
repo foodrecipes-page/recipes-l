@@ -1,0 +1,92 @@
+{
+  "title": "Lrich Parmesan Cheese Pasta",
+  "description": "A rich and creamy Jamaican-inspired pasta dish featuring parmesan cheese and a lamination puff topping. Vegetarian and gluten-free.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole wheat pasta",
+      "amount": 200
+    },
+    {
+      "name": "Heavy cream",
+      "amount": 500,
+      "notes": "Sour or sweet"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": 250
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "Mashed and softened"
+    },
+    {
+      "name": "Salt",
+      "amount": 300,
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": 150,
+      "notes": "To taste"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": 200
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Add the pasta and cook until al dente. Drain and set aside.",
+    "In a saucepan, mix heavy cream with softened garlic.",
+    "Over medium heat, add butter, parmesan cheese, salt, pepper, and all-purpose flour to form a roux. Cook for 2 minutes, stirring constantly.",
+    "Add the cooked pasta and cream mixture to the sauce, mixing well until smooth and heated through.",
+    "Top with grated lamination puff (cornmeal dough coated in egg wash) cut into circles and baked until golden brown.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jamaican-influenced",
+    "parmigiana-style",
+    "rich-creamy-pasta",
+    "vegan-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "lrich-parmesan-cheese-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lrich-parmesan-cheese-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:01:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "lamination-puff",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Parmesan Cheese",
+    "descriptor": "Rich",
+    "dishForm": "Pasta"
+  }
+}
