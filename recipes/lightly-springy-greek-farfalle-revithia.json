@@ -1,0 +1,118 @@
+{
+  "title": "Lightly Springy Greek Farfalle Revithia",
+  "description": "A traditional Greek recipe featuring springy farfalle pasta, rich tomato sauce, and a hint of umami from Kalamata olives. Perfect for meal prep and cooked in a clay tajine vessel.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Farfalle pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5g",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the farfalle pasta according to package instructions until al dente.",
+    "Prepare the tajine vessel by heating it over low heat with a small amount of olive oil.",
+    "Add the chopped olives, parsley, and dill to the heated tajine and sauté for 2-3 minutes until fragrant.",
+    "Add the cherry tomatoes, white wine vinegar, dried oregano, salt, and black pepper to the tajine and stir to combine.",
+    "Add the cooked farfalle pasta to the tajine and toss with the sauce until well coated.",
+    "Transfer the pasta to a serving dish and top with crumbled feta cheese.",
+    "Serve warm and enjoy!",
+    "Store any leftovers in an airtight container for up to 3 days in the refrigerator or 2 months in the freezer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-cuisine",
+    "meal-prep",
+    "one-pan",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "lightly-springy-greek-farfalle-revithia",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-springy-greek-farfalle-revithia",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "whisk",
+    "primaryIngredient": "farfalle",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "farfalle",
+    "descriptor": "Lightly springy",
+    "dishForm": "Revithia"
+  }
+}

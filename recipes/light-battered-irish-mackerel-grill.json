@@ -1,0 +1,105 @@
+{
+  "title": "Light Battered Irish Mackerel Grill",
+  "description": "A kid-friendly, keto-friendly take on traditional Irish mackerel with a light, mustardy batter grilled to perfection. Serve immediately for the best flavor and texture.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1 tsp",
+      "notes": "gluten-free alternative to traditional Irish batter"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1/2 cup",
+      "notes": "or substitute with almond milk for dairy-free option"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": "black or brown mustard seeds work well"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to 400°F (200°C).",
+    "Pat dry the mackerel fillets with a paper towel to remove excess moisture.",
+    "In a large bowl, mix together the flour, baking soda, salt, and black pepper.",
+    "In a separate bowl, whisk together the egg, buttermilk, and mustard seeds.",
+    "Add the dry ingredients to the wet ingredients and stir until the batter is smooth.",
+    "Dip each mackerel fillet into the batter, coating both sides evenly.",
+    "Place the battered mackerel on the preheated grill and cook for 4-6 minutes per side, or until the batter is golden brown and the fish is cooked through.",
+    "Remove the mackerel from the grill and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "grilled",
+    "irish",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "light-battered-irish-mackerel-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-battered-irish-mackerel-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:40Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "tandoor",
+    "primaryIngredient": "mackerel",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "mackerel",
+    "descriptor": "Light Battered",
+    "dishForm": "Grill"
+  }
+}

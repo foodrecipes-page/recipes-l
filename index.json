@@ -1539,6 +1539,22 @@
     "shard": "l"
   },
   {
+    "slug": "light-battered-irish-mackerel-grill",
+    "title": "Light Battered Irish Mackerel Grill",
+    "tags": [
+      "fish",
+      "gluten-free",
+      "grilled",
+      "irish",
+      "keto",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
     "slug": "light-boil-pork-stir-fry",
     "title": "Light Boil Pork Stir-fry",
     "tags": [
@@ -4328,6 +4344,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-springy-greek-farfalle-revithia",
+    "title": "Lightly Springy Greek Farfalle Revithia",
+    "tags": [
+      "gluten-free",
+      "greek-cuisine",
+      "meal-prep",
+      "one-pan",
+      "veggie-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
