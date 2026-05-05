@@ -1,0 +1,73 @@
+{
+  "title": "Lavender Crispy Brazilian Samphire Pilaf",
+  "description": "A savory and peppery dish featuring samphire with a crispy texture and hints of lavender to aid in hangover recovery. Nut-free-friendly option.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "200g Samphire",
+      "amount": "oz"
+    },
+    {
+      "name": "1 tsp Lemon Zest",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 cup White Rice",
+      "amount": "cup"
+    },
+    {
+      "name": "4 cloves Garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "Juice of 1 Lime",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Toast rice in a pan until golden brown.",
+    "Deglaze with lime juice and lemon zest.",
+    "Add samphire, garlic, and cook over medium heat for about 5 minutes.",
+    "Stir in 1/4 cup of water, cover and simmer for another 3-4 minutes.",
+    "Garnish with fresh parsley before serving.",
+    "Serve immediately as a snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "hangover-cure",
+    "lavrender-infused",
+    "peppery",
+    "samphire"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "lavender-crispy-brazilian-samphire-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lavender-crispy-brazilian-samphire-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T02:09:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "samphire",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Samphire",
+    "descriptor": "Lavender Crispy",
+    "dishForm": "Pilaf"
+  }
+}
