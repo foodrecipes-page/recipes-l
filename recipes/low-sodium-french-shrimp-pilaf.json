@@ -1,0 +1,106 @@
+{
+  "title": "Low-sodium French shrimp Pilaf",
+  "description": "A French-inspired dish featuring saeujeot and shrimp paste, cooked in a bain-marie for a low-sodium and flavorful pilaf.",
+  "cuisine": "French",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saeujeot (Korean salted shrimp paste)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together saeujeot and 1 tsp water to create a paste.",
+    "In a large saucepan, heat olive oil over medium heat.",
+    "Add chopped onion and cook until translucent, about 3 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add brown rice and cook for 1-2 minutes, stirring constantly.",
+    "Add low-sodium chicken broth and bring to a boil.",
+    "Reduce heat to low and create a bain-marie by placing the saucepan in a larger pot with water at a simmer.",
+    "Cover the saucepan with a tight-fitting lid and cook for 18-20 minutes, or until the rice is tender.",
+    "While the pilaf is cooking, melt unsalted butter in a small saucepan over low heat.",
+    "Add cooked shrimp to the melted butter and stir to coat.",
+    "Once the pilaf is cooked, fluff it with a fork and stir in the shrimp mixture.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-sodium",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "low-sodium-french-shrimp-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-sodium-french-shrimp-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "bain-marie",
+    "primaryIngredient": "saeujeot-shrimp-paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "shrimp",
+    "descriptor": "Low-sodium",
+    "dishForm": "Pilaf"
+  }
+}
