@@ -1,0 +1,109 @@
+{
+  "title": "Light Malt Croatian Papelon Bowl",
+  "description": "A malty, light, and flavorful Croatian-inspired bowl featuring papelon, simmered in a nimono broth, perfect as a solo dinner option.",
+  "cuisine": "croatian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "250g",
+      "notes": "Dried papelon available at most Eastern European markets."
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Medium-sized onion, peeled and sliced."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Nimono broth mix",
+      "amount": "1 packet",
+      "notes": "Available at most Asian grocery stores."
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Malt vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a medium saucepan over medium heat.",
+    "Add sliced onion and cook until translucent, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add papelon and stir to combine.",
+    "Pour in nimono broth mix, dried thyme, black pepper, and salt. Bring to a simmer.",
+    "Reduce heat to low and let simmer for 15 minutes, or until papelon is tender.",
+    "Stir in chopped parsley and malt vinegar.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "flexitarian",
+    "high-fiber",
+    "low-protein",
+    "one-pan",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "light-malty-croatian-papelon-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-malty-croatian-papelon-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:02Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "papelon",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "papelon",
+    "descriptor": "light malty",
+    "dishForm": "Bowl"
+  }
+}
