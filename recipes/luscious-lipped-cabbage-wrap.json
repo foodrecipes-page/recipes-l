@@ -1,0 +1,87 @@
+{
+  "title": "Luscious Lipped Cabbage Wrap",
+  "description": "An earthy and juicy Brazilian dish featuring leaf-wrapped cabbage leaves that satisfy a midnight craving. Low-sodium friendly.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": 2
+    },
+    {
+      "name": "Tomato",
+      "amount": 1
+    },
+    {
+      "name": "Onion",
+      "amount": 1
+    },
+    {
+      "name": "Garlic",
+      "amount": 3
+    },
+    {
+      "name": "Red Onion",
+      "amount": 1
+    },
+    {
+      "name": "Chili Pepper",
+      "amount": 2
+    },
+    {
+      "name": "Tahini Sauce",
+      "amount": "as needed"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Slice the cabbage leaves and remove any tough parts.",
+    "Peel and finely chop tomatoes, onions, garlic, red onion, and chili peppers.",
+    "Mix chopped vegetables with tahini sauce and lime juice to taste.",
+    "Place a few layers of cabbage leaf over a serving plate or on a platter.",
+    "Spread the vegetable mixture evenly across the leaves.",
+    "Fold in half to create a wrap, then fold in half again for more compactness.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-dish",
+    "earthly",
+    "juicy",
+    "leaf-wrap-steamed",
+    "low-sodium-friendly",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "luscious-lipped-cabbage-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-lipped-cabbage-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:27:30Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Luscious",
+    "dishForm": "Wrap"
+  }
+}
