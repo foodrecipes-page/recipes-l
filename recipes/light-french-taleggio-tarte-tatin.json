@@ -1,0 +1,83 @@
+{
+  "title": "Light French Taleggio Tarte Tatin",
+  "description": "A velvety, pungent French dessert from Normandy, featuring reduced Taleggio cheese, anti-inflammatory-friendly ingredients, and a delicate Tarte Tatin crust.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "low-carb",
+    "vegan-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "sprigs",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch.",
+    "Spread Taleggio cheese evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Drizzle balsamic vinegar and honey over the cheese.",
+    "Fold the pastry edges up over the cheese, pressing gently to seal.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the cheese is melted and bubbly.",
+    "Allow the tart to cool for 5 minutes before inverting onto a serving plate.",
+    "Garnish with fresh thyme sprigs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "european",
+    "healthy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "light-french-taleggio-tarte-tatin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-french-taleggio-tarte-tatin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:59Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "taleggio",
+    "diet": "anti-inflammatory",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Light",
+    "dishForm": "Tarte Tatin"
+  }
+}

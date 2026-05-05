@@ -2208,6 +2208,18 @@
     "shard": "l"
   },
   {
+    "slug": "light-french-taleggio-tarte-tatin",
+    "title": "Light French Taleggio Tarte Tatin",
+    "tags": [
+      "european",
+      "healthy",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
     "slug": "light-fresh-algerian-oats-tagine",
     "title": "Light Fresh Algerian Oats Tagine",
     "tags": [
@@ -2755,6 +2767,19 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-mediterranean-corned-beef-broil",
+    "title": "Light Mediterranean Corned Beef Broil",
+    "tags": [
+      "broil",
+      "easy",
+      "mediterranean",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
