@@ -1629,6 +1629,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-blanch-japanese-noodle-noodles",
+    "title": "Light Blanch Japanese Noodle Noodles",
+    "tags": [
+      "blanch",
+      "high-fiber",
+      "hokkaido",
+      "low-calorie",
+      "vegan-option"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
     "slug": "light-boil-pork-stir-fry",
     "title": "Light Boil Pork Stir-fry",
     "tags": [
@@ -2532,6 +2546,27 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-glassy-jelly-peruvian-cabbage-bowl",
+    "title": "Peruvian Cabbage Bowl",
+    "tags": [
+      "cabbage",
+      "cashew",
+      "dinner",
+      "egg-free-friendly",
+      "gluten-free",
+      "high-fiber",
+      "low-carb",
+      "low-fat",
+      "lunch",
+      "one-pan",
+      "peruvian",
+      "vegan"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 95,
     "shard": "l"
   },
   {

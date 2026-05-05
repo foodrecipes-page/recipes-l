@@ -1,0 +1,60 @@
+{
+  "title": "Light Blanch Japanese Noodle Noodles",
+  "description": "A light and refreshing Japanese noodle dish featuring blanched brown rice noodles. Perfect for a light meal or snack, this dish is also Ayurveda-friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "Ayurveda-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably Japanese-style"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Add the brown rice noodles and cook for 3 minutes, or until slightly tender.",
+    "Drain the noodles and immediately plunge them into an ice bath to stop cooking.",
+    "While the noodles are cooling, heat 1 tablespoon of sesame oil in a small saucepan over medium heat."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blanch",
+    "high-fiber",
+    "hokkaido",
+    "low-calorie",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "slug": "light-blanch-japanese-noodle-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-blanch-japanese-noodle-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:53Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "ayurvedic-rajasic",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodle",
+    "descriptor": "light blanch",
+    "dishForm": "Noodles"
+  }
+}

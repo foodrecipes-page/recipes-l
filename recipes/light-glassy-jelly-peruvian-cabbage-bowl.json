@@ -1,0 +1,122 @@
+{
+  "title": "Peruvian Cabbage Bowl",
+  "description": "A light and refreshing Peruvian-inspired dish made with red cabbage, cashew malta, and sous-vide cooking. Perfect for a healthy and easy lunch or dinner option.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "egg-free-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/2 cup",
+      "notes": "soaked in water for 4 hours"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cashew malta",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the cashews in water for 4 hours before using.",
+    "Cut the red cabbage into thin strips and place in a bowl.",
+    "In a blender, combine the soaked cashews, apple cider vinegar, maple syrup, lime juice, ground cumin, salt, and black pepper. Blend until smooth.",
+    "Heat the olive oil in a pan over medium heat.",
+    "Sous-vide cook the red cabbage at 185°F (85°C) for 1 hour.",
+    "In a separate pan, heat the cashew malta over low heat.",
+    "To assemble the dish, place the sous-vide cooked red cabbage in a bowl and top with the cashew malta mixture, chopped cilantro, and a drizzle of lime juice.",
+    "Garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy!",
+    "Make sure to adjust the seasoning to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "cashew",
+    "dinner",
+    "egg-free-friendly",
+    "gluten-free",
+    "high-fiber",
+    "low-carb",
+    "low-fat",
+    "lunch",
+    "one-pan",
+    "peruvian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "light-glassy-jelly-peruvian-cabbage-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-glassy-jelly-peruvian-cabbage-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:19Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "red cabbage",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cabbage",
+    "descriptor": "light glassy-jelly",
+    "dishForm": "Bowl"
+  }
+}
