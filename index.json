@@ -2749,6 +2749,19 @@
     "shard": "l"
   },
   {
+    "slug": "light-oven-roasted-middle-eastern-hazelnuts-wrap",
+    "title": "Light Oven-Roasted Middle-Eastern Hazelnuts Wrap",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 17,
+    "shard": "l"
+  },
+  {
     "slug": "light-peppery-australian-macaroni-pasta",
     "title": "Australian Macaroni with Peppery Knead",
     "tags": [
@@ -4853,6 +4866,22 @@
     "shard": "l"
   },
   {
+    "slug": "long-smoked-slovakian-vanilla-bake",
+    "title": "Long-Smoked Slovakian Vanilla Bake",
+    "tags": [
+      "dessert",
+      "gluten-free",
+      "slovakian",
+      "smoked",
+      "vanilla",
+      "vegan",
+      "wood-fired"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 42,
+    "shard": "l"
+  },
+  {
     "slug": "loomy-comforting-mung-bean-sproutsukju-pilaf",
     "title": "Loomy Comforting Mung-bean-sproutsukju Pilaf",
     "tags": [
@@ -5049,6 +5078,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-earthy-german-buckwheat-pilaf",
+    "title": "lovely earthen german buckwheat pilaf",
+    "tags": [
+      "german",
+      "gluten-free",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -5532,6 +5575,20 @@
       "festive"
     ],
     "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "low-glycemic-luscious-japanese-pork-katsudon",
+    "title": "Low-Glycemic Luscious Japanese Pork Katsudon",
+    "tags": [
+      "gluten-free",
+      "japanese",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
     "totalTimeMin": 35,
     "shard": "l"
   },

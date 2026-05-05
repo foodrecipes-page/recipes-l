@@ -1,0 +1,120 @@
+{
+  "title": "Low-Glycemic Luscious Japanese Pork Katsudon",
+  "description": "A traditional Kyushu-style katsudon made with low-glycemic ingredients, featuring shoyu-koji and a soffritto base.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "250g",
+      "notes": "boneless and sliced into thin strips"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tbsp",
+      "notes": "make sure it's a low-sodium option"
+    },
+    {
+      "name": "brown rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for flavor enhancement"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "use a low-sodium option"
+    },
+    {
+      "name": "sugar-free sweetener",
+      "amount": "1 tsp",
+      "notes": "such as stevia or monk fruit"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated for best flavor"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced for garnish"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking and flavor"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking and flavor"
+    },
+    {
+      "name": "soffritto base",
+      "amount": "1 cup",
+      "notes": "made with onion, garlic, and ginger"
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "2 eggs",
+      "notes": "for adding moisture and richness"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "for garnish and added texture"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large kadhai or frying pan over medium-high heat",
+    "Add the sliced pork loin and cook until browned and cooked through, about 5 minutes",
+    "Remove the pork from the pan and set aside",
+    "Add another tablespoon of coconut oil to the pan, then add the soffritto base and cook until softened, about 3 minutes",
+    "Add the shoyu-koji, brown rice vinegar, soy sauce, sugar-free sweetener, and grated ginger to the pan and stir to combine",
+    "Return the pork to the pan and stir to coat with the sauce",
+    "Make 2 wells in the center of the pan and crack in the beaten eggs",
+    "Cook until the eggs are set, about 2 minutes",
+    "To assemble the katsudon, place a scoop of cooked brown rice into the bottom of a serving vessel, followed by the pork and sauce mixture, and finally a fried egg",
+    "Garnish with green onions, toasted sesame seeds, and a sprinkle of sesame oil"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "low-glycemic-luscious-japanese-pork-katsudon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-glycemic-luscious-japanese-pork-katsudon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:22Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "low-glycemic",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Low-Glycemic Luscious",
+    "dishForm": "Katsudon"
+  }
+}

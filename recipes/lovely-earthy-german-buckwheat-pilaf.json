@@ -1,0 +1,68 @@
+{
+  "title": "lovely earthen german buckwheat pilaf",
+  "description": "earthy, crisp, comforting german dish featuring buckwheat, miso-marinate, dairy-free-friendly",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a copper-mug over medium-high heat.",
+    "add the onion and cook until softened, about 5 minutes.",
+    "add the garlic and cook for 1 minute.",
+    "add the buckwheat groats and cook for 1-2 minutes, stirring constantly.",
+    "add the vegetable broth, vegan miso paste, thyme, salt, and black pepper. Stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to low and cover the copper-mug.",
+    "simmer for 20 minutes, or until the buckwheat is tender and the liquid has been absorbed.",
+    "fluff the pilaf with a fork and serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "lovely-earthy-german-buckwheat-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-earthy-german-buckwheat-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "miso-marinate",
+    "primaryIngredient": "buckwheat",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "buckwheat",
+    "descriptor": "lovely earthy",
+    "dishForm": "Pilaf"
+  }
+}

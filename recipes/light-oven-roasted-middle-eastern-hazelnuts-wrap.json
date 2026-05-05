@@ -1,0 +1,96 @@
+{
+  "title": "Light Oven-Roasted Middle-Eastern Hazelnuts Wrap",
+  "description": "A quick-fix savory Middle-Eastern dish featuring oven-roasted hazelnuts and a high-protein ssam-wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ssam wrap",
+      "amount": "1",
+      "notes": "preferably whole wheat or gluten-free"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "shelled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/8 tsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Spread hazelnuts on a baking sheet and toss with olive oil, salt, black pepper, and garlic powder.",
+    "Roast hazelnuts in the oven for 10-12 minutes or until fragrant and lightly browned.",
+    "Warm the ssam wrap in the oven for 2-3 minutes or until pliable.",
+    "Assemble the wrap by spreading a layer of roasted hazelnuts, followed by a sprinkle of salt, black pepper, and chopped parsley.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "light-oven-roasted-middle-eastern-hazelnuts-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-oven-roasted-middle-eastern-hazelnuts-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Light Oven-Roasted",
+    "dishForm": "Wrap"
+  }
+}

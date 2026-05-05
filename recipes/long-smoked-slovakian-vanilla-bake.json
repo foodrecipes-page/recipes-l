@@ -1,0 +1,115 @@
+{
+  "title": "Long-Smoked Slovakian Vanilla Bake",
+  "description": "A unique and deliciously smoky dessert featuring vanilla and a satisfying crunch from toasted almonds.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "almond milk",
+      "amount": "150ml",
+      "notes": "or soy milk for a creamier texture"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "use real vanilla beans for a more intense flavor"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": "use instant yeast for a faster rise"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "200g",
+      "notes": "use regular sugar for a sweeter flavor"
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "use vegan butter for a dairy-free option"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "use flax or chia eggs for a vegan option"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "100g",
+      "notes": "use brown sugar for a richer flavor"
+    },
+    {
+      "name": "wood chips for smoking",
+      "amount": "1 cup",
+      "notes": "use apple or cherry wood for a fruity flavor"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Mix the flour, yeast, and sugar in a large bowl.",
+    "Add the almond milk, eggs, and vanilla extract. Mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the smoker to 120°C (250°F).",
+    "Place the dough on a wooden board and shape it into a round loaf.",
+    "Smoke the loaf for 2 hours, or until it's lightly browned and fragrant.",
+    "Brush the loaf with melted butter and sprinkle with granulated sugar.",
+    "Bake the loaf in the oven for 20 minutes, or until it's golden brown.",
+    "Let the loaf cool on a wire rack for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 2,
+  "totalTimeMin": 42,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "slovakian",
+    "smoked",
+    "vanilla",
+    "vegan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "long-smoked-slovakian-vanilla-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/long-smoked-slovakian-vanilla-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "vanilla",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "vanilla",
+    "descriptor": "long-smoked",
+    "dishForm": "Bake"
+  }
+}
