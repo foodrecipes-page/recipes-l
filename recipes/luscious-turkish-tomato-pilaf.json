@@ -1,0 +1,93 @@
+{
+  "title": "Luscious Turkish Tomato Pilaf",
+  "description": "This salty and dense pilaf is a show-off dish featuring vine tomatoes, yuzu-cure, and made pescatarian-friendly.",
+  "cuisine": "turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large ripe tomatoes",
+      "amount": "pieces"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tablespoon finely chopped fresh parsley",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/8 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 teaspoons olive oil",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 cup uncooked quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "4 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 teaspoon ground cayenne pepper",
+      "amount": "tsp"
+    }
+  ],
+  "instructions": [
+    "Place tomatoes in a saucepan and add lemon juice. Cook over medium heat until slightly reduced, about 5 minutes.",
+    "Add garlic to the saucepan with the cooked tomatoes; cook for 1 minute more.",
+    "Bring quinoa and water to a boil in a separate saucepan. Reduce heat to low, cover, and simmer until tender, about 20 minutes.",
+    "Mix cumin, salt, and cayenne pepper into the garlic mixture. Add this mix to the cooked quinoa and stir well.",
+    "Fold tomato mixture over the quinoa. Let sit for 5 minutes before serving.",
+    "Sprinkle with chopped parsley just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "quinoa",
+    "tomato",
+    "vinaigrette",
+    "yuzu-cure"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 8,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "luscious-turkish-tomato-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-turkish-tomato-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:50:47Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Vine Tomatoes",
+    "descriptor": "Luscious",
+    "dishForm": "Pilaf"
+  }
+}
