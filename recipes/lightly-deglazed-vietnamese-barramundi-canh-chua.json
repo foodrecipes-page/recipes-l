@@ -1,0 +1,110 @@
+{
+  "title": "Lightly Deglazed Vietnamese Barramundi Canh Chua",
+  "description": "A post-workout Vietnamese dish featuring barramundi, deglazed for a creamy, funky taste, suitable for dairy-free diets",
+  "cuisine": "vietnamese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillet",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add shallots and ginger and sauté until softened, about 3 minutes.",
+    "Add barramundi fillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Remove barramundi from pan and set aside.",
+    "Deglaze pan with lemon juice, scraping up any browned bits from the bottom.",
+    "Add fish sauce and stir to combine.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Add salt and black pepper to taste.",
+    "Return barramundi to pan and simmer for 2-3 minutes, or until coated in the creamy sauce.",
+    "Garnish with coriander leaves and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-deglazed-vietnamese-barramundi-canh-chua",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-deglazed-vietnamese-barramundi-canh-chua",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:43Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "deglaze",
+    "primaryIngredient": "barramundi",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "barramundi",
+    "descriptor": "Lightly Deglazed",
+    "dishForm": "Canh Chua"
+  }
+}

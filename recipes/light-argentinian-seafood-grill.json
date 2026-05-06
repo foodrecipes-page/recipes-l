@@ -1,0 +1,96 @@
+{
+  "title": "Light Argentinian Seafood Grill",
+  "description": "A spicy and refreshing seafood dish inspired by the flavors of Argentina, featuring sea salt and a sweet glaze. Perfect for a light dinner or lunch.",
+  "cuisine": "argentinian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Snapper Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the red snapper fillets with sea salt, cumin, and smoked paprika.",
+    "In a small bowl, whisk together olive oil, garlic, and a pinch of sea salt to make the glaze.",
+    "Grill the mussels and shrimp for 2-3 minutes per side, or until they are cooked through.",
+    "Brush the glaze on the red snapper fillets during the last minute of grilling.",
+    "Let the seafood rest for a few minutes before serving.",
+    "Serve immediately with additional glaze on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-to-make",
+    "glaze",
+    "grill",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "light-argentinian-seafood-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-argentinian-seafood-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "glaze",
+    "primaryIngredient": "sea salt",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "seafood",
+    "descriptor": "light",
+    "dishForm": "Grill"
+  }
+}

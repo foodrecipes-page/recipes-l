@@ -1759,6 +1759,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-argentinian-seafood-grill",
+    "title": "Light Argentinian Seafood Grill",
+    "tags": [
+      "argentinian",
+      "easy-to-make",
+      "glaze",
+      "grill",
+      "seafood"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
     "slug": "light-australian-nutty-cake",
     "title": "Australian Nutty Cake",
     "tags": [
@@ -4506,6 +4520,20 @@
       "weeknight"
     ],
     "cuisine": "ethiopian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-deglazed-vietnamese-barramundi-canh-chua",
+    "title": "Lightly Deglazed Vietnamese Barramundi Canh Chua",
+    "tags": [
+      "dairy-free",
+      "high-protein",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
     "totalTimeMin": 25,
     "shard": "l"
   },
