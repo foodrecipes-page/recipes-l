@@ -1,0 +1,59 @@
+{
+  "title": "light mexican cheese enchiladas",
+  "description": "delicate, slow-cooked cheese wrapped in agave leaves, a comforting mexican delight. perfect for a weeknight dinner or special occasion.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups shredded quesadilla cheese",
+      "amount": "",
+      "notes": "divided in half for assembly"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f (190c).",
+    "carefully place 2 agave leaves on a flat surface, overlapping slightly.",
+    "lay a quarter cup of quesadilla cheese at the center of each leaf, leaving a 1-inch border around the edges.",
+    "roll the leaves to form tight cylinders, then place seam-side down in a baking dish.",
+    "dot the tops of the enchiladas with butter and sprinkle with remaining cheese.",
+    "cover with foil and bake for 20 minutes, or until cheese is melted and bubbly.",
+    "remove foil and bake for an additional 5 minutes, or until lightly browned.",
+    "let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "easy-dinner",
+    "mexican",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "light-mexican-cheese-enchiladas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mexican-cheese-enchiladas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "cheese",
+    "descriptor": "light",
+    "dishForm": "Enchiladas"
+  }
+}
