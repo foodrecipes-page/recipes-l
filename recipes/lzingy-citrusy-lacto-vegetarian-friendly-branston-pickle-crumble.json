@@ -1,0 +1,82 @@
+{
+  "title": "LZingy Citrusy Lacto-Vegetarian-Friendly Branston-Pickle Crumble",
+  "description": "A vibrant citrusy and crumbly American breakfast dish featuring lacto-vegetarian-friendly ingredients like branston-pickle, energizing for a quick meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Branston Pickle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lacto-Vegetarian-Friendly Mayo (or Vegan Mayo)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Citrus Zest (optional, for garnish)",
+      "notes": "Optional but adds a bright citrus flavor"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "1 cup (fresh or lightly wilted greens)"
+    },
+    {
+      "name": "Hummus",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lentils",
+      "amount": "1/4 cup, rinsed and drained"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Pulse Branston Pickle, mayo, and optional citrus zest in a mortar-pestle until crumbly.",
+    "Mix in hummus and rinsed lentils with a few drops of olive oil for texture and flavor.",
+    "Season with salt to taste.",
+    "Serve immediately over mixed greens for an energizing breakfast or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crumbly",
+    "energizing",
+    "lacto-vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 3
+  },
+  "slug": "lzingy-citrusy-lacto-vegetarian-friendly-branston-pickle-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lzingy-citrusy-lacto-vegetarian-friendly-branston-pickle-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T01:32:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "branston-pickle",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Citrusy",
+    "mainIngredient": "Branston-Pickle",
+    "descriptor": "Lacto-Vegetarian-Friendly",
+    "dishForm": "Crumble"
+  }
+}
