@@ -5016,6 +5016,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-sweet-thai-chicken-curry",
+    "title": "Lightly Sweet Thai Chicken Curry",
+    "tags": [
+      "clay-pot-cooking",
+      "comfort-food",
+      "low-sodium",
+      "one-pot-meal",
+      "sweet-and-savory",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-toasted-canadian-bun-ssam-wrap",
     "title": "Lightly Toasted Canadian Bun Ssam Wrap",
     "tags": [
@@ -6053,6 +6068,21 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-juicy-french-vegetable-gratin",
+    "title": "Lovely Juicy French Vegetable Gratin",
+    "tags": [
+      "french-cuisine",
+      "juicy-gratin",
+      "romantic-dinner",
+      "slow-cooked",
+      "vegetarian-dish",
+      "yeasty-flavor"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 70,
     "shard": "l"
   },
   {

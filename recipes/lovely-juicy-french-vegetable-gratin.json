@@ -1,0 +1,111 @@
+{
+  "title": "Lovely Juicy French Vegetable Gratin",
+  "description": "A delicious and romantic French dish featuring mixed vegetables in a yeasty and juicy gratin, perfect for a special occasion. This slow-cooked recipe is raw-friendly and bursting with flavor.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mixed spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine sliced zucchini, bell peppers, onions, garlic, and mushrooms.",
+    "In a separate bowl, mix together diced tomatoes, olive oil, mixed spice, yeast, salt, and pepper.",
+    "Pour the tomato mixture over the vegetable mixture and toss to coat.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "juicy-gratin",
+    "romantic-dinner",
+    "slow-cooked",
+    "vegetarian-dish",
+    "yeasty-flavor"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "lovely-juicy-french-vegetable-gratin",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-juicy-french-vegetable-gratin",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:08:10Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "mixed spice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "vegetables",
+    "descriptor": "Lovely Juicy",
+    "dishForm": "Gratin"
+  }
+}
