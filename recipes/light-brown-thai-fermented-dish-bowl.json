@@ -1,0 +1,101 @@
+{
+  "title": "Light Brown Thai Fermented Dish Bowl",
+  "description": "A fermented, glassy-jelly, meal-prep Thai dish featuring light brown soft sugar, perfect for paleo-friendly meals. This recipe is a variation of a traditional Thai dish.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soft White Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grated Fresh Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Grated Fresh Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Minced Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine sugar, fish sauce, soy sauce, and rice vinegar in a saucepan and heat over low heat until sugar dissolves.",
+    "Bring to a boil and then remove from heat.",
+    "Let cool slightly before adding ginger, garlic, and cilantro.",
+    "Mix well and pour into a large glass jar.",
+    "Add salt and stir to combine.",
+    "Pack rice into separate glass jars or containers and top with the fermented sauce.",
+    "Seal the jars and let ferment in the refrigerator for at least 24 hours.",
+    "Once fermented, serve the rice with the fermented sauce and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 0,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "meal-prep",
+    "paleo",
+    "ricebowl",
+    "thaifood",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "light-brown-thai-fermented-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-brown-thai-fermented-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fermented dish",
+    "descriptor": "light brown",
+    "dishForm": "Bowl"
+  }
+}
