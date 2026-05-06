@@ -1,0 +1,104 @@
+{
+  "title": "lazy sunday norwegian egg rolls fritters",
+  "description": "a light and flavorful norwegian dish featuring egg rolls, ice bath shock, and mediterranean-inspired ingredients",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "ice cubes",
+      "amount": "1 cup",
+      "notes": "for ice bath"
+    }
+  ],
+  "instructions": [
+    "in a large bowl, combine eggs, grated potato, chopped onion, minced garlic, and sliced mushroom. mix well.",
+    "season the mixture with salt and pepper to taste.",
+    "add all-purpose flour to the mixture and mix until just combined.",
+    "cover the mixture and refrigerate for at least 30 minutes.",
+    "heat vegetable oil in a large skillet over medium heat.",
+    "using a 1/4 cup measuring cup, scoop the mixture into the hot oil.",
+    "fry the fritters for 3-4 minutes on each side, or until golden brown.",
+    "remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate.",
+    "immediately submerge the fritters in an ice bath to stop the cooking process.",
+    "once the fritters have cooled, serve them warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "lazy-sunday",
+    "norwegian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "lazy-sunday-norwegian-egg-rolls-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-norwegian-egg-rolls-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "egg rolls",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Egg rolls",
+    "descriptor": "Lazy Sunday",
+    "dishForm": "Fritters"
+  }
+}
