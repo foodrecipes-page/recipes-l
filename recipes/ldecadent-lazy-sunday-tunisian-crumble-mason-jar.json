@@ -1,0 +1,85 @@
+{
+  "title": "LDecadent Lazy-Sunday Tunisian Crumble Mason-Jar",
+  "description": "A sweet and crumbly dessert dish featuring Worcestershire sauce, shaped like nigiri sushi for a unique twist on the classic crumble recipe.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-Purpose Flour",
+      "amount": 120
+    },
+    {
+      "name": "Sugar",
+      "amount": 240
+    },
+    {
+      "name": "Baking Powder",
+      "amount": 3
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": 15
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": 80
+    },
+    {
+      "name": "Eggs",
+      "amount": 2
+    },
+    {
+      "name": "Almonds, chopped",
+      "amount": null
+    },
+    {
+      "name": "Walnuts, chopped",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 175°C.",
+    "In a bowl, mix flour and sugar until well combined.",
+    "Add baking powder and Worcestershire sauce; stir gently but thoroughly.",
+    "Fold in vegetable oil and eggs using a spatula.",
+    "Stir in chopped nuts for added texture and crunch.",
+    "Pour batter into a mason jar lined with plastic wrap or parchment paper to prevent sticking.",
+    "Bake for 45 minutes, checking periodically with a toothpick to ensure doneness (no pink centers).",
+    "Let cool slightly before removing from the jar for serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert-craquelade",
+    "lazy-sunday",
+    "no-onion-no-garlic-friendly"
+  ],
+  "nutrition": {
+    "calories": 1037,
+    "protein": 28,
+    "carbs": 95,
+    "fat": 49
+  },
+  "slug": "ldecadent-lazy-sunday-tunisian-crumble-mason-jar",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ldecadent-lazy-sunday-tunisian-crumble-mason-jar",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:26:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Worcestershire sauce",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Crumble"
+  }
+}
