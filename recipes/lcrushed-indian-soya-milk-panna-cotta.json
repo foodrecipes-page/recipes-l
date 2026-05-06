@@ -1,0 +1,85 @@
+{
+  "title": "Lcrushed Indian Soya Milk Panna Cotta",
+  "description": "A sweet, crunchy dessert dish featuring soya milk, designed for a monsoon climate in Egypt and mindful of Buddhist temple visitors.",
+  "cuisine": "Indian, Egyptian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "soy milk",
+      "amount": 500
+    },
+    {
+      "name": "sugar",
+      "amount": 120
+    },
+    {
+      "name": "vanilla extract",
+      "amount": ""
+    },
+    {
+      "name": "agar agar",
+      "amount": 30
+    },
+    {
+      "name": "ginger paste",
+      "amount": ""
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": ""
+    },
+    {
+      "name": "cardamom pods",
+      "amount": ""
+    },
+    {
+      "name": "clove",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Combine soy milk, sugar, and vanilla extract in a saucepan.",
+    "Stir until sugar is dissolved. Bring to boil over medium heat.",
+    "Remove from heat. Add agar agar, ginger paste, nutmeg powder, cardamom pods, and cloves.",
+    "Pour mixture into a shallow dish or molds.",
+    "Cool the mixture slightly before transferring to an ice bath for several hours.",
+    "Refrigerate until set (about 4 hours).",
+    "Serve chilled with additional spices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "no-oil",
+    "sugar-free-optional",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 3
+  },
+  "slug": "lcrushed-indian-soya-milk-panna-cotta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lcrushed-indian-soya-milk-panna-cotta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T11:52:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "soya milk",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "soya milk",
+    "descriptor": "Crushed",
+    "dishForm": "Panna Cotta"
+  }
+}
