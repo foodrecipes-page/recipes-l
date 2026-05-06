@@ -1,0 +1,87 @@
+{
+  "title": "LNutty Gooey Indulgent Rest-meat Tagine",
+  "description": "A rich and indulgent Portuguese dish featuring ancho chilies, rest-meat, and ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1/2 cup olive oil",
+      "amount": "50"
+    },
+    {
+      "name": "4 oz rest-meat (ground beef, lamb, or pork)",
+      "amount": "120"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "30"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "15"
+    },
+    {
+      "name": "1 cup diced tomatoes",
+      "amount": "250"
+    },
+    {
+      "name": "1 tbsp ground ancho chili powder",
+      "amount": "10"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "5"
+    },
+    {
+      "name": "1/4 tsp saffron threads, soaked in warm water for 30 min",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat olive oil in a large oven-safe pot over medium heat.",
+    "Add onions and garlic; cook until softened, about 5 minutes.",
+    "Stir in ground meat and chili powder. Cook for another 5-7 minutes or until browned.",
+    "Pour in diced tomatoes, add cumin, and soaked saffron water.",
+    "Simmer gently on medium-low heat for 20 minutes to let flavors meld together.",
+    "Reduce heat to lowest setting and cook uncovered for an additional 15 minutes, stirring occasionally.",
+    "Serve hot with crusty bread or as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "comfort-food",
+    "gooey",
+    "indulgent",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 28,
+    "carbs": 41,
+    "fat": 27
+  },
+  "slug": "lnutty-gooey-indulgent-rest-meat-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lnutty-gooey-indulgent-rest-meat-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:18:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "ancho chillies",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Indulgent",
+    "mainIngredient": "Rest-meat",
+    "descriptor": "Nutty Gooey",
+    "dishForm": "Tagine"
+  }
+}
