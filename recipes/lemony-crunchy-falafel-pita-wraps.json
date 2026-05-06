@@ -1,0 +1,87 @@
+{
+  "title": "LemonyCrunchy Falafel Pita Wraps",
+  "description": "These earthy and crunchy falafel wraps are perfect for a brunch mood, with a blend of chilli bean paste, namul-blanch-seasoned veggies, and an ayurvedic-friendly twist.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": 500
+    },
+    {
+      "name": "Onions",
+      "amount": 4
+    },
+    {
+      "name": "Garlic",
+      "amount": 12
+    },
+    {
+      "name": "Cumin",
+      "amount": 2
+    },
+    {
+      "name": "Coriander (Cilantro)",
+      "amount": 8
+    },
+    {
+      "name": "Chili Paste",
+      "amount": 50
+    },
+    {
+      "name": "Namul (Vegetables for Blanching)",
+      "amount": "variable"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": 20
+    },
+    {
+      "name": "Olive Oil",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Blend chickpeas with onions, garlic, cumin, coriander, chili paste.",
+    "Shape into falafel patties and blanch in water or oil until crispy.",
+    "Prepare namul by briefly cooking vegetables; cool before mixing into falafel mixture.",
+    "Mix lemons and olive oil for a tangy dressing to serve with wraps.",
+    "Slice pitas, fill with falafel and garnish with the dressing and fresh herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "falafel",
+    "middle-eastern",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 21,
+    "carbs": 47,
+    "fat": 9
+  },
+  "slug": "lemony-crunchy-falafel-pita-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemony-crunchy-falafel-pita-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T12:11:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "MiddleEastern",
+    "mainIngredient": "Falafel",
+    "descriptor": "LemonyCrunchy",
+    "dishForm": "FalafelPitaWraps"
+  }
+}
