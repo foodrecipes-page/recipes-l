@@ -990,6 +990,23 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-thai-roasted-meat-larb",
+    "title": "Lazy-Sunday Thai Roasted Meat Larb",
+    "tags": [
+      "cold-weather",
+      "comfort-food",
+      "high-protein",
+      "larb",
+      "one-pan",
+      "slow-cooker",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 190,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-thyme-slow-cooker-stew",
     "title": "Lazy Sunday Thyme Slow Cooker Stew",
     "tags": [
@@ -6977,6 +6994,20 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-french-chicken-casserole",
+    "title": "Luscious French Chicken Casserole",
+    "tags": [
+      "dinner-party",
+      "high-protein",
+      "one-pan",
+      "weeknight",
+      "winter"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {

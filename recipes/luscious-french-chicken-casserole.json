@@ -1,0 +1,121 @@
+{
+  "title": "Luscious French Chicken Casserole",
+  "description": "A hearty, spicy, Jain-friendly French dish featuring chicken cooked in red wine and topped with a creamy fromage-blanc and crispy ssam-wrap. Excellent for a sick day or a cozy night in.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry red wine"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fromage-blanc",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4-6 sheets",
+      "notes": "cut into 2-inch squares"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "freshly grated nutmeg",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with salt, black pepper, and nutmeg. In a large Dutch oven, sauté the chicken in butter until browned, then set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the flour and cook for 1 minute. Gradually add the red wine and chicken broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to a simmer and cook until the sauce thickens, about 10 minutes.",
+    "Add the chicken back to the pot and simmer until the chicken is cooked through, about 10-15 minutes.",
+    "Transfer the chicken to a baking dish and top with the fromage-blanc. Bake until the fromage-blanc is golden brown and bubbly, about 15-20 minutes.",
+    "Meanwhile, preheat a pan with a small amount of oil over medium-high heat. Add the ssam-wrap squares and cook until crispy and golden brown, about 2-3 minutes per side.",
+    "Once the chicken is done, top it with the crispy ssam-wrap and sprinkle with chopped thyme. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "luscious-french-chicken-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-french-chicken-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Chicken",
+    "descriptor": "Luscious",
+    "dishForm": "Casserole"
+  }
+}
