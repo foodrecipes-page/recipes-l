@@ -1,0 +1,94 @@
+{
+  "title": "Luscious Fruity Italian Redcurrants Panforte",
+  "description": "A sour and snappy Italian dessert featuring redcurrants, perfect for a monsoon evening. The double-fry-kfc technique adds a unique twist to traditional Panforte.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Redcurrants",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Almonds",
+      "amount": "120g",
+      "notes": "chopped, toasted"
+    },
+    {
+      "name": "Honey",
+      "amount": "120g",
+      "notes": "raw, pure"
+    },
+    {
+      "name": "Dried Figs",
+      "amount": "100g",
+      "notes": "chopped, dark brown sugar-coated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "30g",
+      "notes": "extra virgin, cold-pressed"
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "60g",
+      "notes": "whole wheat, fresh",
+      "notes2": "toasted, crushed"
+    }
+  ],
+  "instructions": [
+    "Combine redcurrants, almonds, honey, and dried figs in a large mixing bowl. ",
+    "Mix until all ingredients are well coated with honey. ",
+    "Double-fry chicken pieces using KFC technique: deep-fry at 180°C for 10 minutes, then roast at 220°C for 5 minutes. ",
+    "Grind bread crumbs in a food processor until coarsely ground. ",
+    "Add ground bread crumbs to the redcurrant mixture and mix until just combined. ",
+    "Shape the mixture into a round flat shape, approximately 3 cm thick. ",
+    "Brush olive oil on top of the mixture. ",
+    "Bake in a preheated oven at 180°C for 25-30 minutes, or until the edges are golden brown. ",
+    "Let cool completely on a wire rack before slicing into wedges. ",
+    "Serve at room temperature, garnished with fresh redcurrants and a drizzle of honey. ",
+    "Store leftover Panforte in an airtight container for up to 3 days. ",
+    "Refrigerate or freeze for longer storage. ",
+    "Freeze for up to 2 months, then thaw overnight in the refrigerator before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "italian",
+    "monsoon",
+    "panforte",
+    "snappy",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 6,
+    "carbs": 120,
+    "fat": 20
+  },
+  "slug": "luscious-fruity-italian-redcurrants-panforte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-fruity-italian-redcurrants-panforte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "redcurrants",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "redcurrants",
+    "descriptor": "Luscious Fruity",
+    "dishForm": "Panforte"
+  }
+}
