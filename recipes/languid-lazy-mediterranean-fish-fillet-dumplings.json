@@ -1,0 +1,101 @@
+{
+  "title": "Languid Lazy Mediterranean Fish Fillet Dumplings",
+  "description": "A pungent, crumbly, and comforting Mediterranean dish featuring fish fillet dumplings, perfect for a lazy Sunday. This diabetic-friendly recipe is easy to make and packed with nutrients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillet",
+      "amount": "4 oz (115g)",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the cod fillet with salt and pepper. ",
+    "In a bowl, mix together the flour, breadcrumbs, garlic, and parsley.",
+    "Add the egg to the bowl and mix until a dough forms. ",
+    "Wrap each cod fillet in the dough, making sure to seal the edges. ",
+    "Place the dumplings on a baking sheet lined with parchment paper. ",
+    "Drizzle with olive oil and bake for 15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "mediterranean-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "languid-lazy-mediterranean-fish-fillet-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/languid-lazy-mediterranean-fish-fillet-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:23:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "fish fillet",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish fillet",
+    "descriptor": "languid lazy",
+    "dishForm": "Dumplings"
+  }
+}

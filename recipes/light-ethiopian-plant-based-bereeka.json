@@ -1,0 +1,99 @@
+{
+  "title": "Light Ethiopian Plant-Based Bereeka",
+  "description": "A light and flavorful ethiopian dish featuring red wine jelly, long-fermentation-dough, and plant-based-friendly ingredients. Perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Wine Jelly",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Long-Fermentation Dough",
+      "amount": "1 1/2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "florets only"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Teff Flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine red wine jelly, onion, garlic, and ginger in a saucepan over medium heat, whisking until smooth.",
+    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Meanwhile, mix the long-fermentation dough with teff flour and water to form a dough.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Shape the dough into small balls and flatten slightly into disks.",
+    "Heat a non-stick skillet over medium heat and cook the dough disks for 2-3 minutes on each side, or until lightly browned.",
+    "Add the cauliflower florets to the skillet and cook for an additional 3-4 minutes, or until tender.",
+    "Season with salt and pepper to taste.",
+    "Serve the Bereeka hot, garnished with chopped fresh herbs if desired.",
+    "Reheat the red wine jelly sauce and serve alongside the Bereeka."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 64,
+    "fat": 8
+  },
+  "slug": "light-ethiopian-plant-based-bereeka",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-ethiopian-plant-based-bereeka",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:23:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "red wine jelly",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "plant-based",
+    "descriptor": "light",
+    "dishForm": "Bereeka"
+  }
+}
