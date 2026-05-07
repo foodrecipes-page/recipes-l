@@ -1,0 +1,121 @@
+{
+  "title": "Light Argentinian Lentils Bowl",
+  "description": "A light and flavorful Argentinian inspired dish featuring brown lentils and a hint of citrus. This recipe is perfect for a quick and easy dinner or lunch option.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Flambe wine (optional)",
+      "amount": "2 tbsp",
+      "notes": "If using, be careful as flambe can be flammable."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium saucepan over medium heat.",
+    "Saute the onion and garlic until softened, about 3-4 minutes.",
+    "Add the diced red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the brown lentils, cumin, chili powder, and smoked paprika to the saucepan and stir to combine.",
+    "Cook for 1-2 minutes, until the lentils are lightly toasted.",
+    "Add the diced tomatoes, salt, and 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the lentils are tender.",
+    "If desired, flambe the dish with wine (ignite the wine carefully and let it cook for 1-2 minutes) and garnish with chopped parsley and a squeeze of lime juice.",
+    "Serve hot, garnished with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy",
+    "flambe",
+    "lentils",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "light-argentinian-lentils-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-argentinian-lentils-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:33:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "flambe",
+    "primaryIngredient": "brown lentils",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lentils",
+    "descriptor": "light",
+    "dishForm": "Bowl"
+  }
+}
