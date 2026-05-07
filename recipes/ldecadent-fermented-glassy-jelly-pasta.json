@@ -1,0 +1,85 @@
+{
+  "title": "LDecadent Fermented Glassy-jelly Pasta",
+  "description": "A midnight-craving Japanese dish featuring red-curry-paste and ayurvedic-tamasic-friendly fermented glassy-jelly pasta. Perfect for a special night in.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fermented glassy-jelly",
+      "amount": "100"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "50"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "30"
+    },
+    {
+      "name": "salt",
+      "amount": "5"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "40"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Mix the fermented glassy-jelly with flour to create a dough.",
+    "Add red curry paste and sesame oil to the dough mixture.",
+    "Knead until well combined and smooth.",
+    "Form into balls, flatten slightly, and place on baking sheet.",
+    "Bake at 180°C (350°F) for 20 minutes or until golden brown.",
+    "Meanwhile, heat soy sauce with minced garlic over low heat until reduced to a paste.",
+    "Drizzle the reduction evenly over baked pasta balls before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "fermented",
+    "glassy-jelly",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "ldecadent-fermented-glassy-jelly-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ldecadent-fermented-glassy-jelly-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T04:37:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Fermented",
+    "mainIngredient": "Glassy-jelly",
+    "descriptor": "Midnight-craving",
+    "dishForm": "Pasta"
+  }
+}
