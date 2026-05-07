@@ -1,0 +1,59 @@
+{
+  "title": "Legendary Jamaican Chicken Biryani",
+  "description": "A buttery, cheese-pull Jamaican dish featuring biryani masala, perfect for a date night in. This nut-free-friendly recipe is a twist on traditional Caribbean cuisine.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "uncooked, rinsed, and drained"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes, then set aside.",
+    "In the same skillet, add the onion and cook until translucent, about 3-4 minutes.",
+    "Add the biryani masala and cook for 1 minute, stirring constantly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "legendary-jamaican-chicken-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/legendary-jamaican-chicken-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:29:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "biryani masala",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Legendary",
+    "dishForm": "Biryani"
+  }
+}

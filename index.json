@@ -1269,6 +1269,18 @@
     "shard": "l"
   },
   {
+    "slug": "legendary-jamaican-chicken-biryani",
+    "title": "Legendary Jamaican Chicken Biryani",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "one-pan"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
     "slug": "lemon-charred-italian-pasta-pasta",
     "title": "Lemon Charred Italian Pasta",
     "tags": [
@@ -7210,6 +7222,20 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-flaky-uruguayan-cheese-tagine",
+    "title": "Luscious Flaky Uruguayan Cheese Tagine",
+    "tags": [
+      "breakfast",
+      "cheese",
+      "eggs",
+      "fodmap-friendly",
+      "gluten-free"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {

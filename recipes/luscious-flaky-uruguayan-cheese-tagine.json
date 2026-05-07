@@ -1,0 +1,62 @@
+{
+  "title": "Luscious Flaky Uruguayan Cheese Tagine",
+  "description": "A delicious, flaky, and cheesy Uruguayan brunch dish made in a clay tajine vessel. Perfect for a weekend morning with family or friends.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy",
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large egg",
+      "amount": "2",
+      "notes": "room temperature"
+    }
+  ],
+  "instructions": [
+    "Heat a clay tajine over low heat on a stovetop or in a conventional oven at 375°F (190°C).",
+    "Add 1 tablespoon of olive oil to the preheated tajine and swirl it around to coat the surface.",
+    "In a separate bowl, mix together 2 tablespoons of grated Manchego cheese, 1 tablespoon of chopped fresh parsley, and 1/2 teaspoon of salt. ",
+    "Add the cheese mixture to the preheated tajine and top with 2 large egg slices, leaving about 1 inch of space around each egg.",
+    "Cover the tajine with its lid and cook for 8 minutes, or until the cheese is melted and the eggs are cooked to your desired doneness.",
+    "Remove the tajine from the heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheese",
+    "eggs",
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "luscious-flaky-uruguayan-cheese-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-flaky-uruguayan-cheese-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:29:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "cheese slices",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "Luscious Flaky",
+    "dishForm": "Tagine"
+  }
+}
