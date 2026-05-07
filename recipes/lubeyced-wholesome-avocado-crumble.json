@@ -1,0 +1,75 @@
+{
+  "title": "Lubeyced Wholesome Avocado Crumble",
+  "description": "A comforting and crumbly Brazilian dish featuring fresh avocados, V Sterbottensost cheese, and a touch of emulsify for added creaminess.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "3 ripe avocados",
+      "amount": ""
+    },
+    {
+      "name": "1 cup V Sterbottensost cheese (softened)",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons mayonnaise or vegan mayo",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "2 cups fresh spinach leaves (optional for color)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Blend avocados, softened V Sterbottensost cheese, mayonnaise or vegan mayo, lime juice, and a pinch of salt in a food processor until smooth.",
+    "Fold in fresh spinach leaves if using, for an extra pop of color and nutrient boost.",
+    "Transfer mixture to a baking dish. Chill for at least 30 minutes to allow flavors to meld together.",
+    "Preheat oven to 180°C (356°F).",
+    "Bake crumble in the preheated oven for 20-25 minutes or until golden brown and crisp around the edges.",
+    "Serve warm with a side of fresh fruit, such as berries or sliced bananas, for an extra burst of flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comforting",
+    "crumbly",
+    "flexitarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 389,
+    "protein": 7,
+    "carbs": 40,
+    "fat": 27
+  },
+  "slug": "lubeyced-wholesome-avocado-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lubeyced-wholesome-avocado-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T12:20:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "emulsify",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Avocado",
+    "descriptor": "Lubeyced",
+    "dishForm": "Crumble"
+  }
+}
