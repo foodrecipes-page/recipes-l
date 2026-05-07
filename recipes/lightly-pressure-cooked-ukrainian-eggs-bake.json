@@ -1,0 +1,106 @@
+{
+  "title": "Lightly Pressure-Cooked Ukrainian Eggs Bake",
+  "description": "A hearty, wholegrain mustard-infused brunch dish featuring silky Ukrainian-style eggs and a nutritious, whole30-friendly twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grass-fed butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pressure cooker, combine the eggs, wholegrain mustard, and salt. ",
+    "Add 1 cup of water to the pressure cooker and cook on high pressure for 5 minutes.",
+    "Quick-release the pressure and carefully open the lid.",
+    "Melt 2 tablespoons of butter in a small saucepan over medium heat.",
+    "Add the red onion to the saucepan and cook until softened, about 3-4 minutes.",
+    "Stir in the chopped chives and cook for an additional minute.",
+    "Pour the egg mixture into a greased 9x13 inch baking dish.",
+    "Dot the top with the remaining 2 tablespoons of butter.",
+    "Bake in a preheated oven at 375°F (190°C) for 20-25 minutes, or until the eggs are set and golden brown.",
+    "Garnish with fresh parsley and serve hot.",
+    "Let the dish rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "easy-breakfast",
+    "eggs",
+    "pressure-cooker",
+    "ukrainian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-pressure-cooked-ukrainian-eggs-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-pressure-cooked-ukrainian-eggs-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:12:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "eggs",
+    "descriptor": "Lightly Pressure-Cooked",
+    "dishForm": "Bake"
+  }
+}
