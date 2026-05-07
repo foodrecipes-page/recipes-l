@@ -1,0 +1,99 @@
+{
+  "title": "Lightly Spiced Japanese Pork Gyoza",
+  "description": "Earthy and creamy Japanese dish featuring puff pastry and ferment kimchi, inspired by Okinawan cuisine, with a touch of ayurvedic rajasic friendly spices.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 lb",
+      "notes": "ground"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, chopped kimchi, soy sauce, sesame oil, grated ginger, and minced garlic, and mix well.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of pastry.",
+    "Place a tablespoon of the pork mixture in the center of each pastry circle.",
+    "Brush the edges of the pastry with a little water, then fold the pastry in half to form a half-moon shape, and press the edges together to seal.",
+    "Place the gyoza on a baking sheet lined with parchment paper, leaving about 1 inch of space between each gyoza.",
+    "Brush the tops of the gyoza with a little sesame oil, and sprinkle with chopped green onions.",
+    "Bake the gyoza in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve the gyoza hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "dinner-ideas",
+    "ferment-kimchi",
+    "japanese-cuisine",
+    "okinawan-inspired",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "lightly-spiced-japanese-pork-gyoza",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spiced-japanese-pork-gyoza",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:08:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "puff pastry",
+    "diet": "ayurvedic-rajasic",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Lightly spiced",
+    "dishForm": "Gyoza"
+  }
+}
