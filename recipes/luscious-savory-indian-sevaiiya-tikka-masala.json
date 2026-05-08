@@ -1,0 +1,100 @@
+{
+  "title": "Luscious Savory Indian Sevaiiya Tikka Masala",
+  "description": "A savory and shattering Indian dish featuring sevaiiya, perfect for a hangover cure, originating from the Chettinad cuisine",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya",
+      "amount": "1 cup",
+      "notes": "vermicelli noodles"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chettinad masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat",
+    "Add onion and cook until it turns translucent",
+    "Add ginger and garlic and cook for 1 minute",
+    "Add tomato and cook until it turns soft",
+    "Add chettinad masala and cook for 1 minute",
+    "Add sevaiiya and cook for 2 minutes",
+    "Add yogurt and cook for 2 minutes",
+    "Season with salt and garnish with cilantro",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "luscious-savory-indian-sevaiiya-tikka-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-savory-indian-sevaiiya-tikka-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:45:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "score-fat",
+    "primaryIngredient": "sevaiiya",
+    "diet": "raw",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Luscious Savory",
+    "dishForm": "Tikka Masala"
+  }
+}
