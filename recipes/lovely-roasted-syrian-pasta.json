@@ -1,0 +1,103 @@
+{
+  "title": "Lovely Roasted Syrian Pasta",
+  "description": "A traditional Syrian dish featuring roasted bowtie pasta in a rich braise, served with a glassy jelly sauce, this recipe is a nostalgic and halal-friendly delight.",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "12 oz",
+      "notes": "also known as farfalle"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "Cook the bowtie pasta according to package instructions until al dente, then set aside.",
+    "In a large bowl, whisk together the olive oil, salt, and black pepper.",
+    "Add the chopped onion to the bowl and toss to coat with the oil mixture.",
+    "Grill the onion mixture on the binchotan grill for 5 minutes, or until the onions are lightly charred.",
+    "In a large skillet, cook the ground beef over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the minced garlic, tomato paste, beef broth, and pomegranate molasses to the skillet and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the cooked pasta and grilled onion mixture, and cook for an additional 2 minutes.",
+    "Serve the pasta hot, garnished with a glassy jelly sauce made by reducing the pomegranate molasses over low heat until thickened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "halal",
+    "one-pan",
+    "pasta-dish",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "lovely-roasted-syrian-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-roasted-syrian-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:07:57Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pasta",
+    "descriptor": "Lovely Roasted",
+    "dishForm": "Pasta"
+  }
+}

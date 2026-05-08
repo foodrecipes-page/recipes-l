@@ -8151,6 +8151,21 @@
     "shard": "l"
   },
   {
+    "slug": "lovely-roasted-syrian-pasta",
+    "title": "Lovely Roasted Syrian Pasta",
+    "tags": [
+      "grilled",
+      "halal",
+      "one-pan",
+      "pasta-dish",
+      "syrian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "lovely-smoked-saudi-arabian-duck-tagine",
     "title": "Lovely Smoked Saudi-Arabian Duck Tagine",
     "tags": [
@@ -9282,6 +9297,22 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-gooey-middle-eastern-lamb-tagine",
+    "title": "Luscious Gooey Middle Eastern Lamb Tagine",
+    "tags": [
+      "clay-pot",
+      "lamb",
+      "middle-eastern",
+      "nuka-pickle",
+      "one-pot",
+      "special-occasion",
+      "tamarind"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 180,
     "shard": "l"
   },
   {
