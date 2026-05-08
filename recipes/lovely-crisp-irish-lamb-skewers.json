@@ -1,0 +1,100 @@
+{
+  "title": "Lovely Crisp Irish Lamb Skewers",
+  "description": "Savory Irish lamb skewers featuring panang curry paste, caramelized to perfection, and suitable for a low-glycemic diet. This dish showcases the rich flavors of Ireland with a twist of Asian spice.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together panang curry paste, coconut oil, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the curry paste mixture.",
+    "Thread the lamb cubes, onion, bell pepper, and zucchini onto metal skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 5 minutes, or until the lamb is caramelized and crispy.",
+    "Remove the skewers from the oven and sprinkle with chopped parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry-based",
+    "gluten-free",
+    "irish-inspired",
+    "lamb-recipes",
+    "low-glycemic",
+    "skewer-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lovely-crisp-irish-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crisp-irish-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:55:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "panang curry paste",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Lovely Crisp",
+    "dishForm": "Skewers"
+  }
+}

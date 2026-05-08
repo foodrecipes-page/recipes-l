@@ -1,0 +1,102 @@
+{
+  "title": "Lively Dense Ligurian Celery Lasagna",
+  "description": "A briny and dense Italian dish featuring celery salt and ferment-kimchi, perfect for a festive meal. This plant-based friendly recipe is a twist on traditional lasagna.",
+  "cuisine": "Italian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "12 sheets",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "celery salt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tofu ricotta",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped celery until tender.",
+    "In a large bowl, combine the tofu ricotta, nutritional yeast, and celery salt, and mix well.",
+    "Add the ferment-kimchi to the bowl and mix until well combined.",
+    "Spread a layer of marinara sauce on the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the tofu ricotta mixture over the noodles.",
+    "Repeat the layers, starting with the noodles, then the sauce, and finally the remaining tofu ricotta mixture.",
+    "Top the lasagna with chopped fresh parsley and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "one-pan",
+    "plant-based",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "lively-dense-ligurian-celery-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-dense-ligurian-celery-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:55:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "celery salt",
+    "diet": "plant-based",
+    "region": "ligurian",
+    "cuisineAdjective": "Ligurian",
+    "mainIngredient": "celery",
+    "descriptor": "Lively Dense",
+    "dishForm": "Lasagna"
+  }
+}

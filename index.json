@@ -8051,6 +8051,21 @@
     "shard": "l"
   },
   {
+    "slug": "lively-dense-ligurian-celery-lasagna",
+    "title": "Lively Dense Ligurian Celery Lasagna",
+    "tags": [
+      "high-protein",
+      "italian-food",
+      "one-pan",
+      "plant-based",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 70,
+    "shard": "l"
+  },
+  {
     "slug": "lively-dutch-lentil-stew",
     "title": "Lively Dutch Lentil Stew",
     "tags": [
@@ -8902,6 +8917,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-crisp-irish-lamb-skewers",
+    "title": "Lovely Crisp Irish Lamb Skewers",
+    "tags": [
+      "curry-based",
+      "gluten-free",
+      "irish-inspired",
+      "lamb-recipes",
+      "low-glycemic",
+      "skewer-recipes"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
