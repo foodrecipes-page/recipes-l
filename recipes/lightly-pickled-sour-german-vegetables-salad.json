@@ -1,0 +1,106 @@
+{
+  "title": "Leicht Pickelte Sauerkraut Salat",
+  "description": "A refreshing and tangy German-inspired salad made with fermented vegetables, green cardamom, and a dairy-free friendly dressing.",
+  "cuisine": "german",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "250g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "4",
+      "notes": "about 2g of seeds"
+    },
+    {
+      "name": "carrots",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "beets",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "20ml",
+      "notes": "or white wine vinegar"
+    },
+    {
+      "name": "water",
+      "amount": "20ml"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "20ml",
+      "notes": "see instructions for making"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Grate the green cardamom pods and collect the seeds.",
+    "In a small saucepan, combine the apple cider vinegar, water, and salt.",
+    "Bring the mixture to a simmer over low heat, stirring occasionally.",
+    "Reduce the mixture by half, stirring occasionally.",
+    "Strain the liquid into a bowl, discarding the solids.",
+    "Add the infuse-oil to the bowl and whisk until well combined.",
+    "In a large bowl, combine the sauerkraut, carrots, and beets.",
+    "Pour the dressing over the vegetables and toss to coat.",
+    "Season with black pepper to taste.",
+    "Serve immediately, garnished with additional green cardamom pods if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "german",
+    "salad",
+    "side-dish",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 3
+  },
+  "slug": "lightly-pickled-sour-german-vegetables-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-pickled-sour-german-vegetables-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:18:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "infuse-oil",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "vegetables",
+    "descriptor": "lightly pickled sour",
+    "dishForm": "salad"
+  }
+}

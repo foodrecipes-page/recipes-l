@@ -1,0 +1,99 @@
+{
+  "title": "Lightly Smoked Dutch Baby Lettuce Tagine",
+  "description": "A sugar-free and nostalgic Dutch dish featuring baby lettuce leaves, lightly smoked with binchotan charcoal, served in a ceramic tagine.",
+  "cuisine": "Dutch",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "4 cups",
+      "notes": "fresh and organic"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the olive oil, garlic, onion, lemon juice, chicken broth, salt, and black pepper.",
+    "Add the baby lettuce leaves to the bowl and toss to coat with the marinade.",
+    "Transfer the lettuce mixture to a ceramic tagine.",
+    "Lightly smoke the lettuce with binchotan charcoal for 10 minutes.",
+    "Cover the tagine with a lid and bake for 20 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes.",
+    "Remove the tagine from the oven and let it cool for a few minutes.",
+    "Serve the lightly smoked Dutch baby lettuce tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-cooking",
+    "dutch-cuisine",
+    "gluten-free",
+    "healthy-dinner",
+    "smoked-food"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "lightly-smoked-dutch-baby-lettuce-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-dutch-baby-lettuce-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:18:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "baby lettuce",
+    "descriptor": "Lightly Smoked",
+    "dishForm": "Tagine"
+  }
+}

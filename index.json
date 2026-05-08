@@ -5127,6 +5127,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-pickled-sour-german-vegetables-salad",
+    "title": "Leicht Pickelte Sauerkraut Salat",
+    "tags": [
+      "easy-to-make",
+      "german",
+      "salad",
+      "side-dish",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-pressure-cooked-ukrainian-eggs-bake",
     "title": "Lightly Pressure-Cooked Ukrainian Eggs Bake",
     "tags": [
@@ -5252,6 +5267,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoked-dutch-baby-lettuce-tagine",
+    "title": "Lightly Smoked Dutch Baby Lettuce Tagine",
+    "tags": [
+      "ceramic-cooking",
+      "dutch-cuisine",
+      "gluten-free",
+      "healthy-dinner",
+      "smoked-food"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
