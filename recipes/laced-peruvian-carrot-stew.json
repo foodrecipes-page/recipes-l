@@ -70,7 +70,8 @@
     "Pour in chicken stock, bring to a boil, then reduce heat and simmer for 15 minutes until carrots are tender.",
     "Season the stew with lime juice, salt, and pepper, stirring to combine.",
     "Fold in chopped cilantro just before serving.",
-    "Sprinkle toasted pumpkin seeds over each bowl to add a crumbly crunch."
+    "Sprinkle toasted pumpkin seeds over each bowl to add a crumbly crunch.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -82,8 +83,7 @@
     "one-pot",
     "paleo-friendly",
     "peruvian",
-    "stew",
-    "vegetarian"
+    "stew"
   ],
   "nutrition": {
     "calories": 250,
@@ -108,5 +108,10 @@
     "mainIngredient": "Carrot",
     "descriptor": "Laced",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

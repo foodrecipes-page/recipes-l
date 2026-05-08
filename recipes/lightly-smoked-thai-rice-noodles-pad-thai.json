@@ -2,10 +2,7 @@
   "title": "Lightly Smoked Thai Rice Noodles Pad Thai",
   "description": "A tangy and tender Thai dish featuring chilled butter and smoke, made in a kadhai, this pad thai is an energizing meal option, friendly to ayurvedic tamasic diets",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -63,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "thai-cuisine",
     "vegetarian-friendly",
@@ -92,5 +88,10 @@
     "mainIngredient": "rice noodles",
     "descriptor": "Lightly Smoked",
     "dishForm": "Pad Thai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

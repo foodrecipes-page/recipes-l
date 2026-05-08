@@ -4,7 +4,6 @@
   "cuisine": "vietnamese",
   "diet": [
     "whole30",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -117,5 +116,9 @@
     "mainIngredient": "Avocado",
     "descriptor": "Luxe Lettuce Wrapped",
     "dishForm": "Bun Cha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

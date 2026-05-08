@@ -2,10 +2,7 @@
   "title": "lightly steamed malaysian rice bowl",
   "description": "savory, chewy, light malaysian dish featuring brandy and yuzu-cure, vegan and gluten-free, suitable for buddhist temples. served in a bamboo tray.",
   "cuisine": "malaysian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -99,10 +96,8 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "high-fiber",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -128,5 +123,10 @@
     "mainIngredient": "rice",
     "descriptor": "Lightly Steamed",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

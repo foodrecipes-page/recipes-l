@@ -2,9 +2,7 @@
   "title": "Luscious Molten Moroccan Flour Tagine",
   "description": "Indulge in this rich, umami-rich, molten Moroccan dish featuring a surprise ingredient - flour, cooked to perfection in a ttukbaegi earthenware pot, perfect for raw food enthusiasts.",
   "cuisine": "Moroccan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -70,7 +68,8 @@
     "Add the ras el hanout spice blend, ground cumin, paprika, salt, and pepper.",
     "Reduce heat to low and simmer, covered, for 20 minutes.",
     "Stir occasionally to prevent scorching.",
-    "Garnish with chopped fresh parsley before serving."
+    "Garnish with chopped fresh parsley before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -79,10 +78,8 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "moroccan",
-    "one-pot",
-    "vegan"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 320,
@@ -107,5 +104,12 @@
     "mainIngredient": "flour",
     "descriptor": "luscious molten",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

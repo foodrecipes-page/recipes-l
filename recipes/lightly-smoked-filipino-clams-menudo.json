@@ -2,9 +2,7 @@
   "title": "Lightly Smoked Filipino Clams Menudo",
   "description": "A spicy and juicy Filipino dish featuring clams, perfect for curing hangovers, this vegan-friendly menudo is a unique twist on traditional recipes, with a smoky flavor from cold smoking, and made with clams for a delicious and satisfying meal.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "clams",
     "descriptor": "Lightly Smoked",
     "dishForm": "Menudo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,6 @@
   "description": "A velvety, pungent French dessert from Normandy, featuring reduced Taleggio cheese, anti-inflammatory-friendly ingredients, and a delicate Tarte Tatin crust.",
   "cuisine": "French",
   "diet": [
-    "dairy-free",
-    "gluten-free",
     "low-carb",
     "vegan-friendly"
   ],
@@ -79,5 +77,10 @@
     "mainIngredient": "Taleggio",
     "descriptor": "Light",
     "dishForm": "Tarte Tatin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

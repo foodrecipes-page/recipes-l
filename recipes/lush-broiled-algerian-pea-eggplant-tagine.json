@@ -4,7 +4,6 @@
   "cuisine": "Algerian",
   "diet": [
     "Vegetarian",
-    "Vegan",
     "Gluten-Free"
   ],
   "meal": "dinner",
@@ -64,7 +63,8 @@
     "Bake the mixture for 25 minutes until the pea eggplants have softened and absorbed the flavors.",
     "Remove the lid and switch the oven setting to a high broil.",
     "Place the tagine under the broiler for 5 minutes until the surface is bubbly and slightly charred.",
-    "Garnish the hot dish with fresh cilantro before serving directly from the pot."
+    "Garnish the hot dish with fresh cilantro before serving directly from the pot.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -102,5 +102,10 @@
     "mainIngredient": "Pea Eggplant",
     "descriptor": "Lush Broiled",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-preserving_no_acid"
+  ]
 }

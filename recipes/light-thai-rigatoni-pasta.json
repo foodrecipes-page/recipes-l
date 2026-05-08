@@ -81,7 +81,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "high-protein",
     "low-carb",
     "one-pan",
@@ -110,5 +109,9 @@
     "mainIngredient": "rigatoni",
     "descriptor": "light",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

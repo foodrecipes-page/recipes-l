@@ -2,9 +2,7 @@
   "title": "Light British Bread Pie And Mash",
   "description": "A vegan, wholegrain bread pie with herb‑infused sautéed vegetables and creamy mashed potato filling, slow‑cooked to a golden, gooey finish.",
   "cuisine": "British",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -86,7 +84,6 @@
     "comfort-dinner",
     "comfort-food",
     "slow-cook",
-    "vegan",
     "wholegrain"
   ],
   "nutrition": {
@@ -112,5 +109,9 @@
     "mainIngredient": "Bread",
     "descriptor": "Light",
     "dishForm": "Pie And Mash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

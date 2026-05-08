@@ -2,10 +2,7 @@
   "title": "Lovely Juicy Thai Farfalle Noodles",
   "description": "Savory and juicy Thai dish featuring farfalle noodles and agemono deep fry technique, inspired by Isaan cuisine, this dish brings back nostalgic memories of street food in Thailand.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,11 +78,9 @@
   "difficulty": "medium",
   "tags": [
     "deep-fry",
-    "gluten-free",
     "noodle-dish",
     "one-pan",
-    "thai-cuisine",
-    "vegetarian"
+    "thai-cuisine"
   ],
   "nutrition": {
     "calories": 550,
@@ -110,5 +105,10 @@
     "mainIngredient": "farfalle",
     "descriptor": "Lovely Juicy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

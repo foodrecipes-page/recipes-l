@@ -3,8 +3,7 @@
   "description": "A comforting and flavorful Ukrainian dish featuring Arabic rice, poached chicken, and Mediterranean-friendly ingredients.",
   "cuisine": "Ukrainian",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "Arabic Rice",
     "descriptor": "Lightly Aerated",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

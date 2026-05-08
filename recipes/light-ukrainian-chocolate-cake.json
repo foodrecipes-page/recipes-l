@@ -2,9 +2,7 @@
   "title": "Light Ukrainian Chocolate Cake",
   "description": "A light and floral chocolate cake that is perfect for kids and gluten-free friendly. The plain chocolate cake serves as a beautiful introduction to the flavors of Ukraine without overwhelming sweet tastes.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -84,5 +82,9 @@
     "mainIngredient": "chocolate",
     "descriptor": "Light",
     "dishForm": "Cake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

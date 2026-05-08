@@ -71,7 +71,8 @@
     "Pour in chicken broth and bring to a gentle simmer; season with salt and pepper to taste.",
     "Reduce heat to low, cover the pan, and simmer for 10 minutes to meld flavors.",
     "While the mixture simmers, toast white bread slices in a dry skillet until golden brown and crisp.",
-    "Once the broth has reduced, stir in the toasted bread slices, sprinkle chopped parsley, and serve immediately."
+    "Once the broth has reduced, stir in the toasted bread slices, sprinkle chopped parsley, and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -109,5 +110,9 @@
     "mainIngredient": "roast",
     "descriptor": "Light",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

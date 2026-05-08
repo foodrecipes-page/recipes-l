@@ -3,8 +3,7 @@
   "description": "Tangy and dense Brazilian chicken skewers featuring salsa and deglaze-fond, perfect for a flexitarian-friendly dinner party, served on a lazy-susan-spinner vessel.",
   "cuisine": "Brazilian",
   "diet": [
-    "flexitarian",
-    "gluten-free"
+    "flexitarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "lush dense",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

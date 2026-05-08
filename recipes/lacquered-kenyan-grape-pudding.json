@@ -3,7 +3,6 @@
   "description": "A jammy, aerated dessert that evokes Kenyan nostalgia, featuring grape juice, a glossy lacquer glaze, and anti-inflammatory spices.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegetarian",
     "anti-inflammatory"
   ],
   "meal": "dessert",
@@ -68,8 +67,7 @@
     "anti-inflammatory",
     "dessert",
     "gelatin",
-    "glazed",
-    "vegetarian"
+    "glazed"
   ],
   "nutrition": {
     "calories": 1200,
@@ -94,5 +92,9 @@
     "mainIngredient": "grape",
     "descriptor": "Lacquered",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

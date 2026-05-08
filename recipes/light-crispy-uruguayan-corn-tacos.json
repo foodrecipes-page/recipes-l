@@ -3,8 +3,7 @@
   "description": "Fresh corn tortillas filled with crispy yuzu cured vegetables, served on a lazy susan spinner, this dish is a nostalgic Uruguayan favorite, ayurvedic tamasic friendly.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -69,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "crispy",
-    "gluten-free",
     "lazy-susan",
     "uruguayan",
     "vegetarian",
@@ -98,5 +96,9 @@
     "mainIngredient": "corn",
     "descriptor": "light crispy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

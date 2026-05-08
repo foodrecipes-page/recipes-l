@@ -2,9 +2,7 @@
   "title": "Luscious Malaysian Pork Tenderloin Bao",
   "description": "Yeasty, silky bao filled with savory pork tenderloin, dairy-free and brunch‑ready.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -76,7 +74,8 @@
     "Heat a non-stick skillet over medium-high heat and sear the marinated pork for 2–3 minutes per side until caramelized.",
     "Add the cornstarch slurry to the pan, stir until the sauce thickens, then remove from heat.",
     "Warm the vegan bao buns in a steamer for 3 minutes, then fill each bun with 80–100g of the pork and a sprinkle of sesame seeds.",
-    "Serve the bao hot with a side of fresh cucumber slices for a refreshing finish."
+    "Serve the bao hot with a side of fresh cucumber slices for a refreshing finish.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -115,5 +114,10 @@
     "mainIngredient": "pork tenderloin",
     "descriptor": "Luscious",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-pork_no_temp"
+  ]
 }

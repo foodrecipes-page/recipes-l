@@ -3,8 +3,7 @@
   "description": "A resinous and comforting Jamaican dish featuring demerara sugar, this stir fry is a fodmap friendly option for a weeknight dinner, with bouncy chicken and a sweet flavor profile.",
   "cuisine": "Jamaican",
   "diet": [
-    "fodmap-friendly",
-    "gluten-free"
+    "fodmap-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,8 @@
     "Add the soy sauce, demerara sugar, garlic infused oil, and ginger to the skillet and stir to combine.",
     "Add the bell peppers and scallions to the skillet and cook until the vegetables are tender, about 5 minutes.",
     "Season the stir fry with salt and black pepper to taste.",
-    "Serve the stir fry hot over rice or with some roasted vegetables."
+    "Serve the stir fry hot over rice or with some roasted vegetables.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -69,7 +69,6 @@
   "difficulty": "easy",
   "tags": [
     "easy-dinner",
-    "gluten-free",
     "jamaican-cuisine",
     "low-fodmap",
     "one-pan",
@@ -98,5 +97,10 @@
     "mainIngredient": "chicken",
     "descriptor": "lovely comforting",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

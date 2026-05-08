@@ -3,8 +3,7 @@
   "description": "A traditional Korean Jeju dish with a Mediterranean twist, featuring crispy masarepa songpyeon filled with umami flavors, perfect for a brunch mood. The combination of wok-hei and white masarepa creates a shattering texture and savory taste.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "masarepa",
     "descriptor": "Lovely Umami",
     "dishForm": "Songpyeon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

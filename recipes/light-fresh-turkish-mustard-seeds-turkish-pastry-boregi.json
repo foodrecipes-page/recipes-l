@@ -3,8 +3,6 @@
   "description": "a pungent and crisp turkish dish featuring mustard seeds and dashi-extract. suitable for macrobiotic diets",
   "cuisine": "turkish",
   "diet": [
-    "vegan",
-    "vegetarian",
     "macrobiotic"
   ],
   "meal": "snack",
@@ -84,8 +82,7 @@
     "gluten-free",
     "macrobiotic",
     "snack",
-    "turkish",
-    "vegan"
+    "turkish"
   ],
   "nutrition": {
     "calories": 320,
@@ -110,5 +107,10 @@
     "mainIngredient": "Mustard seeds",
     "descriptor": "Light Fresh",
     "dishForm": "Turkish Pastry Boregi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

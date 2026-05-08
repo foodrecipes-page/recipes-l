@@ -3,7 +3,6 @@
   "description": "A comforting British dish featuring fluffy egg noodles tossed with garlic and pickled vegetables, a perfect meal for lazy Sundays.",
   "cuisine": "British",
   "diet": [
-    "vegan",
     "low-carb"
   ],
   "meal": "lunch",
@@ -69,5 +68,9 @@
     "primaryIngredient": "egg noodles",
     "diet": "fodmap",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

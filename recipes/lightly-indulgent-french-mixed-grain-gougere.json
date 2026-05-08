@@ -3,8 +3,7 @@
   "description": "A French-inspired choux gougere featuring a mix of grains and snappy pickle flavors. Perfect for a vegetarian snack or light lunch.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -63,7 +62,8 @@
     "Transfer the dough to a piping bag fitted with a large round tip.",
     "Pipe the dough onto a greased tava or griddle, forming small balls about 1 inch in diameter.",
     "Bake for 15-20 minutes, or until the gougere are puffed and golden brown.",
-    "Remove from the oven and let cool for 5 minutes before serving."
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -102,5 +102,10 @@
     "mainIngredient": "mixed grain",
     "descriptor": "Lightly Indulgent",
     "dishForm": "Gougere"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

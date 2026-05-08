@@ -2,9 +2,7 @@
   "title": "Lovely Crumbly British Sausage Fried Sausage Roll",
   "description": "A cozy British dish featuring crumbly sausage, capers, and a hint of mustard. Serve warm and enjoy with a cup of tea!",
   "cuisine": "British",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -115,5 +113,9 @@
     "mainIngredient": "Sausage",
     "descriptor": "Lovely Crumbly",
     "dishForm": "Fried Sausage Roll"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

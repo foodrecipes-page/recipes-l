@@ -2,9 +2,7 @@
   "title": "Lemon Japanese Egg Shio Ramen",
   "description": "A bright and silky ramen featuring a citrus-infused shio broth, a silky glassy egg, and gentle steam vegetables, perfect for a romantic Kyoto-inspired dinner.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -106,5 +104,9 @@
     "mainIngredient": "Egg",
     "descriptor": "Lemon",
     "dishForm": "Shio Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

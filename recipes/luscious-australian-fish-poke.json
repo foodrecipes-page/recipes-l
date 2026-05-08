@@ -3,7 +3,6 @@
   "description": "A funky and juicy Australian dish featuring sashimi-cut fish and a unique twist with ice cream, this romantic meal is perfect for special occasions, and is nut-free-friendly for added convenience.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -63,7 +62,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -97,5 +96,10 @@
     "mainIngredient": "fish",
     "descriptor": "Luscious",
     "dishForm": "Poke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

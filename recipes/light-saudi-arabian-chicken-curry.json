@@ -61,7 +61,8 @@
     "Add the coconut milk, water, salt, and black pepper to the pan and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Stir in the chopped cilantro and cook for an additional 2 minutes.",
-    "Serve the curry hot over rice or with naan bread."
+    "Serve the curry hot over rice or with naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "light fluffy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

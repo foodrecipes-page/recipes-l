@@ -3,8 +3,7 @@
   "description": "A nutty and aerated Uruguayan dish featuring rose water, this wood-fired bake is a show-off dessert that is sugar-free friendly.",
   "cuisine": "Uruguayan",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Lightly toasted",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

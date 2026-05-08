@@ -3,7 +3,6 @@
   "description": "A spicy, glassy-jelly broth featuring fresh asparagus, coconut milk, and miso, cooked in a clay pot for a comforting Kenyan macrobionic dish.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegan",
     "macrobiotic"
   ],
   "meal": "lunch",
@@ -95,8 +94,7 @@
     "kenyan",
     "low-fat",
     "macrobiotic",
-    "spiced",
-    "vegan"
+    "spiced"
   ],
   "nutrition": {
     "calories": 440,
@@ -121,5 +119,9 @@
     "mainIngredient": "asparagus",
     "descriptor": "Luscious",
     "dishForm": "Broth"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

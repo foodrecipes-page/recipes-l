@@ -59,7 +59,8 @@
     "Reduce the heat to low, cover the skillet, and simmer for 20 minutes.",
     "Fluff the pilaf with a fork and season with salt and black pepper.",
     "If using grated cheese, sprinkle it on top of the pilaf and serve.",
-    "Serve the pilaf hot and enjoy."
+    "Serve the pilaf hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "peas",
     "descriptor": "Lightly Crisp",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

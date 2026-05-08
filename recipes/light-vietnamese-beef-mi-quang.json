@@ -3,7 +3,6 @@
   "description": "A light and flavorful Vietnamese dish made with stir-fried beef, tomatoes, and rice noodles, perfect for a quick weeknight meal.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -87,7 +86,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "low-carb",
     "one-pan",
@@ -117,5 +115,9 @@
     "mainIngredient": "beef",
     "descriptor": "Light",
     "dishForm": "Mi Quang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

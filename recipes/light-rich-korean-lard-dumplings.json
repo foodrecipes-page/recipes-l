@@ -2,10 +2,7 @@
   "title": "Light, Rich Korean Lard Dumplings",
   "description": "A crowd-pleasing Korean dish featuring light, crispy dumplings wrapped in a rich lard-based dough. This dish is perfect for a raw-friendly dinner option.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,7 +74,6 @@
     "dumplings",
     "lard",
     "vegan-friendly",
-    "gluten-free",
     "steamed"
   ],
   "nutrition": {
@@ -103,5 +99,10 @@
     "mainIngredient": "lard",
     "descriptor": "light, rich",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

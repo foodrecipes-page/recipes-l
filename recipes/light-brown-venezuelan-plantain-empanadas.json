@@ -3,8 +3,7 @@
   "description": "Buttery, dense, indulgent Venezuelan dish featuring light brown soft sugar, made with whole30-friendly ingredients and cooked on a wooden board.",
   "cuisine": "Venezuelan",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "snack",
   "ingredients": [
@@ -56,7 +55,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "indulgent",
     "south-american",
     "vegan-friendly",
@@ -86,5 +84,9 @@
     "mainIngredient": "plantains",
     "descriptor": "light brown dense",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

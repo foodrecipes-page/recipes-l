@@ -47,13 +47,14 @@
   ],
   "instructions": [
     "Heat oil in a wok or large frying pan over medium-high heat.",
-    "Add minced garlic and saut\u00e9 for about 30 seconds until fragrant.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant.",
     "Add Portuguese mincemeat to the pan, stirring continuously for 2-3 minutes until heated through.",
     "Fold in finely chopped red peppers, yellow peppers, and onion. Stir fry for an additional 2-3 minutes.",
     "Pour in lemon juice and water or chicken stock. Let it come to a simmer.",
     "Season with salt and pepper to taste. Reduce heat if needed to maintain the sauce's consistency.",
     "Stir-fry until all ingredients are tender and well combined, about 5-7 more minutes.",
-    "Serve hot as part of your brunch dish."
+    "Serve hot as part of your brunch dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -88,5 +89,9 @@
     "mainIngredient": "mincemeat",
     "descriptor": "Low Calorie Friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -65,7 +65,8 @@
     "While the lamb is braising, prepare the spherification bath by mixing the sodium alginate and water in a bowl.",
     "Once the lamb is done, remove it from the vessel and shred it into bite sized pieces.",
     "Using a syringe, drop small amounts of the lamb mixture into the spherification bath, creating small pearls of lamb.",
-    "Serve the charred lamb tagine hot, garnished with the lamb pearls and a sprinkle of cumin."
+    "Serve the charred lamb tagine hot, garnished with the lamb pearls and a sprinkle of cumin.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -103,5 +104,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Lovely charred",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

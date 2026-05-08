@@ -54,7 +54,8 @@
     "Stir in the grated cheese until melted and smooth.",
     "Flambe the mixture by igniting the wine with a match.",
     "Simmer for an additional 5 minutes or until the sauce has thickened.",
-    "Serve hot in the copper mug."
+    "Serve hot in the copper mug.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -92,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Luxurious cheesy",
     "dishForm": "Coq Au Vin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

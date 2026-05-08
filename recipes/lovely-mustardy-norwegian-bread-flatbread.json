@@ -3,7 +3,6 @@
   "description": "A crunchy and energizing Norwegian bread flatbread dish that is rich in mustardy flavor and anti-inflammatory properties.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -98,5 +97,9 @@
     "mainIngredient": "bread",
     "descriptor": "lovely mustardy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

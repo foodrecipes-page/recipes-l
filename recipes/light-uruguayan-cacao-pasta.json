@@ -3,8 +3,7 @@
   "description": "A fresh and creamy Uruguayan dish featuring cacao and pasta water emulsion, egg free friendly.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -93,5 +92,9 @@
     "mainIngredient": "cacao",
     "descriptor": "Light Creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

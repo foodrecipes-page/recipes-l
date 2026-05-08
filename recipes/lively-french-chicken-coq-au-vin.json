@@ -65,7 +65,8 @@
     "Pour in 480ml red wine, bring to a simmer and deglaze the pan.",
     "Add 200g sliced mushrooms, 240ml chicken stock, and 5g salt & pepper; simmer uncovered for 20 minutes.",
     "Stir in 2g cream of tartar, letting the sauce reduce and thicken for an additional 10 minutes.",
-    "While the sauce simmers, place a 200g long-fermentation dough on parchment, brush with olive oil, bake for 15 minutes until golden, and serve the chicken topped with sauce alongside the warm bread."
+    "While the sauce simmers, place a 200g long-fermentation dough on parchment, brush with olive oil, bake for 15 minutes until golden, and serve the chicken topped with sauce alongside the warm bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 50,
@@ -103,5 +104,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Lively",
     "dishForm": "Coq Au Vin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

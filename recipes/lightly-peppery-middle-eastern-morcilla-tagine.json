@@ -2,9 +2,7 @@
   "title": "Lightly Peppery Middle Eastern Morcilla Tagine",
   "description": "A lightly peppery and flavorful one-pot Middle Eastern dish featuring morcilla, made pescatarian-friendly and cooked to perfection in a tandoor clay pot. This unique tagine combines the richness of morcilla with the brightness of Middle Eastern spices.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,7 +68,8 @@
     "Add the chicken broth to the pot and bring to a boil, scraping up any browned bits from the bottom.",
     "Return the morcilla to the pot and reduce the heat to low, simmering covered for 20 minutes.",
     "Stir in the chopped parsley and cook for an additional 5 minutes, or until the morcilla is heated through.",
-    "Serve the morcilla tagine hot, garnished with additional parsley if desired."
+    "Serve the morcilla tagine hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -82,7 +81,6 @@
     "comfort-food",
     "middle-eastern",
     "one-pot",
-    "pescatarian",
     "spicy"
   ],
   "nutrition": {
@@ -108,5 +106,10 @@
     "mainIngredient": "morcilla",
     "descriptor": "Lightly Peppery",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A flavorful and aromatic rice pilaf dish from Kenya, made with coconut milk and onions, perfect for a date night dinner.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegan",
     "gluten-free",
     "nut-free"
   ],
@@ -101,5 +100,9 @@
     "mainIngredient": "rice",
     "descriptor": "luscious",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

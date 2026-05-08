@@ -2,9 +2,7 @@
   "title": "Light Fluffy Argentinian Beef Empanadas",
   "description": "A malty, fluffy, and comforting Argentinian dish featuring tamarind paste and lardons, perfect for a snack or light meal.",
   "cuisine": "Argentinian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -51,7 +49,8 @@
     "Roll out each ball into a thin circle, about 1/8 inch thick.",
     "Place a tablespoon of tamarind paste and a few pieces of lardon in the center of each circle.",
     "Top with a tablespoon of ground beef and fold the dough in half to form a half moon shape.",
-    "Brush the tops with a little bit of water and bake for 20 minutes, or until golden brown."
+    "Brush the tops with a little bit of water and bake for 20 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -91,5 +90,10 @@
     "mainIngredient": "beef",
     "descriptor": "light fluffy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

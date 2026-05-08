@@ -3,7 +3,6 @@
   "description": "Earthy and creamy Japanese dish featuring puff pastry and ferment kimchi, inspired by Okinawan cuisine, with a touch of ayurvedic rajasic friendly spices.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -57,7 +56,8 @@
     "Place the gyoza on a baking sheet lined with parchment paper, leaving about 1 inch of space between each gyoza.",
     "Brush the tops of the gyoza with a little sesame oil, and sprinkle with chopped green onions.",
     "Bake the gyoza in the preheated oven for 15-20 minutes, or until golden brown.",
-    "Serve the gyoza hot with your favorite dipping sauce."
+    "Serve the gyoza hot with your favorite dipping sauce.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -95,5 +95,10 @@
     "mainIngredient": "pork",
     "descriptor": "Lightly spiced",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

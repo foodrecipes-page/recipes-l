@@ -3,8 +3,7 @@
   "description": "A cultured, pillowy date-night dish featuring seared tuna in a char-grilled tangy pineapple sauce served in a Korean brass bowl.",
   "cuisine": "Korean fusion",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "date-night",
-    "gluten-free",
     "korean",
     "quick",
     "seafood"
@@ -101,5 +99,9 @@
     "mainIngredient": "Tuna",
     "descriptor": "Lush Seared",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

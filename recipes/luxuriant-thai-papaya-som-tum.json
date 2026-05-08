@@ -2,9 +2,7 @@
   "title": "Luxuriant Thai Papaya Som Tum",
   "description": "A mustardy and flaky Thai dish featuring sweetened condensed milk, this vegan-friendly som tum is a unique and indulgent treat, made by shocking the ingredients in an ice bath and serving in a Dutch oven.",
   "cuisine": "Thai",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -87,5 +85,9 @@
     "mainIngredient": "papaya",
     "descriptor": "luxuriant flaky",
     "dishForm": "Som Tum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -62,7 +62,8 @@
     "Add smoked paprika, bay leaf, salt, and pepper, whisking to evenly distribute the flavors.",
     "Bring the mixture to a gentle simmer, cover, and cook for 20 minutes, stirring occasionally to prevent sticking.",
     "Add carrots and peas, continue simmering uncovered for an additional 10 minutes until vegetables are tender.",
-    "Taste and adjust seasoning if needed, then serve hot over steamed rice or cauliflower rice for a low-calorie option."
+    "Taste and adjust seasoning if needed, then serve hot over steamed rice or cauliflower rice for a low-calorie option.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Luscious",
     "dishForm": "Kaldereta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

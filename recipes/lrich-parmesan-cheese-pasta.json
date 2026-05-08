@@ -58,7 +58,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "jamaican-influenced",
     "parmigiana-style",
     "rich-creamy-pasta",
@@ -88,5 +87,9 @@
     "mainIngredient": "Parmesan Cheese",
     "descriptor": "Rich",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Lazy Herbini",
   "description": "A silky herbini dish featuring linguine pasta with a lazy sunday touch, vegan-friendly and perfect for those who don't want to spend too much time in the kitchen.",
   "cuisine": "American",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,5 +71,9 @@
     "primaryIngredient": "linguine pasta",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

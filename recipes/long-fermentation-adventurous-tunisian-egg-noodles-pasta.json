@@ -3,9 +3,7 @@
   "description": "fatty, shaggy, adventurous tunisian dish featuring egg noodles, long-fermentation-dough, and paleo-friendly ingredients",
   "cuisine": "tunisian",
   "diet": [
-    "paleo",
-    "gluten-free",
-    "dairy-free"
+    "paleo"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -117,5 +115,10 @@
     "mainIngredient": "egg noodles",
     "descriptor": "long-fermentation",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

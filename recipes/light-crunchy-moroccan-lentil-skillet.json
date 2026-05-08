@@ -65,7 +65,8 @@
     "Add the red lentils, tamarind paste, and chopped pickle, and stir to combine.",
     "Cook for 20 minutes, stirring occasionally, until the lentils are tender and the mixture is lightly browned.",
     "Stir in the chopped fresh parsley.",
-    "Serve the lentil mixture hot, straight from the skillet."
+    "Serve the lentil mixture hot, straight from the skillet.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "lentils",
     "descriptor": "light crunchy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A cultured and creamy Korean dish featuring rosemary, this one-pot meal is perfect for special occasions, simmered to perfection and served in a ssam form, it is also onion and garlic free.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "no-onion-no-garlic"
   ],
   "meal": "dinner",
@@ -72,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "cream-based",
-    "gluten-free",
     "korean-cuisine",
     "one-pot",
     "pork-recipe",
@@ -101,5 +99,9 @@
     "mainIngredient": "pork",
     "descriptor": "luxurious creamy",
     "dishForm": "Ssam"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

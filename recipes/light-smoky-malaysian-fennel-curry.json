@@ -3,7 +3,6 @@
   "description": "A smoky and light Malaysian curry featuring fennel bulb, perfect for a sick day, made with dairy-free friendly ingredients and cooked to perfection in a pressure cooker served in a lazy-susan-spinner vessel.",
   "cuisine": "Malaysian",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -70,7 +69,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "lazy-susan-spinner",
     "light",
@@ -102,5 +100,9 @@
     "mainIngredient": "fennel",
     "descriptor": "Light Smoky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

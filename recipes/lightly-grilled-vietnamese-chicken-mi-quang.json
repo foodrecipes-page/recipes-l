@@ -3,7 +3,6 @@
   "description": "A herbal and snappy Vietnamese dish featuring ground cardamom, perfect for a post-workout meal, grilled to perfection on a robata grill in a Buddhist temple friendly form of mi quang.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -95,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Lightly Grilled",
     "dishForm": "Mi Quang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

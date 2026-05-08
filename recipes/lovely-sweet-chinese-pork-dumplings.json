@@ -50,7 +50,9 @@
     "Press the edges together to seal the dumpling",
     "Repeat with the remaining wrappers and filling",
     "In a large pot of boiling water, cook the dumplings for 10-12 minutes, or until they float to the surface",
-    "Remove the dumplings from the water with a slotted spoon and serve hot with chopped scallions and a side of soy sauce for dipping"
+    "Remove the dumplings from the water with a slotted spoon and serve hot with chopped scallions and a side of soy sauce for dipping",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -88,5 +90,10 @@
     "mainIngredient": "pork",
     "descriptor": "lovely sweet",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

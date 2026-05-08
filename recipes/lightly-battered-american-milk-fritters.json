@@ -2,9 +2,7 @@
   "title": "Lightly Battered American Milk Fritters",
   "description": "A funky and springy American dish perfect for brunch, featuring milk and a light batter, with a dairy-free friendly option. These fritters are deep-fried to a golden brown and served hot.",
   "cuisine": "American",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -86,5 +84,9 @@
     "mainIngredient": "milk",
     "descriptor": "Lightly battered",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

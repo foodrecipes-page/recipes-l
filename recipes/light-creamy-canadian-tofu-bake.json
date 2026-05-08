@@ -3,9 +3,7 @@
   "description": "A sour, creamy, and light Canadian-inspired dish featuring silken tofu, perfect for a weeknight dinner or a casual get-together. This recipe is easy to make and packed with nutritious ingredients.",
   "cuisine": "canadian",
   "diet": [
-    "vegetarian",
-    "dairy-free",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -83,7 +81,6 @@
   "difficulty": "medium",
   "tags": [
     "canadian",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -111,5 +108,10 @@
     "mainIngredient": "tofu",
     "descriptor": "light creamy",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -4,8 +4,7 @@
   "cuisine": "Thai",
   "diet": [
     "low-carb",
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -74,7 +73,6 @@
   "servings": 2,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-fiber",
     "low-carb",
     "one-pan",
@@ -103,5 +101,9 @@
     "mainIngredient": "beans",
     "descriptor": "light and snappy",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

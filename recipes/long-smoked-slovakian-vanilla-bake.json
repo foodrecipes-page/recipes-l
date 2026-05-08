@@ -2,10 +2,7 @@
   "title": "Long-Smoked Slovakian Vanilla Bake",
   "description": "A unique and deliciously smoky dessert featuring vanilla and a satisfying crunch from toasted almonds.",
   "cuisine": "Slovakian",
-  "diet": [
-    "gluten-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -81,11 +78,9 @@
   "difficulty": "hard",
   "tags": [
     "dessert",
-    "gluten-free",
     "slovakian",
     "smoked",
     "vanilla",
-    "vegan",
     "wood-fired"
   ],
   "nutrition": {
@@ -111,5 +106,10 @@
     "mainIngredient": "vanilla",
     "descriptor": "long-smoked",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

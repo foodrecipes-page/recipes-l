@@ -73,8 +73,7 @@
     "mediterranean",
     "plant-based",
     "ramekin",
-    "tempeh",
-    "vegan"
+    "tempeh"
   ],
   "nutrition": {
     "calories": 420,
@@ -99,5 +98,9 @@
     "mainIngredient": "Tempeh",
     "descriptor": "Luscious Velvety",
     "dishForm": "Ramekin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

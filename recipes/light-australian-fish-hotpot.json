@@ -2,10 +2,7 @@
   "title": "Light Australian Fish Hotpot",
   "description": "A rich and energizing Australian dish featuring yuzu-kosho, served in a hot pot vessel, perfect for a Buddhist temple friendly meal. This recipe combines the freshness of fish with the zing of yuzu-kosho.",
   "cuisine": "Australian",
-  "diet": [
-    "pescatarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -55,7 +52,8 @@
     "Reduce the heat to a simmer and add the fish and mushrooms to the pot.",
     "Cover the pot with a lid and steam for 5 minutes.",
     "Add the leafy greens to the pot and steam for an additional 2 minutes.",
-    "Serve the hotpot in individual bowls and garnish with additional yuzu-kosho if desired."
+    "Serve the hotpot in individual bowls and garnish with additional yuzu-kosho if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -63,10 +61,8 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "healthy",
     "one-pot",
-    "pescatarian",
     "seafood"
   ],
   "nutrition": {
@@ -92,5 +88,11 @@
     "mainIngredient": "fish",
     "descriptor": "light energizing",
     "dishForm": "Hotpot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

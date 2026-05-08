@@ -3,7 +3,6 @@
   "description": "A delicate and flavorful Vietnamese dish featuring shrimp, rice noodles, and a rich broth, perfect for a romantic evening. This recipe combines the sweetness of rice syrup with the savory taste of shrimp and herbs.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "shellfish"
   ],
   "meal": "dinner",
@@ -95,5 +94,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Lightly Romantic",
     "dishForm": "Bun Rieu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

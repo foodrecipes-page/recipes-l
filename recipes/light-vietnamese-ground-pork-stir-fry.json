@@ -2,9 +2,7 @@
   "title": "Light Vietnamese Ground Pork Stir Fry",
   "description": "A grassy and creamy Vietnamese dish featuring ground pork, perfect for a quick and energizing meal, and is halal friendly.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,7 +58,8 @@
     "Stir in the chopped Thai basil.",
     "Season with salt and black pepper to taste.",
     "Serve the stir fry hot over rice or noodles.",
-    "Garnish with additional Thai basil if desired."
+    "Garnish with additional Thai basil if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -98,5 +97,10 @@
     "mainIngredient": "ground pork",
     "descriptor": "light creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-pork_no_temp"
+  ]
 }

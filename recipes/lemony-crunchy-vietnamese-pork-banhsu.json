@@ -3,8 +3,7 @@
   "description": "A citrusy, crunchy, and cozy Vietnamese dish featuring the flavors of rose water, served in a traditional cataplana vessel. This diabetic-friendly version of banh mi replaces traditional carbs with healthier alternatives.",
   "cuisine": "vietnamese",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -107,7 +106,6 @@
   "difficulty": "medium",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "one-pan",
     "vietnamese",
     "weeknight"
@@ -135,5 +133,9 @@
     "mainIngredient": "pork",
     "descriptor": "lemony crunchy",
     "dishForm": "Banhsu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

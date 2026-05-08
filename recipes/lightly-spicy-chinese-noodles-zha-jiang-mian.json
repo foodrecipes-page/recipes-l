@@ -3,8 +3,7 @@
   "description": "A rich and crisp Sichuan dish featuring Sichuan pepper and yakimono-grill, suitable for post-workout meals and ayurvedic-rajasic-friendly diets, served in the form of zha-jiang-mian.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "ayurvedic-friendly",
-    "gluten-free",
     "one-pan-dish",
     "post-workout-meal",
     "sichuan-cuisine",
@@ -92,5 +90,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Lightly spicy",
     "dishForm": "Zha Jiang Mian"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

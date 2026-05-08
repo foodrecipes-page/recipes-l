@@ -3,8 +3,7 @@
   "description": "A traditional Dutch dessert featuring almond flour and a double-fry method, now made keto-friendly, these fritters are resinous, gooey, and nostalgic.",
   "cuisine": "Dutch",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -66,7 +65,6 @@
     "almond-flour",
     "double-fry",
     "dutch-desserts",
-    "gluten-free",
     "keto-friendly",
     "sticky-sweets"
   ],
@@ -93,5 +91,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Lovely sticky",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

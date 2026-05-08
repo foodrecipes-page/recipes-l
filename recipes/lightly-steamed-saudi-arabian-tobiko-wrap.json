@@ -2,9 +2,7 @@
   "title": "Lightly Steamed Saudi Arabian Tobiko Wrap",
   "description": "A quick and easy Saudi Arabian dish featuring tobiko, herbal flavors, and a glassy-jelly texture, all wrapped in a leaf and steamed to perfection, perfect for vegetarians",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "tobiko",
     "descriptor": "Lightly Steamed",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -72,7 +72,8 @@
     "Pour in the remaining wine, reduce by half, and stir in the low‑sodium broth.",
     "Toss the cooked noodles into the skillet, coating them with the sauce.",
     "Remove the chicken from the bag, slice, and fold it into the noodle bowl.",
-    "Garnish with fresh dill and parsley before serving."
+    "Garnish with fresh dill and parsley before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 90,
@@ -110,5 +111,9 @@
     "mainIngredient": "rice noodle",
     "descriptor": "Luscious Winey",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

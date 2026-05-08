@@ -68,7 +68,8 @@
     "Arrange the glazed chicken on top of the buttered bread slices.",
     "Garnish with chopped cilantro for freshness.",
     "Let the dish rest for 5 minutes to allow flavors to meld.",
-    "Serve warm, optionally drizzling any remaining glaze over the top."
+    "Serve warm, optionally drizzling any remaining glaze over the top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -107,5 +108,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Lacquered",
     "dishForm": "Tangia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

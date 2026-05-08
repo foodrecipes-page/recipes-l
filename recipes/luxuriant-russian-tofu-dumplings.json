@@ -3,8 +3,7 @@
   "description": "A plant-based take on traditional Russian dumplings, featuring crispy deep-fried tofu and a rich double cream sauce, served on a slate tile vessel.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "tofu",
     "descriptor": "luxuriant deep fried",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

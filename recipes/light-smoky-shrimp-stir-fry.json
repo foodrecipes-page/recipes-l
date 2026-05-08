@@ -56,7 +56,8 @@
     "Throw in shallots and cook until translucent, around 2 minutes.",
     "Toss in shrimp, almond meal, chicken broth, lemon zest, Dijon mustard, and thyme leaves. Stir well to coat the shrimp evenly.",
     "Simmer gently for approximately 4-5 minutes until the sauce slightly thickens and the shrimp are opaque but still tender.",
-    "Serve hot over steamed rice or as a side dish."
+    "Serve hot over steamed rice or as a side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 8,
@@ -91,5 +92,9 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Smoky Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

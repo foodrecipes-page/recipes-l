@@ -3,9 +3,7 @@
   "description": "A fermented, glassy-jelly, meal-prep Thai dish featuring light brown soft sugar, perfect for paleo-friendly meals. This recipe is a variation of a traditional Thai dish.",
   "cuisine": "Thai",
   "diet": [
-    "paleo",
-    "gluten-free",
-    "vegan"
+    "paleo"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -67,12 +65,10 @@
   "difficulty": "medium",
   "tags": [
     "fermented",
-    "gluten-free",
     "meal-prep",
     "paleo",
     "ricebowl",
-    "thaifood",
-    "vegan"
+    "thaifood"
   ],
   "nutrition": {
     "calories": 250,
@@ -97,5 +93,10 @@
     "mainIngredient": "fermented dish",
     "descriptor": "light brown",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

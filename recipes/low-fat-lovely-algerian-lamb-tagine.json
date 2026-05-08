@@ -72,7 +72,8 @@
     "Reduce the heat to low and simmer, covered, for 20 minutes.",
     "Transfer the tagine to a pressure cooker and cook for an additional 10 minutes.",
     "Remove the tagine from the pressure cooker and let it cool slightly before serving.",
-    "Serve the tagine hot, garnished with fresh herbs if desired."
+    "Serve the tagine hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -110,5 +111,9 @@
     "mainIngredient": "lamb",
     "descriptor": "low fat lovely",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -4,9 +4,7 @@
   "cuisine": "french",
   "diet": [
     "satvik",
-    "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -160,7 +158,8 @@
     "crumble feta cheese into the tagine for extra flavor.",
     "crumbling feta cheese into the tagine adds a nice tanginess.",
     "serve with crusty bread or over rice, if desired.",
-    "crumbling feta cheese into the tagine is optional."
+    "crumbling feta cheese into the tagine is optional.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 30,
@@ -201,5 +200,11 @@
     "mainIngredient": "ground beef",
     "descriptor": "Love-Ly Caramelized",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

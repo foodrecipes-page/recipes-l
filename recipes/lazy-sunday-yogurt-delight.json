@@ -3,7 +3,6 @@
   "description": "A floral and dense Italian dish featuring full fat yogurt with herbs and spices for a lazy sunday treat that is also jain-friendly.",
   "cuisine": "Italian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dessert",
@@ -60,5 +59,9 @@
     "primaryIngredient": "full fat yogurt",
     "diet": "jain",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

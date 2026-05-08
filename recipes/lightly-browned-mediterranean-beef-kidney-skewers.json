@@ -3,8 +3,7 @@
   "description": "A salty, crunchy, and energizing Mediterranean dish featuring beef kidney, this recipe is perfect for a snack or dinner. It is satvik-friendly and cooked in a fondue pot using the bain-marie method.",
   "cuisine": "Mediterranean",
   "diet": [
-    "satvik",
-    "gluten-free"
+    "satvik"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "mediterranean",
     "one-pot",
@@ -97,5 +95,9 @@
     "mainIngredient": "beef kidney",
     "descriptor": "Lightly browned",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

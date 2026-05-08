@@ -2,9 +2,7 @@
   "title": "Lush Cheesy Australian Beef Burger",
   "description": "A briny, cheesy Australian dish featuring beef, Appleton rum, and bhuna spices, served in an agave leaf vessel, perfect for a hangover cure.",
   "cuisine": "Australian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -53,7 +51,8 @@
     "Meanwhile, toast the agave leaves over the grill until they are slightly charred.",
     "Assemble the burgers by placing a cooked patty onto each agave leaf, followed by a slice of cheese, some lettuce, tomato, onion, and pickles.",
     "Return the burgers to the grill and cook until the cheese is melted and the agave leaves are slightly crispy.",
-    "Serve the burgers immediately and enjoy."
+    "Serve the burgers immediately and enjoy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -92,5 +91,10 @@
     "mainIngredient": "beef",
     "descriptor": "lush cheesy",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-preserving_no_acid"
+  ]
 }

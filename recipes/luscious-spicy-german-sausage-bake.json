@@ -3,7 +3,6 @@
   "description": "A spicy, creamy, gluten-friendly German solo-dinner dish featuring phyllo dough, clay-pot-cooked to perfection.",
   "cuisine": "german",
   "diet": [
-    "gluten-free",
     "pork-friendly"
   ],
   "meal": "dinner",
@@ -79,7 +78,6 @@
   "tags": [
     "creamy",
     "german-cuisine",
-    "gluten-free",
     "one-pan",
     "pork-friendly",
     "spicy",
@@ -108,5 +106,9 @@
     "mainIngredient": "Sausage",
     "descriptor": "Luscious Spicy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

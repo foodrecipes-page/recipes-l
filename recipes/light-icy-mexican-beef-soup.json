@@ -70,7 +70,8 @@
     "Reduce the heat and simmer for 10 minutes.",
     "Stir in chopped cilantro and lime juice.",
     "Serve hot, garnished with additional cilantro if desired.",
-    "Serve with a side of warm tortillas, if desired."
+    "Serve with a side of warm tortillas, if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -102,11 +103,16 @@
     "mood": "light",
     "technique": "rest",
     "primaryIngredient": "beef stock",
-    "diet": "vegetarian",
+    "diet": "vegetarian-friendly",
     "region": null,
     "cuisineAdjective": "Mexican",
     "mainIngredient": "beef",
     "descriptor": "Light Icy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp",
+    "aligned-axes-diet"
+  ]
 }

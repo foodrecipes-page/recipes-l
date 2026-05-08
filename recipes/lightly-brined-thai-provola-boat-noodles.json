@@ -2,9 +2,7 @@
   "title": "Lightly Brined Thai Provola Boat Noodles",
   "description": "A funky and nostalgic Thai dish featuring provola cheese in a brine-wet and gluten-free-friendly boat noodle form",
   "cuisine": "Thai",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -59,7 +57,8 @@
     "Add the cooked noodles to the broth and let it cook for an additional 2 minutes",
     "Add the bean sprouts and sliced pork or chicken to the broth and cook for 1 minute",
     "Taste and adjust the seasoning as needed",
-    "Ladle the noodles and broth into bowls and serve immediately"
+    "Ladle the noodles and broth into bowls and serve immediately",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -69,7 +68,6 @@
   "tags": [
     "asian-fusion",
     "boat-noodles",
-    "gluten-free",
     "noodle-soup",
     "provola-cheese",
     "thai-cuisine"
@@ -97,5 +95,10 @@
     "mainIngredient": "provola",
     "descriptor": "Lightly Brined",
     "dishForm": "Boat Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

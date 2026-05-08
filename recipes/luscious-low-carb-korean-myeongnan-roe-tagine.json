@@ -3,8 +3,7 @@
   "description": "A tangy and gooey Mediterranean dish featuring myeongnan-roe, made with a flambe technique in a cataplana vessel, perfect for a low-carb diet.",
   "cuisine": "Korean",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "myeongnan-roe",
     "descriptor": "Luscious Low Carb",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

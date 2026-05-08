@@ -58,7 +58,8 @@
     "Wrap the clay pot in corn husks, securing them with kitchen twine if necessary.",
     "Place the wrapped clay pot in the oven and cook for 2 1/2 hours.",
     "Remove the pot from the oven and let it cool for a few minutes before unwrapping and serving.",
-    "Serve the stew hot, garnished with fresh herbs if desired."
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -96,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "luscious shaggy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

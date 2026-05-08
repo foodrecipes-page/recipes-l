@@ -3,8 +3,7 @@
   "description": "A traditional Greek recipe featuring springy farfalle pasta, rich tomato sauce, and a hint of umami from Kalamata olives. Perfect for meal prep and cooked in a clay tajine vessel.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -85,7 +84,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "greek-cuisine",
     "meal-prep",
     "one-pan",
@@ -114,5 +112,9 @@
     "mainIngredient": "farfalle",
     "descriptor": "Lightly springy",
     "dishForm": "Revithia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

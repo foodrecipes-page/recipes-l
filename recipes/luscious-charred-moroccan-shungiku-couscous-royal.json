@@ -3,8 +3,7 @@
   "description": "A charred, tender, and indulgent Moroccan dish featuring shungiku, made with a brine-dry method and diabetic-friendly ingredients, formed into a royal couscous dish.",
   "cuisine": "Moroccan",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "moroccan-cuisine",
     "one-pot",
     "vegetarian"
@@ -96,5 +94,9 @@
     "mainIngredient": "shungiku",
     "descriptor": "Luscious Charred",
     "dishForm": "Couscous Royal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

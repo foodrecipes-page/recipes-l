@@ -65,7 +65,8 @@
     "Toss zucchini slices with a pinch of salt and almond flour, then spread them in a greased baking dish.",
     "Spoon the beef-egg sauce over the zucchini layer and smooth the top.",
     "Sprinkle shredded mozzarella and grated parmesan evenly.",
-    "Bake for 25 minutes until the top is golden and bubbly, then let rest 5 minutes before serving."
+    "Bake for 25 minutes until the top is golden and bubbly, then let rest 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -102,5 +103,9 @@
     "mainIngredient": "zucchini",
     "descriptor": "Luscious",
     "dishForm": "Pastitsio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

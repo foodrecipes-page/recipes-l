@@ -2,9 +2,7 @@
   "title": "Light Peruvian Chicken Skewers",
   "description": "A floral and light Peruvian dish featuring green olives and bhuna, perfect for a gluten-free friendly dinner. The combination of flavors and textures creates an indulgent yet refreshing experience.",
   "cuisine": "Peruvian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "peruvian-cuisine",
-    "gluten-free",
     "chicken-skewers",
     "light-dinner",
     "indulgent"
@@ -103,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Light Indulgent",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -57,7 +57,8 @@
     "Add the chopped red pepper and cook for an additional 2 minutes.",
     "Add the chicken broth to the pot, scraping up any browned bits from the bottom.",
     "Return the lamb shoulder to the pot and transfer to the preheated oven.",
-    "Bake for 2.5 hours, or until the lamb is tender and falls apart easily."
+    "Bake for 2.5 hours, or until the lamb is tender and falls apart easily.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -93,5 +94,9 @@
     "mainIngredient": "pillowlamb",
     "descriptor": "LooselyBaked",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

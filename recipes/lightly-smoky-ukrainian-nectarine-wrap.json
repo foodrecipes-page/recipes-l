@@ -84,11 +84,15 @@
     "mood": "quick-fix",
     "technique": "ssam-wrap",
     "primaryIngredient": "nectarines",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "nectarines",
     "descriptor": "Lightly Smoky",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

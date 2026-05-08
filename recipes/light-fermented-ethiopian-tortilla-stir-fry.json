@@ -2,9 +2,7 @@
   "title": "Light Fermented Ethiopian Tortilla Stir-fry",
   "description": "A comforting gluten-free Ethiopian dish featuring fermented tortillas that are stir-fried and served with a light sauce for a delightful breakfast or snack.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -68,5 +66,9 @@
     "mainIngredient": "Tortilla",
     "descriptor": "Fermented Light Comfortable",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Luxuriantly Garlicky Algerian Pork Knuckle Tagine",
   "description": "A rich and aromatic one-pot dish featuring pork knuckle, score-fat, and a blend of Algerian spices, carefully prepared to be Buddhist-temple-friendly by using no animal by-products and ensuring a respectful cooking process.",
   "cuisine": "Algerian",
-  "diet": [
-    "halal",
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +61,8 @@
     "Add the chicken broth and bring the mixture to a boil.",
     "Cover the Dutch oven and transfer it to the preheated oven.",
     "Braise the tagine for 2 1/2 hours, or until the pork is tender and the meat is easily shredded with a fork.",
-    "Remove the tagine from the oven and let it cool slightly before serving."
+    "Remove the tagine from the oven and let it cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -102,5 +100,11 @@
     "mainIngredient": "pork knuckle",
     "descriptor": "luxuriantly garlicky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

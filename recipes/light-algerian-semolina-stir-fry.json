@@ -2,9 +2,7 @@
   "title": "Light Algerian Semolina Stir-fry",
   "description": "An earthy and comforting dish featuring semolina flour in a light, savory sauce, perfect for a quick breakfast or snack.",
   "cuisine": "Algerian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -78,5 +76,9 @@
     "mainIngredient": "Semolina",
     "descriptor": "Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

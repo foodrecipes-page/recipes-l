@@ -48,7 +48,8 @@
     "Carefully place 2-3 empanadas in the hot oil and fry for 2-3 minutes on each side, until golden brown.",
     "Remove the empanadas from the oil with a slotted spoon and place on a paper towel lined plate to drain excess oil.",
     "Repeat the frying process with the remaining empanadas.",
-    "Serve the empanadas hot and enjoy."
+    "Serve the empanadas hot and enjoy.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -86,5 +87,9 @@
     "mainIngredient": "semolina",
     "descriptor": "Lightly fried",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

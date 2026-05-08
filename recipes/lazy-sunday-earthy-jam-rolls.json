@@ -3,8 +3,7 @@
   "description": "A light and earthy Japanese-inspired dish featuring blackcurrant jam rolls that are both vegetarian-friendly and vegan-friendly for a lazy Sunday treat.",
   "cuisine": "Japanese-Inspired",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -77,5 +76,9 @@
     "primaryIngredient": "blackcurrant jam",
     "diet": "jain",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

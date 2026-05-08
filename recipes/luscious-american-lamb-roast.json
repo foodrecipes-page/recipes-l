@@ -102,11 +102,15 @@
     "mood": "date-night",
     "technique": "score-fat",
     "primaryIngredient": "lamb",
-    "diet": "vegan",
+    "diet": "high-protein",
     "region": null,
     "cuisineAdjective": "American",
     "mainIngredient": "lamb",
     "descriptor": "Luscious",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A light and flavorful ethiopian dish featuring red wine jelly, long-fermentation-dough, and plant-based-friendly ingredients. Perfect for a weeknight dinner or a special occasion.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "ethiopian",
-    "gluten-free",
     "plant-based",
     "weeknight"
   ],
@@ -95,5 +93,9 @@
     "mainIngredient": "plant-based",
     "descriptor": "light",
     "dishForm": "Bereeka"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

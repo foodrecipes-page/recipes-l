@@ -3,7 +3,6 @@
   "description": "A flavorful and earthy Vietnamese dish featuring chicken and noodles, perfect for a weeknight dinner, made with a mixture powder and mantecare-emulsify method, and is egg-free friendly, cooked on a tava griddle.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -75,7 +74,6 @@
   "tags": [
     "dairy-free",
     "easy-cooking",
-    "gluten-free",
     "one-pan-meal",
     "vietnamese-cuisine",
     "weeknight-dinner"
@@ -103,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Lightly Seasoned",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

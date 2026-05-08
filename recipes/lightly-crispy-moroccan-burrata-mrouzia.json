@@ -3,8 +3,7 @@
   "description": "A buttery and crispy Moroccan dish featuring burrata, poached in a low-fat friendly mrouzia form, served in a bento-box.",
   "cuisine": "Moroccan",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -58,7 +57,8 @@
     "Pour the low-sodium chicken broth into the bento-box, making sure the burrata cheese is partially submerged.",
     "Cover the bento-box with aluminum foil and bake for 15 minutes.",
     "Remove the foil and continue baking for an additional 10 minutes, or until the top is lightly crispy.",
-    "Remove the bento-box from the oven and let it cool for a few minutes before serving."
+    "Remove the bento-box from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -70,8 +70,7 @@
     "crispy",
     "low-fat",
     "lunch",
-    "moroccan",
-    "vegetarian"
+    "moroccan"
   ],
   "nutrition": {
     "calories": 320,
@@ -96,5 +95,10 @@
     "mainIngredient": "burrata",
     "descriptor": "Lightly Crispy",
     "dishForm": "Mrouzia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

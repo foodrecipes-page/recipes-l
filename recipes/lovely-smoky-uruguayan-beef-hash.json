@@ -53,7 +53,8 @@
     "Place a ramekin in the air fryer basket and brush the inside with coconut oil.",
     "Add a beef patty to the ramekin and cook for 10 minutes, then flip the patty and cook for an additional 10 minutes.",
     "Repeat the cooking process with the remaining beef patties.",
-    "Once the beef is cooked, remove it from the ramekin and let it rest for 5 minutes before serving."
+    "Once the beef is cooked, remove it from the ramekin and let it rest for 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -91,5 +92,9 @@
     "mainIngredient": "beef",
     "descriptor": "Lovely Smoky",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

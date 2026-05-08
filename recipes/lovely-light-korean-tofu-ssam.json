@@ -59,7 +59,8 @@
     "To assemble the ssam, place a spoonful of the tofu mixture onto a perilla leaf, followed by a spoonful of cooked rice.",
     "Garnish with chopped green onions and serve immediately.",
     "Repeat with the remaining ingredients.",
-    "Serve with additional soy sauce and sesame oil on the side, if desired."
+    "Serve with additional soy sauce and sesame oil on the side, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -97,5 +98,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Lovely Light",
     "dishForm": "Ssam"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

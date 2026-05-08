@@ -50,7 +50,8 @@
     "Serve at room temperature, garnished with fresh redcurrants and a drizzle of honey. ",
     "Store leftover Panforte in an airtight container for up to 3 days. ",
     "Refrigerate or freeze for longer storage. ",
-    "Freeze for up to 2 months, then thaw overnight in the refrigerator before serving."
+    "Freeze for up to 2 months, then thaw overnight in the refrigerator before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 30,
@@ -90,5 +91,9 @@
     "mainIngredient": "redcurrants",
     "descriptor": "Luscious Fruity",
     "dishForm": "Panforte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

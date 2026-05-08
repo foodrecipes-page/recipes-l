@@ -3,7 +3,6 @@
   "description": "A light and indulgent almond crumble featuring cornmeal, a hint of sweetness from dates, and broiled to perfection for an Italian-inspired dessert dish that's also jain-friendly.",
   "cuisine": "Italian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dessert",
@@ -76,5 +75,9 @@
     "mainIngredient": "Almonds",
     "descriptor": "Nutty Light Indulgent",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

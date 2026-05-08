@@ -3,7 +3,6 @@
   "description": "A savory and shattering Indian dish featuring sevaiiya, perfect for a hangover cure, originating from the Chettinad cuisine",
   "cuisine": "Indian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "indian-cuisine",
     "one-pot",
     "spicy"
@@ -96,5 +94,9 @@
     "mainIngredient": "sevaiiya",
     "descriptor": "Luscious Savory",
     "dishForm": "Tikka Masala"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

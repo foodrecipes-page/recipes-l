@@ -3,8 +3,7 @@
   "description": "A charred and creamy American dish featuring shredded coconut and miso-marinated sweet potatoes, served in an earthenware bowl, perfect for a brunch mood.",
   "cuisine": "American",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "sweet potatoes",
     "descriptor": "luxuriously creamy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

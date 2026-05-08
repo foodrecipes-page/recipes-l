@@ -3,7 +3,6 @@
   "description": "A refreshing and flavorful Jamaican-inspired dish perfect for a date night, featuring spinach, yuzu-cure, and halal-friendly ingredients.",
   "cuisine": "jamaican",
   "diet": [
-    "halal",
     "vegetarian",
     "gluten-free"
   ],
@@ -115,5 +114,9 @@
     "mainIngredient": "spinach",
     "descriptor": "light citrusy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

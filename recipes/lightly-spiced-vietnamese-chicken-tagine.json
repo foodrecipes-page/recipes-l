@@ -2,10 +2,7 @@
   "title": "Lightly Spiced Vietnamese Chicken Tagine",
   "description": "A funky and creamy Vietnamese dish made with chicken, white flour, and Mediterranean spices, cooked in a traditional clay tagine vessel.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,7 +64,8 @@
     "Reduce the heat to low and cook, covered, for 20 minutes.",
     "Stir in the white flour to thicken the sauce.",
     "Cook for an additional 5 minutes, or until the sauce has thickened.",
-    "Serve hot, garnished with fresh herbs."
+    "Serve hot, garnished with fresh herbs.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -104,5 +102,11 @@
     "mainIngredient": "chicken",
     "descriptor": "Lightly spiced",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

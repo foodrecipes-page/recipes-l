@@ -2,9 +2,7 @@
   "title": "Lightly Browned Kenyan Sausages Skewers",
   "description": "A halal-friendly Kenyan dish featuring crispy sausages, served with a side of spicy ferment-kimchi, perfect for a solo dinner.",
   "cuisine": "Kenyan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -90,5 +88,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Lightly browned",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

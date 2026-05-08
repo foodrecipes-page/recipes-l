@@ -54,7 +54,8 @@
     "Add the chicken broth to the pan and bring to a boil.",
     "Once the chicken is done baking, add it to the pan with the chicken broth and simmer for 10 minutes.",
     "Stir in the dark chocolate chips until melted and fully incorporated.",
-    "Serve the tinola hot, garnished with sliced green onions if desired."
+    "Serve the tinola hot, garnished with sliced green onions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Luxurious Rich",
     "dishForm": "Tinola"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

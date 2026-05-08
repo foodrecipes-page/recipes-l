@@ -3,7 +3,6 @@
   "description": "A fresh and herbaceous salad featuring pressure-cooked lamb, mixed greens, and tangy chimichurri dressing. This dish is perfect for a light lunch or dinner.",
   "cuisine": "argentinian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -101,5 +100,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Light",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

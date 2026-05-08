@@ -3,8 +3,7 @@
   "description": "A light and nutty breakfast cake with an Australian twist, using orange blossom water and plant-based ingredients.",
   "cuisine": "australian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "nutty",
     "descriptor": "light",
     "dishForm": "cake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

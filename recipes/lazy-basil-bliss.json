@@ -37,7 +37,8 @@
     "Heat the mixture over medium heat until the oil is hot but not smoking.",
     "Add basil leaves to the pot and stir gently to prevent burning.",
     "Reduce heat to low and let simmer for 15 minutes or until the liquid has slightly reduced, adjusting seasoning with salt as needed.",
-    "Turn off heat and serve warm as a snack or side dish."
+    "Turn off heat and serve warm as a snack or side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -68,5 +69,9 @@
     "primaryIngredient": "basil leaves",
     "diet": "fodmap",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

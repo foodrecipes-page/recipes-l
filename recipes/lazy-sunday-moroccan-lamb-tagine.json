@@ -80,7 +80,8 @@
     "Braise the tagine in the preheated oven for 2 hours, or until the lamb is tender and falls apart easily.",
     "Remove the pot from the oven and let it cool slightly.",
     "Skim off any excess fat that rises to the surface, then serve the tagine hot, garnished with fresh herbs if desired.",
-    "Serve with crusty bread or over couscous, if desired."
+    "Serve with crusty bread or over couscous, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -118,5 +119,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Lazy-Sunday",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Lazy Sunday Nutty Crumbly Gluten-Free Rice Noodles",
   "description": "A comforting and effortless Canadian dish featuring flat gluten-free rice noodles with a nutty flavor profile for a lazy Sunday meal.",
   "cuisine": "Canadian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -56,5 +54,9 @@
     "primaryIngredient": "flat rice noodles",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

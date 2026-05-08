@@ -57,7 +57,8 @@
     "Let the mixture simmer for 10 minutes, allowing flavors to meld.",
     "While the mixture simmers, whisk the egg whites until soft peaks form and spoon them over the top to create a crisp layer.",
     "Cover the pot and place it in a bain‑marie over a pan of simmering water to finish cooking gently.",
-    "Once the top is golden and firm, remove from heat, garnish with fresh herbs, and serve hot."
+    "Once the top is golden and firm, remove from heat, garnish with fresh herbs, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 60,
@@ -95,5 +96,9 @@
     "mainIngredient": "Turkey",
     "descriptor": "Lemon Crispy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

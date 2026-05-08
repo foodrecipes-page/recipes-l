@@ -104,7 +104,8 @@
     "flake the duck into the skillet and stir to combine with the onion mixture.\n",
     "add the aleppo pepper and paprika to the skillet.\n",
     "cook for an additional 2-3 minutes, until the duck is heated through.\n",
-    "serve the duck hash hot, garnished with chopped fresh herbs if desired.\n"
+    "serve the duck hash hot, garnished with chopped fresh herbs if desired.\n",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -143,5 +144,9 @@
     "mainIngredient": "duck",
     "descriptor": "Luxuriantly aerated",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

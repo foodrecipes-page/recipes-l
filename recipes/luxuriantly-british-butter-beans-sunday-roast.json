@@ -87,7 +87,8 @@
     "Garnish with fresh thyme and rosemary, if desired.",
     "Serve immediately, hot and bubbly.",
     "Reheat any leftovers in the oven or on the stovetop before serving.",
-    "Adjust seasoning to taste before serving, if necessary."
+    "Adjust seasoning to taste before serving, if necessary.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 210,
@@ -127,5 +128,9 @@
     "mainIngredient": "butter beans",
     "descriptor": "luxuriantly",
     "dishForm": "Sunday Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

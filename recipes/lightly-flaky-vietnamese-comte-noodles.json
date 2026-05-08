@@ -3,8 +3,7 @@
   "description": "A malty and flaky Vietnamese dish featuring comte cheese, perfect for a cozy meal, with low glycemic ingredients for a healthier option.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "comte",
     "descriptor": "Lightly flaky",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

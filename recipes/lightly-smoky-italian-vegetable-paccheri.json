@@ -4,7 +4,6 @@
   "cuisine": "Italian",
   "diet": [
     "Whole30",
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -74,7 +73,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "italian-food",
     "meal-prep",
     "one-pan",
@@ -104,5 +102,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Lightly Smoky",
     "dishForm": "Paccheri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A resinous, dense, and kid-friendly Japanese dish from Hokkaido featuring potatoes, spherified for a unique texture, making it suitable for a satvik diet.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -95,7 +94,6 @@
     "kid-friendly",
     "satvik",
     "spherified",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -121,5 +119,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "luscious rich",
     "dishForm": "Mochi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

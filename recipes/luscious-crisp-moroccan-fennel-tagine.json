@@ -70,7 +70,8 @@
     "Reduce the heat to low, cover, and let the tagine cook for 30 minutes until the fennel is tender and the flavors meld.",
     "Stir in the toasted almond slivers just before serving to maintain their crunch.",
     "Serve the tagine hot over freshly baked double‑rise bread, or spoon into a traditional tangia pot for an extra rustic touch.",
-    "Garnish with a sprinkle of fresh mint if desired."
+    "Garnish with a sprinkle of fresh mint if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -108,5 +109,9 @@
     "mainIngredient": "Fennel",
     "descriptor": "Luscious Crisp",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

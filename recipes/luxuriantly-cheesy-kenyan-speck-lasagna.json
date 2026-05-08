@@ -3,7 +3,6 @@
   "description": "A tangy and cozy Kenyan dish featuring speck, with a rich cheese pull and deglaze fond, nut-free-friendly for all to enjoy.",
   "cuisine": "Kenyan",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -101,5 +100,9 @@
     "mainIngredient": "speck",
     "descriptor": "luxuriantly cheesy",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

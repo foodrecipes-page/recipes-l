@@ -3,7 +3,6 @@
   "description": "Moist, pillowy, and aromatic Irish dumplings made with plain flour and a hint of whole wheat.",
   "cuisine": "Irish",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -94,5 +93,9 @@
     "mainIngredient": "soda bread",
     "descriptor": "light fluffy",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

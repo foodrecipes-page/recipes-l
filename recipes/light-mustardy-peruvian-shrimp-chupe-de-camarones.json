@@ -2,9 +2,7 @@
   "title": "Light Mustardy Peruvian Shrimp Chupe De Camarones",
   "description": "A light and flavorful Peruvian shrimp stew featuring sumac and a hint of mustard, perfect for a sick day pick me up",
   "cuisine": "Peruvian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "light mustardy",
     "dishForm": "Chupe De Camarones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

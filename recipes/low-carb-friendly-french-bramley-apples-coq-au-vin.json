@@ -99,7 +99,8 @@
     "Reheat leftovers in the oven or on the stovetop, covered with a lid, until heated through.",
     "Let stand for 5 minutes before serving.",
     "Return to oven and bake for 10 minutes, or until hot and bubbly.",
-    "Serve with additional grated cheddar cheese, if desired."
+    "Serve with additional grated cheddar cheese, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -138,5 +139,9 @@
     "mainIngredient": "Bramley Apples",
     "descriptor": "Low-Carb Friendly",
     "dishForm": "Coq Au Vin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

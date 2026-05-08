@@ -3,8 +3,7 @@
   "description": "A tangy and silky Brazilian dish perfect for brunch, featuring mirin and mortar-pestle-pounded spices, made with ayurvedic-tamasic-friendly ingredients.",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -72,7 +71,6 @@
   "tags": [
     "brazilian-cuisine",
     "brunch-recipe",
-    "dairy-free",
     "easy-brunch",
     "gluten-free",
     "one-pan"
@@ -100,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Lightly Spiced",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

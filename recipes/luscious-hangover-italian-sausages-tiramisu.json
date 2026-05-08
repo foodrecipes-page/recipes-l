@@ -2,10 +2,7 @@
   "title": "Luscious Hangover Italian Sausages Tiramisu",
   "description": "Freshest, molten, and carefully crafted Italian dish featuring rich sausages, a tagine-cooked twist, and a gluten-free twist perfect for hangover recovery. Perfect for using up leftover Italian sausages and eggs.",
   "cuisine": "Italian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -104,5 +101,10 @@
     "mainIngredient": "sausages",
     "descriptor": "Luscious Hangover",
     "dishForm": "Tiramis\u00152"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

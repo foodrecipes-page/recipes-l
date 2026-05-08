@@ -61,7 +61,7 @@
     }
   ],
   "instructions": [
-    "In a non\u2011reactive bowl, combine the diced salmon.",
+    "In a non‑reactive bowl, combine the diced salmon.",
     "Pour vinegar, lime, and orange juices over the fish, stirring gently to coat.",
     "Add seaweed salt, pepper, and mix until the fish is evenly coated.",
     "Cover and refrigerate for 30 minutes to cure the fish and allow flavors to meld.",
@@ -72,7 +72,7 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
-  "totalTimeMin": 40,
+  "totalTimeMin": 10,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -108,5 +108,9 @@
     "mainIngredient": "Fish",
     "descriptor": "Light",
     "dishForm": "Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

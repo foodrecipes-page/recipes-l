@@ -2,9 +2,7 @@
   "title": "Lively Dense Ethiopian Chicken Liver Tibs",
   "description": "A dense and earthy Ethiopian dish featuring chicken liver, render-fat, and vegetarian-friendly ingredients, perfect for kids and adults alike, this tibs recipe is a flavorful and nutritious meal option.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "chicken liver",
     "descriptor": "Lively Dense",
     "dishForm": "Tibs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

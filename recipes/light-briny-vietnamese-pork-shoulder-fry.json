@@ -56,7 +56,8 @@
     "add the soy sauce and rice vinegar to the skillet, whisking to combine.",
     "return the pork shoulder to the skillet and cook for an additional 2-3 minutes, until coated in the sauce.",
     "transfer the pork to a cutting board and let rest for 5 minutes.",
-    "slice the pork into thin strips and serve with green onions and fresh cilantro scattered on top."
+    "slice the pork into thin strips and serve with green onions and fresh cilantro scattered on top.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -64,7 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "pork",
     "vietnamese",
@@ -93,5 +93,10 @@
     "mainIngredient": "pork shoulder",
     "descriptor": "light briny",
     "dishForm": "Fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

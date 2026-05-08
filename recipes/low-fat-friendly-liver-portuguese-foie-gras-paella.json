@@ -71,7 +71,8 @@
     "Add the saffron, smoked paprika, cumin powder, salt, and black pepper, and stir to combine.",
     "Add the Spanish rice and green beans, and stir to combine.",
     "Reduce heat to low, cover, and simmer for 20 minutes or until the rice is tender and the liquid has been absorbed.",
-    "Serve hot, garnished with lemon wedges if desired."
+    "Serve hot, garnished with lemon wedges if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -108,5 +109,9 @@
     "mainIngredient": "foie-gras",
     "descriptor": "Low-fat-friendly Liver",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

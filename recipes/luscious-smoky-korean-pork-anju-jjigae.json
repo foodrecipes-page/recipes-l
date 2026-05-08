@@ -2,9 +2,7 @@
   "title": "Luscious Smoky Korean Pork Anju Jjigae",
   "description": "A smoky and snappy Korean dish featuring braeburn apples, this anju jjigae is perfect for a weeknight dinner, and its gluten-free-friendly ingredients make it accessible to all",
   "cuisine": "Korean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -52,7 +50,8 @@
     "Add the minced garlic and grated ginger, and stir to combine",
     "Reduce heat to low and simmer, covered, for 10 minutes",
     "Stir in 1 tablespoon of water to emulsify the sauce",
-    "Serve hot, garnished with green onions and toasted sesame seeds"
+    "Serve hot, garnished with green onions and toasted sesame seeds",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -60,7 +59,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean-food",
     "one-pan",
     "smoky",
@@ -90,5 +88,10 @@
     "mainIngredient": "pork",
     "descriptor": "Luscious Smoky",
     "dishForm": "Anju Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

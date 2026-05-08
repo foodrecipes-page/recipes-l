@@ -81,7 +81,8 @@
     "Add the chicken broth, honey, and lemon juice. Stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "Serve hot, garnished with fresh parsley or cilantro, if desired.",
-    "Refrigerate or freeze any leftovers for up to 3 days."
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -119,5 +120,9 @@
     "mainIngredient": "Hazelnuts",
     "descriptor": "Earthy Crispy",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

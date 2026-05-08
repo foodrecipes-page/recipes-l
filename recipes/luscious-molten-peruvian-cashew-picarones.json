@@ -3,7 +3,6 @@
   "description": "Tangy and molten Peruvian dish featuring cashews, ferment jang, and gluten free friendly ingredients, formed into picarones.",
   "cuisine": "Peruvian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -62,7 +61,6 @@
   "tags": [
     "cashew",
     "dessert",
-    "gluten-free",
     "molten",
     "peruvian",
     "tangy",
@@ -91,5 +89,9 @@
     "mainIngredient": "cashews",
     "descriptor": "Luscious Molten",
     "dishForm": "Picarones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

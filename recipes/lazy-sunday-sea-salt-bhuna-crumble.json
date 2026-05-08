@@ -41,7 +41,8 @@
     "Add chicken and cook until golden brown, about 5 minutes per side.",
     "Stir in onions, cumin, paprika, sea salt, and black pepper. Cook for an additional 10-12 minutes or until slightly caramelized.",
     "Remove chicken from pan and set aside. Reduce remaining liquid to concentrate the flavor.",
-    "Serve hot over a bed of mixed greens or as a side dish with crusty bread."
+    "Serve hot over a bed of mixed greens or as a side dish with crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -72,5 +73,9 @@
     "primaryIngredient": "sea salt",
     "diet": "low-carb",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

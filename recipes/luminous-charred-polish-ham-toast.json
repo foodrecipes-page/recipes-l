@@ -81,11 +81,15 @@
     "mood": "show-off",
     "technique": "toast",
     "primaryIngredient": "serrano ham",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Polish",
     "mainIngredient": "ham",
     "descriptor": "Luminous Charred",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

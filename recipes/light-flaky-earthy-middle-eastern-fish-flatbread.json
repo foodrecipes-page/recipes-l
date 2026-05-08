@@ -3,8 +3,7 @@
   "description": "a delicate and flavorful flatbread topped with a tangy gherkin relish and a sprinkle of sumac.",
   "cuisine": "middle-eastern",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -74,7 +73,6 @@
   "tags": [
     "easy-to-make",
     "fish",
-    "gluten-free",
     "healthy",
     "low-carb",
     "middle-eastern",
@@ -103,5 +101,9 @@
     "mainIngredient": "fish",
     "descriptor": "light flaky earthy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

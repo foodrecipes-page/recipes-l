@@ -2,9 +2,7 @@
   "title": "Lazy Sunday Ethiopian Dried White Corn Pilaf",
   "description": "A salty and velvety Ethiopian dish featuring dried white corn, perfect for a lazy Sunday, made with halal-friendly ingredients and cooked to perfection in an air fryer.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -66,7 +64,8 @@
     "Transfer the corn mixture to the air fryer basket and cook for 20 minutes, stirring every 5 minutes.",
     "After 20 minutes, reduce the air fryer temperature to 300 degrees Fahrenheit and continue cooking for an additional 10 minutes.",
     "Remove the pilaf from the air fryer and stir in the chopped fresh parsley.",
-    "Serve the pilaf hot, garnished with additional parsley if desired."
+    "Serve the pilaf hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 30,
@@ -103,5 +102,10 @@
     "mainIngredient": "dried white corn",
     "descriptor": "lazy sunday",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

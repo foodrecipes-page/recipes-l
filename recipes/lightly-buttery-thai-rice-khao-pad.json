@@ -3,8 +3,7 @@
   "description": "A buttery and flaky Thai dish featuring soured cream and chive dip, made with lamination-puff and ayurvedic-rajasic-friendly ingredients, in the form of khao-pad.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "baked-goods",
-    "gluten-free",
     "lunch-ideas",
     "thai-cuisine",
     "vegetarian-friendly"
@@ -92,5 +90,9 @@
     "mainIngredient": "rice",
     "descriptor": "Lightly Buttery",
     "dishForm": "Khao Pad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

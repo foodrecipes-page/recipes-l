@@ -2,10 +2,7 @@
   "title": "Light Thai Kao Mun Gai",
   "description": "A light and flavorful Thai dish from the Isaan region, made with mixed grains and a variety of spices. This recipe is inspired by the traditional Kao Mun Gai, but is adapted to be a comforting and accessible version for everyday eating.",
   "cuisine": "Thai",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -89,7 +86,8 @@
     "Season the mixture with salt and pepper to taste.",
     "Serve the Kao Mun Gai hot, garnished with chopped cilantro, lime wedges, and chopped scallions if desired.",
     "Note: This recipe makes 4-6 servings and can be stored in the refrigerator for up to 3 days or frozen for up to 2 months.",
-    "To reheat, simply add a little water to the mixture and cook over low heat until warmed through."
+    "To reheat, simply add a little water to the mixture and cook over low heat until warmed through.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -98,10 +96,8 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "thaifood",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -127,5 +123,11 @@
     "mainIngredient": "grain",
     "descriptor": "light",
     "dishForm": "Kao Mun Gai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

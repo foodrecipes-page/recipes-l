@@ -66,7 +66,8 @@
     "Stir in the Branston pickle and season with salt and pepper to taste.",
     "Remove from heat and let the stew sit for 5 minutes to thicken.",
     "Serve hot, optionally garnishing with fresh herbs or a drizzle of olive oil.",
-    "Enjoy this hearty, peppery Dutch lentil stew as a comforting dinner."
+    "Enjoy this hearty, peppery Dutch lentil stew as a comforting dinner.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -100,5 +101,9 @@
     "mainIngredient": "lentil",
     "descriptor": "Lively",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

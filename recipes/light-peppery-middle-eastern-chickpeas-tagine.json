@@ -4,8 +4,7 @@
   "cuisine": "Middle Eastern",
   "diet": [
     "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -56,13 +55,13 @@
     },
     {
       "name": "fresh cilantro",
-      "amount": "\u00bc cup",
+      "amount": "¼ cup",
       "notes": "chopped"
     },
     {
       "name": "clotted cream",
       "amount": "2 tbsp",
-      "notes": "optional; replace with coconut cream for dairy\u2011free"
+      "notes": "optional; replace with coconut cream for dairy‑free"
     },
     {
       "name": "salt",
@@ -72,10 +71,10 @@
   ],
   "instructions": [
     "Rinse soaked chickpeas and set aside.",
-    "Heat olive oil in a heavy\u2011bottomed pot or tagine over medium heat. Add diced onion and saut\u00e9 until translucent, about 5 minutes.",
+    "Heat olive oil in a heavy‑bottomed pot or tagine over medium heat. Add diced onion and sauté until translucent, about 5 minutes.",
     "Add minced garlic and cook for 1 minute until fragrant.",
     "Stir in cumin, coriander, smoked paprika, and a pinch of freshly ground black pepper; cook spices for 30 seconds to bloom.",
-    "Add chickpeas, lemon juice, and vegetable broth. Bring to a gentle simmer, cover, and cook 25\u201330 minutes until chickpeas are tender and sauce thickens.",
+    "Add chickpeas, lemon juice, and vegetable broth. Bring to a gentle simmer, cover, and cook 25–30 minutes until chickpeas are tender and sauce thickens.",
     "Stir in clotted cream (or coconut cream), allowing it to warm through but not boil, to retain its silky texture.",
     "Taste and season with salt, adjusting lemon juice if needed; add a pinch of cayenne if extra heat is desired.",
     "Remove from heat, stir in chopped fresh cilantro and a few drops of lemon juice if extra brightness is desired.",
@@ -89,7 +88,6 @@
   "tags": [
     "vegetarian",
     "gluten-free",
-    "dairy-free",
     "tagine",
     "chickpea",
     "peppery"
@@ -117,5 +115,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Light Peppery",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

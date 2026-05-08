@@ -90,11 +90,15 @@
     "mood": "kid-friendly",
     "technique": "katsuramuki-cut",
     "primaryIngredient": "lamb",
-    "diet": "vegetarian",
+    "diet": "vegetarian-friendly",
     "region": null,
     "cuisineAdjective": "Kenyan",
     "mainIngredient": "lamb",
     "descriptor": "Lightly floral",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

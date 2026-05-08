@@ -3,8 +3,7 @@
   "description": "A fresh, snappy, indulgent Indian tofu dal bursting with parsley and aromatic spices, served in a bamboo tray for a rustic touch.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -95,7 +94,6 @@
     "one-pot",
     "quick",
     "tofu-dal",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -121,5 +119,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Lush",
     "dishForm": "Dal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

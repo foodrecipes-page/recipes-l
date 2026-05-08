@@ -2,9 +2,7 @@
   "title": "Lovely Smoky Thai Reblochon Moo Ping",
   "description": "A smoky and snappy Thai dish featuring Reblochon cheese, poached to perfection in an earthenware bowl, with a Mediterranean twist, served in a moo ping form.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +96,9 @@
     "mainIngredient": "Reblochon",
     "descriptor": "Lovely Smoky",
     "dishForm": "Moo Ping"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

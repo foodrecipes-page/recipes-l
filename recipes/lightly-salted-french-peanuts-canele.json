@@ -3,7 +3,6 @@
   "description": "A traditional French dessert from Provence, featuring peanuts and peanut oil, with a delicate touch of salt and a crispy exterior giving way to a pillowy interior. This vegan-friendly version uses a one-pot method to create the perfect canelé.",
   "cuisine": "French",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -61,8 +60,7 @@
     "dessert",
     "european",
     "gluten-free",
-    "plant-based",
-    "vegan"
+    "plant-based"
   ],
   "nutrition": {
     "calories": 320,
@@ -87,5 +85,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Lightly Salted",
     "dishForm": "Canele"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

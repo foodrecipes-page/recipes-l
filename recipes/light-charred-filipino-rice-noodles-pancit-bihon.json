@@ -3,8 +3,7 @@
   "description": "A Whole30-friendly Filipino dish featuring charred and snappy rice noodles, served with a zesty vinaigrette dressing and infused oil.",
   "cuisine": "Filipino",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -74,7 +73,6 @@
   "tags": [
     "easy-meal-prep",
     "filipino-food",
-    "gluten-free",
     "one-pan",
     "weeknight-meal",
     "whole30-friendly"
@@ -102,5 +100,9 @@
     "mainIngredient": "rice noodles",
     "descriptor": "light charred",
     "dishForm": "Pancit Bihon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

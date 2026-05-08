@@ -3,8 +3,7 @@
   "description": "A savory and refreshing Malaysian dish featuring sashimi-cut tofu and a glassy jelly texture, made with dijon mustard and vegan-friendly ingredients. This dish is perfect for a light and healthy meal.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -61,11 +60,10 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "high-protein",
     "malaysian-inspired",
     "one-bowl",
@@ -95,5 +93,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Light Luxurious",
     "dishForm": "Poke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

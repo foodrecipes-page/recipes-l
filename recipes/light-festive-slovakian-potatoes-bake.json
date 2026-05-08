@@ -2,9 +2,7 @@
   "title": "Light Festive Slovakian Potatoes Bake",
   "description": "A traditional Slovakian dish featuring fermented potatoes, baked in the oven for a light and festive twist. Perfect for a cold winter evening.",
   "cuisine": "Slovakian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "festive",
     "one-pan",
     "slovakian",
@@ -91,5 +88,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "light festive",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

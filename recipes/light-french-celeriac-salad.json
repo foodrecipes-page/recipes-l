@@ -75,11 +75,15 @@
     "mood": "indulgent",
     "technique": "dum",
     "primaryIngredient": "celeriac",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "French",
     "mainIngredient": "celeriac",
     "descriptor": "Light",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

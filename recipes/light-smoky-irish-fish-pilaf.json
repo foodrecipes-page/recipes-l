@@ -3,8 +3,7 @@
   "description": "A silky, light take on traditional Irish cuisine, featuring smoky flavors and anti-inflammatory-friendly ingredients.",
   "cuisine": "irish",
   "diet": [
-    "gluten-free",
-    "pescatarian"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -65,7 +64,8 @@
     "Cook for 6 minutes at high pressure.",
     "Let the pressure release naturally for 10 minutes.",
     "Stir in the fresh parsley and lemon juice.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -78,7 +78,6 @@
     "irish",
     "jasmine-rice",
     "one-pan",
-    "pescatarian",
     "pressure-cooker",
     "smoky"
   ],
@@ -105,5 +104,10 @@
     "mainIngredient": "fish",
     "descriptor": "Light Smoky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

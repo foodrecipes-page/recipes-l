@@ -3,9 +3,7 @@
   "description": "A winey, molten, romantic Slovakian dish featuring pineapple, brine-dry, diabetic-friendly.",
   "cuisine": "Slovakian",
   "diet": [
-    "diabetic",
-    "vegan",
-    "gluten-free"
+    "diabetic"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -88,10 +86,8 @@
   "tags": [
     "dessert",
     "diabetic",
-    "gluten-free",
     "one-pan",
-    "romantic",
-    "vegan"
+    "romantic"
   ],
   "nutrition": {
     "calories": 320,
@@ -116,5 +112,10 @@
     "mainIngredient": "Pineapple",
     "descriptor": "Luscious Brine-Dry",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

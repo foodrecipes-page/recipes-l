@@ -2,9 +2,7 @@
   "title": "Luscious Creamy Syrian Kombu Stew",
   "description": "A savory, creamy, lazy-sunday stew that blends fermented kombu with chickpeas and coconut milk for a comforting Syrian-inspired dish.",
   "cuisine": "Syrian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -80,8 +78,7 @@
     "creamy",
     "kombu",
     "lazy-sunday",
-    "syrian",
-    "vegan"
+    "syrian"
   ],
   "nutrition": {
     "calories": 425,
@@ -106,5 +103,9 @@
     "mainIngredient": "kombu",
     "descriptor": "Luscious Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

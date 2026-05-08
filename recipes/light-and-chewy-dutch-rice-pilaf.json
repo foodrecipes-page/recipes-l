@@ -71,7 +71,8 @@
     "Reduce the heat to low and cover the saucepan with a lid.",
     "Simmer for 18-20 minutes until the liquid is absorbed and the rice is tender.",
     "Fluff the rice with a fork and stir in the lemon juice and salt and pepper to taste.",
-    "Garnish with fresh parsley and serve hot."
+    "Garnish with fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -108,5 +109,9 @@
     "mainIngredient": "rice",
     "descriptor": "light and chewy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

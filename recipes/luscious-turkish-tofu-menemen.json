@@ -101,11 +101,15 @@
     "mood": "romantic",
     "technique": "clay-pot-cook",
     "primaryIngredient": "vegan white wine vinegar",
-    "diet": "nut-free",
+    "diet": "vegan",
     "region": null,
     "cuisineAdjective": "Turkish",
     "mainIngredient": "tofu",
     "descriptor": "Luscious",
     "dishForm": "Menemen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

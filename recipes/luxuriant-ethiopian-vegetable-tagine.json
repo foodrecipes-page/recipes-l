@@ -91,11 +91,15 @@
     "mood": "indulgent",
     "technique": "double-fry-kfc",
     "primaryIngredient": "vegetable stock",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Ethiopian",
     "mainIngredient": "vegetables",
     "descriptor": "luxuriant double fried",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

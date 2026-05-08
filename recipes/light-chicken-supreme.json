@@ -59,7 +59,8 @@
     "Add chicken strips, salt, pepper, thyme, cayenne pepper to the pan. Stir well and cook for an additional 2-3 minutes or until coated with sauce.",
     "Pour in chicken broth, cover and simmer on low heat for about 10 minutes.",
     "Reduce heat to medium-low, add white wine, heavy cream and bring mixture to a boil then reduce to a simmer. Let it thicken slightly, stirring occasionally.",
-    "Serve hot as is or garnish with fresh herbs like parsley or cilantro."
+    "Serve hot as is or garnish with fresh herbs like parsley or cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -90,5 +91,9 @@
     "primaryIngredient": "chicken breast",
     "diet": "nut-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

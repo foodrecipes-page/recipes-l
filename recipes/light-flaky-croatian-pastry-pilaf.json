@@ -3,7 +3,6 @@
   "description": "A traditional Croatian dish featuring flaky pastry and a savory pilaf, perfect for a hangover cure. This version is dairy-free friendly and packed with umami flavor.",
   "cuisine": "Croatian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast-idea",
-    "dairy-free",
     "flaky-pastry",
     "hangover-cure",
     "umami-rich",
@@ -93,5 +91,9 @@
     "mainIngredient": "pastry",
     "descriptor": "light flaky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

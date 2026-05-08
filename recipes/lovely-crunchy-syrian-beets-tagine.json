@@ -2,10 +2,7 @@
   "title": "Lovely Crunchy Syrian beets Tagine",
   "description": "Umami, crunchy, energizing Syrian dish featuring beets, shio-cure, and halal-friendly ingredients.",
   "cuisine": "Syrian",
-  "diet": [
-    "halal",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -117,5 +114,10 @@
     "mainIngredient": "beets",
     "descriptor": "Lovely Crunchy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-halal"
+  ]
 }

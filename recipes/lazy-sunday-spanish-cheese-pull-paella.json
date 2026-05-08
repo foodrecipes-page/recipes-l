@@ -19,7 +19,8 @@
     "add chicken broth, 1 cup at a time, until rice is cooked and liquid is absorbed",
     "stir in diced tomatoes and shredded cheese until melted and creamy",
     "stir in chopped olives and cook for 1-2 minutes",
-    "transfer paella to a warm serving plate and let rest for 5 minutes before serving"
+    "transfer paella to a warm serving plate and let rest for 5 minutes before serving",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -57,5 +58,9 @@
     "mainIngredient": "cheese-pull",
     "descriptor": "lazy-sunday",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -54,7 +54,8 @@
     "Remove chicken from skillet and set aside. Pour out any remaining fat from the skillet and wipe clean or add new oil if needed.",
     "Add red onion and jalapeno to the skillet. Cook for another minute before adding cilantro. Stir in lime juice. Sauté until onions become translucent, about 2-3 minutes more.",
     "Return chicken to the skillet with the vegetables, toss gently. Remove from heat.",
-    "Divide lettuce leaves on plates or bowls. Spoon chicken mixture over the top. Drizzle with extra lime juice and additional olive oil if desired."
+    "Divide lettuce leaves on plates or bowls. Spoon chicken mixture over the top. Drizzle with extra lime juice and additional olive oil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Rich Light Show-off",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

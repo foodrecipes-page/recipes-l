@@ -2,9 +2,7 @@
   "title": "Luscious Kenyan Plum Stew",
   "description": "A cozy, creamy stew that blends sweet plum jam with smoky tofu and coconut milk, served in a stone bowl for a rustic touch.",
   "cuisine": "Kenyan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -72,7 +70,6 @@
     "low-garlic",
     "one-pot",
     "rustic",
-    "vegan",
     "warm"
   ],
   "nutrition": {
@@ -98,5 +95,9 @@
     "mainIngredient": "plum",
     "descriptor": "Luscious",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -60,7 +60,8 @@
     "Cover the tagine with the lid and bake for 30 minutes.",
     "Remove the lid and continue baking for an additional 20 minutes, or until the top is charred and crispy.",
     "Remove the tagine from the oven and let it cool for a few minutes.",
-    "Serve the Lovely Moroccan Carrot Kefta Tagine hot, garnished with fresh parsley or cilantro if desired."
+    "Serve the Lovely Moroccan Carrot Kefta Tagine hot, garnished with fresh parsley or cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -98,5 +99,9 @@
     "mainIngredient": "carrots",
     "descriptor": "Low Glycemic Crispy",
     "dishForm": "Kefta Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

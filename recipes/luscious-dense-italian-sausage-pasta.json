@@ -3,8 +3,7 @@
   "description": "A cultured and indulgent Venezuelan dish featuring Italian fennel sausages, this whole30-friendly pasta is cooked to an al-dente finish. The combination of sausage, vegetables, and herbs creates a rich and satisfying flavor profile.",
   "cuisine": "Italian",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "italian-inspired",
     "one-pan",
@@ -95,5 +93,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Luscious Dense",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

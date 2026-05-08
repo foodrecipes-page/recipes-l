@@ -64,7 +64,8 @@
     "Split the sesame seed burger buns in half and toast until lightly browned.",
     "Serve the lamb tagine in the toasted buns.",
     "Garnish with fresh parsley or cilantro, if desired.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -102,5 +103,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Lightly spiced",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -61,7 +61,8 @@
     "Air fry the chicken for 10 minutes, shaking the vessel halfway through.",
     "Add the orange segments to the vessel and continue to air fry for an additional 5 minutes.",
     "Stir in the chopped parsley and mint.",
-    "Serve the tagine hot, garnished with additional parsley and mint if desired."
+    "Serve the tagine hot, garnished with additional parsley and mint if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -98,5 +99,9 @@
     "mainIngredient": "oranges",
     "descriptor": "Lightly Airfried",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Lovely Jamaican Vegetable Stew",
   "description": "A hearty and flavorful stew featuring a rich vegetable stock and a variety of colorful vegetables, perfect for a cozy evening meal.",
   "cuisine": "Jamaican",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -105,5 +102,10 @@
     "mainIngredient": "vegetables",
     "descriptor": "Lightly spiced",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -57,7 +57,8 @@
     "Pour the egg-white mixture into a greased 9x9-inch baking dish.",
     "Bake for 25 minutes, or until the edges are lightly golden brown and the center is set.",
     "Remove from the oven and let cool for 5 minutes.",
-    "Slice into 6-8 squares and serve hot."
+    "Slice into 6-8 squares and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -95,5 +96,9 @@
     "mainIngredient": "Egg White",
     "descriptor": "Lightly Yeasted",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

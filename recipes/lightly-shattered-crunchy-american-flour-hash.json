@@ -53,7 +53,6 @@
   "tags": [
     "ayurvedic",
     "brine-dried",
-    "gluten-free",
     "high-fiber",
     "sattvic"
   ],
@@ -80,5 +79,9 @@
     "mainIngredient": "flour",
     "descriptor": "Lightly Shattered Crunchy",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

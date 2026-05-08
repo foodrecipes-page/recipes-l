@@ -4,8 +4,7 @@
   "cuisine": "algerian",
   "diet": [
     "paleo",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -88,7 +87,6 @@
   "difficulty": "medium",
   "tags": [
     "algerian",
-    "dairy-free",
     "gluten-free",
     "one-pan",
     "paleo",
@@ -118,5 +116,9 @@
     "mainIngredient": "danmuji",
     "descriptor": "light fermented",
     "dishForm": "soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -79,7 +79,8 @@
     "Reduce the heat to low and simmer, covered, for 2 hours, or until the meat is tender. ",
     "Remove the bay leaves and serve the goulash hot, garnished with chopped fresh parsley if desired.",
     "Serve with crusty bread or over egg noodles for a satisfying meal.",
-    "Let the goulash rest for 10 minutes before serving to allow the flavors to meld together."
+    "Let the goulash rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -117,5 +118,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Luscious Smoky",
     "dishForm": "Goulash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

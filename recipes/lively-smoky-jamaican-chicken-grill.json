@@ -55,7 +55,8 @@
     "Lay the marinated chicken pieces on the grill, leaving space between them, and cook for 4 minutes on each side until charred.",
     "Add the bell pepper, onion, and broccoli to the grill, stirring occasionally, for 6 minutes until tender.",
     "Transfer the grilled chicken and veggies to a serving plate.",
-    "Serve hot, optionally garnished with fresh herbs or a squeeze of lime."
+    "Serve hot, optionally garnished with fresh herbs or a squeeze of lime.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -93,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Lively Smoky",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

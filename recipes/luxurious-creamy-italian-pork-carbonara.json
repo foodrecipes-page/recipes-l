@@ -3,7 +3,6 @@
   "description": "A rich and creamy Italian dish featuring pork, salted butter, and shio-koji cure, perfect for a romantic evening, this recipe is raw-friendly and formed into a traditional carbonara style.",
   "cuisine": "Italian",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "dinner",
@@ -62,7 +61,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "italian-food",
     "one-pot",
@@ -92,5 +90,9 @@
     "mainIngredient": "pork",
     "descriptor": "luxurious creamy",
     "dishForm": "Carbonara"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

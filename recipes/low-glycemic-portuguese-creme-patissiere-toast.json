@@ -3,7 +3,6 @@
   "description": "A delicious breakfast or brunch dish rich in cheese-pull and low in sugar, suitable for those watching their blood sugar levels.",
   "cuisine": "portuguese",
   "diet": [
-    "gluten-free",
     "low-carb",
     "dairy-friendly"
   ],
@@ -106,5 +105,9 @@
     "mainIngredient": "creme-patissiere",
     "descriptor": "low-glycemic",
     "dishForm": "toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

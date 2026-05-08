@@ -55,7 +55,8 @@
     "Remove the chicken skewers from the marinade and grill for 5-7 minutes per side.",
     "Brush the chicken skewers with vegetable oil during the last minute of grilling.",
     "Serve the satay hot with your favorite sides.",
-    "Garnish with fresh cilantro or scallions if desired."
+    "Garnish with fresh cilantro or scallions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Lightly aerated",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

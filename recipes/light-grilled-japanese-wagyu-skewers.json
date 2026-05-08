@@ -2,9 +2,7 @@
   "title": "Light Grilled Japanese Wagyu Skewers",
   "description": "A simple and flavorful Japanese dish featuring herbal notes and tender wagyu beef, perfect for a solo dinner",
   "cuisine": "Japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,6 @@
   "servings": 1,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "japanese-cuisine",
     "one-pan",
@@ -87,5 +84,9 @@
     "mainIngredient": "wagyu",
     "descriptor": "light grilled",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

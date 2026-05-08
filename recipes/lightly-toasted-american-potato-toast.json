@@ -82,11 +82,15 @@
     "mood": "show-off",
     "technique": "toast",
     "primaryIngredient": "starch",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "American",
     "mainIngredient": "potatoes",
     "descriptor": "Lightly toasted",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

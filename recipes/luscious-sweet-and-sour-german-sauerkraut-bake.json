@@ -2,9 +2,7 @@
   "title": "Luscious Sweet and Sour German Sauerkraut Bake",
   "description": "A delicious and cozy German-inspired dish featuring sweet chilli sauce, malty, crisp and savory sauerkraut bake, perfect for a chilly evening.",
   "cuisine": "german",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "sauerkraut",
     "descriptor": "Luscious Sweet and Sour",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

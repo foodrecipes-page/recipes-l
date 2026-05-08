@@ -4,7 +4,6 @@
   "cuisine": "American",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "sattvic"
   ],
   "meal": "dinner",
@@ -113,5 +112,9 @@
     "mainIngredient": "broccoli",
     "descriptor": "light citrusy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

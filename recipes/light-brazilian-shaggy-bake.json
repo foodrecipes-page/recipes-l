@@ -103,7 +103,6 @@
     "breakfast",
     "gluten-free",
     "shojin",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -129,5 +128,9 @@
     "mainIngredient": "Shaggy",
     "descriptor": "Light",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

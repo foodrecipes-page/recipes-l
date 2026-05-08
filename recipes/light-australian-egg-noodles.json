@@ -2,10 +2,7 @@
   "title": "Light Australian Egg Noodles",
   "description": "A pungent and light Australian dish featuring egg noodles, perfect for a hangover cure, made without onion or garlic for a friendly option.",
   "cuisine": "Australian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -63,7 +60,8 @@
     "Stir the egg mixture into the skillet with the green beans and cook until the eggs are scrambled.",
     "Drain the cooked egg noodles and add them to the skillet, stirring to combine with the egg and green bean mixture.",
     "Deglaze the saucepan with a little bit of water to remove any stuck noodles, then add the deglazed liquid to the skillet.",
-    "Serve the light Australian egg noodles hot, garnished with additional grated ginger if desired."
+    "Serve the light Australian egg noodles hot, garnished with additional grated ginger if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -72,7 +70,6 @@
   "difficulty": "easy",
   "tags": [
     "easy-meal",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vegetarian-friendly",
@@ -101,5 +98,11 @@
     "mainIngredient": "egg noodles",
     "descriptor": "Light Restorative",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

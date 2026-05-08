@@ -79,7 +79,8 @@
     "Season with salt, black pepper, and additional fennel seeds if desired.",
     "Transfer the stew to the preheated oven and braise for 20-25 minutes, until the vegetables are tender.",
     "Garnish with fresh parsley and a dollop of Greek yogurt, if desired.",
-    "Serve hot, with additional yogurt and fennel seeds on the side, if desired."
+    "Serve hot, with additional yogurt and fennel seeds on the side, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -114,5 +115,9 @@
     "mainIngredient": "fennel",
     "descriptor": "light festive",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A traditional Kyushu-style katsudon made with low-glycemic ingredients, featuring shoyu-koji and a soffritto base.",
   "cuisine": "Japanese",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -87,7 +86,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "japanese",
     "low-glycemic",
     "one-pan",
@@ -116,5 +114,9 @@
     "mainIngredient": "pork",
     "descriptor": "Low-Glycemic Luscious",
     "dishForm": "Katsudon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

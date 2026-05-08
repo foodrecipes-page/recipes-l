@@ -3,8 +3,7 @@
   "description": "A savory, light festive Ethiopian dish featuring tagliatelle made with a low-fat sauce thats quick to prepare and cook.",
   "cuisine": "Ethiopian",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -55,7 +54,7 @@
   ],
   "instructions": [
     "Heat almond oil in a large pot over medium heat.",
-    "Add minced garlic and saut\u00e9 for about 1 minute until fragrant.",
+    "Add minced garlic and sauté for about 1 minute until fragrant.",
     "Stir in chili powder, turmeric, tomato paste, water, milk or almond milk, and canned tomatoes. Bring to a boil.",
     "Reduce heat to low, cover, and let simmer for about 20 minutes, stirring occasionally.",
     "Mix in green onions and shredded mozzarella cheese until melted and smooth.",
@@ -70,7 +69,6 @@
     "tagliatelle",
     "ethiopian",
     "low-fat",
-    "vegan",
     "savory",
     "light",
     "festive"
@@ -94,5 +92,9 @@
     "primaryIngredient": "tagliatelle",
     "diet": "low-fat",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

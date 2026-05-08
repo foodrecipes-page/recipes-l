@@ -85,8 +85,7 @@
     "comfort-food",
     "gluten-free",
     "irish",
-    "meal-prep",
-    "vegan"
+    "meal-prep"
   ],
   "nutrition": {
     "calories": 420,
@@ -111,5 +110,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "lovely long-cooked",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

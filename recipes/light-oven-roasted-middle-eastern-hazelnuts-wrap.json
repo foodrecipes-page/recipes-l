@@ -3,7 +3,6 @@
   "description": "A quick-fix savory Middle-Eastern dish featuring oven-roasted hazelnuts and a high-protein ssam-wrap.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
     "vegetarian",
     "vegan"
   ],
@@ -92,5 +91,9 @@
     "mainIngredient": "hazelnuts",
     "descriptor": "Light Oven-Roasted",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

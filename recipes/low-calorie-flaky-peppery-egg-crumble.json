@@ -3,8 +3,7 @@
   "description": "A comforting Russian dish featuring egg, spices, and a flaky texture that is low in calories and perfect for breakfast or snack time.",
   "cuisine": "Russian",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "snack",
   "ingredients": [
@@ -76,5 +75,9 @@
     "mainIngredient": "egg",
     "descriptor": "Peppery Flaky Low Calorie",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

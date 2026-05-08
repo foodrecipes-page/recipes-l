@@ -2,9 +2,7 @@
   "title": "Lemony Portuguese Oats Soup",
   "description": "A creamy, citrusy soup that showcases Portuguese flavor with porridge oats and a smooth pasta‑water emulsion, egg‑free and vegan.",
   "cuisine": "Portuguese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -121,5 +119,9 @@
     "mainIngredient": "oats",
     "descriptor": "Lemony",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

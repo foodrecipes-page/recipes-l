@@ -4,7 +4,6 @@
   "cuisine": "Japanese",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "Ayurveda-friendly"
   ],
   "meal": "lunch",
@@ -56,5 +55,9 @@
     "mainIngredient": "noodle",
     "descriptor": "light blanch",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -60,7 +60,8 @@
     "Gradually add the chicken broth, stirring constantly to prevent lumps.",
     "Bring the mixture to a boil, then cover the dish with aluminum foil and transfer it to the preheated oven.",
     "Bake for 25-30 minutes, or until the liquid has been absorbed and the cornmeal is tender.",
-    "Remove the dish from the oven and stir in the chopped fresh parsley."
+    "Remove the dish from the oven and stir in the chopped fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -98,5 +99,9 @@
     "mainIngredient": "cornmeal",
     "descriptor": "light low fat",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

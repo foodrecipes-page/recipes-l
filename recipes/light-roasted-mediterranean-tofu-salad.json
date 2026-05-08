@@ -63,11 +63,15 @@
     "mood": "brunch-mood",
     "technique": "pickle",
     "primaryIngredient": "silken tofu",
-    "diet": "kosher",
+    "diet": "koshers",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "Tofu",
     "descriptor": "Light Roasted",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

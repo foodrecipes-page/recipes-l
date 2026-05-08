@@ -2,9 +2,7 @@
   "title": "Lush Egyptian Lentils Curry",
   "description": "A fragrant, airy lentil curry with a smoky lard base, aromatic tadka, served warm from a copper mug, perfect for a tranquil date night.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -111,5 +109,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Lush",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

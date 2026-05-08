@@ -77,7 +77,8 @@
     "Add the soba noodles, soy sauce, sake, and pickled mustard greens. Stir to combine.",
     "Add the garlic and ginger. Cook for an additional 1-2 minutes, or until the noodles are well coated with the sauce.",
     "Season with salt-free seasoning blend to taste.",
-    "Serve hot, garnished with additional scallions if desired."
+    "Serve hot, garnished with additional scallions if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -114,5 +115,9 @@
     "mainIngredient": "molten",
     "descriptor": "low-temperature",
     "dishForm": "stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

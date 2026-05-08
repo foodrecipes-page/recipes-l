@@ -3,8 +3,7 @@
   "description": "A dense and bitter Malaysian chicken curry featuring beer, perfect for a sick day, made with ayurvedic-sattvic-friendly ingredients and a mortar-pestle-pound method.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -58,7 +57,8 @@
     "Add the beer to the pan and bring to a boil.",
     "Reduce the heat to low and simmer for 20 minutes.",
     "Stir in the coconut milk and continue to simmer for 10 minutes.",
-    "Serve the curry hot over rice or with naan bread."
+    "Serve the curry hot over rice or with naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +95,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Luscious Dense",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

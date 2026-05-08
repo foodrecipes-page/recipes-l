@@ -2,9 +2,7 @@
   "title": "Lovely Sweet Spanish Chorizo Tacos",
   "description": "A sweet and savory Spanish dish featuring chorizo, marmite, and candy, perfect for a brunch mood, this recipe is gluten free friendly and has a unique blend of mustardy and bouncy qq textures.",
   "cuisine": "Spanish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
   "difficulty": "medium",
   "tags": [
     "brunch-ideas",
-    "gluten-free",
     "meat-lovers",
     "spanish-food",
     "unique-recipes"
@@ -90,5 +87,9 @@
     "mainIngredient": "chorizo",
     "descriptor": "Lovely sweet",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

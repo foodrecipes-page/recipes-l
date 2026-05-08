@@ -50,7 +50,9 @@
     "Cook the dumplings for 10 minutes, or until they float to the surface.",
     "While the dumplings are cooking, melt the butter in a small saucepan over medium heat, then add the white wine, scraping up any browned bits from the bottom of the pan.",
     "After the dumplings have cooked, use a slotted spoon to remove them from the pot, then add the deglaze fond to the pot and stir to combine.",
-    "Serve the dumplings hot, topped with the deglaze fond and chopped parsley."
+    "Serve the dumplings hot, topped with the deglaze fond and chopped parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -88,5 +90,10 @@
     "mainIngredient": "pork",
     "descriptor": "light pillowy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

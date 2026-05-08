@@ -3,7 +3,6 @@
   "description": "A refreshing post-workout dish featuring tender pork chops and a vibrant mix of vegetables, prepared in a light, vegan-friendly sauce that suits both mild and spicy tastes.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegan",
     "flexitarian"
   ],
   "meal": "lunch",
@@ -83,5 +82,9 @@
     "mainIngredient": "pork",
     "descriptor": "Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

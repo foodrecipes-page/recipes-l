@@ -2,9 +2,7 @@
   "title": "Luxuriantly Roasted Turkish Fish Stew",
   "description": "A rich and flavorful Turkish fish stew made with roasted ingredients and served in a kadhai, perfect for a date night dinner",
   "cuisine": "Turkish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -111,5 +109,9 @@
     "mainIngredient": "fish",
     "descriptor": "Luxuriantly roasted",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

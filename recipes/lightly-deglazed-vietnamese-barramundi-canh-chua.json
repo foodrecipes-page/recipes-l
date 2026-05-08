@@ -3,7 +3,6 @@
   "description": "A post-workout Vietnamese dish featuring barramundi, deglazed for a creamy, funky taste, suitable for dairy-free diets",
   "cuisine": "vietnamese",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -77,7 +76,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "high-protein",
     "one-pan",
     "vietnamese",
@@ -106,5 +104,9 @@
     "mainIngredient": "barramundi",
     "descriptor": "Lightly Deglazed",
     "dishForm": "Canh Chua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

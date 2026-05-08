@@ -57,7 +57,8 @@
     "Brush the skewers with olive oil and grill for 10-12 minutes, turning occasionally.",
     "After 5 minutes of grilling, add the minced garlic to the skewers and continue grilling.",
     "Remove the skewers from the grill and let rest for 2 minutes before serving.",
-    "Serve the skewers hot, garnished with fresh parsley if desired."
+    "Serve the skewers hot, garnished with fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -94,5 +95,9 @@
     "mainIngredient": "peppers",
     "descriptor": "Luscious Smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

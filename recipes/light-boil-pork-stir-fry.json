@@ -2,9 +2,7 @@
   "title": "Light Boil Pork Stir-fry",
   "description": "A quick-fix Chinese dish featuring ground pork and a light broth for vegetarians or those following a pescatarian diet.",
   "cuisine": "Chinese",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -47,7 +45,8 @@
     "Heat a pan over medium heat, add vegetable broth base and ground pork, cook until pork is lightly browned.",
     "Add minced garlic and stir for about 30 seconds, then mix in oyster sauce or hoisin sauce (if used), soy sauce, and cornstarch slurry.",
     "Stir continuously to prevent clumping of ingredients. Bring to a simmer and let the mixture thicken slightly.",
-    "Remove from heat once the broth has thickened as desired, stir in finely chopped green onions before serving."
+    "Remove from heat once the broth has thickened as desired, stir in finely chopped green onions before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 10,
@@ -82,5 +81,10 @@
     "mainIngredient": "pork",
     "descriptor": "Boil Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-pork_no_temp"
+  ]
 }

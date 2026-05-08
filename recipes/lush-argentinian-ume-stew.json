@@ -3,7 +3,6 @@
   "description": "A fragrant, velvety stew that blends fermented ume with Asian miso and Argentine herbs, delivering a gentle energy boost while staying shojin-friendly.",
   "cuisine": "Argentinian",
   "diet": [
-    "vegan",
     "shojin-friendly"
   ],
   "meal": "lunch",
@@ -80,7 +79,6 @@
     "herbal",
     "low-fat",
     "shojin-friendly",
-    "vegan",
     "velvet"
   ],
   "nutrition": {
@@ -106,5 +104,9 @@
     "mainIngredient": "Ume",
     "descriptor": "Lush",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

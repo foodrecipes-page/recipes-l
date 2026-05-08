@@ -68,7 +68,8 @@
     "To assemble the bento box, place a portion of the fried turkey necks on the bottom, followed by a scoop of the Arroz Amarillo, a sprinkle of the yuca and plantain chip mixture, and a drizzle of sour orange juice if using.",
     "Garnish with chopped cilantro and serve immediately.",
     "Season with salt and black pepper to taste.",
-    "Serve in individual bento boxes for a fun and easy meal."
+    "Serve in individual bento boxes for a fun and easy meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -105,5 +106,9 @@
     "mainIngredient": "turkey neck",
     "descriptor": "light",
     "dishForm": "bento-box"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

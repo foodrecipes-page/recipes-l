@@ -2,10 +2,7 @@
   "title": "Luscious Savory Marmite Bake Ramekin",
   "description": "A rich, savory ramekin featuring Marmite, perfect for adventurous American palates. This dish is ideal for a weeknight dinner or a special occasion.",
   "cuisine": "American",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -71,8 +68,6 @@
   "servings": 1,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -100,5 +95,10 @@
     "mainIngredient": "marmite",
     "descriptor": "luscious savory",
     "dishForm": "baked"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

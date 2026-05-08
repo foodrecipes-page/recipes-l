@@ -3,7 +3,6 @@
   "description": "A traditional Kenyan dish featuring fermented rice flour pancakes, perfect for a light and indulgent breakfast or snack. These gluten-free friendly pancakes are slow-cooked to perfection.",
   "cuisine": "Kenyan",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "kenyan-cuisine",
-    "gluten-free",
     "breakfast-ideas",
     "pancake-recipes"
   ],
@@ -89,5 +87,9 @@
     "mainIngredient": "rice flour",
     "descriptor": "light indulgent",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

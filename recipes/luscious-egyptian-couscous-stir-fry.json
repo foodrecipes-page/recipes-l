@@ -54,7 +54,8 @@
     "Sprinkle the spice blend over the mixture, tossing to coat evenly.",
     "Add the tamari sauce, lemon juice, and grated parmesan, stirring until the cheese melts and the flavors meld.",
     "Gently fold in the steamed couscous, ensuring all components are well combined and heated through.",
-    "Taste and adjust seasoning with extra lemon or tamari if desired, then serve hot."
+    "Taste and adjust seasoning with extra lemon or tamari if desired, then serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -93,5 +94,9 @@
     "mainIngredient": "couscous",
     "descriptor": "Luscious",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

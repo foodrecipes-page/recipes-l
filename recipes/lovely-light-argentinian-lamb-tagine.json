@@ -55,7 +55,8 @@
     "Add the paprika, salt, black pepper, and ground nutmeg, and stir to combine",
     "Pour in the chicken broth and bring the mixture to a simmer",
     "Cover the tagine and transfer it to the oven, where it will cook for 1 1/2 hours",
-    "Remove the tagine from the oven and let it cool slightly before serving"
+    "Remove the tagine from the oven and let it cool slightly before serving",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -93,5 +94,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Lovely Light",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

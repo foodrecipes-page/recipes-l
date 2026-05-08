@@ -80,7 +80,6 @@
   "tags": [
     "buddhist-friendly",
     "dessert",
-    "gluten-free",
     "meal-prep",
     "moroccan",
     "savory-sweet",
@@ -109,5 +108,9 @@
     "mainIngredient": "Chickpeas",
     "descriptor": "Lively Crispy",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

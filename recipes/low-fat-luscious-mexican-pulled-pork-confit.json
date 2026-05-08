@@ -57,7 +57,9 @@
     "Transfer the pot to the preheated oven and braise the pork for 2 1/2 hours, or until tender and easily shredded with a fork.",
     "Stir in the coconut milk and bring the pot to a simmer on the stovetop.",
     "Shred the pork with two forks and stir to coat with the confit sauce.",
-    "Serve the pulled pork in small containers (about 1 cup each) in a bento box with your choice of sides."
+    "Serve the pulled pork in small containers (about 1 cup each) in a bento box with your choice of sides.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 160,
@@ -95,5 +97,10 @@
     "mainIngredient": "pulled pork",
     "descriptor": "low-fat luscious",
     "dishForm": "confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

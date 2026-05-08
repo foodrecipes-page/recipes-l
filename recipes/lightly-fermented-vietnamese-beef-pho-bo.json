@@ -3,7 +3,6 @@
   "description": "A fermented, tender, and energizing Vietnamese dish featuring treacle and an al-dente finish, with Mediterranean-friendly flavors, in the form of pho bo.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -109,5 +108,9 @@
     "mainIngredient": "beef",
     "descriptor": "Lightly Fermented",
     "dishForm": "Pho Bo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

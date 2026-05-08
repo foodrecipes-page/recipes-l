@@ -3,7 +3,6 @@
   "description": "An adventurous Argentinian dish featuring roasted soy milk nuts and other low-calorie-friendly ingredients for a light and nutritious meal.",
   "cuisine": "Argentine",
   "diet": [
-    "vegan",
     "lactose-free"
   ],
   "meal": "snack",
@@ -74,5 +73,9 @@
     "mainIngredient": "nuts",
     "descriptor": "Nutty Light Roasted",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

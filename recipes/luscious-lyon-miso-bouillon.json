@@ -62,7 +62,8 @@
     "Stir in the heavy cream and let cook for an additional 5 minutes or until the cream has thickened slightly.",
     "Remove from heat and stir in the unsalted butter until melted.",
     "Strain the soup through a fine-mesh sieve into a clean copper mug and discard the solids.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -100,5 +101,9 @@
     "mainIngredient": "miso",
     "descriptor": "Luscious Lyon",
     "dishForm": "Bouillon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

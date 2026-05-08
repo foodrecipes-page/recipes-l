@@ -65,8 +65,7 @@
   "difficulty": "easy",
   "tags": [
     "one-pan",
-    "raw-friendly",
-    "vegan"
+    "raw-friendly"
   ],
   "nutrition": {
     "calories": 220,
@@ -91,5 +90,9 @@
     "mainIngredient": "saskatoon berries",
     "descriptor": "lacquer-glazed",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

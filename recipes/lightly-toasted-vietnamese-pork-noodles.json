@@ -61,7 +61,8 @@
     "Stir in the toasted cumin seeds, salt, and black pepper.",
     "Drain the cooked noodles and add them to the skillet, tossing to combine with the pork and bean sprouts.",
     "Transfer the noodle mixture to a serving bowl and top with chopped cilantro.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "pork",
     "descriptor": "Lightly toasted",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

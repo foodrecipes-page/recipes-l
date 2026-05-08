@@ -42,7 +42,8 @@
     "Pulse Branston Pickle, mayo, and optional citrus zest in a mortar-pestle until crumbly.",
     "Mix in hummus and rinsed lentils with a few drops of olive oil for texture and flavor.",
     "Season with salt to taste.",
-    "Serve immediately over mixed greens for an energizing breakfast or snack."
+    "Serve immediately over mixed greens for an energizing breakfast or snack.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -78,5 +79,9 @@
     "mainIngredient": "Branston-Pickle",
     "descriptor": "Lacto-Vegetarian-Friendly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

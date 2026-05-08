@@ -3,8 +3,7 @@
   "description": "A kid-friendly Mediterranean dish featuring lamb kebabs with a creamy plum sauce, perfect for a family dinner.",
   "cuisine": "Mediterranean",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Luscious Creamy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

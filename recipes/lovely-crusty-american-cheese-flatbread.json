@@ -2,9 +2,7 @@
   "title": "Lovely Crusty American Cheese Flatbread",
   "description": "A crowd-pleasing, vegan-friendly American dish featuring crusty bread and a cheese pull, perfect for a snack or light meal. This floral-inspired flatbread is boiled and then baked to create a crispy crust.",
   "cuisine": "American",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -66,8 +64,7 @@
     "crowd-pleaser",
     "crusty-bread",
     "flatbread",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 250,
@@ -92,5 +89,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Lovely crusty",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A rich and flavorful Vietnamese beef stew made with passata and deglaze fond, perfect for a solo dinner, and sugar free friendly.",
   "cuisine": "Vietnamese",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "beef",
     "descriptor": "luxurious sweet",
     "dishForm": "Bo Kho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

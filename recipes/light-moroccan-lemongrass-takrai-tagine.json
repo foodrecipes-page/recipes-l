@@ -69,7 +69,8 @@
     "Add the chicken breast and cook until browned, about 5-7 minutes.",
     "Add the lemongrass and takrai, and stir to combine.",
     "Reduce heat to low and simmer, covered, for 15 minutes.",
-    "Garnish with chopped parsley and serve."
+    "Garnish with chopped parsley and serve.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -109,5 +110,9 @@
     "mainIngredient": "Lemongrass-Takrai",
     "descriptor": "Light",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Cozy Earthy Lightly Spiced Saudi Fish Stir-fry",
   "description": "A light and earthy vegan-friendly dish featuring fish seasoning in a quick stir-fry that's perfect for any meal.",
   "cuisine": "Saudi",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,8 +56,7 @@
     "earthly",
     "light",
     "saudi",
-    "stir-fry",
-    "vegan"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 350,
@@ -84,5 +81,9 @@
     "mainIngredient": "fish",
     "descriptor": "Lightly Spiced",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

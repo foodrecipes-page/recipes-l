@@ -56,7 +56,9 @@
     "Close the lid and cook on high pressure for 20 minutes.",
     "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
     "Stir in the shredded gruyere cheese until melted and smooth.",
-    "Season with salt and pepper to taste."
+    "Season with salt and pepper to taste.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -93,5 +95,10 @@
     "mainIngredient": "pork",
     "descriptor": "luxuriant creamy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

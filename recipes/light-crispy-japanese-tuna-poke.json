@@ -3,8 +3,7 @@
   "description": "A refreshing and light Japanese dish made with sashimi-grade tuna, black olives, and air-fried to perfection. Perfect for a date-night dinner.",
   "cuisine": "Japanese",
   "diet": [
-    "raw-friendly",
-    "gluten-free"
+    "raw-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -103,5 +102,9 @@
     "mainIngredient": "Tuna",
     "descriptor": "Light Crispy",
     "dishForm": "Poke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

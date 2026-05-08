@@ -77,7 +77,8 @@
     "Add the chicken broth and lemon juice, scraping up any browned bits from the bottom of the tava-griddle.",
     "Return the lamb to the tava-griddle and cover with a lid.",
     "Transfer the tava-griddle to the oven and braise the lamb for 2 1/2 hours, or until tender.",
-    "Let the lamb rest for 10 minutes before slicing and serving with labneh cheese and flatbread."
+    "Let the lamb rest for 10 minutes before slicing and serving with labneh cheese and flatbread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 150,
@@ -114,5 +115,9 @@
     "mainIngredient": "lamb",
     "descriptor": "lazy-sunday charred",
     "dishForm": "braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

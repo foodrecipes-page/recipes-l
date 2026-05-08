@@ -58,11 +58,15 @@
     "mood": "comforting",
     "technique": "miso-marinate",
     "primaryIngredient": "buckwheat",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "German",
     "mainIngredient": "buckwheat",
     "descriptor": "lovely earthy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

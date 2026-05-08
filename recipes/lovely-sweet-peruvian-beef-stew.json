@@ -2,9 +2,7 @@
   "title": "Lovely Sweet Peruvian Beef Stew",
   "description": "A sweet and nostalgic Peruvian dish featuring tender beef in a rich and flavorful broth, made with unsalted beef stock and binchotan-charcoal for a unique smoky flavor",
   "cuisine": "Peruvian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -66,7 +64,6 @@
   "tags": [
     "beef-stew",
     "comfort-food",
-    "gluten-free",
     "peruvian-cuisine",
     "smoky-flavor"
   ],
@@ -93,5 +90,9 @@
     "mainIngredient": "beef",
     "descriptor": "Lovely sweet",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

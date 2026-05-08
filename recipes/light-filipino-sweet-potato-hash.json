@@ -3,8 +3,7 @@
   "description": "A light and earthy Filipino dish featuring sweet potatoes, onions, and a hint of sugar, perfect for a nostalgic breakfast or snack. This low-fat-friendly recipe is easy to make and delicious to eat.",
   "cuisine": "Filipino",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "sweet potatoes",
     "descriptor": "earthy light",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

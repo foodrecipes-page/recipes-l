@@ -3,8 +3,7 @@
   "description": "A lowfat and flavorful Thai dish featuring caramelize onions and ground annatto, served with crispy rice noodles.",
   "cuisine": "Thai",
   "diet": [
-    "lowfat",
-    "vegetarian"
+    "lowfat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
     "noodle-dish",
     "one-pan",
     "thai",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -93,5 +91,9 @@
     "mainIngredient": "rice noodles",
     "descriptor": "Lowfat Lovely",
     "dishForm": "Pad See Ew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A roasted, silky midnight-craving dish featuring a dairy‑free, seafood stock risotto steamed to perfection in a bamboo steamer.",
   "cuisine": "Mediterranean",
   "diet": [
-    "dairy-free",
-    "vegetarian"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -127,5 +126,9 @@
     "mainIngredient": "Seafood",
     "descriptor": "Luscious Silky",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

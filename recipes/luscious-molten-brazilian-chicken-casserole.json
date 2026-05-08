@@ -67,7 +67,8 @@
     "Mix well to combine.",
     "Transfer the mixture to a 9x13 inch baking dish.",
     "Bake for 25 minutes or until the cheese is melted and bubbly.",
-    "Remove from the oven and let rest for 5 minutes before serving."
+    "Remove from the oven and let rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -104,5 +105,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Luscious Molten",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

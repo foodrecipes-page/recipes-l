@@ -91,11 +91,15 @@
     "mood": "meal-prep",
     "technique": "roast",
     "primaryIngredient": "chestnut mushroom",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Ethiopian",
     "mainIngredient": "chestnut mushroom",
     "descriptor": "Lovely roasted",
     "dishForm": "Fir Fir"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

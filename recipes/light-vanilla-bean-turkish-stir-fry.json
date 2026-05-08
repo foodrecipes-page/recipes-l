@@ -39,7 +39,8 @@
   "instructions": [
     "Place the chicken breast in a pressure cooker. Add red bell pepper, onion, minced garlic, and Turkish seasoning blend (or salt & black pepper). Pour in water or chicken broth.",
     "Secure the lid of the pressure cooker and cook on high for 5 minutes. Release the steam using the quick release method to avoid overcooking.",
-    "Add vanilla extract before serving for an extra burst of flavor."
+    "Add vanilla extract before serving for an extra burst of flavor.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -76,5 +77,9 @@
     "mainIngredient": "Vanilla Bean",
     "descriptor": "Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

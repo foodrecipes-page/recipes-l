@@ -55,7 +55,8 @@
     "Stir in hot sauce and rum. Continue to stir until the liquid has mostly evaporated.",
     "Taste and adjust seasoning as necessary with additional salt or pepper.",
     "Garnish with chopped bell pepper leaves and a sprinkle of paprika if desired.",
-    "Serve immediately while still warm."
+    "Serve immediately while still warm.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -87,5 +88,9 @@
     "primaryIngredient": "light rum",
     "diet": "keto",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

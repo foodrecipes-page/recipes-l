@@ -57,7 +57,8 @@
     "Add the cooked noodles to the skillet and stir to combine with the pork",
     "Top the noodles with pickled carrots and chopped cilantro",
     "Serve immediately on a wooden board",
-    "Garnish with additional cilantro and lime wedges if desired"
+    "Garnish with additional cilantro and lime wedges if desired",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -95,5 +96,9 @@
     "mainIngredient": "pork",
     "descriptor": "light crunchy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

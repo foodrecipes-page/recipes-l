@@ -3,8 +3,6 @@
   "description": "Sweet and indulgent, this light mediterranean dish is a twist on traditional corned beef recipes. Perfect for a weeknight dinner or weekend brunch.",
   "cuisine": "mediterranean",
   "diet": [
-    "gluten-free",
-    "kosher",
     "halal"
   ],
   "meal": "lunch",
@@ -105,5 +103,10 @@
     "mainIngredient": "Corned beef",
     "descriptor": "Light",
     "dishForm": "Broil"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-kosher"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Light Roasted Norwegian Cashew Nut Stir-fry",
   "description": "A floral and velvety light dish featuring roasted cashew nuts in a halal-friendly stir-fry that highlights the unique flavor of this nut.",
   "cuisine": "Norwegian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -78,5 +76,9 @@
     "mainIngredient": "cashew nuts",
     "descriptor": "light roasted",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A salty, crumbly date‑night Thai dish featuring goose fat and a roasted fish fillet glazed with a fragrant lemongrass and lime paste, pescatarian-friendly and perfect for an intimate dinner.",
   "cuisine": "Thai",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -67,7 +66,8 @@
     "Place the fish fillets on the sheet and spread the aromatic paste on top of each fillet.",
     "Roast for 20 minutes until the fish flakes easily and the exterior is crisp.",
     "Let the fish rest for 3 minutes before serving.",
-    "Serve with extra lime wedges and a sprinkle of fresh cilantro."
+    "Serve with extra lime wedges and a sprinkle of fresh cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -78,7 +78,6 @@
     "date-night",
     "gluten-free",
     "one-pan",
-    "pescatarian",
     "salty",
     "thai"
   ],
@@ -105,5 +104,10 @@
     "mainIngredient": "fish",
     "descriptor": "Laced",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

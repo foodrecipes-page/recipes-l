@@ -88,7 +88,8 @@
     "While the chicken steams, toss quinoa with lemon zest, lemon juice, tamarind paste, and a drizzle of olive oil.",
     "In a skillet, heat the remaining olive oil and briefly sauté the bell pepper until crisp.",
     "Arrange the quinoa base in a Korean brass bowl, top with steamed chicken, sautéed bell pepper, shredded cabbage, and fresh mint.",
-    "Serve immediately, ensuring the chicken remains wrapped for extra moisture and flavor."
+    "Serve immediately, ensuring the chicken remains wrapped for extra moisture and flavor.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -126,5 +127,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Lemony Crisp",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

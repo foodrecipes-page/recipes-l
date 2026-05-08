@@ -3,7 +3,6 @@
   "description": "This malty, silky Algerian dish features Polish kabanos sausage and candy, making it an energizing and vegetarian-friendly option.",
   "cuisine": "algerian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -59,5 +58,9 @@
     "mainIngredient": "Kabanos",
     "descriptor": "Lively Silky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

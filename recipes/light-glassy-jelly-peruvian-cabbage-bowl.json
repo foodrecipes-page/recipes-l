@@ -86,7 +86,6 @@
     "cashew",
     "dinner",
     "egg-free-friendly",
-    "gluten-free",
     "high-fiber",
     "low-carb",
     "low-fat",
@@ -118,5 +117,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "light glassy-jelly",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

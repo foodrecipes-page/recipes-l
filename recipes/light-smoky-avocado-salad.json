@@ -3,8 +3,7 @@
   "description": "A kid-friendly Spanish dish featuring ghee for a smoky flavor, perfect for a light and low-carb snack.",
   "cuisine": "Spanish",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -78,5 +77,9 @@
     "mainIngredient": "avocado",
     "descriptor": "Smoky Light",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

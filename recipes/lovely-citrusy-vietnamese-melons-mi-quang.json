@@ -2,9 +2,7 @@
   "title": "Lovely Citrusy Vietnamese Melons Mi Quang",
   "description": "A citrusy and gooey Vietnamese dish featuring melons, perfect for meal prep, wood-fired-bake, and halal-friendly, served in the form of mi quang.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -61,7 +59,8 @@
     "Transfer the mixture to a baking dish and bake for 15 minutes.",
     "Remove the dish from the oven and garnish with chopped cilantro.",
     "Serve hot and enjoy.",
-    "Let it cool completely before refrigerating or freezing for meal prep."
+    "Let it cool completely before refrigerating or freezing for meal prep.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -99,5 +98,10 @@
     "mainIngredient": "melons",
     "descriptor": "Lovely Citrusy",
     "dishForm": "Mi Quang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

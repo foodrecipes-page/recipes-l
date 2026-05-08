@@ -49,14 +49,13 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
-  "totalTimeMin": 80,
+  "totalTimeMin": 35,
   "servings": 6,
   "difficulty": "easy",
   "tags": [
     "gluten-free",
     "no-oil",
-    "sugar-free-optional",
-    "vegan"
+    "sugar-free-optional"
   ],
   "nutrition": {
     "calories": 180,
@@ -81,5 +80,10 @@
     "mainIngredient": "soya milk",
     "descriptor": "Crushed",
     "dishForm": "Panna Cotta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

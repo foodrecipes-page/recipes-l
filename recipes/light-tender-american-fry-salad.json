@@ -4,7 +4,6 @@
   "cuisine": "American",
   "diet": [
     "halal",
-    "vegetarian",
     "vegan-friendly"
   ],
   "meal": "lunch",
@@ -60,7 +59,8 @@
     "In a large bowl, combine the baby lettuce leaves, diced onions, diced tomatoes, and crumbled feta cheese.",
     "In a small bowl, whisk together the balsamic vinaigrette and a pinch of salt and pepper.",
     "Pour the dressing over the salad and toss to coat.",
-    "Top the salad with the roasted fries and sliced chicken."
+    "Top the salad with the roasted fries and sliced chicken.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -98,5 +98,10 @@
     "mainIngredient": "fry",
     "descriptor": "Light Tender",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

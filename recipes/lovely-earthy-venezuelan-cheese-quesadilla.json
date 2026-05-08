@@ -2,9 +2,7 @@
   "title": "Lovely Earthy Venezuelan Cheese Quesadilla",
   "description": "A delicious and energizing Venezuelan dish featuring shredded monterey jack cheese and bonito flakes, perfect for a snack or lunch. This earthy and creamy dish is gluten-free friendly.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -58,7 +56,6 @@
   "difficulty": "easy",
   "tags": [
     "cheesy",
-    "gluten-free",
     "high-protein",
     "latin-american",
     "one-pan",
@@ -87,5 +84,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Lovely Earthy",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

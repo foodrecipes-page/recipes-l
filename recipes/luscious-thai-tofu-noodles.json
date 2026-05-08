@@ -2,9 +2,7 @@
   "title": "Luscious Thai Tofu Noodles",
   "description": "A mustardy, pillowy Thai noodle dish featuring miso-marinated tofu and red chilli powder, nostalgic and satvik-friendly.",
   "cuisine": "Thai",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -75,8 +73,7 @@
     "noodles",
     "plant-based",
     "quick",
-    "thai",
-    "vegan"
+    "thai"
   ],
   "nutrition": {
     "calories": 500,
@@ -101,5 +98,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Luscious",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

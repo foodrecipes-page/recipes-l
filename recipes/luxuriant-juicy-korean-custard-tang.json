@@ -3,7 +3,6 @@
   "description": "A pungent and juicy Korean dish featuring custard, toast, and anti-inflammatory friendly ingredients, traditionally served in the Gyeongsang region as a hangover cure.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -104,5 +103,9 @@
     "mainIngredient": "custard",
     "descriptor": "luxuriant juicy",
     "dishForm": "Tang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "moroccan",
   "diet": [
     null,
-    "vegan",
     null,
     "raw-friendly"
   ],
@@ -56,7 +55,8 @@
     "add the red split lentils, diced tomatoes, and chicken broth.",
     "bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the lentils are tender.",
     "season with salt and pepper to taste.",
-    "serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+    "serve hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -67,7 +67,6 @@
     "high-protein",
     "moroccan",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -93,5 +92,10 @@
     "mainIngredient": "lentils",
     "descriptor": "Luscious",
     "dishForm": "Harira Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

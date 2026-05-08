@@ -64,7 +64,8 @@
     "Add the soaked and drained navy beans, chicken broth, and chopped parsley to the bowl.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes, or until the beans are tender.",
     "Stir in the lemon juice and cook for an additional 2 minutes.",
-    "Serve the tagine hot, garnished with additional parsley if desired."
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -102,5 +103,9 @@
     "mainIngredient": "navy beans",
     "descriptor": "light floral",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

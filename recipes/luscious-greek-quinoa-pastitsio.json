@@ -66,7 +66,8 @@
     "In a saucepan, whisk flour into 200ml low-fat milk, cook over medium until thickened, then stir in 1 tsp instant yeast and salt until dissolved.",
     "Spread the quinoa mixture evenly in a 20x20 cm baking dish, then pour the béchamel over it, smoothing the surface.",
     "Bake for 30 minutes until the top is golden and set; let rest 10 minutes before slicing into 1-cm thick cylinders resembling nigiri.",
-    "Garnish with chopped parsley (optional) before serving."
+    "Garnish with chopped parsley (optional) before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -104,5 +105,9 @@
     "mainIngredient": "Quinoa",
     "descriptor": "Luscious",
     "dishForm": "Pastitsio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

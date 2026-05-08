@@ -80,11 +80,15 @@
     "mood": "energizing",
     "technique": "pickle",
     "primaryIngredient": "kanten-agar",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Peruvian",
     "mainIngredient": "kanten agar",
     "descriptor": "light fluffy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

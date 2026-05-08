@@ -3,8 +3,7 @@
   "description": "A hearty and comforting stew featuring charred goat meat in a rich and creamy sauce, perfect for a hangover cure. This dish is inspired by Venezuelan cuisine and is ayurvedic-sattvic-friendly.",
   "cuisine": "Venezuelan",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "gluten-free",
     "hearty-stew",
     "one-pot",
@@ -104,5 +102,9 @@
     "mainIngredient": "goat meat",
     "descriptor": "lightly charred",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

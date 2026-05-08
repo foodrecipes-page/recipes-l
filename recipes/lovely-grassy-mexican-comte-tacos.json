@@ -3,8 +3,7 @@
   "description": "A high-protein Mexican dish featuring Comte cheese, miso-marinated chicken, and fresh grassy flavors, perfect for a special occasion.",
   "cuisine": "Mexican",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -93,5 +92,9 @@
     "mainIngredient": "Comte",
     "descriptor": "Lovely Grassy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

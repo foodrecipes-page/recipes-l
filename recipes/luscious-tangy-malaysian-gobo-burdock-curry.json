@@ -3,8 +3,7 @@
   "description": "A tangy and gooey Malaysian curry featuring gobo burdock, perfect for a monsoon evening, this dish is egg free and friendly for all to enjoy.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "gobo burdock",
     "descriptor": "Luscious tangy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

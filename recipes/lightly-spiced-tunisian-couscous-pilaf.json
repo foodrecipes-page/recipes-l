@@ -4,7 +4,6 @@
   "cuisine": "Tunisian",
   "diet": [
     "vegan",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -48,7 +47,6 @@
   "tags": [
     "couscous",
     "easy-to-make",
-    "gluten-free",
     "healthy",
     "low-carb",
     "meal-prep",
@@ -78,5 +76,9 @@
     "mainIngredient": "couscous",
     "descriptor": "Lightly spiced",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

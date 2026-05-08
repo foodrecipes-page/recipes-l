@@ -2,10 +2,7 @@
   "title": "Lively Energizing Russian Vermicelli Pasta Pilaf",
   "description": "A hearty, earthy, and energizing Russian dish featuring vermicelli pasta, cure, and no high FODMAP ingredients. Cooked in a tagine pot for a rich and comforting flavor.",
   "cuisine": "Russian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -103,5 +100,10 @@
     "mainIngredient": "vermicelli pasta",
     "descriptor": "Lively energizing",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

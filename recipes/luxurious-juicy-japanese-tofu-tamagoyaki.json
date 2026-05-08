@@ -2,9 +2,7 @@
   "title": "Luxurious Juicy Japanese Tofu Tamagoyaki",
   "description": "A peppery and juicy Japanese dish featuring vegan white wine vinegar and sous-vide cooking, originating from Okinawa",
   "cuisine": "Japanese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -86,5 +84,9 @@
     "mainIngredient": "tofu",
     "descriptor": "luxurious juicy",
     "dishForm": "Tamagoyaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

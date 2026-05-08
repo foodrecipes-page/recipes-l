@@ -2,9 +2,7 @@
   "title": "Lively Turkish Rice Wrap",
   "description": "A savory, kid-friendly Turkish wrap filled with aromatic rice, veggies, and lentils. Served in a soft corn husk, it offers a crunchy yet tender bite.",
   "cuisine": "Turkish",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -79,7 +77,6 @@
     "kid-friendly",
     "quick",
     "savory",
-    "vegan",
     "wrap"
   ],
   "nutrition": {
@@ -105,5 +102,9 @@
     "mainIngredient": "rice",
     "descriptor": "Lively",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

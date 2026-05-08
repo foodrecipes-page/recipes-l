@@ -3,8 +3,6 @@
   "description": "A delicious and unique Turkish dish made with lamb, water, and shio-koji, served in individual mini cocottes. This crisp and flavorful dish is perfect for a special occasion or dinner party.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
-    "vegan",
     "pescetarian",
     "gluten-free",
     "dairy-free",
@@ -115,5 +113,10 @@
     "mainIngredient": "lamb",
     "descriptor": "luscious",
     "dishForm": "Kazandibi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

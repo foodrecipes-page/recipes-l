@@ -58,7 +58,8 @@
     "Pour the gravy over the top of the vegetables and evenly distribute it, making sure to cover all ingredients.",
     "Sprinkle additional flour on top for a gluten-free crust if desired. Ensure even cooking.",
     "Bake for about 40-50 minutes or until golden brown and bubbly. Let rest before serving with friends!",
-    "Serve hot as a main course or side dish depending on your meal plan."
+    "Serve hot as a main course or side dish depending on your meal plan.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -67,7 +68,6 @@
   "difficulty": "easy",
   "tags": [
     "lazy-sunday",
-    "gluten-free",
     "smoky",
     "dish"
   ],
@@ -90,5 +90,10 @@
     "primaryIngredient": "smoky a oli",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

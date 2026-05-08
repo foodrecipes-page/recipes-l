@@ -64,7 +64,8 @@
     "Add the sliced fennel and cook until slightly tender, about 3 minutes.",
     "Add the shucked oysters, chopped parsley, lemon juice, white wine, chicken broth, salt, and black pepper.",
     "Stir to combine, then reduce heat to low and simmer, covered, for 10 minutes.",
-    "Serve the stew hot, garnished with additional parsley if desired."
+    "Serve the stew hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -103,5 +104,9 @@
     "mainIngredient": "oysters",
     "descriptor": "light midnight-craving",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

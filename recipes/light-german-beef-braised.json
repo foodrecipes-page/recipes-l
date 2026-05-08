@@ -2,9 +2,7 @@
   "title": "Light German Beef Braised",
   "description": "A rich and flavorful German dish featuring beef stock concentrate, perfect for a date night dinner. This halal-friendly recipe is easy to prepare and has a tender, fall-apart texture.",
   "cuisine": "german",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -94,7 +92,6 @@
     "date-night",
     "flavorful",
     "german",
-    "halal",
     "rich"
   ],
   "nutrition": {
@@ -120,5 +117,9 @@
     "mainIngredient": "beef",
     "descriptor": "light",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

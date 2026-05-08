@@ -2,10 +2,7 @@
   "title": "Luxuriant White Wine Saudi-Arabian Saffron Bisque",
   "description": "A rich and creamy saffron-infused bisque made with white wine, perfect for special occasions.",
   "cuisine": "Saudi-Arabian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -84,8 +81,7 @@
     "dessert",
     "luxuriant",
     "safron",
-    "special-occasion",
-    "vegan"
+    "special-occasion"
   ],
   "nutrition": {
     "calories": 320,
@@ -110,5 +106,10 @@
     "mainIngredient": "saffron",
     "descriptor": "Luxuriant White Wine",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -61,7 +61,8 @@
     "Add the minced garlic, tomato paste, beef broth, and pomegranate molasses to the skillet and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "Stir in the cooked pasta and grilled onion mixture, and cook for an additional 2 minutes.",
-    "Serve the pasta hot, garnished with a glassy jelly sauce made by reducing the pomegranate molasses over low heat until thickened."
+    "Serve the pasta hot, garnished with a glassy jelly sauce made by reducing the pomegranate molasses over low heat until thickened.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "pasta",
     "descriptor": "Lovely Roasted",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

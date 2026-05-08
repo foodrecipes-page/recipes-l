@@ -45,7 +45,8 @@
     "Saute onions and garlic in oil until translucent.",
     "Add chicken broth and golden syrup. Simmer for 10 minutes.",
     "Mix herbs with rice and add to soup mixture.",
-    "Transfer to papillote and bake at 350°F (175°C) for 20 minutes."
+    "Transfer to papillote and bake at 350°F (175°C) for 20 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 40,
   "cookTimeMin": 20,
@@ -80,5 +81,9 @@
     "mainIngredient": "peanut",
     "descriptor": "Lavish",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A rich and aerated one-pot Italian dish featuring mulukhiyah, this recipe is egg-free-friendly and cooked to perfection in a bamboo steamer. It combines the flavors of Italy with the nutritious benefits of mulukhiyah.",
   "cuisine": "Italian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "mulukhiyah",
     "descriptor": "Lightly Aerated",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

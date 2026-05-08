@@ -88,11 +88,15 @@
     "mood": "light",
     "technique": "namul-blanch-season",
     "primaryIngredient": "sugar snap peas",
-    "diet": "pescatarian",
+    "diet": "pescatarian-friendly",
     "region": null,
     "cuisineAdjective": "Algerian",
     "mainIngredient": "Peas",
     "descriptor": "Light",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

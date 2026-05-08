@@ -2,9 +2,7 @@
   "title": "Light Smoky French Chestnuts Salad",
   "description": "This dish is a twist on the traditional French chestnut salad, with smoky flavors added for a unique taste experience. It's perfect for the holiday season, and can be made in under 30 minutes.",
   "cuisine": "French",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,7 +75,8 @@
     "In a large bowl, combine the mixed greens, roasted chestnuts, and smoked chicken breast mixture.",
     "Top with crumbled goat cheese and a drizzle of balsamic vinaigrette.",
     "Sprinkle with diced fresh parsley, smoked paprika, salt, and black pepper.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -115,5 +114,10 @@
     "mainIngredient": "chestnuts",
     "descriptor": "light smoky",
     "dishForm": "salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

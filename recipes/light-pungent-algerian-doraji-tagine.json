@@ -70,7 +70,8 @@
     "Pour in the chicken broth and bring the mixture to a boil.",
     "Cover the clay pot and transfer it to the preheated oven.",
     "Bake for 25 minutes or until the doraji is tender.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -108,5 +109,9 @@
     "mainIngredient": "doraji",
     "descriptor": "light pungent",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

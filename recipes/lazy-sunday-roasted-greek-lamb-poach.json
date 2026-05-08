@@ -3,8 +3,6 @@
   "description": "A delicious and easy-to-make roasted lamb dish from Greece, featuring a rich red wine jelly and a poached egg for a satisfying lazy Sunday meal.",
   "cuisine": "greek",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -111,5 +109,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Lazy-Sunday Roasted",
     "dishForm": "Poach"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

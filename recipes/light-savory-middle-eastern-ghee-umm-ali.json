@@ -3,7 +3,6 @@
   "description": "A light, savory, and refreshing Middle-Eastern dish featuring ghee, pita bread, and spices. Perfect for a quick breakfast or snack.",
   "cuisine": "Middle-Eastern",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -86,7 +85,6 @@
   "tags": [
     "breakfast",
     "easy",
-    "gluten-free",
     "lunch",
     "middle-eastern",
     "quick",
@@ -115,5 +113,9 @@
     "mainIngredient": "ghee",
     "descriptor": "Light Savory",
     "dishForm": "Umm Ali"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

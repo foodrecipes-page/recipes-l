@@ -58,7 +58,8 @@
     "In a separate bowl, whisk together the vegetable broth, salt, and black pepper",
     "Pour the broth mixture over the turkey ham mixture and stir until everything is well combined",
     "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil",
-    "Bake for 45 minutes, then remove the foil and continue baking for an additional 15 minutes"
+    "Bake for 45 minutes, then remove the foil and continue baking for an additional 15 minutes",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -95,5 +96,9 @@
     "mainIngredient": "turkey ham",
     "descriptor": "Luscious velvety",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -80,7 +80,8 @@
     "Add broth and vinegar, then bring to a boil.",
     "Cover the pot and transfer to the oven.",
     "Braise until the beef is tender and the sauce has thickened, about 2 1/2 hours.",
-    "Stir in parsley and serve over rice or with warm pita bread."
+    "Stir in parsley and serve over rice or with warm pita bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -119,5 +120,9 @@
     "mainIngredient": "beef shin",
     "descriptor": "low-fat-friendly",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

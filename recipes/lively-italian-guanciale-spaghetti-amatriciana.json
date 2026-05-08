@@ -2,9 +2,7 @@
   "title": "Lively Italian Guanciale Spaghetti Amatriciana",
   "description": "A nutty, crisp, quick-fix Italian dish featuring lettuce, soffritto-base, and dash-friendly Amatriciana form.",
   "cuisine": "Italian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -88,5 +86,9 @@
     "mainIngredient": "Guanciale",
     "descriptor": "Lively",
     "dishForm": "Spaghetti Amatriciana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

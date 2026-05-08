@@ -3,8 +3,7 @@
   "description": "A sweet, crumbly festive treat featuring rice noodles, honey, and candied coconut, perfect for celebrations.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -73,7 +72,6 @@
   "tags": [
     "crumble",
     "festive",
-    "gluten-free",
     "rice-noodles",
     "sweet",
     "vegetarian"
@@ -101,5 +99,9 @@
     "mainIngredient": "rice noodles",
     "descriptor": "Lively",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

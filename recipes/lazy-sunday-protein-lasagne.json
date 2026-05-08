@@ -3,8 +3,7 @@
   "description": "A chewy, fermented French-inspired lasagne dish featuring high-protein-friendly bhuna sauce, perfect for a lazy Sunday brunch.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -37,7 +36,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 180\u00b0C (350\u00b0F).",
+    "Preheat your oven to 180°C (350°F).",
     "Prepare the bhuna sauce by heating olive oil in a pan and frying minced garlic until golden, then adding diced tomatoes, onions, and spices like cumin, coriander, and turmeric. Cook for about 10 minutes.",
     "Rinse fermented vegetables well to remove excess salt and rinse off any visible brine, if necessary. Chop finely and mix into the bhuna sauce with protein crumbles (if using).",
     "In a baking dish, place lasagne sheets one by one, layering with the bhuna sauce mixture in between each sheet. If using cheese, sprinkle it evenly on top of the last layer.",
@@ -73,5 +72,9 @@
     "primaryIngredient": "lasagne sheets",
     "diet": "high-protein",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

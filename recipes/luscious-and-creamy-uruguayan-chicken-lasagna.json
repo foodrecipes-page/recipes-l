@@ -66,7 +66,8 @@
     "Arrange 4 lasagna noodles on top of the sauce, followed by half of the chicken mixture and half of the Béchamel sauce.",
     "Repeat the layers, starting with the noodles, then the chicken mixture, and finally the Béchamel sauce.",
     "Top the lasagna with the cooked lamination-puff pastry and bake for 25-30 minutes.",
-    "Remove the lasagna from the oven and let it cool for 10-15 minutes before serving."
+    "Remove the lasagna from the oven and let it cool for 10-15 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -104,5 +105,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Luscious and Creamy",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

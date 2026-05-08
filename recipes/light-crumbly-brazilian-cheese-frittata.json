@@ -3,8 +3,7 @@
   "description": "A mustardy and crumbly Brazilian dish perfect for brunch, featuring dried oregano and low-fat ingredients, this frittata is a delicious and satisfying meal option.",
   "cuisine": "Brazilian",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -67,7 +66,6 @@
     "brunch",
     "cheesy",
     "easy-to-make",
-    "gluten-free",
     "low-fat"
   ],
   "nutrition": {
@@ -93,5 +91,9 @@
     "mainIngredient": "cheese",
     "descriptor": "light crumbly",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

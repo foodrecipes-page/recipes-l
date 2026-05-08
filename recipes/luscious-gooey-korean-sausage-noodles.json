@@ -2,9 +2,7 @@
   "title": "Luscious Gooey Korean Sausage Noodles",
   "description": "A salty, gooey, adventurous Korean dish featuring Polish sausage and bonito-shave, made with gluten-free friendly ingredients.",
   "cuisine": "Korean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -65,7 +63,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean-food",
     "noodle-dish",
     "one-pan",
@@ -95,5 +92,9 @@
     "mainIngredient": "sausage",
     "descriptor": "Luscious Gooey",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

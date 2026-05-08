@@ -61,7 +61,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
-  "totalTimeMin": 60,
+  "totalTimeMin": 40,
   "servings": 12,
   "difficulty": "medium",
   "tags": [
@@ -96,5 +96,9 @@
     "mainIngredient": "honey",
     "descriptor": "Lightly Fermented",
     "dishForm": "Loukoumades"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A flavorful and easy-to-make Tunisian-inspired dish featuring shrimp paste kapi,dehydrated vegetables, and a rich glassy jelly sauce,perfect for a lazy Sunday dinner.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -121,5 +120,9 @@
     "mainIngredient": "Shrimp-paste-kapi",
     "descriptor": "Lazy-Sunday",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

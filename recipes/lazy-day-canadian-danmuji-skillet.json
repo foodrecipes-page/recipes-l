@@ -61,7 +61,8 @@
     "Stir to combine, then bring the mixture to a boil.",
     "Reduce the heat to low, cover the skillet, and simmer for 20 minutes.",
     "Use a pressure cooker to speed up the cooking process, if desired, cooking for an additional 10 minutes.",
-    "Serve hot, garnished with chopped fresh herbs, if desired."
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "danmuji",
     "descriptor": "lazy day",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }
