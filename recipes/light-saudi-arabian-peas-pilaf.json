@@ -1,0 +1,101 @@
+{
+  "title": "Light Saudi Arabian Peas Pilaf",
+  "description": "A low-sodium, post-workout Saudi Arabian dish featuring peas, cooked in a salt-block vessel to give it a briny flavor, this peas pilaf is dense and satisfying.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-sodium",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "green peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "for the salt-block"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt-block in the oven at 400 degrees Fahrenheit for 30 minutes.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground cumin, ground coriander, and black pepper, and cook for 1 minute.",
+    "Add the green peas and cook until they are tender.",
+    "Add the basmati rice and stir to combine with the pea mixture.",
+    "Transfer the rice mixture to the preheated salt-block and cook for 20 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "dense",
+    "low-sodium",
+    "one-pan",
+    "post-workout",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "light-saudi-arabian-peas-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-saudi-arabian-peas-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:50:40Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "salt-bake",
+    "primaryIngredient": "peas",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "peas",
+    "descriptor": "Low Sodium",
+    "dishForm": "Pilaf"
+  }
+}
