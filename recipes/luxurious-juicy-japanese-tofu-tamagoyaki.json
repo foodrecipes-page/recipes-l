@@ -1,0 +1,90 @@
+{
+  "title": "Luxurious Juicy Japanese Tofu Tamagoyaki",
+  "description": "A peppery and juicy Japanese dish featuring vegan white wine vinegar and sous-vide cooking, originating from Okinawa",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "Vegan white wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Kombu dashi",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Japanese soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 160 degrees Fahrenheit",
+    "In a blender, combine crumbled tofu, vegan white wine vinegar, sesame oil, pepper, and salt, and blend until smooth",
+    "Strain the mixture through a cheesecloth into a bowl",
+    "Add kombu dashi, mirin, and Japanese soy sauce to the bowl and whisk until well combined",
+    "Pour the mixture into a tamagoyaki pan and cook in the sous-vide machine for 30 minutes",
+    "Remove the tamagoyaki from the pan and slice into rounds",
+    "Serve the Luxurious Juicy Japanese Tofu Tamagoyaki hot, garnished with sesame seeds and chopped scallions",
+    "Refrigerate or freeze any leftovers for later use"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "luxurious-dish",
+    "okinawan-specialty",
+    "sous-vide",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "luxurious-juicy-japanese-tofu-tamagoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-juicy-japanese-tofu-tamagoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:57:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "vegan",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "luxurious juicy",
+    "dishForm": "Tamagoyaki"
+  }
+}
