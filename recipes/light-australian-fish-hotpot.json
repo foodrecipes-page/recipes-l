@@ -1,0 +1,96 @@
+{
+  "title": "Light Australian Fish Hotpot",
+  "description": "A rich and energizing Australian dish featuring yuzu-kosho, served in a hot pot vessel, perfect for a Buddhist temple friendly meal. This recipe combines the freshness of fish with the zing of yuzu-kosho.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "yuzu-kosho",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "leafy greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the fish fillets into bite sized pieces and set aside.",
+    "Prepare the leafy greens by washing and chopping them into large pieces.",
+    "Slice the mushrooms and set aside.",
+    "Mince the garlic and ginger and saute them in sesame oil until fragrant.",
+    "Add the chicken broth, soy sauce, and yuzu-kosho to the pot and bring to a boil.",
+    "Reduce the heat to a simmer and add the fish and mushrooms to the pot.",
+    "Cover the pot with a lid and steam for 5 minutes.",
+    "Add the leafy greens to the pot and steam for an additional 2 minutes.",
+    "Serve the hotpot in individual bowls and garnish with additional yuzu-kosho if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "one-pot",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "light-australian-fish-hotpot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-australian-fish-hotpot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:10:10Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "light energizing",
+    "dishForm": "Hotpot"
+  }
+}
