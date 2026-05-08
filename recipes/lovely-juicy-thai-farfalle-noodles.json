@@ -1,0 +1,114 @@
+{
+  "title": "Lovely Juicy Thai Farfalle Noodles",
+  "description": "Savory and juicy Thai dish featuring farfalle noodles and agemono deep fry technique, inspired by Isaan cuisine, this dish brings back nostalgic memories of street food in Thailand.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the farfalle noodles according to the package instructions until al dente.",
+    "While the noodles are cooking, heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Add the sliced onion and bell pepper to the hot oil and deep fry until they are crispy and golden brown.",
+    "Remove the fried onion and bell pepper from the oil and set them aside on a paper towel-lined plate.",
+    "In the same oil, add the mushrooms and deep fry until they are golden brown and crispy.",
+    "Remove the mushrooms from the oil and set them aside with the onion and bell pepper.",
+    "In a large pan, heat a couple of tablespoons of vegetable oil over medium heat and add the Thai red curry paste.",
+    "Cook the curry paste for about 1 minute, stirring constantly, until it is fragrant.",
+    "Add the coconut milk, fish sauce, brown sugar, and salt to the pan and stir to combine.",
+    "Bring the sauce to a simmer and cook for about 5 minutes, stirring occasionally, until it has thickened slightly.",
+    "Add the cooked noodles, fried onion, bell pepper, and mushrooms to the sauce and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly, until the noodles are well coated with the sauce.",
+    "Transfer the noodles to a serving platter and sprinkle with chopped peanuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fry",
+    "gluten-free",
+    "noodle-dish",
+    "one-pan",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "lovely-juicy-thai-farfalle-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-juicy-thai-farfalle-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:07:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "farfalle",
+    "diet": "dash",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "farfalle",
+    "descriptor": "Lovely Juicy",
+    "dishForm": "Noodles"
+  }
+}
