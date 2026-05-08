@@ -1,0 +1,103 @@
+{
+  "title": "Light Salty Ukrainian Chinese Broccoli Bowl",
+  "description": "A vegetarian Ukrainian Chinese dish featuring Chinese broccoli, served in a hot pot vessel, with a salty and crispy texture. This dish is perfect for a dinner meal.",
+  "cuisine": "Ukrainian Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in the hot pot vessel over medium high heat.",
+    "Add the minced garlic and grated ginger and stir fry for 1 minute.",
+    "Add the Chinese broccoli florets and stir fry for 3 minutes.",
+    "Add the soy sauce, salt, and black pepper, and stir fry for 1 minute.",
+    "Add the rice vinegar and stir fry for 1 minute.",
+    "Sprinkle the sesame seeds over the top of the broccoli.",
+    "Transfer the hot pot vessel to the table and serve immediately.",
+    "Garnish with chopped scallions.",
+    "Serve with steamed rice or noodles if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broccoli-lovers",
+    "hot-pot",
+    "sesame-seeds",
+    "stir-fry",
+    "ukrainian-chinese",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "light-salty-ukrainian-chinese-broccoli-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-salty-ukrainian-chinese-broccoli-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:52:23Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chinese broccoli",
+    "descriptor": "light salty",
+    "dishForm": "Bowl"
+  }
+}
