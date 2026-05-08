@@ -1,0 +1,105 @@
+{
+  "title": "Luxuriantly Cheesy Kenyan Speck Lasagna",
+  "description": "A tangy and cozy Kenyan dish featuring speck, with a rich cheese pull and deglaze fond, nut-free-friendly for all to enjoy.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "speck",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "mixed with 1 egg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for greasing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and add the speck, cooking until crispy.",
+    "Remove the speck from the skillet and set aside, leaving the grease behind to deglaze the fond.",
+    "Add the tomato sauce to the skillet and stir to combine with the deglaze fond, bringing to a simmer.",
+    "In a large bowl, combine the ricotta cheese mixture, mozzarella cheese, and parmesan cheese.",
+    "Grease a 9x13 inch baking dish with olive oil and begin assembling the lasagna by spreading a layer of tomato sauce on the bottom.",
+    "Arrange 4 lasagna noodles on top of the sauce, followed by a layer of the cheese mixture and a sprinkle of speck.",
+    "Repeat the layers two more times, ending with a layer of mozzarella cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes, then remove the foil and bake for an additional 10 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "kenyan-cuisine",
+    "lasagna",
+    "speck"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "luxuriantly-cheesy-kenyan-speck-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-cheesy-kenyan-speck-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:18:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "speck",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "speck",
+    "descriptor": "luxuriantly cheesy",
+    "dishForm": "Lasagna"
+  }
+}
