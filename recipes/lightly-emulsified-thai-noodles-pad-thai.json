@@ -1,0 +1,100 @@
+{
+  "title": "Lightly Emulsified Thai Noodles Pad Thai",
+  "description": "A lacto-vegetarian friendly Thai dish featuring flaked almonds and a lightly emulsified sauce, served on a slate tile. This weeknight Thai dish has a bitter and glassy-jelly texture.",
+  "cuisine": "Thai",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "flaked almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large wok or frying pan over medium heat.",
+    "Add the flaked almonds and cook until lightly toasted.",
+    "Add the rice noodles and cook until they are slightly softened.",
+    "In a small bowl, whisk together the tamarind paste, palm sugar, soy sauce, and lime juice.",
+    "Pour the sauce over the noodles and almonds, and stir to combine.",
+    "Push the noodles to one side of the pan, then crack in the eggs and scramble them until cooked through.",
+    "Mix the eggs with the noodles and sauce.",
+    "Add the bean sprouts and salt, and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce has lightly emulsified.",
+    "Serve the pad thai on a slate tile, garnished with additional flaked almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "noodle-dish",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "lightly-emulsified-thai-noodles-pad-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-emulsified-thai-noodles-pad-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:47:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "emulsify",
+    "primaryIngredient": "flaked almonds",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Lightly emulsified",
+    "dishForm": "Pad Thai"
+  }
+}
