@@ -2089,6 +2089,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-argentinian-white-yam-wrap",
+    "title": "Light Argentinian White Yam Wrap",
+    "tags": [
+      "argentinian-cuisine",
+      "double-fry",
+      "lazy-sunday",
+      "pandan-leaf",
+      "spicy-food",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "light-australian-egg-noodles",
     "title": "Light Australian Egg Noodles",
     "tags": [
@@ -6233,6 +6248,20 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-garlicky-indian-tomato-pav-bhaji",
+    "title": "Lightly Garlicky Indian Tomato Pav Bhaji",
+    "tags": [
+      "indian-cuisine",
+      "kosher-friendly",
+      "one-pan",
+      "quick-fix",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

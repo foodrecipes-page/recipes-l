@@ -1,0 +1,98 @@
+{
+  "title": "Lightly Garlicky Indian Tomato Pav Bhaji",
+  "description": "A quick-fix Indian dish featuring sushi rice, confit-tomato, and a hint of garlic, this pav bhaji is a flavorful and satisfying meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "3 medium",
+      "notes": "confit"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "pav bhaji masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium heat.",
+    "Add garlic and onion and saute until the onion is translucent.",
+    "Add confit tomatoes, pav bhaji masala, and salt, and stir well.",
+    "Add peas and cook until they are thawed and heated through.",
+    "Stir in cooked sushi rice and cook for 2-3 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-cuisine",
+    "kosher-friendly",
+    "one-pan",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "lightly-garlicky-indian-tomato-pav-bhaji",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-garlicky-indian-tomato-pav-bhaji",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:52:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "confit-tomato",
+    "primaryIngredient": "sushi rice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tomato",
+    "descriptor": "Lightly Garlicky",
+    "dishForm": "Pav Bhaji"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Light Argentinian White Yam Wrap",
+  "description": "A spicy and fluffy Argentinian dish featuring white yam, double-fry KFC style, and wrapped in a pandan leaf, perfect for a lazy Sunday. This satvik-friendly recipe is a unique twist on traditional Argentinian cuisine.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white yam",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together the flour, cornstarch, paprika, cayenne pepper, and salt.",
+    "Toss the diced white yam in the flour mixture to coat evenly.",
+    "Double-fry the coated white yam by frying it for 3 minutes, then letting it rest for 5 minutes, and finally frying it again for an additional 2 minutes.",
+    "Drain the fried white yam on paper towels and sprinkle with lime juice.",
+    "Wash and dry the pandan leaves to prepare them for wrapping.",
+    "To assemble the wrap, place a few pieces of the fried white yam in the center of a pandan leaf, garnish with chopped cilantro, and fold the leaf to enclose the filling.",
+    "Serve the Light Argentinian White Yam Wrap immediately and enjoy.",
+    "To add extra flavor, serve with a side of your favorite Argentinian sauce or salsa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "double-fry",
+    "lazy-sunday",
+    "pandan-leaf",
+    "spicy-food",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "light-argentinian-white-yam-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-argentinian-white-yam-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:52:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "white yam",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "white yam",
+    "descriptor": "lazy sunday light",
+    "dishForm": "Wrap"
+  }
+}
