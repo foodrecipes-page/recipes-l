@@ -1,0 +1,102 @@
+{
+  "title": "Luxuriously Loaded Saudi Arabian Cream Cheese Flatbread",
+  "description": "A pungent and juicy Saudi Arabian dish featuring cream cheese and long fermentation dough, perfect for a crowd, this vegetarian friendly flatbread is a real showstopper. It combines the richness of cream cheese with the warmth of Saudi Arabian spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, sugar, and yeast in a large mixing bowl.",
+    "Gradually add warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 2 hours.",
+    "Preheat the oven to 400 degrees.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Spread 2 oz of cream cheese on each circle, leaving a 1 inch border around the edges.",
+    "Top the cream cheese with chopped scallions, parsley, and sumac.",
+    "Drizzle olive oil over the toppings.",
+    "Bake the flatbreads in the preheated oven for 15 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream-cheese",
+    "flatbread",
+    "middle-eastern",
+    "saudi-arabian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "luxuriously-loaded-saudi-arabian-cream-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-loaded-saudi-arabian-cream-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:37:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cream cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "cream cheese",
+    "descriptor": "luxuriously loaded",
+    "dishForm": "Flatbread"
+  }
+}
