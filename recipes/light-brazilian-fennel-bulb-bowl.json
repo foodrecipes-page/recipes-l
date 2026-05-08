@@ -1,0 +1,68 @@
+{
+  "title": "Light Brazilian Fennel Bowl",
+  "description": "A light, easy-to-make dish perfect for post-workout meals, combining the flavors of Brazil with the freshness of fennel. This dish is a great option for a quick, healthy meal during the week.",
+  "cuisine": "Brazilian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fennel Bulb",
+      "amount": "2 large bulbs",
+      "notes": ""
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "1 cup sliced",
+      "notes": "Brazilian-style seasoned mushrooms"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine 4 cups of water and 1 cup of dashi extract. Bring to a boil and then reduce to a simmer for 10 minutes.",
+    "Add 2 tablespoons of olive oil to a large pan over medium heat. Add sliced fennel and cook until tender, about 10-12 minutes.",
+    "Add sliced shiitake mushrooms to the pan with the fennel and cook for an additional 2-3 minutes, until tender.",
+    "Fluff the cooked dashi extract with a fork and stir in a squeeze of fresh lime juice.",
+    "To assemble the bowls, place a portion of the fennel and mushroom mixture onto a plate, then spoon the cooked dashi extract over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "dashi",
+    "dinner",
+    "fennel",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 5
+  },
+  "slug": "light-brazilian-fennel-bulb-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-brazilian-fennel-bulb-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:47:08Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "dashi-extract",
+    "primaryIngredient": "fennel bulb",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "fennel bulb",
+    "descriptor": "light",
+    "dishForm": "Bowl"
+  }
+}

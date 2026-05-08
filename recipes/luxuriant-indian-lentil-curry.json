@@ -1,0 +1,104 @@
+{
+  "title": "Luxuriant Indian Lentil Curry",
+  "description": "A rich and indulgent Udupi dish featuring tender lentils in a flavorful, umami curry sauce with a glassy-jelly texture, made with a pasta-water emulsion and kosher-friendly ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pasta water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring 4 cups of water to a boil and add the lentils, cooking until they are tender.",
+    "In a blender or food processor, combine the onion, garlic, and ginger and blend until smooth.",
+    "In a large pan, heat the oil over medium heat and add the blended onion mixture, cooking until fragrant.",
+    "Add the curry powder, turmeric, and cumin to the pan and cook for 1 minute, stirring constantly.",
+    "Add the cooked lentils, pasta water, and salt to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook until the sauce has thickened and the flavors have melded together.",
+    "Use an immersion blender to puree the sauce to a smooth, glassy-jelly texture.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with fresh herbs or a dollop of raita if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-cuisine",
+    "lentil-recipes",
+    "one-pot-meals",
+    "umami-flavors",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "luxuriant-indian-lentil-curry",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-indian-lentil-curry",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:46:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "boiling water",
+    "diet": "kosher",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Luxuriant",
+    "dishForm": "Curry"
+  }
+}

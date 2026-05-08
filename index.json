@@ -1950,6 +1950,24 @@
     "shard": "l"
   },
   {
+    "slug": "light-brazilian-fennel-bulb-bowl",
+    "title": "Light Brazilian Fennel Bowl",
+    "tags": [
+      "brazilian",
+      "dashi",
+      "dinner",
+      "fennel",
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
     "slug": "light-brazilian-shaggy-bake",
     "title": "Light Brazilian Shaggy Bake",
     "tags": [
@@ -4627,6 +4645,21 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-dehydrated-thai-fish-kanom-ko",
+    "title": "Lightly Dehydrated Thai Fish Kanom Ko",
+    "tags": [
+      "bitter-flavors",
+      "dehydrated-dishes",
+      "one-pan-meal",
+      "pescatarian-friendly",
+      "quick-dinner",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 140,
     "shard": "l"
   },
   {
@@ -8579,6 +8612,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriant-indian-lentil-curry",
+    "title": "Luxuriant Indian Lentil Curry",
+    "tags": [
+      "comfort-food",
+      "indian-cuisine",
+      "lentil-recipes",
+      "one-pot-meals",
+      "umami-flavors",
+      "vegetarian-options"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {

@@ -1,0 +1,94 @@
+{
+  "title": "Lightly Dehydrated Thai Fish Kanom Ko",
+  "description": "A pescatarian-friendly Thai dish featuring lightly dehydrated fish, persian cucumber, and a bitter yet bouncy texture, perfect for a solo dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish balls",
+      "amount": "12 pieces",
+      "notes": "made from cod fish"
+    },
+    {
+      "name": "persian cucumber",
+      "amount": "1 large",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dehydrated kaffir lime leaves",
+      "amount": "1/4 cup",
+      "notes": "crushed into small pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the dehydrator to 135 degrees Fahrenheit.",
+    "Place the fish balls on the dehydrator trays in a single layer.",
+    "Dehydrate the fish balls for 2 hours or until lightly dried and still bouncy.",
+    "In a large bowl, whisk together fish sauce, lime juice, palm sugar, chili flakes, and salt.",
+    "Add the sliced persian cucumber to the bowl and toss to coat with the sauce.",
+    "Once the fish balls are dehydrated, add them to the bowl and toss to combine with the cucumber and sauce.",
+    "Sprinkle the crushed dehydrated kaffir lime leaves over the top of the fish balls and cucumber.",
+    "Serve the Lightly Dehydrated Thai Fish Kanom Ko immediately, garnished with additional kaffir lime leaves if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "dehydrated-dishes",
+    "one-pan-meal",
+    "pescatarian-friendly",
+    "quick-dinner",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "lightly-dehydrated-thai-fish-kanom-ko",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-dehydrated-thai-fish-kanom-ko",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:47:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "dehydrate",
+    "primaryIngredient": "persian cucumber",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fish",
+    "descriptor": "Lightly Dehydrated",
+    "dishForm": "Kanom Ko"
+  }
+}
