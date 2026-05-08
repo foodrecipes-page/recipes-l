@@ -1,0 +1,97 @@
+{
+  "title": "Lovely Sticky Dutch Almond Fritters",
+  "description": "A traditional Dutch dessert featuring almond flour and a double-fry method, now made keto-friendly, these fritters are resinous, gooey, and nostalgic.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "confectioners sweetener",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together almond flour, granulated sweetener, and salt.",
+    "In a separate bowl, whisk together eggs, melted butter, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Heat coconut oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a cookie scoop, drop the batter into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Increase the oil temperature to 375 degrees Fahrenheit and fry the fritters again for an additional 1-2 minutes, or until crispy.",
+    "Remove the fritters from the oil and place on a wire rack to cool slightly.",
+    "Dust the fritters with confectioners sweetener and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-flour",
+    "double-fry",
+    "dutch-desserts",
+    "gluten-free",
+    "keto-friendly",
+    "sticky-sweets"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 28
+  },
+  "slug": "lovely-sticky-dutch-almond-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-sticky-dutch-almond-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:46:14Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "almond flour",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "almonds",
+    "descriptor": "Lovely sticky",
+    "dishForm": "Fritters"
+  }
+}
