@@ -1,0 +1,105 @@
+{
+  "title": "Luxuriant Cheesy Norwegian Fish Fillet Casserole",
+  "description": "A savory and comforting Norwegian dish featuring fish fillet, with a cheese-pull and wok-hei, made in a fondue pot. This macrobiotic-friendly recipe is perfect for a cold winter night.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish fillet",
+      "amount": "1 pound",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375 degrees Fahrenheit.",
+    "Melt the butter in the fondue pot and add the chopped onion, cooking until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cod fish fillet to the fondue pot, cooking until browned on both sides and cooked through.",
+    "In a separate bowl, whisk together the flour, milk, salt, and black pepper.",
+    "Add the shredded norwegian cheese to the bowl and stir until well combined.",
+    "Pour the cheese mixture over the cooked fish fillet in the fondue pot.",
+    "Cook for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "fish-recipe",
+    "macrobiotic-friendly",
+    "norwegian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "luxuriant-cheesy-norwegian-fish-fillet-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-cheesy-norwegian-fish-fillet-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:25:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "wok-hei",
+    "primaryIngredient": "fish fillet",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish fillet",
+    "descriptor": "luxuriant cheesy",
+    "dishForm": "Casserole"
+  }
+}
