@@ -1,0 +1,94 @@
+{
+  "title": "Luxuriant Italian Olive Oil Focaccia",
+  "description": "This luxurious Italian dish features a resinous and glassy-jelly texture, topped with kosher salt and flamed to perfection, making it a show-stopping focaccia.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rosemary leaves",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, kosher salt, and active dry yeast.",
+    "Gradually add the olive oil and water to the dry ingredients, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a round or oblong focaccia.",
+    "Dimple the focaccia with your fingers and sprinkle with chopped rosemary leaves and garlic powder.",
+    "Drizzle the focaccia with olive oil and sprinkle with shaved grana padano cheese.",
+    "Flame the focaccia with a kitchen torch to create a glassy-jelly texture.",
+    "Bake the focaccia in the preheated oven for 15-20 minutes, or until it is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "focaccia-recipe",
+    "italian-food",
+    "olive-oil-lovers",
+    "show-stopping",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "luxuriant-italian-olive-oil-focaccia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-italian-olive-oil-focaccia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:26:30Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "kosher salt",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "olive oil",
+    "descriptor": "Luxuriant Glassy",
+    "dishForm": "Focaccia"
+  }
+}
