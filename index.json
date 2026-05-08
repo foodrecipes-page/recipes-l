@@ -6907,6 +6907,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-smoked-mexican-broccoli-skillet",
+    "title": "Lightly Smoked Mexican Broccoli Skillet",
+    "tags": [
+      "healthy",
+      "mexican",
+      "one-pan",
+      "smoked",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-smoked-norwegian-fish-stew",
     "title": "Lightly Smoked Norwegian Fish Stew",
     "tags": [
@@ -13026,6 +13041,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriously-roasted-syrian-lamb-pasta",
+    "title": "Luxuriously Roasted Syrian Lamb Pasta",
+    "tags": [
+      "lamb-based",
+      "middle-eastern",
+      "no-onion-no-garlic",
+      "pasta-dish",
+      "roasted-meat",
+      "special-occasion"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 120,
     "shard": "l"
   },
   {

@@ -1,0 +1,104 @@
+{
+  "title": "Lightly Smoked Mexican Broccoli Skillet",
+  "description": "A citrusy and springy Mexican dish featuring purple sprouting broccoli, smoked with binchotan charcoal for a nostalgic flavor, made in an iron teppan for an ayurvedic rajasic friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": "trimmed"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium high heat for 5 minutes.",
+    "Add the olive oil and swirl it around to coat the teppan.",
+    "Add the diced onion and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the trimmed broccoli and cook until it is tender, about 5 minutes.",
+    "Add the cumin, smoked paprika, salt, and pepper, and stir to combine.",
+    "Smoke the broccoli mixture with the binchotan charcoal for 2 minutes, until lightly smoked.",
+    "Remove the teppan from the heat and stir in the lime juice.",
+    "Serve the skillet hot, garnished with lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "mexican",
+    "one-pan",
+    "smoked",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "lightly-smoked-mexican-broccoli-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-mexican-broccoli-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:34:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "broccoli",
+    "descriptor": "Lightly Smoked",
+    "dishForm": "Skillet"
+  }
+}

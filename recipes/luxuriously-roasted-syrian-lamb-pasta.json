@@ -1,0 +1,90 @@
+{
+  "title": "Luxuriously Roasted Syrian Lamb Pasta",
+  "description": "A rich and flavorful Syrian dish featuring roasted lamb and pappardelle pasta, perfect for a special occasion. This recipe is carefully crafted to be onion and garlic free.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "scored for fat"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt, black pepper, and sumac.",
+    "Place the lamb shoulder in a roasting pan and roast for 20 minutes per pound, or until the internal temperature reaches 145 degrees Fahrenheit.",
+    "While the lamb is roasting, cook the pappardelle pasta according to package instructions until al dente.",
+    "In a large bowl, whisk together olive oil and lemon juice.",
+    "Add the cooked pappardelle pasta to the bowl and toss with the olive oil and lemon juice mixture.",
+    "Once the lamb is done, let it rest for 10 minutes before slicing it thinly against the grain.",
+    "Add the sliced lamb to the pasta and toss to combine.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-based",
+    "middle-eastern",
+    "no-onion-no-garlic",
+    "pasta-dish",
+    "roasted-meat",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 45
+  },
+  "slug": "luxuriously-roasted-syrian-lamb-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-roasted-syrian-lamb-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:34:45Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "score-fat",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "luxuriously roasted",
+    "dishForm": "Pasta"
+  }
+}
