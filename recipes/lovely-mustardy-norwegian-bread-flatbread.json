@@ -1,0 +1,102 @@
+{
+  "title": "Lovely Mustardy Norwegian Bread Flatbread",
+  "description": "A crunchy and energizing Norwegian bread flatbread dish that is rich in mustardy flavor and anti-inflammatory properties.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye flour",
+      "amount": "500",
+      "notes": "Whole-grain rye flour"
+    },
+    {
+      "name": "Water",
+      "amount": "350",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "10",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "20",
+      "notes": null
+    },
+    {
+      "name": "Dried mustard",
+      "amount": "2",
+      "notes": "Crushed mustard seeds"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2",
+      "notes": "Black sesame seeds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "10",
+      "notes": null
+    },
+    {
+      "name": "Bread starter",
+      "amount": "20",
+      "notes": "Homemade or store-bought starter"
+    }
+  ],
+  "instructions": [
+    "Combine rye flour, sugar, and salt in a large mixing bowl.",
+    "Gradually pour in water while stirring with a wooden spoon until a sticky dough forms.",
+    "Cover the dough with plastic wrap and let it rest at room temperature for 24 hours.",
+    "After resting, add dried mustard and sesame seeds, and mix well.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Shape the dough into a ball and flatten it slightly into a disk.",
+    "Place the dough in a clay pot or a heat-resistant bowl and cover with a lid.",
+    "Cook the flatbread over low heat in a preheated oven at 375°F for 30 minutes.",
+    "Remove the lid and brush the top with olive oil.",
+    "Return the flatbread to the oven and bake for an additional 10 minutes.",
+    "Remove the flatbread from the oven and let it cool for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "clay-pot-cook",
+    "easy-snack",
+    "gluten-free-option",
+    "high-protein",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "lovely-mustardy-norwegian-bread-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-mustardy-norwegian-bread-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:40:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "bread",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "bread",
+    "descriptor": "lovely mustardy",
+    "dishForm": "Flatbread"
+  }
+}
