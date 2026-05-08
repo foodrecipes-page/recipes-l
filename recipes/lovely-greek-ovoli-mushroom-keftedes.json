@@ -1,0 +1,104 @@
+{
+  "title": "Lovely Greek Ovoli Mushroom Keftedes",
+  "description": "A funky, tender, and cozy Greek dish featuring ovoli mushrooms, perfect for a lacto-vegetarian meal. This dish combines the earthy flavor of mushrooms with the brightness of Greek herbs.",
+  "cuisine": "Greek",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ovoli mushrooms",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked onion and garlic, chopped mushrooms, crumbly feta cheese, breadcrumbs, lemon juice, oregano, salt, and pepper.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake the keftedes in the preheated oven for 20-25 minutes, flipping them halfway through.",
+    "Serve the keftedes hot, garnished with fresh herbs and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "greek-cuisine",
+    "healthy-snacks",
+    "lacto-vegetarian",
+    "mushroom-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "lovely-greek-ovoli-mushroom-keftedes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-greek-ovoli-mushroom-keftedes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:56:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "Lightly Lactose",
+    "dishForm": "Keftedes"
+  }
+}
