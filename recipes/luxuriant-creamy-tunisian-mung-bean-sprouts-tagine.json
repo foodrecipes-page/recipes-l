@@ -1,0 +1,104 @@
+{
+  "title": "Luxuriant Creamy Tunisian Mung Bean Sprouts Tagine",
+  "description": "A rich and creamy one-pot dish featuring mung bean sprouts, tandoor spices, and ayurvedic-tamasic-friendly ingredients, with a bitter and creamy flavor profile, this Tunisian tagine is a unique and delicious meal option.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "freshly sprouted"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the tandoor spice blend and cook for 1 minute, stirring constantly.",
+    "Add the mung bean sprouts and cook until they are tender, about 5 minutes.",
+    "Add the coconut cream and vegetable broth, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the sauce has thickened and the flavors have melded together, about 10 minutes.",
+    "Season the tagine with salt and black pepper to taste.",
+    "Serve the tagine hot, garnished with fresh herbs or spices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "creamy",
+    "gluten-free",
+    "one-pot",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "luxuriant-creamy-tunisian-mung-bean-sprouts-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-creamy-tunisian-mung-bean-sprouts-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:10:21Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "luxuriant creamy",
+    "dishForm": "Tagine"
+  }
+}
