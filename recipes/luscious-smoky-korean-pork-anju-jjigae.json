@@ -1,0 +1,94 @@
+{
+  "title": "Luscious Smoky Korean Pork Anju Jjigae",
+  "description": "A smoky and snappy Korean dish featuring braeburn apples, this anju jjigae is perfect for a weeknight dinner, and its gluten-free-friendly ingredients make it accessible to all",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "braeburn apples",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in the cataplana over medium-high heat",
+    "Add the sliced pork and cook until browned, about 5 minutes",
+    "Add the diced apples and cook until they start to soften, about 3 minutes",
+    "Add the gochujang, soy sauce, and brown sugar, and stir to combine",
+    "Add the minced garlic and grated ginger, and stir to combine",
+    "Reduce heat to low and simmer, covered, for 10 minutes",
+    "Stir in 1 tablespoon of water to emulsify the sauce",
+    "Serve hot, garnished with green onions and toasted sesame seeds"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-food",
+    "one-pan",
+    "smoky",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "luscious-smoky-korean-pork-anju-jjigae",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-smoky-korean-pork-anju-jjigae",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:16:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "emulsify",
+    "primaryIngredient": "braeburn apples",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Luscious Smoky",
+    "dishForm": "Anju Jjigae"
+  }
+}
