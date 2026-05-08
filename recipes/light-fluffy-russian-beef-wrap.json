@@ -1,0 +1,99 @@
+{
+  "title": "Light Fluffy Russian Beef Wrap",
+  "description": "A comforting Russian dish featuring tender beef and fluffy wraps, flavored with garam masala and wrapped in a low-fat friendly ssam-wrap.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lean beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "low-fat sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together garam masala, salt, and black pepper to create a spice blend.",
+    "Add the sliced beef to the bowl and toss to coat with the spice blend.",
+    "Heat a large skillet over medium-high heat and cook the beef until browned, about 5 minutes.",
+    "Add the sliced onion to the skillet and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Warm the ssam-wrap pieces by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spreading a layer of low-fat sour cream on each piece, followed by a few slices of the beef mixture and some chopped dill.",
+    "Serve the wraps immediately and enjoy.",
+    "Garnish with additional chopped dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "easy-meals",
+    "low-fat",
+    "lunch-ideas",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "light-fluffy-russian-beef-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fluffy-russian-beef-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:49:34Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "garam masala",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "light fluffy",
+    "dishForm": "Wrap"
+  }
+}
