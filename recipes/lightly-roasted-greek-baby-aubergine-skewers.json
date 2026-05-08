@@ -1,0 +1,107 @@
+{
+  "title": "Lightly Roasted Greek Baby Aubergine Skewers",
+  "description": "A delicious and healthy Greek dish featuring roasted baby aubergines, perfect for a brunch mood, with a resinous and tender flavor, and diabetic-friendly ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Baby aubergines",
+      "amount": "12",
+      "notes": "preferably of similar size"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the baby aubergines onto skewers, leaving a small space between each aubergine.",
+    "In a bowl, whisk together olive oil, oregano, thyme, lemon juice, garlic, salt, and black pepper.",
+    "Brush the mixture evenly onto the aubergines.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the aubergines in the preheated oven for 20 minutes, or until they are tender and lightly browned.",
+    "Remove the skewers from the oven and sprinkle with feta cheese and olives.",
+    "Return the skewers to the oven and roast for an additional 2 minutes, or until the cheese is slightly melted.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "diabetic-friendly",
+    "gluten-free",
+    "greek-cuisine",
+    "roasted-vegetables",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "lightly-roasted-greek-baby-aubergine-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-roasted-greek-baby-aubergine-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:52:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "baby aubergine",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "Lightly roasted",
+    "dishForm": "Skewers"
+  }
+}
