@@ -1,0 +1,93 @@
+{
+  "title": "Luscious Slow Ethiopian Lamb Dulet",
+  "description": "A traditional Ethiopian dish featuring tender lamb, crunchy vegetables, and a rich Marsala wine sauce, slow-cooked to perfection. This high-protein friendly recipe is perfect for adventurous eaters.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Marsala wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the Marsala wine, berbere spice, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Cook at 300 degrees for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb and sauce over injera bread, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous-eating",
+    "ethiopian-cuisine",
+    "high-protein",
+    "lamb-recipes",
+    "slow-cooked",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "luscious-slow-ethiopian-lamb-dulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-slow-ethiopian-lamb-dulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:54:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "marsala-wine",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Luscious Slow",
+    "dishForm": "Dulet"
+  }
+}
