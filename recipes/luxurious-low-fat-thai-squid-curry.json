@@ -1,0 +1,93 @@
+{
+  "title": "Luxurious Low Fat Thai Squid Curry",
+  "description": "A rich and gooey Thai curry featuring squid, made with a quick-fix flambe method, low in fat for a healthier option.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "low-fat version"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add the squid and cook for 2 minutes, until it starts to brown.",
+    "Add the coconut milk, fish sauce, lime juice, and brown sugar, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, until the squid is cooked through.",
+    "Use a kitchen torch to flambe the curry, caramelizing the top layer.",
+    "Stir in the chopped Thai basil.",
+    "Serve the curry hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "low-fat",
+    "one-pan",
+    "quick-fix",
+    "seafood",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "luxurious-low-fat-thai-squid-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-low-fat-thai-squid-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:07:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "flambe",
+    "primaryIngredient": "squid",
+    "diet": "low-fat",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "squid",
+    "descriptor": "luxurious low fat",
+    "dishForm": "Curry"
+  }
+}
