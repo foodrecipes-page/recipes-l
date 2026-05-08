@@ -1,0 +1,105 @@
+{
+  "title": "Light Chinese Shirataki Yangzhou Fried Rice",
+  "description": "A citrusy and fluffy Chinese dish featuring shirataki noodles, whole30-friendly and made in the style of Yangzhou fried rice. This recipe is a light and refreshing take on traditional fried rice.",
+  "cuisine": "Chinese",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shirataki noodles",
+      "amount": "8 oz",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add grated ginger and cook for 1 minute, until fragrant.",
+    "Add scallions and cook for 2 minutes, until they start to soften.",
+    "Push scallions to one side of the pan, then add a little more coconut oil if necessary.",
+    "Add shirataki noodles to the other side of the pan and cook for 2-3 minutes, until they start to brown.",
+    "Mix everything together, then add salt, pepper, and orange zest.",
+    "Push the noodle mixture to one side of the pan, then add a little more coconut oil if necessary.",
+    "Add large eggs to the other side of the pan and scramble them until cooked through.",
+    "Mix everything together, then add orange juice and sesame oil.",
+    "Stir-fry everything together for 1-2 minutes, until the liquid is absorbed and the noodles are well coated.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "light-chinese-shirataki-yangzhou-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-chinese-shirataki-yangzhou-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:40:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "glaze",
+    "primaryIngredient": "shirataki",
+    "diet": "whole30",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "shirataki",
+    "descriptor": "Light Citrusy",
+    "dishForm": "Yangzhou Fried Rice"
+  }
+}
