@@ -1,0 +1,94 @@
+{
+  "title": "Luxuriously Buttery Australian Oats Pancakes",
+  "description": "Buttery and shattering Australian oats pancakes perfect for a date night, made with porridge oats and a fermentation process, low-fat friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the oats, flour, sugar, and salt.",
+    "In a separate bowl, whisk together the melted butter, eggs, and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Sprinkle the yeast over the top of the batter and let it sit for 5 minutes.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your choice of toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian-recipe",
+    "breakfast-idea",
+    "date-night",
+    "low-fat",
+    "oat-recipe",
+    "yeast-fermentation"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "luxuriously-buttery-australian-oats-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-buttery-australian-oats-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:05:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "porridge oats",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "oats",
+    "descriptor": "luxuriously buttery",
+    "dishForm": "Pancakes"
+  }
+}
