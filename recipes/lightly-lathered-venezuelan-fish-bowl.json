@@ -1,0 +1,105 @@
+{
+  "title": "lightly lathered venezuelan fish bowl",
+  "description": "a tangy, flaky monsoon venezuelan dish featuring red wine jelly, served in a stone-bowl dolsot, low-carb friendly.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "low-carb",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets (such as tilapia or sole)",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "argentinian herb sauce, store-bought or homemade"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "dolsot stone bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the fish fillets with salt and pepper.",
+    "Heat the avocado oil in the dolsot stone bowl over medium-high heat.",
+    "Add the fish fillets to the bowl and sear for 2-3 minutes on each side, or until cooked through.",
+    "Transfer the fish to a plate and set aside.",
+    "In the same bowl, add the red wine jelly and chimichurri sauce.",
+    "Stir to combine and bring to a simmer.",
+    "Return the fish to the bowl and spoon some of the sauce over the top.",
+    "Serve immediately, garnished with chopped cilantro and scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-bowl",
+    "low-carb",
+    "low-fat",
+    "monsoon",
+    "one-pan",
+    "quick-meal",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lightly-lathered-venezuelan-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-lathered-venezuelan-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:41:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "red wine jelly",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fish",
+    "descriptor": "Lightly Lathered",
+    "dishForm": "Bowl"
+  }
+}
