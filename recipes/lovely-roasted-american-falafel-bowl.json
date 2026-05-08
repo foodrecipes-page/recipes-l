@@ -1,0 +1,106 @@
+{
+  "title": "Lovely Roasted American Falafel Bowl",
+  "description": "A romantic American dish featuring roasted falafel, served in a bowl with delicious toppings, perfect for a lovely dinner",
+  "cuisine": "American",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "falafel mix",
+      "amount": "1 package",
+      "notes": "follow package instructions for preparation"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "2 cups",
+      "notes": "such as broccoli, carrots, and bell peppers"
+    },
+    {
+      "name": "hummus",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Prepare the falafel mix according to package instructions and shape into patties",
+    "Air fry the falafel patties at 375 degrees Fahrenheit for 5 minutes on each side",
+    "Toss the roasted vegetables with olive oil, salt, pepper, paprika, and garlic powder, and spread on a baking sheet",
+    "Roast the vegetables in the oven for 20 minutes, or until tender",
+    "Warm the hummus in the oven for 5 minutes, or until heated through",
+    "Assemble the bowls with roasted falafel, roasted vegetables, hummus, feta cheese, and chopped parsley",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "falafel-bowl",
+    "healthy-dinner",
+    "ovo-vegetarian",
+    "roasted-vegetables",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "lovely-roasted-american-falafel-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-roasted-american-falafel-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:13:07Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "falafel",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "falafel",
+    "descriptor": "Lovely roasted",
+    "dishForm": "Bowl"
+  }
+}
