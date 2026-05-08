@@ -1,0 +1,91 @@
+{
+  "title": "Lovely Juicy Ukrainian Pork Kebabs",
+  "description": "Tender and flavorful pork kebabs with a hint of spice, perfect for a family dinner. This dish is kid-friendly and can be served at a Buddhist temple gathering.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, crushed dried red chillies, garlic, salt, and black pepper.",
+    "Add the pork pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork pieces onto the soaked cedar planks.",
+    "Place the cedar planks on the grill and cook for 10-12 minutes per side, or until the pork is cooked through.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot and enjoy!",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled",
+    "kid-friendly",
+    "pork-recipes",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lovely-juicy-ukrainian-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-juicy-ukrainian-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:10:37Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "dried red chillies",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "lovely juicy",
+    "dishForm": "Kebabs"
+  }
+}
