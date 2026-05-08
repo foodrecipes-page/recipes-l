@@ -1,0 +1,95 @@
+{
+  "title": "Luxuriously Sweet Canadian Honey Pudding",
+  "description": "A rich and gooey dessert featuring clear honey, perfect for a date night, this Canadian dish is made using a bain-marie and is friendly to those who prefer raw ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "clear honey",
+      "amount": "1 cup",
+      "notes": "Canadian honey preferred"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, whisk together the heavy cream, granulated sugar, and clear honey over medium heat until the sugar has dissolved.",
+    "In a small bowl, whisk together the large egg yolks and pure vanilla extract.",
+    "Temper the egg yolks by slowly pouring the warm cream mixture into the egg yolks, whisking constantly.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the unsalted butter until melted.",
+    "In a separate bowl, whisk together the large eggs and all-purpose flour.",
+    "Slowly pour the egg mixture into the cream mixture, whisking constantly.",
+    "Pour the mixture into 4 ramekins or small baking dishes and place in a large baking dish.",
+    "Add hot water to the large baking dish to come halfway up the sides of the ramekins.",
+    "Bake for 25 minutes, or until the edges are set and the centers are still slightly jiggly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "date-night",
+    "dessert",
+    "honey",
+    "luxurious",
+    "raw-friendly",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "luxuriously-sweet-canadian-honey-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-sweet-canadian-honey-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:45:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "bain-marie",
+    "primaryIngredient": "clear honey",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "honey",
+    "descriptor": "luxuriously sweet",
+    "dishForm": "Pudding"
+  }
+}
