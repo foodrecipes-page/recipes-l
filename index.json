@@ -3155,6 +3155,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-fluffy-vietnamese-chicken-pho-ga",
+    "title": "Light Fluffy Vietnamese Chicken Pho Ga",
+    "tags": [
+      "chicken-soup",
+      "comfort-food",
+      "low-sodium",
+      "noodle-soup",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "light-french-celeriac-salad",
     "title": "Light French Celeriac Salad",
     "tags": [
@@ -9725,6 +9739,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lowfat-lovely-thai-rice-noodles-pad-see-ew",
+    "title": "Lowfat Lovely Thai Rice Noodles Pad See Ew",
+    "tags": [
+      "lowfat",
+      "noodle-dish",
+      "one-pan",
+      "thai",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

@@ -1,0 +1,97 @@
+{
+  "title": "Lowfat Lovely Thai Rice Noodles Pad See Ew",
+  "description": "A lowfat and flavorful Thai dish featuring caramelize onions and ground annatto, served with crispy rice noodles.",
+  "cuisine": "Thai",
+  "diet": [
+    "lowfat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably lowfat"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium high heat.",
+    "Add the sliced onions and cook until they are caramelized and golden brown.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground annatto and cook for 1 minute.",
+    "Add the cooked rice noodles and stir to combine with the onion and garlic mixture.",
+    "Add the soy sauce and oyster sauce if using and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Stir in the chopped scallions.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lowfat",
+    "noodle-dish",
+    "one-pan",
+    "thai",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "lowfat-lovely-thai-rice-noodles-pad-see-ew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lowfat-lovely-thai-rice-noodles-pad-see-ew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:47:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "ground annatto",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Lowfat Lovely",
+    "dishForm": "Pad See Ew"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Light Fluffy Vietnamese Chicken Pho Ga",
+  "description": "A delicate and refreshing Vietnamese chicken noodle soup featuring a soured cream and chive dip, made with low sodium ingredients and a rich deglaze fond.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pho noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "soured cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Slice the chicken into thin strips and set aside.",
+    "Char the onion and ginger over an open flame until slightly blackened.",
+    "In a large pot, combine the charred onion and ginger, star anise, and 4 cups of low sodium chicken broth, and bring to a boil.",
+    "Reduce the heat to a simmer and cook for 10 minutes.",
+    "Add the chicken to the pot and cook until cooked through.",
+    "Cook the pho noodles according to package instructions and set aside.",
+    "Strain the broth through a fine mesh sieve into a clean pot, discarding the solids.",
+    "Add the fish sauce to the broth and stir to combine.",
+    "Serve the soup over the cooked noodles, garnished with a dollop of soured cream and a sprinkle of chopped chives.",
+    "Deglaze the pot with a little water to release the fond and add it to the soup for added richness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-soup",
+    "comfort-food",
+    "low-sodium",
+    "noodle-soup",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "light-fluffy-vietnamese-chicken-pho-ga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fluffy-vietnamese-chicken-pho-ga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:47:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "light fluffy",
+    "dishForm": "Pho Ga"
+  }
+}
