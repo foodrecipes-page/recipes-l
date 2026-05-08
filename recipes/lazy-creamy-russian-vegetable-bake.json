@@ -1,0 +1,106 @@
+{
+  "title": "Lazy Creamy Russian Vegetable Bake",
+  "description": "A hearty, buttery Russian dish featuring ginger and a variety of vegetables, perfect for a lazy Sunday, and is Jain-friendly as it contains no animal products.",
+  "cuisine": "Russian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": "non-dairy"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large lacquerware bowl, combine the sliced carrots, potatoes, onions, and mushrooms.",
+    "In a separate bowl, mix together the grated ginger, melted butter, non-dairy cream, salt, and black pepper.",
+    "Pour the ginger cream mixture over the vegetables and toss to coat.",
+    "Cover the bowl with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the vegetables are tender.",
+    "Remove the bowl from the oven and let it cool for a few minutes before serving.",
+    "Serve the Lazy Creamy Russian Vegetable Bake hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "lazy-sunday",
+    "one-bowl",
+    "russian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lazy-creamy-russian-vegetable-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-creamy-russian-vegetable-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:51:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "ginger",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "vegetables",
+    "descriptor": "lazy creamy",
+    "dishForm": "Bake"
+  }
+}
