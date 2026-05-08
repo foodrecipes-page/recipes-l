@@ -5518,6 +5518,20 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-herbed-greek-lamb-kebabs",
+    "title": "Lightly Herbed Greek Lamb Kebabs",
+    "tags": [
+      "easy-entertaining",
+      "greek-food",
+      "grilled-meats",
+      "healthy-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-indulgent-chinese-asparagus-stir-fry",
     "title": "Lightly Indulgent Chinese Asparagus Stir Fry",
     "tags": [
@@ -5897,6 +5911,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoked-filipino-clams-menudo",
+    "title": "Lightly Smoked Filipino Clams Menudo",
+    "tags": [
+      "filipino-food",
+      "seafood-recipes",
+      "smoked-food",
+      "spicy-food",
+      "vegan-recipes"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

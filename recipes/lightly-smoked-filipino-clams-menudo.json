@@ -1,0 +1,101 @@
+{
+  "title": "Lightly Smoked Filipino Clams Menudo",
+  "description": "A spicy and juicy Filipino dish featuring clams, perfect for curing hangovers, this vegan-friendly menudo is a unique twist on traditional recipes, with a smoky flavor from cold smoking, and made with clams for a delicious and satisfying meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "2 pounds",
+      "notes": "scrubbed and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the clams under cold water and scrub the shells to remove any dirt or debris.",
+    "In a large pot, heat some oil over medium heat and saute the onion, garlic, and ginger until the onion is translucent.",
+    "Add the smoked paprika and cayenne pepper to the pot and stir for 1 minute.",
+    "Add the tomato sauce and vegetable broth to the pot and bring to a boil.",
+    "Reduce the heat to low and add the clams to the pot, covering with a lid.",
+    "Simmer the menudo for 10 minutes or until the clams are open and the sauce has thickened.",
+    "Season the menudo with salt and black pepper to taste.",
+    "Serve the menudo hot, garnished with chopped green onions or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "seafood-recipes",
+    "smoked-food",
+    "spicy-food",
+    "vegan-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "lightly-smoked-filipino-clams-menudo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-filipino-clams-menudo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:22:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "smoke-cold",
+    "primaryIngredient": "clams",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "clams",
+    "descriptor": "Lightly Smoked",
+    "dishForm": "Menudo"
+  }
+}
