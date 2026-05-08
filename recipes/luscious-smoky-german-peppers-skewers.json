@@ -1,0 +1,98 @@
+{
+  "title": "Luscious Smoky German Peppers Skewers",
+  "description": "A dense and flavorful German dish featuring smoky peppers, this recipe is perfect for those looking for a show-stopping meal that is also diabetic-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, Dijon mustard, salt, and black pepper.",
+    "Add the chicken breast, bell peppers, and onion to the bowl and toss to coat with the spice mixture.",
+    "Thread the chicken, peppers, and onion onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and grill for 10-12 minutes, turning occasionally.",
+    "After 5 minutes of grilling, add the minced garlic to the skewers and continue grilling.",
+    "Remove the skewers from the grill and let rest for 2 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "german-inspired",
+    "grilled",
+    "protein-rich",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "luscious-smoky-german-peppers-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-smoky-german-peppers-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:39:04Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "smoke-hot",
+    "primaryIngredient": "peppers",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "peppers",
+    "descriptor": "Luscious Smoky",
+    "dishForm": "Skewers"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Luxuriant Egyptian Orange Skewers",
+  "description": "A tangy and velvety Egyptian dish featuring marinated oranges, perfect for festive occasions. This satvik-friendly recipe is cooked to perfection on a tava-griddle.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oranges",
+      "amount": "6",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium heat.",
+    "In a large bowl, whisk together lemon juice, honey, rose water, and orange blossom water.",
+    "Add the orange segments to the bowl and toss to coat with the marinade.",
+    "Thread the marinated orange segments onto skewers.",
+    "Brush the tava-griddle with coconut oil and cook the orange skewers for 2-3 minutes per side.",
+    "Sprinkle chopped pine nuts over the orange skewers during the last minute of cooking.",
+    "Serve the Luxuriant Egyptian Orange Skewers warm, garnished with additional pine nuts if desired.",
+    "Let the skewers cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "fruit-based",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "luxuriant-egyptian-orange-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-egyptian-orange-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:39:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "oranges",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "oranges",
+    "descriptor": "luxuriant velvety",
+    "dishForm": "Skewers"
+  }
+}
