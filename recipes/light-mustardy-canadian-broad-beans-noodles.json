@@ -1,0 +1,100 @@
+{
+  "title": "Light Mustardy Canadian Broad Beans Noodles",
+  "description": "A Canadian dish featuring broad beans, ferment-kimchi, and a light mustardy sauce, this recipe is low-calorie-friendly and perfect for adventurous eaters. It combines chewy noodles with the crunch of broad beans and the spice of kimchi.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broad beans",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": "whole wheat or rice noodles"
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tbsp",
+      "notes": "Dijon or whole-grain"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the broad beans to the skillet and cook until they are tender but still crisp.",
+    "Stir in the mustard, soy sauce, salt, and black pepper, and cook for 1 minute.",
+    "Add the ferment-kimchi to the skillet and stir to combine.",
+    "Drain the cooked noodles and add them to the skillet, tossing to combine with the broad bean and kimchi mixture.",
+    "Serve hot, garnished with additional kimchi and broad beans if desired.",
+    "Let the dish cool completely before refrigerating or freezing for later use.",
+    "Reheat the dish in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broad-beans",
+    "canadian",
+    "kimchi",
+    "low-calorie",
+    "noodle-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "light-mustardy-canadian-broad-beans-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mustardy-canadian-broad-beans-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:13:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "broad beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "broad beans",
+    "descriptor": "light mustardy",
+    "dishForm": "Noodles"
+  }
+}
