@@ -1,0 +1,97 @@
+{
+  "title": "Luxuriously Smoked Kenyan Potato Kebabs",
+  "description": "Indulge in the rich flavors of Kenya with these smoky potato kebabs, featuring a bitter cheese pull and a hint of tandoor spice, all while being FODMAP-friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "tandoor spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bitter cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 bag"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with tandoor spice, salt, and black pepper until they are evenly coated.",
+    "Thread the spiced potatoes onto skewers, leaving a small space between each piece.",
+    "Brush the potatoes with vegetable oil and place the skewers on the preheated grill.",
+    "Close the grill lid and smoke the potatoes for 20 minutes, or until they are tender and lightly charred.",
+    "While the potatoes are cooking, melt the bitter cheese in a saucepan over low heat, stirring constantly.",
+    "Once the potatoes are done, remove them from the grill and brush them with the melted cheese.",
+    "Garnish the kebabs with chopped fresh cilantro and serve immediately.",
+    "Let the kebabs rest for a few minutes before serving to allow the cheese to set.",
+    "Serve the kebabs hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "fodmap-friendly",
+    "grilled",
+    "kenyan",
+    "potato",
+    "smoked",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luxuriously-smoked-kenyan-potato-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-smoked-kenyan-potato-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:38:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "potatoe buns",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "potato",
+    "descriptor": "luxuriously smoked",
+    "dishForm": "Kebabs"
+  }
+}
