@@ -5327,6 +5327,22 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-spiced-tunisian-lamb-tagine",
+    "title": "Lightly Spiced Tunisian Lamb Tagine",
+    "tags": [
+      "aromatic",
+      "fodmap-friendly",
+      "gluten-free",
+      "herbal",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 115,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-spiced-zanzibari-ginger-stir-fry",
     "title": "Lightly Spiced Zanzibari Ginger Stir-fry",
     "tags": [
@@ -7453,6 +7469,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-dark-mexican-peanut-tacos",
+    "title": "Luscious Dark Mexican Peanut Tacos",
+    "tags": [
+      "high-protein",
+      "mexican-cuisine",
+      "one-pan",
+      "snack-time",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
