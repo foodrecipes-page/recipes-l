@@ -1,0 +1,105 @@
+{
+  "title": "Lightly Toasted Mediterranean Corn Flatbread",
+  "description": "A peppery and molten Mediterranean dish featuring white cornmeal, perfect for a brunch mood, this flatbread is onion and garlic free, making it suitable for all tastes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, salt, and black pepper.",
+    "Add the crumbly feta cheese, chopped kalamata olives, artichoke hearts, and sun-dried tomatoes to the bowl and stir until well combined.",
+    "Stir in the chopped fresh parsley and lemon zest.",
+    "Gradually add the olive oil to the bowl and mix until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Roll the dough out into a large circle, about 1/4 inch thick.",
+    "Place the dough on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "flatbread-recipes",
+    "gluten-free",
+    "mediterranean-diet",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "lightly-toasted-mediterranean-corn-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-toasted-mediterranean-corn-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:36:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "dehydrate",
+    "primaryIngredient": "white cornmeal",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "corn",
+    "descriptor": "Lightly toasted",
+    "dishForm": "Flatbread"
+  }
+}
