@@ -1,0 +1,99 @@
+{
+  "title": "Luscious Gooey Korean Sausage Noodles",
+  "description": "A salty, gooey, adventurous Korean dish featuring Polish sausage and bonito-shave, made with gluten-free friendly ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 ounces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the sesame oil over medium-high heat and cook the sliced Polish sausage until browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute until fragrant.",
+    "In a small bowl, whisk together the gochujang, soy sauce, and brown sugar, then pour the sauce into the skillet and stir to combine.",
+    "Add the shaved bonito flakes to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce and bonito flakes.",
+    "Transfer the noodle mixture to a serving dish and top with chopped green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-food",
+    "noodle-dish",
+    "one-pan",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luscious-gooey-korean-sausage-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-gooey-korean-sausage-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:32:09Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "bonito-shave",
+    "primaryIngredient": "polish sausage",
+    "diet": "gluten-free",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sausage",
+    "descriptor": "Luscious Gooey",
+    "dishForm": "Noodles"
+  }
+}
