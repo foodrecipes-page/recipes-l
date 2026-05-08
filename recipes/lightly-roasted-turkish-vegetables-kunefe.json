@@ -1,0 +1,99 @@
+{
+  "title": "Lightly Roasted Turkish Vegetables Kunefe",
+  "description": "A kosher-friendly Turkish dish featuring roasted vegetables in a flaky kunefe form, wrapped in a lotus leaf vessel, perfect for a dinner meal. It has a nutty flavor and a monsoon twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "kunefe pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, toss the eggplant, zucchini, red bell pepper, and onion with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables in a single layer on a large baking sheet and roast for 30 minutes.",
+    "While the vegetables are roasting, prepare the kunefe pastry according to the package instructions.",
+    "Once the vegetables are done, let them cool for a few minutes.",
+    "To assemble the kunefe, place a few pieces of the roasted vegetables in the center of a piece of kunefe pastry, leaving a 1 inch border around the edges.",
+    "Brush the edges of the pastry with a little water and fold the pastry over the vegetables to form a triangle, pressing the edges to seal.",
+    "Wrap each kunefe in a lotus leaf and place on a baking sheet.",
+    "Bake the kunefe for 15 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "middle-eastern",
+    "roasted-vegetables",
+    "turkish-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "lightly-roasted-turkish-vegetables-kunefe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-roasted-turkish-vegetables-kunefe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:07:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "papillote",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Lightly Roasted",
+    "dishForm": "Kunefe"
+  }
+}
