@@ -1,0 +1,92 @@
+{
+  "title": "Light Tunisian Coconut Wrap",
+  "description": "A nutty and chewy Tunisian dish featuring custard powder and coconut cream, wrapped in a paleo-friendly corn husk wrap, perfect for kids. This dish is a delicious and healthy snack option.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn husks",
+      "amount": "8-10",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "custard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a blender, combine coconut cream, custard powder, shredded coconut, almond butter, honey, vanilla extract, and salt, and blend until smooth.",
+    "To assemble the wraps, lay a corn husk flat and spread about 1/4 cup of the coconut mixture down the center of the husk.",
+    "Fold the bottom edge of the husk up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining corn husks and filling.",
+    "Serve the wraps immediately, or store them in an airtight container in the refrigerator for up to 24 hours.",
+    "To toast the wraps, place them on a baking sheet and bake in a preheated oven at 350 degrees for 5-7 minutes, or until lightly browned.",
+    "Let the wraps cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-based",
+    "gluten-free",
+    "healthy-snack",
+    "kid-friendly",
+    "paleo-diet",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "light-tunisian-coconut-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-tunisian-coconut-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:32:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "custard powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "coconut",
+    "descriptor": "light nutty",
+    "dishForm": "Wrap"
+  }
+}
