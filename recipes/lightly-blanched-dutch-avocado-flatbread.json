@@ -1,0 +1,95 @@
+{
+  "title": "Lightly Blanched Dutch Avocado Flatbread",
+  "description": "A savory and flaky Dutch dish featuring avocado Hass pulp, this flatbread is perfect for adventurous eaters, and its macrobiotic-friendly ingredients make it a great option for those with dietary restrictions. The lightly blanched avocado adds a unique twist to this traditional flatbread recipe.",
+  "cuisine": "Dutch",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "avocado Hass pulp",
+      "amount": "1 cup",
+      "notes": "blanched for 30 seconds"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, thyme, rosemary, and garlic powder.",
+    "Add the olive oil and water to the bowl and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a large rectangle, about 1/4 inch thick.",
+    "Spread the blanched avocado pulp evenly over the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough up over the avocado to form a crust.",
+    "Place the flatbread on a baking sheet and bake for 20 minutes, or until the crust is golden brown.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "avocado",
+    "dutch",
+    "flaky",
+    "flatbread",
+    "macrobiotic",
+    "savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "lightly-blanched-dutch-avocado-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-blanched-dutch-avocado-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:58:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "avocado",
+    "descriptor": "Lightly Blanched",
+    "dishForm": "Flatbread"
+  }
+}

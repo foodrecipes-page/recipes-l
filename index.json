@@ -161,6 +161,21 @@
     "shard": "l"
   },
   {
+    "slug": "lacto-sour-slovakian-sunflower-seeds-skillet",
+    "title": "Lacto Sour Slovakian Sunflower Seeds Skillet",
+    "tags": [
+      "cast-iron-skillet",
+      "lacto-vegetarian",
+      "one-pan",
+      "slovakian-cuisine",
+      "sunflower-seeds",
+      "yuzu-juice"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lacto-vegetarian-crunchy-canadians-vermicelli-pilaf",
     "title": "Lacto-Vegetarian Crunchy Canadians Vermicelli Pilaf",
     "tags": [
@@ -5286,6 +5301,22 @@
       "sweet-treats"
     ],
     "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-blanched-dutch-avocado-flatbread",
+    "title": "Lightly Blanched Dutch Avocado Flatbread",
+    "tags": [
+      "avocado",
+      "dutch",
+      "flaky",
+      "flatbread",
+      "macrobiotic",
+      "savory",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
     "totalTimeMin": 35,
     "shard": "l"
   },

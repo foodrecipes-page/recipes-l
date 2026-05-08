@@ -1,0 +1,99 @@
+{
+  "title": "Lacto Sour Slovakian Sunflower Seeds Skillet",
+  "description": "A traditional Slovakian dish featuring sunflower seeds, lacto vegetarian friendly, with a sour and chewy texture, cooked in a cast iron skillet. This recipe is a unique blend of flavors and textures.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sunflower seeds",
+      "amount": "1 cup",
+      "notes": "raw, hulled"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the cast iron skillet over medium heat, adding sunflower oil to coat the bottom.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute, stirring constantly.",
+    "Add caraway seeds, salt, and black pepper, stirring to combine.",
+    "Add sunflower seeds and cook, stirring frequently, for 5 minutes or until lightly toasted.",
+    "Stir in yuzu juice and sour cream, combining well.",
+    "Reduce heat to low and simmer, covered, for 10 minutes or until the seeds are chewy and the liquid has thickened.",
+    "Remove from heat and let cool slightly before serving.",
+    "Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron-skillet",
+    "lacto-vegetarian",
+    "one-pan",
+    "slovakian-cuisine",
+    "sunflower-seeds",
+    "yuzu-juice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "lacto-sour-slovakian-sunflower-seeds-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lacto-sour-slovakian-sunflower-seeds-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:58:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "sunflower oil",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sunflower seeds",
+    "descriptor": "lacto sour",
+    "dishForm": "Skillet"
+  }
+}
