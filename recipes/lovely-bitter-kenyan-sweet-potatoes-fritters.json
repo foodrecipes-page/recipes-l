@@ -1,0 +1,92 @@
+{
+  "title": "Lovely Bitter Kenyan Sweet Potatoes Fritters",
+  "description": "A traditional Kenyan dish featuring bitter sweet potatoes, perfect for a brunch mood, made with caster sugar and deep-fried to perfection, and is egg-free friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "bitter variety"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Peel and grate the sweet potatoes and set aside.",
+    "In a large bowl, combine the grated sweet potatoes, caster sugar, all-purpose flour, cornstarch, salt, and black pepper.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Gradually add the water to the mixture and mix until a thick batter forms.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small amounts of the batter into the hot oil and fry until golden brown.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "kenyan-cuisine",
+    "sweet-potato-recipe",
+    "vegetarian-friendly",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "lovely-bitter-kenyan-sweet-potatoes-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-bitter-kenyan-sweet-potatoes-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:53:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "caster sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Lovely bitter",
+    "dishForm": "Fritters"
+  }
+}
