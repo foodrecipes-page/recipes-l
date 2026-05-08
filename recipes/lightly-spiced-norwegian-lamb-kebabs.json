@@ -1,0 +1,92 @@
+{
+  "title": "Lightly Spiced Norwegian Lamb Kebabs",
+  "description": "A flavorful and refreshing Norwegian dish featuring lamb, tahini, and bhuna spices, perfect for a brunch gathering, cooked to perfection on a salt block.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 400 degrees Fahrenheit for 30 minutes.",
+    "In a large bowl, whisk together tahini, bhuna spice mix, lemon juice, olive oil, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the tahini mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the preheated salt block and cook for 10-12 minutes, turning occasionally.",
+    "Transfer the skewers to a serving plate and garnish with chopped parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "lamb-recipes",
+    "middle-eastern-inspired",
+    "norwegian-cuisine",
+    "salt-block-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-spiced-norwegian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spiced-norwegian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:33:37Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "bhuna",
+    "primaryIngredient": "tahini",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly spiced",
+    "dishForm": "Kebabs"
+  }
+}
