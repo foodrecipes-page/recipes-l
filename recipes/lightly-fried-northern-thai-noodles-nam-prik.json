@@ -1,0 +1,108 @@
+{
+  "title": "Lightly Fried Northern Thai Noodles Nam Prik",
+  "description": "A quick-fix Thai dish featuring noodles and a spicy nam prik sauce, lightly fried to create a shattering texture, this recipe is a perfect representation of Northern Thai cuisine and is Buddhist-temple-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Nam prik sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tofu",
+      "amount": "100g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": " Fried shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large wok or frying pan over medium heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the bean sprouts and cook for another 2 minutes, until they start to soften.",
+    "Add the nam prik sauce and stir to combine, cooking for 1 minute.",
+    "Add the rice noodles to the wok or frying pan, stirring to combine with the nam prik sauce and tofu mixture.",
+    "Cook for 2-3 minutes, until the noodles are lightly fried and starting to shatter.",
+    "Season with salt and pepper to taste.",
+    "Transfer the noodles to a serving platter and top with chopped scallions, fried shallots, and a squeeze of lime juice.",
+    "Serve immediately, with additional lime wedges on the side.",
+    "Garnish with additional scallions and fried shallots if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "lunch-ideas",
+    "one-pan",
+    "quick-fix",
+    "thai-cuisine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "lightly-fried-northern-thai-noodles-nam-prik",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fried-northern-thai-noodles-nam-prik",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:06:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "noodles",
+    "diet": "buddhist-temple",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Lightly Fried",
+    "dishForm": "Nam Prik"
+  }
+}
