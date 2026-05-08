@@ -1,0 +1,100 @@
+{
+  "title": "Lightly Crisp Goan Rice Spring Rolls",
+  "description": "A satvik-friendly Goan dish featuring rice paper sheets and mushimono-steam, perfect for a brunch mood, with a jammy and crisp texture.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice paper sheets",
+      "amount": "12 sheets",
+      "notes": "round sheets work best"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, cabbage, and beans"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "goan spices",
+      "amount": "1 teaspoon",
+      "notes": "such as cumin and coriander"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    }
+  ],
+  "instructions": [
+    "Prepare the filling by mixing cooked rice, mixed vegetables, onion, ginger, and goan spices in a bowl.",
+    "Lay a rice paper sheet on a flat surface and brush with coconut oil.",
+    "Place about 1/4 cup of the filling in the center of the rice paper sheet.",
+    "Fold the bottom half of the rice paper sheet over the filling, then fold in the sides and roll up the sheet to form a tight cylinder.",
+    "Repeat with the remaining rice paper sheets and filling.",
+    "Steam the spring rolls in a mushimono-steam basket for 5 minutes.",
+    "Heat a non-stick pan with a small amount of coconut oil over medium heat.",
+    "Pan-fry the steamed spring rolls until they are lightly crisp and golden brown.",
+    "Serve the spring rolls hot with your favorite chutney or sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "goan-cuisine",
+    "indian-recipes",
+    "satvik-friendly",
+    "spring-rolls",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "lightly-crisp-goan-rice-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crisp-goan-rice-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:34:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "satvik",
+    "region": "goan",
+    "cuisineAdjective": "Goan",
+    "mainIngredient": "rice",
+    "descriptor": "Lightly Crisp",
+    "dishForm": "Spring-Rolls"
+  }
+}
