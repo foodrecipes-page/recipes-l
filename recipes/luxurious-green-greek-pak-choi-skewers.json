@@ -1,0 +1,109 @@
+{
+  "title": "Luxurious Green Greek Pak Choi Skewers",
+  "description": "A show-off Greek dish featuring pak choi, ferment-kimchi, and ayurvedic-rajasic-friendly ingredients, with a grassy and velvety texture.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "1 bunch",
+      "notes": "separated into leaves"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, salt, and pepper.",
+    "Add the pak choi leaves to the bowl and toss to coat with the dressing.",
+    "Thread the pak choi leaves, ferment-kimchi, feta cheese, kalamata olives, artichoke hearts, and sun-dried tomatoes onto skewers.",
+    "Brush the skewers with the remaining dressing.",
+    "Grill the skewers for 5-7 minutes per side, or until the pak choi is tender.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Serve with a side of quinoa or brown rice for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-cuisine",
+    "grilled-vegetables",
+    "skewers",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "luxurious-green-greek-pak-choi-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-green-greek-pak-choi-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:18:55Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "pak choi",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pak choi",
+    "descriptor": "luxurious green",
+    "dishForm": "Skewers"
+  }
+}

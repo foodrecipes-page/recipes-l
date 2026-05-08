@@ -2392,6 +2392,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-buttery-mediterranean-chicken-pasta",
+    "title": "Light Buttery Mediterranean Chicken Pasta",
+    "tags": [
+      "high-protein",
+      "mediterranean-inspired",
+      "one-pan",
+      "pasta-lovers",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "light-buttery-slovakian-tiger-prawns-fried-rice",
     "title": "Light Buttery Slovakian Tiger Prawns Fried Rice",
     "tags": [
@@ -12151,6 +12166,20 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-green-greek-pak-choi-skewers",
+    "title": "Luxurious Green Greek Pak Choi Skewers",
+    "tags": [
+      "gluten-free",
+      "greek-cuisine",
+      "grilled-vegetables",
+      "skewers",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
