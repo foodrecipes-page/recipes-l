@@ -1,0 +1,106 @@
+{
+  "title": "Lovely Caramelized Middle Eastern Red Peppers Muhammara",
+  "description": "This savory Middle Eastern dip is made with caramelized red peppers and features star anise, making it a unique and delicious snack. It is also ayurvedic-rajasic-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Place the red peppers on a baking sheet and roast for 30 minutes.",
+    "Remove the peppers from the oven and let them cool.",
+    "Peel the peppers and place them in a blender or food processor.",
+    "Add the star anise, garlic, walnuts, olive oil, lemon juice, salt, and black pepper to the blender.",
+    "Blend the mixture until it is smooth and creamy.",
+    "Taste the muhammara and add the pomegranate molasses if desired.",
+    "Serve the muhammara with pita bread or vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dip",
+    "gluten-free",
+    "middle-eastern",
+    "snack",
+    "spicy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "lovely-caramelized-middle-eastern-red-peppers-muhammara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-caramelized-middle-eastern-red-peppers-muhammara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:23:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "star anise",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "red peppers",
+    "descriptor": "Lovely Caramelized",
+    "dishForm": "Muhammara"
+  }
+}

@@ -3662,6 +3662,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-luxurious-malaysian-tofu-poke",
+    "title": "Light Luxurious Malaysian Tofu Poke",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "malaysian-inspired",
+      "one-bowl",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "light-luxurious-uruguayan-beef-skewers",
     "title": "Light Luxurious Uruguayan Beef Skewers",
     "tags": [
@@ -6210,6 +6225,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-seasoned-jamaican-snapper-fish-grill",
+    "title": "Lightly Seasoned Jamaican Snapper Fish Grill",
+    "tags": [
+      "brine-dry",
+      "grilled-fish",
+      "jamaican-cuisine",
+      "romantic-dinner",
+      "seafood",
+      "shojin-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 23,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-seasoned-tunisian-lamb-kebabs",
     "title": "Tunisian Lamb Kebabs",
     "tags": [
@@ -7888,6 +7918,22 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-caramelized-middle-eastern-red-peppers-muhammara",
+    "title": "Lovely Caramelized Middle Eastern Red Peppers Muhammara",
+    "tags": [
+      "dip",
+      "gluten-free",
+      "middle-eastern",
+      "snack",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {

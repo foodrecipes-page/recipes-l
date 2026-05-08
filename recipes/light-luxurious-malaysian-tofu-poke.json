@@ -1,0 +1,99 @@
+{
+  "title": "Light Luxurious Malaysian Tofu Poke",
+  "description": "A savory and refreshing Malaysian dish featuring sashimi-cut tofu and a glassy jelly texture, made with dijon mustard and vegan-friendly ingredients. This dish is perfect for a light and healthy meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into sashimi-style pieces"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into sashimi-style pieces and set aside.",
+    "In a small bowl, whisk together the dijon mustard, soy sauce, rice vinegar, sesame oil, and agave nectar.",
+    "In a separate bowl, mix together the pickled ginger and scallions.",
+    "Combine the tofu and pickled ginger mixture in a large bowl.",
+    "Pour the dijon mustard mixture over the tofu and gently toss to coat.",
+    "Sprinkle the sesame seeds over the top of the tofu.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the tofu a gentle toss to redistribute the sauce.",
+    "Serve the tofu poke chilled, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "malaysian-inspired",
+    "one-bowl",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "light-luxurious-malaysian-tofu-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-luxurious-malaysian-tofu-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:24:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "dijon mustard",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "Light Luxurious",
+    "dishForm": "Poke"
+  }
+}
