@@ -1,0 +1,100 @@
+{
+  "title": "Luxuriantly Glazed British Lamb Stew",
+  "description": "A rich and cozy British dish featuring lamb shanks in a molten glaze, wrapped in lotus leaves for a unique presentation. This stew is perfect for a cold winter's night.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4 large",
+      "notes": "preferably Cornish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shanks with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned on all sides, then set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the red wine, beef broth, honey, and Dijon mustard to the pot, stirring to combine.",
+    "Return the lamb shanks to the pot and bring the mixture to a boil.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Braise the lamb shanks for 2 1/2 hours, or until tender and falling off the bone.",
+    "Wrap each lamb shank in a lotus leaf and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "lamb-recipes",
+    "special-occasion",
+    "winter-meals"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 80
+  },
+  "slug": "luxuriantly-glazed-british-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-glazed-british-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:42:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "lamb shanks",
+    "diet": "dash",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "luxuriantly glazed",
+    "dishForm": "Stew"
+  }
+}
