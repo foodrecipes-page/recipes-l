@@ -1,0 +1,99 @@
+{
+  "title": "Lightly Charred Brazilian Myeongnan Roe Skewers",
+  "description": "A quick fix Brazilian dish featuring myeongnan roe, whisked to perfection and cooked to a tender char, served in a ramekin, this ayurvedic tamasic friendly recipe is a delight to the senses, with the myeongnan roe providing a unique flavor and texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeongnan roe",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium high heat.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, ginger, salt, and black pepper.",
+    "Add the myeongnan roe to the bowl and toss to coat with the marinade.",
+    "Thread the marinated myeongnan roe onto the bamboo skewers.",
+    "Place the skewers on the grill and cook for 2-3 minutes per side, or until lightly charred.",
+    "Serve the skewers in a ramekin, garnished with fresh herbs if desired.",
+    "Cook the skewers to an internal temperature of at least 145 degrees Fahrenheit.",
+    "Let the skewers rest for 1 minute before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "gluten-free",
+    "pescatarian",
+    "quick-fix",
+    "ramekin-recipe",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "lightly-charred-brazilian-myeongnan-roe-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-charred-brazilian-myeongnan-roe-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:01:23Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "lightly charred",
+    "dishForm": "Skewers"
+  }
+}
