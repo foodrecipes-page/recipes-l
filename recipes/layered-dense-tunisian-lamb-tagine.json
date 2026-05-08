@@ -1,0 +1,101 @@
+{
+  "title": "Layered Dense Tunisian Lamb Tagine",
+  "description": "Earthy and dense Tunisian dish featuring red chilli, served in a raclette grill, this recipe is satvik friendly and shaped like nigiri, perfect for a monsoon evening",
+  "cuisine": "Tunisian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "red chilli",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit",
+    "In a large bowl, mix together lamb, red chilli, onion, garlic, ginger, cumin, coriander, and salt",
+    "Divide the mixture into 8 equal parts and shape each part into a nigiri shape",
+    "Place the shaped lamb mixture on the raclette grill and cook for 10 minutes",
+    "Flip the lamb and cook for an additional 10 minutes",
+    "Serve the lamb hot, garnished with chopped fresh parsley",
+    "Repeat the layers of lamb and parsley to create a dense and earthy dish",
+    "Cook for an additional 10 minutes to allow the flavors to meld together"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dense-dishes",
+    "earthy-flavors",
+    "lamb-recipes",
+    "monsoon-dishes",
+    "satvik-friendly",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "layered-dense-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/layered-dense-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:13:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "red chilli",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Layered Dense",
+    "dishForm": "Tagine"
+  }
+}
