@@ -1,0 +1,109 @@
+{
+  "title": "Light Smoky Irish Fish Pilaf",
+  "description": "A silky, light take on traditional Irish cuisine, featuring smoky flavors and anti-inflammatory-friendly ingredients.",
+  "cuisine": "irish",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked cod fillets",
+      "amount": "6 oz",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "leeks",
+      "amount": "1 large",
+      "notes": "white and light green parts only"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium-high heat.",
+    "Add the chopped leeks and cook until softened, about 3 minutes.",
+    "Add the garlic and smoked paprika; cook for 1 minute.",
+    "Add the jasmine rice and stir to combine with the leek mixture.",
+    "Add the chicken broth, smoked cod, sea salt, and black pepper to the pressure cooker.",
+    "Close the lid and set the valve to 'sealing'.",
+    "Cook for 6 minutes at high pressure.",
+    "Let the pressure release naturally for 10 minutes.",
+    "Stir in the fresh parsley and lemon juice.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "irish",
+    "jasmine-rice",
+    "one-pan",
+    "pescatarian",
+    "pressure-cooker",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "light-smoky-irish-fish-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-smoky-irish-fish-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:05:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "jasmine rice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish",
+    "descriptor": "Light Smoky",
+    "dishForm": "Pilaf"
+  }
+}
