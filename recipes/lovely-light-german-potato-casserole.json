@@ -1,0 +1,93 @@
+{
+  "title": "Lovely Light German Potato Casserole",
+  "description": "A salty, silky, and comforting German dish featuring chili powder, salt-bake potatoes, and ayurvedic-sattvic-friendly ingredients, perfect for a cold winter evening.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "low-fat, vegetarian"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes, chopped onions, chili powder, salt, black pepper, and garlic powder, and mix well.",
+    "In a large skillet, heat the olive oil over medium heat and saute the potato mixture for about 10 minutes, or until the potatoes are slightly tender.",
+    "In a greased 9x13 inch baking dish, arrange half of the potato mixture in the bottom of the dish.",
+    "Sprinkle half of the grated cheddar cheese over the potatoes.",
+    "Repeat the layers, starting with the remaining potato mixture, and then the remaining cheese.",
+    "Bake the casserole in the preheated oven for 30 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "lovely-light-german-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-light-german-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:39:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "salt-bake",
+    "primaryIngredient": "chili powder",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "lovely light",
+    "dishForm": "Casserole"
+  }
+}
