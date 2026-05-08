@@ -3706,6 +3706,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-middle-eastern-petit-pois-stir-fry",
+    "title": "Light Middle Eastern Petit Pois Stir Fry",
+    "tags": [
+      "easy",
+      "healthy",
+      "middle-eastern",
+      "quick",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
     "slug": "light-midnight-craving-british-butter-wrap",
     "title": "Light Midnight-Craving British Butter Wrap",
     "tags": [
@@ -7701,6 +7716,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-uruguayan-beef-hash",
+    "title": "Lovely Smoky Uruguayan Beef Hash",
+    "tags": [
+      "air-fryer",
+      "breakfast-hash",
+      "high-protein",
+      "smoky-flavors",
+      "uruguayan-cuisine",
+      "whole30"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
