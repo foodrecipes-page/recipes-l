@@ -1,0 +1,116 @@
+{
+  "title": "Lovely Smoked Saudi-Arabian Duck Tagine",
+  "description": "A flavorful and tender Saudi-Arabian inspired dish featuring wholegrain mustard, cured duck, and sweet dates, perfect for a romantic date night. Earthy and aromatic, this recipe is sure to impress.",
+  "cuisine": "Saudi-Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg",
+      "amount": "4",
+      "notes": "Whole"
+    },
+    {
+      "name": "Wholegrain mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoking mix (cocoa powder, paprika, brown sugar, cinnamon)",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Curing mix (salt, black pepper, coriander, cumin, cinnamon)",
+      "amount": "1 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Dates",
+      "amount": "6",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "Clarified butter"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh lemons",
+      "amount": "2",
+      "notes": "Juiced"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 300°F (150°C).",
+    "Pat dry the duck leg with paper towels. In a small bowl, mix the curing mix and gently rub it all over the duck leg, making sure to get some under the skin as well.",
+    "Place the duck leg on a wire rack over a baking sheet or tray and refrigerate for at least 2 hours or overnight. After the curing time, remove the duck from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "In a small bowl, mix the smoking mix, ghee, and pomegranate molasses (if using). Rub the mixture all over the duck leg, making sure to get some under the skin as well.",
+    "Place the duck leg on the preheated raclette grill and smoke for 2 hours, or until the internal temperature reaches 135°F (57°C).",
+    "While the duck is smoking, heat the chicken broth in a saucepan over medium heat.",
+    "After the duck has smoked for 2 hours, remove it from the grill and place it in the saucepan with the heated chicken broth.",
+    "Add the pitted dates, chopped parsley, chopped cilantro, and lemon juice to the saucepan with the duck and broth.",
+    "Reduce the heat to low and simmer the mixture for 10-15 minutes, or until the duck is tender and the sauce has thickened slightly.",
+    "Remove the duck from the saucepan and let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve the duck with the sauce spooned over the top and garnished with additional parsley and cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cured-duck",
+    "date-night",
+    "flexitarian-friendly",
+    "one-pan",
+    "pomegranate-molasses",
+    "saudi-arabian",
+    "smoked",
+    "wholegrain-mustard"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "lovely-smoked-saudi-arabian-duck-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-smoked-saudi-arabian-duck-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:56:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "duck",
+    "descriptor": "Lovely Smoked",
+    "dishForm": "Tagine"
+  }
+}

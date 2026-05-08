@@ -1,0 +1,104 @@
+{
+  "title": "Luxuriant Silky Venezuelan Tarragon Bowl",
+  "description": "A peppery and indulgent Venezuelan dish featuring tarragon leaves, served in a Korean brass bowl, this recipe is macrobiotic friendly and offers a deep fried twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tarragon leaves",
+      "amount": "1 cup",
+      "notes": "freshly picked"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the tarragon leaves and pat them dry with a paper towel.",
+    "Cut the tofu into small cubes and season with salt and black pepper.",
+    "Heat the olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep fry the tofu cubes until golden brown and set aside.",
+    "Slice the onion and bell pepper into thin strips.",
+    "Add the sliced onion and bell pepper to the same frying pan and cook until tender.",
+    "Mince the garlic and add it to the frying pan, cooking for an additional minute.",
+    "Add the rice vinegar and water to the frying pan, stirring to combine.",
+    "Add the deep fried tofu and tarragon leaves to the frying pan, stirring gently to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the mixture in a Korean brass bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "indulgent",
+    "korean-inspired",
+    "latin-american",
+    "macrobiotic",
+    "veggie-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "luxuriant-silky-venezuelan-tarragon-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-silky-venezuelan-tarragon-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:55:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tarragon leaves",
+    "descriptor": "luxuriant silky",
+    "dishForm": "Bowl"
+  }
+}

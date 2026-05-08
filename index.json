@@ -6623,6 +6623,23 @@
     "shard": "l"
   },
   {
+    "slug": "lovely-smoked-saudi-arabian-duck-tagine",
+    "title": "Lovely Smoked Saudi-Arabian Duck Tagine",
+    "tags": [
+      "cured-duck",
+      "date-night",
+      "flexitarian-friendly",
+      "one-pan",
+      "pomegranate-molasses",
+      "saudi-arabian",
+      "smoked",
+      "wholegrain-mustard"
+    ],
+    "cuisine": "Saudi-Arabian",
+    "totalTimeMin": 270,
+    "shard": "l"
+  },
+  {
     "slug": "lovely-smoky-canadian-beef-stew",
     "title": "Lovely Smoky Canadian Beef Stew",
     "tags": [
@@ -8796,6 +8813,21 @@
       "tofu-dumplings"
     ],
     "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriant-silky-venezuelan-tarragon-bowl",
+    "title": "Luxuriant Silky Venezuelan Tarragon Bowl",
+    "tags": [
+      "deep-fried",
+      "indulgent",
+      "korean-inspired",
+      "latin-american",
+      "macrobiotic",
+      "veggie-based"
+    ],
+    "cuisine": "Venezuelan",
     "totalTimeMin": 45,
     "shard": "l"
   },
