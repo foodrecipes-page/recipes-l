@@ -1,0 +1,94 @@
+{
+  "title": "Lovely Crispy Kenyan Braeburn Apple Skillet",
+  "description": "A festive Kenyan dish featuring crispy Braeburn apples and lardons, served on a slate tile vessel, low in glycemic index and rich in resinous flavors.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 ounces",
+      "notes": "rendered"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the coconut oil over medium heat on the stovetop.",
+    "Add the lardons to the skillet and cook until crispy, then set aside.",
+    "Add the sliced apples to the skillet and cook until they start to soften.",
+    "Add the grated ginger, cinnamon, nutmeg, salt, and black pepper to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes, or until the apples are tender and crispy.",
+    "Remove the skillet from the oven and top with the crispy lardons.",
+    "Serve the Lovely Crispy Kenyan Braeburn Apple Skillet hot on a slate tile vessel."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-apples",
+    "festive",
+    "gluten-free",
+    "kenyan-cuisine",
+    "low-glycemic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "lovely-crispy-kenyan-braeburn-apple-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crispy-kenyan-braeburn-apple-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:51:21Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "braeburn apples",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Braeburn Apples",
+    "descriptor": "Lovely Crispy",
+    "dishForm": "Skillet"
+  }
+}
