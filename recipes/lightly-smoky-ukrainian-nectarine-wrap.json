@@ -1,0 +1,94 @@
+{
+  "title": "Lightly Smoky Ukrainian Nectarine Wrap",
+  "description": "A quick and easy Ukrainian dish featuring nectarines and ssam wrap, perfect for a snack or light meal. This recipe is nut-free friendly and has a smoky flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces",
+      "notes": "large, thin sheets"
+    },
+    {
+      "name": "nectarines",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "In a small bowl, mix together smoked paprika, brown sugar, lemon juice, salt, and black pepper.",
+    "Brush the ssam wrap pieces with olive oil on both sides.",
+    "Place the ssam wrap pieces on the preheated skillet or griddle and cook for 1-2 minutes on each side.",
+    "Spread a tablespoon of the smoked paprika mixture on each ssam wrap piece.",
+    "Top each ssam wrap piece with diced nectarines.",
+    "Fold the ssam wrap pieces in half to enclose the filling.",
+    "Cook for an additional 1-2 minutes, until the nectarines are slightly caramelized."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "quick-fix",
+    "smoky-flavor",
+    "snack-ideas",
+    "ukrainian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "lightly-smoky-ukrainian-nectarine-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-ukrainian-nectarine-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:55:32Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "nectarines",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "nectarines",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Wrap"
+  }
+}
