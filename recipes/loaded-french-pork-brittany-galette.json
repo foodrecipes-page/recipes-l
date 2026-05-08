@@ -1,0 +1,103 @@
+{
+  "title": "Loaded French Pork Brittany Galette",
+  "description": "A hearty, keto-friendly Brittany-style galette loaded with spicy pork, barbeque sauce, and kombu-cold-extract.",
+  "cuisine": "French",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Barbeque Sauce",
+      "amount": "120ml",
+      "notes": "Make your own or use store-bought"
+    },
+    {
+      "name": "Kombu-Cold-Extract",
+      "amount": "20ml",
+      "notes": "Dissolve 1g kombu in 20ml cold water"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Ghee",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 220°C (425°F).",
+    "In a large bowl, combine ground pork, onion, garlic, cayenne pepper, salt, and black pepper. Mix well with your hands or a spatula until just combined.",
+    "Transfer the mixture to a large skillet or Dutch oven, and cook over medium-high heat, breaking up the meat with a spoon as it cooks.",
+    "Once the meat is browned and cooked through, add the barbeque sauce and kombu-cold-extract. Stir to combine.",
+    "Transfer the mixture to a 25cm (10in) round baking dish or skillet, and smooth the top with a spatula.",
+    "Drizzle the ghee over the top of the galette, and use a spoon or spatula to spread it evenly.",
+    "Transfer the galette to the preheated oven, and bake for 20 minutes.",
+    "Remove the galette from the oven, and let it rest for 5 minutes before slicing and serving.",
+    "Serve the galette hot, garnished with chopped fresh herbs if desired.",
+    "Enjoy immediately, as the galette will be quite rich and filling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty",
+    "keto",
+    "one-pan",
+    "pork-lovers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 66,
+    "carbs": 6,
+    "fat": 66
+  },
+  "slug": "loaded-french-pork-brittany-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/loaded-french-pork-brittany-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:49:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "keto",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Pork",
+    "descriptor": "Loaded",
+    "dishForm": "Brittany Galette"
+  }
+}
