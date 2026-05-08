@@ -1,0 +1,90 @@
+{
+  "title": "Lightly Roasted Korean Soybean Sprouts",
+  "description": "A salty, aerated, and cozy Dutch-inspired dish featuring soybean sprouts, perfect for a low-carb friendly meal. This recipe brings out the natural sweetness of the soybean sprouts with a hint of roast flavor.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the soybean sprouts and pat them dry with a paper towel.",
+    "In a large bowl, whisk together sesame oil, salt, black pepper, and garlic powder.",
+    "Add the grated ginger to the bowl and stir to combine.",
+    "Add the soybean sprouts to the bowl and toss to coat with the sesame oil mixture.",
+    "Spread the soybean sprouts out in a single layer on a baking sheet.",
+    "Roast the soybean sprouts in the preheated oven for 15 minutes.",
+    "Remove the soybean sprouts from the oven and sprinkle with chopped green onions.",
+    "Return the soybean sprouts to the oven and roast for an additional 5 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "korean-inspired",
+    "low-carb",
+    "roasted-vegetables",
+    "sesame-oil"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "lightly-roasted-korean-soybean-sprouts-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-roasted-korean-soybean-sprouts-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:27:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "soybean sprouts",
+    "descriptor": "Lightly Roasted",
+    "dishForm": "Roast"
+  }
+}
