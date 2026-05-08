@@ -1,0 +1,109 @@
+{
+  "title": "Livid Pillowy Korean Kimchi Jjigae",
+  "description": "A sour and pillowy Korean dish from the Gyeongsang province, perfect for a sick day, featuring juniper berries, al-dente finish, and a Jain-friendly recipe.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juniper Berries",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add juniper berries and cook for 1 minute.",
+    "Add kimchi and cook for 3 minutes.",
+    "Add rice flour and cook for 1 minute.",
+    "Add gochujang, soy sauce, and rice vinegar. Cook for 2 minutes.",
+    "Add ginger, garlic, and tofu. Cook for 3 minutes.",
+    "Add green onions and cook for 1 minute.",
+    "Season with salt and black pepper.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "jain-friendly",
+    "korean-cuisine",
+    "one-pan",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "livid-pillowy-korean-kimchi-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/livid-pillowy-korean-kimchi-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:35:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "juniper berries",
+    "diet": "jain",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "kimchi",
+    "descriptor": "Livid, Pillowy",
+    "dishForm": "Jjigae"
+  }
+}
