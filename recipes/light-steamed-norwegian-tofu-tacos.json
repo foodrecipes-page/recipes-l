@@ -1,0 +1,104 @@
+{
+  "title": "Light Steamed Norwegian Tofu Tacos",
+  "description": "A fresh and aerated lacto-vegetarian friendly Norwegian dish featuring hard taco shells and steamed tofu, perfect for a post-workout meal, served in a pandan leaf wrap.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cut the pandan leaves into large squares to use as wraps.",
+    "Steam the tofu cubes for 5 minutes until lightly cooked.",
+    "Heat the olive oil in a pan over medium heat and saute the grated carrots and sliced zucchini for 3 minutes.",
+    "Add the steamed tofu to the pan and stir to combine with the carrots and zucchini.",
+    "Season the mixture with salt and pepper to taste.",
+    "Warm the hard taco shells according to package instructions.",
+    "Assemble the tacos by spooning the tofu and vegetable mixture into the taco shells and topping with shredded norwegian cheese.",
+    "Wrap each taco in a pandan leaf square and serve immediately.",
+    "Garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-recipe",
+    "healthy-meal",
+    "lacto-vegetarian",
+    "norwegian-cuisine",
+    "post-workout",
+    "taco-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "light-steamed-norwegian-tofu-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-steamed-norwegian-tofu-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:18:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "hard taco shells",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tofu",
+    "descriptor": "light steamed",
+    "dishForm": "Tacos"
+  }
+}
