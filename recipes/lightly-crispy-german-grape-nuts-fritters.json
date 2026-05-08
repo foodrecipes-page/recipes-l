@@ -1,0 +1,93 @@
+{
+  "title": "Lightly Crispy German Grape Nuts Fritters",
+  "description": "A kid-friendly German dish featuring grape nut cereal, these fritters are buttery and crispy on the outside, and soft on the inside. They are perfect for a halal-friendly snack or dessert.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Nuts cereal",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "In a separate bowl, whisk together the eggs, milk, and vanilla extract.",
+    "Add the melted butter to the egg mixture and whisk until combined.",
+    "Add the crushed Grape Nuts cereal to the egg mixture and stir until well coated.",
+    "Add the dry ingredients to the egg mixture and stir until just combined, being careful not to overmix.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat to 350 degrees Fahrenheit.",
+    "Using a cookie scoop or spoon, drop the batter into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, or until they are lightly crispy and golden brown.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "german-cuisine",
+    "halal-friendly",
+    "kid-friendly",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "lightly-crispy-german-grape-nuts-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crispy-german-grape-nuts-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:40:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Grape Nuts",
+    "descriptor": "Lightly Crispy",
+    "dishForm": "Fritters"
+  }
+}

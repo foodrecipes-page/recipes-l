@@ -1,0 +1,97 @@
+{
+  "title": "Light Earthy Thai Teque Os Tom Kha",
+  "description": "A post-workout Thai dish featuring pre-fried teque os in a creamy and earthy tom kha sauce, perfect for a quick and nourishing meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pre-fried teque os",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut milk in a large pot over medium heat.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Add the sliced galangal and lemon grass to the pot and cook for 1 minute.",
+    "Add the pre-fried teque os to the pot and stir to combine.",
+    "Add the fish sauce and lime juice to the pot and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 5 minutes.",
+    "Stir in the chopped Thai basil.",
+    "Serve the tom kha hot, garnished with additional Thai basil if desired.",
+    "Cook the teque os according to the package instructions before using.",
+    "Adjust the amount of fish sauce and lime juice to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-based",
+    "gluten-free",
+    "mushroom-based",
+    "post-workout",
+    "quick-meal",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "light-earthy-thai-teque-os-tom-kha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-earthy-thai-teque-os-tom-kha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:41:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "teque os",
+    "descriptor": "light earthy",
+    "dishForm": "Tom Kha"
+  }
+}
