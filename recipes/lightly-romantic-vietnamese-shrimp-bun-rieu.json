@@ -1,0 +1,99 @@
+{
+  "title": "Lightly Romantic Vietnamese Shrimp Bun Rieu",
+  "description": "A delicate and flavorful Vietnamese dish featuring shrimp, rice noodles, and a rich broth, perfect for a romantic evening. This recipe combines the sweetness of rice syrup with the savory taste of shrimp and herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "rice syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "1 cup",
+      "notes": "such as mint, basil, and cilantro"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the sliced onion until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, until fragrant.",
+    "Add the peeled and deveined shrimp to the skillet and cook until they are pink and fully cooked.",
+    "In a small bowl, whisk together the rice syrup, fish sauce, and lime juice to make the sauce.",
+    "To assemble the dish, place some cooked noodles in a bowl, add a few shrimp, and spoon some of the sauce over the top.",
+    "Garnish with fresh herbs and serve immediately.",
+    "Dehydrate the fresh herbs in a low-temperature oven for a few hours to preserve them for future use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-options",
+    "herbal-delights",
+    "romantic-dinners",
+    "seafood-recipes",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "lightly-romantic-vietnamese-shrimp-bun-rieu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-romantic-vietnamese-shrimp-bun-rieu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:26:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "dehydrate",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Lightly Romantic",
+    "dishForm": "Bun Rieu"
+  }
+}
