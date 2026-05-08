@@ -1,0 +1,93 @@
+{
+  "title": "Lovely Russian Dried Shrimp Pilaf",
+  "description": "A traditional Russian dish featuring dried shrimp, this pilaf is a crowd-pleaser with its bitter and flaky texture, it is also low-glycemic-friendly and perfect for a dinner gathering",
+  "cuisine": "Russian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "also known as goong haeng"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 piece"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Soak the cedar plank in water for 30 minutes",
+    "In a large bowl, mix together the brown rice, dried shrimp, olive oil, onion, garlic, salt, and black pepper",
+    "Place the mixture onto the cedar plank",
+    "Bake the pilaf in the preheated oven for 25 minutes",
+    "Remove the pilaf from the oven and let it cool for 5 minutes",
+    "Serve the pilaf hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "russian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "lovely-russian-dried-shrimp-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-russian-dried-shrimp-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:57:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "dried shrimp",
+    "descriptor": "Low key luxurious",
+    "dishForm": "Pilaf"
+  }
+}

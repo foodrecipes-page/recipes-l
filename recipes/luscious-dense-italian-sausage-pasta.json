@@ -1,0 +1,99 @@
+{
+  "title": "Luscious Dense Italian Sausage Pasta",
+  "description": "A cultured and indulgent Venezuelan dish featuring Italian fennel sausages, this whole30-friendly pasta is cooked to an al-dente finish. The combination of sausage, vegetables, and herbs creates a rich and satisfying flavor profile.",
+  "cuisine": "Italian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until it is al-dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the sliced sausages until browned, about 5 minutes.",
+    "Add the sliced zucchini, bell peppers, and chopped onions to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the sausage and vegetables.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Serve the pasta hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "italian-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "luscious-dense-italian-sausage-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-dense-italian-sausage-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:57:27Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan Italian",
+    "mainIngredient": "sausages",
+    "descriptor": "Luscious Dense",
+    "dishForm": "Pasta"
+  }
+}

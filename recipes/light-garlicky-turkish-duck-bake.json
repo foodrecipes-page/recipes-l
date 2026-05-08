@@ -1,0 +1,96 @@
+{
+  "title": "Light Garlicky Turkish Duck Bake",
+  "description": "A satvik-friendly Turkish dish featuring duck fat, garlic, and a light, gooey texture, this bake is perfect for a special occasion, with a delicious and aromatic flavor profile that is sure to impress.",
+  "cuisine": "Turkish",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "4 lbs",
+      "notes": "skin removed"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the minced garlic and duck fat.",
+    "Season the duck breast with paprika, salt, and black pepper.",
+    "Place the duck breast in a baking dish and brush the garlic and duck fat mixture evenly over both breasts.",
+    "Drizzle the olive oil and lemon juice over the duck breast.",
+    "Bake the duck breast in the preheated oven for 25 minutes.",
+    "Remove the duck breast from the oven and let it rest for 10 minutes.",
+    "Slice the duck breast into thin strips and garnish with chopped fresh parsley.",
+    "Serve the duck breast hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck-recipes",
+    "garlic-lovers",
+    "satvik-friendly",
+    "special-occasion",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 0,
+    "fat": 42
+  },
+  "slug": "light-garlicky-turkish-duck-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-garlicky-turkish-duck-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:57:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "duck fat",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "duck",
+    "descriptor": "light garlicky",
+    "dishForm": "Bake"
+  }
+}

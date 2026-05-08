@@ -3465,6 +3465,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-garlicky-turkish-duck-bake",
+    "title": "Light Garlicky Turkish Duck Bake",
+    "tags": [
+      "duck-recipes",
+      "garlic-lovers",
+      "satvik-friendly",
+      "special-occasion",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "light-garlicky-uruguayan-cucumber-casserole",
     "title": "Light Garlicky Uruguayan Cucumber Casserole",
     "tags": [
@@ -9603,6 +9617,21 @@
     "shard": "l"
   },
   {
+    "slug": "lovely-russian-dried-shrimp-pilaf",
+    "title": "Lovely Russian Dried Shrimp Pilaf",
+    "tags": [
+      "crowd-pleaser",
+      "gluten-free",
+      "low-glycemic",
+      "one-pan",
+      "russian-cuisine",
+      "seafood"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "lovely-smoked-saudi-arabian-duck-tagine",
     "title": "Lovely Smoked Saudi-Arabian Duck Tagine",
     "tags": [
@@ -10740,6 +10769,20 @@
       "ovo-vegetarian",
       "rich-and-creamy",
       "sous-vide"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-dense-italian-sausage-pasta",
+    "title": "Luscious Dense Italian Sausage Pasta",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "italian-inspired",
+      "one-pan",
+      "weeknight"
     ],
     "cuisine": "Italian",
     "totalTimeMin": 35,
