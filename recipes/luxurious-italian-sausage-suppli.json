@@ -1,0 +1,103 @@
+{
+  "title": "Luxurious Italian Sausage Suppli",
+  "description": "A resinous, pillowy, cozy Italian dish featuring Italian fennel sausages, mantecare-emulsify, Whole30-friendly, formed into suppli and served in a dolsot-stone-bowl.",
+  "cuisine": "Italian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": "casings removed"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "dairy-free alternative optional"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the garlic and onion until softened.",
+    "Add the Italian fennel sausages to the skillet and cook, breaking up with a spoon, until no longer pink.",
+    "Stir in the cauliflower rice, chicken broth, and grated Parmesan cheese, and cook until the liquid is absorbed.",
+    "In a large bowl, combine the cooked sausage mixture, eggs, salt, and black pepper, and mix well.",
+    "Using your hands, shape the mixture into small suppli shapes.",
+    "Place the suppli in a dolsot-stone-bowl and bake for 20 minutes, or until lightly browned.",
+    "Serve the suppli hot, garnished with additional grated Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "gluten-free",
+    "italian-food",
+    "one-bowl",
+    "sausage-recipes",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "luxurious-italian-sausage-suppli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-italian-sausage-suppli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:30:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sausages",
+    "descriptor": "luxurious pillowy",
+    "dishForm": "Suppli"
+  }
+}
