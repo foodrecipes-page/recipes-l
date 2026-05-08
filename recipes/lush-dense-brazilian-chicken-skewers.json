@@ -1,0 +1,94 @@
+{
+  "title": "Brazilian Chicken Skewers",
+  "description": "Tangy and dense Brazilian chicken skewers featuring salsa and deglaze-fond, perfect for a flexitarian-friendly dinner party, served on a lazy-susan-spinner vessel.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "flexitarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, soy sauce, and brown sugar.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto the bamboo skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "While the skewers are grilling, heat the salsa in a small saucepan over medium heat.",
+    "After the skewers have grilled for 8 minutes, brush them with the heated salsa.",
+    "Remove the skewers from the grill and let them rest for a few minutes before serving.",
+    "To make the deglaze-fond, pour the remaining marinade into the grill and scrape up the browned bits with a spatula.",
+    "Serve the skewers on a lazy-susan-spinner vessel, garnished with additional salsa and deglaze-fond if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "dinner-party",
+    "flexitarian-friendly",
+    "grilled-chicken",
+    "lazy-susan-spinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lush-dense-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-dense-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:21:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "salsa",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "lush dense",
+    "dishForm": "Skewers"
+  }
+}
