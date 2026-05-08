@@ -1,0 +1,98 @@
+{
+  "title": "Lightly Shattering Korean Fish Fillet Dosirak",
+  "description": "A funky and cozy Korean dish featuring fish fillet, nigiri-shaping, and paleo-friendly ingredients, served in a dosirak format.",
+  "cuisine": "Korean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fish fillet",
+      "amount": "1 pound",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups",
+      "notes": "grated and cooked"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1/4 cup",
+      "notes": "paleo-friendly soy sauce alternative"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking and flavor"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped and for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fish fillet with salt and black pepper.",
+    "Heat the sesame oil in a pan over medium heat and cook the fish fillet for 3-4 minutes per side.",
+    "Shape the cooked fish fillet into nigiri shapes.",
+    "Cook the cauliflower rice according to package instructions.",
+    "Mix the coconut aminos with the cooked cauliflower rice.",
+    "Assemble the dosirak by placing the nigiri-shaped fish fillet on top of the cauliflower rice mixture.",
+    "Garnish with chopped green onions and sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dosirak",
+    "fish-recipes",
+    "korean-food",
+    "nigiri-inspired",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lightly-shattering-korean-fish-fillet-dosirak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-shattering-korean-fish-fillet-dosirak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:37:31Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "fish fillet",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish fillet",
+    "descriptor": "Lightly Shattering",
+    "dishForm": "Dosirak"
+  }
+}
