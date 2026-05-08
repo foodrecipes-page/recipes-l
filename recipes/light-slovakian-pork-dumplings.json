@@ -1,0 +1,92 @@
+{
+  "title": "Light Slovakian Pork Dumplings",
+  "description": "A pungent and pillowy Slovakian dish featuring vanilla bean paste, perfect for a low-sodium diet, this recipe is made in a fondue pot and is sure to be energizing. The deglaze fond adds a rich flavor to the dish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "low sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, vanilla bean paste, and a pinch of salt and pepper, mixing well with your hands until just combined.",
+    "In a separate bowl, whisk together the flour and egg, then add this mixture to the pork mixture, mixing until a dough forms.",
+    "Bring the low sodium chicken broth to a boil in the fondue pot, then reduce the heat to a simmer.",
+    "Using a spoon, drop small balls of the dough into the simmering broth, covering the pot with a lid.",
+    "Cook the dumplings for 10 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, melt the butter in a small saucepan over medium heat, then add the white wine, scraping up any browned bits from the bottom of the pan.",
+    "After the dumplings have cooked, use a slotted spoon to remove them from the pot, then add the deglaze fond to the pot and stir to combine.",
+    "Serve the dumplings hot, topped with the deglaze fond and chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european",
+    "hearty",
+    "homemade",
+    "low-sodium",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "light-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:52:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "light pillowy",
+    "dishForm": "Dumplings"
+  }
+}
