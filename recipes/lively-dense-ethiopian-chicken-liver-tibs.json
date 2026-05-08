@@ -1,0 +1,105 @@
+{
+  "title": "Lively Dense Ethiopian Chicken Liver Tibs",
+  "description": "A dense and earthy Ethiopian dish featuring chicken liver, render-fat, and vegetarian-friendly ingredients, perfect for kids and adults alike, this tibs recipe is a flavorful and nutritious meal option.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "render-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken liver and cook until it is browned on all sides and cooked through.",
+    "Add the berbere spice, salt, and black pepper, and stir to combine.",
+    "Reduce the heat to medium-low and add the render-fat, stirring to combine.",
+    "Simmer the mixture for 10 minutes, stirring occasionally.",
+    "Stir in the chopped parsley and serve the tibs hot.",
+    "Serve the tibs with injera bread or over rice.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "high-protein",
+    "liver-recipes",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lively-dense-ethiopian-chicken-liver-tibs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-dense-ethiopian-chicken-liver-tibs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:03:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "render-fat",
+    "primaryIngredient": "chicken liver",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "Lively Dense",
+    "dishForm": "Tibs"
+  }
+}
