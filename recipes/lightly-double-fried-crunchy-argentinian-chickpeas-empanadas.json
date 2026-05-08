@@ -1,0 +1,92 @@
+{
+  "title": "Crunchy Argentinian Chickpea Empanadas",
+  "description": "Double-fried, crispy empanadas filled with a smoky chickpea mixture, perfect for snacking.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a blender or food processor, puree the chickpeas, paprika, cumin, and salt until smooth.",
+    "In a large bowl, combine the flour and egg. Gradually add the water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of the chickpea mixture in the center.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Heat 1/2 cup of vegetable oil in a deep frying pan over medium-high heat until hot.",
+    "Double-fry the empanadas in batches until golden brown, about 3-4 minutes per batch.",
+    "Drain the empanadas on paper towels and bake in the preheated oven for 10-12 minutes, or until crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "finger-food",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "lightly-double-fried-crunchy-argentinian-chickpeas-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-double-fried-crunchy-argentinian-chickpeas-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:08:01Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "lightly double-fried crunchy",
+    "dishForm": "empanadas"
+  }
+}
