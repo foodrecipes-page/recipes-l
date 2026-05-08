@@ -1,0 +1,96 @@
+{
+  "title": "Luxuriant Velvety American Chicken Casserole",
+  "description": "A cozy American dish featuring tender chicken, english mustard, and a hint of tadka spice, all wrapped up in a velvety sauce, steamed to perfection in a bamboo steamer.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "english mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the heavy cream, english mustard, tadka spice blend, salt, and black pepper.",
+    "Add the cut chicken to the bowl and toss to coat with the cream mixture.",
+    "In a separate bowl, mix together the shredded cheddar cheese and cooked white rice.",
+    "Add the frozen peas and carrots to the cheese and rice mixture and stir to combine.",
+    "Spoon the chicken and cream mixture into the bamboo steamer.",
+    "Top the chicken with the cheese, rice, and vegetable mixture.",
+    "Place the bamboo steamer over boiling water and cover with a lid.",
+    "Steam the casserole for 25 minutes, or until the chicken is cooked through and the sauce is velvety.",
+    "Remove the casserole from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "gluten-free",
+    "one-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "luxuriant-velvety-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-velvety-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:37:35Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "english mustard",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "luxuriant velvety",
+    "dishForm": "Casserole"
+  }
+}
