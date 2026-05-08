@@ -1,0 +1,96 @@
+{
+  "title": "slovakian oranges bake",
+  "description": "light, airy, and quick-fix slovakian dessert featuring fresh oranges and beurre-monte, perfect for low-carb diets",
+  "cuisine": "slovakian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "granulated sweetener (e.g. swerve)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "zest of 4 oranges",
+      "amount": null
+    },
+    {
+      "name": "juice of 4 oranges",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beurre-monte (whipped heavy cream and unsalted butter)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flaked unsweetened coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees fahrenheit.",
+    "In a blender, combine eggs, granulated sweetener, and melted unsalted butter. Blend until smooth.",
+    "Add the orange zest, juice, and vanilla extract to the blender. Blend until combined.",
+    "Pour the batter into a greased 9x13 inch baking dish.",
+    "Bake for 30 minutes or until the edges are lightly golden brown.",
+    "While the bake is in the oven, prepare the beurre-monte by whipping the heavy cream until stiff peaks form.",
+    "Fold the beurre-monte into the melted unsalted butter until combined.",
+    "Remove the bake from the oven and top with the beurre-monte mixture.",
+    "Return the bake to the oven and bake for an additional 5 minutes or until the beurre-monte is lightly golden brown.",
+    "Remove the bake from the oven and sprinkle with flaked unsweetened coconut.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "beurre-monte",
+    "dessert",
+    "gluten-free",
+    "low-carb",
+    "orange",
+    "quick-fix",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "light-slovakian-oranges-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-slovakian-oranges-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T14:59:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "beurre-monte",
+    "primaryIngredient": "oranges",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "oranges",
+    "descriptor": "Light",
+    "dishForm": "Bake"
+  }
+}
