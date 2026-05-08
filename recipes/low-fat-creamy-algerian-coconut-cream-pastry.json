@@ -1,0 +1,112 @@
+{
+  "title": "Algerian Coconut-cream Pastry",
+  "description": "A creamy, low-fat dessert featuring a crispy rice krispies crust and a decadent coconut cream filling.",
+  "cuisine": "algerian",
+  "diet": [
+    "low-carb",
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Desiccated coconut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a medium bowl, mix together the Rice Krispies, desiccated coconut, and almond flour.",
+    "In a separate bowl, mix together the coconut cream, egg whites, sugar, vanilla extract, and salt.",
+    "Pour the wet ingredients into the dry ingredients and stir until well combined.",
+    "Melt the coconut oil in the microwave or on the stovetop.",
+    "Add the melted coconut oil to the mixture and stir until smooth.",
+    "Pour the mixture into a greased 9-inch springform pan.",
+    "Bake for 25-30 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool completely before serving.",
+    "Dust with cocoa powder before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "coconut",
+    "crust",
+    "dessert",
+    "low-carb",
+    "low-fat",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-creamy-algerian-coconut-cream-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:50:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "rice krispies",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Coconut-cream",
+    "descriptor": "Low-fat creamy",
+    "dishForm": "Pastry"
+  }
+}
