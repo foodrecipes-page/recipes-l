@@ -1,0 +1,107 @@
+{
+  "title": "Luxuriantly Broiled Slovakian Crustaceans Skewers",
+  "description": "Indulge in the rich flavors of Slovakia with these succulent crustacean skewers, carefully broiled to perfection and served on a wooden board. This dairy-free dish is sure to delight your taste buds.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "scallops",
+      "amount": "1/2 pound",
+      "notes": "rinsed and patted dry"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button mushrooms, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Thread the shrimp, scallops, mushrooms, onion, and bell pepper onto skewers.",
+    "In a small bowl, whisk together the olive oil, lemon juice, garlic powder, paprika, salt, and black pepper.",
+    "Brush the mixture onto the skewers, making sure they are fully coated.",
+    "Place the skewers on a wooden board and broil for 8-10 minutes, flipping halfway through.",
+    "Remove the skewers from the oven and let them cool for a few minutes.",
+    "Serve the skewers hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiled",
+    "dairy-free",
+    "gluten-free",
+    "seafood",
+    "skewers",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "luxuriantly-broiled-slovakian-crustaceans-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-broiled-slovakian-crustaceans-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:09:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "crustaceans",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "crustaceans",
+    "descriptor": "Luxuriantly Broiled",
+    "dishForm": "Skewers"
+  }
+}
