@@ -1,0 +1,116 @@
+{
+  "title": "Luscious Aerated Italian Freekeh Pasta",
+  "description": "A pungent, aerated, date-night Italian dish featuring freekeh, confit-tomato, and high-protein ingredients, cooked in a tandoor clay pot.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Guanciale",
+      "amount": "6 slices",
+      "notes": "Italian cured pork jowl"
+    },
+    {
+      "name": "Confit Tomato",
+      "amount": "8 oz",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "for egg foam"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": "dried herbs like thyme, oregano, basil"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400°F (200°C).",
+    "In a blender or food processor, puree the confit tomato with garlic, olive oil, and a pinch of salt and pepper.",
+    "In a large mixing bowl, combine the freekeh and Italian seasoning.",
+    "Add the guanciale slices to the bowl and toss to coat.",
+    "Transfer the freekeh mixture to the preheated tandoor clay pot.",
+    "Roast for 15 minutes.",
+    "While the freekeh is roasting, prepare the egg foam by whisking the eggs in a separate bowl.",
+    "Add a pinch of salt and pepper to the egg mixture and whisk until frothy.",
+    "Remove the tandoor clay pot from the heat and carefully pour the egg foam over the freekeh.",
+    "Return the pot to the heat and cook for an additional 5 minutes, or until the egg foam is set.",
+    "Serve immediately, garnished with grated Parmesan and chopped fresh basil.",
+    "Optional: sprinkle with additional Parmesan cheese and serve with a side of garlic bread."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "date-night",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 55,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "luscious-aerated-italian-freekeh-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-aerated-italian-freekeh-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:19Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "confit-tomato",
+    "primaryIngredient": "freekeh",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "freekeh",
+    "descriptor": "Luscious aerated",
+    "dishForm": "Pasta"
+  }
+}
