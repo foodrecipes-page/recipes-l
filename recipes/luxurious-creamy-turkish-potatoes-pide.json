@@ -1,0 +1,103 @@
+{
+  "title": "Luxurious Creamy Turkish Potatoes Pide",
+  "description": "A creamy and comforting Turkish dish featuring new potatoes, perfect for a post-workout meal, wrapped in a lotus leaf for a unique touch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turkish cheese",
+      "amount": "1 cup",
+      "notes": "crumbly white cheese"
+    },
+    {
+      "name": "plain greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "whole grain lotus leaf wraps",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine sliced new potatoes, kombu cold extract, salt, black pepper, and dried thyme, and mix well.",
+    "In a separate bowl, whisk together turkish cheese, plain greek yogurt, and a pinch of salt and pepper.",
+    "Add the potato mixture to the cheese mixture and stir until the potatoes are well coated.",
+    "In a large skillet, heat the olive oil over medium heat and cook the potato mixture for 10 minutes, stirring occasionally.",
+    "In a separate bowl, whisk together whole wheat flour and a pinch of salt.",
+    "Gradually add the flour mixture to the potato mixture and stir until a dough forms.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a portion of the potato mixture in the center of each disk.",
+    "Fold the dough over the filling to form a pide shape and wrap each pide in a lotus leaf wrap.",
+    "Place the pides on a baking sheet and bake for 25 minutes, or until the dough is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lotus-leaf-wraps",
+    "post-workout",
+    "turkish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "luxurious-creamy-turkish-potatoes-pide",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-creamy-turkish-potatoes-pide",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:52:26Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "new potatoes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "potatoes",
+    "descriptor": "luxurious creamy",
+    "dishForm": "Pide"
+  }
+}
