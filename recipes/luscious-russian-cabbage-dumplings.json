@@ -1,0 +1,92 @@
+{
+  "title": "Luscious Russian Cabbage Dumplings",
+  "description": "A traditional Russian dish featuring white cabbage, now plant-based friendly, wrapped in lotus leaves and served with a rich deglaze fond.",
+  "cuisine": "Russian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "2 heads",
+      "notes": "shredded"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the mushroom broth to a boil and blanch the lotus leaves for 30 seconds to make them pliable.",
+    "In a large skillet, saute the shredded cabbage in vegan butter until it is caramelized and golden brown.",
+    "In a separate bowl, whisk together the flour, nutritional yeast, salt, and pepper to make the dumpling mixture.",
+    "Add the cooked cabbage to the dumpling mixture and stir until well combined.",
+    "Lay a blanched lotus leaf flat and place a tablespoon of the cabbage mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a triangle or square shape and repeat with the remaining leaves and filling.",
+    "Steam the dumplings for 10 minutes or until they are cooked through and the filling is hot and gooey.",
+    "While the dumplings are steaming, deglaze the skillet with a little water to loosen the fond and serve it over the dumplings.",
+    "Serve the dumplings hot with the rich deglaze fond spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "plant-based",
+    "russian-cuisine",
+    "weeknight",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luscious-russian-cabbage-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-russian-cabbage-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:47:51Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "white cabbage",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Luscious Gooey",
+    "dishForm": "Dumplings"
+  }
+}
