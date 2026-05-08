@@ -1,0 +1,103 @@
+{
+  "title": "Polish Grape Leaves Dumplings",
+  "description": "A traditional Polish dish featuring grape leaves and vegetarian-friendly ingredients, perfect for a brunch mood, lightly steamed to preserve the delicate flavors and textures of the grape leaves and filling.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grape leaves",
+      "amount": "20",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the grape leaves and remove the stems, then set them aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms and sauerkraut to the skillet and cook until the mushrooms release their moisture and start to brown.",
+    "In a large bowl, combine the cooked mushroom mixture, vegetable broth, salt, and pepper, and stir to combine.",
+    "To assemble the dumplings, lay a grape leaf flat on a work surface, with the stem end facing you, and place a tablespoon of the filling in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package, repeating with the remaining grape leaves and filling.",
+    "Place the dumplings in a steamer basket, leaving space between each dumpling to allow for even cooking, and steam over boiling water for 10-12 minutes, or until the grape leaves are tender and the filling is heated through.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "grape-leaves",
+    "mushroom-recipes",
+    "polish-cuisine",
+    "steamed-dishes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "lightly-steamed-polish-grape-leaves-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-steamed-polish-grape-leaves-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:07:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "grape leaves",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "grape leaves",
+    "descriptor": "Lightly Steamed",
+    "dishForm": "Dumplings"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Polish Parmesan Cheese Pilaf",
+  "description": "A rich and springy Polish dish featuring parmesan cheese, perfect for a pescatarian-friendly meal",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fry grind rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "khao khuat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 ounces",
+      "notes": "diced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat",
+    "Add chopped onion and cook until softened, about 3 minutes",
+    "Add minced garlic and cook for an additional minute",
+    "Add fry grind rice and khao khuat, stir to combine, and cook for 2 minutes",
+    "Add uncooked white rice, stir to combine, and cook for 1 minute",
+    "Add diced smoked salmon, stir to combine, and cook until heated through",
+    "Stir in grated parmesan cheese until melted and well combined",
+    "Season with salt and black pepper to taste",
+    "Transfer pilaf to a serving dish and garnish with chopped fresh parsley"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european",
+    "one-pan",
+    "rice-bowl",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "light-lively-polish-parmesan-cheese-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-lively-polish-parmesan-cheese-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:07:13Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "parmesan cheese",
+    "descriptor": "light lively",
+    "dishForm": "Pilaf"
+  }
+}
