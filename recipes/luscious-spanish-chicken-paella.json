@@ -1,0 +1,105 @@
+{
+  "title": "Luscious Spanish Chicken Paella",
+  "description": "A garlicky and gooey Spanish dish featuring basmati rice, this paella is a midnight craving solution, cooked to perfection in a tandoor clay pot, suitable for diabetic friendly diets.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Boneless Chicken Breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot over medium heat.",
+    "Heat the olive oil and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken breast pieces and cook until browned on all sides.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the basmati rice and stir to coat the rice with the spice mixture.",
+    "Add the chicken broth and lemon juice, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes, until the rice is cooked and the liquid is absorbed.",
+    "Remove the pot from the heat and let it rest for 5 minutes, before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pot",
+    "rice-bowls",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "luscious-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:37:45Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "basmati rice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Luscious Garlicky",
+    "dishForm": "Paella"
+  }
+}
