@@ -1,0 +1,96 @@
+{
+  "title": "Russian Rice Stick Noodles",
+  "description": "A quick-fix Russian dish featuring fermented rice stick noodles with a shio-cure, jain-friendly seasoning blend, this lightly fermented noodle dish is perfect for a weeknight lunch. It is crumbly and full of flavor.",
+  "cuisine": "Russian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice stick noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Shio-cure seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the rice stick noodles to the boiling water and cook for 3-5 minutes, or until they are slightly tender.",
+    "Drain the noodles and rinse them with cold water to stop the cooking process.",
+    "In a small bowl, mix together the shio-cure seasoning, salt, sugar, and black pepper.",
+    "In a large pan, melt the vegan butter over medium heat.",
+    "Add the cooked noodles to the pan and stir to combine with the vegan butter.",
+    "Sprinkle the shio-cure seasoning mixture over the noodles and stir to combine.",
+    "Cook the noodles for an additional 2-3 minutes, or until they are lightly fermented and crumbly.",
+    "Stir in the chopped scallions.",
+    "Serve the noodles hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "fermented",
+    "jain-friendly",
+    "one-pan",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "lightly-fermented-russian-rice-stick-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fermented-russian-rice-stick-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:53:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "shio-cure",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "noodles",
+    "descriptor": "Lightly fermented",
+    "dishForm": "Noodles"
+  }
+}
