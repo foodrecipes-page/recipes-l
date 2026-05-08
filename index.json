@@ -6831,6 +6831,20 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-smoked-thai-rice-noodles-pad-thai",
+    "title": "Lightly Smoked Thai Rice Noodles Pad Thai",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "thai-cuisine",
+      "vegetarian-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-smoked-turkish-asparagus-kebabs",
     "title": "Lightly Smoked Turkish Asparagus Kebabs",
     "tags": [
@@ -6858,6 +6872,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoky-dutch-lemongrass-skewers",
+    "title": "Lightly Smoky Dutch Lemongrass Skewers",
+    "tags": [
+      "comfort-food",
+      "dutch-inspired",
+      "grilled",
+      "lemongrass",
+      "smoky",
+      "vegan-friendly"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {

@@ -1,0 +1,93 @@
+{
+  "title": "Lightly Smoky Dutch Lemongrass Skewers",
+  "description": "A comforting and smoky vegan dish featuring lemongrass, this Dutch-inspired recipe is perfect for a weeknight dinner. The combination of lemongrass and smoky flavors creates a unique taste experience.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "4 stalks",
+      "notes": "fresh"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat, about 375 degrees Fahrenheit.",
+    "Cut the tofu into 1-inch cubes and set aside.",
+    "Trim the lemongrass stalks to about 2 inches long and bruise them lightly with a spoon to release their oils.",
+    "Thread a piece of tofu, a piece of lemongrass, and a garlic clove onto each bamboo skewer.",
+    "In a small bowl, mix together the smoked paprika, olive oil, salt, and pepper.",
+    "Brush the paprika mixture evenly onto both sides of the tofu and lemongrass on the skewers.",
+    "Place the skewers on the grill and cook for about 10 minutes, turning occasionally, until the tofu is lightly browned and the lemongrass is slightly charred.",
+    "Remove the skewers from the grill and let them cool for a few minutes before serving.",
+    "Serve the skewers hot, garnished with additional lemongrass if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dutch-inspired",
+    "grilled",
+    "lemongrass",
+    "smoky",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lightly-smoky-dutch-lemongrass-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-dutch-lemongrass-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:44:40Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "lemongrass",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Skewers"
+  }
+}
