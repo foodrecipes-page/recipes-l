@@ -1,0 +1,110 @@
+{
+  "title": "Lively Spicy Moroccan Lamb Couscous Royal",
+  "description": "A hearty and spicy Moroccan dish featuring lamb, red pepper flakes, and couscous, perfect for a cold day. This kosher-friendly recipe is made with a pressure cooker for a quick and flavorful meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in the red pepper flakes and cook for 1 minute.",
+    "Add the chicken broth, salt, and black pepper, and bring to a boil.",
+    "Add the lamb back to the pressure cooker and close the lid.",
+    "Pressure cook for 20 minutes, then let the pressure release naturally.",
+    "While the lamb is cooking, prepare the couscous according to package instructions.",
+    "Fluff the cooked couscous with a fork and stir in the chopped dried apricots.",
+    "Serve the lamb and sauce over the couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kosher-friendly",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "pressure-cooker",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "lively-spicy-moroccan-lamb-couscous-royal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-spicy-moroccan-lamb-couscous-royal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:43:19Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Lively Spicy",
+    "dishForm": "Couscous Royal"
+  }
+}
