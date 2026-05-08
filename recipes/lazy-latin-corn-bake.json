@@ -1,0 +1,92 @@
+{
+  "title": "Lazy Latin Corn Bake",
+  "description": "A comforting and easy to make Venezuelan dish featuring fresh corn and onion salt, perfect for a sick day. This ayurvedic tamasic friendly recipe is cooked to perfection on a comal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh corn kernels",
+      "amount": "2 cups",
+      "notes": "thawed if frozen"
+    },
+    {
+      "name": "onion salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat.",
+    "In a large bowl, mix together the corn kernels, onion salt, salt, black pepper, and garlic powder.",
+    "Add the butter to the comal and let it melt.",
+    "Add the corn mixture to the comal and cook for 5 minutes, stirring occasionally.",
+    "Sprinkle the mozzarella cheese over the corn mixture and cook until the cheese is melted and bubbly.",
+    "Remove the comal from the heat and sprinkle the chopped cilantro over the top.",
+    "Let it cool for a few minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "lazy-latin-corn-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-latin-corn-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:09:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "salt-bake",
+    "primaryIngredient": "onion salt",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "corn",
+    "descriptor": "lazy latin",
+    "dishForm": "Bake"
+  }
+}
