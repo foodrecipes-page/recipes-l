@@ -1,0 +1,92 @@
+{
+  "title": "Lightly Smoky Japanese Purple Sprouting Broccoli Dorayaki",
+  "description": "A malty, molten, brunch-mood Japanese dish featuring purple sprouting broccoli, binchotan-charcoal, in a paleo-friendly dorayaki form, served from a fondue-pot.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue-pot to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together almond flour, coconut sugar, and salt.",
+    "In a separate bowl, whisk together eggs, malt syrup, and coconut oil.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Add the purple sprouting broccoli florets to the batter and mix until they are fully coated.",
+    "Using a spoon, drop the broccoli batter into the preheated fondue-pot, making sure not to overcrowd it.",
+    "Cook the dorayaki for 3-4 minutes on each side, until they are golden brown and crispy.",
+    "While the dorayaki are cooking, hold the binchotan charcoal over the fondue-pot to infuse the dorayaki with a smoky flavor.",
+    "Once the dorayaki are done, remove them from the fondue-pot and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "japanese-inspired",
+    "paleo-friendly",
+    "smoky-flavors",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "lightly-smoky-japanese-purple-sprouting-broccoli-dorayaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-japanese-purple-sprouting-broccoli-dorayaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:34Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "purple sprouting broccoli",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Dorayaki"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Lovely Uruguayan Almond Bake",
+  "description": "A nutty and aerated Uruguayan dish featuring rose water, this wood-fired bake is a show-off dessert that is sugar-free friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melted coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "1 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, rose water, and salt.",
+    "In a separate bowl, whisk together the eggs, unsweetened almond milk, and melted coconut oil.",
+    "Add the vanilla extract to the wet ingredients and whisk until combined.",
+    "Pour the wet ingredients into the dry ingredients and mix until a smooth batter forms.",
+    "Pour the batter into a tagliere vessel.",
+    "Top the batter with sliced almonds.",
+    "Bake for 35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove the bake from the oven and let it cool for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "rose-water",
+    "sugar-free",
+    "uruguayan-desserts",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "lovely-uruguayan-almond-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-uruguayan-almond-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "rose water",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "almonds",
+    "descriptor": "Lightly toasted",
+    "dishForm": "Bake"
+  }
+}
