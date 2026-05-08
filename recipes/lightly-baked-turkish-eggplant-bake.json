@@ -1,0 +1,106 @@
+{
+  "title": "Lightly Baked Turkish Eggplant Bake",
+  "description": "A fresh and flavorful Turkish-inspired dish perfect for a spring brunch, featuring tender eggplant and a hint of rum, suitable for ovo-vegetarian diets.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "appleton rum",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, appleton rum, salt, and black pepper.",
+    "Add sliced eggplant to the bowl and toss to coat with the oil mixture.",
+    "Spread half of the eggplant slices in the bottom of a 9x13 inch baking dish.",
+    "In a separate bowl, mix together chopped onion, minced garlic, and diced tomato.",
+    "Spread the onion mixture over the eggplant in the baking dish.",
+    "Top with crumbled feta cheese and chopped parsley.",
+    "Add the remaining eggplant slices on top.",
+    "Bake for 35 minutes or until the eggplant is tender and lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "eggplant-recipes",
+    "ovo-vegetarian",
+    "rum-infused",
+    "spring-inspired",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "lightly-baked-turkish-eggplant-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-baked-turkish-eggplant-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:47:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "bake",
+    "primaryIngredient": "appleton rum",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Lightly baked",
+    "dishForm": "Bake"
+  }
+}

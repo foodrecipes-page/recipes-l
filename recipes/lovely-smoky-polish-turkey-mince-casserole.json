@@ -1,0 +1,108 @@
+{
+  "title": "Lovely Smoky Polish Turkey Mince Casserole",
+  "description": "A comforting Polish dish featuring turkey mince, smoke, and satvik-friendly ingredients, with a winey and crumbly texture.",
+  "cuisine": "Polish",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "500g",
+      "notes": "lean"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "white wine",
+      "amount": "125ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oat flour",
+      "amount": "100g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "25ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a large pan, heat the oil over medium heat and saute the onion, carrot, and celery until they are soft.",
+    "Add the turkey mince and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the smoked paprika, salt, and pepper, and stir to combine.",
+    "Add the white wine and tomato paste, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half.",
+    "In a separate bowl, mix the oat flour with a little water to form a crumbly mixture.",
+    "Transfer the turkey mixture to a baking dish and top with the crumbly oat mixture.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crumbly",
+    "polish-cuisine",
+    "satvik-friendly",
+    "smoky",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lovely-smoky-polish-turkey-mince-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-smoky-polish-turkey-mince-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:47:59Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "smoke",
+    "primaryIngredient": "turkey mince",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "turkey mince",
+    "descriptor": "lovely smoky",
+    "dishForm": "Casserole"
+  }
+}
