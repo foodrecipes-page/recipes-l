@@ -1,0 +1,112 @@
+{
+  "title": "Light Icy Mexican Beef Soup",
+  "description": "A comforting and light earthy mexican dish featuring beef stock, tender beef, and crunchy vegetables.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 or leaner"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "diced celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add ground beef and cook until browned, breaking it up into small pieces.",
+    "Add diced onion, carrot, and celery, and cook until the vegetables are tender.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add beef stock and bring to a boil.",
+    "Reduce the heat and simmer for 10 minutes.",
+    "Stir in chopped cilantro and lime juice.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Serve with a side of warm tortillas, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-soup",
+    "comfort-food",
+    "easy-dinner",
+    "mexican-recipes",
+    "one-pot-meals",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "light-icy-mexican-beef-soup",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-icy-mexican-beef-soup",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:29:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "beef stock",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "Light Icy",
+    "dishForm": "Soup"
+  }
+}

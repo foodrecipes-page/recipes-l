@@ -1,0 +1,112 @@
+{
+  "title": "Lightly Peppery Middle Eastern Morcilla Tagine",
+  "description": "A lightly peppery and flavorful one-pot Middle Eastern dish featuring morcilla, made pescatarian-friendly and cooked to perfection in a tandoor clay pot. This unique tagine combines the richness of morcilla with the brightness of Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Spanish blood sausage, sliced"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese fermented rice paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the sliced morcilla in a large tandoor clay pot over medium heat until browned, about 5 minutes.",
+    "Remove the morcilla from the pot and set aside, leaving the drippings behind.",
+    "Add the olive oil to the pot and saute the chopped onion until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the shio-koji, ground cumin, smoked paprika, cayenne pepper, salt, and black pepper, cooking for 1 minute.",
+    "Add the chicken broth to the pot and bring to a boil, scraping up any browned bits from the bottom.",
+    "Return the morcilla to the pot and reduce the heat to low, simmering covered for 20 minutes.",
+    "Stir in the chopped parsley and cook for an additional 5 minutes, or until the morcilla is heated through.",
+    "Serve the morcilla tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "comfort-food",
+    "middle-eastern",
+    "one-pot",
+    "pescatarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "lightly-peppery-middle-eastern-morcilla-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-peppery-middle-eastern-morcilla-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:28:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "morcilla",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "morcilla",
+    "descriptor": "Lightly Peppery",
+    "dishForm": "Tagine"
+  }
+}

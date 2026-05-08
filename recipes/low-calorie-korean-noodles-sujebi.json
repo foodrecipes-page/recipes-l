@@ -1,0 +1,98 @@
+{
+  "title": "Low-Calorie Korean Noodles Sujebi",
+  "description": "A traditional Korean dish from the Gangwon region, featuring unsweetened cocoa and a unique tagine-cook method, this low-calorie sujebi is a comforting and savory delight. It has a salty and glassy-jelly texture that is sure to please.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat noodles",
+      "amount": "8 oz",
+      "notes": "low-calorie, high-fiber"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the buckwheat noodles according to package instructions.",
+    "In a small bowl, whisk together the unsweetened cocoa powder, tagine spice blend, low-sodium soy sauce, and sesame oil.",
+    "In a large skillet, heat the cocoa mixture over medium heat and add the minced garlic.",
+    "Add the cooked noodles to the skillet and toss to combine with the cocoa mixture.",
+    "Stir in the chopped green onions, salt, and black pepper.",
+    "Reduce heat to low and simmer for 5 minutes, allowing the flavors to meld together.",
+    "Serve the sujebi hot, garnished with additional green onions if desired.",
+    "Tagine-cook the sujebi by covering the skillet with a lid and cooking for an additional 5 minutes, allowing the noodles to absorb the flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean-cuisine",
+    "low-calorie",
+    "one-pot",
+    "savory",
+    "tagine-cook"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "low-calorie-korean-noodles-sujebi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/low-calorie-korean-noodles-sujebi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:29:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "tagine-cook",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "low-calorie",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "Low-Calorie",
+    "dishForm": "Sujebi"
+  }
+}

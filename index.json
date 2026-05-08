@@ -3050,6 +3050,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-icy-mexican-beef-soup",
+    "title": "Light Icy Mexican Beef Soup",
+    "tags": [
+      "beef-soup",
+      "comfort-food",
+      "easy-dinner",
+      "mexican-recipes",
+      "one-pot-meals",
+      "weeknight-meals"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "light-ikan-style-cooked-malaysian-black-olives-tagine",
     "title": "malaysian black olive clay pot tagine",
     "tags": [
@@ -5156,6 +5171,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-peppery-middle-eastern-morcilla-tagine",
+    "title": "Lightly Peppery Middle Eastern Morcilla Tagine",
+    "tags": [
+      "clay-pot",
+      "comfort-food",
+      "middle-eastern",
+      "one-pot",
+      "pescatarian",
+      "spicy"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-pickled-sour-german-vegetables-salad",
     "title": "Leicht Pickelte Sauerkraut Salat",
     "tags": [
@@ -7229,6 +7259,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
+    "slug": "low-calorie-korean-noodles-sujebi",
+    "title": "Low-Calorie Korean Noodles Sujebi",
+    "tags": [
+      "comfort-food",
+      "korean-cuisine",
+      "low-calorie",
+      "one-pot",
+      "savory",
+      "tagine-cook"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
