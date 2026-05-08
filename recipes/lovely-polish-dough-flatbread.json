@@ -1,0 +1,84 @@
+{
+  "title": "Lovely Polish Dough Flatbread",
+  "description": "A traditional Polish flatbread featuring fermented dough, chopped parsley, and a cozy atmosphere, perfect for a snack or light meal, and is whole30-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt.",
+    "Gradually add warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 24 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Brush the dough with olive oil and sprinkle with chopped parsley.",
+    "Bake the flatbreads in the preheated oven for 15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "gluten-free",
+    "polish-cuisine",
+    "snack-ideas",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "lovely-polish-dough-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-polish-dough-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:02:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "chopped parsley",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "dough",
+    "descriptor": "Lightly flaky",
+    "dishForm": "Flatbread"
+  }
+}
