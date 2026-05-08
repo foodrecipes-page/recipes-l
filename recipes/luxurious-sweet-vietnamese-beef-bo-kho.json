@@ -1,0 +1,96 @@
+{
+  "title": "Luxurious Sweet Vietnamese Beef Bo Kho",
+  "description": "A rich and flavorful Vietnamese beef stew made with passata and deglaze fond, perfect for a solo dinner, and sugar free friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "passata",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium high heat.",
+    "Add the beef to the pot and cook until browned on all sides.",
+    "Remove the beef from the pot and set aside.",
+    "Add the fish sauce, soy sauce, cinnamon, cumin, star anise, and black pepper to the pot and cook for 1 minute.",
+    "Add the passata and beef broth to the pot and bring to a boil.",
+    "Return the beef to the pot and reduce heat to low.",
+    "Simmer the bo kho for 2 1/2 hours or until the beef is tender.",
+    "Remove the star anise from the pot and serve the bo kho hot.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "one-pot-meals",
+    "slow-cooker",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "luxurious-sweet-vietnamese-beef-bo-kho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-sweet-vietnamese-beef-bo-kho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:13:43Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "passata",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "luxurious sweet",
+    "dishForm": "Bo Kho"
+  }
+}

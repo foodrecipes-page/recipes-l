@@ -7619,6 +7619,22 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-toasted-american-potato-toast",
+    "title": "Lightly Toasted American Potato Toast",
+    "tags": [
+      "american-classic",
+      "comfort-food",
+      "easy-snack",
+      "potato-recipe",
+      "quick-bite",
+      "simple-recipe",
+      "toast-recipe"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-toasted-brazilian-chicken-skewers",
     "title": "Lightly Toasted Brazilian Chicken Skewers",
     "tags": [
@@ -13227,6 +13243,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-sweet-vietnamese-beef-bo-kho",
+    "title": "Luxurious Sweet Vietnamese Beef Bo Kho",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "one-pot-meals",
+      "slow-cooker",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
