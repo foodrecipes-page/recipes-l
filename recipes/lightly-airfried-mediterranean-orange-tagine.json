@@ -1,0 +1,102 @@
+{
+  "title": "Lightly Airfried Mediterranean Orange Tagine",
+  "description": "A flavorful and aromatic Mediterranean dish featuring oranges, cooked to perfection in a cataplana vessel using the air fry function, with a blend of herbal notes and pillowy texture, perfect for a low sodium diet.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "oranges",
+      "amount": "2",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt free seasoning",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, cumin, paprika, and salt free seasoning.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Load the chicken into the cataplana vessel, leaving some space between each piece for even cooking.",
+    "Air fry the chicken for 10 minutes, shaking the vessel halfway through.",
+    "Add the orange segments to the vessel and continue to air fry for an additional 5 minutes.",
+    "Stir in the chopped parsley and mint.",
+    "Serve the tagine hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "gluten-free",
+    "low-sodium",
+    "mediterranean",
+    "one-vessel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "lightly-airfried-mediterranean-orange-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-airfried-mediterranean-orange-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:19:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "oranges",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "oranges",
+    "descriptor": "Lightly Airfried",
+    "dishForm": "Tagine"
+  }
+}
