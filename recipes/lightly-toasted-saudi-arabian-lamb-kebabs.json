@@ -1,0 +1,107 @@
+{
+  "title": "Lightly Toasted Saudi Arabian Lamb Kebabs",
+  "description": "A tangy and crunchy Saudi Arabian dish featuring lamb kebabs infused with marmite and served in a brunch mood, this recipe is low-fat-friendly and perfect for a light meal. The combination of flavors and textures creates a unique and delicious experience.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "marmite",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together marmite, infuse oil, lemon juice, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they are lightly toasted and cooked through.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro.",
+    "Offer a side of toasted pita bread or a simple green salad for a complete meal.",
+    "Let the kebabs rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional lemon wedges and a dollop of yogurt, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lightly-toasted-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-toasted-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:09:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "infuse-oil",
+    "primaryIngredient": "marmite",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly toasted",
+    "dishForm": "Kebabs"
+  }
+}
