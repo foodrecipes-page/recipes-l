@@ -1,0 +1,99 @@
+{
+  "title": "Light Peruvian Sweetcorn Fried Rice",
+  "description": "A quick and easy Peruvian dish featuring sweetcorn and fried rice, perfect for a weeknight dinner, this vegan-friendly recipe is a yeasty and shattering delight.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "sweetcorn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sweetcorn kernels and cook until they start to brown, about 5 minutes.",
+    "Add the cooked rice to the skillet or wok, breaking up any clumps with a spatula.",
+    "Stir in the soy sauce, turmeric, salt, and pepper, and cook for about 2 minutes, until the rice is well coated.",
+    "Transfer the fried rice to a serving platter and serve immediately.",
+    " Garnish with chopped scallions or cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried-rice",
+    "one-pan",
+    "peruvian",
+    "quick-fix",
+    "sweetcorn",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "light-peruvian-sweetcorn-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-peruvian-sweetcorn-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:48:03Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sweetcorn",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "light crunchy",
+    "dishForm": "Fried-Rice"
+  }
+}
