@@ -1,0 +1,96 @@
+{
+  "title": "Light Crispy Egyptian Lentil Fried Rice",
+  "description": "A salty and crispy Egyptian dish featuring mint, perfect for a brunch mood, made with a whisk and macrobiotic-friendly ingredients, cooked in a wok.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large wok over medium-high heat.",
+    "Add the diced onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the cooked lentils, cooked rice, chopped mint leaves, salt, and black pepper to the wok.",
+    "Stir-fry the mixture for 5 minutes, breaking up any clumps with a whisk or spatula.",
+    "Taste and adjust the seasoning as needed.",
+    "Continue to cook for an additional 2 minutes, stirring frequently, until the mixture is crispy and lightly browned.",
+    "Remove the wok from the heat and serve the Light Crispy Egyptian Lentil Fried Rice hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "lentil-based",
+    "macrobiotic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "light-crispy-egyptian-lentil-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-crispy-egyptian-lentil-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:44:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "mint",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "light crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
