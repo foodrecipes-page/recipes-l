@@ -1,0 +1,98 @@
+{
+  "title": "Lightly Toasted Russian Beef Casserole",
+  "description": "A hearty Russian dish featuring tender beef, melted cheese, and crunchy breadcrumbs, perfect for a cozy dinner. This recipe is FODMAP-friendly and serves 6 people.",
+  "cuisine": "Russian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat the garlic-infused oil over medium heat and cook the beef strips until browned.",
+    "In a separate bowl, mix the sour cream, shredded cheese, and chopped onion.",
+    "In a greased 9x13 inch baking dish, arrange a layer of cooked beef strips.",
+    "Spread half of the sour cream mixture over the beef layer.",
+    "Sprinkle half of the breadcrumbs over the sour cream layer.",
+    "Repeat the layers, starting with the beef, then the remaining sour cream mixture, and finally the remaining breadcrumbs.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 25 minutes, or until the top is lightly toasted and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lightly-toasted-russian-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-toasted-russian-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:23:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Lightly toasted",
+    "dishForm": "Casserole"
+  }
+}
