@@ -1,0 +1,116 @@
+{
+  "title": "late-night crispy algerian bacon tagine",
+  "description": "a savory, vegan-friendly tagine dish featuring crispy bacon, crunchy vegetables, and a tangy, jammy sauce. perfect for a midnight craving.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "8 slices",
+      "notes": "look for vegan-friendly bacon alternatives"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "add the chopped onion and cook, stirring occasionally, until caramelized, about 20 minutes.",
+    "add the minced garlic and cook, stirring constantly, for 1 minute.",
+    "add the chopped carrots and potatoes and cook, stirring occasionally, for 5 minutes.",
+    "add the chopped red bell pepper and cook, stirring occasionally, for 5 minutes.",
+    "add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "add the lemon juice, salt, and black pepper, and stir to combine.",
+    "add the sliced bacon and stir to combine.",
+    "transfer the tagine to the preheated oven and bake for 20-25 minutes, or until the bacon is crispy and the sauce is jammy.",
+    "serve hot, garnished with fresh parsley or cilantro, if desired.",
+    "optional: serve with crusty bread or over couscous for a heartier meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "high-fiber",
+    "midnight-craving",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "late-night-crispy-algerian-bacon-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/late-night-crispy-algerian-bacon-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:19:26Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "brine-wet",
+    "primaryIngredient": "bacon",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "bacon",
+    "descriptor": "Late-Night Crispy",
+    "dishForm": "Tagine"
+  }
+}
