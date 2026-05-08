@@ -1,0 +1,97 @@
+{
+  "title": "Lightly Smoky Egyptian Fish Kebabs",
+  "description": "A smoky and flaky Egyptian dish featuring fish sauce and nuka-pickle, perfect for a post-workout meal, served on a hot stone plate.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, olive oil, lemon juice, garlic, smoked paprika, salt, and black pepper.",
+    "Add the tilapia pieces to the bowl and marinate for 15 minutes.",
+    "Thread the marinated tilapia pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the preheated hot stone plate and cook for 8 minutes, flipping halfway through.",
+    "While the fish is cooking, mix the chopped nuka-pickle with a squeeze of lemon juice.",
+    "Once the fish is cooked, serve immediately on the hot stone plate with the nuka-pickle mixture spooned over the top.",
+    "Garnish with additional smoked paprika and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lightly-smoky-egyptian-fish-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-egyptian-fish-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:08:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "fish sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fish",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Kebabs"
+  }
+}

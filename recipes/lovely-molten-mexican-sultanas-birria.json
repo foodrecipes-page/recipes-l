@@ -1,0 +1,111 @@
+{
+  "title": "Lovely Molten Mexican Sultanas Birria",
+  "description": "A vegan-friendly Mexican dish featuring sultanas in a molten, yeasty birria sauce, perfect for crowds. This recipe is a unique and delicious twist on traditional birria.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sultanas",
+      "amount": "1 cup",
+      "notes": "golden raisins"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "guajillo chilies",
+      "amount": "4",
+      "notes": "dried, stemmed and seeded"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegan beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "corn, for serving"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "8",
+      "notes": "for serving"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Roast the guajillo chilies in a 350 degree oven for 5 minutes to enhance their flavor.",
+    "Soak the roasted chilies in hot water for 20 minutes to rehydrate them.",
+    "Drain and chop the rehydrated chilies, then mortar-pestle-pound them into a smooth paste.",
+    "Heat the oil in a large Dutch oven over medium heat, then saute the onion and garlic until softened.",
+    "Add the chili paste, tomato paste, and yeast to the pot, stirring to combine.",
+    "Add the beer, sultanas, and 2 cups of water to the pot, bringing the mixture to a boil.",
+    "Reduce the heat to low and simmer the birria sauce for 30 minutes, stirring occasionally.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the birria by dipping the tortillas in the molten sauce and serving with lime wedges and cilantro.",
+    "Serve the birria immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleasers",
+    "mexican-food",
+    "one-pot",
+    "vegan-recipes",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lovely-molten-mexican-sultanas-birria",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-molten-mexican-sultanas-birria",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:08:32Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sultanas",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "sultanas",
+    "descriptor": "Lovely Molten",
+    "dishForm": "Birria"
+  }
+}
