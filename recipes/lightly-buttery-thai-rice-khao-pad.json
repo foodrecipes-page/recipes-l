@@ -1,0 +1,96 @@
+{
+  "title": "Lightly Buttery Thai Rice Khao Pad",
+  "description": "A buttery and flaky Thai dish featuring soured cream and chive dip, made with lamination-puff and ayurvedic-rajasic-friendly ingredients, in the form of khao-pad.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soured cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Brush the pastry with the beaten egg for a golden glaze.",
+    "Spread the cooled jasmine rice over the center of the pastry, leaving a 1 inch border on either side.",
+    "Dot the top of the rice with the unsalted butter.",
+    "Fold the pastry over the rice, pressing the edges to seal.",
+    "Brush the top of the pastry with the remaining egg and cut a few slits in the top to allow steam to escape.",
+    "Bake the khao-pad in the preheated oven for 25 minutes, or until golden brown.",
+    "While the khao-pad is baking, mix the soured cream and chopped chives in a small bowl.",
+    "Serve the khao-pad hot with the soured cream and chive dip."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "gluten-free",
+    "lunch-ideas",
+    "thai-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lightly-buttery-thai-rice-khao-pad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-buttery-thai-rice-khao-pad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:44:06Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rice",
+    "descriptor": "Lightly Buttery",
+    "dishForm": "Khao Pad"
+  }
+}
