@@ -1,0 +1,95 @@
+{
+  "title": "Lovely Crunchy Venezuelan Apple Empanadas",
+  "description": "A salty and crunchy Venezuelan dish featuring Bramley apples, perfect as a post-workout snack, and an egg-free friendly option using coconut cream crack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bramley apples",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut cream crack",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, sugar, salt, and baking powder.",
+    "Add the cold butter to the bowl and use a pastry blender or fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a few slices of apple onto the center of each dough circle, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the dough with a little water, then fold the dough in half over the apple and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little coconut cream crack and bake for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "egg-free",
+    "post-workout",
+    "snack",
+    "vegetarian",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "lovely-crunchy-venezuelan-apple-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crunchy-venezuelan-apple-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:14:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "bramley apples",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "apples",
+    "descriptor": "Lovely crunchy",
+    "dishForm": "Empanadas"
+  }
+}
