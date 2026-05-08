@@ -1,0 +1,99 @@
+{
+  "title": "low-fat luscious mexican pulled pork confit",
+  "description": "Tender, flavorful pulled pork in a rich, coconut milk-based confit with a hint of Mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the pork shoulder with salt, black pepper, cumin, and smoked paprika.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat. Sear the pork shoulder until browned on all sides, about 2 minutes per side.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the chipotle peppers, tomato paste, and 1 cup of chicken broth to the pot, stirring to combine.",
+    "Transfer the pot to the preheated oven and braise the pork for 2 1/2 hours, or until tender and easily shredded with a fork.",
+    "Stir in the coconut milk and bring the pot to a simmer on the stovetop.",
+    "Shred the pork with two forks and stir to coat with the confit sauce.",
+    "Serve the pulled pork in small containers (about 1 cup each) in a bento box with your choice of sides."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 160,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "low-calorie",
+    "mexican",
+    "one-pan",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "low-fat-luscious-mexican-pulled-pork-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-luscious-mexican-pulled-pork-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T17:35:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "confit-tomato",
+    "primaryIngredient": "coconut milk",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pulled pork",
+    "descriptor": "low-fat luscious",
+    "dishForm": "confit"
+  }
+}
