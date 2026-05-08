@@ -1,0 +1,96 @@
+{
+  "title": "Venezuelan Milk Chocolate Empanadas",
+  "description": "A lightly sweet and comforting Venezuelan dish featuring milk chocolate in a flaky crust, perfect for a snack or dessert. This ovo-vegetarian friendly treat is a twist on traditional empanadas.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for the crust"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for the crust"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "for the crust"
+    },
+    {
+      "name": "milk chocolate chips",
+      "amount": "1 cup",
+      "notes": "high quality"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "for the filling"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to balance the sweetness"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "for the crust"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and salt.",
+    "Add the cold butter to the bowl and use a pastry blender to work it into the flour until the mixture resembles coarse crumbs.",
+    "In a small bowl, whisk together the egg and water.",
+    "Add the egg mixture to the flour mixture and stir until a dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll each ball out into a thin circle.",
+    "Place a tablespoon of sugar and a few chocolate chips in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with a little bit of water.",
+    "Bake the empanadas for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-lovers",
+    "comfort-food",
+    "easy-to-make",
+    "south-american",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "lightly-sweet-venezuelan-milk-chocolate-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-sweet-venezuelan-milk-chocolate-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:57:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "milk chocolate",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "milk chocolate",
+    "descriptor": "Lightly sweet",
+    "dishForm": "Empanadas"
+  }
+}
