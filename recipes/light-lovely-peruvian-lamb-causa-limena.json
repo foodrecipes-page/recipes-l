@@ -1,0 +1,105 @@
+{
+  "title": "Light Lovely Peruvian Lamb Causa Limena",
+  "description": "A floral and light Peruvian dish featuring lamb stock and confit tomato, perfect for a comforting meal, and is dairy free friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "canned, crushed"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yellow potato",
+      "amount": "2 large",
+      "notes": "cooked, mashed"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Sear the lamb shoulder until browned on all sides.",
+    "Add the chopped onion to the pot and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the crushed tomatoes, lamb stock, and browned lamb shoulder to the pot.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender.",
+    "Shred the cooked lamb and mix with the mashed yellow potato.",
+    "Top the lamb and potato mixture with diced avocado and chopped cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "lamb-recipes",
+    "one-pot",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "light-lovely-peruvian-lamb-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-lovely-peruvian-lamb-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:58:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "confit-tomato",
+    "primaryIngredient": "lamb stock",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Light Lovely",
+    "dishForm": "Causa Limena"
+  }
+}
