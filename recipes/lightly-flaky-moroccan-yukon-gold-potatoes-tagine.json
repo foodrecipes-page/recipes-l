@@ -1,0 +1,110 @@
+{
+  "title": "Lightly Flaky Moroccan Yukon Gold Potatoes Tagine",
+  "description": "A flavorful one-pot Moroccan dish featuring yukon gold potatoes, this recipe combines herbal notes with a flaky texture, all while being keto-friendly. It is cooked to perfection in an iron teppan vessel.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon Gold Potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Dashi Extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium heat, then add the olive oil to coat the bottom.",
+    "Add the sliced onion to the teppan and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger to the teppan and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the dashi extract, cumin, smoked paprika, salt, and black pepper to the teppan, stirring to combine.",
+    "Add the sliced Yukon Gold potatoes to the teppan, stirring to coat the potatoes with the spice mixture.",
+    "Reduce the heat to low, cover the teppan, and cook for 20 minutes, or until the potatoes are tender and lightly flaky.",
+    "Remove the teppan from the heat and stir in the chopped fresh parsley.",
+    "Serve the potatoes hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-potatoes",
+    "gluten-free",
+    "herbal-notes",
+    "keto-friendly",
+    "moroccan-inspiration",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "lightly-flaky-moroccan-yukon-gold-potatoes-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-flaky-moroccan-yukon-gold-potatoes-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:40:41Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "dashi-extract",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Yukon Gold Potatoes",
+    "descriptor": "Lightly Flaky",
+    "dishForm": "Tagine"
+  }
+}
