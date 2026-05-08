@@ -516,6 +516,22 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-lacquer-sichuan-fish-bao",
+    "title": "Lazy-Lacquer Sichuan Fish Bao",
+    "tags": [
+      "bao",
+      "egg-free",
+      "fish",
+      "lazy-sunday",
+      "one-pan",
+      "sichuan",
+      "weeknight"
+    ],
+    "cuisine": "Sichuan",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-latin-corn-bake",
     "title": "Lazy Latin Corn Bake",
     "tags": [
@@ -10177,6 +10193,22 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 150,
+    "shard": "l"
+  },
+  {
+    "slug": "low-carb-friendly-french-bramley-apples-coq-au-vin",
+    "title": "Low-Carb Friendly French Bramley Apples Coq Au Vin",
+    "tags": [
+      "comfort-food",
+      "easy-prep",
+      "french",
+      "low-carb",
+      "one-pan",
+      "red-meat",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {

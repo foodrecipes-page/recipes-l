@@ -1,0 +1,142 @@
+{
+  "title": "Low-Carb Friendly French Bramley Apples Coq Au Vin",
+  "description": "A classic French dish with a twist, featuring tender rest-meat, crispy bacon, and sweet Br\u00171ley apples, all in a rich, low-carb-friendly sauce.",
+  "cuisine": "French",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 x Bramley Apples, peeled and diced",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "500g rest-meat (such as beef or pork)",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "4 slices of bacon",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 large onion, sliced",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 cloves of garlic, minced",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup of dry red wine (such as Burgundy)",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup of chicken broth",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon of tomato paste",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon of dried thyme",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon of salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon of black pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons of unsalted butter",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons of chopped fresh parsley",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons of grated cheddar cheese (optional)",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons of chopped fresh chives (optional)",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large Dutch oven over medium heat. Add the sliced onion and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the slices of bacon and cook until crispy, stirring occasionally.",
+    "Remove the cooked bacon from the pot and set aside.",
+    "Add the rest-meat to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the diced apples, red wine, chicken broth, tomato paste, thyme, salt, and pepper to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake for 25 minutes, or until the meat is tender and the sauce has thickened.",
+    "Remove the pot from the oven and stir in the remaining 1 tablespoon of butter until melted.",
+    "Serve the Coq Au Vin hot, garnished with chopped parsley and chives, and topped with grated cheddar cheese if desired.",
+    "Serve 4-6 servings.",
+    "Refrigerate leftovers for up to 3 days or freeze for up to 2 months.",
+    "Reheat leftovers in the oven or on the stovetop, covered with a lid, until heated through.",
+    "Let stand for 5 minutes before serving.",
+    "Return to oven and bake for 10 minutes, or until hot and bubbly.",
+    "Serve with additional grated cheddar cheese, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-prep",
+    "french",
+    "low-carb",
+    "one-pan",
+    "red-meat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "low-carb-friendly-french-bramley-apples-coq-au-vin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-carb-friendly-french-bramley-apples-coq-au-vin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:34:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "rest-meat",
+    "primaryIngredient": "bramley apples",
+    "diet": "low-carb",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Bramley Apples",
+    "descriptor": "Low-Carb Friendly",
+    "dishForm": "Coq Au Vin"
+  }
+}
