@@ -1,0 +1,106 @@
+{
+  "title": "Luxuriant Australian Chicken Tagine",
+  "description": "A jammy and creamy Australian dish featuring tarragon leaves, this kid-friendly chicken tagine is a high-protein delight, cooked to perfection in a traditional tagine pot. The combination of flavors and textures creates a truly unique culinary experience.",
+  "cuisine": "Australian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken pieces with salt and black pepper.",
+    "Heat the olive oil in the tagine pot over medium-high heat.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the chicken pieces to the pot and cook until they are browned on all sides.",
+    "Add the chicken broth, heavy cream, dried apricots, and tarragon leaves to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Cook the tagine for 25 minutes, then remove it from the oven and let it cool slightly.",
+    "Shock the cooked chicken in an ice bath to stop the cooking process.",
+    "Serve the tagine hot, garnished with additional tarragon leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "chicken-dinner",
+    "high-protein",
+    "kid-friendly",
+    "one-pot",
+    "tagine-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "luxuriant-australian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-australian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:08:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "luxuriant creamy",
+    "dishForm": "Tagine"
+  }
+}
