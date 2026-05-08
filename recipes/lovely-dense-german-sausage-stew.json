@@ -1,0 +1,95 @@
+{
+  "title": "Lovely Dense German Sausage Stew",
+  "description": "A smoky and dense German stew featuring unwaxed lemon and pickle, perfect for a nostalgic dinner",
+  "cuisine": "German",
+  "diet": [
+    "satvik-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably Knockwurst or Bratwurst"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and cook the German sausage until browned",
+    "Remove the sausage from the pot and set aside",
+    "Add the chopped onion to the pot and cook until softened",
+    "Add the chopped carrot and potato to the pot and cook for 5 minutes",
+    "Add the chicken broth, smoked paprika, and juiced unwaxed lemon to the pot",
+    "Return the cooked sausage to the pot and bring to a boil",
+    "Reduce the heat to low and simmer for 20 minutes",
+    "Stir in the chopped pickle and cook for an additional 5 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "one-pot",
+    "sausage-stew",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "lovely-dense-german-sausage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-dense-german-sausage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:48:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "pickle",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausages",
+    "descriptor": "Lovely dense",
+    "dishForm": "Stew"
+  }
+}
