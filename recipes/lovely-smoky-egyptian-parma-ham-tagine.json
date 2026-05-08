@@ -1,0 +1,104 @@
+{
+  "title": "Lovely Smoky Egyptian Parma Ham Tagine",
+  "description": "A herbal and silky Egyptian dish featuring Parma ham, perfect for a date night, made with ovo-vegetarian friendly ingredients and served on a hot stone plate.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parma ham",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, cumin, and coriander.",
+    "Add the chopped onion, minced garlic, and grated ginger to the bowl and mix well.",
+    "Add the sliced Parma ham to the bowl and toss to coat with the spice mixture.",
+    "Heat a large skillet over medium heat and cook the Parma ham for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes.",
+    "While the Parma ham is cooking, fry the eggs in a separate skillet and set aside.",
+    "To serve, place a slice of Parma ham on each hot stone plate, top with a fried egg, and garnish with pitted dates.",
+    "Drizzle any remaining spice mixture over the top of each dish.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "egyptian-cuisine",
+    "hot-stone-plate",
+    "ovo-vegetarian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lovely-smoky-egyptian-parma-ham-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-smoky-egyptian-parma-ham-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:03:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "parma ham",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "parma ham",
+    "descriptor": "Lovely Smoky",
+    "dishForm": "Tagine"
+  }
+}
