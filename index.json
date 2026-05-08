@@ -6340,6 +6340,21 @@
     "shard": "l"
   },
   {
+    "slug": "lively-citrusy-syrian-shrimp-pilaf",
+    "title": "Lively Citrusy Syrian Shrimp Pilaf",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "middle-eastern",
+      "one-pot",
+      "seafood",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lively-crisp-canadian-snap-peas-salad",
     "title": "Lively Crisp Canadian Snap Peas Salad",
     "tags": [
@@ -7566,6 +7581,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 180,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-dutch-pork-skewers",
+    "title": "Lovely Smoky Dutch Pork Skewers",
+    "tags": [
+      "brunch",
+      "gluten-free",
+      "grilled",
+      "paleo",
+      "smoky",
+      "whole30"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 32,
     "shard": "l"
   },
   {

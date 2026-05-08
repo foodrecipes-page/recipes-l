@@ -1,0 +1,98 @@
+{
+  "title": "Lively Citrusy Syrian Shrimp Pilaf",
+  "description": "A dense and festive Syrian dish featuring shrimp paste and dum, perfect for special occasions, and diabetic-friendly due to its balanced ingredients and portion control.",
+  "cuisine": "Syrian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dum",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with olive oil"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the dum in a large saucepan over medium heat.",
+    "Add the shrimp paste and cook for 1 minute, stirring constantly.",
+    "Add the basmati rice and stir to coat the rice with the shrimp paste mixture.",
+    "Add the orange and lemon juice, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and stir in the chopped parsley and scallions.",
+    "Serve hot, garnished with additional parsley and scallions if desired.",
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Reheat the pilaf in the microwave or on the stovetop, adding a little water if necessary."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "middle-eastern",
+    "one-pot",
+    "seafood",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "lively-citrusy-syrian-shrimp-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-citrusy-syrian-shrimp-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:56:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "dum",
+    "primaryIngredient": "shrimp paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Lively Citrusy",
+    "dishForm": "Pilaf"
+  }
+}
