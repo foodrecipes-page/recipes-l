@@ -1,0 +1,109 @@
+{
+  "title": "Light, Lovely Steamed Peruvian Potatoes Causa Limena",
+  "description": "Tender, earthy peruvian potatoes in a creamy sauce, served in a korean brass bowl. A delicious and crowd-pleasing causas limenas recipe.",
+  "cuisine": "peruvian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "4 large yukon gold potatoes, peeled and halved",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "1 medium red onion, peeled and thinly sliced",
+      "amount": "",
+      "notes": "make sure to slice thinly for even cooking"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "",
+      "notes": "make sure to choose a heavy cream that is whole30 friendly"
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees fahrenheit.",
+    "Fill a large pot with water and bring to a boil. Reduce heat and add the potato halves. Steam the potatoes for 15 minutes, or until tender when pierced with a fork.",
+    "While the potatoes are steaming, heat the olive oil in a small skillet over medium heat. Add the sliced red onion and cook, stirring occasionally, until softened and lightly caramelized.",
+    "Stir in the ground cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Remove the potatoes from the steamer and carefully place them on a baking sheet. Drizzle with the cumin-spiced onion mixture and dot with butter.",
+    "Transfer the potatoes to the preheated oven and bake for 10-12 minutes, or until golden brown and crispy on top.",
+    "While the potatoes are baking, heat the heavy cream in a small saucepan over medium heat until simmering.",
+    "Stir in the grated fresh ginger and cook for 1 minute.",
+    "Remove the potatoes from the oven and serve in korean brass bowls with the creamy ginger sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-sauce",
+    "crowd-pleaser",
+    "lunch-ideas",
+    "peruvian-cuisine",
+    "steamed-potatoes",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "light-lovely-steamed-peruvian-potatoes-causa-limena",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-lovely-steamed-peruvian-potatoes-causa-limena",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:03:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "papillote",
+    "primaryIngredient": "cream",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Light, Lovely Steamed",
+    "dishForm": "Causa Limena"
+  }
+}
