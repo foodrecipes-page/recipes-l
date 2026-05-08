@@ -1,0 +1,101 @@
+{
+  "title": "Luxurious Fermented Irish Lamb Stew",
+  "description": "A rich and velvety Irish stew featuring fermented lamb, mustard seeds, and ayurvedic tamasic friendly ingredients, cooked to perfection in a kazan cauldron.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "fermented for 3 days"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and add the mustard seeds to toast for 2 minutes.",
+    "Add the chopped onions, carrots, celery, and garlic to the cauldron and saute for 10 minutes.",
+    "Add the fermented lamb shoulder to the cauldron and cook for 5 minutes on each side.",
+    "Add the lamb broth, apple cider vinegar, and chopped parsley to the cauldron and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "Add the potatoes to the cauldron and continue to simmer for an additional 30 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "fermented-foods",
+    "hearty-stews",
+    "irish-cuisine",
+    "lamb-recipes",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "luxurious-fermented-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-fermented-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:49:48Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "mustard seeds",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "luxurious fermented",
+    "dishForm": "Stew"
+  }
+}
