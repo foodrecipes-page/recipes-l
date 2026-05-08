@@ -1,0 +1,94 @@
+{
+  "title": "Lovely Sweet Spanish Chorizo Tacos",
+  "description": "A sweet and savory Spanish dish featuring chorizo, marmite, and candy, perfect for a brunch mood, this recipe is gluten free friendly and has a unique blend of mustardy and bouncy qq textures.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish chorizo",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "marmite",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "candy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "gluten free"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chopped onion and bell pepper and cook until they are soft.",
+    "Add the sliced chorizo and cook until it is browned.",
+    "Add the marmite and mustard and stir to combine.",
+    "Add the chopped candy and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the chorizo mixture onto a tortilla and serving immediately.",
+    "Serve the tacos hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "meat-lovers",
+    "spanish-food",
+    "unique-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lovely-sweet-spanish-chorizo-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-sweet-spanish-chorizo-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:50:07Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "candy",
+    "primaryIngredient": "marmite",
+    "diet": "gluten-free",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chorizo",
+    "descriptor": "Lovely sweet",
+    "dishForm": "Tacos"
+  }
+}
