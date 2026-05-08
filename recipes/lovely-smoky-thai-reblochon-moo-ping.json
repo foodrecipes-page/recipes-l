@@ -1,0 +1,102 @@
+{
+  "title": "Lovely Smoky Thai Reblochon Moo Ping",
+  "description": "A smoky and snappy Thai dish featuring Reblochon cheese, poached to perfection in an earthenware bowl, with a Mediterranean twist, served in a moo ping form.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "Galangal",
+      "amount": "1 piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2 peppers",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender, combine lemongrass, galangal, and kaffir lime leaves to make a smoky Thai paste.",
+    "In a large earthenware bowl, combine the Thai paste, coconut milk, fish sauce, lime juice, and palm sugar.",
+    "Add the sliced Reblochon cheese to the bowl and poach in the oven for 10 minutes.",
+    "While the cheese is poaching, prepare the moo ping form by cooking the Thai basil leaves in a little oil until crispy.",
+    "Remove the cheese from the oven and top with the crispy Thai basil leaves and sliced Thai chilies.",
+    "Serve the Lovely Smoky Thai Reblochon Moo Ping immediately in the earthenware bowl.",
+    "Garnish with additional Thai basil leaves and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earthenware-cooking",
+    "moo-ping-recipes",
+    "smoky-flavors",
+    "thai-cuisine",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lovely-smoky-thai-reblochon-moo-ping",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-smoky-thai-reblochon-moo-ping",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:59:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "reblochon",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Lovely Smoky",
+    "dishForm": "Moo Ping"
+  }
+}
