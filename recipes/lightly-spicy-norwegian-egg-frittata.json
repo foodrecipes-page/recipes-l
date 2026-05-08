@@ -1,0 +1,102 @@
+{
+  "title": "Lightly Spicy Norwegian Egg Frittata",
+  "description": "A spicy and molten Norwegian dish featuring eggs and a hint of tadka, perfect for a light breakfast or snack. This recipe is raw-friendly and made with fresh ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh and organic"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for tadka flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Heat a small skillet over medium heat and add the sliced onion, cooking until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In a separate bowl, mix together the shredded cheese, smoked paprika, and a pinch of black pepper.",
+    "Add the cooked onion and garlic to the bowl with the cheese mixture and stir to combine.",
+    "Pour the whisked eggs over the cheese mixture and stir gently.",
+    "Pour the egg mixture into a greased skillet and cook over medium heat until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, or until the eggs are set and the frittata is golden brown.",
+    "Remove the skillet from the oven and sprinkle with chopped fresh parsley.",
+    "Let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "norwegian-cuisine",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "lightly-spicy-norwegian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spicy-norwegian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:03:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "tadka",
+    "primaryIngredient": "egg",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "egg",
+    "descriptor": "Lightly Spicy",
+    "dishForm": "Frittata"
+  }
+}
