@@ -1,0 +1,90 @@
+{
+  "title": "Lacto Fermented American Cabbage Slaw",
+  "description": "A crunchy and tangy lacto-fermented slaw made with American cabbage, perfect for midnight cravings. This recipe features a bitter and crisp flavor profile.",
+  "cuisine": "American",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "American cabbage",
+      "amount": "2 lbs",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded cabbage, grated carrots, and thinly sliced onions.",
+    "In a small bowl, mix together the minced garlic, salt, and black pepper.",
+    "Add the garlic mixture to the cabbage mixture and toss to combine.",
+    "Pack the mixture into a large glass jar or container, pressing down on the vegetables to remove any air pockets.",
+    "Pour the buttermilk over the vegetables, making sure that they are completely covered.",
+    "Cover the jar or container with a lid or plastic wrap and let it ferment at room temperature for 24 hours.",
+    "After 24 hours, transfer the jar or container to the refrigerator to slow down the fermentation process.",
+    "Let the slaw ferment for an additional 24 hours in the refrigerator before serving.",
+    "Before serving, give the slaw a good stir and adjust the seasoning if necessary."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "american-cuisine",
+    "crunchy-snacks",
+    "lacto-fermented",
+    "midnight-cravings",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "lacto-fermented-american-cabbage-slaw",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lacto-fermented-american-cabbage-slaw",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:44:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "cabbage",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cabbage",
+    "descriptor": "Lacto fermented",
+    "dishForm": "Slaw"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Lovely Sweet Peruvian Beef Stew",
+  "description": "A sweet and nostalgic Peruvian dish featuring tender beef in a rich and flavorful broth, made with unsalted beef stock and binchotan-charcoal for a unique smoky flavor",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "unsalted beef stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "binchotan-charcoal",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Heat the binchotan-charcoal pieces in a dry skillet over medium heat until they are smoking",
+    "Add the chopped onion to the skillet and cook until it is softened and caramelized",
+    "Add the minced garlic to the skillet and cook for 1 minute",
+    "Add the beef brisket pieces to the skillet and cook until they are browned on all sides",
+    "Add the unsalted beef stock, tomato paste, brown sugar, and soy sauce to the skillet and bring to a boil",
+    "Reduce the heat to low and simmer the stew for 2 hours",
+    "Add the peeled and cubed potatoes to the stew and continue to simmer for another 30 minutes",
+    "Season the stew with salt and pepper to taste"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "gluten-free",
+    "peruvian-cuisine",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "lovely-sweet-peruvian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-sweet-peruvian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:45:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Lovely sweet",
+    "dishForm": "Stew"
+  }
+}

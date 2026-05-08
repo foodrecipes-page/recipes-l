@@ -132,6 +132,20 @@
     "shard": "l"
   },
   {
+    "slug": "lacto-fermented-american-cabbage-slaw",
+    "title": "Lacto Fermented American Cabbage Slaw",
+    "tags": [
+      "american-cuisine",
+      "crunchy-snacks",
+      "lacto-fermented",
+      "midnight-cravings",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lacto-lush-hazelnut-tagine",
     "title": "Lacto-Lush Hazelnut Tagine",
     "tags": [
@@ -5158,6 +5172,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-laced-portuguese-vermicelli-rice-noodles-bowl",
+    "title": "Lightly Laced Portuguese Vermicelli Rice Noodles Bowl",
+    "tags": [
+      "comfort-food",
+      "easy-dinner",
+      "lacto-vegetarian",
+      "one-pan",
+      "portuguese-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-larded-basque-sweet-pastry-empanadas",
     "title": "Basque Sweet Empanadas",
     "tags": [
@@ -7313,6 +7342,20 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-sweet-peruvian-beef-stew",
+    "title": "Lovely Sweet Peruvian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "gluten-free",
+      "peruvian-cuisine",
+      "smoky-flavor"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 180,
     "shard": "l"
   },
   {
