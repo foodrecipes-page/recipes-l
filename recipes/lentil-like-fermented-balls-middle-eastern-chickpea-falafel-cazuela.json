@@ -1,0 +1,111 @@
+{
+  "title": "Lentil-Like Fermented Balls Middle Eastern Chickpea Falafel Cazuela",
+  "description": "A comforting dish that combines the flavors of a Middle Eastern chickpea falafel with the fermentation process of lentil-like fermented balls.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canned chickpeas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella balls",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fermented chickpea paste",
+      "amount": "2 tbsp",
+      "notes": "available at some Middle Eastern markets"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine chickpeas, mozzarella balls, fermented chickpea paste, parsley, mint, garlic powder, cumin, coriander, salt, and black pepper.",
+    "Blend until the mixture is well combined and slightly chunky.",
+    "Using your hands, shape the mixture into small falafel-like balls.",
+    "Place the balls in a shallow dish or a large plate lined with parchment paper.",
+    "Allow the balls to ferment in a cool, dark place for 12-24 hours.",
+    "Preheat a large cazuela or Dutch oven over medium-high heat.",
+    "Add a couple of tablespoons of oil to the pot and swirl it around to coat the bottom.",
+    "Add a layer of falafel balls to the pot and cook for 5-7 minutes on each side, until they are golden brown and crispy.",
+    "Remove the balls from the pot and set them aside on a plate.",
+    "Add a little more oil to the pot if necessary, then add the remaining falafel balls.",
+    "Cook the remaining balls for 5-7 minutes on each side, until they are golden brown and crispy.",
+    "Serve the falafel balls hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "fermented",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "lentil-like-fermented-balls-middle-eastern-chickpea-falafel-cazuela",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lentil-like-fermented-balls-middle-eastern-chickpea-falafel-cazuela",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:31:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpea",
+    "descriptor": "Lentil-Like Fermented Balls",
+    "dishForm": "Falafel Cazuela"
+  }
+}
