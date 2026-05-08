@@ -1,0 +1,96 @@
+{
+  "title": "Light Crispy Tunisian Jalapeno Flatbread",
+  "description": "A peppery and crispy Tunisian dish featuring jalapeno, shio-cure, and plant-based friendly ingredients, perfect for a snack or light meal. This flatbread is infused with the flavors of North Africa and the spicy kick of jalapeno.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, shio-cure, salt, sugar, and yeast.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Brush the dough with olive oil and top with sliced jalapeno peppers.",
+    "Cook the flatbread for 2-3 minutes on each side, until it is crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "flatbread",
+    "jalapeno",
+    "north-african",
+    "plant-based",
+    "snack",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "light-crispy-tunisian-jalapeno-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-crispy-tunisian-jalapeno-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:24:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "shio-cure",
+    "primaryIngredient": "jalapeno",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "jalapeno",
+    "descriptor": "Light Crispy",
+    "dishForm": "Flatbread"
+  }
+}
