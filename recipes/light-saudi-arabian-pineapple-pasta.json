@@ -1,0 +1,90 @@
+{
+  "title": "Light Saudi Arabian Pineapple Pasta",
+  "description": "A cultured and romantic Saudi Arabian dish featuring pineapple juice and a low sodium pasta water emulsion, served on a beautiful talavera plate",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "low sodium"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt free seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the pasta according to the package instructions",
+    "In a small bowl, whisk together the pineapple juice, olive oil, garlic, ginger, salt free seasoning, and black pepper",
+    "Once the pasta is cooked, drain it and return it to the pot, adding the pineapple juice mixture and tossing to combine",
+    "Reduce heat to low and simmer the pasta mixture for 2 minutes, allowing the flavors to meld",
+    "Stir in the chopped parsley and cook for an additional minute",
+    "Serve the pasta hot on a talavera plate, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-sodium",
+    "pineapple-juice",
+    "romantic-dinner",
+    "saudi-arabian",
+    "spring-pasta",
+    "talavera-plate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "light-saudi-arabian-pineapple-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-saudi-arabian-pineapple-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:13:51Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "pineapple juice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "pineapple",
+    "descriptor": "light creamy",
+    "dishForm": "Pasta"
+  }
+}
