@@ -801,6 +801,21 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-french-lettuce-macaron",
+    "title": "Lazy Sunday French Lettuce Macaron",
+    "tags": [
+      "dairy-free",
+      "french-cuisine",
+      "lazy-sunday",
+      "one-pan",
+      "umami-rich",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-garlic-egg-noodles",
     "title": "Lazy Sunday Garlic Egg Noodles",
     "tags": [
@@ -1240,6 +1255,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-venezuelan-umeboshi-bowl",
+    "title": "Lazy Sunday Venezuelan Umeboshi Bowl",
+    "tags": [
+      "healthy-bowl",
+      "japanese-inspired",
+      "lazy-sunday",
+      "south-american",
+      "spherify",
+      "vegan-friendly"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {

@@ -1,0 +1,100 @@
+{
+  "title": "Lazy Sunday Venezuelan Umeboshi Bowl",
+  "description": "A pungent and springy vegan dish featuring umeboshi, perfect for a lazy Sunday, with a unique spherification twist, combining Venezuelan flavors with Japanese umeboshi plums.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "umebooshi plums",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "quinoa",
+      "amount": "2 cups",
+      "notes": "rinsed"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "sweet plantains",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa in a fine mesh strainer and cook according to package instructions.",
+    "In a large bowl, mix together the cooked quinoa, black beans, sliced plantains, and diced avocado.",
+    "In a small bowl, whisk together the sodium alginate and water to create a spherification bath.",
+    "Drop small spoonfuls of the umeboshi plum slices into the spherification bath and let them sit for about 5 minutes to form pearls.",
+    "Remove the umeboshi pearls from the bath with a slotted spoon and add them to the quinoa mixture.",
+    "Sprinkle the chili flakes and chopped cilantro over the top of the bowl.",
+    "Serve the Lazy Sunday Venezuelan Umeboshi Bowl immediately, garnished with additional cilantro if desired.",
+    "Let each person customize their own bowl with their preferred amount of umeboshi pearls and chili flakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-bowl",
+    "japanese-inspired",
+    "lazy-sunday",
+    "south-american",
+    "spherify",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "lazy-sunday-venezuelan-umeboshi-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-venezuelan-umeboshi-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:59:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "spherify",
+    "primaryIngredient": "umeboshi",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "umeboshi",
+    "descriptor": "lazy sunday",
+    "dishForm": "Bowl"
+  }
+}
