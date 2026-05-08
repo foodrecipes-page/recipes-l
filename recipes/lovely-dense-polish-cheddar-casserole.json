@@ -1,0 +1,93 @@
+{
+  "title": "Lovely Dense Polish Cheddar Casserole",
+  "description": "A pungent and dense Polish dish featuring mature cheddar, perfect for a brunch mood, with a macrobiotic-friendly twist by using dehydrated ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "mature cheddar",
+      "amount": "2 cups",
+      "notes": "dehydrated"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "caramelized onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the sliced mushroom and caramelized onion in olive oil until they are tender.",
+    "In a large bowl, combine the cooked brown rice, dehydrated mature cheddar, sauteed mushroom and onion, garlic, salt, and black pepper.",
+    "Mix all the ingredients well until they are fully incorporated.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "casserole-recipes",
+    "high-protein",
+    "macrobiotic-friendly",
+    "polish-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lovely-dense-polish-cheddar-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-dense-polish-cheddar-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:37:35Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "dehydrate",
+    "primaryIngredient": "mature cheddar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cheddar",
+    "descriptor": "Lovely Dense",
+    "dishForm": "Casserole"
+  }
+}
