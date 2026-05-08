@@ -1,0 +1,102 @@
+{
+  "title": "Low Salted Venezuelan Paneer Skewers",
+  "description": "A kid-friendly Venezuelan dish featuring paneer, this recipe is low in salt and carbs, making it a great option for a healthy snack. The paneer is marinated in a mixture of spices and then grilled to perfection.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, garlic powder, onion powder, cumin powder, paprika, salt, and black pepper.",
+    "Add the paneer cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated paneer cubes onto skewers, leaving a small space between each cube.",
+    "Brush the skewers with olive oil.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the paneer is golden brown and slightly charred.",
+    "Remove the skewers from the grill and garnish with chopped cilantro.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "grilled",
+    "healthy-snack",
+    "kid-friendly",
+    "low-carb",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "low-salted-venezuelan-paneer-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/low-salted-venezuelan-paneer-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:11:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "dehydrate",
+    "primaryIngredient": "paneer",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "paneer",
+    "descriptor": "low salted",
+    "dishForm": "Skewers"
+  }
+}
