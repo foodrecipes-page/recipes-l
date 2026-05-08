@@ -1,0 +1,90 @@
+{
+  "title": "Lightly Grilled German Pork Skewers",
+  "description": "A winey and light German dish featuring apricot jam and char-grill flavors, perfect for a sick day, cooked on a salt block to enhance the flavor, this dish is nut-free-friendly and suitable for a weeknight dinner",
+  "cuisine": "German",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block to medium-high heat",
+    "In a large bowl, whisk together apricot jam, red wine, olive oil, salt, black pepper, garlic powder, and onion powder",
+    "Add the pork cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each piece",
+    "Place the skewers on the preheated salt block and cook for 8-10 minutes, turning occasionally",
+    "Cook the pork to an internal temperature of 145 degrees Fahrenheit",
+    "Let the pork rest for 5 minutes before serving",
+    "Serve the pork skewers hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "grilled-meat",
+    "salt-block-cooking",
+    "weeknight-dinner",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lightly-grilled-german-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-grilled-german-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:24:46Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "apricot jam",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Pork",
+    "descriptor": "Lightly Grilled",
+    "dishForm": "Skewers"
+  }
+}
