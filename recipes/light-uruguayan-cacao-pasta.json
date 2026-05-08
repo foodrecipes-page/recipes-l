@@ -1,0 +1,97 @@
+{
+  "title": "Light Uruguayan Cacao Pasta",
+  "description": "A fresh and creamy Uruguayan dish featuring cacao and pasta water emulsion, egg free friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cacao powder",
+      "amount": "2 tablespoons",
+      "notes": "high quality"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "In a small bowl, whisk together the cacao powder and a splash of the pasta water to make a smooth emulsion.",
+    "Add the cacao emulsion to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 2 minutes, until slightly thickened.",
+    "Stir in the parmesan cheese and cook until melted and smooth.",
+    "Drain the pasta and add it to the skillet, tossing to coat with the cacao sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy-sauce",
+    "latin-american",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "light-uruguayan-cacao-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-uruguayan-cacao-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:48:00Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "cacao",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cacao",
+    "descriptor": "Light Creamy",
+    "dishForm": "Pasta"
+  }
+}
