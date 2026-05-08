@@ -1,0 +1,100 @@
+{
+  "title": "Luscious Molten Italian Rice Krispies Tiramisu",
+  "description": "A creative twist on traditional tiramisu, featuring herbal flavors and a molten center, made with Rice Krispies and ayurvedic tamasic friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Ladyfingers",
+      "amount": "12-16 pieces"
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Espresso",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, brew the espresso and let it cool to room temperature.",
+    "In a separate bowl, whip the mascarpone cheese and whipped cream until stiff peaks form.",
+    "In another bowl, mix the sugar, vanilla extract, and cocoa powder.",
+    "Dip each ladyfinger into the cooled espresso for about 3-5 seconds on each side.",
+    "In a large serving dish, create a layer of ladyfingers.",
+    "Spread half of the mascarpone mixture over the ladyfingers.",
+    "Sprinkle half of the sugar mixture and half of the chopped basil leaves over the mascarpone layer.",
+    "Repeat the layers, starting with the ladyfingers, then the mascarpone mixture, the sugar mixture, and finally the remaining basil leaves.",
+    "Melt the sugar mixture in a saucepan over low heat, stirring constantly, until it reaches 300 degrees Fahrenheit.",
+    "Remove the saucepan from the heat and carefully pour the molten sugar mixture over the top layer of the tiramisu.",
+    "Refrigerate the tiramisu for at least 3 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "herbal-flavors",
+    "italian-dessert",
+    "molten-center",
+    "rice-krispies-treat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "luscious-molten-italian-rice-krispies-tiramisu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-molten-italian-rice-krispies-tiramisu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:15:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "rice krispies",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice krispies",
+    "descriptor": "Luscious Molten",
+    "dishForm": "Tiramisu"
+  }
+}
