@@ -1,0 +1,92 @@
+{
+  "title": "Lovely Sweet Chinese Pork Dumplings",
+  "description": "Sweet and chewy Chinese dumplings filled with pork and pickles, perfect for a crowd, with a Mediterranean twist and Sichuan inspiration, featuring bhuna spices for added flavor",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat for flavor"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20-24 wrappers"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, pickle relish, bhuna spice mix, soy sauce, and sesame oil, and mix well with your hands or a wooden spoon until just combined",
+    "Lay a wonton wrapper on a flat surface and place a small spoonful of the pork mixture in the center of the wrapper",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point",
+    "Press the edges together to seal the dumpling",
+    "Repeat with the remaining wrappers and filling",
+    "In a large pot of boiling water, cook the dumplings for 10-12 minutes, or until they float to the surface",
+    "Remove the dumplings from the water with a slotted spoon and serve hot with chopped scallions and a side of soy sauce for dipping"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna-spices",
+    "chinese-food",
+    "dumplings",
+    "mediterranean-inspired",
+    "pork-recipes",
+    "sichuan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lovely-sweet-chinese-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-sweet-chinese-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:39:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "bhuna",
+    "primaryIngredient": "pickles",
+    "diet": "mediterranean",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "lovely sweet",
+    "dishForm": "Dumplings"
+  }
+}
