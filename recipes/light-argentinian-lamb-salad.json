@@ -1,0 +1,105 @@
+{
+  "title": "Light Argentinian Lamb Salad",
+  "description": "A fresh and herbaceous salad featuring pressure-cooked lamb, mixed greens, and tangy chimichurri dressing. This dish is perfect for a light lunch or dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "pressure-cooked"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "4 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "chimichurri dressing"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "chimichurri dressing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "chimichurri dressing"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "chimichurri dressing"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "to taste",
+      "notes": "chimichurri dressing"
+    }
+  ],
+  "instructions": [
+    "Pressure cook lamb shoulder in a large pot with 1 cup of water for 30 minutes.",
+    "Chop lamb into bite-sized pieces and set aside.",
+    "In a separate bowl, combine chopped oregano, parsley, cilantro, red wine vinegar, olive oil, salt, black pepper, and red pepper flakes to make the chimichurri dressing.",
+    "In a large bowl, combine chopped iceberg lettuce, lamb pieces, and chimichurri dressing.",
+    "Toss to combine and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "herbaceous",
+    "lamb",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "light-argentinian-lamb-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-argentinian-lamb-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lamb",
+    "descriptor": "Light",
+    "dishForm": "Salad"
+  }
+}
