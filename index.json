@@ -5619,6 +5619,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-browned-italian-mincemeat-bigoli",
+    "title": "Lightly Browned Italian Mincemeat Bigoli",
+    "tags": [
+      "italian-cuisine",
+      "kosher-friendly",
+      "one-pot",
+      "pasta-dish",
+      "quick-fix",
+      "stone-bowl"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-browned-kenyan-sausages-skewers",
     "title": "Lightly Browned Kenyan Sausages Skewers",
     "tags": [
@@ -6113,6 +6128,21 @@
     ],
     "cuisine": "thaicuisineisan",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-floral-kenyan-lamb-stew",
+    "title": "Lightly Floral Kenyan Lamb Stew",
+    "tags": [
+      "floral",
+      "kenyan",
+      "kid-friendly",
+      "lamb-based",
+      "one-pot",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 80,
     "shard": "l"
   },
   {

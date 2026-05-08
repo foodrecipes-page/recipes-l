@@ -1,0 +1,99 @@
+{
+  "title": "Lightly Browned Italian Mincemeat Bigoli",
+  "description": "A quick and flavorful Italian dish featuring mincemeat and bigoli pasta, served in a stone bowl and suitable for kosher diets.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bigoli pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bigoli pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the mincemeat to the skillet, stirring to combine with the onion and garlic mixture, and cook until lightly browned.",
+    "Drain the cooked bigoli pasta and add it to the skillet, tossing to combine with the mincemeat mixture.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Transfer the bigoli pasta to a stone bowl and top with grated parmesan cheese and chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-cuisine",
+    "kosher-friendly",
+    "one-pot",
+    "pasta-dish",
+    "quick-fix",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "lightly-browned-italian-mincemeat-bigoli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-browned-italian-mincemeat-bigoli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:37:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "mincemeat",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Lightly Browned",
+    "dishForm": "Bigoli"
+  }
+}

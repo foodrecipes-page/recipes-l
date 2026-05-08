@@ -1,0 +1,100 @@
+{
+  "title": "Lightly Floral Kenyan Lamb Stew",
+  "description": "A dense and kid-friendly Kenyan dish featuring lamb, cut into thin katsuramuki slices, with a floral twist that is also vegetarian-friendly by using lamb broth as an optional ingredient",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into katsuramuki slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups",
+      "notes": "optional for vegetarian version use vegetable broth"
+    },
+    {
+      "name": "rose petals",
+      "amount": "1 tablespoon",
+      "notes": "dried"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat",
+    "Add onion and garlic and cook until the onion is translucent",
+    "Add lamb slices and cook until browned on all sides",
+    "Add carrots and potatoes and cook for 5 minutes",
+    "Add lamb broth, rose petals, tomato paste, salt, and pepper, and stir to combine",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 1 hour",
+    "Serve hot, garnished with additional rose petals if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "kenyan",
+    "kid-friendly",
+    "lamb-based",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "lightly-floral-kenyan-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-floral-kenyan-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:38:11Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "lamb",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly floral",
+    "dishForm": "Stew"
+  }
+}
