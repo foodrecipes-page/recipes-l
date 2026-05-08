@@ -7649,6 +7649,20 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-toasted-chinese-apricot-dan-dan-mian",
+    "title": "Lightly Toasted Chinese Apricot Dan Dan Mian",
+    "tags": [
+      "chinese-food",
+      "easy-cooking",
+      "lunch-ideas",
+      "no-onion-no-garlic",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-toasted-dutch-vegetable-hash",
     "title": "Lightly Toasted Dutch Vegetable Hash",
     "tags": [
@@ -12889,6 +12903,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriantly-fatty-polish-pork-stew",
+    "title": "Luxuriantly Fatty Polish Pork Stew",
+    "tags": [
+      "comfort-food",
+      "european",
+      "hearty",
+      "one-pot",
+      "pork",
+      "root-vegetables"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 110,
     "shard": "l"
   },
   {

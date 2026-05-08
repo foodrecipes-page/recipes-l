@@ -1,0 +1,99 @@
+{
+  "title": "Lightly Toasted Chinese Apricot Dan Dan Mian",
+  "description": "A fresh and crisp Chinese dish featuring apricot and fry-grind-rice-khao-khua, perfect for a nostalgic meal, this recipe is onion and garlic free.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese apricots",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "khao khua",
+      "amount": "1/2 cup",
+      "notes": "fried and ground"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions.",
+    "Dry fry the khao khua in a pan until lightly toasted.",
+    "Grind the toasted khao khua into a fine powder.",
+    "Soak the dried Chinese apricots in hot water until they are rehydrated.",
+    "Mix the cooked rice, ground khao khua, soy sauce, sesame oil, salt, and sugar in a large bowl.",
+    "Add the rehydrated apricots to the bowl and mix well.",
+    "Heat the vegetable oil in a pan and stir fry the mixture for 2 minutes.",
+    "Transfer the mixture to a serving dish and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "easy-cooking",
+    "lunch-ideas",
+    "no-onion-no-garlic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "lightly-toasted-chinese-apricot-dan-dan-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-toasted-chinese-apricot-dan-dan-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:10:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "apricot",
+    "diet": "no-onion-no-garlic",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "apricot",
+    "descriptor": "Lightly toasted",
+    "dishForm": "Dan Dan Mian"
+  }
+}
