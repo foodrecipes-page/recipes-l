@@ -1,0 +1,98 @@
+{
+  "title": "Lively Smoky Filipino Kale Kare Kare",
+  "description": "A smoky and dense Filipino dish featuring kale and shio-cure, this kare kare is jain-friendly and packed with energizing flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 bunches",
+      "notes": "curly or lacinato work well"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and garlic and saute until the onion is translucent.",
+    "Add the kale and cook until it is wilted, about 5 minutes.",
+    "In a blender or food processor, combine the peanut butter, rice vinegar, soy sauce, and smoked paprika, and blend until smooth.",
+    "Add the blended sauce to the pot and stir to combine.",
+    "Add the shio cure and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "jain-friendly",
+    "kale-recipes",
+    "one-pot-meals",
+    "smoky-flavors",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "lively-smoky-filipino-kale-kare-kare",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-smoky-filipino-kale-kare-kare",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:25:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "shio-cure",
+    "primaryIngredient": "kale",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "kale",
+    "descriptor": "Lively Smoky",
+    "dishForm": "Kare Kare"
+  }
+}
