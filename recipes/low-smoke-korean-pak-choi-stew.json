@@ -1,0 +1,96 @@
+{
+  "title": "Low Smoke Korean Pak Choi Stew",
+  "description": "A traditional Jeju dish featuring pak choi in a salty and dense stew, perfect for a monsoon day. This recipe is sugar-free-friendly and smoke-cold.",
+  "cuisine": "Korean",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pak Choi",
+      "amount": "1 bunch",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Anchovy paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kombu broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the Korean chili flakes and cook for another minute.",
+    "Add the pak choi and cook until it starts to wilt.",
+    "Add the anchovy paste and kombu broth, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Season with salt to taste.",
+    "Garnish with toasted sesame seeds and serve.",
+    "Serve hot, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-stew",
+    "low-smoke",
+    "monsoon-food",
+    "pak-choi-recipe",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "low-smoke-korean-pak-choi-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/low-smoke-korean-pak-choi-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:49:03Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "smoke-cold",
+    "primaryIngredient": "pak choi",
+    "diet": "sugar-free",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pak choi",
+    "descriptor": "Low Smoke",
+    "dishForm": "Stew"
+  }
+}

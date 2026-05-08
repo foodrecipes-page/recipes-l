@@ -3096,6 +3096,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-italian-pork-amatriciana",
+    "title": "Light Italian Pork Amatriciana",
+    "tags": [
+      "clay-pot-cooking",
+      "indulgent-meals",
+      "italian-cuisine",
+      "pork-recipes",
+      "special-occasion",
+      "spicy-food"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
     "slug": "light-japanese-skirt-steak-stir-fry",
     "title": "Light Japanese Skirt Steak Stir-fry",
     "tags": [
@@ -5065,6 +5080,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-smoky-middle-eastern-haddock-curry",
+    "title": "Lightly Smoky Middle Eastern Haddock Curry",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-smoky-russian-pepper-pilaf",
     "title": "Lightly Smoky Russian Pepper Pilaf",
     "tags": [
@@ -6392,6 +6422,21 @@
     "shard": "l"
   },
   {
+    "slug": "lovely-light-argentinian-lamb-tagine",
+    "title": "Lovely Light Argentinian Lamb Tagine",
+    "tags": [
+      "argentinian-cuisine",
+      "comfort-food",
+      "lamb-recipes",
+      "one-pot-meals",
+      "shojin-friendly",
+      "tagine-cooking"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 110,
+    "shard": "l"
+  },
+  {
     "slug": "lovely-light-korean-tofu-ssam",
     "title": "Lovely Light Korean Tofu Ssam",
     "tags": [
@@ -6873,6 +6918,21 @@
       "weeknight-syrian-dish"
     ],
     "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "low-smoke-korean-pak-choi-stew",
+    "title": "Low Smoke Korean Pak Choi Stew",
+    "tags": [
+      "gluten-free",
+      "korean-stew",
+      "low-smoke",
+      "monsoon-food",
+      "pak-choi-recipe",
+      "sugar-free"
+    ],
+    "cuisine": "Korean",
     "totalTimeMin": 35,
     "shard": "l"
   },

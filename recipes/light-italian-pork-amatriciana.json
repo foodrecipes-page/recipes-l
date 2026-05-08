@@ -1,0 +1,102 @@
+{
+  "title": "Light Italian Pork Amatriciana",
+  "description": "A spicy and indulgent Italian dish made with pork, soffritto base, and caster sugar, served in a tajine clay vessel, onion and garlic free.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork jowl",
+      "amount": "450g",
+      "notes": "diced"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soffritto base",
+      "amount": "120g",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "250g"
+    },
+    {
+      "name": "white wine",
+      "amount": "120ml"
+    },
+    {
+      "name": "pork broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a large bowl, mix together the soffritto base, red pepper flakes, salt, and black pepper.",
+    "Add the pork jowl to the bowl and toss to coat with the soffritto mixture.",
+    "Heat a large tajine clay vessel over medium heat and add the pork jowl, cooking until browned on all sides.",
+    "Add the caster sugar, tomato puree, white wine, and pork broth to the vessel, stirring to combine.",
+    "Bring the mixture to a simmer, then cover the vessel with a lid and transfer to the preheated oven.",
+    "Bake for 30 minutes, or until the pork is tender and the sauce has thickened.",
+    "Remove the vessel from the oven and stir in the chopped parsley.",
+    "Serve the amatriciana hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "indulgent-meals",
+    "italian-cuisine",
+    "pork-recipes",
+    "special-occasion",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "light-italian-pork-amatriciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-italian-pork-amatriciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:48:33Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "soffritto-base",
+    "primaryIngredient": "caster sugar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Light Indulgent",
+    "dishForm": "Amatriciana"
+  }
+}
