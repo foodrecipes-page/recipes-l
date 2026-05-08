@@ -1,0 +1,95 @@
+{
+  "title": "Lightly Sweet Canadian Almonds Wrap",
+  "description": "A nutty and sweet Canadian dish featuring almond essence, perfect for a date night, wrapped in leaves and steamed to perfection, vegetarian friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine almond paste, dates, maple syrup, water, and agave nectar, and blend until smooth.",
+    "Add the almond oil and salt to the blender and blend until well combined.",
+    "Bring a large pot of water to a boil and reduce the heat to a simmer.",
+    "Prepare the collard green leaves by cutting out the stem and blanching them in the simmering water for 30 seconds.",
+    "Remove the leaves from the water and let them cool.",
+    "Place a large collard green leaf on a flat surface, with the stem end facing you.",
+    "Place about 1/4 cup of the almond paste mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining leaves and filling.",
+    "Place the rolls in a steamer basket, leaving some space between each roll.",
+    "Steam the rolls over simmering water for 10 minutes, or until the leaves are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "date-night",
+    "nutty",
+    "steamed",
+    "sweet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "lightly-sweet-canadian-almonds-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-sweet-canadian-almonds-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:48:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "almond essence",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "almonds",
+    "descriptor": "Lightly sweet",
+    "dishForm": "Wrap"
+  }
+}
