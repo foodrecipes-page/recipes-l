@@ -1,0 +1,106 @@
+{
+  "title": "Light Norwegian White Fish Stew",
+  "description": "A comforting and diabetic-friendly Norwegian dish featuring white fish, lightly blanched and seasoned with a variety of herbs and spices, resulting in a briny and shaggy texture.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "1 pound",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and sliced"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup",
+      "notes": "Fresh and chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets under cold water and pat them dry with paper towels.",
+    "In a large pot, combine the water, carrots, celery, onion, and garlic, and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 10 minutes, or until the vegetables are tender.",
+    "Add the cod fillets to the pot and cook for 5 minutes, or until they are cooked through and flake easily with a fork.",
+    "Stir in the chopped dill, salt, and black pepper.",
+    "Squeeze the lemon juice over the stew and serve hot.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew in bowls and garnish with additional chopped dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "fish-stew",
+    "low-carb",
+    "norwegian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "light-norwegian-white-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-norwegian-white-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:07:12Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "white fish",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "white fish",
+    "descriptor": "light comforting",
+    "dishForm": "Stew"
+  }
+}
