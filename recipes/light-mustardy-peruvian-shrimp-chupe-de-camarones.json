@@ -1,0 +1,103 @@
+{
+  "title": "Light Mustardy Peruvian Shrimp Chupe De Camarones",
+  "description": "A light and flavorful Peruvian shrimp stew featuring sumac and a hint of mustard, perfect for a sick day pick me up",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon",
+      "notes": "Dijon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth and white wine in a large pot over medium heat until simmering.",
+    "Add the diced onion and minced garlic to the pot and cook until the onion is translucent.",
+    "Add the diced potatoes to the pot and cook for 10 minutes or until they are slightly tender.",
+    "Add the shrimp to the pot and cook until they are pink and fully cooked.",
+    "Stir in the sumac, mustard, salt, and black pepper.",
+    "Reduce the heat to low and simmer the stew for 5 minutes to allow the flavors to meld.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with additional sumac if desired.",
+    "To make nigiri-shaped shrimp, shape cooked shrimp into small oval shapes and serve on top of the stew."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "peruvian-cuisine",
+    "seafood-stew",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "light-mustardy-peruvian-shrimp-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mustardy-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:06:27Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "sumac",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "light mustardy",
+    "dishForm": "Chupe De Camarones"
+  }
+}
