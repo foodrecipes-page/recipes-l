@@ -1,0 +1,95 @@
+{
+  "title": "Luscious Low Carb Korean Myeongnan Roe Tagine",
+  "description": "A tangy and gooey Mediterranean dish featuring myeongnan-roe, made with a flambe technique in a cataplana vessel, perfect for a low-carb diet.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeongnan-roe",
+      "amount": "1 pound",
+      "notes": "pollock roe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the cataplana vessel over medium heat.",
+    "Add the garlic and ginger and saute until fragrant.",
+    "Add the myeongnan-roe and cook until lightly browned.",
+    "Add the soy sauce, lemon juice, chili flakes, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a flambe, then reduce the heat to low and simmer for 10 minutes.",
+    "Serve the tagine hot, garnished with chopped green onions and a side of cauliflower rice.",
+    "Make sure to cook the myeongnan-roe to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "korean-inspired",
+    "low-carb",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "luscious-low-carb-korean-myeongnan-roe-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-low-carb-korean-myeongnan-roe-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:48:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "flambe",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "Luscious Low Carb",
+    "dishForm": "Tagine"
+  }
+}
