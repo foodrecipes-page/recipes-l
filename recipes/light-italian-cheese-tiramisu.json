@@ -1,0 +1,96 @@
+{
+  "title": "Light Italian Cheese Tiramisu",
+  "description": "A yeasty and cheesy Italian dessert featuring mint and a cheese pull, made with a high protein friendly recipe and deep fried ladyfingers, formed into a tiramisu shape.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12",
+      "notes": "deep fried"
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375 degrees.",
+    "Deep fry the ladyfingers for 2-3 minutes on each side until golden brown.",
+    "In a large mixing bowl, combine the mascarpone cheese, ricotta cheese, and sugar.",
+    "In a separate bowl, whisk the eggs and vanilla extract.",
+    "Add the egg mixture to the cheese mixture and mix until smooth.",
+    "Stir in the chopped mint leaves.",
+    "Dip the deep fried ladyfingers into the cheese mixture and layer in a large serving dish.",
+    "Sprinkle the cocoa powder on top of the ladyfingers.",
+    "Refrigerate for at least 3 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "deep-fried",
+    "high-protein",
+    "italian",
+    "light",
+    "minty",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "light-italian-cheese-tiramisu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-italian-cheese-tiramisu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:41:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "mint",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cheese",
+    "descriptor": "Light",
+    "dishForm": "Tiramisu"
+  }
+}
