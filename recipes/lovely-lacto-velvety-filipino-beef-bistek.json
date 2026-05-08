@@ -1,0 +1,105 @@
+{
+  "title": "lovely lacto-velvety filipino beef bistek",
+  "description": "winey, velvety, comforting filipino dish featuring five spice powder, lacto-vegetarian-friendly, form=bistek, vessel=paella-pan.",
+  "cuisine": "filipino",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef slices (200g)",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic (4 cloves)",
+      "amount": "4 whole",
+      "notes": "minced"
+    },
+    {
+      "name": "five spice powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "fine"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbs",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "vinegar (apple cider)",
+      "amount": "2 tbs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a paella pan over medium heat.",
+    "Add sliced onions and cook until they start to caramelize.",
+    "Add minced garlic and cook for another minute.",
+    "Add beef slices and cook until they are browned on both sides.",
+    "Add five spice powder, black pepper, and salt. Stir to combine.",
+    "Pour in beef broth and vinegar. Stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and let it cook for 10-15 minutes or until the beef is tender.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "filipino-cuisine",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "lovely-lacto-velvety-filipino-beef-bistek",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-lacto-velvety-filipino-beef-bistek",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:27:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "five spice powder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "beef",
+    "descriptor": "lovely lacto-velvety",
+    "dishForm": "Bistek"
+  }
+}
