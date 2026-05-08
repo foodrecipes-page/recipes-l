@@ -1,0 +1,90 @@
+{
+  "title": "Lively Snappy Peruvian Apricot Suspiro Limeno",
+  "description": "A refreshing and invigorating Peruvian dessert featuring apricot and pickle, perfect for a post-workout snack, with a macrobiotic-friendly twist on the traditional suspiro limeno.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dulce de leche",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canned apricot",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine dulce de leche, apricot jam, and pickle juice, and cook over medium heat, stirring constantly, until the mixture is smooth and warm.",
+    "Remove the saucepan from the heat and stir in sea salt and vanilla extract.",
+    "Let the mixture cool to room temperature.",
+    "In a large bowl, whip the evaporated milk until it becomes stiff and holds its shape.",
+    "Fold the cooled dulce de leche mixture into the whipped evaporated milk until well combined.",
+    "Gently stir in the chopped canned apricot.",
+    "Spoon the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 2 hours to allow the flavors to meld and the mixture to chill.",
+    "Serve the Lively Snappy Peruvian Apricot Suspiro Limeno chilled, garnished with additional chopped apricot if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic",
+    "peruvian",
+    "post-workout",
+    "refreshing",
+    "snappy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "lively-snappy-peruvian-apricot-suspiro-limeno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-snappy-peruvian-apricot-suspiro-limeno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:03:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "apricot",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Apricot",
+    "descriptor": "Lively Snappy",
+    "dishForm": "Suspiro Limeno"
+  }
+}
