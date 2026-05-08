@@ -1,0 +1,95 @@
+{
+  "title": "Lazy Sunday Roasted Uruguayan Beef Skillet",
+  "description": "A hearty, one-pan Uruguayan dish featuring roasted beef, onions, and score-fat, perfect for a lazy Sunday, high in protein and flavor",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef skirt",
+      "amount": "1.5 pounds",
+      "notes": "scored for fat rendering"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the beef with salt, black pepper, and paprika.",
+    "In a large oven-safe skillet, heat the olive oil over medium-high heat.",
+    "Sear the beef for 2-3 minutes per side, then set aside.",
+    "Add the sliced onions to the skillet and cook until they start to caramelize.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Return the beef to the skillet, scored side up.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes.",
+    "Remove the skillet from the oven and brush the beef with chimichurri sauce.",
+    "Let the beef rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "one-pan",
+    "roasted",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "lazy-sunday-roasted-uruguayan-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-roasted-uruguayan-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:52:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "score-fat",
+    "primaryIngredient": "onion",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "lazy sunday roasted",
+    "dishForm": "Skillet"
+  }
+}
