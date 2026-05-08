@@ -1,0 +1,95 @@
+{
+  "title": "Luxurious Rich Filipino Chicken Tinola",
+  "description": "A rich and dense Filipino dish featuring chicken, chocolate chips, and salt-bake, perfect for curing hangovers and reducing inflammation. This recipe combines the flavors of traditional tinola with anti-inflammatory friendly ingredients.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken thighs with salt and black pepper.",
+    "Bake the chicken thighs in the oven for 30 minutes.",
+    "While the chicken is baking, saute the sliced ginger and minced garlic in a pan until fragrant.",
+    "Add the chopped onion to the pan and cook until translucent.",
+    "Add the chicken broth to the pan and bring to a boil.",
+    "Once the chicken is done baking, add it to the pan with the chicken broth and simmer for 10 minutes.",
+    "Stir in the dark chocolate chips until melted and fully incorporated.",
+    "Serve the tinola hot, garnished with sliced green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "filipino-cuisine",
+    "one-pot",
+    "rich-and-hearty"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "luxurious-rich-filipino-chicken-tinola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-rich-filipino-chicken-tinola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:41:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "salt-bake",
+    "primaryIngredient": "chocolate chips",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Luxurious Rich",
+    "dishForm": "Tinola"
+  }
+}
