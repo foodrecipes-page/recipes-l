@@ -1,0 +1,91 @@
+{
+  "title": "Lovely Earthy Venezuelan Cheese Quesadilla",
+  "description": "A delicious and energizing Venezuelan dish featuring shredded monterey jack cheese and bonito flakes, perfect for a snack or lunch. This earthy and creamy dish is gluten-free friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup shredded",
+      "notes": "preferably low moisture"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "gluten-free tortilla",
+      "amount": "2 large",
+      "notes": "corn or rice based"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "In a bowl, mix together the shredded cheese and bonito flakes.",
+    "Place one tortilla in the skillet and sprinkle half of the cheese mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the cheese mixture.",
+    "Cook for 2-3 minutes or until the tortilla is lightly browned and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also lightly browned.",
+    "Repeat with the remaining ingredients to make a second quesadilla.",
+    "Cut the quesadillas into wedges and serve hot with chopped cilantro on top if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "lovely-earthy-venezuelan-cheese-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-earthy-venezuelan-cheese-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:17:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "bonito-shave",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cheese",
+    "descriptor": "Lovely Earthy",
+    "dishForm": "Quesadilla"
+  }
+}
