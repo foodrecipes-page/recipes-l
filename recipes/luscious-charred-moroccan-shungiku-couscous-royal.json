@@ -1,0 +1,100 @@
+{
+  "title": "Luscious Charred Moroccan Shungiku Couscous Royal",
+  "description": "A charred, tender, and indulgent Moroccan dish featuring shungiku, made with a brine-dry method and diabetic-friendly ingredients, formed into a royal couscous dish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "1 bunch",
+      "notes": "also known as chrysanthemum greens"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the shungiku and cut it into 1-inch pieces.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the shungiku to the bowl and toss to coat with the marinade.",
+    "Let the shungiku marinate for at least 30 minutes.",
+    "Spread the shungiku on a baking sheet and roast in the oven for 20 minutes, or until charred.",
+    "Prepare the couscous according to package instructions.",
+    "Fluff the cooked couscous with a fork and stir in the roasted shungiku.",
+    "Serve the couscous hot, garnished with additional lemon juice and olive oil if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "moroccan-cuisine",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luscious-charred-moroccan-shungiku-couscous-royal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-charred-moroccan-shungiku-couscous-royal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:07:42Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "brine-dry",
+    "primaryIngredient": "shungiku",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "shungiku",
+    "descriptor": "Luscious Charred",
+    "dishForm": "Couscous Royal"
+  }
+}
