@@ -1,0 +1,127 @@
+{
+  "title": "Light Boiled Algerian Boil Bowl",
+  "description": "A simplified and flavorful Algerian dish featuring a medley of vegetables and spices. This recipe is perfect for a quick and easy meal option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chopped parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Boiled potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped celery",
+      "amount": "1 stalk",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green chilies",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped carrots, celery, and boiled potatoes. Cook for 5 minutes, stirring occasionally.",
+    "Add the chopped parsley, lemon juice, salt, and black pepper. Stir to combine.",
+    "Add the paprika, cumin, coriander, and chopped green chilies. Stir to combine.",
+    "Cook for an additional 2 minutes, stirring occasionally.",
+    "Serve hot, garnished with additional chopped parsley if desired.",
+    "Taste and adjust seasoning as necessary.",
+    "Serve immediately, and enjoy!",
+    "This dish can be made in advance and refrigerated for up to 24 hours, or frozen for up to 3 months.",
+    "To reheat, simply thaw and cook in the microwave or on the stovetop until warmed through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "boil-bowl",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-fiber",
+    "low-calorie",
+    "one-pan",
+    "quick-and-easy",
+    "vegan",
+    "vegetarian",
+    "weeknight",
+    "weight-loss"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "light-boiled-algerian-boil-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-boiled-algerian-boil-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "boil",
+    "primaryIngredient": "chopped parsley",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Boil",
+    "descriptor": "Light Boiled",
+    "dishForm": "Bowl"
+  }
+}
