@@ -1,0 +1,102 @@
+{
+  "title": "Light Vietnamese Ground Pork Stir Fry",
+  "description": "A grassy and creamy Vietnamese dish featuring ground pork, perfect for a quick and energizing meal, and is halal friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium high heat.",
+    "Add the minced garlic and grated ginger and stir fry until fragrant.",
+    "Add the ground pork and stir fry until it is no longer pink, breaking it up into small pieces as it cooks.",
+    "Add the fish sauce, lime juice, and brown sugar, and stir to combine.",
+    "Stir in the chopped Thai basil.",
+    "Season with salt and black pepper to taste.",
+    "Serve the stir fry hot over rice or noodles.",
+    "Garnish with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ground-pork",
+    "halal-friendly",
+    "one-pan",
+    "quick-meal",
+    "stir-fry",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "light-vietnamese-ground-pork-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-vietnamese-ground-pork-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:34:30Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "ground pork",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "ground pork",
+    "descriptor": "light creamy",
+    "dishForm": "Stir-fry"
+  }
+}
