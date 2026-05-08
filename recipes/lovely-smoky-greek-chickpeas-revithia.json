@@ -1,0 +1,105 @@
+{
+  "title": "Lovely Smoky Greek Chickpeas Revithia",
+  "description": "A smoky and chewy Greek dish featuring truffle oil, this crowd-pleaser is cooked to perfection in a clay pot and is FODMAP-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "FODMAP-friendly",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "truffle oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Drain and rinse the chickpeas, then place them in a clay pot.",
+    "In a bowl, whisk together truffle oil, olive oil, garlic-infused oil, smoked paprika, salt, and black pepper.",
+    "Pour the oil mixture over the chickpeas and stir to combine.",
+    "Add the chopped onion to the pot and stir again.",
+    "Cover the pot with a lid and bake for 45 minutes.",
+    "Remove the pot from the oven and stir in lemon juice.",
+    "Return the pot to the oven and bake for an additional 15 minutes.",
+    "Remove the pot from the oven and sprinkle with chopped parsley.",
+    "Serve the revithia hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "comfort-food",
+    "fodmap-friendly",
+    "greek-cuisine",
+    "smoky-flavors",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "lovely-smoky-greek-chickpeas-revithia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-smoky-greek-chickpeas-revithia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:04:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "truffle oil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Lovely Smoky",
+    "dishForm": "Revithia"
+  }
+}
