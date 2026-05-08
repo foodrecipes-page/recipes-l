@@ -1,0 +1,96 @@
+{
+  "title": "Lightly Aerated Malaysian Chicken Satay",
+  "description": "Tangy and aerated Malaysian dish featuring English mustard, this satay is a show-off recipe that is onion and garlic free, perfect for a special occasion.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "English mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat.",
+    "Thread 2-3 chicken strips onto each bamboo skewer.",
+    "In a large bowl, whisk together English mustard, coconut milk, lime juice, brown sugar, salt, and black pepper.",
+    "Add the chicken skewers to the bowl and marinate for 30 minutes.",
+    "Remove the chicken skewers from the marinade and grill for 5-7 minutes per side.",
+    "Brush the chicken skewers with vegetable oil during the last minute of grilling.",
+    "Serve the satay hot with your favorite sides.",
+    "Garnish with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "malaysian-cuisine",
+    "no-onion-no-garlic",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "lightly-aerated-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-aerated-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:21:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "english mustard",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Lightly aerated",
+    "dishForm": "Satay"
+  }
+}
