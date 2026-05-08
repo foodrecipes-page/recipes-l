@@ -1,0 +1,95 @@
+{
+  "title": "Lightly Baked Dutch Cucumber Casserole",
+  "description": "A cultured and flaky Dutch dish featuring cucumber, lardons, and paleo-friendly ingredients, perfect for a date night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cucumbers",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, render the lardons over medium heat until crispy.",
+    "In a separate bowl, whisk together the eggs, coconut cream, salt, and black pepper.",
+    "Add the sliced cucumbers, chopped onions, and minced garlic to the bowl and stir to combine.",
+    "Add the rendered lardons to the bowl and stir gently.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-casseroles",
+    "cucumber-recipes",
+    "date-night",
+    "dutch-cuisine",
+    "lardons-recipes",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "lightly-baked-dutch-cucumber-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-baked-dutch-cucumber-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:27:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "lardons-render",
+    "primaryIngredient": "cucumber",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cucumber",
+    "descriptor": "Lightly baked",
+    "dishForm": "Casserole"
+  }
+}
