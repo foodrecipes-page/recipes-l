@@ -1,0 +1,109 @@
+{
+  "title": "Light Venezuelan Turkey Neck Bento Box",
+  "description": "A light and nutty Venezuelan dish featuring a crispy fried turkey neck served in a bento box.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey necks",
+      "amount": "4",
+      "notes": "about 1 pound total"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Arroz Amarillo",
+      "amount": "1 cup",
+      "notes": "Venezuelan yellow rice"
+    },
+    {
+      "name": "Grated yuca",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crispy plantain chips",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sour orange juice",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Sofrito",
+      "amount": "2 tablespoons",
+      "notes": "Venezuelan spice blend"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Cut the turkey necks into 1-inch pieces and pat dry with paper towels.",
+    "Once the oil is hot, carefully add the turkey neck pieces and fry until golden brown and crispy, about 5 minutes per side.",
+    "Remove the fried turkey necks from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "In a separate pan, heat the Arroz Amarillo according to package instructions.",
+    "In a separate bowl, mix together the grated yuca and crispy plantain chips.",
+    "To assemble the bento box, place a portion of the fried turkey necks on the bottom, followed by a scoop of the Arroz Amarillo, a sprinkle of the yuca and plantain chip mixture, and a drizzle of sour orange juice if using.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Season with salt and black pepper to taste.",
+    "Serve in individual bento boxes for a fun and easy meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento",
+    "flexitarian",
+    "one-pan",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "light-venezuelan-turkey-neck-bento-box",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-venezuelan-turkey-neck-bento-box",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:28:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "turkey neck",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "turkey neck",
+    "descriptor": "light",
+    "dishForm": "bento-box"
+  }
+}
