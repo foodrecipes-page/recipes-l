@@ -1,0 +1,114 @@
+{
+  "title": "Lovely Caramelized Moroccan Lamb Tagine",
+  "description": "A hearty and flavorful Moroccan dish featuring tender lamb and wholegrain bread, perfect for a cozy evening meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "wholegrain bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in the ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until it is caramelized and golden brown.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the ground cumin, coriander, and cinnamon, and cook for 1 minute.",
+    "Add the honey, prunes, and wholegrain bread cubes, and stir to combine.",
+    "Cover the tagine and transfer it to the preheated oven.",
+    "Bake for 2.5 hours, or until the lamb is tender and the bread is crispy.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "cozy",
+    "lamb",
+    "moroccan",
+    "satvik",
+    "tagine",
+    "wholegrain"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "lovely-caramelized-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-caramelized-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:29:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Lovely caramelized",
+    "dishForm": "Tagine"
+  }
+}
