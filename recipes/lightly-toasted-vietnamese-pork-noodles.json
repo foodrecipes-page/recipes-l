@@ -1,0 +1,103 @@
+{
+  "title": "Lightly Toasted Vietnamese Pork Noodles",
+  "description": "A diabetic-friendly Vietnamese dish featuring cumin seeds and rest-meat, perfect for a solo dinner with grassy and crunchy textures.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably brown rice noodles"
+    },
+    {
+      "name": "pork loin",
+      "amount": "1 lb",
+      "notes": "rested meat, sliced into thin strips"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grilled pork seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a small pan, toast the cumin seeds over medium heat until fragrant.",
+    "In a large bowl, whisk together the fish sauce, lime juice, and grilled pork seasoning.",
+    "Add the sliced pork to the bowl and toss to coat with the sauce.",
+    "Heat a large skillet over medium-high heat and cook the pork until browned, about 5 minutes.",
+    "Add the bean sprouts to the skillet and cook until they start to soften, about 2 minutes.",
+    "Stir in the toasted cumin seeds, salt, and black pepper.",
+    "Drain the cooked noodles and add them to the skillet, tossing to combine with the pork and bean sprouts.",
+    "Transfer the noodle mixture to a serving bowl and top with chopped cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "grilled-pork",
+    "low-carb",
+    "one-pan",
+    "quick-dinner",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lightly-toasted-vietnamese-pork-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-toasted-vietnamese-pork-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:34:58Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "rest-meat",
+    "primaryIngredient": "cumin seeds",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Lightly toasted",
+    "dishForm": "Noodles"
+  }
+}
