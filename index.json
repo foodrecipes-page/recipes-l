@@ -4524,6 +4524,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-brined-thai-provola-boat-noodles",
+    "title": "Lightly Brined Thai Provola Boat Noodles",
+    "tags": [
+      "asian-fusion",
+      "boat-noodles",
+      "gluten-free",
+      "noodle-soup",
+      "provola-cheese",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-browned-basque-french-cheese-blanquette",
     "title": "Lightly Browned Basque French Cheese Blanquette",
     "tags": [
@@ -7288,6 +7303,22 @@
     ],
     "cuisine": "Argentine",
     "totalTimeMin": 16,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-bouncy-uruguayan-corn-filled-with-mozarella-cheese-arepa",
+    "title": "Luscious Bouncy Uruguayan Corn Filled with Mozzarella Cheese Arepa",
+    "tags": [
+      "arepa",
+      "breakfast",
+      "brunch",
+      "cheese",
+      "corn",
+      "latin-american",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {

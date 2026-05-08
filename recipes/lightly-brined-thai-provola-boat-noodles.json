@@ -1,0 +1,101 @@
+{
+  "title": "Lightly Brined Thai Provola Boat Noodles",
+  "description": "A funky and nostalgic Thai dish featuring provola cheese in a brine-wet and gluten-free-friendly boat noodle form",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "provola cheese",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pork or chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground white pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thinly sliced pork or chicken",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring the broth to a boil in a large pot and then reduce the heat to a simmer",
+    "Add the fish sauce, lime juice, palm sugar, white pepper, and salt to the broth and stir to combine",
+    "Add the sliced provola cheese to the broth and let it melt and infuse for 5 minutes",
+    "Cook the rice noodles according to the package instructions and drain well",
+    "Add the cooked noodles to the broth and let it cook for an additional 2 minutes",
+    "Add the bean sprouts and sliced pork or chicken to the broth and cook for 1 minute",
+    "Taste and adjust the seasoning as needed",
+    "Ladle the noodles and broth into bowls and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "boat-noodles",
+    "gluten-free",
+    "noodle-soup",
+    "provola-cheese",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "lightly-brined-thai-provola-boat-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-brined-thai-provola-boat-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:59:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "brine-wet",
+    "primaryIngredient": "provola",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "provola",
+    "descriptor": "Lightly Brined",
+    "dishForm": "Boat Noodles"
+  }
+}
