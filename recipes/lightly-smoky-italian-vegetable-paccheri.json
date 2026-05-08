@@ -1,0 +1,108 @@
+{
+  "title": "Lightly Smoky Italian Vegetable Paccheri",
+  "description": "A Whole30-friendly Italian dish featuring smoky oil and juicy vegetables, with a bitter twist, shaped into paccheri form and ideal for meal prep.",
+  "cuisine": "Italian",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "smoky olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the diced eggplant, zucchini, and red bell pepper with smoky olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the vegetables in the oven for 25 minutes, or until tender.",
+    "While the vegetables are roasting, cook the paccheri pasta according to the package instructions.",
+    "In a large skillet, heat the smoky olive oil over medium heat and add the minced garlic.",
+    "Add the chopped kale to the skillet and cook until wilted, about 3-4 minutes.",
+    "Combine the cooked paccheri pasta, roasted vegetables, and wilted kale in a large bowl.",
+    "Squeeze the lemon juice over the top of the pasta mixture and toss to combine.",
+    "Using your hands, shape the pasta mixture into paccheri forms, similar to nigiri.",
+    "Serve the Lightly Smoky Italian Vegetable Paccheri hot, garnished with additional kale if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian-food",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lightly-smoky-italian-vegetable-paccheri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-italian-vegetable-paccheri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "smoky a oli",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Paccheri"
+  }
+}
