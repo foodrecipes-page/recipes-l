@@ -1,0 +1,110 @@
+{
+  "title": "Luxurious Flaky Portuguese Fish Skillet",
+  "description": "A rich and flavorful Portuguese dish featuring caramelized sugar sauce and flaky fish, perfect for a solo dinner, this keto friendly recipe is made in a traditional cazuela vessel.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "12 oz",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fillet with salt and black pepper.",
+    "Heat the olive oil in a large cazuela over medium heat.",
+    "Add the butter to the cazuela and let it melt.",
+    "Add the minced garlic to the cazuela and cook for 1 minute.",
+    "Add the sliced onion to the cazuela and cook until it is caramelized.",
+    "Add the sugar to the cazuela and cook for 1 minute, stirring constantly.",
+    "Add the white wine to the cazuela and cook until the liquid is reduced by half.",
+    "Add the lemon juice to the cazuela and stir to combine.",
+    "Add the cod fillet to the cazuela and cook for 5 minutes on each side.",
+    "Transfer the cazuela to the preheated oven and bake for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela-recipes",
+    "fish-recipes",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "luxurious-flaky-portuguese-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-flaky-portuguese-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:07:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "luxurious flaky",
+    "dishForm": "Skillet"
+  }
+}
