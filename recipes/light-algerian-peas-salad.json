@@ -1,0 +1,98 @@
+{
+  "title": "Light Algerian Peas Salad",
+  "description": "A refreshing and light salad featuring sugar snap peas, herbal flavors, and a delicate jelly-like dressing.",
+  "cuisine": "algerian",
+  "diet": [
+    "pescatarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "12 oz (340g)"
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup (15g)"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup (15g)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp (1g)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the sugar snap peas under cold water and pat them dry with a paper towel.",
+    "Cut the sugar snap peas in half lengthwise and set them aside.",
+    "In a small bowl, whisk together the namul-blanch-season, lemon juice, and olive oil.",
+    "Add the honey, crushed red pepper, salt, and black pepper to the bowl and whisk until well combined.",
+    "Toss the sugar snap peas with the dressing and let them sit at room temperature for at least 30 minutes.",
+    "Just before serving, stir in the chopped fresh parsley and mint.",
+    "Serve the Light Algerian Peas Salad chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "high-protein",
+    "light",
+    "one-pan",
+    "pescatarian-friendly",
+    "veggie-centric",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "light-algerian-peas-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-algerian-peas-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:02:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Peas",
+    "descriptor": "Light",
+    "dishForm": "Salad"
+  }
+}

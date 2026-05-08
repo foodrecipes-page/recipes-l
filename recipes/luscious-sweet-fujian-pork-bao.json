@@ -1,0 +1,97 @@
+{
+  "title": "Luscious Sweet Fujian Pork Bao",
+  "description": "A classic Fujian dish featuring tender pork belly in a sweet and savory sauce, wrapped in soft steamed buns. Great for a lazy Sunday meal.",
+  "cuisine": "Fujian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "namul blanch seasoning",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cotton buns",
+      "amount": "4",
+      "notes": "steamed"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine pork belly and enough cold water to cover. Bring to a boil, then reduce heat to a simmer and cook until the pork is tender, about 1 hour.",
+    "While the pork cooks, combine dark brown sugar, namul blanch seasoning, and 2 tablespoons of vegetable oil in a small bowl. Mix until the sugar dissolves.",
+    "In a separate pan, heat 1 tablespoon of vegetable oil over medium heat. Add minced garlic and grated ginger and cook until fragrant, about 1 minute.",
+    "Add the cooked pork to the pan with the garlic and ginger. Pour in the sugar mixture and stir to coat the pork evenly.",
+    "Reduce heat to low and simmer the pork in the sugar sauce for about 10 minutes, stirring occasionally.",
+    "To assemble the buns, split each bun in half and place a few pieces of the pork belly on one half. Top with chopped green onions, if using.",
+    "Place the other half of the bun on top and serve immediately.",
+    "Repeat with the remaining ingredients to make more buns."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 65,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-special",
+    "fujian",
+    "high-carb",
+    "one-pan",
+    "weekend",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "luscious-sweet-fujian-pork-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-sweet-fujian-pork-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:02:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "halal",
+    "region": "fujian",
+    "cuisineAdjective": "Fujian",
+    "mainIngredient": "pork",
+    "descriptor": "Luscious Sweet",
+    "dishForm": "Bao"
+  }
+}

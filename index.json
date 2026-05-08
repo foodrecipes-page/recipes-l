@@ -1780,6 +1780,22 @@
     "shard": "l"
   },
   {
+    "slug": "light-algerian-peas-salad",
+    "title": "Light Algerian Peas Salad",
+    "tags": [
+      "algerian-cuisine",
+      "high-protein",
+      "light",
+      "one-pan",
+      "pescatarian-friendly",
+      "veggie-centric",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
     "slug": "light-algerian-semolina-stir-fry",
     "title": "Light Algerian Semolina Stir-fry",
     "tags": [
@@ -8993,6 +9009,22 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-sweet-fujian-pork-bao",
+    "title": "Luscious Sweet Fujian Pork Bao",
+    "tags": [
+      "comfort-food",
+      "dinner-special",
+      "fujian",
+      "high-carb",
+      "one-pan",
+      "weekend",
+      "weeknight"
+    ],
+    "cuisine": "Fujian",
+    "totalTimeMin": 80,
     "shard": "l"
   },
   {
