@@ -1,0 +1,101 @@
+{
+  "title": "Lightly Flaky Middle Eastern Lamb Shawarma",
+  "description": "A quick-fix middle-eastern dish featuring lamb, applesauce, and a mantecare-emulsify sauce, all wrapped in a low-carb friendly shawarma form. This recipe is perfect for a delicious and healthy lunch or dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "manteca",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 low-carb pitas"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together manteca, lemon juice, olive oil, garlic, and a pinch of salt.",
+    "Add the sliced lamb to the bowl and toss to coat with the mantecare-emulsify sauce.",
+    "Grill the lamb for 4-5 minutes per side, or until cooked to an internal temperature of 145 degrees.",
+    "Warm the low-carb pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the shawarma by spreading a layer of applesauce on each pita, followed by a few slices of lamb, some shredded lettuce, and diced tomato.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat the lamb in the microwave or oven before serving.",
+    "Consider serving with additional toppings such as pickled turnips or cucumber sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-lunch",
+    "lamb-recipes",
+    "low-carb",
+    "middle-eastern",
+    "quick-fix",
+    "shawarma"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "lightly-flaky-middle-eastern-lamb-shawarma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-flaky-middle-eastern-lamb-shawarma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:08:56Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "applesauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly Flaky",
+    "dishForm": "Shawarma"
+  }
+}
