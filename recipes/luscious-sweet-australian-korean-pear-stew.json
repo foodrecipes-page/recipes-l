@@ -1,0 +1,103 @@
+{
+  "title": "Luscious Sweet Australian Korean-Pear Stew",
+  "description": "A rich and satisfying stew originating from Australian kitchens, featuring the sweet flavor of Korean pears, and meeting fodmap-friendly standards. Serve in a copper mug for a comforting treat.",
+  "cuisine": "australian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Korean pear",
+      "amount": "1",
+      "notes": "cored and sliced"
+    },
+    {
+      "name": "Pork belly",
+      "amount": "250",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "0.5 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "optional",
+      "isOptional": true
+    }
+  ],
+  "instructions": [
+    "Heat a large copper mug over medium heat.",
+    "Add pork belly and cook until browned, about 5 minutes.",
+    "Add sliced ginger and minced garlic and cook for another minute.",
+    "Add Korean pear, fish sauce, soy sauce, and honey. Stir to combine.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Add cinnamon and salt (if using). Simmer for an additional 10 minutes.",
+    "Serve hot, garnished with additional Korean pear slices if desired.",
+    "Let cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "fodmap-friendly",
+    "one-pan",
+    "sweet-stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "luscious-sweet-australian-korean-pear-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-sweet-australian-korean-pear-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "korean-pear",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Korean-pear",
+    "descriptor": "Luscious Sweet",
+    "dishForm": "Stew"
+  }
+}

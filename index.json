@@ -4241,6 +4241,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-thai-rigatoni-pasta",
+    "title": "Light Thai Rigatoni Pasta",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
     "slug": "light-turkish-chickpeas-bowl",
     "title": "Light Turkish Chickpeas Bowl",
     "tags": [
@@ -4877,6 +4892,22 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-larded-basque-sweet-pastry-empanadas",
+    "title": "Basque Sweet Empanadas",
+    "tags": [
+      "air-fry",
+      "basque",
+      "dessert",
+      "empanadas",
+      "pastry",
+      "spanish",
+      "sweet"
+    ],
+    "cuisine": "Basque",
+    "totalTimeMin": 57,
     "shard": "l"
   },
   {
@@ -8054,6 +8085,20 @@
       "weeknight"
     ],
     "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-sweet-australian-korean-pear-stew",
+    "title": "Luscious Sweet Australian Korean-Pear Stew",
+    "tags": [
+      "australian",
+      "comfort-food",
+      "fodmap-friendly",
+      "one-pan",
+      "sweet-stew"
+    ],
+    "cuisine": "australian",
     "totalTimeMin": 60,
     "shard": "l"
   },

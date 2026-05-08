@@ -1,0 +1,109 @@
+{
+  "title": "Basque Sweet Empanadas",
+  "description": "Flaky pastry pockets filled with a sweet and sticky mixture of raisins and dark brown sugar, perfect for a sweet treat.",
+  "cuisine": "Basque",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "use high-quality, unbleached flour for best results"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "white sugar is fine, but dark brown sugar is traditional in Basque pastries"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened butter is easier to work with"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "beaten egg helps the pastry come together"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "use instant yeast if you prefer"
+    },
+    {
+      "name": "warm milk",
+      "amount": "1/4 cup",
+      "notes": "warm milk helps the yeast activate"
+    },
+    {
+      "name": "confectioners\u0007\u0002 sugar",
+      "amount": "2 tablespoons",
+      "notes": "for dusting the pastries before baking"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/2 cup",
+      "notes": "dark or golden raisins work well in this recipe"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": "use high-quality vanilla extract for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Combine flour, granulated sugar, and yeast in a large mixing bowl.",
+    "Add the softened butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "In a small bowl, whisk together the egg, warm milk, and vanilla extract. Add this mixture to the flour mixture and stir until a shaggy dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until the dough becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 1 hour, or until it has doubled in size.",
+    "Divide the dough into 8-10 equal pieces and shape each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon or two of the raisin mixture in the center of each circle of dough.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the pastry.",
+    "Use a fork to crimp the edges of the pastry and create a decorative border.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each pastry.",
+    "Brush the tops of the empanadas with a little bit of water, then sprinkle with confectioners\u0007\u0002 sugar.",
+    "Air-fry the empanadas at 375°F (190°C) for 10-12 minutes, or until they are golden brown and puffed up.",
+    "Let the empanadas cool for a few minutes before serving.",
+    "Serve warm, dust with confectioners\u0007\u0002 sugar if desired"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 12,
+  "totalTimeMin": 57,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "basque",
+    "dessert",
+    "empanadas",
+    "pastry",
+    "spanish",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "lightly-larded-basque-sweet-pastry-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-larded-basque-sweet-pastry-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:51Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "air-fry",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "sugar-free",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "sweet pastry",
+    "descriptor": "Lightly Larded",
+    "dishForm": "Empanadas"
+  }
+}

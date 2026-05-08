@@ -1,0 +1,114 @@
+{
+  "title": "Light Thai Rigatoni Pasta",
+  "description": "A winey, molten Thai dish featuring rigatoni, diabetic-friendly and featuring a spicy kick from fermented kimchi.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rigatoni pasta",
+      "amount": "8 oz ",
+      "notes": ""
+    },
+    {
+      "name": "Fermented kimchi",
+      "amount": "1/2 cup ",
+      "notes": ""
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "1 cup ",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp ",
+      "notes": "use gluten-free if necessary"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp ",
+      "notes": "use gluten-free if necessary"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grate or mince fresh ginger root"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp ",
+      "notes": ""
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "1 tsp ",
+      "notes": "or to taste, adjust for desired heat level"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups ",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup ",
+      "notes": "thinly sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni pasta for 8 minutes, or until al dente.",
+    "Drain the pasta and set aside to prevent sticking together.",
+    "In a large skillet or wok, heat the fermented kimchi and cook over medium-high heat for 3-4 minutes, breaking apart with a spoon if it forms clumps.",
+    "Add the light coconut milk, fish sauce, soy sauce, grated ginger, sugar, Thai red chili peppers, and salt to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until slightly thickened.",
+    "Add the cooked rigatoni pasta to the skillet and toss to combine with the sauce, ensuring the pasta is well coated.",
+    "Add the water to the skillet and stir to combine, creating a molten sauce.",
+    "Cook for an additional 2-3 minutes, or until the sauce has thickened to your liking and the pasta is heated through.",
+    "Garnish with thinly sliced scallions and serve hot.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve immediately, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "light-thai-rigatoni-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-thai-rigatoni-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:58Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "rigatoni",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rigatoni",
+    "descriptor": "light",
+    "dishForm": "Pasta"
+  }
+}
