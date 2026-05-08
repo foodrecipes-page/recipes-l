@@ -5984,6 +5984,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-spiced-syrian-lamb-tagine",
+    "title": "Lightly Spiced Syrian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb-recipes",
+      "one-pot",
+      "post-workout",
+      "syrian-cuisine",
+      "whole30"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 180,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-spiced-syrian-lentils-pilaf",
     "title": "Syrian Lentils Pilaf",
     "tags": [
@@ -8083,6 +8098,20 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "low-glycemic-tunisian-lamb-tagine",
+    "title": "Low Glycemic Tunisian Lamb Tagine",
+    "tags": [
+      "gluten-free",
+      "low-glycemic",
+      "one-pot",
+      "post-workout",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 110,
     "shard": "l"
   },
   {
