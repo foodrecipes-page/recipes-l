@@ -1,0 +1,108 @@
+{
+  "title": "Lightly Spiced Vietnamese Chicken Tagine",
+  "description": "A funky and creamy Vietnamese dish made with chicken, white flour, and Mediterranean spices, cooked in a traditional clay tagine vessel.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "katsuramuki-cut into thin strips"
+    },
+    {
+      "name": "white flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the clay tagine vessel over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cumin, coriander, and cayenne pepper and cook for 1 minute.",
+    "Add the katsuramuki-cut chicken and cook until browned, about 5 minutes.",
+    "Add the chicken broth and coconut milk and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes.",
+    "Stir in the white flour to thicken the sauce.",
+    "Cook for an additional 5 minutes, or until the sauce has thickened.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooking",
+    "mediterranean-inspired",
+    "one-pot",
+    "vietnamese-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lightly-spiced-vietnamese-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spiced-vietnamese-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:08:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "white flour",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Lightly spiced",
+    "dishForm": "Tagine"
+  }
+}
