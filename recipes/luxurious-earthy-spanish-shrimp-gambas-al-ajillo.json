@@ -1,0 +1,100 @@
+{
+  "title": "Luxurious Earthy Spanish Shrimp Gambas Al Ajillo",
+  "description": "A rich and earthy Spanish dish featuring shrimp, stilton cheese, and shio-koji cure, perfect for a post-workout meal, this low-glycemic friendly recipe is served in a banana leaf vessel.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet or hot"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "flaky sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the shrimp under cold water and pat them dry with paper towels.",
+    "In a large bowl, whisk together the shio-koji cure, garlic, smoked paprika, and salt.",
+    "Add the shrimp to the bowl and toss to coat with the cure mixture.",
+    "Cut the banana leaves into large squares and brush with olive oil.",
+    "Place a shrimp on each banana leaf square and top with a spoonful of stilton cheese.",
+    "Fold the banana leaves over the shrimp to form a packet and secure with a toothpick.",
+    "Place the packets on a baking sheet and bake for 12 minutes.",
+    "Serve the shrimp hot, garnished with additional stilton cheese and smoked paprika if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "high-protein",
+    "low-glycemic",
+    "post-workout",
+    "seafood",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "luxurious-earthy-spanish-shrimp-gambas-al-ajillo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-earthy-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:20:35Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "stilton cheese",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "luxurious earthy",
+    "dishForm": "Gambas Al Ajillo"
+  }
+}
