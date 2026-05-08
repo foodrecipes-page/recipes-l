@@ -1,0 +1,68 @@
+{
+  "title": "lazy-sunday vietnamese bun cha",
+  "description": "a winey, shattering combination of flavors and textures, featuring amazake and katsuramuki-cut pork. perfect for a lazy sunday afternoon.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": "katsuramuki-cut, about 2 inches thick"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f (200c).",
+    "in a small saucepan, combine 1/2 cup of amazake and 2 tablespoons of fish sauce. bring to a simmer over medium heat.",
+    "season the pork with salt, pepper, and 2 cloves of minced garlic.",
+    "bake the pork for 30 minutes, or until it reaches an internal temperature of 160f (71c).",
+    "while the pork is cooking, prepare the pickled carrots and daikon.",
+    "in a small bowl, whisk together 1/4 cup of rice vinegar, 2 tablespoons of sugar, and 1 tablespoon of grated ginger.",
+    "slice the carrots and daikon into thin strips and soak them in the pickling liquid for at least 30 minutes.",
+    "after the pork has cooked for 20 minutes, brush it with the amazake glaze and continue to bake for an additional 10 minutes.",
+    "once the pork is cooked, let it rest for 5 minutes before slicing it thinly against the grain.",
+    "assemble the bun cha by placing a few slices of the pork onto a plate, followed by a few strips of pickled carrots and daikon, and finishing with a sprinkle of fresh cilantro.",
+    "serve immediately and enjoy!",
+    "serve with a side of steamed rice or noodles for added depth of flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 64,
+    "carbs": 40,
+    "fat": 44
+  },
+  "slug": "lazy-sunday-vietnamese-bun-cha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-vietnamese-bun-cha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "amazake",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Bun Cha"
+  }
+}

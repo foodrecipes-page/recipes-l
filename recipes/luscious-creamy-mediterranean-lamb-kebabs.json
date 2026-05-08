@@ -1,0 +1,98 @@
+{
+  "title": "Luscious Creamy Mediterranean Lamb Kebabs",
+  "description": "A kid-friendly Mediterranean dish featuring lamb kebabs with a creamy plum sauce, perfect for a family dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together plum sauce, yogurt, lemon juice, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees.",
+    "Transfer the kebabs to a serving platter and garnish with chopped parsley.",
+    "Serve the kebabs hot with additional plum sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "kid-friendly",
+    "lamb-recipe",
+    "mediterranean-dish",
+    "plum-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "luscious-creamy-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-creamy-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:27:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "plum sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Luscious Creamy",
+    "dishForm": "Kebabs"
+  }
+}

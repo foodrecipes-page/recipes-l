@@ -1289,6 +1289,21 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-vietnamese-bun-cha",
+    "title": "lazy-sunday vietnamese bun cha",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 70,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-walnut-caramels",
     "title": "Lazy Sunday Walnut Caramels",
     "tags": [
@@ -10787,6 +10802,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-creamy-mediterranean-lamb-kebabs",
+    "title": "Luscious Creamy Mediterranean Lamb Kebabs",
+    "tags": [
+      "grilled-meat",
+      "kid-friendly",
+      "lamb-recipe",
+      "mediterranean-dish",
+      "plum-sauce"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
