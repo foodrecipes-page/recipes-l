@@ -6017,6 +6017,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-crispy-vietnamese-bread-boule",
+    "title": "Lightly Crispy Vietnamese Bread Boule",
+    "tags": [
+      "crispy",
+      "easy-to-make",
+      "herbal",
+      "one-pan",
+      "solo-dinner",
+      "vietnamese"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-crunchy-canadian-chickpeas-flatbread",
     "title": "Lightly Crunchy Canadian Chickpeas Flatbread",
     "tags": [
@@ -7510,6 +7525,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-steamed-chinese-tofu-dumplings",
+    "title": "Lightly Steamed Chinese Tofu Dumplings",
+    "tags": [
+      "chinese-food",
+      "dumplings",
+      "steamed",
+      "tofu",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {

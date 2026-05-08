@@ -1,0 +1,96 @@
+{
+  "title": "Lightly Crispy Vietnamese Bread Boule",
+  "description": "A crispy and flavorful Vietnamese-inspired bread dish made with white bread, herbal emulsion, and served in a scallop shell. Perfect for a solo dinner.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "1 round loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": "used for emulsion"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for emulsion"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "scallion greens",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cut the white bread into 1-inch cubes and toast until lightly crispy.",
+    "In a blender or food processor, combine water, egg, salt, and black pepper. Blend until smooth and emulsified.",
+    "Transfer the emulsion to a bowl and stir in the toasted bread cubes.",
+    "Add the scallion greens, fish sauce, and lime juice (if using) to the bread mixture and stir to combine.",
+    "Season with additional salt and pepper to taste.",
+    "Divide the bread mixture among 4 scallop shells.",
+    "Garnish each shell with additional scallion greens, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "easy-to-make",
+    "herbal",
+    "one-pan",
+    "solo-dinner",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "slug": "lightly-crispy-vietnamese-bread-boule",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crispy-vietnamese-bread-boule",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "white bread",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bread",
+    "descriptor": "Lightly Crispy",
+    "dishForm": "Boule"
+  }
+}
