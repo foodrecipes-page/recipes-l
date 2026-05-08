@@ -1,0 +1,94 @@
+{
+  "title": "Lightly Roasted Italian Doenjang Tiramisu",
+  "description": "A unique dessert featuring roasted Italian flavors and Korean doenjang, perfect for a brunch mood. This dish is Buddhist-temple-friendly and features a crispy, roasted texture.",
+  "cuisine": "Italian-Korean",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ladyfingers",
+      "amount": "12-16",
+      "notes": "dried"
+    },
+    {
+      "name": "doenjang",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "espresso",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the ladyfingers in the oven for 5 minutes, or until lightly browned and crispy.",
+    "In a blender, combine the doenjang, mascarpone cheese, espresso, granulated sugar, egg yolks, and vanilla extract, and blend until smooth.",
+    "In a separate bowl, whip the egg whites until stiff peaks form.",
+    "Fold the egg whites into the doenjang mixture until well combined.",
+    "Dip each ladyfinger into the doenjang mixture for about 3-5 seconds on each side.",
+    "Layer the ladyfingers in a large serving dish, with the doenjang mixture in between each layer.",
+    "Repeat the layers two more times, ending with a layer of doenjang mixture on top.",
+    "Sprinkle the cocoa powder over the top of the tiramisu.",
+    "Refrigerate the tiramisu for at least 3 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "buddhist-friendly",
+    "crispy",
+    "dessert",
+    "italian-korean",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "lightly-roasted-italian-doenjang-tiramisu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-roasted-italian-doenjang-tiramisu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:33:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "doenjang",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "doenjang",
+    "descriptor": "Lightly Roasted",
+    "dishForm": "Tiramisu"
+  }
+}
