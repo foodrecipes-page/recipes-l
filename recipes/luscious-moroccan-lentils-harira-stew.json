@@ -1,0 +1,97 @@
+{
+  "title": "luscious moroccan lentils harira stew",
+  "description": "a hearty moroccan stew made with green curry paste, lentils, and vegetables. serves as a perfect solo dinner.",
+  "cuisine": "moroccan",
+  "diet": [
+    null,
+    "vegan",
+    null,
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red split lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots, chopped",
+      "amount": "2 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "zucchini, chopped",
+      "amount": "1 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large saucepan over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the green curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "add the chopped carrots and zucchini and cook for 5 minutes.",
+    "add the red split lentils, diced tomatoes, and chicken broth.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the lentils are tender.",
+    "season with salt and pepper to taste.",
+    "serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "luscious-moroccan-lentils-harira-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-moroccan-lentils-harira-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:08:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lentils",
+    "descriptor": "Luscious",
+    "dishForm": "Harira Stew"
+  }
+}

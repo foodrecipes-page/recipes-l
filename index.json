@@ -4832,6 +4832,20 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-flamed-thai-yogurt-spoon-food",
+    "title": "lightly flamed thai yogurt spoon-food",
+    "tags": [
+      "coconut",
+      "dessert",
+      "easydessert",
+      "snack",
+      "thaideficient"
+    ],
+    "cuisine": "thaicuisineisan",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-fried-turkish-lamb-kebabs",
     "title": "Lightly Fried Turkish Lamb Kebabs",
     "tags": [
@@ -7995,6 +8009,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-moroccan-lentils-harira-stew",
+    "title": "luscious moroccan lentils harira stew",
+    "tags": [
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {

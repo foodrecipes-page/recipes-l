@@ -1,0 +1,114 @@
+{
+  "title": "lightly flamed thai yogurt spoon-food",
+  "description": "a comforting and lightly sweetened thai-style spoon-food dessert featuring flamed coconut milk and rich full-fat yogurt, perfect for warm weather or as a soothing treat after a meal.",
+  "cuisine": "thaicuisineisan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "full-fat yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored yogurt is best"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "adjust sweetness to taste"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "or other sweet spice of choice"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1-2 teaspoons",
+      "notes": "depending on desired spiciness"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "or other sweetener of choice"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1 tablespoon",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "a few leaves",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "unsalted butter or coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for flambéing coconut milk"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to enhance flavors"
+    }
+  ],
+  "instructions": [
+    "in a small saucepan, melt the butter or heat the coconut oil over medium heat.",
+    "add the chili flakes and cook, stirring constantly, for 1-2 minutes or until fragrant.",
+    "add the coconut milk and bring to a simmer.",
+    "reduce heat to low and let simmer for 5 minutes, stirring occasionally, until slightly thickened.",
+    "add the honey, cinnamon, cardamom, and palm sugar to the saucepan, and stir to combine.",
+    "continue to simmer for 2-3 minutes or until the mixture has thickened to your liking.",
+    "stir in the full-fat yogurt until well combined and heated through.",
+    "remove from heat and let cool slightly.",
+    "to flambé, carefully ignite the coconut milk mixture with a lighter or match, and let burn for 10-15 seconds or until slightly charred.",
+    "immediately cover the saucepan to extinguish the flames.",
+    "serve warm, garnished with desiccated coconut and fresh mint leaves if desired.",
+    "adjust sweetness and spice level to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "dessert",
+    "easydessert",
+    "snack",
+    "thaideficient"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lightly-flamed-thai-yogurt-spoon-food",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-flamed-thai-yogurt-spoon-food",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:08:22Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "flambe",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "buddhist-temple",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Lightly Flamed",
+    "dishForm": "Spoon-Food"
+  }
+}
