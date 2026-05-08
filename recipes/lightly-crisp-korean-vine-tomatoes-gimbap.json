@@ -1,0 +1,95 @@
+{
+  "title": "Lightly Crisp Korean Vine Tomatoes Gimbap",
+  "description": "A kid-friendly Korean dish featuring vine tomatoes and double-rise-bread, made with ayurvedic-sattvic-friendly ingredients, in the form of gimbap.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh and sliced"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "toasted and cubed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "seaweed sheets",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Toast the double-rise-bread cubes until lightly browned.",
+    "Prepare the vine tomatoes by slicing them into thin pieces.",
+    "Mix the sesame oil, soy sauce, rice vinegar, salt, and black pepper in a bowl.",
+    "Add the toasted bread cubes to the bowl and toss to coat with the sauce.",
+    "Add the sliced vine tomatoes to the bowl and toss gently to combine.",
+    "Cut the seaweed sheets into smaller pieces to fit the gimbap shape.",
+    "Place a small amount of the bread and tomato mixture onto a seaweed sheet and roll into a gimbap shape.",
+    "Repeat the process with the remaining ingredients.",
+    "Serve the gimbap immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gimbap",
+    "kid-friendly",
+    "korean",
+    "lunch",
+    "sattvic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "lightly-crisp-korean-vine-tomatoes-gimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crisp-korean-vine-tomatoes-gimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:43:23Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vine tomatoes",
+    "descriptor": "Lightly Crisp",
+    "dishForm": "Gimbap"
+  }
+}

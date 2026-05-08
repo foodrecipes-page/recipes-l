@@ -1,0 +1,91 @@
+{
+  "title": "Luxuriant Thai Papaya Som Tum",
+  "description": "A mustardy and flaky Thai dish featuring sweetened condensed milk, this vegan-friendly som tum is a unique and indulgent treat, made by shocking the ingredients in an ice bath and serving in a Dutch oven.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green papaya",
+      "amount": "2 cups shredded",
+      "notes": "use unripe papaya"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1/4 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "vegan fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grilled tofu",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "Thai bird eye chilies",
+      "amount": "2 peppers minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the ice bath by filling a large bowl with ice and water.",
+    "In a blender or food processor, combine the shredded green papaya, sweetened condensed milk, vegan fish sauce, lime juice, and salt, and blend until well combined.",
+    "Transfer the mixture to the Dutch oven and stir in the diced grilled tofu, chopped roasted peanuts, and minced Thai bird eye chilies.",
+    "Shock the mixture in the ice bath to stop the cooking process and preserve the texture.",
+    "Stir the mixture well and adjust the seasoning as needed.",
+    "Cover the Dutch oven with a lid and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the som tum chilled, garnished with additional chopped peanuts and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-oven",
+    "indulgent",
+    "som-tum",
+    "thai-cuisine",
+    "unique",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "luxuriant-thai-papaya-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-thai-papaya-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:42:49Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "papaya",
+    "descriptor": "luxuriant flaky",
+    "dishForm": "Som Tum"
+  }
+}
