@@ -6533,6 +6533,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-spicy-chinese-noodles-zha-jiang-mian",
+    "title": "Lightly Spicy Chinese Noodles Zha Jiang Mian",
+    "tags": [
+      "ayurvedic-friendly",
+      "gluten-free",
+      "one-pan-dish",
+      "post-workout-meal",
+      "sichuan-cuisine",
+      "vegetarian-option"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-springy-greek-farfalle-revithia",
     "title": "Lightly Springy Greek Farfalle Revithia",
     "tags": [
@@ -9215,6 +9230,21 @@
     ],
     "cuisine": "Argentine",
     "totalTimeMin": 16,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-australian-fish-poke",
+    "title": "Luscious Australian Fish Poke",
+    "tags": [
+      "australian-cuisine",
+      "high-protein",
+      "one-bowl",
+      "romantic",
+      "special-occasion",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {

@@ -1,0 +1,101 @@
+{
+  "title": "Luscious Australian Fish Poke",
+  "description": "A funky and juicy Australian dish featuring sashimi-cut fish and a unique twist with ice cream, this romantic meal is perfect for special occasions, and is nut-free-friendly for added convenience.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sashimi-grade tuna",
+      "amount": "1 pound",
+      "notes": "fresh and frozen to safe temperature"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla ice cream",
+      "amount": "1 pint"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the sashimi-grade tuna into small cubes and place in a large bowl.",
+    "In a small bowl, whisk together soy sauce, lemon juice, honey, and sesame oil to make the marinade.",
+    "Pour the marinade over the tuna and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, scoop the vanilla ice cream into balls and place on top of the tuna.",
+    "Garnish with thinly sliced pickled ginger and a sprinkle of sesame seeds.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "high-protein",
+    "one-bowl",
+    "romantic",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "luscious-australian-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-australian-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:24:43Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "ice cream",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "Luscious",
+    "dishForm": "Poke"
+  }
+}

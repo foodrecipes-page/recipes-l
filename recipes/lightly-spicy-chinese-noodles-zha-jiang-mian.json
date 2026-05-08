@@ -1,0 +1,96 @@
+{
+  "title": "Lightly Spicy Chinese Noodles Zha Jiang Mian",
+  "description": "A rich and crisp Sichuan dish featuring Sichuan pepper and yakimono-grill, suitable for post-workout meals and ayurvedic-rajasic-friendly diets, served in the form of zha-jiang-mian.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sichuan noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "1 teaspoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yakimono-grill sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large wok or skillet over medium-high heat.",
+    "Add the toasted Sichuan pepper and cook for 1 minute, stirring constantly.",
+    "Add the soy sauce, rice vinegar, and yakimono-grill sauce, and stir to combine.",
+    "Bring the sauce to a simmer and cook for 2 minutes, or until slightly thickened.",
+    "Cook the Sichuan noodles according to the package instructions and drain well.",
+    "Add the cooked noodles to the sauce and toss to combine.",
+    "Stir in the grated ginger and cook for 1 minute.",
+    "Transfer the noodles to a serving platter and garnish with thinly sliced scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "one-pan-dish",
+    "post-workout-meal",
+    "sichuan-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "lightly-spicy-chinese-noodles-zha-jiang-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spicy-chinese-noodles-zha-jiang-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:24:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "ayurvedic-rajasic",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Lightly spicy",
+    "dishForm": "Zha Jiang Mian"
+  }
+}
