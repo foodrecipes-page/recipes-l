@@ -1,0 +1,104 @@
+{
+  "title": "Lovely Spicy Mexican Almond Burrito",
+  "description": "A spicy and comforting Mexican dish featuring almond paste, perfect for a dairy-free diet, wrapped in a large burrito. This shaggy burrito is filled with flavorful ingredients to satisfy your cravings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cooked brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked and warmed"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers and onions"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spicy salsa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tortilla wraps",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced avocado",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the almond paste, cooked brown rice, black beans, roasted vegetables, and diced tomatoes.",
+    "Add the spicy salsa to the bowl and stir until well combined.",
+    "Warm the tortilla wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the burritos by spooning the filling onto the center of each tortilla wrap.",
+    "Top the filling with shredded lettuce, diced avocado, and nutritional yeast if using.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the burrito up tightly.",
+    "Place the burritos seam-side down on a baking sheet and bake for 10 minutes.",
+    "Serve the burritos hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "mexican-cuisine",
+    "spicy-food",
+    "vegetarian",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "lovely-spicy-mexican-almond-burrito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-spicy-mexican-almond-burrito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:26:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "cure",
+    "primaryIngredient": "almond paste",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "almonds",
+    "descriptor": "Lovely Spicy",
+    "dishForm": "Burrito"
+  }
+}
