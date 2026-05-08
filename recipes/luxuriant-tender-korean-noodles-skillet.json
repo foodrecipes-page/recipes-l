@@ -1,0 +1,97 @@
+{
+  "title": "Luxuriant Tender Korean Noodles Skillet",
+  "description": "A sour, tender, and indulgent Korean dish featuring salted butter and macrobiotic-friendly ingredients, cooked to perfection in a cast-iron skillet.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean noodles",
+      "amount": "8 oz",
+      "notes": "preferably naengmyeon or dangmyeon"
+    },
+    {
+      "name": "salted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the Korean noodles according to the package instructions.",
+    "In a small bowl, whisk together the Gochujang, soy sauce, and rice vinegar.",
+    "Heat the sesame oil in a large cast-iron skillet over medium-high heat.",
+    "Add the cooked noodles to the skillet and stir to coat with the sesame oil.",
+    "Pour the Gochujang mixture over the noodles and stir to combine.",
+    "Add the salted butter to the skillet and stir until melted and well combined.",
+    "Sprinkle the chopped green onions, toasted sesame seeds, and crushed red pepper over the top of the noodles.",
+    "Cook for an additional 2-3 minutes, stirring constantly, until the noodles are well coated and the sauce is bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-food",
+    "noodle-dish",
+    "one-pan",
+    "spicy-food",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "luxuriant-tender-korean-noodles-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-tender-korean-noodles-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:46:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "salted butter",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "luxuriant tender",
+    "dishForm": "Skillet"
+  }
+}
