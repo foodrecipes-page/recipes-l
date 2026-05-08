@@ -1,0 +1,107 @@
+{
+  "title": "Lazy-Sunday Resinous Uruguayan Rest-Meat Bake",
+  "description": "A silky, resinous take on Uruguayan rest-meat, featuring a delicious anti-inflammatory-friendly sauce made with turmeric and ginger.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest-meat (beef or lamb)",
+      "amount": "500g"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 tsp",
+      "notes": "anti-inflammatory"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "250ml"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "125ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Season rest-meat with salt and black pepper.",
+    "Heat olive oil in a large oven-safe pan over medium-high heat.",
+    "Sear rest-meat until browned on all sides. Remove from heat and set aside.",
+    "Add garlic, onion, and bell pepper to the pan. Cook until the vegetables are softened.",
+    "Add turmeric and ginger to the pan and cook for 1 minute.",
+    "Add tomato sauce and chicken broth to the pan and stir to combine.",
+    "Return the rest-meat to the pan and cover with a lid.",
+    "Transfer the pan to the preheated oven and bake for 1 hour.",
+    "Remove the pan from the oven and garnish with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 23
+  },
+  "slug": "lazy-sunday-resinous-uruguayan-rest-meat-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-resinous-uruguayan-rest-meat-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:22:00Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "rest-meat",
+    "primaryIngredient": "sauce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "rest-meat",
+    "descriptor": "Lazy-Sunday resinous",
+    "dishForm": "Bake"
+  }
+}
