@@ -1,0 +1,99 @@
+{
+  "title": "Luscious Dense Malaysian Chicken Curry",
+  "description": "A dense and bitter Malaysian chicken curry featuring beer, perfect for a sick day, made with ayurvedic-sattvic-friendly ingredients and a mortar-pestle-pound method.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Pound the curry powder, turmeric, cumin, coriander, salt, and black pepper in a mortar and pestle until well combined.",
+    "Heat the oil in a large pan over medium heat.",
+    "Add the chicken to the pan and cook until browned on all sides.",
+    "Add the pounded spice mixture to the pan and cook for 1 minute.",
+    "Add the beer to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the coconut milk and continue to simmer for 10 minutes.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "curry-dishes",
+    "malaysian-cuisine",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "luscious-dense-malaysian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-dense-malaysian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:55:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "beer",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Luscious Dense",
+    "dishForm": "Curry"
+  }
+}
