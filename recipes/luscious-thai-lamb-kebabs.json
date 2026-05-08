@@ -1,0 +1,94 @@
+{
+  "title": "Luscious Thai Lamb Kebabs",
+  "description": "A nostalgic Thai dish featuring lamb loin chops, mushimono-steam, and ayurvedic-tamasic-friendly ingredients, with a fatty and cheese-pull twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, brown sugar, grated ginger, and Thai red curry paste.",
+    "Add the lamb pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, or until cooked to an internal temperature of 145 degrees.",
+    "While the kebabs are grilling, steam the mozzarella cheese in a mushimono-steam basket for 2-3 minutes, or until melted and stretchy.",
+    "Serve the kebabs hot, topped with the steamed mozzarella cheese and garnished with fresh cilantro.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve with steamed vegetables or rice for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "cheesy",
+    "grilled-meats",
+    "lamb-recipes",
+    "special-occasion",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "luscious-thai-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-thai-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:52:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "lamb",
+    "descriptor": "Luscious",
+    "dishForm": "Kebabs"
+  }
+}
