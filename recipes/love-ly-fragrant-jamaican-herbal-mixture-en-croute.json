@@ -1,0 +1,118 @@
+{
+  "title": "Love-Ly Fragrant Jamaican Herbal Mixture En-Croute",
+  "description": "This dish is a unique blend of flavors and textures, featuring a flaky en-croute crust and a fragrant herbal filling. It's a romantic and diabetic-friendly option for any meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Butter, softened",
+      "amount": "4 pieces",
+      "notes": null
+    },
+    {
+      "name": "Cheddar cheese, shredded",
+      "amount": "6 oz",
+      "notes": "low-fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Frozen spinach, thawed and drained",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Flaky puff pastry, thawed",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh scallions, chopped",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a baking sheet lined with parchment paper.",
+    "In a bowl, mix together the softened butter, shredded cheddar cheese, olive oil, thyme leaves, cayenne pepper, and minced garlic.",
+    "Spread the cheese mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Sprinkle the frozen spinach over the cheese mixture.",
+    "Fold the 1-inch border of the pastry over the filling, pressing the edges to seal.",
+    "Brush the pastry with a little water and sprinkle with salt.",
+    "Bake the pastry in the preheated oven for 20 minutes, or until golden brown.",
+    "Remove the pastry from the oven and sprinkle with chopped scallions and parsley leaves if using.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-for-dinner",
+    "diabetic-friendly",
+    "holiday",
+    "low-carb",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "love-ly-fragrant-jamaican-herbal-mixture-en-croute",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/love-ly-fragrant-jamaican-herbal-mixture-en-croute",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:36:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "en-croute",
+    "primaryIngredient": "garlic",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Herbal mixture",
+    "descriptor": "Love-Ly Fragrant",
+    "dishForm": "En-Croute"
+  }
+}
