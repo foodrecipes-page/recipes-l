@@ -1,0 +1,95 @@
+{
+  "title": "Lightly Smoky Syrian Lamb Kebabs",
+  "description": "A kid-friendly Syrian dish featuring allspice berries and a smoky flavor, these lamb kebabs are crispy on the outside and juicy on the inside. They are also keto-friendly, making them a great option for a low-carb diet.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "allspice berries",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, black pepper, smoked paprika, and ground allspice berries.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they are cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "While the kebabs are cooking, prepare the deglaze-fond by reducing 1/4 cup of beef broth over high heat until almost syrupy.",
+    "After flipping the kebabs, brush them with the deglaze-fond to add a rich, smoky flavor.",
+    "Once the kebabs are cooked, let them rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley and a side of roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "keto-friendly",
+    "lamb-recipes",
+    "middle-eastern",
+    "smoky-flavors",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 0,
+    "fat": 22
+  },
+  "slug": "lightly-smoky-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:15:57Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "allspice berries",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Kebabs"
+  }
+}
