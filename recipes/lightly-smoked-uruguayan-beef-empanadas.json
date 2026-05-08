@@ -1,0 +1,100 @@
+{
+  "title": "Lightly Smoked Uruguayan Beef Empanadas",
+  "description": "Buttery and crispy empanadas filled with smoked beef, perfect for a snack or light meal, this dish is friendly to all diets including buddhist temple friendly as it does not contain any forbidden ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "buddhist"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "smoked beef",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "for empanada dough"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine flour, cold butter, and water to make the empanada dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "In a separate pan, cook the diced onion and smoked beef until the onion is translucent.",
+    "Season the beef and onion mixture with salt and black pepper to taste.",
+    "Place a tablespoon of the beef and onion mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with the beaten eggs for a golden glaze.",
+    "Fold the dough in half to form a half moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the remaining egg wash.",
+    "Bake the empanadas in the preheated oven for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "empanadas",
+    "latin-american",
+    "smoked-beef",
+    "snack-food",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "lightly-smoked-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:09:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "egg wash",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "lightly smoked",
+    "dishForm": "Empanadas"
+  }
+}

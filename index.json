@@ -5777,6 +5777,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-smoked-uruguayan-beef-empanadas",
+    "title": "Lightly Smoked Uruguayan Beef Empanadas",
+    "tags": [
+      "buddhist-friendly",
+      "empanadas",
+      "latin-american",
+      "smoked-beef",
+      "snack-food",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-smoky-ethiopian-oats-ye-beg-alichia",
     "title": "Lightly Smoky Ethiopian Oats Ye Beg Alichia",
     "tags": [
@@ -10073,6 +10088,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriant-spicy-saudi-arabian-lamb-kebabs",
+    "title": "Luxuriant Spicy Saudi Arabian Lamb Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "kebabs",
+      "lamb",
+      "middle-eastern",
+      "spicy"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {

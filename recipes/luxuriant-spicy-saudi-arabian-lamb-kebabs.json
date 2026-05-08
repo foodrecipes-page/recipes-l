@@ -1,0 +1,107 @@
+{
+  "title": "Luxuriant Spicy Saudi Arabian Lamb Kebabs",
+  "description": "A spicy and flavorful Saudi Arabian dish featuring lamb kebabs, perfect for crowds, made with brown sugar and a blend of spices, and served on a lazy susan spinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and mix well to coat, then cover the bowl with plastic wrap.",
+    "Refrigerate the lamb for at least 2 hours or overnight to allow the flavors to meld.",
+    "Preheat a grill to medium high heat, threading the marinated lamb cubes onto skewers.",
+    "Grill the kebabs for 10 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "While the kebabs are cooking, mix the brown sugar with 1 tablespoon of water to make a glaze.",
+    "Brush the glaze onto the kebabs during the last 2 minutes of cooking.",
+    "Serve the kebabs hot on a lazy susan spinner, garnished with fresh parsley and lemon wedges.",
+    "Let the kebabs rest for 5 minutes before serving to allow the juices to redistribute.",
+    "Serve with your choice of sides, such as rice or roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kebabs",
+    "lamb",
+    "middle-eastern",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "luxuriant-spicy-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-spicy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:09:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "brown sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "luxuriant spicy",
+    "dishForm": "Kebabs"
+  }
+}
