@@ -1,0 +1,88 @@
+{
+  "title": "Uruguayan Dulce De Leche Empanadas",
+  "description": "A traditional Uruguayan dish featuring caramel sauce and score fat, wrapped in a ti leaf, perfect for a hangover cure",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/2 cup",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1 cup",
+      "notes": "caramel sauce"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12",
+      "notes": "for wrapping empanadas"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit",
+    "Mix flour and score fat to make empanada dough",
+    "Roll out empanada dough to a thickness of 1/8 inch",
+    "Cut out circles of dough using a cookie cutter",
+    "Place a tablespoon of dulce de leche in the center of each dough circle",
+    "Fold dough in half to form a half-moon shape and press edges together",
+    "Wrap each empanada in a ti leaf",
+    "Place empanadas on a baking sheet lined with parchment paper",
+    "Bake empanadas for 20 minutes or until golden brown"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "caramel",
+    "dairy-free",
+    "empanadas",
+    "snack",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "luxuriously-layered-uruguayan-dulce-de-leche-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-layered-uruguayan-dulce-de-leche-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:06:56Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "score-fat",
+    "primaryIngredient": "caramel sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dulce de leche",
+    "descriptor": "luxuriously layered",
+    "dishForm": "Empanadas"
+  }
+}
