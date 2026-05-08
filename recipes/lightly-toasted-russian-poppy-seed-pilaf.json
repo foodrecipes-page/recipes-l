@@ -1,0 +1,92 @@
+{
+  "title": "Lightly Toasted Russian Poppy Seed Pilaf",
+  "description": "A malty, crispy, and vegan-friendly Russian dish featuring ground poppy seeds and ferment-jang, perfect for a hangover cure.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "poppy seeds",
+      "amount": "1/2 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the ground poppy seeds and cook for 2 minutes, until lightly toasted.",
+    "Add the ferment-jang, malt syrup, salt, and black pepper, and stir to combine.",
+    "Cook for an additional 2 minutes, until the mixture is heated through.",
+    "Serve hot, garnished with additional poppy seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "one-pan",
+    "poppy-seed",
+    "russian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "lightly-toasted-russian-poppy-seed-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-toasted-russian-poppy-seed-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:04:58Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Lightly toasted",
+    "dishForm": "Pilaf"
+  }
+}
