@@ -1,0 +1,119 @@
+{
+  "title": "lazy-sunday slovakian cornstarch braise",
+  "description": "floral and crumbly, this lazy-sunday dish combines the earthy sweetness of cornstarch with the rich flavors of traditional slovakian cuisine",
+  "cuisine": "slovakian",
+  "diet": [
+    "ayurvedic",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cornstarch",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "apple juice",
+      "amount": "100ml",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 sprig",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "in a medium saucepan, combine the cornstarch and water, whisking until the cornstarch is fully dissolved",
+    "add the sunflower oil, onion, garlic, caraway seeds, salt, and black pepper, and cook over medium heat for 5 minutes",
+    "increase the heat to high and bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes",
+    "add the chopped fresh dill, apple cider vinegar, and apple juice, and stir to combine",
+    "transfer the mixture to a serving dish and garnish with a sprig of fresh parsley",
+    "cover and refrigerate for at least 30 minutes to allow the flavors to meld"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "slovakian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "lazy-sunday-slovakian-cornstarch-braise-ayurvedic",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-slovakian-cornstarch-braise-ayurvedic",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "cornstarch",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cornstarch",
+    "descriptor": "crumbly floral",
+    "dishForm": null
+  }
+}
