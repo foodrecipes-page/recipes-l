@@ -1,0 +1,104 @@
+{
+  "title": "Spanish Feta Pa Amb Tomaquet",
+  "description": "A winey and tender Spanish dish featuring cubed feta cheese, perfect for a hangover cure, made with a papillote method and diabetic-friendly ingredients. This traditional Catalan recipe is a twist on the classic pa amb tomaquet.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup cubed",
+      "notes": "preferably Spanish or Greek"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "preferably crusty"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the red wine, olive oil, paprika, salt, and black pepper.",
+    "Add the cubed feta cheese to the bowl and toss to coat with the wine mixture.",
+    "Arrange the diced tomatoes on a large piece of parchment paper or aluminum foil, leaving a small border around the edges.",
+    "Place the coated feta cheese on top of the tomatoes, then sprinkle with minced garlic.",
+    "Fold the parchment paper or aluminum foil over the feta cheese and tomatoes to create a papillote, sealing the edges by folding or twisting.",
+    "Place the papillote on a baking sheet and bake for 15 minutes.",
+    "Remove the papillote from the oven and let it cool for a few minutes.",
+    "Slice the crusty bread into thick slices and toast until lightly browned.",
+    "Rub the toasted bread with garlic and sprinkle with chopped parsley.",
+    "Serve the toasted bread with the winey feta cheese and tomatoes, spooning some of the juices over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "lightly-winey-spanish-feta-cheese-pa-amb-tomaquet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-winey-spanish-feta-cheese-pa-amb-tomaquet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:54:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "feta cheese",
+    "descriptor": "Lightly winey",
+    "dishForm": "Pa Amb Tomaquet"
+  }
+}
