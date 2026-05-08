@@ -4991,6 +4991,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-roasted-ligurian-eggs-amatriciana-frittata",
+    "title": "Lightly Roasted Ligurian Eggs Amatriciana Frittata",
+    "tags": [
+      "breakfast-ideas",
+      "high-protein",
+      "italian",
+      "keto",
+      "wood-fired",
+      "wood-oven"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-salted-french-peanuts-canele",
     "title": "Lightly Salted French Peanuts Canelé",
     "tags": [
@@ -8781,6 +8796,21 @@
       "tofu-dumplings"
     ],
     "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriant-spicy-ethiopian-collard-greens-gomen",
+    "title": "Luxuriant Spicy Ethiopian Collard Greens Gomen",
+    "tags": [
+      "african-cuisine",
+      "high-fiber",
+      "one-pot",
+      "spicy",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
     "totalTimeMin": 45,
     "shard": "l"
   },

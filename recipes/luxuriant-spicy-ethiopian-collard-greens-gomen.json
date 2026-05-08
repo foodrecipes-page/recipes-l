@@ -1,0 +1,101 @@
+{
+  "title": "Luxuriant Spicy Ethiopian Collard Greens Gomen",
+  "description": "A spicy and energizing Ethiopian dish featuring treacle and mushimono-steam, perfect for a weeknight dinner. This egg-free-friendly recipe is a twist on traditional gomen.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "treacle",
+      "amount": "1 tablespoon",
+      "notes": "molasses"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the chopped onion and saute until softened.",
+    "Add the minced garlic and grated ginger and saute for 1 minute.",
+    "Add the berbere spice and saute for 1 minute.",
+    "Add the collard greens and saute until wilted.",
+    "Add the treacle and stir to combine.",
+    "Season with salt to taste.",
+    "Steam the mixture using a mushimono-steam method for 10 minutes.",
+    "Serve hot.",
+    "Garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "high-fiber",
+    "one-pot",
+    "spicy",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "luxuriant-spicy-ethiopian-collard-greens-gomen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-spicy-ethiopian-collard-greens-gomen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:54:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "treacle",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "collard greens",
+    "descriptor": "luxuriant spicy",
+    "dishForm": "Gomen"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Lightly Roasted Ligurian Eggs Amatriciana Frittata",
+  "description": "A roasted, crumbly, meal-prep Italian dish featuring eggs, beurre-monte, and a keto-friendly twist on the classic Amatriciana sauce. Made in a cedar plank vessel for added flavor and texture.",
+  "cuisine": "italian",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "pancetta",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "anchovies",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line the cedar plank with parchment paper for easy cleanup.",
+    "In a large skillet, cook the pancetta over medium heat until crispy. Remove the pancetta from the skillet and set aside.",
+    "In the same skillet, add the garlic and cook for 1 minute, until fragrant.",
+    "Add the anchovies to the skillet and cook for an additional 30 seconds, until they dissolve into the garlic.",
+    "Add the tomato paste to the skillet and cook for 2-3 minutes, until it thickens and darkens in color.",
+    "In a large bowl, whisk together the eggs and heavy cream. Season with salt and pepper to taste.",
+    "Add the cooked pancetta, garlic, anchovies, and tomato paste to the bowl and stir to combine.",
+    "Pour the egg mixture over the toppings in the skillet and smooth the top with a spatula.",
+    "Transfer the skillet to the preheated oven and bake for 25-30 minutes, until the frittata is just set and the edges are golden brown.",
+    "Remove the skillet from the oven and sprinkle with parmesan cheese.",
+    "Allow the frittata to cool for 5 minutes before slicing and serving.",
+    "Slice the frittata into wedges and serve warm.",
+    "Store leftovers in an airtight container in the refrigerator for up to 5 days.",
+    "Reheat the frittata in the oven or microwave before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "high-protein",
+    "italian",
+    "keto",
+    "wood-fired",
+    "wood-oven"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 36
+  },
+  "slug": "lightly-roasted-ligurian-eggs-amatriciana-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-roasted-ligurian-eggs-amatriciana-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:53:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "eggs",
+    "diet": "keto",
+    "region": "ligurian",
+    "cuisineAdjective": "Ligurian",
+    "mainIngredient": "Eggs",
+    "descriptor": "Lightly Roasted",
+    "dishForm": "Amatriciana Frittata"
+  }
+}
