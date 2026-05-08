@@ -1,0 +1,99 @@
+{
+  "title": "Luxuriant Garlicky Vietnamese Noodles",
+  "description": "Indulge in the rich flavors of Vietnam with this garlicky noodle dish, featuring bay leaves and a creamy pasta-water emulsion, served on a bamboo tray.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "4"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to package instructions.",
+    "In a blender or food processor, combine garlic, bay leaves, and vegetable oil, and blend until smooth.",
+    "In a large skillet, heat the blended garlic mixture over medium heat and cook for 2 minutes.",
+    "Add soy sauce to the skillet and stir to combine.",
+    "In a small bowl, whisk together pasta water and eggs, and add to the skillet, stirring constantly to create a creamy emulsion.",
+    "Add cooked noodles to the skillet and toss to combine with the garlic sauce.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped scallions and serve on a bamboo tray."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-serving",
+    "garlic-lovers",
+    "noodle-dishes",
+    "vegetarian-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "luxuriant-garlicky-vietnamese-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-garlicky-vietnamese-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:34:45Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "bay leaves",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "noodles",
+    "descriptor": "luxuriant garlicky",
+    "dishForm": "Noodles"
+  }
+}
