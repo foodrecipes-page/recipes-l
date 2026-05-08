@@ -1,0 +1,106 @@
+{
+  "title": "Lovely Juicy Japanese Pork Katsudon",
+  "description": "A savory and juicy Japanese dish featuring pork, oregano, and a mortar-pestle pound, served over rice in a paella pan, friendly to ayurvedic tamasic diets.",
+  "cuisine": "Japanese",
+  "diet": [
+    "ayurvedic",
+    "tamasic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "Japanese short grain"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a paella pan over medium high heat.",
+    "Pound the chopped oregano in a mortar and pestle to release its oils and flavor.",
+    "Dip each pork slice into the beaten egg and then coat with panko breadcrumbs mixed with the pounded oregano.",
+    "Fry the breaded pork slices in the paella pan until golden brown and cooked through.",
+    "Remove the pork from the pan and set aside.",
+    "Add the sliced onion to the pan and cook until it is translucent and starting to caramelize.",
+    "Add the soy sauce, mirin, and sake to the pan and stir to combine.",
+    "Add the cooked rice to the pan and stir fry until the rice is well coated with the sauce and heated through.",
+    "Return the pork to the pan and stir to combine with the rice and sauce.",
+    "Serve the katsudon hot in the paella pan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "comfort-food",
+    "high-protein",
+    "japanese-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "lovely-juicy-japanese-pork-katsudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-juicy-japanese-pork-katsudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:02:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "oregano",
+    "diet": "ayurvedic-tamasic",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Lovely Juicy",
+    "dishForm": "Katsudon"
+  }
+}
