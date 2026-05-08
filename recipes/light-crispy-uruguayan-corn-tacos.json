@@ -1,0 +1,102 @@
+{
+  "title": "Light Crispy Uruguayan Corn Tacos",
+  "description": "Fresh corn tortillas filled with crispy yuzu cured vegetables, served on a lazy susan spinner, this dish is a nostalgic Uruguayan favorite, ayurvedic tamasic friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn Tortillas",
+      "amount": "12 pieces",
+      "notes": "preferably day old tortillas"
+    },
+    {
+      "name": "Yuzu Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the shredded cabbage, grated carrots, and thinly sliced red onion.",
+    "Pour the yuzu juice over the vegetable mixture and toss to coat.",
+    "Let the vegetable mixture sit for at least 10 minutes to allow the yuzu cure to set.",
+    "Using a slotted spoon, remove the vegetable mixture from the yuzu juice and set aside.",
+    "Fry the corn tortillas in the hot oil for 30 seconds on each side, until crispy and golden brown.",
+    "Remove the fried tortillas from the oil and place on a paper towel lined plate to drain excess oil.",
+    "To assemble the tacos, place a few pieces of the yuzu cured vegetable mixture onto a fried tortilla and top with chopped cilantro and a squeeze of lime juice.",
+    "Season with salt to taste.",
+    "Serve the tacos on a lazy susan spinner and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "gluten-free",
+    "lazy-susan",
+    "uruguayan",
+    "vegetarian",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "light-crispy-uruguayan-corn-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-crispy-uruguayan-corn-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:46:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "corn tortillas",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "corn",
+    "descriptor": "light crispy",
+    "dishForm": "Tacos"
+  }
+}
