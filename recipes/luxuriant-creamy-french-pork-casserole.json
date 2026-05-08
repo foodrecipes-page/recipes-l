@@ -1,0 +1,97 @@
+{
+  "title": "Luxuriant Creamy French Pork Casserole",
+  "description": "A rich and comforting French dish featuring tender pork, pickles, and a creamy sauce, perfect for a cold winter's night. This flexitarian-friendly recipe is pressure-cooked to perfection.",
+  "cuisine": "French",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat until melted.",
+    "Add the chopped onions and cook until they are softened and translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the pork cubes and cook until they are browned on all sides.",
+    "Add the sliced pickles and cook for an additional 2 minutes.",
+    "Sprinkle the flour over the pork mixture and cook for 1 minute.",
+    "Transfer the pork mixture to a pressure cooker and add the heavy cream.",
+    "Close the lid and cook on high pressure for 20 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Stir in the shredded gruyere cheese until melted and smooth.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pot",
+    "pork-recipe",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "luxuriant-creamy-french-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-creamy-french-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:01:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "pressure-cook",
+    "primaryIngredient": "pickles",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pork",
+    "descriptor": "luxuriant creamy",
+    "dishForm": "Casserole"
+  }
+}
