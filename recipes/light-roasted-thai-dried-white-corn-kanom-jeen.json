@@ -1,0 +1,95 @@
+{
+  "title": "Light Roasted Thai Dried White Corn Kanom Jeen",
+  "description": "A comforting Thai street dish featuring roasted dried white corn in a light and flavorful mother sauce, perfect for a paleo-friendly meal. This dish is a classic Bangkok street food with a twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white corn",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "minced lemongrass",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Spread the soaked and drained dried white corn on a baking sheet and roast for 10 minutes.",
+    "In a blender or food processor, combine the coconut milk, fish sauce, lime juice, grated ginger, and minced lemongrass, and blend until smooth.",
+    "In a large saucepan, combine the blended mixture and roasted dried white corn, and cook over medium heat for 5 minutes.",
+    "Season the mixture with salt and pepper to taste.",
+    "Reduce the heat to low and simmer the mixture for an additional 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Light Roasted Thai Dried White Corn Kanom Jeen hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "paleo-friendly",
+    "thai-street-food",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "light-roasted-thai-dried-white-corn-kanom-jeen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-roasted-thai-dried-white-corn-kanom-jeen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:54:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "dried white corn",
+    "diet": "paleo",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "dried white corn",
+    "descriptor": "light roasted",
+    "dishForm": "Kanom Jeen"
+  }
+}
