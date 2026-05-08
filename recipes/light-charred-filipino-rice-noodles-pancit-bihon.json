@@ -1,0 +1,106 @@
+{
+  "title": "Light Charred Filipino Rice Noodles Pancit Bihon",
+  "description": "A Whole30-friendly Filipino dish featuring charred and snappy rice noodles, served with a zesty vinaigrette dressing and infused oil.",
+  "cuisine": "Filipino",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably pancit bihon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for infusing"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "patola",
+      "amount": "1 cup",
+      "notes": "or other Asian vegetables"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a small saucepan over low heat to infuse with garlic for 10 minutes.",
+    "Strain the infused oil through a fine-mesh sieve into a bowl and set aside.",
+    "In a large pan, heat the vegetable oil over medium-high heat and char the rice noodles for 2-3 minutes on each side.",
+    "Add the sliced onion to the pan and cook until translucent.",
+    "Add the patola and other Asian vegetables to the pan and stir-fry for 2 minutes.",
+    "In a small bowl, whisk together the apple cider vinegar, salt, and black pepper to make the vinaigrette dressing.",
+    "Pour the vinaigrette dressing over the noodles and vegetables, and toss to combine.",
+    "Drizzle the infused oil over the top of the noodles and vegetables.",
+    "Sprinkle chopped scallions over the dish and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal-prep",
+    "filipino-food",
+    "gluten-free",
+    "one-pan",
+    "weeknight-meal",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "light-charred-filipino-rice-noodles-pancit-bihon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-charred-filipino-rice-noodles-pancit-bihon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:31:42Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "infuse-oil",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice noodles",
+    "descriptor": "light charred",
+    "dishForm": "Pancit Bihon"
+  }
+}
