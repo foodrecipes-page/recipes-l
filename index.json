@@ -3766,6 +3766,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-lively-vietnamese-kale-bun-cha",
+    "title": "Light Lively Vietnamese Kale Bun Cha",
+    "tags": [
+      "comfort-food",
+      "kale-recipes",
+      "lacto-vegetarian",
+      "sick-day-meals",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "light-lovely-peruvian-lamb-causa-limena",
     "title": "Light Lovely Peruvian Lamb Causa Limena",
     "tags": [
@@ -4983,6 +4997,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-spicy-egyptian-fish-tagine",
+    "title": "Light Spicy Egyptian Fish Tagine",
+    "tags": [
+      "egyptian-cuisine",
+      "fish-recipes",
+      "healthy-dinner",
+      "one-pan",
+      "pescatarian-friendly",
+      "spicy-food"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
