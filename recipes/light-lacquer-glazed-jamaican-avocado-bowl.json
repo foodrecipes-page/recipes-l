@@ -1,0 +1,117 @@
+{
+  "title": "Light Lacquer-Glazed Jamaican Avocado Bowl",
+  "description": "A pungent and springy Jamaican dish featuring avocado, lacquer-glaze, and a variety of spices. The iron teppan serves as the perfect vessel to bring together these vibrant flavors.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ripe avocados",
+      "amount": "3",
+      "notes": "preferably Hass variety"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "grade B or higher"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "1 tsp",
+      "notes": "preferably tamari"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "1 tsp",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "chopped and for garnish"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "steamed jasmine rice",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 sprigs",
+      "notes": "chopped and for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium-high heat.",
+    "In a small bowl, whisk together honey, light soy sauce, brown sugar, and Jamaican jerk seasoning.",
+    "Reduce heat to medium and add coconut oil to the teppan.",
+    "Add the grated ginger and cook for 1-2 minutes, until fragrant.",
+    "Reduce heat to low and add unsalted butter to the teppan.",
+    "Add the sliced avocados to the teppan and cook for 2-3 minutes on each side, until slightly tender.",
+    "Brush the lacquer-glaze over the avocado halves.",
+    "Transfer the avocado halves to a plate and top with steamed jasmine rice, chopped scallions, and chopped cilantro.",
+    "Garnish with additional scallions and cilantro, if desired.",
+    "Serve immediately and enjoy!",
+    "Optional: sprinkle with toasted sesame seeds or chopped fresh mint for added flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avocado-lovers",
+    "easy-dinner",
+    "lacto-vegetarian",
+    "one-pan",
+    "spring-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 7,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "light-lacquer-glazed-jamaican-avocado-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-lacquer-glazed-jamaican-avocado-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T11:30:26Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "avocado",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "avocado",
+    "descriptor": "Light Lacquer-Glazed",
+    "dishForm": "Bowl"
+  }
+}
