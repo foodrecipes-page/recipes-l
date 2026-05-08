@@ -1,0 +1,93 @@
+{
+  "title": "Lightly Indulgent German Zucchini Tart",
+  "description": "A citrusy and shaggy German dish featuring zucchini in a low-fat friendly pastry crust, served in a scallop shell vessel.",
+  "cuisine": "German",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "pastry dough",
+      "amount": "1 sheet",
+      "notes": "low-fat"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "In a bowl, combine the grated zucchini, lemon juice, eggs, feta cheese, garlic, salt, and black pepper.",
+    "Arrange the zucchini mixture on one half of the pastry dough, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry dough over the zucchini mixture to form a triangle or a square shape.",
+    "Press the edges of the pastry dough together to seal the tart.",
+    "Place the tart in a scallop shell vessel and bake for 35 minutes.",
+    "Remove the tart from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "low-fat",
+    "pastry-dough",
+    "scallop-shell",
+    "zucchini-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "lightly-indulgent-german-zucchini-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-indulgent-german-zucchini-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:42:27Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "en-croute",
+    "primaryIngredient": "zucchini",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "zucchini",
+    "descriptor": "Lightly Indulgent",
+    "dishForm": "Tart"
+  }
+}

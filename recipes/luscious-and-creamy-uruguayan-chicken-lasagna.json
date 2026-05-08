@@ -1,0 +1,108 @@
+{
+  "title": "Luscious and Creamy Uruguayan Chicken Lasagna",
+  "description": "A savory, creamy post-workout dish from Uruguay featuring sweet sherry and lamination-puff.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-fat",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "12 oz",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Lamination-puff pastry",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Sweet sherry",
+      "amount": "1/4 cup",
+      "notes": "Dry sherry"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Béchamel sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lamination-puff pastry according to the package instructions.",
+    "In a large skillet, sauté the mushrooms, onion, and garlic until tender.",
+    "Add the chicken to the skillet and cook until browned.",
+    "Add the sweet sherry to the skillet and cook for 1 minute.",
+    "In a large bowl, combine the cooked chicken mixture, mushrooms, and Grana Padano cheese.",
+    "In a separate bowl, combine the Béchamel sauce and chopped parsley.",
+    "Spread a layer of the Béchamel sauce on the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce, followed by half of the chicken mixture and half of the Béchamel sauce.",
+    "Repeat the layers, starting with the noodles, then the chicken mixture, and finally the Béchamel sauce.",
+    "Top the lasagna with the cooked lamination-puff pastry and bake for 25-30 minutes.",
+    "Remove the lasagna from the oven and let it cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cream-based",
+    "lasagna",
+    "one-pan",
+    "post-workout",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "luscious-and-creamy-uruguayan-chicken-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-and-creamy-uruguayan-chicken-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:43:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "lamination-puff",
+    "primaryIngredient": "sweet sherry",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken",
+    "descriptor": "Luscious and Creamy",
+    "dishForm": "Lasagna"
+  }
+}
