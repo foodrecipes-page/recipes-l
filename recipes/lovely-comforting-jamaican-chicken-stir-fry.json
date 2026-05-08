@@ -1,0 +1,102 @@
+{
+  "title": "Lovely Comforting Jamaican Chicken Stir Fry",
+  "description": "A resinous and comforting Jamaican dish featuring demerara sugar, this stir fry is a fodmap friendly option for a weeknight dinner, with bouncy chicken and a sweet flavor profile.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic infused oil",
+      "amount": "1 teaspoon",
+      "notes": "for low fodmap"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the soy sauce, demerara sugar, garlic infused oil, and ginger to the skillet and stir to combine.",
+    "Add the bell peppers and scallions to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Season the stir fry with salt and black pepper to taste.",
+    "Serve the stir fry hot over rice or with some roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "jamaican-cuisine",
+    "low-fodmap",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "lovely-comforting-jamaican-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-comforting-jamaican-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:56:35Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "stir-fry",
+    "primaryIngredient": "demerara sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "lovely comforting",
+    "dishForm": "Stir-fry"
+  }
+}
