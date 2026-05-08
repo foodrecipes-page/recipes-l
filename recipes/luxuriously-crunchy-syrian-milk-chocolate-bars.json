@@ -1,0 +1,94 @@
+{
+  "title": "Luxuriously Crunchy Syrian Milk Chocolate Bars",
+  "description": "Indulge in the rich flavors of Syria with these crunchy milk chocolate bars, featuring a perfect blend of sour and sweet elements, making for a truly flexitarian-friendly treat.",
+  "cuisine": "Syrian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk chocolate",
+      "amount": "12 ounces",
+      "notes": "high quality, at least 30% cocoa"
+    },
+    {
+      "name": "sour candy pieces",
+      "amount": "1 cup",
+      "notes": "such as sour gummies or sour chocolate chips"
+    },
+    {
+      "name": "crushed nuts",
+      "amount": "1/2 cup",
+      "notes": "such as almonds or hazelnuts"
+    },
+    {
+      "name": "dried fruit",
+      "amount": "1/2 cup",
+      "notes": "such as cranberries or cherries"
+    },
+    {
+      "name": "puffed rice",
+      "amount": "1 cup",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "pure, raw honey"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "flaky, pure sea salt"
+    }
+  ],
+  "instructions": [
+    "Line an 8-inch square baking dish with parchment paper, leaving some overhang for easy removal.",
+    "Melt the milk chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Stir in the honey and sea salt until well combined.",
+    "Fold in the sour candy pieces, crushed nuts, dried fruit, and puffed rice until they are evenly distributed throughout the chocolate.",
+    "Pour the chocolate mixture into the prepared baking dish and smooth the top.",
+    "Refrigerate the mixture for at least 2 hours or until set.",
+    "Remove the bars from the refrigerator and use the overhanging parchment paper to lift them out of the baking dish.",
+    "Cut the bars into 12 equal pieces and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate-lovers",
+    "crunchy-texture",
+    "easy-to-make",
+    "middle-eastern",
+    "no-bake",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "luxuriously-crunchy-syrian-milk-chocolate-bars",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-crunchy-syrian-milk-chocolate-bars",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:17:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "candy",
+    "primaryIngredient": "milk chocolate",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "milk chocolate",
+    "descriptor": "luxuriously crunchy",
+    "dishForm": "Bars"
+  }
+}
