@@ -1,0 +1,107 @@
+{
+  "title": "Lightly Roasted Greek Lamb Gyro",
+  "description": "A quick and easy Greek dish featuring roasted lamb, clear honey, and a crispy slate tile vessel, all in a convenient gyro form. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "clear honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together honey, lemon juice, olive oil, garlic, oregano, salt, and pepper.",
+    "Place the lamb shoulder in a large bowl and brush the honey mixture evenly over the lamb.",
+    "Let the lamb marinate for 10 minutes.",
+    "Place the lamb on a baking sheet lined with parchment paper and roast in the oven for 20 minutes.",
+    "While the lamb is cooking, toast the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Once the lamb is cooked, let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Assemble the gyro by spreading a piece of pita bread with a few slices of lamb, some diced tomato, and a few slices of red onion.",
+    "Serve the gyro on a slate tile vessel and enjoy.",
+    "To achieve a nigiri-like shape, simply shape the lamb slices into small oval shapes before placing them on the pita bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-food",
+    "lamb-recipes",
+    "mediterranean-diet",
+    "quick-dinner",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "lightly-roasted-greek-lamb-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-roasted-greek-lamb-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:45:01Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "clear honey",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly Roasted",
+    "dishForm": "Gyro"
+  }
+}
