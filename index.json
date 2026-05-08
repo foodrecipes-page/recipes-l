@@ -6158,6 +6158,20 @@
     "shard": "l"
   },
   {
+    "slug": "lively-slovakian-potatoes-hash",
+    "title": "Lively Slovakian Potatoes Hash",
+    "tags": [
+      "breakfast",
+      "one-pan",
+      "slovakian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lively-smoked-sweet-jamaican-sweet-potatoes-tagine",
     "title": "Lively Smoked Sweet Jamaican Sweet Potatoes Tagine",
     "tags": [
@@ -9147,6 +9161,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriant-dense-irish-prune-casserole",
+    "title": "Luxuriant Dense Irish Prune Casserole",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "prune-based",
+      "shojin-friendly",
+      "vegetarian",
+      "whiskey-flambe"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {

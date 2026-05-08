@@ -1,0 +1,97 @@
+{
+  "title": "Luxuriant Dense Irish Prune Casserole",
+  "description": "A rich and satisfying Irish dish featuring prunes, perfect for a midnight craving, made with shojin-friendly ingredients and finished with a flambe touch.",
+  "cuisine": "Irish",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "oatmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "whiskey",
+      "amount": "2 tbsp",
+      "notes": "for flambe"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a large bowl, combine the oatmeal, brown sugar, and melted butter, mixing until well combined.",
+    "In a separate bowl, whisk together the eggs and vanilla extract.",
+    "Add the prunes to the egg mixture and stir until they are fully coated.",
+    "Add the egg and prune mixture to the oatmeal mixture, stirring until everything is well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 30 minutes.",
+    "While the casserole is baking, heat the whiskey in a small saucepan over low heat.",
+    "Once the casserole is done, remove it from the oven and flambe the top with the heated whiskey.",
+    "Return the casserole to the oven and bake for an additional 5 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Drizzle the heavy cream over the top of the casserole before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "prune-based",
+    "shojin-friendly",
+    "vegetarian",
+    "whiskey-flambe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luxuriant-dense-irish-prune-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-dense-irish-prune-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:05:00Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "flambe",
+    "primaryIngredient": "prunes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "prunes",
+    "descriptor": "Luxuriant Dense",
+    "dishForm": "Casserole"
+  }
+}

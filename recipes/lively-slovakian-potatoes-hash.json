@@ -1,0 +1,93 @@
+{
+  "title": "Lively Slovakian Potatoes Hash",
+  "description": "A tangy, snappy, energizing Slovakian dish featuring boiled potatoes, fried onions and bell peppers, served hot.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and boiled until tender"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in salted water until tender, about 10 minutes.",
+    "Drain the potatoes and let them cool.",
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and bell pepper and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the boiled potatoes to the skillet and stir to combine with the onion and bell pepper mixture.",
+    "Use a spatula to break up any clumps and mix the potatoes well.",
+    "Season with salt and pepper to taste.",
+    "Serve the potato hash hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "one-pan",
+    "slovakian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "lively-slovakian-potatoes-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-slovakian-potatoes-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:04:31Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "vegetable oil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Lively",
+    "dishForm": "Hash"
+  }
+}
