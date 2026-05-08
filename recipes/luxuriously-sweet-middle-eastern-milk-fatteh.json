@@ -1,0 +1,89 @@
+{
+  "title": "Luxuriously Sweet Middle Eastern Milk Fatteh",
+  "description": "A buttery and comforting Middle Eastern dish featuring sweetened condensed milk, served in a cataplana vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "chilled"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "toasted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Toast the pita bread until crispy and break into pieces.",
+    "In a large cataplana vessel, combine the toasted pita bread, melted score fat, and unsalted butter.",
+    "Drizzle the chilled sweetened condensed milk over the pita bread mixture.",
+    "Sprinkle the rose water, cardamom powder, and chopped pistachios over the top.",
+    "Bake the fatteh in the preheated oven for 20 minutes or until golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve the luxuriously sweet Middle Eastern milk fatteh warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-carb",
+    "middle-eastern",
+    "sweet-dishes",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "luxuriously-sweet-middle-eastern-milk-fatteh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-sweet-middle-eastern-milk-fatteh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:19:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "score-fat",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "milk",
+    "descriptor": "Luxuriously sweet",
+    "dishForm": "Fatteh"
+  }
+}

@@ -2887,6 +2887,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-egyptian-cookies-en-croute",
+    "title": "Light Egyptian Cookies en-croute",
+    "tags": [
+      "almond-flour",
+      "coconut-sugar",
+      "low-glycemic",
+      "middle-eastern",
+      "phyllo-dough",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "light-egyptian-flaxseed-frittata",
     "title": "Light Egyptian Flaxseed Frittata",
     "tags": [
@@ -12997,6 +13012,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriously-sweet-middle-eastern-milk-fatteh",
+    "title": "Luxuriously Sweet Middle Eastern Milk Fatteh",
+    "tags": [
+      "comfort-food",
+      "low-carb",
+      "middle-eastern",
+      "sweet-dishes",
+      "traditional"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

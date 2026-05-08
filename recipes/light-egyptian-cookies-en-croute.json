@@ -1,0 +1,102 @@
+{
+  "title": "Light Egyptian Cookies en-croute",
+  "description": "A quick-fix Egyptian dish featuring cookies en-croute, with a grassy and light flavor profile, suitable for a low-glycemic diet.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": "low-glycemic sweetener"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1/4 cup",
+      "notes": "finely ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "fine grind"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the almond flour, coconut sugar, and pistachio meal.",
+    "In a large bowl, whisk together the melted butter, eggs, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Roll out the phyllo dough to a large rectangle, about 1/8 inch thick.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Spoon the cookie dough onto one half of the phyllo dough, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the phyllo dough over the cookie dough, pressing the edges to seal.",
+    "Brush the top of the phyllo dough with a little bit of water and sprinkle with sea salt.",
+    "Bake for 25-30 minutes, or until the phyllo dough is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-flour",
+    "coconut-sugar",
+    "low-glycemic",
+    "middle-eastern",
+    "phyllo-dough",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "light-egyptian-cookies-en-croute",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-egyptian-cookies-en-croute",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:19:09Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "en-croute",
+    "primaryIngredient": "cookies",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cookies",
+    "descriptor": "Light",
+    "dishForm": "Cookies en-croute"
+  }
+}
