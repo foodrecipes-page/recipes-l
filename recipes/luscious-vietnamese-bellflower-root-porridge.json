@@ -1,0 +1,107 @@
+{
+  "title": "Vietnamese Bellflower-Root Porridge",
+  "description": "A comforting, herbal one-pot dish featuring bellflower root and ssam wrap, perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bellflower root (doraji)",
+      "amount": "2 lbs",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4-6 sheets",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "green onions",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the broth in a kazan cauldron over medium heat.",
+    "Add the galangal, lemongrass, and black pepper to the broth and simmer for 5 minutes.",
+    "Add the sliced bellflower root to the broth and simmer for 10 minutes.",
+    "Add the ssam wrap pieces to the broth and cook for 5 minutes.",
+    "Stir in the fish sauce, sugar, and coconut milk.",
+    "Simmer the porridge for 10 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Ladle the porridge into bowls and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "herbal",
+    "one-pot",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "luscious-vietnamese-bellflower-root-porridge",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-vietnamese-bellflower-root-porridge",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:11:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bellflower-root-doraji",
+    "descriptor": "Luscious Herbal Steamed",
+    "dishForm": "Porridge"
+  }
+}
