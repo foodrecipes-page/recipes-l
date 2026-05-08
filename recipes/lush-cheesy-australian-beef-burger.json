@@ -1,0 +1,96 @@
+{
+  "title": "Lush Cheesy Australian Beef Burger",
+  "description": "A briny, cheesy Australian dish featuring beef, Appleton rum, and bhuna spices, served in an agave leaf vessel, perfect for a hangover cure.",
+  "cuisine": "Australian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Appleton rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bhuna spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Agave leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large tomato"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large onion"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the ground beef, Appleton rum, and bhuna spice mix.",
+    "Form the beef mixture into 4 large patties.",
+    "Grill the patties for 5 minutes per side, or until they reach an internal temperature of 160 degrees Fahrenheit.",
+    "Meanwhile, toast the agave leaves over the grill until they are slightly charred.",
+    "Assemble the burgers by placing a cooked patty onto each agave leaf, followed by a slice of cheese, some lettuce, tomato, onion, and pickles.",
+    "Return the burgers to the grill and cook until the cheese is melted and the agave leaves are slightly crispy.",
+    "Serve the burgers immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "beef-burgers",
+    "cheesy",
+    "high-protein",
+    "one-pan",
+    "rum-infused",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "lush-cheesy-australian-beef-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-cheesy-australian-beef-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:03:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "appleton rum",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "lush cheesy",
+    "dishForm": "Burger"
+  }
+}
