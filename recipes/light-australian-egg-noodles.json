@@ -1,0 +1,105 @@
+{
+  "title": "Light Australian Egg Noodles",
+  "description": "A pungent and light Australian dish featuring egg noodles, perfect for a hangover cure, made without onion or garlic for a friendly option.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "200g",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "green beans",
+      "amount": "100g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large saucepan.",
+    "Add the egg noodles to the saucepan and cook according to the package instructions.",
+    "In a small bowl, whisk together the soy sauce, olive oil, ginger, lemon juice, salt, and black pepper.",
+    "In a large skillet, add the soy sauce mixture and bring to a simmer over medium heat.",
+    "Add the green beans to the skillet and cook until tender, about 3-4 minutes.",
+    "In a small bowl, whisk together the beaten eggs and a splash of the hot chicken broth.",
+    "Stir the egg mixture into the skillet with the green beans and cook until the eggs are scrambled.",
+    "Drain the cooked egg noodles and add them to the skillet, stirring to combine with the egg and green bean mixture.",
+    "Deglaze the saucepan with a little bit of water to remove any stuck noodles, then add the deglazed liquid to the skillet.",
+    "Serve the light Australian egg noodles hot, garnished with additional grated ginger if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "light-australian-egg-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-australian-egg-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:32:46Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "egg noodles",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "egg noodles",
+    "descriptor": "Light Restorative",
+    "dishForm": "Noodles"
+  }
+}
