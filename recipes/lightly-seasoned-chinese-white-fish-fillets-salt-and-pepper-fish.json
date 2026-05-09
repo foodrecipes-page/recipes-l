@@ -1,0 +1,95 @@
+{
+  "title": "Lightly Seasoned Chinese White Fish Fillets Salt And Pepper Fish",
+  "description": "A kid-friendly Chinese dish featuring white fish fillets, simmered to perfection with a balance of umami flavors and a bouncy texture, similar to salt and pepper squid, this dairy-free friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4 fillets",
+      "notes": "preferably cod or tilapia"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Rinse the fish fillets under cold water and pat them dry with paper towels.",
+    "Season the fish fillets with salt and black pepper.",
+    "Dredge the fish fillets in cornstarch, shaking off excess.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the fish fillets to the skillet and cook for 3-4 minutes on each side, or until cooked through.",
+    "Remove the fish fillets from the skillet and set them aside on a plate.",
+    "In the same skillet, add the chopped scallions, grated ginger, and minced garlic, and stir-fry for 1 minute.",
+    "Return the fish fillets to the skillet and simmer for an additional 2 minutes, spooning the sauce over the fish.",
+    "Serve the fish fillets hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "kid-friendly",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "lightly-seasoned-chinese-white-fish-fillets-salt-and-pepper-fish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-seasoned-chinese-white-fish-fillets-salt-and-pepper-fish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:02:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "simmer",
+    "primaryIngredient": "white fish fillets",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "white fish fillets",
+    "descriptor": "Lightly seasoned",
+    "dishForm": "Salt And Pepper Fish"
+  }
+}
