@@ -1,0 +1,99 @@
+{
+  "title": "Light Creamy Argentinian Millet Pasta",
+  "description": "A light and creamy Argentinian dish featuring millet and pasta, with a sour and cheese-pull flavor profile, perfect for vegetarians. This dish is a unique blend of textures and flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "short shaped"
+    },
+    {
+      "name": "argentinian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the cherry tomatoes to the skillet and cook until they start to release their juices.",
+    "Stir in the sour cream and argentinian cheese until the cheese is melted and the sauce is smooth.",
+    "Add the cooked pasta to the skillet and toss to combine with the sauce.",
+    "Stir in the cooked millet and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cheesy",
+    "light",
+    "millet",
+    "pasta",
+    "sour-cream",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "light-creamy-argentinian-millet-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-creamy-argentinian-millet-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:15:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "millet",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "millet",
+    "descriptor": "light creamy",
+    "dishForm": "Pasta"
+  }
+}
