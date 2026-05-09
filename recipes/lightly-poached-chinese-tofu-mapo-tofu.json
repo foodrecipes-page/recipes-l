@@ -1,0 +1,110 @@
+{
+  "title": "Lightly Poached Chinese Tofu Mapo Tofu",
+  "description": "A savory and comforting Chinese dish featuring poached tofu in a spicy sauce, made with semi-skimmed milk for a low-fat friendly option.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "semi-skimmed milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sichuan peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the cornstarch and a splash of the semi-skimmed milk until smooth.",
+    "In a large pot, combine the remaining semi-skimmed milk, soy sauce, rice vinegar, and toasted sichuan peppercorns, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 5 minutes.",
+    "Add the ground pork to the pot and cook, breaking it up with a spoon, until no longer pink, about 5 minutes.",
+    "Add the grated ginger and minced garlic to the pot and cook for 1 minute.",
+    "Stir in the cornstarch mixture and cook for 1 minute, until the sauce has thickened.",
+    "Add the cubed tofu to the pot and poach for 5 minutes, until lightly cooked through.",
+    "Stir in the red pepper flakes and cook for 1 minute.",
+    "Transfer the mapo tofu to a bamboo tray and garnish with chopped scallions.",
+    "Serve immediately, over steamed rice or noodles if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "comfort-food",
+    "low-fat",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "lightly-poached-chinese-tofu-mapo-tofu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-poached-chinese-tofu-mapo-tofu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:06:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Lightly Poached",
+    "dishForm": "Mapo Tofu"
+  }
+}
