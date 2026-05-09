@@ -1,0 +1,102 @@
+{
+  "title": "Lightly Smoky German Shirataki Noodles",
+  "description": "A smoky and dense German-inspired dish featuring shirataki noodles, perfect for a solo dinner, this vegetarian-friendly meal offers an al-dente finish.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shirataki noodles",
+      "amount": "8 oz",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add sliced onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute, stirring constantly.",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add smoked paprika, caraway seeds, salt, and black pepper, and stir to combine.",
+    "Add vegetable broth to the skillet and bring to a simmer.",
+    "Add shirataki noodles to the skillet and cook, stirring occasionally, until they are al-dente and the liquid has been absorbed, about 10 minutes.",
+    "Remove the skillet from the heat and let it cool slightly.",
+    "Serve the noodles hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "one-pot",
+    "smoky-flavors",
+    "vegetarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lightly-smoky-german-shirataki-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-german-shirataki-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:30:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "shirataki",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "shirataki",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Noodles"
+  }
+}
