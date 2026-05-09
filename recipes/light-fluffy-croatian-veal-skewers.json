@@ -1,0 +1,93 @@
+{
+  "title": "Light Fluffy Croatian Veal Skewers",
+  "description": "A floral and adventurous Croatian dish featuring veal, shio-koji-cure, and jain-friendly ingredients, perfect for a unique dinner experience. The combination of veal, spices, and floral notes creates a truly special flavor profile.",
+  "cuisine": "Croatian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shio-koji, lemon juice, olive oil, garlic, rosemary, salt, and black pepper.",
+    "Add the veal cubes to the bowl and toss to coat with the marinade.",
+    "Thread the veal cubes onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the veal is cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with additional rosemary if desired.",
+    "Refrigerate any leftovers promptly and consume within 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "grilled",
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "light-fluffy-croatian-veal-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fluffy-croatian-veal-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:43:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "veal",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "veal",
+    "descriptor": "light fluffy",
+    "dishForm": "Skewers"
+  }
+}
