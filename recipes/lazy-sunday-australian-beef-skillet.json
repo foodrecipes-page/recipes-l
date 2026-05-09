@@ -1,0 +1,92 @@
+{
+  "title": "Lazy Sunday Australian Beef Skillet",
+  "description": "A hearty, yeasty, and crisp Australian dish featuring pecan nuts and rest-meat, perfect for a lazy Sunday, and is FODMAP-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "rest meat, sliced into thin strips"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic-free seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate to 200 degrees Celsius.",
+    "In a large bowl, toss the beef strips with garlic-free seasoning, yeast extract, salt, and black pepper.",
+    "Heat the olive oil on the hot stone plate and cook the beef strips for 5 minutes, or until browned.",
+    "Add the sliced onion to the hot stone plate and cook for an additional 3 minutes, or until the onion is translucent.",
+    "Stir in the chopped pecan nuts and cook for 1 minute, or until fragrant.",
+    "Serve the beef and onion mixture hot, garnished with additional pecan nuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "fodmap-friendly",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "lazy-sunday-australian-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-australian-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:00:49Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "rest-meat",
+    "primaryIngredient": "pecan nuts",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "Lazy Sunday",
+    "dishForm": "Skillet"
+  }
+}
