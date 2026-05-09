@@ -4064,6 +4064,23 @@
     "shard": "l"
   },
   {
+    "slug": "light-indian-pea-eggplant-korma",
+    "title": "Light Indian Pea-Eggplant Korma",
+    "tags": [
+      "indian",
+      "kid-friendly",
+      "korma",
+      "light",
+      "one-pan",
+      "south-indian",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "South Indian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "light-indulgent-peruvian-beef-lomo-saltado",
     "title": "Light Indulgent Peruvian Beef Lomo Saltado",
     "tags": [
@@ -15705,6 +15722,21 @@
       "vegetarian-stews"
     ],
     "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriant-rich-northern-irish-potatoes-bubble-and-squeak",
+    "title": "Luxuriant Rich Northern Irish Potatoes Bubble And Squeak",
+    "tags": [
+      "comfort-food",
+      "fodmap-friendly",
+      "gluten-free",
+      "northern-irish",
+      "potato-dish",
+      "weeknight"
+    ],
+    "cuisine": "Northern Irish",
     "totalTimeMin": 40,
     "shard": "l"
   },

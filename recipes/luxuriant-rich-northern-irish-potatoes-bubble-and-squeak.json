@@ -1,0 +1,94 @@
+{
+  "title": "Luxuriant Rich Northern Irish Potatoes Bubble And Squeak",
+  "description": "A rich, comforting British dish featuring potatoes, cocoa powder, and a sweet glaze, made FODMAP-friendly for all to enjoy.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "glaze",
+      "amount": "1/4 cup",
+      "notes": "made from reduced sugar and water"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Boil the diced potatoes in salted water until they are tender, then drain and set aside.",
+    "In a large pan, saute the diced onion and carrots in butter until they are softened.",
+    "Add the cooked potatoes, cocoa powder, salt, and black pepper to the pan and stir to combine.",
+    "Using a spatula, shape the mixture into a round shape and press down gently to form a flat top.",
+    "Brush the top of the bubble and squeak with the sweet glaze.",
+    "Cook over medium heat for 5 minutes on the first side, then flip and cook for an additional 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "northern-irish",
+    "potato-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luxuriant-rich-northern-irish-potatoes-bubble-and-squeak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-rich-northern-irish-potatoes-bubble-and-squeak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:45:00Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "glaze",
+    "primaryIngredient": "cocoa powder",
+    "diet": "fodmap",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "luxuriant rich",
+    "dishForm": "Bubble And Squeak"
+  }
+}

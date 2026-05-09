@@ -1,0 +1,132 @@
+{
+  "title": "Light Indian Pea-Eggplant Korma",
+  "description": "A malty, light, and kid-friendly Indian dish featuring pea-eggplant, perfect for a weeknight meal. It's vegan-friendly and made with a flavorful korma sauce.",
+  "cuisine": "South Indian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 small head",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Nuts or seeds",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet over medium heat.",
+    "Add the onion, ginger, and garlic and sauté until the onion is translucent.",
+    "Add the eggplant and cook until it starts to soften.",
+    "Add the peas, cauliflower, curry powder, garam masala, and salt. Stir well to combine.",
+    "Pour in the coconut milk and stir to coat all the vegetables.",
+    "Bring the mixture to a simmer and cook until the vegetables are tender.",
+    "Stir in the yogurt and lime juice. ",
+    "Serve hot, garnished with nuts or seeds if desired.",
+    "Adjust the seasoning as needed.",
+    "Serve immediately.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "Thaw frozen korma overnight in the refrigerator and reheat in the microwave or on the stovetop until hot and steaming."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "kid-friendly",
+    "korma",
+    "light",
+    "one-pan",
+    "south-indian",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "light-indian-pea-eggplant-korma",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-indian-pea-eggplant-korma",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:45:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "saute",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "vegan",
+    "region": "south",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "pea-eggplant",
+    "descriptor": "light",
+    "dishForm": "Korma"
+  }
+}
