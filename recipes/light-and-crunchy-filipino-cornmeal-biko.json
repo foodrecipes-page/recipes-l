@@ -1,0 +1,107 @@
+{
+  "title": "Light and Crunchy Filipino Cornmeal Biko",
+  "description": "A traditional Filipino dessert featuring a delicate agave-leaf-wrapped cornmeal cake with a sweet and tangy jam filling.",
+  "cuisine": "filipino",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "grated coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "melted coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "caramelized sugar",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the agave leaves by rinsing them with water and patting them dry with paper towels.",
+    "In a large bowl, whisk together the cornmeal, grated coconut, sugar, and salt.",
+    "In a separate bowl, whisk together the coconut milk, eggs, melted coconut oil, vanilla extract, and pandan extract.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Heat a non-stick skillet or griddle over medium heat and cook the cornmeal mixture until it forms a thick batter.",
+    "Wrap the agave leaves in a small bundle and place them in the skillet or griddle.",
+    "Spoon the cornmeal batter into the agave leaves, molding it into a small cake shape.",
+    "Cook the cake for 2-3 minutes on each side, until it is lightly browned and crispy.",
+    "While the cake is cooking, prepare the caramelized sugar by heating a small saucepan over medium heat.",
+    "Add the sugar to the saucepan and cook, stirring constantly, until it is caramelized and golden brown.",
+    "Once the cake is cooked, remove it from the skillet or griddle and let it cool for a few minutes.",
+    "Drizzle the caramelized sugar over the top of the cake and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf",
+    "coconut-milk",
+    "cornmeal-cake",
+    "dessert",
+    "filipino-food",
+    "pandan-extract",
+    "vanilla-extract"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "light-and-crunchy-filipino-cornmeal-biko",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-and-crunchy-filipino-cornmeal-biko",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T07:58:56Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "whisk",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "cornmeal",
+    "descriptor": "light and crunchy",
+    "dishForm": "Biko"
+  }
+}
