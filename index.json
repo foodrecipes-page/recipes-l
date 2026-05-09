@@ -6958,6 +6958,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-seasoned-canadian-noodle-dish",
+    "title": "Lightly Seasoned Canadian Noodle Dish",
+    "tags": [
+      "kid-friendly",
+      "lacto-vegetarian",
+      "one-pan",
+      "quick-meal",
+      "savory",
+      "springy"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-seasoned-jamaican-snapper-fish-grill",
     "title": "Lightly Seasoned Jamaican Snapper Fish Grill",
     "tags": [
@@ -12051,6 +12066,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-shaggy-chinese-noodles-sweet-and-sour",
+    "title": "Luscious Shaggy Chinese Noodles Sweet And Sour",
+    "tags": [
+      "chinese-food",
+      "festive",
+      "gluten-free",
+      "one-pan",
+      "special-occasion",
+      "sweet-and-sour"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

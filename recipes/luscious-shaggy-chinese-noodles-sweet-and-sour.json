@@ -1,0 +1,101 @@
+{
+  "title": "Luscious Shaggy Chinese Noodles Sweet And Sour",
+  "description": "A winey, shaggy, festive Chinese dish featuring noodles, en-croute, and a sweet and sour flavor profile, wrapped in a ti-leaf for a unique presentation. This dish is gluten-free-friendly and perfect for special occasions.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "pork",
+      "amount": "8 oz",
+      "notes": "diced"
+    },
+    {
+      "name": "sweet and sour sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the diced pork and cook until browned, about 5 minutes.",
+    "Add the sweet and sour sauce and stir to combine.",
+    "Bring the sauce to a simmer and let cook for 2 minutes.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "To assemble the dish, lay a ti leaf flat and place a portion of the noodle mixture in the center.",
+    "Spoon the sweet and sour pork mixture over the noodles and sprinkle with chopped green onion.",
+    "Drizzle with sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "festive",
+    "gluten-free",
+    "one-pan",
+    "special-occasion",
+    "sweet-and-sour"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "luscious-shaggy-chinese-noodles-sweet-and-sour",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-shaggy-chinese-noodles-sweet-and-sour",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:23:55Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "en-croute",
+    "primaryIngredient": "noodles",
+    "diet": "gluten-free",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Luscious Shaggy",
+    "dishForm": "Sweet And Sour Noodles"
+  }
+}
