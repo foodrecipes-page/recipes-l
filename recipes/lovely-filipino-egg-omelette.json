@@ -1,0 +1,98 @@
+{
+  "title": "Lovely Filipino Egg Omelette",
+  "description": "A crispy and flavorful omelette featuring free-range eggs and a hint of mustard, reminiscent of traditional Filipino cuisine. This dish is perfect for a quick and satisfying breakfast or snack.",
+  "cuisine": "Filipino",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "4 large eggs",
+      "notes": "fresh and room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "fine grind"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted and softened"
+    },
+    {
+      "name": "white onion",
+      "amount": "1 small onion",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon",
+      "notes": "prepared yellow mustard"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt and pepper until the whites and yolks are fully incorporated.",
+    "Heat a small non-stick skillet over medium heat and add the softened butter, letting it melt and coat the bottom of the pan.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize, stirring occasionally.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Pour the whisked eggs over the onion and garlic mixture, letting them cook until the edges start to set.",
+    "Add the prepared mustard to one half of the omelette and use a spatula to gently fold the other half over the top.",
+    "Cook for an additional minute, until the eggs are almost fully set and the omelette is crispy on the bottom.",
+    "Use the spatula to carefully slide the omelette out of the skillet and onto a plate, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "filipino-cuisine",
+    "high-protein",
+    "one-pan",
+    "quick-meals",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "slug": "lovely-filipino-egg-omelette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-filipino-egg-omelette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:29:10Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "eggs",
+    "descriptor": "Lightly Crisp",
+    "dishForm": "Omelette"
+  }
+}
