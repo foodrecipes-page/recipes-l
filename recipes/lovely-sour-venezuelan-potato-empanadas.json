@@ -1,0 +1,97 @@
+{
+  "title": "Lovely Sour Venezuelan Potato Empanadas",
+  "description": "A festive Venezuelan dish featuring russet potato and miso marinate, perfect for a plant-based friendly meal. This recipe combines the flavors of sour and bouncy textures.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the diced potatoes, miso paste, olive oil, onion, and garlic.",
+    "Let the mixture marinate for at least 30 minutes to allow the flavors to combine.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Spoon about 1 tablespoon of the potato mixture onto the center of each empanada dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of olive oil.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Remove the empanadas from the oven and let them cool for a few minutes.",
+    "Serve the empanadas warm with a squeeze of lime juice and a sprinkle of salt."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "festive-food",
+    "plant-based",
+    "potato-dishes",
+    "snack-ideas",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "lovely-sour-venezuelan-potato-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-sour-venezuelan-potato-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:31:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "miso-marinate",
+    "primaryIngredient": "russet potato",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "potato",
+    "descriptor": "Lovely sour",
+    "dishForm": "Empanadas"
+  }
+}
