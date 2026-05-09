@@ -1,0 +1,96 @@
+{
+  "title": "Light Nutty American Corn Casserole",
+  "description": "A nostalgic American dish featuring a blend of corn, chimichurri sauce, and bonito flakes, all in a Jain-friendly recipe, baked to perfection in a terracotta dish.",
+  "cuisine": "American",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Corn Kernels",
+      "amount": "1 1/2 cups",
+      "notes": "thawed"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Bonito Flakes",
+      "amount": "2 tablespoons",
+      "notes": "or vegetarian alternative"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped Almonds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Grated Vegan Cheddar",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the thawed corn kernels, chimichurri sauce, and bonito flakes, stirring until well combined.",
+    "In a small skillet, heat the olive oil over medium heat and toast the chopped almonds until lightly browned.",
+    "Add the toasted almonds, salt, and black pepper to the corn mixture and stir until well combined.",
+    "Transfer the mixture to a terracotta dish and top with grated vegan cheddar if using.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is lightly browned and the casserole is heated through.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with additional toasted almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "jain-friendly",
+    "nutty",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "light-nutty-american-corn-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-nutty-american-corn-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:26:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "corn",
+    "descriptor": "light nutty",
+    "dishForm": "Casserole"
+  }
+}
