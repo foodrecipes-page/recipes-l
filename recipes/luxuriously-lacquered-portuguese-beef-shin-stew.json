@@ -1,0 +1,105 @@
+{
+  "title": "Luxuriously Lacquered Portuguese Beef Shin Stew",
+  "description": "A winey, crunchy, and comforting Portuguese dish featuring beef shin in a lacquer glaze, this stew is perfect for a cold winter's night. It is a satvik-friendly meal option.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until it is lightly browned.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef shin chunks and cook until they are browned on all sides.",
+    "Add the red wine, beef broth, and tomato paste, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2 1/2 hours.",
+    "Add the lacquer glaze and stir to combine.",
+    "Add the chopped carrots and potatoes, and continue to simmer for an additional 30 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "lacquer-glaze",
+    "one-pot",
+    "portuguese-cuisine",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "luxuriously-lacquered-portuguese-beef-shin-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-lacquered-portuguese-beef-shin-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:28:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "beef shin",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beef shin",
+    "descriptor": "luxuriously lacquered",
+    "dishForm": "Stew"
+  }
+}
