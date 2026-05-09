@@ -1,0 +1,96 @@
+{
+  "title": "Polish Chicken Skewers",
+  "description": "Tender and flavorful Polish chicken skewers with a lightly breaded crust, featuring a hint of mustard and sansho pepper, perfect for a kid-friendly dinner",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, salt, and black pepper.",
+    "In a separate bowl, beat the egg and mix with mustard and sansho pepper.",
+    "Add the chicken pieces to the egg mixture and coat evenly.",
+    "Then, coat the chicken pieces in the flour mixture, shaking off excess.",
+    "Dip the floured chicken pieces in the beaten egg and finally coat with breadcrumbs.",
+    "Heat the olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep-fry the breaded chicken skewers in batches until golden brown, about 5 minutes per batch.",
+    "Remove the skewers from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the Polish chicken skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "deep-fried",
+    "kid-friendly",
+    "mediterranean-inspired",
+    "polish-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "lightly-breaded-polish-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-breaded-polish-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:43:12Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "sansho",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken",
+    "descriptor": "Lightly breaded",
+    "dishForm": "Skewers"
+  }
+}
