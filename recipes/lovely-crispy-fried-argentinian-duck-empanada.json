@@ -1,0 +1,90 @@
+{
+  "title": "Lovely Crispy Fried Argentinian Duck Empanada",
+  "description": "A crispy fried empanada filled with roasted duck, perfect for a cozy dinner.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Puff Pastry Dough",
+      "amount": "2 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Duck Breast",
+      "amount": "1 pound",
+      "notes": "Cooked in duck fat at 275°F for 30 minutes"
+    },
+    {
+      "name": "Duck Fat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri",
+      "amount": "1 cup",
+      "notes": "An Argentinian herb and vinegar sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "Roll out the puff pastry dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Spoon a tablespoon of roasted duck breast onto one half of each dough circle.",
+    "Drizzle a small amount of chimichurri sauce on top of the duck breast.",
+    "Brush the edges of the dough with a little water and fold the other half of the dough over the filling to form a half-circle.",
+    "Press the edges with a fork to seal the empanada.",
+    "Brush the tops of the empanadas with a little duck fat and sprinkle with salt and pepper.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Remove the empanadas from the oven and let them cool for a few minutes.",
+    "Serve the empanadas hot in copper mugs with additional chimichurri sauce for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chimichurri",
+    "cozy-dinner",
+    "crispy-fried",
+    "duck",
+    "empanada",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "lovely-crispy-fried-argentinian-duck-empanada",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crispy-fried-argentinian-duck-empanada",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:39:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "rest-meat",
+    "primaryIngredient": "duck fat",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "duck",
+    "descriptor": "Lovely Crispy Fried",
+    "dishForm": "Empanada"
+  }
+}
