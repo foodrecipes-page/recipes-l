@@ -1,0 +1,105 @@
+{
+  "title": "Luxuriously Layered French Lentil Gratin",
+  "description": "A rich and festive French dish featuring the deep flavors of pomegranate molasses and the subtle smokiness of binchotan-charcoal, perfect for special occasions.",
+  "cuisine": "French",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "binchotan-charcoal infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the lentils and enough water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to low and simmer the lentils for 20 minutes, or until they are tender.",
+    "In a large skillet, heat the binchotan-charcoal infused oil over medium heat, then add the chopped onion and cook until it is softened.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in the pomegranate molasses, thyme, and bay leaves, then cook for 1 minute.",
+    "In a large bowl, combine the cooked lentils, the skillet mixture, and the shredded gruyere cheese, then season with salt and pepper to taste.",
+    "Transfer the lentil mixture to a 9x13 inch baking dish, then top with the freshly grated bread crumbs and dot with the butter.",
+    "Bake the gratin in the preheated oven for 25 minutes, or until it is golden brown and the bread crumbs are crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gratin",
+    "lacto-vegetarian",
+    "smoky-flavors",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "luxuriously-layered-french-lentil-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-layered-french-lentil-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:49:12Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "lentils",
+    "descriptor": "luxuriously layered",
+    "dishForm": "Gratin"
+  }
+}
