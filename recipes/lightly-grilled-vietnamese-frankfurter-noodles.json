@@ -1,0 +1,90 @@
+{
+  "title": "Lightly Grilled Vietnamese Frankfurter Noodles",
+  "description": "A sweet and savory Vietnamese dish featuring grilled frankfurter and noodles, perfect for a solo dinner. This dish is easy to make and requires minimal ingredients.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frankfurter",
+      "amount": "4",
+      "notes": "preferably Vietnamese style"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Preheat a grill or grill pan to medium high heat.",
+    "Grill the frankfurter for 5 minutes on each side, or until lightly charred.",
+    "In a large bowl, whisk together fish sauce, lime juice, and brown sugar.",
+    "Add the cooked noodles, grated carrot, and chopped cilantro to the bowl and toss to combine.",
+    "Slice the grilled frankfurter and add to the bowl, tossing to combine.",
+    "Drizzle with vegetable oil and serve immediately.",
+    "Garnish with additional cilantro and carrot if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "grilled",
+    "noodle-dish",
+    "one-pan",
+    "quick",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lightly-grilled-vietnamese-frankfurter-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-grilled-vietnamese-frankfurter-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:03:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "brine-dry",
+    "primaryIngredient": "frankfurter",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "frankfurter",
+    "descriptor": "Lightly grilled",
+    "dishForm": "Noodles"
+  }
+}
