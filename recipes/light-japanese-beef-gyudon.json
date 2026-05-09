@@ -1,0 +1,91 @@
+{
+  "title": "Light Japanese Beef Gyudon",
+  "description": "A low-fat friendly version of the classic Japanese dish featuring thinly sliced beef, chinese leaf, and a hint of coconut cream, served in a ramekin.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "thinly sliced beef",
+      "amount": "200g",
+      "notes": "fatty cuts like ribeye or wagyu work best"
+    },
+    {
+      "name": "chinese leaf",
+      "amount": "100g",
+      "notes": "also known as napa cabbage"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pan over medium heat.",
+    "Add the thinly sliced beef and cook until browned, about 3-4 minutes.",
+    "Add the chinese leaf and cook until wilted, about 2 minutes.",
+    "In a small bowl, whisk together the soy sauce, sake, mirin, and sugar.",
+    "Pour the sauce over the beef and chinese leaf, and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Stir in the coconut cream and cook for an additional 2 minutes.",
+    "Divide the mixture among 4 ramekins and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "japanese-cuisine",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "light-japanese-beef-gyudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-japanese-beef-gyudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:05:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "chinese leaf",
+    "diet": "low-fat",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef",
+    "descriptor": "light creamy",
+    "dishForm": "Gyudon"
+  }
+}
