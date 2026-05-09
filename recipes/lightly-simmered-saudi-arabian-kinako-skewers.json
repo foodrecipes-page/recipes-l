@@ -1,0 +1,104 @@
+{
+  "title": "Lightly Simmered Saudi Arabian Kinako Skewers",
+  "description": "A tangy and crisp Saudi Arabian dish featuring kinako, perfect for crowds, and friendly to dairy-free diets. It is served on a wooden board.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kinako",
+      "amount": "1 cup",
+      "notes": "roasted soybean flour"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together kinako, lemon juice, olive oil, garlic, ginger, salt, black pepper, and paprika.",
+    "Add the chicken breast pieces to the bowl and mix until they are well coated with the kinako mixture.",
+    "Thread the chicken pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers on a wooden board and simmer in the oven for 20 minutes, or until the chicken is cooked through.",
+    "Remove the skewers from the oven and let them cool for a few minutes.",
+    "Serve the kinako skewers hot on the wooden board, garnished with fresh parsley or cilantro if desired.",
+    "Repeat the cooking process until all the skewers are cooked."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "middle-eastern",
+    "snack",
+    "spicy",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lightly-simmered-saudi-arabian-kinako-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-simmered-saudi-arabian-kinako-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:34:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "kinako",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "kinako",
+    "descriptor": "Lightly Simmered",
+    "dishForm": "Skewers"
+  }
+}
