@@ -1,0 +1,106 @@
+{
+  "title": "Lightly Smoked Mediterranean Bread Toast",
+  "description": "A pungent and cozy Mediterranean dish featuring stale bread, smoke-hot flavors, and no onion or garlic, perfect for a light snack or appetizer.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the stale bread into 1-inch thick slices and place on a baking sheet.",
+    "Drizzle the olive oil over the bread and sprinkle with smoked paprika and salt.",
+    "Bake the bread in the oven for 10 minutes, or until lightly toasted.",
+    "While the bread is baking, mix the kalamata olives, artichoke hearts, feta cheese, sun-dried tomatoes, and parsley in a bowl.",
+    "Once the bread is ready, let it cool for a minute or two before topping with the olive mixture.",
+    "Drizzle the lemon juice over the top of the bread and serve immediately.",
+    "Garnish with additional parsley if desired.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free-option",
+    "mediterranean-inspired",
+    "no-onion-no-garlic",
+    "quick-snack",
+    "smoky-flavors",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "lightly-smoked-mediterranean-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-mediterranean-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:33:49Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "smoke-hot",
+    "primaryIngredient": "stale bread",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bread",
+    "descriptor": "Lightly Smoked",
+    "dishForm": "Toast"
+  }
+}
