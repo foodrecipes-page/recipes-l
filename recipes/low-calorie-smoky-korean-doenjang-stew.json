@@ -1,0 +1,101 @@
+{
+  "title": "Low-calorie smoky Korean doenjang Stew",
+  "description": "A smoky and energizing Korean stew featuring doenjang, made in an agave-leaf vessel, with a low-calorie twist, inspired by Egyptian flavors",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "low-fat, cubed"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In the agave-leaf vessel, heat the sesame oil over medium heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the gochujang and doenjang, and stir to combine.",
+    "Add the tofu, zucchini, and shiitake mushrooms, and stir to combine.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the chopped green onions.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "low-calorie",
+    "one-pot",
+    "smoky",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "low-calorie-smoky-korean-doenjang-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/low-calorie-smoky-korean-doenjang-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:20:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "doenjang",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "doenjang",
+    "descriptor": "Low-calorie smoky",
+    "dishForm": "Stew"
+  }
+}
