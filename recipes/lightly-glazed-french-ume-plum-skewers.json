@@ -1,0 +1,93 @@
+{
+  "title": "Lightly Glazed French Ume Plum Skewers",
+  "description": "A pungent and molten French dish featuring ume-plum, render-fat, and Mediterranean-friendly flavors, grilled to perfection on a robata grill.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ume-plums",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "rendered duck fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together the rendered duck fat, honey, balsamic vinegar, thyme, garlic, salt, and black pepper.",
+    "Thread the ume-plums onto skewers, leaving a small space between each plum.",
+    "Brush the glaze mixture onto both sides of the ume-plums.",
+    "Grill the skewers for 2-3 minutes per side, or until the plums are tender and slightly charred.",
+    "Serve the skewers immediately, garnished with additional thyme if desired.",
+    "Let the skewers rest for 1-2 minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck-fat-recipes",
+    "french-cuisine",
+    "grilled-fruit",
+    "mediterranean-diet",
+    "robata-grill",
+    "ume-plum-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "lightly-glazed-french-ume-plum-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-glazed-french-ume-plum-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:51:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "render-fat",
+    "primaryIngredient": "ume-plum",
+    "diet": "mediterranean",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "ume-plum",
+    "descriptor": "Lightly glazed",
+    "dishForm": "Skewers"
+  }
+}
