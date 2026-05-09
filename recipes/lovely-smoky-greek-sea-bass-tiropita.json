@@ -1,0 +1,101 @@
+{
+  "title": "Lovely Smoky Greek Sea Bass Tiropita",
+  "description": "A smoky and gooey Greek dish featuring sea bass fillets, perfect for a hangover cure, with a unique twist of candy and raw-friendly ingredients in a tiropita form.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian",
+    "raw-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup pitted"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "filo dough",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together feta cheese, kalamata olives, sun dried tomatoes, and chopped candy.",
+    "Season the sea bass fillets with smoked paprika, salt, and pepper.",
+    "Brush the filo dough sheets with olive oil.",
+    "Place a sea bass fillet on each filo dough sheet.",
+    "Spoon the feta cheese mixture on top of each sea bass fillet.",
+    "Fold the filo dough sheets to form a triangle and press the edges to seal.",
+    "Place the tiropitas on a baking sheet lined with parchment paper.",
+    "Bake the tiropitas for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "hangover-cure",
+    "raw-friendly",
+    "seafood",
+    "smoky",
+    "tiropita"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lovely-smoky-greek-sea-bass-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-smoky-greek-sea-bass-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:51:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "candy",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "sea bass",
+    "descriptor": "Lovely Smoky",
+    "dishForm": "Tiropita"
+  }
+}
