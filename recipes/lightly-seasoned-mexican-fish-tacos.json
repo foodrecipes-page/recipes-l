@@ -1,0 +1,104 @@
+{
+  "title": "Lightly Seasoned Mexican Fish Tacos",
+  "description": "A kid-friendly Mexican dish featuring fish seasoned with a hint of mustard, served in tacos with a snappy twist, this recipe is also suitable for a Buddhist temple gathering as it does not contain any meat from animals that were harmed, using rest-meat or fish instead.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "Shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a shallow dish, mix together panko breadcrumbs, cumin, paprika, salt, and black pepper.",
+    "Dip each piece of cod into the breadcrumb mixture, coating evenly.",
+    "Place the coated cod pieces on a baking sheet lined with parchment paper.",
+    "Drizzle olive oil over the cod pieces.",
+    "Bake the cod in the preheated oven for 10-12 minutes or until cooked through.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of cooked cod onto a tortilla, followed by shredded lettuce, diced tomatoes, and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist",
+    "fish",
+    "kid-friendly",
+    "mexican",
+    "pescatarian",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "lightly-seasoned-mexican-fish-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-seasoned-mexican-fish-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:43:57Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "rest-meat",
+    "primaryIngredient": "fish seasoning",
+    "diet": "buddhist-temple",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "Lightly seasoned",
+    "dishForm": "Tacos"
+  }
+}
