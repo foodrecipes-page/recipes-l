@@ -1,0 +1,101 @@
+{
+  "title": "Lightly Crisped Crunchy Australian Corn Paella",
+  "description": "Satisfy your Australian cravings with this one-pot dish that combines crispy corn flour crust with fresh corn and spices.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lamination puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fresh corn kernels",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Roll out the lamination puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Place the pastry into a 9-inch claypot, trimming the edges to fit.",
+    "In a large bowl, mix together the diced onion, minced garlic, corn kernels, salt, black pepper, and chili flakes.",
+    "Pour the oil into the claypot and add the onion mixture, spreading it evenly.",
+    "Place the claypot in the oven and bake for 20 minutes.",
+    "After 20 minutes, remove the claypot from the oven and roll out the remaining puff pastry to a thickness of about 1/8 inch.",
+    "Use a pastry cutter or a knife to cut the pastry into thin strips.",
+    "Place the pastry strips on top of the corn mixture in a woven pattern.",
+    "Return the claypot to the oven and bake for an additional 15 minutes, or until the pastry is golden brown and crispy.",
+    "Remove the claypot from the oven and let it cool for 5 minutes.",
+    "Sprinkle chopped parsley on top of the paella and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "corn",
+    "crispy",
+    "egg-free",
+    "one-pan",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 8,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "lightly-crisped-crunchy-australian-corn-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crisped-crunchy-australian-corn-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T21:57:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "corn flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Corn",
+    "descriptor": "Lightly Crisped Crunchy",
+    "dishForm": "Paella"
+  }
+}
