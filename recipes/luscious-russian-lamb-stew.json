@@ -1,0 +1,96 @@
+{
+  "title": "Luscious Russian Lamb Stew",
+  "description": "A hearty and flavorful stew featuring lamb, apricot jam, and a rich wine broth, cooked to perfection in a clay pot. This dish is perfect for a cold winter's night.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large clay pot, combine the lamb, apricot jam, red wine, beef broth, carrots, potatoes, thyme, salt, and pepper.",
+    "Cover the pot with a lid and bring the mixture to a boil on the stovetop.",
+    "Once boiling, transfer the pot to the preheated oven and cook for 2.5 hours.",
+    "After 2 hours, check the stew for tenderness and adjust the seasoning as needed.",
+    "Remove the pot from the oven and let it cool for 10 minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days.",
+    "Reheat the stew gently on the stovetop or in the oven before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "comfort-food",
+    "lamb-based",
+    "one-pot",
+    "wine-braised",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "luscious-russian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-russian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:38:33Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "apricot jam",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lamb",
+    "descriptor": "Luscious",
+    "dishForm": "Stew"
+  }
+}
