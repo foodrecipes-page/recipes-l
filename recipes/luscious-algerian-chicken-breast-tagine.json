@@ -1,0 +1,109 @@
+{
+  "title": "Luscious Algerian Chicken Breast Tagine",
+  "description": "A rich and juicy Algerian dish featuring chicken breast, perfect for a crowd, this recipe is a high-protein friendly option that is sure to please. It is made with a variety of spices and ingredients that give it a unique flavor.",
+  "cuisine": "Algerian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium heat.",
+    "Add the chopped onion and cook until it is softened.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cumin, coriander, and cayenne pepper and cook for 1 minute.",
+    "Add the chicken breast and cook until it is browned on all sides.",
+    "Add the chicken broth, dried apricots, and prunes.",
+    "Close the lid of the pressure cooker and bring to high pressure.",
+    "Cook for 20 minutes.",
+    "Let the pressure release naturally.",
+    "Serve the chicken breast and sauce over couscous or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "high-protein",
+    "north-african",
+    "one-pot",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "luscious-algerian-chicken-breast-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-algerian-chicken-breast-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:50:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chicken breast",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken breast",
+    "descriptor": "Luscious",
+    "dishForm": "Tagine"
+  }
+}
