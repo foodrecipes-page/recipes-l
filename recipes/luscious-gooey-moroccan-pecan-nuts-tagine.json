@@ -1,0 +1,106 @@
+{
+  "title": "Luscious Gooey Moroccan Pecan Nuts Tagine",
+  "description": "A rich and comforting Moroccan dish featuring gooey pecan nuts and confit-tomato, served in a banana leaf. Perfect for a sick-day meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pecan nuts",
+      "amount": "1 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "Confit tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the banana leaves into 6-inch squares, and rinse them under cold water.",
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the pecan nuts and cook, stirring frequently, until fragrant and lightly toasted, about 5 minutes.",
+    "Add the confit tomatoes, honey, cinnamon, ginger, and salt to the skillet. Stir to combine.",
+    "Cook for 2-3 minutes, stirring frequently, until the mixture is heated through.",
+    "Transfer the mixture to the center of each banana leaf square, leaving a 1-inch border around the edges.",
+    "Dot the top of each serving with the remaining 1 tablespoon of butter.",
+    "Fold the banana leaves over the filling to form a triangle or square, and secure with a toothpick if needed.",
+    "Repeat with the remaining banana leaf squares and filling.",
+    "Place the tagines on a baking sheet lined with parchment paper, and bake for 10-12 minutes, or until the banana leaves are tender and the filling is hot and bubbly.",
+    "Serve the tagines hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-sodium",
+    "moroccan-cuisine",
+    "one-pan",
+    "sick-day-meals"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "luscious-gooey-moroccan-pecan-nuts-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-gooey-moroccan-pecan-nuts-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T21:24:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "confit-tomato",
+    "primaryIngredient": "pecan nuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Pecan nuts",
+    "descriptor": "Luscious Gooey",
+    "dishForm": "Tagine"
+  }
+}
