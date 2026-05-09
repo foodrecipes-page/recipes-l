@@ -1,0 +1,94 @@
+{
+  "title": "Lovely Crumbly Norwegian Pistachio Crumble",
+  "description": "A delicious paleo-friendly dessert featuring ground pistachios and a floral twist, perfect for a date night, with a crumbly texture and sweet flavors, made with natural ingredients and no refined sugars.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground pistachios",
+      "amount": "1 1/2 cups",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh raspberries",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium bowl, mix together the ground pistachios, almond flour, and coconut sugar.",
+    "Add the melted butter, eggs, and vanilla extract to the bowl and mix until well combined.",
+    "Stir in the dried rose petals.",
+    "Transfer the mixture to a 6-inch baking dish and top with fresh raspberries.",
+    "Bake for 35 minutes or until the topping is golden brown and the fruit is tender.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Deglaze the dish with a little water to loosen the crumble from the sides.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "date-night",
+    "floral",
+    "gluten-free",
+    "norwegian",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "lovely-crumbly-norwegian-pistachio-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crumbly-norwegian-pistachio-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:18:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "ground pistachios",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pistachios",
+    "descriptor": "Lovely crumbly",
+    "dishForm": "Crumble"
+  }
+}
