@@ -1,0 +1,131 @@
+{
+  "title": "Lazy-Sunday Korean Beef Flank Steak Sujebi",
+  "description": "A comforting, lacto-vegetarian-friendly Korean Busan-style dish featuring a flavorful stir-fry and tender beef flank steak, all wrapped up in a delicious sujebi form served in a donabe vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "lacto-vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "450g",
+      "notes": ""
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "hot pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili paste gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes gochugaru",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sujebi dough",
+      "amount": "",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of canola oil in a large skillet over medium-high heat.",
+    "Slice the beef flank steak into thin strips and add to the skillet, cooking for 3-4 minutes or until browned.",
+    "Remove the beef from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of canola oil and sauté the sliced onion and minced garlic until softened, about 4-5 minutes.",
+    "Add the grated ginger and cook for an additional minute.",
+    "Add the beef back into the skillet, along with the hot pepper flakes, ground black pepper, Korean chili paste gochujang, fish sauce, and Korean chili flakes gochugaru. Stir-fry until the beef is cooked through, about 4-5 minutes.",
+    "Season the beef mixture with salt to taste.",
+    "Meanwhile, cook the sujebi dough according to package instructions or recipe.",
+    "To assemble the sujebi, place a piece of cooked sujebi dough in the bottom of a donabe vessel, followed by a portion of the beef mixture, and finish with a sprinkle of green onions.",
+    "Repeat the layers until all ingredients are used, ending with a layer of sujebi dough on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "busan",
+    "donabe",
+    "flank-steak",
+    "high-protein",
+    "korean",
+    "lacto-vegetarian",
+    "one-pan",
+    "sujebi",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "lazy-sunday-korean-korean-beef-flank-steak-sujebi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-korean-korean-beef-flank-steak-sujebi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:21Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "beef flank steak",
+    "diet": "lacto-vegetarian",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "Lazy-Sunday Korean",
+    "dishForm": "Sujebi"
+  }
+}
