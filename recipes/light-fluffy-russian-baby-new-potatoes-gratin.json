@@ -1,0 +1,98 @@
+{
+  "title": "Light Fluffy Russian Baby New Potatoes Gratin",
+  "description": "A buttery and fluffy Russian dish featuring baby new potatoes, perfect for a romantic dinner, this flexitarian-friendly recipe is cured with shio-koji for added depth of flavor. It is a delightful and savory gratin",
+  "cuisine": "Russian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 1 tablespoon water"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "mixed with 1/2 cup whole milk"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, combine the sliced potatoes and shio-koji mixture, tossing to coat",
+    "In a separate bowl, mix the melted butter, grana padano cheese, and heavy cream mixture",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes",
+    "Pour some of the butter and cheese mixture over the potatoes",
+    "Repeat the layers until all ingredients are used, ending with a layer of cheese on top",
+    "Season with salt and black pepper to taste",
+    "Cover the dish with aluminum foil and bake for 30 minutes",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "one-pan",
+    "potato-recipe",
+    "romantic-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "light-fluffy-russian-baby-new-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fluffy-russian-baby-new-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:46:10Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "baby new potatoes",
+    "descriptor": "light fluffy",
+    "dishForm": "Gratin"
+  }
+}
