@@ -1,0 +1,96 @@
+{
+  "title": "Lightly Crisp Argentinian Suet Empanadas",
+  "description": "Rich and crispy empanadas filled with suet, perfect for a snack or light meal, made with halal-friendly ingredients and a delicate fold",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef suet",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, combine the flour, salt, and black pepper",
+    "Add the chopped onion, paprika, and beef suet to the bowl and mix well",
+    "Gradually add the water and mix until a dough forms",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball",
+    "Roll out each ball of dough into a thin circle",
+    "Place a tablespoon of the suet mixture in the center of each circle",
+    "Fold the dough over the filling and press the edges together to seal",
+    "Brush the tops of the empanadas with the beaten egg",
+    "Bake the empanadas for 20 minutes or until lightly golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "baked",
+    "beef",
+    "empanada",
+    "halal",
+    "snack",
+    "suet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "lightly-crisp-argentinian-suet-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crisp-argentinian-suet-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:04:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "suet",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "suet",
+    "descriptor": "Lightly Crisp",
+    "dishForm": "Empanadas"
+  }
+}
