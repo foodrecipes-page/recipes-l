@@ -1,0 +1,107 @@
+{
+  "title": "lightly charred norwegian sea bass grill",
+  "description": "a refreshing norwegian dish featuring sea bass fillets grilled to perfection with a tangy flavor, perfect for a spring evening during the monsoon season.",
+  "cuisine": "norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "organic and unwaxed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "fleur de sel"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fennel",
+      "amount": "1 bulb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry and unsweetened"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "preheat the grill to medium-high heat.",
+    "season the sea bass fillets with salt, black pepper, and dill on both sides.",
+    "grill the sea bass for 3-4 minutes per side, or until it reaches an internal temperature of 145°f.",
+    "while the sea bass is grilling, combine lemon juice, olive oil, garlic, and fennel in a small bowl.",
+    "brush the mixture on the grilled sea bass during the last minute of cooking.",
+    "remove the sea bass from the grill and top with unsalted butter.",
+    "drizzle the lemon juice mixture on top of the sea bass.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "norwegian",
+    "sea-bass",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "lightly-charred-norwegian-sea-bass-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-charred-norwegian-sea-bass-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T03:53:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sea bass",
+    "descriptor": "Lightly charred",
+    "dishForm": "Grill"
+  }
+}
