@@ -1,0 +1,103 @@
+{
+  "title": "Lightly Molten Spanish Shungiku Paella",
+  "description": "A diabetic friendly Spanish dish featuring shungiku, with a jammy and molten texture, made with deep fry tod for a cozy meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "deep fry tod",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the crushed deep fry tod and cook for 2 minutes.",
+    "Add the chopped shungiku and cook until it is wilted.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth and saffron threads, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the cover and cook for an additional 5 minutes, or until the liquid is mostly absorbed and the paella is lightly molten."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lightly-molten-spanish-shungiku-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-molten-spanish-shungiku-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:11:50Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "shungiku",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shungiku",
+    "descriptor": "Lightly molten",
+    "dishForm": "Paella"
+  }
+}
