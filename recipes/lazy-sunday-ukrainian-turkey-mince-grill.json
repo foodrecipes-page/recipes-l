@@ -1,0 +1,111 @@
+{
+  "title": "lazy-sunday ukrainian turkey mince grill",
+  "description": "A hearty and comforting dish featuring turkey mince, bell peppers, and spices, perfect for a relaxing lazy Sunday. This recipe is low in calories and can be prepared in under an hour.",
+  "cuisine": "ukrainian",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground turkey",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "2 teaspoons",
+      "notes": "sweet or smoked, whichever you prefer"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler.|Preheat your oven to 400\u000062F (200\u000068C).|In a large bowl, combine the ground turkey, minced onion, minced garlic, paprika, salt, and black pepper. Mix well with your hands or a wooden spoon until just combined.|Add the chopped bell peppers to the bowl and mix until they are evenly distributed.|Using your hands, shape the mixture into 4-6 patties, depending on the size you prefer.|Line a broiler pan or a baking sheet with aluminum foil and spray with cooking spray. Place the patties on the prepared pan.|Drizzle the tops with olive oil and sprinkle with feta cheese.|Broil the patties for 4-5 minutes on each side, or until they are cooked through and slightly charred.|While the patties are cooking, prepare the yogurt sauce by mixing together the Greek yogurt, chopped fresh dill, and a pinch of salt.| Serve the cooked patties with the yogurt sauce spooned over the top and garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "high-protein",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "lazy-sunday-ukrainian-turkey-mince-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-ukrainian-turkey-mince-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:43Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "broil",
+    "primaryIngredient": "turkey mince",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "turkey mince",
+    "descriptor": "lazy-sunday",
+    "dishForm": "Grill"
+  }
+}

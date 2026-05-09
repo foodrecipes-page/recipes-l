@@ -1,0 +1,116 @@
+{
+  "title": "Light Silky British Cream Pudding",
+  "description": "A light and silky British-inspired dessert, featuring the rich flavors of double cream and yuzu-cure, with a hint of lemon zest.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan-alt",
+    "fish-alt",
+    "gluten-alt",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Double Cream",
+      "amount": "450 ml",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu Juice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "20 g",
+      "notes": ""
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "10 g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "4",
+      "notes": "Use large egg yolks for best results."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "100 ml",
+      "notes": "Optional, for a vegan version."
+    }
+  ],
+  "instructions": [
+    "Combine egg yolks, granulated sugar, and vanilla extract in a heatproof bowl.",
+    "Set the bowl over a saucepan of simmering water and whisk constantly until the mixture thickens.",
+    "Remove the bowl from the heat and slowly pour in the double cream, whisking continuously.",
+    "Add the lemon zest, yuzu juice, and salt, and whisk until fully incorporated.",
+    "Strain the mixture into a clean bowl and refrigerate for at least 2 hours, or until chilled and set.",
+    "Just before serving, whip the coconut cream (if using) until stiff peaks form and fold into the chilled mixture.",
+    "Serve immediately, garnished with additional lemon zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "dessert",
+    "light",
+    "silky",
+    "vegan-alt",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 42
+  },
+  "slug": "light-silky-british-cream-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-silky-british-cream-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "double cream",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cream",
+    "descriptor": "light silky",
+    "dishForm": "Pudding"
+  }
+}
