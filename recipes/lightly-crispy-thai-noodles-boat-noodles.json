@@ -1,0 +1,104 @@
+{
+  "title": "Lightly Crispy Thai Noodles Boat Noodles",
+  "description": "A winey and crispy Thai dish featuring chicken bouillon powder, perfect for a date night, served in a tagliere as boat noodles.",
+  "cuisine": "Thai",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until lightly browned.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the rice noodles and stir to combine with the onion and garlic.",
+    "In a small bowl, whisk together the chicken bouillon powder, soy sauce, sugar, salt, and black pepper.",
+    "Pour the whisked mixture over the noodles and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the noodles are lightly crispy.",
+    "Stir in the chopped scallions.",
+    "Serve the noodles in a tagliere, shaped like a boat.",
+    "Garnish with additional scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "boat-noodles",
+    "crispy-noodles",
+    "date-night",
+    "jain-friendly",
+    "tagliere",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "lightly-crispy-thai-noodles-boat-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crispy-thai-noodles-boat-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:05:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Lightly Crispy",
+    "dishForm": "Boat Noodles"
+  }
+}
