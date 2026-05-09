@@ -1,0 +1,99 @@
+{
+  "title": "Lightly Aerated Algerian Fiordilatte Papillote",
+  "description": "A refreshing and light Algerian dish featuring Fiordilatte cheese, perfect for high-protein diets and warm weather.",
+  "cuisine": "Algerian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fiordilatte cheese",
+      "amount": "200g",
+      "notes": "Fresh and high-quality"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "Extra-virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the Fiordilatte cheese into 1-inch (2.5 cm) cubes.",
+    "In a small bowl, mix together the lemon juice, garlic, and olive oil.",
+    "Add the chopped mint leaves and parsley to the bowl and stir to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Place the cheese cubes in a small papillote and spoon the mint mixture over the top.",
+    "Fold the papillote over the cheese and seal the edges with a small amount of water.",
+    "Place the papillote on a baking sheet and bake for 12 minutes.",
+    "Remove the papillote from the oven and let it cool for 2 minutes.",
+    "Serve the Fiordilatte papillote warm, garnished with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "cheese",
+    "high-protein",
+    "light",
+    "one-pan",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 2,
+    "fat": 16
+  },
+  "slug": "lightly-aerated-algerian-fiordilatte-papillote",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-aerated-algerian-fiordilatte-papillote",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T17:25:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "fiordilatte",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Fiordilatte",
+    "descriptor": "Lightly Aerated",
+    "dishForm": "Papillote"
+  }
+}
