@@ -1,0 +1,103 @@
+{
+  "title": "Luxurious Smoky Filipino Beef Kaldereta",
+  "description": "A rich and savory Filipino stew featuring tender beef, smoky flavors, and a hint of sweetness from blackcurrant jam, perfect for a post-workout meal or special occasion. This Whole30-friendly dish is made with wholesome ingredients and is free from grains and added sugars.",
+  "cuisine": "Filipino",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket or shank",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set it aside, then add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the blackcurrant jam, fish sauce, smoked paprika, salt, and black pepper to the pot, stirring to combine.",
+    "Return the beef to the pot and add the bay leaves, then pour in enough water to cover the beef.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the heat and let it cool slightly, then serve the kaldereta hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "filipino-food",
+    "gluten-free",
+    "post-workout-meal",
+    "smoky-flavors",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "luxurious-smoky-filipino-beef-kaldereta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-smoky-filipino-beef-kaldereta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:15:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "smoke-cold",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "luxurious smoky",
+    "dishForm": "Kaldereta"
+  }
+}
