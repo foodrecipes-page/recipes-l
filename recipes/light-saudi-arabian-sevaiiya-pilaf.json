@@ -1,0 +1,104 @@
+{
+  "title": "Saudi-Arabian Sevaiiya Pilaf",
+  "description": "A light and fluffy Saudi-Arabian dish featuring pilaf, miso-marinate, and sevaiiya, perfect for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sevaiiya",
+      "amount": "1 cup",
+      "notes": "soaked overnight in water"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 1 tablespoon water"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust to preference"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "adjust to preference"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, until fragrant.",
+    "Add the dissolved miso paste, lemon juice, salt, and black pepper. Stir to combine.",
+    "Add the soaked sevaiiya and stir to coat with the miso-marinate.",
+    "Cook for 5-7 minutes, stirring occasionally, until the sevaiiya is lightly toasted and fluffy.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "one-pan",
+    "pilaf",
+    "sevaiiya",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "light-saudi-arabian-sevaiiya-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-saudi-arabian-sevaiiya-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:15:51Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "miso-marinate",
+    "primaryIngredient": "sevaiiya",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "light",
+    "dishForm": "Pilaf"
+  }
+}

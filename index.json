@@ -5113,6 +5113,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-saudi-arabian-sevaiiya-pilaf",
+    "title": "Saudi-Arabian Sevaiiya Pilaf",
+    "tags": [
+      "middle-eastern",
+      "one-pan",
+      "pilaf",
+      "sevaiiya",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "light-saudi-blueberry-bowl",
     "title": "Light Saudi Blueberry Bowl",
     "tags": [
@@ -14700,6 +14715,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-moroccan-almonds-amlou",
+    "title": "Luxurious Moroccan Almonds Amlou",
+    "tags": [
+      "almond-based",
+      "gluten-free",
+      "middle-eastern",
+      "moroccan-dessert",
+      "no-bake",
+      "vegetarian"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
