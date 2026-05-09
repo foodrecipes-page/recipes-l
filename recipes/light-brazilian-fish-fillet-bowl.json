@@ -1,0 +1,115 @@
+{
+  "title": "Light Brazilian Fish Fillet Bowl",
+  "description": "Sweet, crisp, light Brazilian dish featuring fish fillet, perfect for a quick and healthy meal. This recipe is sugar-free friendly and uses a lazy susan spinner to make serving easy.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Saut\u00063e onions",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Saut\u00063e garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-style farofa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400\u00049F (200\u0000celsius).",
+    "Line a baking sheet with parchment paper. Place the cod fillets on the baking sheet.",
+    "Drizzle olive oil over the cod fillets and season with salt and black pepper. ",
+    "Bake the cod fillets for 12 minutes or until cooked through. ",
+    "While the cod is baking, heat a skillet over medium heat and add saut\u00063e onions and garlic. ",
+    "Once the onions are translucent, add the Brazilian-style farofa and cook for 2 minutes. ",
+    "Add the fresh tomatoes to the skillet and cook for an additional 2 minutes. ",
+    "To assemble the dish, place a cod fillet on each serving plate. ",
+    "Top the cod with a spoonful of the farofa mixture and garnish with fresh cilantro leaves. ",
+    "Serve immediately.",
+    "Garnish with additional fresh cilantro leaves if desired.",
+    "Use a lazy susan spinner to easily serve the dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 14,
+  "totalTimeMin": 29,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fish",
+    "healthy",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "light-brazilian-fish-fillet-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-brazilian-fish-fillet-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:13:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "fish fillet",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "fish fillet",
+    "descriptor": "light",
+    "dishForm": "bowl"
+  }
+}
