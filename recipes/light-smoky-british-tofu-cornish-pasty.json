@@ -1,0 +1,108 @@
+{
+  "title": "Light Smoky British Tofu Cornish Pasty",
+  "description": "A smoky and gooey British dish featuring vanilla pod and sashimi-cut tofu in a Cornish pasty form, suitable for Jain-friendly diets. It is a unique and delicious twist on traditional Cornish pasties.",
+  "cuisine": "British",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1 pod",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "swede",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion until softened.",
+    "Add the smoked paprika, salt, and pepper to the pan and stir to combine.",
+    "Add the diced potato and swede to the pan and cook until they start to soften.",
+    "Add the sashimi-cut tofu to the pan and stir to combine with the other ingredients.",
+    "Scrape the seeds from the vanilla pod and add them to the pan, stirring to combine.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Spoon the filling mixture onto one half of the pastry, leaving a 1 inch border around the edges.",
+    "Brush the edges of the pastry with a little water and fold the other half over the filling, pressing the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pasty to allow steam to escape.",
+    "Place the pasty on a baking sheet and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "jain-friendly",
+    "lunchtime",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "light-smoky-british-tofu-cornish-pasty",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-smoky-british-tofu-cornish-pasty",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:54:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "vanilla pod",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "tofu",
+    "descriptor": "Light Smoky",
+    "dishForm": "Cornish Pasty"
+  }
+}

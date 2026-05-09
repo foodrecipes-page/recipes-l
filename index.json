@@ -5671,6 +5671,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-smoky-british-tofu-cornish-pasty",
+    "title": "Light Smoky British Tofu Cornish Pasty",
+    "tags": [
+      "british",
+      "comfort-food",
+      "jain-friendly",
+      "lunchtime",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "light-smoky-ethiopian-chicken-doro-wot",
     "title": "Light Smoky Ethiopian Chicken Doro Wot",
     "tags": [
@@ -5932,6 +5947,20 @@
       "weeknight"
     ],
     "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-thai-chicken-legs-toast",
+    "title": "Light Thai Chicken Legs Toast",
+    "tags": [
+      "easy-to-make",
+      "fresh-herbs",
+      "light-meal",
+      "quick-dinner",
+      "thai-inspired"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 40,
     "shard": "l"
   },

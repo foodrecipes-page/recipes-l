@@ -1,0 +1,97 @@
+{
+  "title": "Light Thai Chicken Legs Toast",
+  "description": "A light and refreshing Thai dish featuring chicken legs, toast, and fresh herbs, perfect for a quick and easy meal. This dish is egg-free and friendly for various diets.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken legs with salt and pepper.",
+    "Bake the chicken legs in the oven for 25 minutes or until cooked through.",
+    "Toast the bread slices until lightly browned.",
+    "Brush the toasted bread with vegetable oil.",
+    "Mix the fish sauce and lime juice in a small bowl.",
+    "Brush the mixture onto the toasted bread.",
+    "Top the toasted bread with chopped cilantro and scallions.",
+    "Serve the chicken legs on top of the toasted bread.",
+    "Garnish with additional cilantro and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "fresh-herbs",
+    "light-meal",
+    "quick-dinner",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "light-thai-chicken-legs-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-thai-chicken-legs-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:54:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "chicken legs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Light Grassy",
+    "dishForm": "Toast"
+  }
+}
