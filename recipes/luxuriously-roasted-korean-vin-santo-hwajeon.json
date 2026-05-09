@@ -1,0 +1,102 @@
+{
+  "title": "Luxuriously Roasted Korean Vin Santo Hwajeon",
+  "description": "A rich and indulgent Korean dessert featuring Vin Santo wine, with a crispy exterior and a soft interior, perfect for special occasions. This dish is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vin Santo wine",
+      "amount": "1 cup",
+      "notes": "Italian dessert wine"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the rice flour, cornstarch, and salt.",
+    "In a separate bowl, whisk together the melted butter, egg, and water.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and brush with Vin Santo wine.",
+    "Sprinkle the tops with sesame seeds and pine nuts.",
+    "Place the disks on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "korean-dessert",
+    "luxurious",
+    "roasted",
+    "special-occasion",
+    "vin-santo"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "luxuriously-roasted-korean-vin-santo-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-roasted-korean-vin-santo-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:58:13Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "vin-santo",
+    "diet": "no-onion-no-garlic",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vin santo infused fruits",
+    "descriptor": "Luxuriously Roasted",
+    "dishForm": "Hwajeon"
+  }
+}
