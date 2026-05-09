@@ -1,0 +1,103 @@
+{
+  "title": "Luxurious Silky Japanese Mushrooms Yakitori",
+  "description": "A bitter and silky Japanese dish featuring mushrooms, perfect for a brunch mood, originating from Okinawa, and egg-free friendly, served in yakitori form",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "12 oz",
+      "notes": "stems removed and caps sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Parchment paper",
+      "amount": "12 sheets",
+      "notes": "cut into 6 inch squares"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sesame oil, soy sauce, rice vinegar, mirin, sugar, and salt.",
+    "Add the sliced mushrooms to the bowl and toss to coat with the marinade.",
+    "Let the mushrooms marinate for at least 30 minutes.",
+    "Cut the parchment paper into 6 inch squares and place a mushroom slice in the center of each square.",
+    "Fold the parchment paper over the mushroom to form a triangle and press the edges to seal.",
+    "Place the mushroom packets on a baking sheet lined with parchment paper.",
+    "Bake the mushrooms in the preheated oven for 12 minutes.",
+    "Remove the mushrooms from the oven and let them cool for a few minutes.",
+    "Serve the mushrooms hot, garnished with scallions and sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "easy-to-make",
+    "japanese-cuisine",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "luxurious-silky-japanese-mushrooms-yakitori",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-silky-japanese-mushrooms-yakitori",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:12:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "papillote",
+    "primaryIngredient": "mushrooms",
+    "diet": "egg-free",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "mushrooms",
+    "descriptor": "luxurious silky",
+    "dishForm": "Yakitori"
+  }
+}
