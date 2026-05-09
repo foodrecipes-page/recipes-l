@@ -1,0 +1,100 @@
+{
+  "title": "Lazy-Sunday Portuguese Samphire Grill",
+  "description": "Tangy and shattering, this keto-friendly dish features samphire and lamination-puff, perfect for a relaxing Sunday evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "lamination-puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "1 large egg",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400°F (200°C).",
+    "Rinse the samphire and pat dry with a paper towel.",
+    "Roll out the lamination-puff pastry to a thickness of 1/4 inch (6 mm).",
+    "Cut the pastry into 4 equal rectangles, about 4 inches (10 cm) wide and 6 inches (15 cm) long.",
+    "Place a tablespoon of olive oil on one half of each rectangle, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Sprinkle minced garlic over the oil, followed by a sprinkle of salt.",
+    "Top with the other half of the pastry, pressing the edges to seal.",
+    "Cut a small slit in the top of each pastry rectangle to allow steam to escape.",
+    "Place the samphire on top of the pastry, folding the leaves slightly to fit.",
+    "Brush the tops with the beaten egg and sprinkle with chopped parsley.",
+    "Place the pastries on the preheated raclette grill and cook for 10-12 minutes, or until golden brown.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "laminated-puff",
+    "lazy-sunday",
+    "portuguese",
+    "samphire"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "lazy-sunday-portuguese-samphire-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-portuguese-samphire-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "lamination-puff",
+    "primaryIngredient": "samphire",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "samphire",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Grill"
+  }
+}
