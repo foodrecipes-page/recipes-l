@@ -1,0 +1,116 @@
+{
+  "title": "Lovely Northern Suet Pudding Spot",
+  "description": "A hearty, comforting British dish featuring a crumbly suet pudding cake spot, served with a side of homemade custard. Traditionally served for breakfast or as a snack.",
+  "cuisine": "British",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "225g",
+      "notes": ""
+    },
+    {
+      "name": "Brown beef suet",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "4g",
+      "notes": "Ensure halal-friendly brand"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Large eggs, beaten"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "225ml",
+      "notes": "Scalded milk is ideal for this recipe"
+    },
+    {
+      "name": "Salt",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Raisins",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Currants",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Soda water",
+      "amount": "125ml",
+      "notes": "To make the suet pudding lighter"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180\u00184C (350\u0014F) and grease a 1-pint pudding basin.",
+    "Mix together the flour, suet, sugar, and baking powder in a large bowl.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the salt, raisins, and currants to the flour mixture and stir to combine.",
+    "Pour in the wet ingredients and mix until just combined.",
+    "Turn the mixture into the prepared pudding basin and pour in the soda water.",
+    "Cover the pudding with parchment paper or a clean tea towel and tie with kitchen string.",
+    "Place the pudding in a large saucepan and add enough boiling water to come halfway up the pudding basin.",
+    "Bring the water to a boil, then reduce the heat to a simmer and cover the saucepan with a lid.",
+    "Steam the pudding for 2 hours, topping up the water as needed.",
+    "Remove the pudding from the saucepan and let it cool for 10 minutes.",
+    "Invert the pudding onto a serving plate and serve with homemade custard.",
+    "To make the custard, combine 200g of milk with 2 egg yolks and 25g of sugar in a saucepan. Cook over a low heat, stirring constantly, until the custard thickens.",
+    "Remove the custard from the heat and strain it into a clean bowl. Let it cool to room temperature before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 120,
+  "totalTimeMin": 145,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "brunch",
+    "comfort-food",
+    "homemade",
+    "snack",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lovely-northern-suet-pudding-spot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-northern-suet-pudding-spot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:59:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "brine-dry",
+    "primaryIngredient": "baking powder",
+    "diet": "halal",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "suet",
+    "descriptor": "Nice Northern",
+    "dishForm": "Pudding"
+  }
+}
