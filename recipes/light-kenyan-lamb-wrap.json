@@ -1,0 +1,103 @@
+{
+  "title": "Light Kenyan Lamb Wrap",
+  "description": "A halal-friendly Kenyan dish featuring lamb, cranberry, and a sweet glaze, all wrapped in a corn husk wrap, perfect for a light and flavorful meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into small pieces"
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together honey, lemon juice, olive oil, garlic, and ginger to make the glaze.",
+    "Add the lamb pieces to the bowl and toss to coat with the glaze.",
+    "Season the lamb with salt and black pepper.",
+    "Wrap each piece of lamb in a corn husk wrap, leaving a small overlap to seal.",
+    "Place the wraps on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until the lamb is cooked through.",
+    "While the lamb is cooking, heat the cranberry sauce in a small saucepan over medium heat.",
+    "Once the lamb is done, brush the cranberry sauce on top of each wrap.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wraps",
+    "glazed-meat",
+    "halal-friendly",
+    "kenyan-cuisine",
+    "lamb-recipes",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "light-kenyan-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-kenyan-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:45:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "glaze",
+    "primaryIngredient": "cranberry",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "light airy",
+    "dishForm": "Wrap"
+  }
+}
