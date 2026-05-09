@@ -1,0 +1,94 @@
+{
+  "title": "Luscious Smoky Syrian Pork Kebabs",
+  "description": "A smoky and molten Syrian dish featuring pork shoulder, perfect for a crowd, cooked on a salt block and served with double-rise-bread",
+  "cuisine": "Syrian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, smoked paprika, salt, and black pepper",
+    "Add the pork cubes to the bowl and toss to coat with the marinade",
+    "Thread the pork cubes onto skewers, leaving a small space between each cube",
+    "Place the skewers on the preheated salt block and cook for 10-12 minutes per side",
+    "While the pork is cooking, toast the double-rise-bread cubes on the salt block",
+    "Once the pork is cooked, serve with the toasted bread and a side of your choice",
+    "Let the pork rest for 5 minutes before serving",
+    "Garnish with fresh parsley or oregano, if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "pork-kebabs",
+    "salt-block-cooking",
+    "smoky",
+    "syrian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "luscious-smoky-syrian-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-smoky-syrian-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:35:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "pork shoulder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "luscious smoky",
+    "dishForm": "Kebabs"
+  }
+}
