@@ -1,0 +1,92 @@
+{
+  "title": "Light Roasted Venezuelan Chicken Bowl",
+  "description": "A high protein dish featuring roasted chicken, oyster sauce, and score fat, served in a Korean brass bowl, this Light Roasted Venezuelan Chicken Bowl is a delicious and healthy option for dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "high protein",
+    "low carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "score fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together oyster sauce, score fat, olive oil, garlic, salt, black pepper, and paprika.",
+    "Place the chicken breast in a large bowl and brush the oyster sauce mixture evenly over both sides of the chicken.",
+    "Let the chicken marinate for 10 minutes.",
+    "Place the chicken on a baking sheet lined with aluminum foil and roast in the preheated oven for 25 minutes.",
+    "Remove the chicken from the oven and let it rest for 5 minutes.",
+    "Slice the chicken into thin strips.",
+    "Serve the chicken in a Korean brass bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "roasted-chicken",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "light-roasted-venezuelan-chicken-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-roasted-venezuelan-chicken-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:44:19Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "score-fat",
+    "primaryIngredient": "oyster sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "light roasted",
+    "dishForm": "Bowl"
+  }
+}
