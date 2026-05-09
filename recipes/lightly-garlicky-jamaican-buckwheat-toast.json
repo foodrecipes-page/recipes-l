@@ -1,0 +1,93 @@
+{
+  "title": "Lightly Garlicky Jamaican Buckwheat Toast",
+  "description": "A quick-fix Jamaican dish featuring buckwheat flour and toast with a hint of garlic, perfect for a snack or light meal. This raw-friendly recipe is easy to make and packed with nutrients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup",
+      "notes": "make sure it is raw"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the buckwheat flour, water, minced garlic, chopped scallions, salt, and black pepper until smooth.",
+    "Heat the coconut oil in a non-stick pan over medium heat.",
+    "Pour the buckwheat mixture into the pan and cook for about 2 minutes, until the bottom is lightly browned.",
+    "Flip the buckwheat mixture over and cook for another 2 minutes, until the other side is also lightly browned.",
+    "Meanwhile, toast the whole wheat bread until it is lightly browned.",
+    "Once the buckwheat mixture is cooked, place it on top of the toasted bread.",
+    "Cut the bread into halves or quarters, depending on your preference.",
+    "Serve the lightly garlicky Jamaican buckwheat toast immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat-recipes",
+    "garlicky",
+    "jamaican-cuisine",
+    "quick-fix",
+    "raw-friendly",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "lightly-garlicky-jamaican-buckwheat-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-garlicky-jamaican-buckwheat-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:51:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Lightly Garlicky",
+    "dishForm": "Toast"
+  }
+}
