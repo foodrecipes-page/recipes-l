@@ -1,0 +1,100 @@
+{
+  "title": "Lightly Grilled Filipino Pork Sisig",
+  "description": "A fresh and tender Filipino dish featuring pork, sesame seed oil, and a deglaze-fond, perfect for a date-night dinner. This Whole30-friendly recipe is a twist on the classic sisig.",
+  "cuisine": "Filipino",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together sesame seed oil, lime juice, fish sauce, chili peppers, onion, garlic, salt, and black pepper.",
+    "Add the sliced pork to the bowl and marinate for at least 30 minutes.",
+    "Remove the pork from the marinade and grill for 5-7 minutes per side, or until cooked to an internal temperature of 145 degrees.",
+    "Let the pork rest for 5 minutes before slicing into thin strips.",
+    "In a large skillet, heat 1 tablespoon of sesame seed oil over medium heat.",
+    "Add the sliced pork to the skillet and stir to combine with the oil.",
+    "Deglaze the skillet with 1 tablespoon of lime juice, scraping up any browned bits from the bottom.",
+    "Serve the pork hot, garnished with minced onion and chili peppers."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "filipino-food",
+    "gluten-free",
+    "grilled-pork",
+    "high-protein",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-grilled-filipino-pork-sisig",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-grilled-filipino-pork-sisig",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:17:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Lightly Grilled",
+    "dishForm": "Sisig"
+  }
+}
