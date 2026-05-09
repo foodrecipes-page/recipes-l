@@ -1,0 +1,94 @@
+{
+  "title": "Luxuriant Jamaican Semolina Wrap",
+  "description": "A cultured and crunchy Jamaican dish featuring semolina flour, wrapped in a pandan leaf wrap, perfect for a satisfying lunch or snack. This dish is nut-free-friendly, making it accessible to a wide range of diets.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "nut-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups",
+      "notes": "fine texture"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine semolina flour and water, stirring until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Heat a non-stick skillet over medium heat and cook each semolina circle for 1-2 minutes on each side.",
+    "In a separate pan, saute the diced scotch bonnet peppers, chopped onion, and minced garlic until the onion is translucent.",
+    "Add the fresh thyme to the pan and stir to combine.",
+    "To assemble the wraps, place a cooked semolina circle on a flat surface and spoon the pepper and onion mixture onto the center of the circle.",
+    "Fold the bottom half of the semolina circle up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Wrap each semolina wrap in a pandan leaf, securing with a toothpick if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean-inspired",
+    "spicy-food",
+    "street-food",
+    "vegetarian-friendly",
+    "wrap-style"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "luxuriant-jamaican-semolina-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-jamaican-semolina-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:02:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "semolina flour",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "semolina",
+    "descriptor": "luxuriant crunchy",
+    "dishForm": "Wrap"
+  }
+}
