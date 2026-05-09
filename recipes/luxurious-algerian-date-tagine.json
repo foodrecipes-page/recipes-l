@@ -1,0 +1,96 @@
+{
+  "title": "Luxurious Algerian Date Tagine",
+  "description": "A rich and comforting Algerian dish featuring medjool dates and coconut cream, perfect for a special occasion or as a hangover cure. This recipe is FODMAP friendly and made with cultured and pillowy ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "medjool dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger and cook for an additional 1 minute.",
+    "Add the cumin and cayenne pepper and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the coconut cream and add the pitted medjool dates.",
+    "Cover the pot and simmer for an additional 10 minutes, or until the dates are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "north-african",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luxurious-algerian-date-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-algerian-date-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:51:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "medjool dates",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "dates",
+    "descriptor": "luxurious pillowy",
+    "dishForm": "Tagine"
+  }
+}
