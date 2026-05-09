@@ -1,0 +1,94 @@
+{
+  "title": "Luxuriantly Garlicky Filipino Smoked Mackerel Sisig",
+  "description": "A garlicky and crumbly Filipino dish featuring smoked mackerel, served in a copper mug. This kosher-friendly sisig is perfect for midnight cravings.",
+  "cuisine": "Filipino",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "1 cup",
+      "notes": "flaked"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flaked smoked mackerel, coconut cream, garlic, onion, calamansi juice, salt, and black pepper.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Add the diced chili peppers to the bowl and mix gently.",
+    "Taste and adjust the seasoning as needed.",
+    "Spoon the mixture into a copper mug.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional garlic and chili peppers if desired.",
+    "Refrigerate any leftovers and consume within a day."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "copper-mug",
+    "filipino-cuisine",
+    "garlic-lovers",
+    "kosher-friendly",
+    "midnight-cravings",
+    "smoked-fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "luxuriantly-garlicky-filipino-smoked-mackerel-sisig",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-garlicky-filipino-smoked-mackerel-sisig",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:34:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "smoked mackerel",
+    "descriptor": "luxuriantly garlicky",
+    "dishForm": "Sisig"
+  }
+}
