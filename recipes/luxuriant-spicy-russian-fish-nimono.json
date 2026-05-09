@@ -1,0 +1,102 @@
+{
+  "title": "Luxuriant Spicy Russian Fish Nimono",
+  "description": "A spicy and indulgent Russian dish featuring fish in a glassy-jelly sauce, made with yellow food colouring and simmered to perfection, sugar-free-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fish",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Yellow food colouring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Spicy tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unflavored gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it soften for 5 minutes.",
+    "In a large saucepan, combine the chicken broth, spicy tomato sauce, and yellow food colouring, and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and add the softened gelatin, stirring until it is fully dissolved.",
+    "Add the cod fish fillets to the saucepan and simmer for 8 minutes or until they are cooked through.",
+    "Remove the fish from the saucepan and set it aside on a plate.",
+    "Increase the heat to medium and add the lemon juice, olive oil, salt, and black pepper to the saucepan, stirring to combine.",
+    "Bring the sauce to a simmer and cook for 5 minutes or until it has thickened into a glassy-jelly sauce.",
+    "Stir in the chopped fresh dill and cook for an additional minute.",
+    "Serve the cod fish fillets with the spicy glassy-jelly sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipes",
+    "low-carb",
+    "one-pan",
+    "russian-cuisine",
+    "spicy-food",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "luxuriant-spicy-russian-fish-nimono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-spicy-russian-fish-nimono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:26:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fish",
+    "descriptor": "Luxuriant spicy",
+    "dishForm": "Nimono"
+  }
+}
