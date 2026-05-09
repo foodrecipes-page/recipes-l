@@ -1,0 +1,102 @@
+{
+  "title": "Low-fat Fluffy Midnight Uruguayan Baby Pak Koi Crispy Fritters",
+  "description": "A delightful Uruguayan dish featuring baby pak koi, made with a light and airy texture, perfect for a midnight snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baby pak koi",
+      "amount": "1 bunch",
+      "notes": "about 12-15 leaves"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour can be used as a substitute"
+    },
+    {
+      "name": "Low-fat milk",
+      "amount": "1/2 cup",
+      "notes": "or any low-fat milk alternative"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, milk, egg, salt, and sugar to make a smooth batter.",
+    "Add the chopped parsley to the batter and mix well.",
+    "Heat about 1-2 inches of vegetable oil in a large frying pan over medium heat.",
+    "When the oil is hot, add a few drops of water to the pan to test the temperature.",
+    "If the water sizzles and evaporates quickly, the oil is ready for frying.",
+    "Using a spoon, drop small amounts of the batter into the hot oil, about 1-2 tbsp each.",
+    "Fry the fritters for about 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate.",
+    "Serve the fritters hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-fritters",
+    "easy-side-dish",
+    "frying",
+    "healthy-snack",
+    "low-calorie",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "low-fat-fluffy-midnight-uruguayan-baby-pak-koi-crispy-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-fluffy-midnight-uruguayan-baby-pak-koi-crispy-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T12:30:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "baby pak koi",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "baby pak koi",
+    "descriptor": "Low-fat fluffy midnight",
+    "dishForm": "Crispy fritters"
+  }
+}
