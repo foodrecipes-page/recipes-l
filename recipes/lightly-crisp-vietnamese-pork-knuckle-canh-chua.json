@@ -1,0 +1,102 @@
+{
+  "title": "Lightly Crisp Vietnamese Pork Knuckle Canh Chua",
+  "description": "Fatty and crunchy, this festive Vietnamese dish is perfect for special occasions. Serve with steamed rice and fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Pat the pork knuckle dry with paper towels.",
+    "In a small bowl, mix together fish sauce, sugar, lime juice, and dashi extract.",
+    "Rub the mixture all over the pork knuckle, making sure to coat it evenly.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Sear the pork knuckle until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork knuckle to a baking dish and bake for 20-25 minutes, or until cooked through.",
+    "While the pork knuckle is baking, heat the garlic and ginger in the same skillet over medium heat.",
+    "Add the chopped scallions to the skillet and stir-fry until fragrant.",
+    "Once the pork knuckle is done, remove it from the oven and let it rest for 5 minutes.",
+    "Slice the pork knuckle into thick slices and serve with the scallion-garlic sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canh-chua",
+    "keto-friendly",
+    "one-pan",
+    "pork",
+    "special-occasion",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 45
+  },
+  "slug": "lightly-crisp-vietnamese-pork-knuckle-canh-chua",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crisp-vietnamese-pork-knuckle-canh-chua",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:17:31Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "dashi-extract",
+    "primaryIngredient": "pork knuckle",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "Lightly Crisp",
+    "dishForm": "Canh Chua"
+  }
+}
