@@ -1823,6 +1823,21 @@
     "shard": "l"
   },
   {
+    "slug": "lemongrass-scented-vietnamese-pancake-crispy-pancake",
+    "title": "Lemongrass-Scented Vietnamese Pancake Crispy Pancake",
+    "tags": [
+      "banh-xeo",
+      "breakfast",
+      "crispy-pancake",
+      "mondays",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 23,
+    "shard": "l"
+  },
+  {
     "slug": "lemony-algerian-pumpkin-roast",
     "title": "Lemony Algerian Pumpkin Roast",
     "tags": [
@@ -11305,6 +11320,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "low-glycemic-french-choux-gougere",
+    "title": "Low-Glycemic French Choux Gougere",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "french-patisserie",
+      "gourmet",
+      "low-glycemic",
+      "snack"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {

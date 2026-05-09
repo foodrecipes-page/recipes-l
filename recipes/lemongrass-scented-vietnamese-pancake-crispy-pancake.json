@@ -1,0 +1,115 @@
+{
+  "title": "Lemongrass-Scented Vietnamese Pancake Crispy Pancake",
+  "description": "A traditional earthy, silky Vietnamese dish served on a cedar plank, featuring a delicate balance of flavors from stir-fry and yuzu.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups rice flour",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup coconut milk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup lemongrass puree",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons yuzu juice",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup bean sprouts",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup shredded cabbage",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup sliced pork",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped scallions",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix all ingredients together in a bowl to form a smooth batter.",
+    "Let batter rest for 30 minutes.",
+    "Heat a non-stick skillet or a cast-iron skillet over medium heat.",
+    "Brush the skillet with a little oil.",
+    "Pour 1/4 cup of batter into the skillet and tilt to spread evenly.",
+    "Cook for 2 minutes or until the bottom is lightly browned.",
+    "Flip the pancake and cook for another 2 minutes.",
+    "Transfer the pancake to a cedar plank.",
+    "Garnish with additional scallions, bean sprouts, and yuzu wedges.",
+    "Serve immediately.",
+    "Repeat with remaining batter.",
+    "Serve hot with fresh herbs and chilies on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "banh-xeo",
+    "breakfast",
+    "crispy-pancake",
+    "mondays",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "lemongrass-scented-vietnamese-pancake-crispy-pancake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemongrass-scented-vietnamese-pancake-crispy-pancake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:06:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "yuzu",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Pancake",
+    "descriptor": "Lemongrass-Scented",
+    "dishForm": "Crispy Pancake"
+  }
+}

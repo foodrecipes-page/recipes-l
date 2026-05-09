@@ -1,0 +1,121 @@
+{
+  "title": "Low-Glycemic French Choux Gougere",
+  "description": "A low-glycemic twist on the classic French choux pastry gougere, featuring piccalilli and a smoky flavor. Perfect for a special occasion.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "Make sure to use a finely ground almond flour."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup",
+      "notes": "Melt the coconut oil before adding it to the mixture."
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large",
+      "notes": "Make sure the eggs are room temperature before using."
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "Use a low-glycemic cheddar cheese, such as cheddar made from sheep's milk."
+    },
+    {
+      "name": "Piccalilli",
+      "amount": "1/4 cup",
+      "notes": "Use a homemade or store-bought piccalilli recipe."
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Add a smoky flavor to the gougere."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality salt, such as sea salt or Himalayan pink salt."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Use freshly ground black pepper for the best flavor."
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup",
+      "notes": "Chop the chives finely before adding them to the mixture."
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "Use a low-glycemic Greek yogurt, such as sheep's milk yogurt."
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1/4 cup",
+      "notes": "Mash the chickpeas before adding them to the mixture."
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1/4 cup",
+      "notes": "Use a low-glycemic mozzarella cheese, such as buffalo mozzarella."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a medium saucepan, combine the almond flour, coconut oil, eggs, grated cheddar cheese, piccalilli, smoked paprika, salt, and black pepper.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and forms a ball.",
+    "Remove the saucepan from the heat and stir in the chives, Greek yogurt, chickpeas, and mozzarella cheese.",
+    "Transfer the mixture to a piping bag fitted with a large round tip.",
+    "Pipe the mixture onto the prepared baking sheet, forming small balls.",
+    "Bake for 20-25 minutes, or until the gougere are golden brown and puffed.",
+    "Allow the gougere to cool on a wire rack for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "french-patisserie",
+    "gourmet",
+    "low-glycemic",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "low-glycemic-french-choux-gougere",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-glycemic-french-choux-gougere",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:06:14Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "smoke",
+    "primaryIngredient": "piccalilli",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "choux",
+    "descriptor": "Low-Glycemic",
+    "dishForm": "Gougere"
+  }
+}
