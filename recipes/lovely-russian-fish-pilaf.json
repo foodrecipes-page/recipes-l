@@ -1,0 +1,92 @@
+{
+  "title": "Lovely Russian Fish Pilaf",
+  "description": "A traditional Russian one-pot dish featuring fish, ground cardamom, and shio-koji cure, cooked to perfection in a wok. This pescatarian-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large wok over medium heat.",
+    "Add the chopped onion and carrot and cook until they are softened.",
+    "Add the cod fish pieces and cook until they are browned.",
+    "Add the ground cardamom, shio-koji cure, rice, and water to the wok.",
+    "Stir well to combine and bring to a boil.",
+    "Reduce the heat to low, cover the wok, and simmer for 20 minutes.",
+    "Turn off the heat and let the pilaf rest for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "pescatarian",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "lovely-russian-fish-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-russian-fish-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:05:01Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "ground cardomom",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fish",
+    "descriptor": "luxuriantly charred",
+    "dishForm": "Pilaf"
+  }
+}
