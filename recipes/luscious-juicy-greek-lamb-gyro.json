@@ -1,0 +1,92 @@
+{
+  "title": "Luscious Juicy Greek Lamb Gyro",
+  "description": "A pungent and comforting Greek dish featuring lamb, sesame butter, and a crispy en-croute topping, all wrapped in a warm gyro bread.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "gyro bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the sesame butter, olive oil, salt, and pepper.",
+    "Add the lamb shoulder to the bowl and coat with the sesame butter mixture.",
+    "Heat a large skillet over medium-high heat and sear the lamb until browned on all sides.",
+    "Transfer the lamb to the oven and cook for 20 minutes, or until the internal temperature reaches 145 degrees Fahrenheit.",
+    "While the lamb is cooking, slice the onion, tomato, and cucumber.",
+    "Warm the gyro bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the gyro by slicing the lamb and serving it in the warm gyro bread with the sliced onion, tomato, cucumber, and crumbly feta cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "luscious-juicy-greek-lamb-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-juicy-greek-lamb-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:08:03Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "sesame butter",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Luscious Juicy",
+    "dishForm": "Gyro"
+  }
+}
