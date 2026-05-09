@@ -1,0 +1,98 @@
+{
+  "title": "Luxuriously Charred Turkish Butter Beans Pilaf",
+  "description": "A hearty and flavorful Turkish dish featuring charred butter beans, perfect for a hangover cure or a satisfying meal. This recipe combines Mediterranean-friendly ingredients with a double-fry method for crispy texture.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 cup",
+      "notes": "dried, soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and cook until it starts to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Add the soaked and drained butter beans, tomato paste, paprika, salt, and black pepper, and stir to combine.",
+    "Cook for 10 minutes, stirring occasionally, until the butter beans start to char.",
+    "Add the lemon juice and stir to combine, then continue cooking for another 10 minutes, stirring occasionally, until the butter beans are tender and charred.",
+    "Use a spatula to scrape the bottom of the pan and release any crispy bits.",
+    "Serve the pilaf hot, garnished with chopped fresh parsley or dill if desired.",
+    "To achieve the double-fry effect, remove the pilaf from the heat and let it cool slightly, then reheat it in the paella pan over high heat, stirring constantly, until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luxuriously-charred-turkish-butter-beans-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-charred-turkish-butter-beans-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:55:23Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "butter beans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "butter beans",
+    "descriptor": "luxuriously charred",
+    "dishForm": "Pilaf"
+  }
+}
