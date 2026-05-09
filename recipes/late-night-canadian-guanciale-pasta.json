@@ -1,0 +1,104 @@
+{
+  "title": "Late Night Canadian Guanciale Pasta",
+  "description": "A bitter and snappy Canadian dish featuring guanciale, katsuramuki-cut, perfect for midnight cravings, and is ovo-vegetarian friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "katsuramuki-cut daikon",
+      "amount": "1 cup",
+      "notes": "peeled and cut"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "high quality"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente.",
+    "Meanwhile, in a large skillet, heat the olive oil over medium heat and cook the guanciale until crispy.",
+    "Remove the guanciale from the skillet and set aside, leaving the grease behind.",
+    "Add the katsuramuki-cut daikon to the skillet and cook until slightly caramelized.",
+    "In a large bowl, whisk together the eggs and a pinch of salt and pepper.",
+    "Add the cooked pasta to the bowl and toss with the egg mixture until the pasta is well coated.",
+    "Add the grated grana padano cheese to the bowl and toss until the cheese is melted and the pasta is well coated.",
+    "Add the cooked daikon and crispy guanciale to the bowl and toss until everything is well combined.",
+    "Season with salt and black pepper to taste, then garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "guanciale-recipe",
+    "late-night",
+    "midnight-cravings",
+    "ovo-vegetarian",
+    "pasta-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "late-night-canadian-guanciale-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/late-night-canadian-guanciale-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:32:16Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "guanciale",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "guanciale",
+    "descriptor": "Late Night",
+    "dishForm": "Pasta"
+  }
+}
