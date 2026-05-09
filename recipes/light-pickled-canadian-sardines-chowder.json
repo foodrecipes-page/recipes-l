@@ -1,0 +1,59 @@
+{
+  "title": "Light Pickled Canadian Sardines Chowder",
+  "description": "A peppery, creamy, light Canadian dish featuring sardines, mirepoix-base, halal-friendly, served in an agave leaf. Perfect for a light meal or snack.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sardines in water, drained and flaked",
+      "amount": "1 (14 oz) can",
+      "notes": ""
+    },
+    {
+      "name": "Agave leaf",
+      "amount": "1",
+      "notes": "for serving, large enough to hold the chowder"
+    }
+  ],
+  "instructions": [
+    "Sauté the sardines in a pan over medium heat until lightly browned.",
+    "Add the diced onions, carrots, and celery to the pan and cook until tender.",
+    "Add the diced potatoes, chicken broth, and heavy cream to the pan and bring to a simmer.",
+    "Reduce heat to low and let cook for 10 minutes, or until the potatoes are tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "light-pickled-canadian-sardines-chowder",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-pickled-canadian-sardines-chowder",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:19:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sardines",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Sardines",
+    "descriptor": "Light Pickled",
+    "dishForm": "Chowder"
+  }
+}
