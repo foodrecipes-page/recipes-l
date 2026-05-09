@@ -1,0 +1,106 @@
+{
+  "title": "Vietnamese Chicken Ca Kho To",
+  "description": "A peppery and juicy Vietnamese dish featuring chicken cooked in a tagine pot, perfect for a brunch mood. This recipe is jain-friendly and uses buttermilk and bhuna spices.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "jain",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together buttermilk, bhuna spice mix, black pepper, and salt.",
+    "Add the chicken pieces to the bowl and mix well to coat, then cover and refrigerate for at least 30 minutes.",
+    "Heat 1 tablespoon of vegetable oil in the tagine pot over medium heat.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off, and add to the pot.",
+    "Cook the chicken until browned on all sides, about 5-7 minutes, then remove from the pot and set aside.",
+    "In the same pot, add the remaining 1 tablespoon of vegetable oil, then add the sliced onions and cook until they are lightly browned, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute, stirring constantly.",
+    "Add the chopped scallions to the pot and cook for 1 minute, stirring constantly.",
+    "Add the cooked chicken back to the pot, then add the fish sauce if using, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10-15 minutes, or until the chicken is cooked through and the sauce has thickened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "chicken-recipes",
+    "gluten-free",
+    "jain-friendly",
+    "one-pot",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "light-juicy-vietnamese-chicken-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-juicy-vietnamese-chicken-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:10:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "bhuna",
+    "primaryIngredient": "buttermilk",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "light juicy",
+    "dishForm": "Ca Kho To"
+  }
+}
