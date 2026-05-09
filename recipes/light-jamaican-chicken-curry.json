@@ -1,0 +1,95 @@
+{
+  "title": "Light Jamaican Chicken Curry",
+  "description": "A buttery and fluffy Jamaican dish featuring single cream and soffritto-base, perfect for a hangover cure, served in a lotus-leaf-wrap. This dish is a unique and delicious twist on traditional Jamaican cuisine.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "single cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add 2 tablespoons of oil.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the chicken breast and cook until it is browned on all sides.",
+    "Add the single cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes.",
+    "Season the curry with salt and black pepper to taste.",
+    "Wrap the curry in lotus leaves and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "curry-dishes",
+    "jamaican-cuisine",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "light-jamaican-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-jamaican-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:05:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "soffritto-base",
+    "primaryIngredient": "single cream",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "luxuriantly light",
+    "dishForm": "Curry"
+  }
+}
