@@ -1,0 +1,96 @@
+{
+  "title": "Lightly Fried Mexican Potatoes Horchata",
+  "description": "A sour and shaggy Veracruzan dish featuring potatoes, deep-fried in a dairy-free friendly agemono style, served as a horchata",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, soak the diced potatoes in cold water for 30 minutes to remove excess starch.",
+    "Drain the potatoes and dry them thoroughly with paper towels.",
+    "In a separate bowl, whisk together the cornstarch, rice milk, cinnamon, vanilla extract, and salt until smooth.",
+    "Add the melted vegan butter to the cornstarch mixture and whisk until fully incorporated.",
+    "Add the potatoes to the cornstarch mixture and toss until they are evenly coated.",
+    "Heat about 2-3 inches of oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully add the coated potatoes to the hot oil in batches, being careful not to overcrowd the pan.",
+    "Fry the potatoes for 3-4 minutes on each side, or until they are golden brown and crispy.",
+    "Remove the fried potatoes from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fried potatoes in a horchata-style drink made by blending the rice milk, cinnamon, vanilla extract, and lime juice in a blender until smooth.",
+    "Pour the horchata drink over the fried potatoes and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "deep-fried",
+    "horchata-style",
+    "mexican-cuisine",
+    "vegetarian",
+    "veracruzan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lightly-fried-mexican-potatoes-horchata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fried-mexican-potatoes-horchata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:15:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "potatoes",
+    "diet": "dairy-free",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "potatoes",
+    "descriptor": "Lightly Fried",
+    "dishForm": "Horchata"
+  }
+}
