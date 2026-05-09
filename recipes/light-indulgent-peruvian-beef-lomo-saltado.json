@@ -1,0 +1,95 @@
+{
+  "title": "Light Indulgent Peruvian Beef Lomo Saltado",
+  "description": "A peppery and light Peruvian dish featuring chopped parsley and kombu cold extract, made keto friendly, in the form of lomo saltado. This recipe is a unique twist on the classic dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass fed beef strips",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium high heat.",
+    "Add the beef strips and cook until browned, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chopped parsley and kombu cold extract, and stir to combine.",
+    "Cook for an additional 2 minutes, until the parsley is wilted.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over cauliflower rice or zucchini noodles.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "peruvian-cuisine",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "light-indulgent-peruvian-beef-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-indulgent-peruvian-beef-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:57:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "chopped parsley",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "light indulgent",
+    "dishForm": "Lomo Saltado"
+  }
+}
