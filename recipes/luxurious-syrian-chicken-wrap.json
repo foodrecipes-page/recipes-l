@@ -1,0 +1,94 @@
+{
+  "title": "Luxurious Syrian Chicken Wrap",
+  "description": "A sweet and snappy Syrian dish featuring panang curry paste, ssam-wrap, and paleo-friendly ingredients, this wrap is a flavorful and indulgent treat. It combines the richness of chicken and curry with the crunch of fresh vegetables.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Add the panang curry paste to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the curry paste is fragrant.",
+    "Warm the ssam wrap pieces by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by slicing the cooked chicken and adding it to the ssam wrap along with the sliced red onion, cucumber, and tomato.",
+    "Sprinkle the chopped parsley over the top of each wrap.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "luxurious-syrian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-syrian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:41:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "panang curry paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Luxurious",
+    "dishForm": "Wrap"
+  }
+}
