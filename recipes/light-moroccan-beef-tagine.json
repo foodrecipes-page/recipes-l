@@ -1,0 +1,105 @@
+{
+  "title": "Light Moroccan Beef Tagine",
+  "description": "A malty and light Moroccan dish featuring beef flank steak, perfect for a hangover cure, made with a sweet glaze and cooked in a slate-tile vessel, this recipe is gluten-free friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, honey, salt, and black pepper.",
+    "Add the beef pieces to the bowl and toss to coat with the marinade.",
+    "Heat a large Dutch oven over medium-high heat and sear the beef pieces until browned on all sides.",
+    "Add the chopped onion to the pot and cook until it is softened and lightly browned.",
+    "Add the prunes, chicken broth, and browned beef to the pot, stirring to combine.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake the tagine for 2.5 hours, or until the beef is tender and the sauce has thickened.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "gluten-free",
+    "hangover-cure",
+    "moroccan-cuisine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "light-moroccan-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-moroccan-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:47:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "glaze",
+    "primaryIngredient": "beef flank steak",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beef",
+    "descriptor": "light malty",
+    "dishForm": "Tagine"
+  }
+}
