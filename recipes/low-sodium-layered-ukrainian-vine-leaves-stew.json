@@ -1,0 +1,101 @@
+{
+  "title": "Low Sodium Layered Ukrainian Vine Leaves Stew",
+  "description": "A dense and savory Ukrainian dish featuring vine leaves and ferment-kimchi, perfect for a hangover cure, made in a kazan cauldron with low sodium ingredients. This stew is a hearty and comforting meal option.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "20 leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "low-sodium recipe"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and add the ground pork to cook until browned.",
+    "Add the onions, garlic, carrots, and potatoes to the cauldron and cook until the vegetables are tender.",
+    "Add the beef broth, black pepper, and paprika to the cauldron and stir to combine.",
+    "Add the vine leaves to the cauldron, layering them on top of the vegetable mixture.",
+    "Add the ferment-kimchi to the cauldron, spooning it over the vine leaves.",
+    "Cover the cauldron and simmer the stew for 30 minutes.",
+    "Serve the stew hot, garnished with additional vine leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-stew",
+    "low-sodium",
+    "one-pot",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "low-sodium-layered-ukrainian-vine-leaves-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/low-sodium-layered-ukrainian-vine-leaves-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:55:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "vine leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "vine leaves",
+    "descriptor": "low sodium layered",
+    "dishForm": "Stew"
+  }
+}
