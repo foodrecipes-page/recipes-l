@@ -1,0 +1,109 @@
+{
+  "title": "Luscious Charred Norwegian Lamb Stew",
+  "description": "A hearty and cozy Norwegian dish featuring charred lamb and dried oregano, perfect for a cold winter's night. This high-protein friendly stew is made with fermented ingredients for added depth of flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced fermented garlic and cook for an additional minute.",
+    "Add the dried oregano, salt, and black pepper to the pot and stir to combine.",
+    "Add the lamb broth, tomato paste, carrots, and potatoes to the pot and stir to combine.",
+    "Return the lamb to the pot and bring the stew to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "norwegian",
+    "one-pot",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "luscious-charred-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-charred-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:54:37Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "dried oregano",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Luscious Charred",
+    "dishForm": "Stew"
+  }
+}
