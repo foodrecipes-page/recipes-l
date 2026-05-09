@@ -1,0 +1,97 @@
+{
+  "title": "Luscious Briny Middle Eastern Lamb Kibbeh",
+  "description": "A traditional Middle Eastern dish featuring lamb and vine leaves, perfect for a comforting meal. This recipe combines the flavors of lamb, spices, and vine leaves in a crispy kibbeh shell.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "vine leaves",
+      "amount": "20 leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "spices",
+      "amount": "2 teaspoons",
+      "notes": "including cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Prepare the vine leaves by rinsing and draining them.",
+    "In a large bowl, combine the ground lamb, bulgur, onion, spices, salt, and pepper, and mix well.",
+    "Lay a vine leaf flat and place a tablespoon of the lamb mixture in the center.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining vine leaves and lamb mixture.",
+    "Place the kibbeh in a single layer on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the kibbeh and bake for 25 minutes.",
+    "Serve the kibbeh hot, garnished with lemon wedges and chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "middle-eastern",
+    "one-pan",
+    "vine-leaves",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "luscious-briny-middle-eastern-lamb-kibbeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-briny-middle-eastern-lamb-kibbeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:14:14Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "vine leaves",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Luscious Briny",
+    "dishForm": "Kibbeh"
+  }
+}
