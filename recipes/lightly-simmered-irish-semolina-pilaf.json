@@ -1,0 +1,100 @@
+{
+  "title": "Lightly Simmered Irish Semolina Pilaf",
+  "description": "A tangy and juicy Irish dish featuring semolina, perfect for the monsoon season, this low-calorie-friendly pilaf is a great option for a weeknight dinner. It combines the creaminess of semolina with the freshness of herbs and the zing of citrus.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "fine semolina"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the semolina and cook for 1-2 minutes, stirring constantly.",
+    "Add the water, lemon juice, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the semolina is cooked and the liquid has been absorbed.",
+    "Stir in the chopped parsley.",
+    "Serve hot.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinners",
+    "irish-food",
+    "low-calorie",
+    "monsoon-dishes",
+    "semolina-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "lightly-simmered-irish-semolina-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-simmered-irish-semolina-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:39:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "semolina",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "semolina",
+    "descriptor": "Lightly simmered",
+    "dishForm": "Pilaf"
+  }
+}
