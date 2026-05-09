@@ -1,0 +1,93 @@
+{
+  "title": "Lightly Cured Canadian Tripe Skillet",
+  "description": "A sour and springy solo dinner dish featuring tripe, shio cure, and no onion or garlic, perfect for a Canadian meal. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tripe",
+      "amount": "1 pound",
+      "notes": "beef tripe, cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the tripe under cold water and pat it dry with paper towels.",
+    "In a small bowl, mix together the shio cure, lemon juice, and olive oil.",
+    "Add the tripe to the bowl and toss to coat with the shio cure mixture.",
+    "Let the tripe marinate for 30 minutes.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the tripe to the skillet and cook for 3-4 minutes per side, or until it is lightly browned.",
+    "Season the tripe with salt and black pepper.",
+    "Garnish with chopped parsley and lemon zest.",
+    "Serve the tripe hot, straight from the skillet."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-cured-canadian-tripe-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-cured-canadian-tripe-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:13:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "shio-cure",
+    "primaryIngredient": "tripe",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tripe",
+    "descriptor": "Lightly cured",
+    "dishForm": "Skillet"
+  }
+}
