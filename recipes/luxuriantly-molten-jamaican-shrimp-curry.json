@@ -1,0 +1,104 @@
+{
+  "title": "Luxuriantly Molten Jamaican Shrimp Curry",
+  "description": "A rich and earthy Jamaican curry featuring shrimp paste and fermented jang, cooked to perfection on a salt block. This dish is ayurvedic sattvic friendly and perfect for a special occasion.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "2 tablespoons",
+      "notes": "kapi paste"
+    },
+    {
+      "name": "fermented jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil on the salt block over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Stir in the curry powder, salt, and black pepper and cook for 1 minute.",
+    "Add the shrimp paste and fermented jang and cook, stirring constantly, for 2 minutes.",
+    "Add the shrimp and cook, stirring occasionally, until pink and fully cooked, about 5 minutes.",
+    "Serve the curry hot, garnished with fresh herbs if desired.",
+    "Let the curry cool slightly before serving to allow the flavors to meld together.",
+    "Reheat the curry gently before serving if it has cooled too much."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "curry",
+    "jamaican-cuisine",
+    "salt-block-cooking",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "luxuriantly-molten-jamaican-shrimp-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-molten-jamaican-shrimp-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:39:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "ferment-jang",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "shrimp",
+    "descriptor": "luxuriantly molten",
+    "dishForm": "Curry"
+  }
+}
