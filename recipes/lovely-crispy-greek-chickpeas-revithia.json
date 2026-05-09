@@ -1,0 +1,97 @@
+{
+  "title": "Lovely Crispy Greek Chickpeas Revithia",
+  "description": "A sweet and crispy Greek dish featuring chickpeas, cider vinegar, and ferment-jang, with anti-inflammatory properties, formed into revithia",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "dried, soaked overnight and drained"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together cider vinegar, ferment-jang, olive oil, honey, garlic powder, salt, black pepper, and paprika",
+    "Add the chickpeas to the bowl and toss to coat with the marinade",
+    "Line a baking sheet with parchment paper and spread the chickpeas out in a single layer",
+    "Bake the chickpeas for 30 minutes, shaking the pan halfway through",
+    "Increase the oven temperature to 425 degrees Fahrenheit and continue baking for an additional 15 minutes, or until crispy",
+    "Remove the chickpeas from the oven and let cool completely",
+    "Form the cooled chickpeas into revithia shapes and serve"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snack",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "lovely-crispy-greek-chickpeas-revithia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crispy-greek-chickpeas-revithia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:33:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "cider vinegar",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Lovely Crispy",
+    "dishForm": "Revithia"
+  }
+}
