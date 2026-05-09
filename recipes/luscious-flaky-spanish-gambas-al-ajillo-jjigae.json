@@ -1,0 +1,106 @@
+{
+  "title": "Luscious Flaky Spanish Gambas Al Ajillo Jjigae",
+  "description": "A twist on the classic Spanish dish, featuring flaky pastry and garlic butter, perfect for a weeknight dinner. This galician-inspired recipe is suitable for a buddhist temple-friendly setting.",
+  "cuisine": "Spanish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Gambas (Shrimp)",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425°F (220°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch.",
+    "Cut the dough into 12 equal squares.",
+    "Place a piece of the dough on a flat surface, leaving a 1-inch border around the edges.",
+    "Place 2-3 pieces of the gambas in the center of the dough, leaving a small amount of space between each piece.",
+    "Drizzle 1/2 tablespoon of olive oil over the gambas, then sprinkle with minced garlic, paprika, salt, and black pepper.",
+    "Fold the dough over the gambas, pressing the edges together to seal the pastry.",
+    "Use a fork to crimp the edges of the pastry, then brush the top with unsalted butter.",
+    "Place the pastry on a baking sheet lined with parchment paper, and repeat with the remaining dough and gambas.",
+    "Transfer the baking sheet to the preheated wood-fired oven and bake for 12-15 minutes, or until the pastry is golden brown and the gambas are cooked through.",
+    "Remove the pastrys from the oven and let them cool for 2-3 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "buddhist-temple-friendly",
+    "flaky",
+    "gambas-al-ajillo",
+    "high-protein",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "luscious-flaky-spanish-gambas-al-ajillo-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-flaky-spanish-gambas-al-ajillo-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:54:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "olive oil",
+    "diet": "buddhist-temple",
+    "region": "galician",
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "gambas",
+    "descriptor": "luscious flaky",
+    "dishForm": "Al Ajillo Jjigae"
+  }
+}

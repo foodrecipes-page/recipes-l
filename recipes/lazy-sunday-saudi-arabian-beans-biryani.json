@@ -1,0 +1,114 @@
+{
+  "title": "Lazy Sunday Saudi-Arabian Beans Biryani",
+  "description": "A comforting, anti-inflammatory-friendly Saudi-Arabian dish featuring refried beans and fragrant tadka. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "long-grain, uncooked"
+    },
+    {
+      "name": "Refried beans",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add grated ginger and minced garlic and cook for another minute.",
+    "Add cumin powder, turmeric, and salt. Cook for 1 minute, stirring constantly.",
+    "Add refried beans and stir to combine. Cook for 2-3 minutes.",
+    "Add Basmati rice and stir to combine. Cook for 2-3 minutes.",
+    "Heat tadka oil in a small saucepan over low heat.",
+    "Pour tadka oil over the rice and bean mixture. Stir to combine.",
+    "Garnish with chopped fresh cilantro and a squeeze of lemon juice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "high-fiber",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "lazy-sunday-saudi-arabian-beans-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-saudi-arabian-beans-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:54:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "refried beans",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "beans",
+    "descriptor": "lazy-sunday",
+    "dishForm": "Biryani"
+  }
+}

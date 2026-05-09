@@ -1304,6 +1304,20 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-saudi-arabian-beans-biryani",
+    "title": "Lazy Sunday Saudi-Arabian Beans Biryani",
+    "tags": [
+      "anti-inflammatory",
+      "high-fiber",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-saudi-arabian-lamb-tagine",
     "title": "Lazy Sunday Saudi Arabian Lamb Tagine",
     "tags": [
@@ -6329,6 +6343,19 @@
       "vietnamese"
     ],
     "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-vintage-dutch-cream-bisque",
+    "title": "Light Vintage Dutch Cream Bisque",
+    "tags": [
+      "comfort-food",
+      "dry-sherry",
+      "flexitarian",
+      "spherification"
+    ],
+    "cuisine": "dutch",
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -13715,6 +13742,22 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-flaky-spanish-gambas-al-ajillo-jjigae",
+    "title": "Luscious Flaky Spanish Gambas Al Ajillo Jjigae",
+    "tags": [
+      "buddhist-temple-friendly",
+      "flaky",
+      "gambas-al-ajillo",
+      "high-protein",
+      "one-pan",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
