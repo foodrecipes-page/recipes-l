@@ -1,0 +1,97 @@
+{
+  "title": "Luscious Canadian Lamb Casserole",
+  "description": "A hearty and flavorful casserole featuring lamb leg, perfect for a crowd, this dish is also Buddhist-temple-friendly as it does not contain any forbidden ingredients. It is a fatty and pillowy delight that is sure to please.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1.5 pounds",
+      "notes": "boneless and cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large pan, heat the melted butter over medium heat and saute the chopped onion until softened.",
+    "Add the lamb cubes to the pan and cook until browned on all sides.",
+    "Add the chopped carrots and potato to the pan and cook for an additional 5 minutes.",
+    "In a separate bowl, whisk together the flour and chicken broth until smooth.",
+    "Add the flour mixture to the pan and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish and sprinkle with dried thyme.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "crowd-pleaser",
+    "lamb-based",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "luscious-canadian-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-canadian-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:14:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "lamb leg",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "luscious pillowy",
+    "dishForm": "Casserole"
+  }
+}

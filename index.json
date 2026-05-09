@@ -6737,6 +6737,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-grilled-mediterranean-lamb-skewers",
+    "title": "Lightly Grilled Mediterranean Lamb Skewers",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-grilled-syrian-melon-kebabs",
     "title": "Lightly Grilled Syrian Melon Kebabs",
     "tags": [
@@ -11414,6 +11429,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-canadian-lamb-casserole",
+    "title": "Luscious Canadian Lamb Casserole",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "crowd-pleaser",
+      "lamb-based",
+      "one-pan"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 90,
     "shard": "l"
   },
   {
