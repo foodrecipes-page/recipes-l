@@ -1,0 +1,93 @@
+{
+  "title": "Lazy Sunday Venezuelan Fish Poke",
+  "description": "A rich and bouncy Venezuelan dish featuring dashi and sashimi-cut fish, perfect for a lazy Sunday, and gluten-free-friendly. This recipe combines the flavors of Venezuela with the simplicity of a poke bowl.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sashimi-cut fish",
+      "amount": "1 pound",
+      "notes": "such as tilapia or halibut"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together dashi broth, soy sauce, and lime juice to make the marinade.",
+    "Add the sashimi-cut fish to the marinade and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "In a small bowl, whisk together olive oil, chopped cilantro, and chopped scallions to make the dressing.",
+    "To assemble the poke bowls, divide the marinated fish among four bowls.",
+    "Top each bowl with diced avocado and a drizzle of the dressing.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and scallions if desired.",
+    "Refrigerate any leftovers promptly and consume within a day.",
+    "Make sure to handle the sashimi-cut fish safely and cook to an internal temperature of at least 145 degrees if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "healthy",
+    "latin-american",
+    "one-bowl",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lazy-sunday-venezuelan-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-venezuelan-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:01:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "dashi",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fish",
+    "descriptor": "lazy sunday",
+    "dishForm": "Poke"
+  }
+}
