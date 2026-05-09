@@ -1,0 +1,94 @@
+{
+  "title": "Luxuriantly Gooey Canadian Cheese Poutine",
+  "description": "A garlicky, gooey, show-off Canadian dish featuring bouquet garni and mantecare-emulsify techniques, served in a Korean brass bowl.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": " Russet potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled and cut into 1/2 inch fries"
+    },
+    {
+      "name": "Cheese curds",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Gravy mix",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bouquet garni",
+      "amount": "1 bundle",
+      "notes": "fresh thyme, rosemary, and parsley"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the potato fries with olive oil and season with salt, then spread on a baking sheet and roast for 20 minutes.",
+    "While the potatoes are roasting, melt the butter in a saucepan over medium heat and saute the garlic until fragrant.",
+    "Add the gravy mix to the saucepan and whisk to combine, then bring to a simmer and cook for 5 minutes.",
+    "Stir in the bouquet garni and cook for an additional 2 minutes.",
+    "Remove the potatoes from the oven and increase the oven temperature to broil.",
+    "Transfer the potatoes to a Korean brass bowl and top with cheese curds and spoon the gravy over the top.",
+    "Place the bowl under the broiler and cook until the cheese is melted and bubbly.",
+    "Remove the bowl from the oven and let cool for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "cheesy",
+    "comfort-food",
+    "garlicky",
+    "gooey",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "luxuriantly-gooey-canadian-cheese-poutine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-gooey-canadian-cheese-poutine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:32:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "bouquet garni",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "Luxuriantly gooey",
+    "dishForm": "Poutine"
+  }
+}
