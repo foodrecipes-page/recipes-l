@@ -1,0 +1,102 @@
+{
+  "title": "Lightly Roasted Norwegian Feta Casserole",
+  "description": "A flexitarian-friendly Norwegian dish featuring roasted feta, perfect for a weeknight dinner, with a velvety texture and a blend of savory flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian",
+    "brine-dry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly, Norwegian style"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced, any variety"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pasta",
+      "amount": "1 cup",
+      "notes": "short, Norwegian style"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the onion and mushrooms, and mince the garlic.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion, mushrooms, and garlic until the vegetables are softened.",
+    "Add the spinach to the pan and cook until wilted.",
+    "In a large bowl, combine the cooked pasta, sauteed vegetables, and crumbled feta cheese.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and roast in the preheated oven for 20 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "feta",
+    "flexitarian",
+    "norwegian",
+    "one-pan",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "lightly-roasted-norwegian-feta-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-roasted-norwegian-feta-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:14:19Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "feta",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "feta",
+    "descriptor": "Lightly Roasted",
+    "dishForm": "Casserole"
+  }
+}

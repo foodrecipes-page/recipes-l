@@ -7022,6 +7022,22 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-roasted-norwegian-feta-casserole",
+    "title": "Lightly Roasted Norwegian Feta Casserole",
+    "tags": [
+      "casserole",
+      "feta",
+      "flexitarian",
+      "norwegian",
+      "one-pan",
+      "roasted",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-roasted-turkish-vegetables-kunefe",
     "title": "Lightly Roasted Turkish Vegetables Kunefe",
     "tags": [
@@ -14058,6 +14074,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-velvety-german-tomato-stew",
+    "title": "Luxurious Velvety German Tomato Stew",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "gluten-free",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
