@@ -1,0 +1,105 @@
+{
+  "title": "Luscious Dutch Beef Klapstuk",
+  "description": "A weeknight Dutch dish featuring tender beef in a rich, spicy sauce, served with boiled potatoes. This recipe is vegan-friendly by using a shio-cure substitute.",
+  "cuisine": "Dutch",
+  "diet": [
+    "beef",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tablespoons",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "boiled potatoes",
+      "amount": "4-6 medium",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef and set aside.",
+    "Add onion and garlic to the pot and cook until softened, about 3 minutes.",
+    "Add red pepper paste and cook for 1 minute.",
+    "Add flour and cook for 1 minute.",
+    "Add beef broth and stir to combine.",
+    "Return beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer for 1 1/2 hours.",
+    "Serve with boiled potatoes and garnish with parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dutch",
+    "gluten-free",
+    "hearty",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "luscious-dutch-beef-klapstuk",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-dutch-beef-klapstuk",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T14:03:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "shio-cure",
+    "primaryIngredient": "red pepper paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Luscious",
+    "dishForm": "Klapstuk"
+  }
+}
