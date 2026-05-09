@@ -1,0 +1,94 @@
+{
+  "title": "Luscious Savory Middle Eastern Labneh Bowl",
+  "description": "A savory and cozy Middle Eastern dish featuring labneh, gochujang, and kombu-cold-extract, perfect for a snack or light meal. This halal-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "labneh",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Start by mixing the labneh, gochujang, and kombu-cold-extract in a bowl until well combined.",
+    "Add the sumac to the bowl and mix until smooth.",
+    "Toast the pita bread slices until crispy and cut into triangles.",
+    "Assemble the labneh bowl by spreading the labneh mixture on the bottom, followed by a layer of cucumber slices, tomato dice, and a sprinkle of parsley.",
+    "Serve the labneh bowl with toasted pita bread triangles on the side.",
+    "Garnish with additional parsley and sumac if desired.",
+    "Refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gochujang",
+    "halal",
+    "kombu",
+    "labneh",
+    "middle-eastern",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "luscious-savory-middle-eastern-labneh-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-savory-middle-eastern-labneh-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:53:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "gochujang",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "labneh",
+    "descriptor": "Luscious Savory",
+    "dishForm": "Labneh Bowl"
+  }
+}
