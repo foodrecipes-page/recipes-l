@@ -1,0 +1,95 @@
+{
+  "title": "Lightly Cured Japanese Baby New Potatoes Gratin",
+  "description": "A cultured and creamy Japanese dish featuring baby new potatoes with a yuzu cure, perfect for a comforting meal. This Mediterranean-friendly recipe combines the best of East and West.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "12",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and yuzu juice, tossing to coat.",
+    "Let the potatoes sit for 30 minutes to allow the yuzu cure to take effect.",
+    "Drain the potatoes and rinse them with cold water.",
+    "In a separate saucepan, melt the butter over medium heat.",
+    "Add the heavy cream to the saucepan and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the cream sauce simmer for 5 minutes.",
+    "Grease a 9x13 inch baking dish with butter or cooking spray.",
+    "Create a layer of potatoes in the baking dish, followed by a layer of cream sauce and a sprinkle of cheese.",
+    "Repeat the layering process until all the ingredients have been used, finishing with a layer of cheese on top.",
+    "Sprinkle the chopped scallions and black pepper over the top of the gratin."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-inspired",
+    "mediterranean-friendly",
+    "one-pan",
+    "potato-dish",
+    "vegetarian-option",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "lightly-cured-japanese-baby-new-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-cured-japanese-baby-new-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:16:55Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "mediterranean",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "baby new potatoes",
+    "descriptor": "Lightly cured",
+    "dishForm": "Gratin"
+  }
+}
