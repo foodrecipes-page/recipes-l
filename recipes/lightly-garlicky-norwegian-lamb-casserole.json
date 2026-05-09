@@ -1,0 +1,97 @@
+{
+  "title": "Lightly Garlicky Norwegian Lamb Casserole",
+  "description": "A hearty Norwegian lamb casserole with a hint of garlic and a touch of vanilla, perfect for a cold winter's night. This dish is FODMAP-friendly and can be prepared ahead of time.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled, thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, thinly sliced"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the lamb, garlic, and vanilla pod, and mix well.",
+    "In a separate bowl, knead the sliced potatoes, onion, and carrots together until they are well combined.",
+    "In a large casserole dish, create a layer of the potato mixture, followed by a layer of the lamb mixture, and repeat until all ingredients are used, finishing with a layer of potatoes on top.",
+    "Drizzle the lamb broth and olive oil over the top layer of potatoes.",
+    "Cover the dish with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the top is lightly browned.",
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole-dishes",
+    "fodmap-friendly",
+    "lamb-recipes",
+    "meal-prep",
+    "norwegian-cuisine",
+    "one-pan-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "lightly-garlicky-norwegian-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-garlicky-norwegian-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:11:07Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "vanilla pod",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly garlicky",
+    "dishForm": "Casserole"
+  }
+}
