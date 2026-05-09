@@ -1,0 +1,122 @@
+{
+  "title": "Luscious Australian Black Beans Bake",
+  "description": "A hearty, high-protein one-pot dish featuring black beans, char-grilled meat, and an array of vegetables.",
+  "cuisine": "Australian",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans (canned)",
+      "amount": "1 can (410g)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "char-grilled beef",
+      "amount": "300g",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes (canned)",
+      "amount": "1 can (410g)",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron pot over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the char-grilled beef and cook until browned, about 5 minutes.",
+    "Add the diced red bell pepper and cook until tender, about 5 minutes.",
+    "Add the chili powder and cumin powder, and cook for 1 minute, until fragrant.",
+    "Add the tomato paste and cook for 1 minute, until the mixture thickens.",
+    "Add the black beans, diced tomatoes, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20-25 minutes, or until the flavors have melded together.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "black-beans",
+    "char-grilled",
+    "high-protein",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 37,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "luscious-australian-black-beans-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-australian-black-beans-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T23:37:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "black beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "black beans",
+    "descriptor": "Luscious",
+    "dishForm": "Bake"
+  }
+}
