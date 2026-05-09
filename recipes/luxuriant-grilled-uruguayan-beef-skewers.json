@@ -1,0 +1,92 @@
+{
+  "title": "Grilled Uruguayan Beef Skewers",
+  "description": "Rich and chewy Uruguayan beef skewers with cranberry, perfect for a solo dinner, cooked to perfection in a bamboo steamer",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Cranberry sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat",
+    "In a large bowl, whisk together olive oil, garlic, salt, black pepper, and paprika",
+    "Add the beef strips to the bowl and toss to coat with the marinade",
+    "Thread the marinated beef strips onto the bamboo skewers",
+    "Grill the skewers for 10 minutes, turning occasionally",
+    "Brush the skewers with cranberry sauce during the last 2 minutes of grilling",
+    "Serve the skewers hot, garnished with additional cranberry sauce if desired",
+    "Cook the skewers in a bamboo steamer for an additional 5 minutes to achieve tender and juicy beef"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cranberry",
+    "dinner",
+    "grilled",
+    "kosher",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "luxuriant-grilled-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-grilled-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:30:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "cranberry",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "luxuriant grilled",
+    "dishForm": "Skewers"
+  }
+}
