@@ -1,0 +1,96 @@
+{
+  "title": "Luscious Crispy Mediterranean Lamb Wrap",
+  "description": "A crispy and flavorful lamb wrap featuring pickle juice and nuka-pickle, wrapped in a lotus leaf wrap. This dish is a perfect flexitarian-friendly option for a rainy day.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides.",
+    "Transfer the lamb to the oven and roast for 20 minutes.",
+    "In a small bowl, whisk together the pickle juice and nuka-pickle.",
+    "Brush the pickle juice mixture onto the lamb during the last 5 minutes of cooking.",
+    "Warm the lotus leaf wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by slicing the lamb and layering it with feta cheese, mixed greens, and a drizzle of the pickle juice mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "flexitarian",
+    "lamb",
+    "lotus-leaf",
+    "mediterranean",
+    "pickle-juice",
+    "rainy-day"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "luscious-crispy-mediterranean-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-crispy-mediterranean-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:23:00Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "pickle juice",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Luscious Crispy",
+    "dishForm": "Wrap"
+  }
+}
