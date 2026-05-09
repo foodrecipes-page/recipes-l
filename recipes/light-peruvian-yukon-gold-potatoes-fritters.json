@@ -1,0 +1,103 @@
+{
+  "title": "Light Peruvian Yukon Gold Potatoes Fritters",
+  "description": "A light and crispy Peruvian-inspired snack made with Yukon gold potatoes, rendered lardons, and a hint of pepper. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "peruvian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yukon Gold potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Lardons ( cured pork belly )",
+      "amount": "1/2 cup",
+      "notes": "rendered, chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the grated potatoes, rendered lardons, onion, garlic, paprika, salt, and black pepper. Mix well to combine.",
+    "Gradually add the all-purpose flour and baking powder (if using) to the potato mixture, stirring to combine.",
+    "Heat the vegetable oil in a large frying pan over medium-high heat. Once the oil reaches 375°F (190°C), carefully drop the potato mixture by tablespoonfuls into the oil.",
+    "Fry the fritters for 3-4 minutes on each side, or until they are golden brown and crispy. Repeat with any remaining potato mixture, adjusting the heat as needed to prevent burning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-friendly",
+    "fritters",
+    "one-pan",
+    "peruvian",
+    "potatoes",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 34,
+    "fat": 12
+  },
+  "slug": "light-peruvian-yukon-gold-potatoes-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-peruvian-yukon-gold-potatoes-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:13:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "lardons-render",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Yukon Gold Potatoes",
+    "descriptor": "Light",
+    "dishForm": "Fritters"
+  }
+}
