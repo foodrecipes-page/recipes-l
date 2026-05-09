@@ -1,0 +1,94 @@
+{
+  "title": "Luxuriant Umami Spanish Pork Jamon Iberico",
+  "description": "A rich and savory Spanish dish featuring Jamon Iberico, Parmigiano-Reggiano, and render fat, grilled to perfection on a robata grill.",
+  "cuisine": "Spanish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamon Iberico",
+      "amount": "12 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Parmigiano-Reggiano",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "render fat",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pork loin",
+      "amount": "1 lb"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Season the pork loin with sea salt, black pepper, and thyme.",
+    "Grill the pork loin for 10 minutes per side, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork loin rest for 5 minutes before slicing it thinly.",
+    "In a small saucepan, melt the render fat over low heat.",
+    "Add the shaved Parmigiano-Reggiano to the saucepan and stir until melted and smooth.",
+    "Brush the melted cheese mixture onto the sliced Jamon Iberico.",
+    "Grill the Jamon Iberico for an additional 2 minutes per side, or until crispy and golden brown.",
+    "Serve the grilled Jamon Iberico with the sliced pork loin and garnish with garlic.",
+    "Drizzle any remaining cheese mixture over the top of the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "spanish-cuisine",
+    "special-occasion",
+    "umami-rich",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "luxuriant-umami-spanish-pork-jamon-iberico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-umami-spanish-pork-jamon-iberico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:34:18Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "render-fat",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "whole30",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pork",
+    "descriptor": "Luxuriant Umami",
+    "dishForm": "Jamon Iberico"
+  }
+}
