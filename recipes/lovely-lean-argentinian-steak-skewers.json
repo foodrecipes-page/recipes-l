@@ -1,0 +1,100 @@
+{
+  "title": "Lovely Lean Argentinian Steak Skewers",
+  "description": "A funky and crunchy Argentinian dish featuring lean minced steak, perfect for a midnight craving, with a low-carb friendly twist.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lean minced steak",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, combine the lean minced steak, onion, bell pepper, zucchini, garlic, salt, black pepper, and paprika.",
+    "Mix everything together with your hands or a wooden spoon until just combined, being careful not to overmix.",
+    "Thread the mixture onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil on all sides.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the steak is cooked to an internal temperature of 160 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "lovely-lean-argentinian-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-lean-argentinian-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:59:36Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "lean minced steak",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "steak",
+    "descriptor": "Lean Lovely",
+    "dishForm": "Skewers"
+  }
+}
