@@ -1,0 +1,108 @@
+{
+  "title": "Lightly Grassy Vietnamese Chicken Pho Ga",
+  "description": "A refreshing and adventurous Vietnamese dish featuring vine tomatoes and tagine-cooked chicken, perfect for those looking for an onion and garlic free meal. This pho ga recipe combines the brightness of fresh herbs with the depth of slow cooked chicken broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "vine tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the chicken broth, tagine spice mix, and fish sauce, and bring to a boil over high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the vine tomatoes to the pot and cook until they start to break down, about 5 minutes.",
+    "Reduce the heat to low and simmer the broth for 10 minutes.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Stir in the chopped cilantro and basil into the broth.",
+    "Season the broth with salt and black pepper to taste.",
+    "To assemble the pho ga, place some cooked noodles into a bowl, add sliced chicken, and ladle the hot broth over the top.",
+    "Serve immediately, with lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "fresh-herbs",
+    "gluten-free",
+    "noodle-soups",
+    "tagine-cooking",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lightly-grassy-vietnamese-chicken-pho-ga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-grassy-vietnamese-chicken-pho-ga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:56:07Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "tagine-cook",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Lightly Grassy",
+    "dishForm": "Pho Ga"
+  }
+}
