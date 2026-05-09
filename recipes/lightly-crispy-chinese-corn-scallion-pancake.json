@@ -1,0 +1,93 @@
+{
+  "title": "Lightly Crispy Chinese Corn Scallion Pancake",
+  "description": "A crispy and savory Chinese dish featuring a corn arepa filled with mozzarella cheese, wrapped in a pandan leaf and served as a scallion pancake. This low-carb friendly dish is a crowd-pleaser.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together cornmeal, salt, and pepper.",
+    "Add beaten eggs to the bowl and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable.",
+    "Divide the dough into 4 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place a quarter cup of shredded mozzarella cheese in the center.",
+    "Fold the dough over the cheese to form a half-moon shape and press the edges together to seal.",
+    "Heat a non-stick skillet over medium heat and cook the pancakes for 2-3 minutes on each side until crispy and golden brown.",
+    "Wrap each pancake in a pandan leaf and serve immediately.",
+    "Shock the cooked pancakes in an ice bath to stop the cooking process.",
+    "Pat the pancakes dry with paper towels before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "low-carb",
+    "pancake",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "lightly-crispy-chinese-corn-scallion-pancake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crispy-chinese-corn-scallion-pancake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:33:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "low-carb",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "corn",
+    "descriptor": "Lightly Crispy",
+    "dishForm": "Scallion Pancake"
+  }
+}
