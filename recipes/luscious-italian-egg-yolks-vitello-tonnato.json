@@ -1,0 +1,102 @@
+{
+  "title": "Luscious Italian Egg Yolks Vitello Tonnato",
+  "description": "Buttery, crisp, and festive Italian dish featuring egg yolks, robata-grill, and ayurvedic-tamasic-friendly ingredients. Perfect for a special occasion meal.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal",
+      "amount": "1 pound, boneless and sliced into 1/4-inch thick pieces"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup, rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "anchovy paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons, softened"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Season the sliced veal with salt and black pepper.",
+    "Grill the veal slices for 2-3 minutes per side, or until browned and cooked through.",
+    "Transfer the grilled veal to a cutting board and let rest for 5 minutes.",
+    "Meanwhile, mix the capers, olive oil, anchovy paste, garlic, and lemon juice in a bowl.",
+    "Add the egg yolks to the bowl and mix until smooth.",
+    "Add the softened butter to the bowl and mix until fully incorporated.",
+    "Stir in the chopped parsley and season with salt and black pepper to taste.",
+    "To serve, slice the grilled veal into thin strips and arrange on plates.",
+    "Drizzle the egg yolk sauce over the veal and top with a dollop of sour cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "high-protein",
+    "italian",
+    "robata-grill",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 42
+  },
+  "slug": "luscious-italian-egg-yolks-vitello-tonnato",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-italian-egg-yolks-vitello-tonnato",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:08:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "egg yolks",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "egg yolks",
+    "descriptor": "luscious",
+    "dishForm": "Vitello Tonnato"
+  }
+}
