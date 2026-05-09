@@ -1,0 +1,102 @@
+{
+  "title": "Lightly Spiced French Duck Confit",
+  "description": "A classic Alsatian dish featuring tender duck leg confit, lightly spiced with garam masala and paired with a floral emulsified sauce, perfect for a solo dinner.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "skin on"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Cure the duck legs with kosher salt, black pepper, and garam masala for at least 2 hours in the refrigerator.",
+    "Preheat the oven to 275 degrees Fahrenheit.",
+    "Rinse the cured duck legs and pat them dry with paper towels.",
+    "Heat the olive oil and duck fat in a large Dutch oven over medium heat.",
+    "Seal the duck legs until browned on all sides, about 5 minutes per side.",
+    "Add the garlic, white wine, thyme, and rosemary to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Cook the duck confit for 2 1/2 hours, or until the meat is tender and easily shreds with a fork.",
+    "Let the confit cool in the pot for 30 minutes before refrigerating it overnight.",
+    "Emulsify the cooking liquid with a little water to create a light sauce.",
+    "Serve the confit with the emulsified sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "duck-confit",
+    "emulsified-sauce",
+    "french-cuisine",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 42
+  },
+  "slug": "lightly-spiced-french-duck-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spiced-french-duck-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:03:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "emulsify",
+    "primaryIngredient": "garam masala",
+    "diet": "raw",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "duck",
+    "descriptor": "Lightly spiced",
+    "dishForm": "Confit"
+  }
+}
