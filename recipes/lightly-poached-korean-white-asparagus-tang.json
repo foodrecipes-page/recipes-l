@@ -1,0 +1,109 @@
+{
+  "title": "Lightly Poached Korean White Asparagus Tang",
+  "description": "A flexitarian-friendly Korean dish featuring white asparagus in a herbal and gooey tang, perfect for crowds. This recipe is a unique blend of flavors and textures.",
+  "cuisine": "Korean",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Reduce the heat to a simmer and add the soy sauce, Korean chili flakes, garlic, and ginger.",
+    "Poach the white asparagus in the simmering broth for 5 minutes, or until tender.",
+    "Remove the asparagus from the pot with a slotted spoon and set aside.",
+    "Add the sesame oil, tofu, salt, and black pepper to the pot and stir to combine.",
+    "Simmer the mixture for an additional 2 minutes, or until the tofu is heated through.",
+    "Stir in the chopped green onions.",
+    "Serve the poached asparagus in bowls and spoon the tang sauce over the top.",
+    "Garnish with additional green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "flexitarian-friendly",
+    "herbal",
+    "korean-cuisine",
+    "one-pot",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "lightly-poached-korean-white-asparagus-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-poached-korean-white-asparagus-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:22:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "white asparagus",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "white asparagus",
+    "descriptor": "Lightly Poached",
+    "dishForm": "Tang"
+  }
+}
