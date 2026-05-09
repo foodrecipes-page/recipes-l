@@ -1,0 +1,103 @@
+{
+  "title": "Lovely Crunchy Mexican Poblanos Fajitas",
+  "description": "A kid-friendly Mexican dish featuring crunchy poblano peppers and a rich umami flavor, made with unsweetened cocoa and pressure-cooked for tender results.",
+  "cuisine": "Mexican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "optional"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8 small",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Roast the poblano peppers in the oven at 400 degrees Fahrenheit for 30 minutes, then peel and slice them into strips.",
+    "In a large bowl, mix together the sliced onion, minced garlic, and a pinch of salt.",
+    "Heat the olive oil in a large skillet over medium-high heat, then add the onion mixture and cook until the onions are translucent.",
+    "Add the ground beef to the skillet, if using, and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the roasted poblano peppers, unsweetened cocoa powder, and a pinch of black pepper to the skillet, and stir to combine.",
+    "Pressure-cook the mixture for 10 minutes, or until the flavors have melded together and the peppers are tender.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the pepper mixture onto a tortilla, topping with shredded cheese, and serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "mexican-food",
+    "one-pan",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lovely-crunchy-mexican-poblanos-fajitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crunchy-mexican-poblanos-fajitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:15:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "pressure-cook",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "egg-free",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "Lovely Crunchy",
+    "dishForm": "Fajitas"
+  }
+}
