@@ -1,0 +1,80 @@
+{
+  "title": "Light and Airy Peruvian Nougat Pilaf",
+  "description": "A halal-friendly take on the traditional Peruvian dish, featuring ground nutmeg and a light, airy texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "light corn syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the flour and sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "halal",
+    "nougat",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "light-and-airy-peruvian-nougat-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-and-airy-peruvian-nougat-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "nougat",
+    "descriptor": "light and airy",
+    "dishForm": "Pilaf"
+  }
+}

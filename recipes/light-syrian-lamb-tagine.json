@@ -1,0 +1,102 @@
+{
+  "title": "Light Syrian Lamb Tagine",
+  "description": "A traditional Syrian dish made with lamb, fermented ingredients, and a blend of sugars, cooked in a tandoor clay pot with beurre monte, perfect for a sick day, this low calorie friendly recipe is sure to delight.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "fermented turnips",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the sumac, cumin, coriander, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the spice mixture.",
+    "Heat the beurre monte in the preheated tandoor clay pot over medium heat.",
+    "Add the lamb pieces to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the fermented turnips, date syrup, and pomegranate molasses to the pot, stirring to combine.",
+    "Cover the pot and transfer to the oven, cooking for 2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let cool for 10 minutes before serving.",
+    "Serve the tagine hot, garnished with fresh parsley and a dollop of yogurt, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb-recipes",
+    "low-calorie",
+    "syrian-cuisine",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "light-syrian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-syrian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:51:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "beurre-monte",
+    "primaryIngredient": "sugars",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Low Calorie",
+    "dishForm": "Tagine"
+  }
+}

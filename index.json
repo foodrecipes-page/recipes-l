@@ -2268,6 +2268,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-and-airy-peruvian-nougat-pilaf",
+    "title": "Light and Airy Peruvian Nougat Pilaf",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "halal",
+      "nougat",
+      "peruvian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
     "slug": "light-and-buttery-egyptian-rice-koshari",
     "title": "Light and Buttery Egyptian Rice Koshari",
     "tags": [
@@ -5965,6 +5979,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "light-syrian-lamb-tagine",
+    "title": "Light Syrian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "lamb-recipes",
+      "low-calorie",
+      "syrian-cuisine",
+      "tandoor-cooking"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 140,
     "shard": "l"
   },
   {
