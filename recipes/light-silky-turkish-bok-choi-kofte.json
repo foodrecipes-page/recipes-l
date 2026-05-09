@@ -1,0 +1,104 @@
+{
+  "title": "Light Silky Turkish Bok Choi Kofte",
+  "description": "A diabetic friendly Turkish dish featuring sashimi cut bok choi in a silky kofte form, served in a Korean brass bowl.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bok choi",
+      "amount": "1 bunch",
+      "notes": "sashimi cut"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground turkey, chopped onion, minced garlic, Turkish spice mix, salt, and black pepper, and mix well with your hands until just combined.",
+    "Add the sashimi cut bok choi to the bowl and mix gently until the bok choi is evenly distributed.",
+    "Use your hands to shape the mixture into small kofte, about 1 1/2 inches in diameter.",
+    "Place the kofte on a baking sheet lined with parchment paper, leaving about 1 inch of space between each kofte.",
+    "Drizzle the olive oil over the kofte and gently roll them to coat evenly.",
+    "Bake the kofte in the preheated oven for 18 minutes, or until cooked through.",
+    "While the kofte are baking, combine the lemon juice and chicken broth in a small saucepan and bring to a simmer over medium heat.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, or until slightly thickened.",
+    "To serve, place the kofte in a Korean brass bowl and spoon the silky sauce over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bok-choi-recipe",
+    "diabetic-friendly",
+    "healthy-dinner",
+    "kofte-recipe",
+    "low-carb",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "light-silky-turkish-bok-choi-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-silky-turkish-bok-choi-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:16:30Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "bok choi",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bok choi",
+    "descriptor": "light silky",
+    "dishForm": "Kofte"
+  }
+}
