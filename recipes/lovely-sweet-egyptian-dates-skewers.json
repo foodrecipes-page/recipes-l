@@ -1,0 +1,95 @@
+{
+  "title": "Lovely Sweet Egyptian Dates Skewers",
+  "description": "A sweet and crunchy Egyptian dish featuring dried fruit, perfect for a snack or dessert, and friendly to all diets including those found in Buddhist temples.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried dates",
+      "amount": "20",
+      "notes": "pitted"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium heat.",
+    "In a large bowl, mix together the honey, lemon juice, and water until well combined.",
+    "Add the dried dates to the bowl and toss to coat with the honey mixture.",
+    "Thread the dates, almonds, and pistachios onto skewers, leaving a small space between each piece.",
+    "Sprinkle the coconut flakes and sesame seeds over the skewers.",
+    "Place the skewers on the grill and cook for 5 minutes, turning occasionally.",
+    "Remove the skewers from the grill and let cool for a few minutes.",
+    "Serve the skewers warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "middle-eastern",
+    "sweet-treats",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "lovely-sweet-egyptian-dates-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-sweet-egyptian-dates-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:06:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "dried fruit",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dates",
+    "descriptor": "Lovely sweet",
+    "dishForm": "Skewers"
+  }
+}
