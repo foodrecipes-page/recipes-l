@@ -1,0 +1,98 @@
+{
+  "title": "Lovely Crispy Vietnamese Tofu Noodles",
+  "description": "A spicy and crispy Vietnamese dish featuring fines-herbes and nuka-pickle, served on a hot stone plate, perfect for a romantic evening.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fines-herbes",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh herbs"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the tofu cubes and cook until golden brown and crispy, about 5 minutes.",
+    "Add the cooked noodles, nuka-pickle, fines-herbes, soy sauce, sriracha sauce, salt, and pepper to the skillet.",
+    "Stir-fry everything together for about 2 minutes.",
+    "Prepare the hot stone plate by heating it in the oven at 400 degrees for 10 minutes.",
+    "Transfer the noodle mixture to the hot stone plate.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional fines-herbes and nuka-pickle if desired.",
+    "Be careful when handling the hot stone plate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "noodle-dish",
+    "plant-based",
+    "romantic-dinner",
+    "spicy-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "lovely-crispy-vietnamese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crispy-vietnamese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:15:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "fines-herbes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Lovely crispy",
+    "dishForm": "Noodles"
+  }
+}
