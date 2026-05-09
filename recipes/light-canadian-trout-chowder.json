@@ -1,0 +1,115 @@
+{
+  "title": "Light Canadian Trout Chowder",
+  "description": "A tangy and crisp Canadian dish featuring trout, perfect for a sick day, made in a hot pot vessel and kosher friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "2% or skim"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "dill",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "In a large hot pot vessel, combine the chopped onions, sliced carrots, and chopped celery and cook over medium heat until the vegetables are tender.",
+    "Add the diced potatoes, chicken broth, and trout fillets to the vessel and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes or until the potatoes are tender.",
+    "In a small bowl, whisk together the milk and flour until smooth.",
+    "Stir the milk mixture into the chowder and continue to simmer for an additional 2 minutes or until the chowder has thickened.",
+    "Season the chowder with salt, pepper, and dried dill.",
+    "Serve the chowder hot, garnished with additional dill if desired.",
+    "Refrigerate or freeze any leftovers for later use.",
+    "Reheat the chowder over low heat, stirring occasionally, until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "fish-based",
+    "hot-pot",
+    "kosher-friendly",
+    "light-meal",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "light-canadian-trout-chowder",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-canadian-trout-chowder",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:26:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "trout",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "trout",
+    "descriptor": "light crispy",
+    "dishForm": "Chowder"
+  }
+}
