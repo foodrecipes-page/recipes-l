@@ -1,0 +1,100 @@
+{
+  "title": "Light Norwegian Chorizo Tagine",
+  "description": "A tangy and flaky post-workout Norwegian dish featuring chorizo, made in a tagine pot and spherified for a unique texture, this recipe is nut-free-friendly and perfect for a light dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "12 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Norwegian cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Calcium chloride",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Add the sliced chorizo and cook until browned, about 5 minutes.",
+    "Add the lamb broth, Norwegian cheese, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "In a small bowl, mix the sodium alginate and calcium chloride with a little water to create a spherification bath.",
+    "Drop small amounts of the chorizo mixture into the spherification bath and let them sit for 1 minute to form spheres.",
+    "Remove the spheres from the bath with a slotted spoon and add them to the tagine pot.",
+    "Simmer the tagine for an additional 5 minutes, then stir in the chopped parsley.",
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Let the tagine cool slightly before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "norwegian-cuisine",
+    "post-workout-meal",
+    "spherification",
+    "tagine-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "light-norwegian-chorizo-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-norwegian-chorizo-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:51:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "spherify",
+    "primaryIngredient": "chorizo",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chorizo",
+    "descriptor": "light flaky",
+    "dishForm": "Tagine"
+  }
+}
