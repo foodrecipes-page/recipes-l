@@ -466,6 +466,21 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-day-croatian-lentil-curry",
+    "title": "Lazy Day Croatian Lentil Curry",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "curry-recipes",
+      "lentil-recipes",
+      "one-pot",
+      "plant-based"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-duck-poaching",
     "title": "Lazy Duck Poaching",
     "tags": [
@@ -5903,6 +5918,20 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
+    "slug": "light-zesty-slovakian-challots-pressur-cooked-dumplings",
+    "title": "Light Zesty Slovakian Challot Dumplings",
+    "tags": [
+      "breakfast-dish",
+      "challot-based",
+      "comfort-food",
+      "easy-to-make",
+      "slovakian-cuisine"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
