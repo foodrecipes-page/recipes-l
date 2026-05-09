@@ -1,0 +1,99 @@
+{
+  "title": "Lightly Spiced Middle Eastern Chickpeas Falafel",
+  "description": "A yeasty, tender, and indulgent Middle Eastern dish featuring sweet smoked paprika, this falafel recipe is perfect for those looking for a flavorful and onion-free option. The fermentation process gives it a unique taste and texture.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "sweet smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chickpeas, sweet smoked paprika, yeast, salt, and black pepper, and mix well.",
+    "Add the lemon juice and olive oil to the bowl and stir until the chickpeas are evenly coated.",
+    "Let the mixture sit at room temperature for 24 hours to allow the yeast to ferment.",
+    "After the fermentation process, add the chickpea flour and water to the bowl and mix until a thick batter forms.",
+    "Using your hands, shape the batter into small falafel patties.",
+    "Heat about 2-3 inches of olive oil in a deep frying pan over medium-high heat until it reaches 350 degrees.",
+    "Carefully place the falafel patties in the hot oil and fry for about 3-4 minutes on each side, until golden brown.",
+    "Remove the falafel from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the falafel hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "middle-eastern",
+    "street-food",
+    "vegan",
+    "vegetarian",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "lightly-spiced-middle-eastern-chickpeas-falafel",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spiced-middle-eastern-chickpeas-falafel",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:25:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Lightly Spiced",
+    "dishForm": "Falafel"
+  }
+}
