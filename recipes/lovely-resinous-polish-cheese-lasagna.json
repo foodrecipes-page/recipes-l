@@ -1,0 +1,98 @@
+{
+  "title": "Lovely Resinous Polish Cheese Lasagna",
+  "description": "A resinous and chewy Polish dish featuring cheese slices and infused oil, perfect for adventurous eaters, this recipe is also FODMAP friendly. It combines the richness of cheese with the depth of infused oil.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "FODMAP-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oscypek cheese",
+      "amount": "12 slices",
+      "notes": "Polish smoked cheese"
+    },
+    {
+      "name": "Infused oil",
+      "amount": "1/2 cup",
+      "notes": "with garlic and herbs"
+    },
+    {
+      "name": "Lasagna noodles",
+      "amount": "8 sheets",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1 cup",
+      "notes": "for added fiber"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions.",
+    "In a large skillet, heat the infused oil over medium heat.",
+    "Add the chopped parsley and cook until fragrant.",
+    "In a large bowl, combine the cooked noodles, parsley mixture, and grated carrot.",
+    "In a separate bowl, mix the olive oil, salt, and black pepper.",
+    "Brush the olive oil mixture onto the bottom of a 9x13 inch baking dish.",
+    "Begin building the lasagna by creating a layer of noodles, followed by a layer of cheese slices, and repeating this process until all ingredients are used.",
+    "Top the lasagna with the remaining cheese slices and parsley.",
+    "Bake the lasagna in the preheated oven for 35 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lovely-resinous-polish-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-resinous-polish-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:21:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "infuse-oil",
+    "primaryIngredient": "cheese slices",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cheese",
+    "descriptor": "Lovely resinous",
+    "dishForm": "Lasagna"
+  }
+}
