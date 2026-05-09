@@ -1,0 +1,101 @@
+{
+  "title": "Luxuriantly Spicy Jamaican Goat Curry",
+  "description": "A cultured and juicy Jamaican dish featuring tender goat meat in a rich and spicy curry sauce, made with red food coloring for a festive touch and cooked to perfection using sous-vide techniques, and is shojin-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Season the goat meat cubes with salt, black pepper, and curry powder.",
+    "Heat oil in a pan over medium heat and sear the goat meat until browned on all sides.",
+    "Add the chopped onion, garlic, and scotch bonnet peppers to the pan and cook until the onion is translucent.",
+    "Add the coconut milk, red food coloring, and thyme to the pan and stir to combine.",
+    "Transfer the mixture to a sous-vide bag and seal.",
+    "Cook the mixture in a sous-vide water bath at 130 degrees Fahrenheit for 24 hours.",
+    "Remove the bag from the water bath and let it cool to room temperature.",
+    "Strain the sauce and discard the solids.",
+    "Serve the curry hot, garnished with fresh thyme and scotch bonnet peppers."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1470,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "curry",
+    "goat-meat",
+    "jamaican-cuisine",
+    "shojin-friendly",
+    "sous-vide",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "luxuriantly-spicy-jamaican-goat-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-spicy-jamaican-goat-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:00:46Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "red food colouring",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "goat",
+    "descriptor": "luxuriantly spicy",
+    "dishForm": "Curry"
+  }
+}
