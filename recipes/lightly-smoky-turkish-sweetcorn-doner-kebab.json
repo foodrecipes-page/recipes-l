@@ -1,0 +1,94 @@
+{
+  "title": "Lightly Smoky Turkish Sweetcorn Doner Kebab",
+  "description": "A smoky and fluffy Turkish dish featuring sweetcorn, this crowd-pleaser is egg-free-friendly and perfect for any occasion. It is made in the form of a kebab-doner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "doner kebab seasoning",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large non-stick skillet or doner kebab cooker to medium-high heat.",
+    "In a large bowl, whisk together the flour, smoked paprika, salt, and black pepper.",
+    "Gradually add the olive oil and water to the bowl, stirring with a fork until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and shape each piece into a thin log.",
+    "Thread each log onto a skewer or doner kebab spit, if using.",
+    "Brush the sweetcorn with a little bit of oil and season with doner kebab seasoning.",
+    "Add the sweetcorn to the skillet or doner kebab cooker and cook for 5 minutes, turning frequently.",
+    "Add the dough logs to the skillet or doner kebab cooker and cook for 10-12 minutes, turning frequently, until the dough is lightly browned and cooked through.",
+    "Serve the doner kebab hot, sliced into thin strips, with the smoky sweetcorn on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "doner-kebab",
+    "gluten-free",
+    "smoky",
+    "turkish-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "lightly-smoky-turkish-sweetcorn-doner-kebab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-turkish-sweetcorn-doner-kebab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:54:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "sweetcorn",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Doner Kebab"
+  }
+}
