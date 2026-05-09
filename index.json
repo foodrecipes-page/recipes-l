@@ -12813,6 +12813,21 @@
     "shard": "l"
   },
   {
+    "slug": "luscious-molten-irish-chicken-legs-stew",
+    "title": "Luscious Molten Irish Chicken Legs Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-dish",
+      "irish-food",
+      "low-glycemic",
+      "one-pot",
+      "winter-stew"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 110,
+    "shard": "l"
+  },
+  {
     "slug": "luscious-molten-italian-rice-krispies-tiramisu",
     "title": "Luscious Molten Italian Rice Krispies Tiramisu",
     "tags": [
@@ -15083,6 +15098,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriously-sweet-russian-rice-pilaf",
+    "title": "Luxuriously Sweet Russian Rice Pilaf",
+    "tags": [
+      "comfort-food",
+      "midnight-cravings",
+      "one-pot",
+      "russian-cuisine",
+      "sweet-treats"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {

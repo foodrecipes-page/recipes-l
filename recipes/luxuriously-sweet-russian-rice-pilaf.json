@@ -1,0 +1,93 @@
+{
+  "title": "Luxuriously Sweet Russian Rice Pilaf",
+  "description": "A sweet and gooey Russian dish featuring paella rice, perfect for midnight cravings, this recipe is kosher-friendly and cooked to perfection in a kazan cauldron. It combines the richness of rice, sugar, and butter for a truly indulgent treat.",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "raisins",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": "white bread"
+    }
+  ],
+  "instructions": [
+    "Rinse the paella rice in a fine mesh sieve until the water runs clear, then set aside.",
+    "In a large kazan cauldron, melt the unsalted butter over medium heat.",
+    "Add the sliced almonds to the cauldron and cook, stirring frequently, until they are lightly toasted.",
+    "Add the granulated sugar to the cauldron and cook, stirring constantly, until the sugar has dissolved and the mixture is caramelized.",
+    "Add the rinsed paella rice to the cauldron, stirring to coat the rice in the sugar and butter mixture.",
+    "Add the water, raisins, and cinnamon to the cauldron, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover the cauldron, and simmer for 20 minutes.",
+    "While the pilaf is cooking, toast the white bread slices until they are lightly browned.",
+    "To serve, place a portion of the pilaf onto each toasted bread slice and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "midnight-cravings",
+    "one-pot",
+    "russian-cuisine",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "luxuriously-sweet-russian-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-sweet-russian-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:39:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "paella rice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "rice",
+    "descriptor": "Luxuriously sweet",
+    "dishForm": "Pilaf"
+  }
+}
