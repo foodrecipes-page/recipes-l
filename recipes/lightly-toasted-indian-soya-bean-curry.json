@@ -1,0 +1,105 @@
+{
+  "title": "Lightly Toasted Indian Soya Bean Curry",
+  "description": "A tangy and crunchy Indian dish featuring soya bean, perfect for a hangover cure, made with wok-hei and dairy-free friendly ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a wok or large skillet over medium-high heat.",
+    "Add chopped onion and cook until lightly browned.",
+    "Add grated ginger and minced garlic and cook for 1 minute.",
+    "Add chopped tomato and cook until softened.",
+    "Add soya beans, curry powder, turmeric, and salt, and stir to combine.",
+    "Cook for 5 minutes, stirring frequently, until the soya beans are lightly toasted.",
+    "Stir in lemon juice and cook for an additional 1 minute.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "indian-cuisine",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lightly-toasted-indian-soya-bean-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-toasted-indian-soya-bean-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:09:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "wok-hei",
+    "primaryIngredient": "soya bean",
+    "diet": "dairy-free",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "soya bean",
+    "descriptor": "Lightly toasted",
+    "dishForm": "Curry"
+  }
+}
