@@ -1,0 +1,100 @@
+{
+  "title": "Luscious Dense Filipino Fish Lumpia Bake",
+  "description": "A citrusy and dense Filipino dish featuring unflavored gelatin, perfect for special occasions, this pescatarian-friendly lumpia bake is a show-stopper at any gathering.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "lumpia wrappers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the fish fillets, gelatin, lemon juice, garlic, onion, fish sauce, salt, and black pepper.",
+    "Stir in the egg until everything is well combined.",
+    "Lay a lumpia wrapper on a flat surface and place about 1 tablespoon of the fish mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a little bit of water and fold the wrapper into a triangle, pressing the edges together to seal the lumpia.",
+    "Repeat with the remaining wrappers and filling.",
+    "Place the lumpia in a baking dish and bake for 25 minutes.",
+    "Serve hot and enjoy.",
+    "Garnish with lemon wedges if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "filipino-food",
+    "lumpia",
+    "pescatarian",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "luscious-dense-filipino-fish-lumpia-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-dense-filipino-fish-lumpia-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:19:35Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fish",
+    "descriptor": "Luscious Dense",
+    "dishForm": "Lumpia"
+  }
+}
