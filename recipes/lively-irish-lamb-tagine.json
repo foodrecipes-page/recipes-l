@@ -1,0 +1,103 @@
+{
+  "title": "Lively Irish Lamb Tagine",
+  "description": "A hearty and flavorful Irish dish featuring lamb, green olives, and a blend of herbs, cooked to perfection in a traditional clay tajine vessel, this recipe is sugar free friendly and offers an adventurous twist on traditional Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in the bottom of a clay tajine vessel over medium heat on the stovetop.",
+    "Add the lamb cubes to the vessel and cook until browned on all sides, about 5 minutes.",
+    "Add the minced garlic to the vessel and cook for an additional 1 minute, stirring constantly.",
+    "Add the chopped parsley, rosemary, salt, and pepper to the vessel, stirring to combine.",
+    "Add the green olives to the vessel, stirring to combine.",
+    "Cover the vessel with a lid and transfer it to the preheated oven.",
+    "Bake the tagine for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the vessel from the oven and stir in the crumbled feta cheese until melted and well combined.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooking",
+    "gluten-free",
+    "irish-cuisine",
+    "lamb-recipes",
+    "one-pot",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "lively-irish-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-irish-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:42:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "stir-fry",
+    "primaryIngredient": "green olives",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "lively adventurous",
+    "dishForm": "Tagine"
+  }
+}

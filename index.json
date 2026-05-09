@@ -8628,6 +8628,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-spiced-middle-eastern-chickpea-tagine",
+    "title": "Lightly Spiced Middle Eastern Chickpea Tagine",
+    "tags": [
+      "low-sodium",
+      "mason-jar",
+      "middle-eastern",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-spiced-moroccan-lamb-tagine",
     "title": "Lightly Spiced Moroccan Lamb Tagine",
     "tags": [
@@ -9711,6 +9726,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-irish-lamb-tagine",
+    "title": "Lively Irish Lamb Tagine",
+    "tags": [
+      "clay-cooking",
+      "gluten-free",
+      "irish-cuisine",
+      "lamb-recipes",
+      "one-pot",
+      "sugar-free"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
