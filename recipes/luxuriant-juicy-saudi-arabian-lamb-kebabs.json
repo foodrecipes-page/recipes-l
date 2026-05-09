@@ -1,0 +1,95 @@
+{
+  "title": "Luxuriant Juicy Saudi Arabian Lamb Kebabs",
+  "description": "A delicious and earthy Saudi Arabian dish featuring lamb, butter, and dates, perfect for a romantic date night, this recipe is also FODMAP friendly and cooked in a stone bowl dolsot.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "FODMAP-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the stone bowl dolsot over medium-high heat.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the melted butter onto the lamb, then sprinkle with salt, black pepper, cumin, and coriander.",
+    "Add the garlic-infused oil to the preheated stone bowl dolsot and swirl it around.",
+    "Add the lamb skewers to the stone bowl dolsot and cook for 5 minutes per side, or until cooked to an internal temperature of 145 degrees.",
+    "While the lamb is cooking, heat the dates in a small saucepan over low heat.",
+    "Once the lamb is cooked, serve it with the heated dates and any accumulated juices from the stone bowl dolsot.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "luxuriant-juicy-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-juicy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:20:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "butter",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "luxuriant juicy",
+    "dishForm": "Kebabs"
+  }
+}
