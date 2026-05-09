@@ -1,0 +1,105 @@
+{
+  "title": "Crispy Dutch Pork Bitterballen",
+  "description": "A crispy, earthy Dutch dish featuring emulsified pork, perfect for snacking or as an appetizer. These bitterballen are also vegan-friendly when using a plant-based manteca alternative.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Manteca Alternative (Vegan Butter)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cloves",
+      "amount": "3"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Beet, finely chopped (for color)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine pork shoulder, onion, carrot, cloves, nutmeg, salt, and black pepper in a food processor. Process until the mixture is well combined and slightly smooth.",
+    "Transfer the mixture to a bowl and stir in the manteca alternative until fully incorporated.",
+    "Gradually add the flour and bread crumbs to the bowl, mixing until the mixture forms a thick paste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to fry, heat a deep frying pan or a deep fryer to 350°F (175°C).",
+    "Using a spoon, drop small balls of the mixture into the hot oil and fry until golden brown, about 3-4 minutes.",
+    "Using a slotted spoon, remove the bitterballen from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the bitterballen warm, garnished with chopped parsley or chives and a side of your favorite dipping sauce.",
+    "For an extra crispy coating, roll the fried bitterballen in a mixture of flour, cornstarch, and a pinch of salt before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "lovely-crispy-dutch-pork-bitterballen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-crispy-dutch-pork-bitterballen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:43:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "pork",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Pork",
+    "descriptor": "Lovely Crispy",
+    "dishForm": "Bitterballen"
+  }
+}
