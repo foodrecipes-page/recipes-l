@@ -1,0 +1,109 @@
+{
+  "title": "low-calorie egyptian epoisses bisque",
+  "description": "a creamy, buttery, and crunchy one-pot dish featuring epoisses and shio-cure that's surprisingly low in calories",
+  "cuisine": "egyptian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "epoisses cheese",
+      "amount": "120g",
+      "notes": "use a low-calorie epoisses variant if possible"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "80g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "low-fat coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat coconut milk can be used for a richer bisque, but it's higher in calories"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat 2 tbsp of olive oil in a large pot over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for another minute, until fragrant.",
+    "add the shio-cure and cook for 1-2 minutes, until slightly caramelized.",
+    "add the chicken broth and bring to a boil.",
+    "reduce the heat to low and let simmer for 10-12 minutes, or until the epoisses has melted and the mixture has thickened slightly.",
+    "use an immersion blender to puree the bisque until smooth.",
+    "return the pot to the stovetop and add the low-fat coconut milk, chopped parsley, lemon juice, salt, and black pepper.",
+    "stir well to combine and cook over low heat for another 2-3 minutes, until warmed through.",
+    "taste and adjust the seasoning as needed.",
+    "serve hot, garnished with additional parsley if desired.",
+    "note: for a creamier bisque, you can add 1-2 tbsp of low-fat cream or half-and-half towards the end of cooking time, but this will increase the calorie count slightly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "egyptian",
+    "low-calorie",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "low-calorie-egyptian-epoisses-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-calorie-egyptian-epoisses-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:28:29Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "shio-cure",
+    "primaryIngredient": "epoisses",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Low-calorie",
+    "dishForm": "Bisque"
+  }
+}
