@@ -1,0 +1,96 @@
+{
+  "title": "Lazy Sunday Chinese Oats Noodles",
+  "description": "A fresh and gooey Chinese dish featuring oats, robata-grill, and sugar-free friendly ingredients, perfect for a lazy Sunday morning.",
+  "cuisine": "Chinese",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "old-fashioned"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "robata-grill tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the water to a boil.",
+    "Add the oats and reduce heat to low, simmering for 5 minutes.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Add the scallions, ginger, and garlic to the bowl and stir to combine.",
+    "Add the robata-grill tofu to the bowl and stir to combine.",
+    "Fluff the cooked oats with a fork and stir in the tofu mixture.",
+    "Serve the oats hot, garnished with additional scallions if desired.",
+    "Let the dish cool for a few minutes before serving.",
+    "Store any leftovers in an airtight container in the refrigerator."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-inspired",
+    "lazy-sunday",
+    "oat-based",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "lazy-sunday-chinese-oats-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-chinese-oats-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:37:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "robata-grill",
+    "primaryIngredient": "oats",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "oats",
+    "descriptor": "Lazy Sunday",
+    "dishForm": "Noodles"
+  }
+}
