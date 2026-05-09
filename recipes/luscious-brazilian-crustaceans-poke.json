@@ -1,0 +1,100 @@
+{
+  "title": "Brazilian Crustaceans Poke",
+  "description": "A resinous and glassy-jelly dish featuring crustaceans, perfect for a quick high-protein snack or lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound peeled and deveined shrimp",
+      "amount": "",
+      "notes": "frozen or fresh"
+    },
+    {
+      "name": "1/4 cup coconut milk",
+      "amount": "",
+      "notes": "full-fat"
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "1 tablespoon grated ginger",
+      "amount": "",
+      "notes": "fresh"
+    },
+    {
+      "name": "1/4 cup chopped cilantro",
+      "amount": "",
+      "notes": "fresh"
+    },
+    {
+      "name": "1/2 cup diced mango",
+      "amount": "",
+      "notes": "fresh"
+    },
+    {
+      "name": "2 tablespoons lime juice",
+      "amount": "",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Rinse the shrimp under cold water and pat dry with paper towels.",
+    "In a blender or food processor, combine coconut milk, honey, soy sauce, ginger, and lime juice. Blend until smooth.",
+    "Add the chopped cilantro and blend until well combined.",
+    "Cover a large plate or tray with parchment paper or a silicone mat.",
+    "Place the shrimp on the prepared plate or tray in a single layer, leaving a little space between each shrimp.",
+    "Pour the coconut milk mixture evenly over the shrimp.",
+    "Garnish with diced mango and serve immediately.",
+    "Alternatively, you can dehydrate the shrimp at 135°F (57°C) for 3-4 hours to create a crispy exterior and a juicy interior."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "dehydrated",
+    "high-protein",
+    "kid-friendly",
+    "lunch",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 8
+  },
+  "slug": "luscious-brazilian-crustaceans-poke",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-brazilian-crustaceans-poke",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T16:36:18Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "dehydrate",
+    "primaryIngredient": "crustaceans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "crustaceans",
+    "descriptor": "luscious",
+    "dishForm": "Poke"
+  }
+}
