@@ -1,0 +1,102 @@
+{
+  "title": "Luscious Velvety Turkish Pecan Adana Kebap",
+  "description": "A vegan-friendly Turkish dish featuring pecan nuts, this Adana kebap is a perfect comfort food for a sick day, with a rich umami flavor and velvety texture, served on a slate tile.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pecan nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the chopped pecan nuts, crumbled tofu, finely chopped onion, minced garlic, smoked paprika, cumin, salt, and black pepper.",
+    "Add the olive oil and lemon juice to the bowl and mix until a sticky dough forms.",
+    "Divide the dough into 4-6 equal pieces, depending on desired kebap size, and shape each piece into a long, thin cylinder.",
+    "Place the kebaps in the air fryer basket, leaving some space between each kebap for even cooking.",
+    "Cook the kebaps in the air fryer for 12-15 minutes, or until they are golden brown and crispy on the outside, and cooked through.",
+    "Remove the kebaps from the air fryer and place them on a slate tile to serve.",
+    "Serve the kebaps hot, garnished with additional chopped pecan nuts and a squeeze of lemon juice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "turkish-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "luscious-velvety-turkish-pecan-adana-kebap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-velvety-turkish-pecan-adana-kebap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:46:51Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "pecan nuts",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "Luscious Velvety",
+    "dishForm": "Adana Kebap"
+  }
+}
