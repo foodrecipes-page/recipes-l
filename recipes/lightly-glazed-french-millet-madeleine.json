@@ -1,0 +1,100 @@
+{
+  "title": "Lightly Glazed French Millet Madeleine",
+  "description": "A funky, aerated French dish featuring millet, glaze, and high protein, served in a scallop shell, perfect for a dessert or snack.",
+  "cuisine": "French",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "millet flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely milled"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "for glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the millet flour, baking powder, and salt.",
+    "In a large bowl, whisk together the eggs, granulated sugar, and vanilla extract.",
+    "Add the melted butter to the egg mixture and whisk until combined.",
+    "Gradually add the flour mixture to the egg mixture and whisk until smooth.",
+    "Pour the batter into a madeleine pan or scallop shells.",
+    "Bake for 12 minutes, or until the edges are golden brown.",
+    "Allow the madeleines to cool in the pan for 5 minutes, then transfer to a wire rack to cool completely.",
+    "To make the glaze, whisk together the confectioners sugar and honey until smooth.",
+    "Drizzle the glaze over the cooled madeleines."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "french-dessert",
+    "glazed",
+    "high-protein",
+    "madeleine",
+    "scallop-shell",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "lightly-glazed-french-millet-madeleine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-glazed-french-millet-madeleine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:49:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "glaze",
+    "primaryIngredient": "millet",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "millet",
+    "descriptor": "Lightly Glazed",
+    "dishForm": "Madeleine"
+  }
+}
