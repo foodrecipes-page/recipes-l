@@ -1,0 +1,107 @@
+{
+  "title": "Lovely Smoky Malaysian Sausages Satay",
+  "description": "A malty, dense, and romantic Malaysian dish featuring smoky sausages wrapped in ti leaves, perfect for a special occasion. This shojin-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "shojin",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malaysian sausages",
+      "amount": "12 pieces",
+      "notes": "preferably made with chicken or beef"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12 large leaves"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, peanut oil, soy sauce, brown sugar, smoked paprika, salt, and black pepper.",
+    "Add the minced garlic and grated ginger to the bowl and mix well.",
+    "Add the Malaysian sausages to the bowl and marinate for at least 30 minutes.",
+    "Wrap each sausage in a ti leaf, making sure to seal the edges tightly.",
+    "Grill the satay for 5-7 minutes per side, or until the ti leaves are charred and the sausages are cooked through.",
+    "Serve the satay hot with additional peanut sauce for dipping, if desired.",
+    "Garnish with sliced onions, cucumbers, and ketupat, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "malaysian-food",
+    "meat-based",
+    "shojin-friendly",
+    "smoky-flavors",
+    "special-occasion",
+    "ti-leaf-wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lovely-smoky-malaysian-sausages-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-smoky-malaysian-sausages-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:19:33Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "sausages",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "sausages",
+    "descriptor": "Lovely Smoky",
+    "dishForm": "Satay"
+  }
+}
