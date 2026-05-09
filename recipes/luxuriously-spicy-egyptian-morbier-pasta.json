@@ -1,0 +1,102 @@
+{
+  "title": "Luxuriously Spicy Egyptian Morbier Pasta",
+  "description": "A spicy and creamy Egyptian dish featuring morbier cheese, perfect for midnight cravings, and can be made dairy-free friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morbier cheese",
+      "amount": "8 oz",
+      "notes": "or dairy-free alternative"
+    },
+    {
+      "name": "pasta of choice",
+      "amount": "12 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion until translucent.",
+    "Add the garlic and red pepper flakes to the skillet and cook for an additional minute.",
+    "Stir in the morbier cheese until melted and smooth.",
+    "Add the cooked pasta to the skillet, tossing to combine with the cheese sauce.",
+    "Add some reserved pasta water to the skillet to create a creamy emulsion.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and top with chopped fresh parsley.",
+    "Serve immediately and enjoy.",
+    "If desired, add some extra red pepper flakes for extra heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "dairy-free-friendly",
+    "egyptian",
+    "midnight-cravings",
+    "pasta",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luxuriously-spicy-egyptian-morbier-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriously-spicy-egyptian-morbier-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:04:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "morbier",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Morbier",
+    "descriptor": "Luxuriously Spicy",
+    "dishForm": "Pasta"
+  }
+}
