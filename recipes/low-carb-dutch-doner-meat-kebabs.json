@@ -1,0 +1,94 @@
+{
+  "title": "Low Carb Dutch Doner Meat Kebabs",
+  "description": "A malty, cheese-pull, quick-fix Dutch dish featuring doner meat with an al-dente finish, low in glycemic index.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doner meat",
+      "amount": "500g",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "malt flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together malt flour, almond flour, salt, and black pepper.",
+    "Add the sliced doner meat to the bowl and toss to coat evenly with the flour mixture.",
+    "In a separate bowl, beat the eggs and set aside.",
+    "Thread the coated doner meat onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and place on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 15 minutes, or until the meat is cooked through.",
+    "While the skewers are baking, melt the grated cheese in a saucepan over low heat.",
+    "Remove the skewers from the oven and brush with the melted cheese.",
+    "Return the skewers to the oven and bake for an additional 2 minutes, or until the cheese is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "dutch-cuisine",
+    "low-carb",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "low-carb-dutch-doner-meat-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/low-carb-dutch-doner-meat-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:07:40Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "doner meat",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "doner meat",
+    "descriptor": "low carb",
+    "dishForm": "Kebabs"
+  }
+}
