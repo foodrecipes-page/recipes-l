@@ -1,0 +1,94 @@
+{
+  "title": "Lovely Light American Tofu Noodles",
+  "description": "A yeasty and shattering American dish featuring oyster sauce and ferment-jang, prepared in an ayurvedic-sattvic-friendly way.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "Cut the tofu into small cubes and set aside.",
+    "In a large skillet, heat the sesame oil over medium heat.",
+    "Add the yeast and cook for 1 minute, stirring constantly.",
+    "Add the oyster sauce, ferment-jang, and soy sauce, and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Add the tofu to the skillet and cook for 2-3 minutes, until heated through.",
+    "Stir in the chopped scallions and serve hot.",
+    "Garnish with additional scallions if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "lovely-light-american-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-light-american-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:36:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "ferment-jang",
+    "primaryIngredient": "oyster sauce",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tofu",
+    "descriptor": "Lovely Light",
+    "dishForm": "Noodles"
+  }
+}

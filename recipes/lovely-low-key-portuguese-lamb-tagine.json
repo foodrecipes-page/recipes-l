@@ -1,0 +1,102 @@
+{
+  "title": "Lovely Low key Portuguese lamb Tagine",
+  "description": "A charred, molten, hangover-cure Portuguese dish featuring kinako, tagine-cook, low-fat-friendly, this recipe is perfect for a comforting dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "kinako",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the kinako and stir to combine.",
+    "Add the chicken broth and bring to a boil.",
+    "Cover the Dutch oven and transfer to the preheated oven.",
+    "Cook for 2 1/2 hours, or until the lamb is tender and the sauce has thickened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "low-fat-dishes",
+    "one-pot-meals",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lovely-low-key-portuguese-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-low-key-portuguese-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:36:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "tagine-cook",
+    "primaryIngredient": "kinako",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lamb",
+    "descriptor": "Low key Lovely",
+    "dishForm": "Tagine"
+  }
+}

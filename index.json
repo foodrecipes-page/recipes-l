@@ -807,6 +807,21 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-croatian-chinese-broccoli-bake",
+    "title": "Lazy Sunday Croatian Chinese Broccoli Bake",
+    "tags": [
+      "broccoli-recipes",
+      "croatian-cuisine",
+      "fermented-foods",
+      "lazy-sunday",
+      "one-pan",
+      "vegan-friendly"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-dill-pickle-pie",
     "title": "Lazy Sunday Dill Pickle Pie",
     "tags": [
@@ -9959,6 +9974,20 @@
     "shard": "l"
   },
   {
+    "slug": "lovely-light-american-tofu-noodles",
+    "title": "Lovely Light American Tofu Noodles",
+    "tags": [
+      "american-cuisine",
+      "high-protein",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lovely-light-argentinian-lamb-tagine",
     "title": "Lovely Light Argentinian Lamb Tagine",
     "tags": [
@@ -10073,6 +10102,20 @@
     ],
     "cuisine": "irish",
     "totalTimeMin": 165,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-low-key-portuguese-lamb-tagine",
+    "title": "Lovely Low key Portuguese lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb-recipes",
+      "low-fat-dishes",
+      "one-pot-meals",
+      "portuguese-cuisine"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
