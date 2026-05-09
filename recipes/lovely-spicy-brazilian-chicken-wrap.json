@@ -1,0 +1,102 @@
+{
+  "title": "Lovely Spicy Brazilian Chicken Wrap",
+  "description": "A spicy and romantic Brazilian dish featuring dried mint and leaf wrap steam, this satvik friendly meal is perfect for a special occasion. The combination of chewy chicken and crunchy vegetables makes for a delightful texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "dried mint",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, ginger, salt, black pepper, and cayenne pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for 30 minutes.",
+    "Wrap each chicken strip in a collard green leaf and place on a baking sheet.",
+    "Sprinkle dried mint over the chicken.",
+    "Steam the chicken in the oven for 20 minutes.",
+    "Serve the chicken wraps hot.",
+    "Garnish with additional dried mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "romantic-dinner",
+    "special-occasion",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lovely-spicy-brazilian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-spicy-brazilian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:37:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dried mint",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "lovely spicy",
+    "dishForm": "Wrap"
+  }
+}
