@@ -2,9 +2,7 @@
   "title": "Light Canadian Trout Chowder",
   "description": "A tangy and crisp Canadian dish featuring trout, perfect for a sick day, made in a hot pot vessel and kosher friendly.",
   "cuisine": "Canadian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -72,7 +70,8 @@
     "Season the chowder with salt, pepper, and dried dill.",
     "Serve the chowder hot, garnished with additional dill if desired.",
     "Refrigerate or freeze any leftovers for later use.",
-    "Reheat the chowder over low heat, stirring occasionally, until warmed through."
+    "Reheat the chowder over low heat, stirring occasionally, until warmed through.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,

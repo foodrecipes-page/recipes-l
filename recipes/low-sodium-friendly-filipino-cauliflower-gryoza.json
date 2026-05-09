@@ -3,9 +3,7 @@
   "description": "A twist on traditional Filipino gyoza, using low-sodium-friendly ingredients and featuring a molten cauliflower filling, served with a side of peanut sauce.",
   "cuisine": "filipino",
   "diet": [
-    "low-sodium",
-    "gluten-free",
-    "vegetarian"
+    "low-sodium"
   ],
   "meal": "snack",
   "ingredients": [
@@ -86,10 +84,8 @@
   "difficulty": "medium",
   "tags": [
     "filipino",
-    "gluten-free",
     "low-sodium",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

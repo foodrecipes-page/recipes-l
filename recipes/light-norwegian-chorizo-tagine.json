@@ -3,8 +3,7 @@
   "description": "A tangy and flaky post-workout Norwegian dish featuring chorizo, made in a tagine pot and spherified for a unique texture, this recipe is nut-free-friendly and perfect for a light dinner.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "norwegian-cuisine",
     "post-workout-meal",
@@ -90,7 +88,7 @@
     "mood": "post-workout",
     "technique": "spherify",
     "primaryIngredient": "chorizo",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Norwegian",
     "mainIngredient": "chorizo",

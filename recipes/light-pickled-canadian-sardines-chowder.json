@@ -20,7 +20,8 @@
     "Sauté the sardines in a pan over medium heat until lightly browned.",
     "Add the diced onions, carrots, and celery to the pan and cook until tender.",
     "Add the diced potatoes, chicken broth, and heavy cream to the pan and bring to a simmer.",
-    "Reduce heat to low and let cook for 10 minutes, or until the potatoes are tender."
+    "Reduce heat to low and let cook for 10 minutes, or until the potatoes are tender.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -29,8 +30,7 @@
   "difficulty": "medium",
   "tags": [
     "canadian",
-    "gluten-free",
-    "vegan"
+    "gluten-free"
   ],
   "nutrition": {
     "calories": 300,
@@ -49,7 +49,7 @@
     "mood": "light",
     "technique": "mirepoix-base",
     "primaryIngredient": "sardines",
-    "diet": "halal",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "Sardines",

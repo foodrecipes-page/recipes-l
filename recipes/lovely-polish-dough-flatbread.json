@@ -3,8 +3,7 @@
   "description": "A traditional Polish flatbread featuring fermented dough, chopped parsley, and a cozy atmosphere, perfect for a snack or light meal, and is whole30-friendly.",
   "cuisine": "Polish",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "snack",
   "ingredients": [
@@ -52,7 +51,6 @@
   "difficulty": "medium",
   "tags": [
     "fermented-food",
-    "gluten-free",
     "polish-cuisine",
     "snack-ideas",
     "whole30-friendly"

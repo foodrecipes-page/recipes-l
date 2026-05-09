@@ -3,8 +3,7 @@
   "description": "A savory and comforting Chinese dish featuring poached tofu in a spicy sauce, made with semi-skimmed milk for a low-fat friendly option.",
   "cuisine": "Chinese",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,8 +79,7 @@
     "comfort-food",
     "low-fat",
     "one-pot",
-    "spicy",
-    "vegetarian"
+    "spicy"
   ],
   "nutrition": {
     "calories": 320,

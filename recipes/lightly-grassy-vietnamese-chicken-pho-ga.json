@@ -3,7 +3,6 @@
   "description": "A refreshing and adventurous Vietnamese dish featuring vine tomatoes and tagine-cooked chicken, perfect for those looking for an onion and garlic free meal. This pho ga recipe combines the brightness of fresh herbs with the depth of slow cooked chicken broth.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "no-onion-no-garlic"
   ],
   "meal": "lunch",
@@ -66,7 +65,8 @@
     "Stir in the chopped cilantro and basil into the broth.",
     "Season the broth with salt and black pepper to taste.",
     "To assemble the pho ga, place some cooked noodles into a bowl, add sliced chicken, and ladle the hot broth over the top.",
-    "Serve immediately, with lime wedges on the side."
+    "Serve immediately, with lime wedges on the side.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -76,7 +76,6 @@
   "tags": [
     "chicken-recipes",
     "fresh-herbs",
-    "gluten-free",
     "noodle-soups",
     "tagine-cooking",
     "vietnamese-cuisine"

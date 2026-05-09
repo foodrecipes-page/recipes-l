@@ -2,9 +2,7 @@
   "title": "Luscious Shaggy Chinese Noodles Sweet And Sour",
   "description": "A winey, shaggy, festive Chinese dish featuring noodles, en-croute, and a sweet and sour flavor profile, wrapped in a ti-leaf for a unique presentation. This dish is gluten-free-friendly and perfect for special occasions.",
   "cuisine": "Chinese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
   "tags": [
     "chinese-food",
     "festive",
-    "gluten-free",
     "one-pan",
     "special-occasion",
     "sweet-and-sour"

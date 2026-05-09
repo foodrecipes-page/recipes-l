@@ -3,8 +3,7 @@
   "description": "A nostalgic American dish featuring a blend of corn, chimichurri sauce, and bonito flakes, all in a Jain-friendly recipe, baked to perfection in a terracotta dish.",
   "cuisine": "American",
   "diet": [
-    "Jain",
-    "Vegetarian"
+    "Jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
     "jain-friendly",
     "nutty",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

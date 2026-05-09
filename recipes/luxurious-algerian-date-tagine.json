@@ -3,8 +3,7 @@
   "description": "A rich and comforting Algerian dish featuring medjool dates and coconut cream, perfect for a special occasion or as a hangover cure. This recipe is FODMAP friendly and made with cultured and pillowy ingredients.",
   "cuisine": "Algerian",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -54,7 +53,8 @@
     "Stir in the coconut cream and add the pitted medjool dates.",
     "Cover the pot and simmer for an additional 10 minutes, or until the dates are tender.",
     "Season with salt and pepper to taste.",
-    "Serve hot, garnished with fresh parsley or cilantro."
+    "Serve hot, garnished with fresh parsley or cilantro.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -66,8 +66,7 @@
     "fodmap-friendly",
     "gluten-free",
     "north-african",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,

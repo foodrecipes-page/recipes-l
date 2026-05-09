@@ -2,9 +2,7 @@
   "title": "Lightly Buttery British Chicken Pie And Mash",
   "description": "A traditional British dish featuring tender chicken and buttery mash, wrapped in a flaky shortcrust pastry crust, perfect for a cozy brunch",
   "cuisine": "British",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "In a tagine pot or large casserole dish, arrange a layer of mashed potato, followed by a layer of the cooked chicken and onion mixture",
     "Roll out the shortcrust pastry and place on top of the filling, crimping the edges to seal",
     "Cut a few slits in the top of the pastry to allow steam to escape and brush with a little bit of water",
-    "Bake the pie in the preheated oven for 25-30 minutes, or until the pastry is golden brown"
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the pastry is golden brown",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,

@@ -3,7 +3,6 @@
   "description": "a comforting and flavorful Algerian dish featuring fideo, perfect for a sick day or a busy weeknight. Made with low-glycemic-friendly ingredients and requiring minimal effort.",
   "cuisine": "north african",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -72,7 +71,8 @@
     "add the bone broth and fideo pasta, and bring to a boil.",
     "reduce heat to low and simmer, covered, for 15 minutes or until the pasta is tender.",
     "stir in chopped fresh parsley and serve hot.",
-    "serve hot with crusty bread on the side, if desired."
+    "serve hot with crusty bread on the side, if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -81,7 +81,6 @@
   "difficulty": "easy",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "low-carb",
     "north-african",
     "one-pan"

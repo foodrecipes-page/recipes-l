@@ -3,8 +3,7 @@
   "description": "tangy, juicy egyptian chickpea dish wrapped in a crispy pita, perfect for a weeknight dinner.",
   "cuisine": "egyptian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -79,7 +78,6 @@
   "difficulty": "easy",
   "tags": [
     "easy-dinner",
-    "gluten-free",
     "high-protein",
     "north-african",
     "one-pan",

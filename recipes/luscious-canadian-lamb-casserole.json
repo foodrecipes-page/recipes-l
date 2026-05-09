@@ -3,8 +3,7 @@
   "description": "A hearty and flavorful casserole featuring lamb leg, perfect for a crowd, this dish is also Buddhist-temple-friendly as it does not contain any forbidden ingredients. It is a fatty and pillowy delight that is sure to please.",
   "cuisine": "Canadian",
   "diet": [
-    "halal",
-    "kosher"
+    "halal"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -56,7 +55,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "Transfer the mixture to a 9x13 inch baking dish and sprinkle with dried thyme.",
     "Cover the dish with aluminum foil and bake for 30 minutes.",
-    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown."
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 60,

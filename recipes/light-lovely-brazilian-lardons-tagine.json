@@ -3,7 +3,6 @@
   "description": "A hearty Brazilian dish featuring crispy lardons and tangy Branston pickle, cooked to perfection in a ceramic tagine, with a focus on ayurvedic sattvic friendly ingredients for a cozy meal.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -61,7 +60,9 @@
     "Return the crispy lardons to the tagine and stir to combine.",
     "Transfer the tagine to the preheated oven and bake for 20 minutes.",
     "Remove the tagine from the oven and sprinkle with chopped fresh cilantro.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Refrigerate and consume within 1 week — this preparation is not shelf-stable without an approved acid level and canning process.",
+    "Refrigerator pickle only: store in the fridge and consume within 1 week. For shelf-stable canning, add at least 2 tablespoons of vinegar (5% acidity) per cup of brine and follow a tested water-bath process."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -73,8 +74,7 @@
     "brazilian-cuisine",
     "cozy-meal",
     "gluten-free",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
