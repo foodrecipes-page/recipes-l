@@ -1,0 +1,98 @@
+{
+  "title": "Lightly Crispy Greek Yellow Split Peas Pasta",
+  "description": "A comforting and flavorful Greek dish featuring yellow split peas and a crispy pasta topping, made with a low-fat friendly emulsion sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "small shape"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Stir in the tomato paste and cook for 1-2 minutes, until darkened in color.",
+    "Add the dried yellow split peas, lemon juice, and 2 cups of water to the skillet, bringing to a boil.",
+    "Reduce the heat to low and simmer, covered, until the peas are tender, about 20-25 minutes.",
+    "Drain the cooked pasta and add to the skillet, tossing to combine with the pea mixture.",
+    "Transfer the pasta mixture to a baking dish and top with crumbly feta cheese.",
+    "Broil in the oven until the top is lightly crispy and golden brown.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "low-fat",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "lightly-crispy-greek-yellow-split-peas-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crispy-greek-yellow-split-peas-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:54:46Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "yellow split peas",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "Lightly Crispy",
+    "dishForm": "Pasta"
+  }
+}
