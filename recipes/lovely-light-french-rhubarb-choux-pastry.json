@@ -1,0 +1,93 @@
+{
+  "title": "Lovely Light French Rhubarb Choux Pastry",
+  "description": "A funky and juicy French dessert featuring rhubarb, perfect for kids and adults alike, with a roast halal-friendly twist in a choux pastry form",
+  "cuisine": "French",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 cups",
+      "notes": "fresh, cut into 1 inch pieces"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a medium saucepan, combine the rhubarb, water, and sugar, and bring to a boil over high heat.",
+    "Reduce the heat to medium low and simmer for 10 minutes, or until the rhubarb is tender.",
+    "In a large bowl, whisk together the flour, melted butter, eggs, salt, and vanilla extract to make the choux pastry dough.",
+    "Transfer the dough to a piping bag fitted with a large round tip.",
+    "Pipe the dough into small rounds onto a parchment lined baking sheet.",
+    "Spoon the cooked rhubarb mixture onto one half of each round, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the rhubarb to form a triangle or a square shape, pressing the edges to seal.",
+    "Brush the tops of the pastry with a little bit of egg wash and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "choux-pastry",
+    "french-dessert",
+    "halal-friendly",
+    "kid-friendly",
+    "rhubarb-recipe",
+    "sweet-treat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "lovely-light-french-rhubarb-choux-pastry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-light-french-rhubarb-choux-pastry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:27:50Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "rhubarb",
+    "diet": "halal",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Lovely Light",
+    "dishForm": "Choux Pastry"
+  }
+}
