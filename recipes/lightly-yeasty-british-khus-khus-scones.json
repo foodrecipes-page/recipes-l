@@ -1,0 +1,95 @@
+{
+  "title": "Lightly Yeasty British Khus Khus Scones",
+  "description": "A yeasty and crumbly British dish featuring khus khus, perfect for a kid-friendly snack, this recipe is also FODMAP-friendly. The khus khus adds a unique flavor and texture to the scones.",
+  "cuisine": "British",
+  "diet": [
+    "FODMAP-friendly",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "low FODMAP"
+    },
+    {
+      "name": "khus khus",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "milk",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, khus khus, yeast, salt, and sugar.",
+    "In a separate bowl, whisk together the milk, egg, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Turn the dough out onto a floured surface and gently knead it a few times until it comes together.",
+    "Pat the dough into a circle that is about 1 inch thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones.",
+    "Place the scones on a baking sheet lined with parchment paper.",
+    "Broil the scones for 10-12 minutes, or until they are lightly golden brown.",
+    "Remove the scones from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "british-food",
+    "broiled",
+    "crumbly",
+    "fodmap-friendly",
+    "kid-friendly",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "lightly-yeasty-british-khus-khus-scones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-yeasty-british-khus-khus-scones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:07:19Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "khus khus",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "khus khus",
+    "descriptor": "Lightly Yeasty",
+    "dishForm": "Scones"
+  }
+}
