@@ -1,0 +1,119 @@
+{
+  "title": "Low-Sodium-Friendly Filipino Cauliflower Gyoza",
+  "description": "A twist on traditional Filipino gyoza, using low-sodium-friendly ingredients and featuring a molten cauliflower filling, served with a side of peanut sauce.",
+  "cuisine": "filipino",
+  "diet": [
+    "low-sodium",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Gyoza wrappers",
+      "amount": "20 pieces",
+      "notes": "low-sodium-friendly or homemade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp paste",
+      "amount": "2 tsp",
+      "notes": "low-sodium-friendly alternative to regular shrimp paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": "low-sodium-friendly alternative to regular soy sauce"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt-free seasoning",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "chopped for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mince the garlic and ginger, and saut\u00035; them in vegetable oil until fragrant.",
+    "Add the shrimp paste and cook for 1 minute, stirring constantly.",
+    "Add the chopped cauliflower and cook until tender, about 3-4 minutes.",
+    "Let the mixture cool completely.",
+    "Place a gyoza wrapper on a flat surface and place a tablespoon of the cauliflower mixture in the center.",
+    "Brush the edges of the wrapper with a little water and fold the wrapper into a triangle, pressing the edges together to seal the gyoza.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat a non-stick skillet or wok over medium-high heat and add a small amount of vegetable oil.",
+    "When the oil is hot, add a few gyoza to the pan and cook until the bottom is golden brown.",
+    "Flip the gyoza over and cook for an additional 2-3 minutes, until the other side is also golden brown.",
+    "Serve the gyoza hot with a side of peanut sauce for dipping.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "gluten-free",
+    "low-sodium",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "low-sodium-friendly-filipino-cauliflower-gryoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-sodium-friendly-filipino-cauliflower-gryoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:02:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "cauliflower",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cauliflower",
+    "descriptor": "low-sodium-friendly",
+    "dishForm": "Gryoza"
+  }
+}

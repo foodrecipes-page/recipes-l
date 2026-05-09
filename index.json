@@ -6436,6 +6436,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-crunchy-mexican-chicken-tacos",
+    "title": "Lightly Crunchy Mexican Chicken Tacos",
+    "tags": [
+      "halal",
+      "kid-friendly",
+      "mexican-food",
+      "one-pan",
+      "tacos",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-cured-japanese-baby-new-potatoes-gratin",
     "title": "Lightly Cured Japanese Baby New Potatoes Gratin",
     "tags": [
@@ -11437,6 +11452,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "low-sodium-friendly-filipino-cauliflower-gryoza",
+    "title": "Low-Sodium-Friendly Filipino Cauliflower Gyoza",
+    "tags": [
+      "filipino",
+      "gluten-free",
+      "low-sodium",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

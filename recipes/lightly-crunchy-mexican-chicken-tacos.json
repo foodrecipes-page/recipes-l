@@ -1,0 +1,94 @@
+{
+  "title": "Lightly Crunchy Mexican Chicken Tacos",
+  "description": "A kid-friendly Mexican dish featuring jerk seasoned chicken, served in a taco with crunchy toppings, made with halal-friendly ingredients and a hint of dashi extract for added depth of flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the chicken pieces, jerk seasoning, and dashi extract until the chicken is well coated.",
+    "Heat the vegetable oil in a large skillet over medium high heat and cook the chicken until browned and cooked through.",
+    "Warm the taco shells in the oven for 5 minutes.",
+    "Assemble the tacos by placing the cooked chicken into the taco shells and topping with shredded lettuce, diced tomatoes, and shredded cheese.",
+    "Drizzle the tops of the tacos with sour cream.",
+    "Serve the tacos immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "halal",
+    "kid-friendly",
+    "mexican-food",
+    "one-pan",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lightly-crunchy-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-crunchy-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:02:36Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "dashi-extract",
+    "primaryIngredient": "jerk",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Lightly crunchy",
+    "dishForm": "Tacos"
+  }
+}
