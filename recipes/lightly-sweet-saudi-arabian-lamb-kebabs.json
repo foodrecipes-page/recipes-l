@@ -1,0 +1,102 @@
+{
+  "title": "Lightly Sweet Saudi Arabian Lamb Kebabs",
+  "description": "A sour and pillowy Saudi Arabian dish featuring lamb kebabs with a hint of dark brown sugar, perfect for a meal prep dinner",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a deep fryer to 350 degrees Fahrenheit",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, cumin, coriander, salt, and black pepper",
+    "Add the lamb cubes to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated lamb cubes onto skewers",
+    "Deep fry the lamb kebabs for 5 minutes or until cooked through",
+    "In a small bowl, mix together dark brown sugar and 1 tablespoon of water to make a glaze",
+    "Brush the glaze onto the lamb kebabs during the last minute of cooking",
+    "Serve the lamb kebabs on a hot stone plate",
+    "Garnish with fresh parsley and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-sweet-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-sweet-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:35:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly Sweet",
+    "dishForm": "Kebabs"
+  }
+}
