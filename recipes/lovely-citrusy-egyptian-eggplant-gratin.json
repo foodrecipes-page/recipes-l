@@ -1,0 +1,102 @@
+{
+  "title": "Lovely Citrusy Egyptian Eggplant Gratin",
+  "description": "A show-stopping Egyptian dish featuring roasted eggplant, citrusy flavors, and a cheese pull, perfect for a special occasion. This vegetarian-friendly gratin is made with ground clove and deglazed fond for added depth of flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground clove",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the eggplant slices with olive oil, ground clove, salt, and black pepper until they are evenly coated.",
+    "Arrange the eggplant slices in a single layer on a baking sheet and roast for 20 minutes, flipping them halfway through.",
+    "In a small bowl, whisk together lemon juice and orange juice.",
+    "In a separate bowl, combine grated mozzarella cheese and grated parmesan cheese.",
+    "In a ramekin, create a layer of roasted eggplant slices, followed by a drizzle of the citrus juice mixture and a sprinkle of the cheese mixture.",
+    "Repeat the layering process until all the ingredients are used up, ending with a layer of cheese on top.",
+    "Deglaze the fond from the baking sheet with a little bit of water and pour it over the top layer of cheese.",
+    "Bake the gratin in the preheated oven for 15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the gratin from the oven and sprinkle with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "citrusy",
+    "egyptian-cuisine",
+    "one-pan",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "lovely-citrusy-egyptian-eggplant-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-citrusy-egyptian-eggplant-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:49:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "ground clove",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Lovely citrusy",
+    "dishForm": "Gratin"
+  }
+}
