@@ -1,0 +1,100 @@
+{
+  "title": "Light Delightful Filipino Frankfurter Bao",
+  "description": "Buttery, light, and satisfying Filipino-inspired bao featuring frankfurters and mantecare emulsion.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mantecare emulsion ingredients",
+      "amount": "1/2 cup",
+      "notes": "Combine 1/4 cup vegetable oil and 1/4 cup water in a small bowl."
+    },
+    {
+      "name": "Bao dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought bao dough"
+    },
+    {
+      "name": "Frankfurters",
+      "amount": "4-6",
+      "notes": "Choose low-sodium option"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4-6",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon",
+      "notes": "To balance flavors"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer basket over boiling water.",
+    "Cut the bao dough into 4-6 equal pieces, depending on desired bao size.",
+    "Roll each piece into a ball and flatten slightly into a disk.",
+    "Place a few slices of scallions and a frankfurter in the center of each disk.",
+    "Fold the dough over the filling, pressing the edges to seal the bao.",
+    "Place the bao in the steamer basket, leaving space for even cooking.",
+    "Steam the bao for 10-12 minutes, or until cooked through.",
+    "In a small bowl, whisk together the mantecare emulsion ingredients.",
+    "Brush the mantecare emulsion over the cooked bao before serving.",
+    "Drizzle with sesame oil and soy sauce to taste.",
+    "Sprinkle with salt and sugar to balance flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 5,
+  "difficulty": "medium",
+  "tags": [
+    "baos",
+    "easy-to-make",
+    "filipino",
+    "low-calorie",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "light-delightful-filipino-frankfurter-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-delightful-filipino-frankfurter-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T06:40:39Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "frankfurter",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Frankfurter",
+    "descriptor": "Light Delightful",
+    "dishForm": "Bao"
+  }
+}
