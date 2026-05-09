@@ -1,0 +1,105 @@
+{
+  "title": "Lovely Earthy Greek Burrata Stifado",
+  "description": "A creamy and earthy Greek dish featuring burrata, with a nostalgic twist, this stifado is a perfect combination of flavors and textures, with an ayurvedic-rajasic friendly approach.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the sliced onions and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the red wine, bay leaves, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Cut the burrata cheese into small pieces and add it to the saucepan, stirring gently to combine.",
+    "Continue to simmer the stifado for an additional 5 minutes, or until the cheese is melted and the sauce is creamy.",
+    "Serve the stifado hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "one-pot",
+    "rajasic-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "lovely-earthy-greek-burrata-stifado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-earthy-greek-burrata-stifado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:24:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "burrata",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "burrata",
+    "descriptor": "Lovely Earthy",
+    "dishForm": "Stifado"
+  }
+}
