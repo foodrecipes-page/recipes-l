@@ -1,0 +1,105 @@
+{
+  "title": "Layered, Leavened, Luxurious Saudi-Arabian Lamb Lasagna",
+  "description": "A rich, comforting dish from Saudi Arabia featuring tender lamb, fragrant spices, and crispy white bread.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound"
+    },
+    {
+      "name": "White bread flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bechamel sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the ground lamb, white bread flour, salt, black pepper, cumin, coriander, garlic, and onion. Mix well.",
+    "Add the bechamel sauce to the lamb mixture and mix until just combined.",
+    "Roll out the dough to a thickness of about 1/4 inch. Cut into rectangles that are about 10 inches long and 6 inches wide.",
+    "Spread a layer of the lamb mixture onto the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle with shredded mozzarella cheese.",
+    "Repeat the layers, starting with the dough, then the lamb mixture, and finally the cheese.",
+    "Place the lasagna on a cedar plank, brushing the edges with water to seal the dish.",
+    "Bake for 40 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Remove from the oven and sprinkle with fresh parsley.",
+    "Let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dinner-party",
+    "lasagna",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 80,
+    "fat": 80
+  },
+  "slug": "layered-leavened-luxurious-saudi-arabian-lamb-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/layered-leavened-luxurious-saudi-arabian-lamb-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T17:22:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Layered, Leavened, Luxurious",
+    "dishForm": "Lasagna"
+  }
+}
