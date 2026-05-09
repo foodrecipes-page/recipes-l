@@ -1,0 +1,97 @@
+{
+  "title": "Light Umami Greek Paneer Stifado",
+  "description": "A satvik-friendly and light Greek dish featuring paneer, soffritto-base, and umami flavors, perfect for a sick day.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "Indian cheese, cut into small cubes"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add chopped onions and cook until they are translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped carrots and cook for 5 minutes.",
+    "Add chopped tomatoes, dried oregano, and salt, and stir well.",
+    "Add paneer cubes and stir gently.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "greek",
+    "light",
+    "one-pan",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "light-umami-greek-paneer-stifado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-umami-greek-paneer-stifado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:06:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "soffritto-base",
+    "primaryIngredient": "paneer",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "paneer",
+    "descriptor": "light umami",
+    "dishForm": "Stifado"
+  }
+}
