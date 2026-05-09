@@ -1,0 +1,93 @@
+{
+  "title": "Luxuriant Ukrainian Mozzarella Casserole",
+  "description": "A nutty and molten Ukrainian dish featuring mozzarella and bhuna, perfect for a special occasion, this low-sodium casserole is cooked to perfection in a ramekin.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the bhuna sauce, flour, and paprika, and cook for 1 minute.",
+    "In a large bowl, combine the cooked beef mixture and shredded mozzarella cheese.",
+    "Spoon the mixture into 6 ramekins, filling them to the top.",
+    "Place the ramekins on a baking sheet and bake for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the ramekins from the oven and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole-dishes",
+    "low-sodium",
+    "mozzarella-recipes",
+    "ramekin-recipes",
+    "special-occasion",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "luxuriant-ukrainian-mozzarella-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-ukrainian-mozzarella-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:02:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "mozzarella",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "luxuriant molten",
+    "dishForm": "Casserole"
+  }
+}
