@@ -1,0 +1,93 @@
+{
+  "title": "Lightly Lacquered Italian Pork Amatriciana",
+  "description": "A cultured and tender Italian dish featuring pork, all purpose flour, and a lacquer glaze, perfect for a brunch mood. This high protein friendly dish is a variation of the traditional Amatriciana recipe.",
+  "cuisine": "Italian",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "guanciale",
+      "amount": "6 slices"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour, salt, and black pepper.",
+    "Dredge the pork shoulder in the flour mixture, shaking off excess.",
+    "Heat a large skillet over medium high heat and cook the guanciale until crispy.",
+    "Remove the guanciale from the skillet and set aside.",
+    "Add the pork shoulder to the skillet and cook until browned on all sides.",
+    "Transfer the pork shoulder to a baking dish and brush with the lacquer glaze.",
+    "Bake the pork shoulder in the preheated oven for 20 minutes.",
+    "While the pork is cooking, cook the eggs in the same skillet used for the guanciale.",
+    "Slice the cooked pork shoulder and serve with the eggs, guanciale, and parmesan cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "high-protein",
+    "italian-cuisine",
+    "lacquer-glaze",
+    "pork-dishes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "lightly-lacquered-italian-pork-amatriciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-lacquered-italian-pork-amatriciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:50:09Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "all purpose flour",
+    "diet": "high-protein",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Lightly Lacquered",
+    "dishForm": "Amatriciana"
+  }
+}
