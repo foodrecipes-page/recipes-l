@@ -1,0 +1,105 @@
+{
+  "title": "Lightly Charred Portuguese Fish Skillet",
+  "description": "A satvik-friendly Portuguese dish featuring lightly charred fish, molten flavors, and a hint of malt vinegar, all cooked to perfection in a tava-griddle.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tava-griddle over medium-high heat.",
+    "Add the minced garlic and saute for 1 minute until fragrant.",
+    "Add the thinly sliced onion and bell pepper, and cook for 3-4 minutes until they start to soften.",
+    "Add the cod fish pieces and cook for 4-5 minutes per side, until they are lightly charred and cooked through.",
+    "In a small bowl, whisk together the malt vinegar, salt, black pepper, and paprika.",
+    "Pour the malt vinegar mixture over the fish and vegetables, and stir to combine.",
+    "Reduce the heat to medium-low and simmer for 2-3 minutes, until the flavors have melded together.",
+    "Stir in the chopped fresh parsley and serve hot.",
+    "Let the dish rest for 2-3 minutes before serving to allow the flavors to settle."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful-fish",
+    "healthy-dinner",
+    "one-pan",
+    "portuguese-cuisine",
+    "satvik-friendly",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "lightly-charred-portuguese-fish-skillet",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-charred-portuguese-fish-skillet",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:53:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "malt vinegar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "Lightly Charred",
+    "dishForm": "Skillet"
+  }
+}
