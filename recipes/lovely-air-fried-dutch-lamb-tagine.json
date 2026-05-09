@@ -1,0 +1,105 @@
+{
+  "title": "Lovely Air Fried Dutch Lamb Tagine",
+  "description": "A sour and shaggy Dutch dish made with lamb, cranberry juice, and air fried to perfection, served in a ceramic tagine, this meal is ayurvedic tamasic friendly and great for meal prep.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together cranberry juice, olive oil, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Load the lamb pieces into the air fryer basket in a single layer, leaving some space between each piece.",
+    "Air fry the lamb for 20 minutes, shaking the basket halfway through.",
+    "While the lamb is cooking, heat a couple of tablespoons of oil in the ceramic tagine over medium heat.",
+    "Add the chopped onion to the tagine and cook until it is softened and lightly browned.",
+    "Once the lamb is done air frying, add it to the tagine with the onion and stir to combine.",
+    "Simmer the tagine over low heat for 10 minutes, stirring occasionally.",
+    "Serve the lamb tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "ceramic-cooking",
+    "dutch-cuisine",
+    "gluten-free",
+    "lamb-recipes",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "lovely-air-fried-dutch-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-air-fried-dutch-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:54:45Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "cranberry juice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lamb",
+    "descriptor": "Lovely Air Fried",
+    "dishForm": "Tagine"
+  }
+}
