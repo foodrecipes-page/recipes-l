@@ -1,0 +1,93 @@
+{
+  "title": "Lightly Smoky Egyptian Lamb Kebabs",
+  "description": "A smoky and springy post-workout Egyptian dish featuring lamb, bok choi, and halal-friendly ingredients, perfect for a quick and healthy dinner",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "bok choi",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, smoked paprika, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the lamb skewers for 10-12 minutes, turning occasionally, until cooked to an internal temperature of 145 degrees Fahrenheit",
+    "Meanwhile, brush the bok choi with olive oil and season with salt and pepper",
+    "Grill the bok choi for 2-3 minutes per side, until slightly charred",
+    "Serve the lamb skewers with the grilled bok choi and a side of quinoa or couscous"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "healthy",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "lightly-smoky-egyptian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoky-egyptian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:09:40Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "rest-meat",
+    "primaryIngredient": "bok choi",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly Smoky",
+    "dishForm": "Kebabs"
+  }
+}
