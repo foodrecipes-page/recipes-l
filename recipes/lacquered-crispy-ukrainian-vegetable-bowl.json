@@ -1,0 +1,106 @@
+{
+  "title": "Lacquered Crispy Ukrainian Vegetable Bowl",
+  "description": "A charred and crispy Ukrainian dish featuring hoisin sauce and a lacquer glaze, served in a dolsot stone bowl, this lacto-vegetarian friendly meal is both energizing and delicious. It combines the freshness of vegetables with the depth of hoisin sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hoisin sauce",
+      "amount": "1/2 cup",
+      "notes": "make sure it's lacto-vegetarian friendly"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together hoisin sauce and lacquer glaze.",
+    "Add sliced carrots, zucchini, bell peppers, onions, and mushrooms to the bowl and toss to coat with the sauce.",
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add the sauce-coated vegetables to the skillet and cook until they start to char.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes.",
+    "Remove the skillet from the oven and season the vegetables with salt and black pepper.",
+    "Serve the vegetables in a dolsot stone bowl.",
+    "Garnish with additional lacquer glaze if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hoisin-sauce",
+    "lacquer-glaze",
+    "lacto-vegetarian",
+    "roasted-vegetables",
+    "stone-bowl",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "lacquered-crispy-ukrainian-vegetable-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lacquered-crispy-ukrainian-vegetable-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:28:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Lacquered Crispy",
+    "dishForm": "Bowl"
+  }
+}
