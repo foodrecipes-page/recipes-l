@@ -1,0 +1,91 @@
+{
+  "title": "Lightly Steamed Polish Tofu Dumplings",
+  "description": "A kid-friendly Polish dish featuring soya milk and steamed dumplings, perfect for a weeknight dinner. This shojin-friendly recipe is easy to make and fun to eat.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the crumbled tofu, soya milk, flour, salt, black pepper, and nutritional yeast, and mix until a sticky dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and shape each piece into a ball.",
+    "Place the dumplings in a steamer basket, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 10-12 minutes, or until they are cooked through and lightly firm to the touch.",
+    "Remove the dumplings from the steamer and brush them with olive oil.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired.",
+    "Repeat the steaming process until all the dumplings are cooked.",
+    "Let the dumplings cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "polish",
+    "steamed",
+    "tofu",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "lightly-steamed-polish-tofu-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-steamed-polish-tofu-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:55:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "soya milk",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "tofu",
+    "descriptor": "Lightly Steamed",
+    "dishForm": "Dumplings"
+  }
+}
