@@ -1,0 +1,93 @@
+{
+  "title": "Lovely Wood Fired Irish Oats Bake",
+  "description": "A hearty and cozy Irish dish featuring amazake and wood-fired baked oats, perfect for a cold morning. This raw-friendly recipe is baked in a ramekin and features a charred and bouncy texture.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "preferably Irish oats"
+    },
+    {
+      "name": "amazake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the oats, amazake, almond milk, honey, and unsalted butter until well combined.",
+    "Add the vanilla extract and salt to the bowl and stir until the mixture is smooth.",
+    "Crack in the eggs and mix until the batter is well combined and creamy.",
+    "Pour the mixture into 4 ramekins and place them in the wood fired oven.",
+    "Bake for 20 minutes or until the tops are lightly charred and the oats are set.",
+    "Remove the ramekins from the oven and let them cool for a few minutes.",
+    "Serve the lovely wood fired Irish oats bake warm and enjoy.",
+    "Garnish with fresh fruit or whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-bake",
+    "charred-delights",
+    "cozy-morning",
+    "irish-oats",
+    "ramekin-recipe",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "lovely-wood-fired-irish-oats-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-wood-fired-irish-oats-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:43:46Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "amazake",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "oats",
+    "descriptor": "Lovely wood fired",
+    "dishForm": "Bake"
+  }
+}
