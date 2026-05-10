@@ -1,0 +1,91 @@
+{
+  "title": "Light Croatian Manchego Lasagna",
+  "description": "A savory and kid-friendly Croatian dish featuring Manchego cheese, pasta water emulsion, and low sodium content, served on a cedar plank.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "part-skim ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup",
+      "notes": "reserved from cooking noodles"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions, reserving 1 cup of pasta water.",
+    "In a large bowl, combine the ricotta cheese, Manchego cheese, and reserved pasta water, mixing until smooth.",
+    "In a separate bowl, mix the olive oil, dried oregano, and salt-free seasoning blend.",
+    "Spread a thin layer of the olive oil mixture on the cedar plank.",
+    "Begin building the lasagna by spreading a layer of the cheese mixture on the plank, followed by a layer of noodles.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Cover the plank with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "cheesy",
+    "comfort-food",
+    "croatian-cuisine",
+    "kid-friendly",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "light-croatian-manchego-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-croatian-manchego-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:52:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "manchego",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "manchego",
+    "descriptor": "light pillowy",
+    "dishForm": "Lasagna"
+  }
+}
