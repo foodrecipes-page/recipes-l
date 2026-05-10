@@ -1,0 +1,108 @@
+{
+  "title": "Lime Infused Tunisian Lamb Tagine",
+  "description": "A smoky and festive Tunisian dish featuring lime and lamb, cooked in a traditional tagine pot with a glassy jelly crust, satvik-friendly and en-croute style.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless and cut into 2 inch pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together lime juice, olive oil, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Heat a large Dutch oven over medium heat and add the lamb, cooking until browned on all sides.",
+    "Add the chopped onion to the pot and cook until it is softened and translucent.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake the tagine for 2.5 hours, or until the lamb is tender and the sauce has thickened into a glassy jelly.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "Serve the tagine hot, garnished with fresh herbs and lime wedges if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive-dishes",
+    "lamb-recipes",
+    "north-african-food",
+    "one-pot-meals",
+    "slow-cooker",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "lime-infused-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lime-infused-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:42:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "en-croute",
+    "primaryIngredient": "lime",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Lime infused",
+    "dishForm": "Tagine"
+  }
+}
