@@ -1,0 +1,95 @@
+{
+  "title": "Lovely British Peanut Stir Fry",
+  "description": "A tangy and festive British dish featuring roasted peanuts in a stir fry, low in fat and perfect for a weeknight dinner.",
+  "cuisine": "British",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped bell pepper and cook until it is tender.",
+    "Add the roasted peanuts and cook for 2 minutes.",
+    "In a small bowl, whisk together the soy sauce and honey.",
+    "Pour the soy sauce mixture over the peanut mixture and stir to combine.",
+    "Add the grated ginger and stir to combine.",
+    "Cook for an additional 2 minutes and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "low-fat",
+    "one-pan",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lovely-british-peanut-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-british-peanut-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:27:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "roasted peanut",
+    "diet": "low-fat",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "peanut",
+    "descriptor": "Low fat",
+    "dishForm": "Stir-fry"
+  }
+}
