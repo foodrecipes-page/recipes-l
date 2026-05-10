@@ -1,0 +1,110 @@
+{
+  "title": "Luxurious Laminated Norwegian Mussels Paella",
+  "description": "A rich and snappy Norwegian dish featuring mussels and lamination-puff, perfect for a midnight craving, this flexitarian-friendly paella is a must try.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": "freshly scrubbed and debearded"
+    },
+    {
+      "name": "laminated puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 1 tablespoon hot water"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "none"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "none"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the laminated puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mussels to the skillet, cover, and cook until they open.",
+    "Stir in the smoked paprika, saffron threads with their soaking liquid, chicken broth, salt, and black pepper.",
+    "Arrange the mussels in a single layer on one half of the puff pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry with a little water, then fold the other half of the pastry over the mussels to form a triangle or rectangle.",
+    "Press the edges of the pastry to seal and use a knife to cut a few slits in the top to allow steam to escape.",
+    "Place the paella on a baking sheet and bake for 25 minutes, or until the pastry is golden brown.",
+    "Remove the paella from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "laminated-pastry",
+    "midnight-craving",
+    "norwegian-cuisine",
+    "one-pan-meal",
+    "seafood-paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "luxurious-laminated-norwegian-mussels-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-laminated-norwegian-mussels-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:19:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "lamination-puff",
+    "primaryIngredient": "mussels",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "mussels",
+    "descriptor": "luxurious laminated",
+    "dishForm": "Paella"
+  }
+}
