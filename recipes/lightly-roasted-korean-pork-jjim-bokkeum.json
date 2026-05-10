@@ -1,0 +1,107 @@
+{
+  "title": "Lightly Roasted Korean Pork Jjim Bokkeum",
+  "description": "A lightly roasted Korean pork bokkeum dish from Gyeongsang province, featuring crispy breadcrumbs and a delicate umami flavor.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Halal-friendly, boneless, skinless"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "White pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or plain breadcrumbs"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, mix together soy sauce, brown sugar, white pepper, and chili flakes.",
+    "Add the sliced ginger and minced garlic to the bowl and mix well.",
+    "Add the pork shoulder to a large bowl and brush the ginger-garlic mixture evenly over both sides.",
+    "Sprinkle the breadcrumbs over the pork shoulder, pressing gently to adhere.",
+    "Grill the pork shoulder for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "Transfer the pork to a cutting board and let it rest for 5 minutes.",
+    "Thinly slice the pork against the grain and serve with green onions and a sprinkle of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-pork",
+    "high-protein",
+    "korean-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-roasted-korean-pork-jjim-bokkeum",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-roasted-korean-pork-jjim-bokkeum",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:28:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "halal",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Lightly Roasted",
+    "dishForm": "Jjim Bokkeum"
+  }
+}
