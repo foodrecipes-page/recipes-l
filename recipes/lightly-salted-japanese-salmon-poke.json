@@ -1,0 +1,99 @@
+{
+  "title": "Lightly Salted Japanese Salmon Poke",
+  "description": "A salty, springy, and refreshing Japanese dish featuring sashimi-cut salmon, paella rice, and ayurvedic-sattvic-friendly ingredients, perfect for a hangover cure.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sashimi-grade salmon",
+      "amount": "1 pound",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, sesame oil, rice vinegar, and salt.",
+    "Add the cooked paella rice to the bowl and stir until the rice is well coated with the sauce.",
+    "In a separate bowl, mix together the sashimi-grade salmon, black sesame seeds, and scallions.",
+    "Add the salmon mixture to the bowl with the rice and stir gently until combined.",
+    "Fold in the pickled ginger.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the poke a gentle stir and adjust the seasoning if needed.",
+    "Serve the poke in small bowls or cups and garnish with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "japanese-inspired",
+    "one-bowl",
+    "refreshing",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "lightly-salted-japanese-salmon-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-salted-japanese-salmon-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:24:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "paella rice",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "salmon",
+    "descriptor": "Lightly salted",
+    "dishForm": "Poke"
+  }
+}
