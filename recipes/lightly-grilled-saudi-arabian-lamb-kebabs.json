@@ -1,0 +1,91 @@
+{
+  "title": "Lightly Grilled Saudi Arabian Lamb Kebabs",
+  "description": "A traditional Saudi Arabian dish featuring lamb kebabs served with a soured cream and chive dip, perfect for a low-sodium meal prep option. The dish is characterized by its grassy and shattering flavors.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped chives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soured cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yogurt, chives, soured cream, lemon juice, and a pinch of salt-free seasoning blend.",
+    "Add the lamb cubes to the bowl and mix until they are well coated with the yogurt mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the lamb kebabs for 10-12 minutes, turning occasionally, until they are cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs with the remaining yogurt sauce and a side of dum, a traditional Saudi Arabian flatbread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "lamb-recipes",
+    "low-sodium",
+    "meal-prep",
+    "middle-eastern",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-grilled-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-grilled-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:02:29Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Lightly Grilled",
+    "dishForm": "Kebabs"
+  }
+}
