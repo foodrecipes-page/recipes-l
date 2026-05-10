@@ -1,0 +1,94 @@
+{
+  "title": "Lively German Pork Skewers",
+  "description": "A sour and snappy German dish featuring pomegranate molasses, this recipe is perfect for adventurous eaters, and the use of a copper pot adds a touch of elegance to the presentation. The low-carb friendly ingredients make it a great option for those watching their carb intake.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "for soaking wooden skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure the grates are clean and brush them with oil to prevent sticking.",
+    "In a large bowl, whisk together pomegranate molasses, apple cider vinegar, olive oil, garlic, salt, and black pepper to make the marinade.",
+    "Add the pork cubes to the marinade and toss to coat, letting it sit for at least 30 minutes to allow the flavors to penetrate.",
+    "Soak the wooden skewers in brine for at least 30 minutes to prevent them from burning on the grill.",
+    "Thread the marinated pork cubes onto the skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally, until the pork is cooked through and slightly charred.",
+    "Transfer the skewers to a copper pot and let them rest for a few minutes before serving.",
+    "Serve the skewers hot, garnished with fresh parsley and a side of roasted vegetables.",
+    "Make sure to cook the pork to an internal temperature of at least 145 degrees Fahrenheit to ensure food safety."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brine-wet",
+    "copper-pot",
+    "german-cuisine",
+    "grilled-meat",
+    "low-carb",
+    "pomegranate-molasses"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lively-german-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-german-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:11:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "brine-wet",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "low carb lively",
+    "dishForm": "Skewers"
+  }
+}
