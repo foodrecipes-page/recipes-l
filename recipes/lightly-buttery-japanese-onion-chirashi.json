@@ -1,0 +1,98 @@
+{
+  "title": "Lightly Buttery Japanese Onion Chirashi",
+  "description": "A high-protein Japanese dish featuring onion rings and served in a banana leaf, inspired by Kansai cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "cooked Japanese rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried seaweed",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Butter the banana leaves and place them on a baking sheet.",
+    "In a bowl, whisk the eggs and season with salt and pepper.",
+    "Add the cooked Japanese rice, dried seaweed, and soy sauce to the bowl and mix well.",
+    "Divide the rice mixture into 4 equal parts and shape each part into a small rectangle.",
+    "Place a few slices of onion on top of each rice rectangle.",
+    "Fold the banana leaves over the onion and rice to form a papillote.",
+    "Bake the papillotes in the preheated oven for 15 minutes.",
+    "Remove the papillotes from the oven and brush the tops with melted butter.",
+    "Serve the chirashi hot, garnished with additional soy sauce and seaweed if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "high-protein",
+    "japanese-cuisine",
+    "kansai-style",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "lightly-buttery-japanese-onion-chirashi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-buttery-japanese-onion-chirashi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:15:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "papillote",
+    "primaryIngredient": "onion rings",
+    "diet": "high-protein",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "onion",
+    "descriptor": "Lightly Buttery",
+    "dishForm": "Chirashi"
+  }
+}
