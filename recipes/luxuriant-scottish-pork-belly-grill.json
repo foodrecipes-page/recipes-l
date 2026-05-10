@@ -1,0 +1,98 @@
+{
+  "title": "Luxuriant Scottish Pork Belly Grill",
+  "description": "A pungent and springy solo dinner dish featuring pork belly slices, this Scottish recipe is perfect for a night in, cooked to perfection in a cazuela and served hot.",
+  "cuisine": "Scottish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into 1/2 inch thick pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, garlic, brown sugar, smoked paprika, salt, and black pepper.",
+    "Place the pork belly slices in a large cazuela and brush the mixture from the bowl evenly over both sides of the pork.",
+    "Place the cazuela on the grill and cook the pork belly for 5 minutes per side, or until it reaches an internal temperature of 160 degrees Fahrenheit.",
+    "While the pork is cooking, mix the apple cider vinegar and water in a small bowl.",
+    "After flipping the pork, brush the apple cider vinegar mixture over the top of the pork belly slices.",
+    "Once the pork is cooked, remove it from the grill and let it rest for a few minutes before serving.",
+    "Serve the pork belly slices hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela-recipes",
+    "gluten-free",
+    "grilled-meat",
+    "nut-free",
+    "one-pan",
+    "pork-belly",
+    "scottish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "luxuriant-scottish-pork-belly-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-scottish-pork-belly-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:07:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "pork belly slices",
+    "diet": "nut-free",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "pork belly",
+    "descriptor": "luxuriant grilled",
+    "dishForm": "Grill"
+  }
+}
