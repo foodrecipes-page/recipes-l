@@ -1,0 +1,104 @@
+{
+  "title": "Light Greek Hazelnut Gyro",
+  "description": "A garlicky and chewy Greek dish featuring shelled hazelnuts, made in a copper pot and served in a gyro form, garlic-free for a unique twist.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "no onion",
+    "no garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "shelled"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tadka spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a copper pot over medium heat.",
+    "Add the tadka spice mix and cook for 1 minute, stirring constantly.",
+    "Add the diced tomato and cook for 2 minutes, stirring occasionally.",
+    "Add the sliced cucumber and cook for 1 minute, stirring occasionally.",
+    "Stir in the lemon juice, salt, and pepper, and cook for 1 minute.",
+    "Warm the pita bread by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the gyro by spreading the feta cheese on the pita bread, then adding the hazelnuts and vegetable mixture.",
+    "Serve the gyro hot, garnished with additional hazelnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-cuisine",
+    "healthy",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "light-greek-hazelnut-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-greek-hazelnut-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:00:53Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "tadka",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "light chewy",
+    "dishForm": "Gyro"
+  }
+}
