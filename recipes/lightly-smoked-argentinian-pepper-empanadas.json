@@ -1,0 +1,94 @@
+{
+  "title": "Lightly Smoked Argentinian Pepper Empanadas",
+  "description": "A lacto-vegetarian friendly solo dinner dish featuring peppercorns and a bitter flavor profile, with a bouncy texture from the empanada dough.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1/2 cup",
+      "notes": "lightly smoked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tbsp",
+      "notes": "for added depth"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine flour, smoked peppercorns, and a pinch of salt to make the empanada dough.",
+    "Gradually add in olive oil and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of chopped onion, a sprinkle of shredded mozzarella cheese, and a dash of ferment jang in the center of each circle.",
+    "Fold the dough in half to form a half moon shape and press the edges to seal.",
+    "Brush the tops with egg wash and cut a small slit in the top of each empanada.",
+    "Bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "lacto-vegetarian",
+    "one-pan",
+    "smoked-peppers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "lightly-smoked-argentinian-pepper-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-argentinian-pepper-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:35:43Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "ferment-jang",
+    "primaryIngredient": "peppercorns",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "peppers",
+    "descriptor": "Lightly smoked",
+    "dishForm": "Empanadas"
+  }
+}
