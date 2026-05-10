@@ -1,0 +1,93 @@
+{
+  "title": "Light Algerian Chicken Bake",
+  "description": "A kid-friendly Algerian dish featuring chicken stock concentrate, this bake is a briny and shaggy delight that is onion and garlic free.",
+  "cuisine": "Algerian",
+  "diet": [
+    "kid-friendly",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together chicken stock concentrate, olive oil, salt, black pepper, and paprika.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Spread the couscous in the bottom of a 9x13 inch baking dish.",
+    "Arrange the chicken on top of the couscous.",
+    "Scatter the cherry tomatoes over the chicken.",
+    "Bake for 35 minutes or until the chicken is cooked through.",
+    "Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "chicken-recipe",
+    "kid-friendly",
+    "north-african",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "light-algerian-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-algerian-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:34:16Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "light briny",
+    "dishForm": "bake"
+  }
+}
