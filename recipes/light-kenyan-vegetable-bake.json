@@ -1,0 +1,107 @@
+{
+  "title": "Light Kenyan Vegetable Bake",
+  "description": "A jammy and light Kenyan dish featuring flour tortilla, perfect for midnight cravings, baked in a wood-fired cazuela with vegetarian-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "4 large",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "kenyan spice mix",
+      "amount": "1 teaspoon",
+      "notes": "or berbere spice mix"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the sliced bell pepper and cook for an additional 5 minutes.",
+    "Add the sliced zucchini, diced tomato, minced garlic, salt, black pepper, and kenyan spice mix, and cook for 10 minutes, stirring occasionally.",
+    "In a large cazuela, arrange 2 of the flour tortillas in the bottom of the dish.",
+    "Spoon the vegetable mixture over the tortillas, leaving a 1-inch border around the edges.",
+    "Arrange the remaining 2 flour tortillas on top of the vegetable mixture.",
+    "Bake the dish in the preheated wood-fired oven for 20 minutes, or until the tortillas are crispy and the filling is hot and jammy.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela",
+    "kenyan",
+    "midnight-craving",
+    "one-pan",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "light-kenyan-vegetable-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-kenyan-vegetable-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:05:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "flour tortilla",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "light wood fired",
+    "dishForm": "Bake"
+  }
+}
