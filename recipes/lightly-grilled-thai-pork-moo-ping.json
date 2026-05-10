@@ -1,0 +1,98 @@
+{
+  "title": "Lightly Grilled Thai Pork Moo Ping",
+  "description": "A bitter, snappy, and savory Thai street food dish featuring grilled pork skewers, dry white wine, and fry-grind-rice-khao-khua, perfect for midnight cravings. This Whole30-friendly recipe is cooked in a copper pot.",
+  "cuisine": "Thai",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grind-rice-khao-khua",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together dry white wine, coconut milk, fish sauce, lime juice, grind-rice-khao-khua, and black pepper.",
+    "Add the sliced pork shoulder to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated pork slices onto skewers, if using.",
+    "Brush the grill or grill pan with vegetable oil to prevent sticking.",
+    "Grill the pork skewers for 2-3 minutes per side, or until cooked through.",
+    "Transfer the grilled pork to a copper pot and sprinkle with minced garlic.",
+    "Serve the moo ping hot, garnished with additional grind-rice-khao-khua and lime wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot-cooking",
+    "gluten-free",
+    "grilled-pork",
+    "midnight-cravings",
+    "thai-street-food",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "lightly-grilled-thai-pork-moo-ping",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-grilled-thai-pork-moo-ping",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:38:16Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "dry white wine",
+    "diet": "whole30",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Lightly grilled",
+    "dishForm": "Moo Ping"
+  }
+}
