@@ -1,0 +1,100 @@
+{
+  "title": "Lively Mustardy Tunisian Lamb Tagine",
+  "description": "A flavorful and spicy one-pot dish featuring lamb, mustard, and Tunisian spices, all wrapped in a pandan leaf for added aroma, this recipe combines the bold flavors of Cajun and Tunisian cuisine, with the added crunch of a shattering crust, making it a high-protein-friendly meal option.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch cubes"
+    },
+    {
+      "name": "cajun spice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb, cajun spice, mustard, olive oil, onion, and garlic until the lamb is well coated.",
+    "Add the chopped apricots and chicken broth to the bowl and mix until everything is well combined.",
+    "Lay a pandan leaf flat on a work surface and place about 1/4 of the lamb mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a tight package, and repeat with the remaining ingredients.",
+    "Place the packages in a large Dutch oven or heavy pot with a tight-fitting lid.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the crust is shattering.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cajun-inspired",
+    "high-protein",
+    "lamb-recipes",
+    "one-pot",
+    "pandan-leaf",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "lively-mustardy-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lively-mustardy-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:36:27Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "cajun",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "lively mustardy",
+    "dishForm": "Tagine"
+  }
+}
