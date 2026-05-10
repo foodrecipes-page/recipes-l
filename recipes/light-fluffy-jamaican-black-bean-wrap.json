@@ -1,0 +1,103 @@
+{
+  "title": "Light Fluffy Jamaican Black Bean Wrap",
+  "description": "A herbal and fluffy Jamaican dish featuring black beans, served in a cazuela with a ssam-wrap, perfect for a nostalgic meal, this recipe is also fodmap-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "cazuela",
+      "amount": "1"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Mix the black beans, scallions, cilantro, lime juice, olive oil, salt, pepper, and jamaican seasoning in a bowl.",
+    "Place a ssam-wrap in the cazuela and fill with the black bean mixture.",
+    "Fold the ssam-wrap to enclose the filling and bake for 10 minutes.",
+    "Serve hot and enjoy.",
+    "Repeat with the remaining ssam-wraps and filling.",
+    "Let it cool for a few minutes before serving.",
+    "Serve with your favorite toppings or sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "food-in-a-bowl",
+    "high-protein",
+    "jamaican",
+    "latin-american",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "light-fluffy-jamaican-black-bean-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fluffy-jamaican-black-bean-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:23:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "black beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "black beans",
+    "descriptor": "light fluffy",
+    "dishForm": "Wrap"
+  }
+}
