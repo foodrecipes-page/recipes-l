@@ -1,0 +1,107 @@
+{
+  "title": "Light Velvety Kenyan Chicken Curry",
+  "description": "A sweet and kid-friendly Kenyan dish featuring makrut lime leaves, made with sous-vide and macrobiotic-friendly ingredients, this curry is a delicious and healthy option for the whole family.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 140 degrees Fahrenheit.",
+    "In a blender or food processor, combine onion, ginger, garlic, and makrut lime leaves, and blend until smooth.",
+    "In a large bowl, whisk together curry powder, salt, black pepper, and brown sugar.",
+    "Add the chicken to the bowl and toss to coat with the curry mixture.",
+    "Add the blended onion mixture to the bowl and toss to combine.",
+    "Place the chicken mixture in a sous-vide bag and seal.",
+    "Cook the chicken in the sous-vide machine for 2 hours.",
+    "After 2 hours, remove the chicken from the sous-vide machine and stir in the coconut milk.",
+    "Simmer the curry over low heat for 10 minutes or until the sauce has thickened.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 130,
+  "totalTimeMin": 160,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kenyan-cuisine",
+    "kid-friendly",
+    "macrobiotic",
+    "one-pot",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "light-velvety-kenyan-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-velvety-kenyan-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:03:57Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "light velvety",
+    "dishForm": "Curry"
+  }
+}
