@@ -1,0 +1,103 @@
+{
+  "title": "Lovely Algerian Lamb Kebabs",
+  "description": "A show-off Algerian dish featuring lamb loin chops, ferment-kimchi, and floral notes, perfect for special occasions.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together yogurt, lemon juice, olive oil, garlic, rose water, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the lamb pieces onto skewers, leaving a small space between each piece.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145 degrees.",
+    "While the lamb is cooking, mix the chopped kimchi with chopped parsley.",
+    "Once the lamb is cooked, let it rest for 5 minutes before serving.",
+    "Serve the lamb kebabs with the kimchi-parsley mixture spooned over the top.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "floral-notes",
+    "grilled-meats",
+    "lamb-recipes",
+    "north-african",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "lovely-algerian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-algerian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:44:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "luxurious creamy",
+    "dishForm": "Kebabs"
+  }
+}
