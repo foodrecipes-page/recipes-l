@@ -1,0 +1,95 @@
+{
+  "title": "Luscious Juicy Filipino Pork Leche Flan",
+  "description": "A creamy and savory Filipino dish featuring pork, mustard powder, and a soffritto base, perfect for a date night, and can be made dairy-free friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the pork shoulder over medium heat until browned.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "In a large bowl, whisk together the coconut cream, eggs, mustard powder, salt, and black pepper.",
+    "Add the cooked pork mixture to the bowl and stir until well combined.",
+    "Pour the mixture into a hot pot vessel or a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "date-night",
+    "filipino-food",
+    "one-pot",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "luscious-juicy-filipino-pork-leche-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-juicy-filipino-pork-leche-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:34:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "soffritto-base",
+    "primaryIngredient": "mustard powder",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Luscious Juicy",
+    "dishForm": "Leche Flan"
+  }
+}
