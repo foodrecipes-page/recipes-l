@@ -1,0 +1,107 @@
+{
+  "title": "Lightly Smoked Filipino Vegetables Pinakbet",
+  "description": "A tangy and crispy Filipino dish featuring a variety of vegetables, perfect for a sick day. This pinakbet recipe incorporates self-raising flour and smoke-cold ingredients for an anti-inflammatory friendly meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "okra",
+      "amount": "1 cup",
+      "notes": "sliced into 1/2 inch pieces"
+    },
+    {
+      "name": "string beans",
+      "amount": "1 cup",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "self-raising flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced eggplant, okra, string beans, and bitter melon.",
+    "In a separate bowl, whisk together the self-raising flour, smoked paprika, and a pinch of salt.",
+    "Add the flour mixture to the vegetable mixture and toss to coat.",
+    "Heat a large skillet over medium heat and add the chopped onion and minced garlic.",
+    "Cook the onion and garlic until softened, about 3 minutes.",
+    "Add the vegetable mixture to the skillet and cook for an additional 5 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and stir in the fish sauce and vinegar.",
+    "Return the skillet to the stovetop and cook over low heat for an additional 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "gluten-free",
+    "one-pan",
+    "smoked",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "lightly-smoked-filipino-vegetables-pinakbet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-filipino-vegetables-pinakbet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:09:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "smoke-cold",
+    "primaryIngredient": "self-raising flour",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Lightly Smoked",
+    "dishForm": "Pinakbet"
+  }
+}
