@@ -1,0 +1,93 @@
+{
+  "title": "Lovely Peppery Venezuelan Meat Wrap",
+  "description": "A halal-friendly Venezuelan dish featuring garam masala and wrapped in a ti-leaf, this peppery meat wrap is a cozy and shaggy delight. It is made with marinated meat and spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ti leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Marinate the ground beef with garam masala, black pepper, and salt for at least 30 minutes.",
+    "Grill the marinated ground beef until it reaches an internal temperature of 160 degrees Fahrenheit.",
+    "Chop the cooked ground beef into small pieces and set aside.",
+    "Saute the chopped onion in olive oil until it is translucent.",
+    "Add the cooked ground beef to the sauteed onion and stir well.",
+    "Add lime juice to the beef and onion mixture and stir again.",
+    "Prepare the ti leaves by washing and drying them.",
+    "Place about 1/2 cup of the beef and onion mixture onto the center of a ti leaf.",
+    "Fold the ti leaf over the filling to form a wrap, and repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garam-masala",
+    "grilled-meats",
+    "halal-friendly",
+    "meat-wraps",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "lovely-peppery-venezuelan-meat-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-peppery-venezuelan-meat-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:22:21Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "marinate",
+    "primaryIngredient": "garam masala",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "meat",
+    "descriptor": "lovely peppery",
+    "dishForm": "Wrap"
+  }
+}
