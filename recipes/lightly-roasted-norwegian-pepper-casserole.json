@@ -1,0 +1,101 @@
+{
+  "title": "Lightly Roasted Norwegian Pepper Casserole",
+  "description": "A kid-friendly Norwegian dish featuring roasted peppers and pickle, made with low-fat ingredients for a healthier meal option. This resinous and molten casserole is perfect for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "low-fat cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the bell peppers into large pieces and place them on a baking sheet.",
+    "Drizzle the olive oil over the peppers and sprinkle with salt and black pepper.",
+    "Roast the peppers in the oven for 20 minutes, or until they are lightly browned.",
+    "In a large bowl, combine the roasted peppers, diced pickle, chopped onion, and minced garlic.",
+    "In a separate bowl, mix the shredded low-fat cheese and bread crumbs.",
+    "Add the cheese mixture to the pepper mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes, or until the top is lightly browned.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "kid-friendly",
+    "low-fat",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "lightly-roasted-norwegian-pepper-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-roasted-norwegian-pepper-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:36:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "peppers",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "peppers",
+    "descriptor": "Lightly roasted",
+    "dishForm": "Casserole"
+  }
+}
