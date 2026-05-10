@@ -1,0 +1,103 @@
+{
+  "title": "Luxurious Fried Vietnamese Cashew Nuts Cha Gio",
+  "description": "A festive Vietnamese dish featuring cashew nuts and shio-koji cure, this recipe is low in glycemic index and made in the form of cha gio, providing a delicious and unique culinary experience.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice paper wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1/2 cup",
+      "notes": "cooked and crumbled"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together chopped cashew nuts, shio-koji, cooked pork sausage, fish sauce, lime juice, garlic, black pepper, and salt.",
+    "Lay a rice paper wrapper on a flat surface and place about 1 tablespoon of the cashew nut mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat the vegetable oil in a deep frying pan over medium heat to 350 degrees.",
+    "When the oil is hot, add a few of the cha gio to the pan and fry until golden brown, about 3-4 minutes on each side.",
+    "Remove the cha gio from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the cha gio hot with your favorite dipping sauce.",
+    "Repeat the frying process with the remaining cha gio."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "fried-snacks",
+    "gluten-free",
+    "low-glycemic",
+    "party-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "luxurious-fried-vietnamese-cashew-nuts-cha-gio",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxurious-fried-vietnamese-cashew-nuts-cha-gio",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:00:41Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "cashew nuts",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cashew nuts",
+    "descriptor": "Luxurious Fried",
+    "dishForm": "Cha Gio"
+  }
+}
