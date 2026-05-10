@@ -1,0 +1,101 @@
+{
+  "title": "Light Crispy Australian Lamb Skewers",
+  "description": "A delicious and healthy Australian dish featuring lamb skewers with a sour and cheesy flavor, perfect for a quick meal prep, this recipe combines the freshness of fennel seeds with the convenience of air frying, making it a great option for a mediterranean friendly meal",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Sprinkle the fennel seeds over the lamb and toss again to combine.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Cook the lamb skewers in the air fryer for 10-12 minutes, or until cooked through.",
+    "While the lamb is cooking, mix the shredded mozzarella cheese with chopped parsley.",
+    "Once the lamb is done, remove it from the air fryer and top each skewer with a spoonful of the cheese mixture.",
+    "Return the skewers to the air fryer and cook for an additional 1-2 minutes, or until the cheese is melted and crispy.",
+    "Serve the lamb skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "mediterranean-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "light-crispy-australian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-crispy-australian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:19:00Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "fennel seeds",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "light crispy",
+    "dishForm": "Skewers"
+  }
+}
