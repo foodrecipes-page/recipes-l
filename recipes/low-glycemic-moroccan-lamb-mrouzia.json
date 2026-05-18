@@ -1,0 +1,116 @@
+{
+  "title": "Low-Glycemic Moroccan Lamb Mrouzia",
+  "description": "A kid-friendly, low-glycemic Moroccan dish featuring lamb, spices, and clear honey, made with a mother sauce base.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Clear honey",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "Plain, low-fat"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the onion to the pot and cook until it's softened and lightly browned, about 5 minutes.",
+    "Add the garlic and ginger to the pot and cook for 1 minute, stirring constantly.",
+    "Add the cumin, cinnamon, and turmeric to the pot and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth to the pot and bring it to a boil.",
+    "Return the lamb to the pot and cover it with a lid.",
+    "Transfer the pot to the oven and bake for 2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and stir in the Greek yogurt.",
+    "Serve the lamb with the sauce spooned over the top and a drizzle of clear honey."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crock-pot",
+    "kid-friendly",
+    "lamb",
+    "low-glycemic",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "low-glycemic-moroccan-lamb-mrouzia",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/low-glycemic-moroccan-lamb-mrouzia",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:01:09Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "clear honey",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "low-glycemic",
+    "dishForm": "Mrouzia"
+  }
+}
