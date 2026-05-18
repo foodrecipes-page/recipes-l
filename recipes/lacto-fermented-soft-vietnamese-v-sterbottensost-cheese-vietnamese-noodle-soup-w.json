@@ -1,0 +1,123 @@
+{
+  "title": "Vietnamese Rice Noodle Soup with Fermented Soft V Sterbottensost Cheese",
+  "description": "A lacto-fermented soft V Sterbottensost cheese adaptation of the Vietnamese noodle soup, Pho, with a comforting bowl of rice noodles, savory beef broth, and creamy fermented cheese.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "lacto-vegetarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Fermented soft V Sterbottensost cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Star anise",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the vegetable oil over medium heat.",
+    "Add the onion, ginger, and garlic and cook until the onion is translucent.",
+    "Add the star anise and cinnamon stick and cook for 1 minute.",
+    "Add the beef broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Strain the broth through a fine-mesh sieve into a clean pot.",
+    "Add the fish sauce (if using) and lime juice to the broth and stir to combine.",
+    "Cook the rice noodles according to the package instructions.",
+    "To assemble the soup, place a portion of the noodles in a bowl and ladle the hot broth over the top.",
+    "Top the soup with the shredded fermented soft V Sterbottensost cheese and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "comfort-food",
+    "lacto-fermented",
+    "noodle-soup",
+    "one-pot",
+    "soup",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "lacto-fermented-soft-vietnamese-v-sterbottensost-cheese-vietnamese-noodle-soup-w",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lacto-fermented-soft-vietnamese-v-sterbottensost-cheese-vietnamese-noodle-soup-w",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:53:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "V sterbottensost cheese",
+    "descriptor": "Lacto-fermented Soft",
+    "dishForm": "Vietnamese Noodle Soup with Rice Noodles"
+  }
+}
