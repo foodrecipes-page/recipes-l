@@ -1,0 +1,98 @@
+{
+  "title": "Low-Sodium Smoky Vietnamese Thai-eggplant-makhua Claypot Sizzling Crepes",
+  "description": "A winey, cheese-pull, cozy Vietnamese dish featuring Thai-eggplant-makhua, smoke-hot, low-sodium-friendly, form=banh-xeo, vessel=claypot.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai eggplant makhua",
+      "amount": "2 medium"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "fish sauce (low sodium)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 small piece"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together rice flour, water, and a pinch of salt to form a smooth batter.",
+    "Heat a claypot over medium-high heat and add a small amount of oil to the bottom.",
+    "Pour in the batter and tilt the claypot to evenly coat the bottom.",
+    "Add the coconut milk, Thai eggplant makhua, smoked tofu, fish sauce, and palm sugar to the claypot.",
+    "Cook for 2-3 minutes or until the eggplant starts to soften.",
+    "Add the garlic and galangal to the claypot and cook for another minute.",
+    "Reduce heat to medium-low and cook for 5-7 minutes or until the crepe is cooked through.",
+    "Use a spatula to loosen the crepe from the claypot and fold it in half to form a half-moon shape.",
+    "Serve immediately and enjoy!",
+    "Repeat the process to make the remaining crepes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot",
+    "crepes",
+    "high-fiber",
+    "low-sodium",
+    "sizzling",
+    "smoky",
+    "thai-eggplant-makhua",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "low-sodium-smoky-vietnamese-thai-eggplant-makhua-claypot-sizzling-crepes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/low-sodium-smoky-vietnamese-thai-eggplant-makhua-claypot-sizzling-crepes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:08:33Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "smoke-hot",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Thai-eggplant-makhua",
+    "descriptor": "Low-Sodium Smoky",
+    "dishForm": "Claypot Sizzling Crepes"
+  }
+}
