@@ -1,0 +1,101 @@
+{
+  "title": "lightly fried spanish cucumber empanadas",
+  "description": "Fresh, fluffy weeknight Spanish dish featuring cucumber and crispy agemono-deep-fry, low-carb-friendly",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat pastry dough",
+      "amount": "1 package (14.1 oz)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cucumber",
+      "amount": "2 medium",
+      "notes": "peeled, seeded, thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, preferably low-fat"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "veggie oil for frying",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Unroll the whole wheat pastry dough and cut it into 12 equal squares.",
+    "In a bowl, mix together the cucumber slices, feta cheese, chopped parsley, garlic powder, salt, and black pepper.",
+    "Place a tablespoon of the cucumber mixture in the center of each dough square.",
+    "Brush the edges of the dough with olive oil and fold the dough squares in half to form triangles.",
+    "Press the edges together with a fork to seal the empanadas.",
+    "Heat 1/2 cup of veggie oil in a deep frying pan over medium-high heat until it reaches 350°F.",
+    "Fry 2-3 empanadas at a time for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Using a slotted spoon, remove the fried empanadas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the lightly fried Spanish cucumber empanadas warm, garnished with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crescent-roll-alternative",
+    "low-carb",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "lightly-fried-spanish-cucumber-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fried-spanish-cucumber-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:25:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "cucumber",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cucumber",
+    "descriptor": "Lightly Fried",
+    "dishForm": "Empanadas"
+  }
+}
