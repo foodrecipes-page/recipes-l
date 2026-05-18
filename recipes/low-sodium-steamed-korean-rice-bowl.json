@@ -1,0 +1,94 @@
+{
+  "title": "Low-Sodium Steamed Korean Rice Bowl",
+  "description": "A traditional Korean dish from the Chungcheong region, featuring a simple yet flavorful steamed rice bowl with a low-sodium twist, using dashi extract and branston pickle.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean short-grain rice (2 cups)",
+      "amount": "2 cups",
+      "notes": "Japanese or Calrose rice can be used as substitutes"
+    },
+    {
+      "name": "Dashi extract (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "Homemade dashi extract can be used for added flavor"
+    },
+    {
+      "name": "Branston pickle (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste, or omit for a milder flavor"
+    },
+    {
+      "name": "Water (4 cups)",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt (to taste, optional)",
+      "amount": "1 tsp",
+      "notes": "Adjust or omit for a truly low-sodium option"
+    },
+    {
+      "name": "Scallions (chopped, for garnish)",
+      "amount": "1/4 cup",
+      "notes": "Optional, for added flavor and texture"
+    },
+    {
+      "name": "Toasted sesame seeds (for garnish)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine mesh strainer and drain well.",
+    "In a medium saucepan, combine the rice and 4 cups of water.",
+    "Add the dashi extract and salt (if using) to the saucepan.",
+    "Bring the water to a boil over high heat, then reduce the heat to low and cover the saucepan with a tight-fitting lid.",
+    "Steam the rice for 15-20 minutes, or until the water has been absorbed and the rice is cooked through.",
+    "Transfer the cooked rice to a mason jar or a small serving bowl.",
+    "Stir in the branston pickle until well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped scallions and toasted sesame seeds, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "korean",
+    "low-sodium",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 90,
+    "fat": 2
+  },
+  "slug": "low-sodium-steamed-korean-rice-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/low-sodium-steamed-korean-rice-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:23:58Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "dashi-extract",
+    "primaryIngredient": "branston-pickle",
+    "diet": "low-sodium",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Low-Sodium Steamed",
+    "dishForm": "Bowl"
+  }
+}
