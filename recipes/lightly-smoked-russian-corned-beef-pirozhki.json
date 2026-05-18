@@ -1,0 +1,103 @@
+{
+  "title": "Lightly Smoked Russian Corned Beef Pirozhki",
+  "description": "A twist on traditional Russian pirozhki, featuring corned beef and a hint of herbal flavors. These savory pastries are perfect for a quick lunch or snack.",
+  "cuisine": "russian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corned beef",
+      "amount": "8 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "2 tbsp",
+      "notes": "roasted dill and parsley"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "divided"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast and 1/4 cup of warm water. Let it sit for 5 minutes until frothy.",
+    "In a large mixing bowl, combine 1 1/2 cups of flour, salt, and yeast mixture.",
+    "Add egg, infuse-oil, and chopped onion to the dry ingredients. Mix until a dough forms.",
+    "Gradually add the remaining 1/2 cup of flour, kneading the dough for 5-7 minutes until smooth.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the bamboo tray to 375°F (190°C).",
+    "Punch down the dough and divide it into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle and place a tablespoon of corned beef in the center.",
+    "Fold the dough over the filling, forming a triangle or a square shape, and press the edges to seal.",
+    "Bake the pirozhki for 15-20 minutes until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "eastern-european",
+    "high-protein",
+    "one-pan",
+    "russian-recipes",
+    "savory-pastries",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "lightly-smoked-russian-corned-beef-pirozhki",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-russian-corned-beef-pirozhki",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:42:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "corned beef",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "corned beef",
+    "descriptor": "Lightly Smoked",
+    "dishForm": "Pirozhki"
+  }
+}
