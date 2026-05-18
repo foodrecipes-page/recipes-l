@@ -1,0 +1,104 @@
+{
+  "title": "Luscious Cheese-Pull Portuguese Cheese Gratin",
+  "description": "A charred and gooey Portuguese cheese gratin with double cream, miso-marinated for added depth and ovo-vegetarian-friendly. Perfect as a comforting dinner or snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "200g",
+      "notes": "Freshly shredded"
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "150g",
+      "notes": "Grated"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tsp",
+      "notes": "Red miso"
+    },
+    {
+      "name": "Double cream",
+      "amount": "150ml",
+      "notes": "Heavy cream"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g",
+      "notes": "Softened"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "Sifted"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Mix the mozzarella and Manchego cheese together in a bowl.",
+    "In a separate bowl, whisk together the double cream and miso paste.",
+    "Add the softened butter to the cream mixture and whisk until smooth.",
+    "Sift the flour into the cream mixture and whisk until well combined.",
+    "Season with salt to taste.",
+    "In a small baking dish, create a thin layer of the cream mixture.",
+    "Top with a layer of the cheese mixture and repeat the layers.",
+    "Finish with a layer of cream on top and sprinkle with chopped parsley.",
+    "Transfer the dish to the preheated oven and bake for 15-20 minutes, or until golden brown and charred.",
+    "Remove from the oven and let cool for 2-3 minutes before serving.",
+    "Use a spatula to create a cheese pull and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "dinner",
+    "luscious",
+    "one-pan",
+    "oven",
+    "portuguese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "luscious-cheese-pull-portuguese-cheese-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-cheese-pull-portuguese-cheese-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T16:53:05Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "double cream",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "luscious cheese-pull",
+    "dishForm": "gratin"
+  }
+}
