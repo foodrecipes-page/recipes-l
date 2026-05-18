@@ -1,0 +1,112 @@
+{
+  "title": "Uruguayan Matambre Bake",
+  "description": "A simple and flavorful Uruguayan dish made with matambre steak, onions, and melted butter.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "matambre steak",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the matambre steak with salt, black pepper, paprika, and cayenne pepper.",
+    "Sear the matambre steak in a large oven-safe skillet over medium-high heat for 2 minutes per side.",
+    "Remove the steak from the skillet and set it aside.",
+    "Reduce the heat to medium and add the sliced onion to the skillet. Cook for 5 minutes, stirring occasionally.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly.",
+    "Sprinkle the flour over the onion mixture and cook for 1 minute, stirring constantly.",
+    "Add the melted butter, red wine vinegar, and chopped parsley to the skillet. Stir to combine.",
+    "Return the matambre steak to the skillet and spoon some of the onion sauce over the top.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, or until the steak is cooked to your desired level of doneness.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "main-course",
+    "mild-spicy",
+    "one-pan",
+    "steak",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "light-uruguayan-meat-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-uruguayan-meat-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:13:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "deglaze",
+    "primaryIngredient": "melted butter",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "meat",
+    "descriptor": "Light",
+    "dishForm": "Bake"
+  }
+}
