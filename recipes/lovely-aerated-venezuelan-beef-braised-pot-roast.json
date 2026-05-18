@@ -1,0 +1,126 @@
+{
+  "title": "Lovely Aerated Venezuelan Beef Braised Pot Roast",
+  "description": "Rich, aerated, romantic Venezuelan dish featuring vin-santo, braise, fodmap-friendly.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pot Roast (2.5 kg beef chuck roast)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vin-Santo",
+      "amount": "1/2 cup",
+      "notes": "Venezuelan dessert wine"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Large Onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the beef chuck roast with salt, black pepper, and bay leaves.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef chuck roast on all sides until browned, about 2-3 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until caramelized, about 10 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the red wine vinegar and cook for 1 minute, until the liquid is almost completely reduced.",
+    "Add the vin-santo to the pot and cook for 2 minutes, until the liquid is almost completely reduced.",
+    "Add the beef back to the pot, along with the oregano sprigs.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the beef for 2 1/2 to 3 hours, or until tender and easily shreddable.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the beef with two forks and stir in the chopped cilantro.",
+    "Serve the beef hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "brazilian",
+    "comfort-food",
+    "hearty",
+    "latin-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1284,
+    "protein": 114,
+    "carbs": 24,
+    "fat": 88
+  },
+  "slug": "lovely-aerated-venezuelan-beef-braised-pot-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-aerated-venezuelan-beef-braised-pot-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:16:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "vin-santo",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Beef",
+    "descriptor": "Lovely Aerated",
+    "dishForm": "Braised Pot Roast"
+  }
+}
