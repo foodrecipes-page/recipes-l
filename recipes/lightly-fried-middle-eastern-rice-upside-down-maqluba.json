@@ -1,0 +1,123 @@
+{
+  "title": "Lightly Fried Middle-Eastern Rice Upside-Down Maqluba",
+  "description": "A yeasty, snappy, crowd-pleaser middle-eastern dish featuring seasoned rice vinegar.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for flavor and acidity"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "seasoned with salt and spices"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "2 teaspoons",
+      "notes": "fresh or dried, chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 teaspoons",
+      "notes": "fresh or dried, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "for the yeast mixture"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons",
+      "notes": "active dry yeast"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together yeast, eggs, and 1/2 cup of warm water. Let it sit for 5 minutes until frothy.",
+    "In a large saucepan, heat 2 tablespoons of vegetable oil over medium heat.",
+    "Add 2 cups of uncooked rice to the saucepan and stir to coat the rice with oil.",
+    "Cook the rice for 5 minutes, stirring occasionally, until it's lightly toasted.",
+    "In a separate bowl, whisk together lemon juice, apple cider vinegar, dried rosemary, dried thyme, salt, and black pepper.",
+    "Add the yeast mixture to the saucepan with the rice and stir to combine.",
+    "Pour the vinegar mixture over the rice and yeast mixture, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the saucepan with a tight-fitting lid.",
+    "Simmer the rice for 15-20 minutes, or until it's cooked and the liquid has been absorbed.",
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat.",
+    "Using a spatula, loosen the cooked rice from the saucepan and transfer it to the skillet.",
+    "Press the rice mixture into the skillet to form a flat layer.",
+    "Fry the rice for 5-7 minutes on each side, or until it's lightly browned and crispy.",
+    "Serve the Maqluba hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "pescetarian",
+    "snappy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 75,
+    "fat": 10
+  },
+  "slug": "lightly-fried-middle-eastern-rice-upside-down-maqluba",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-fried-middle-eastern-rice-upside-down-maqluba",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:37:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "rice",
+    "descriptor": "Lightly Fried",
+    "dishForm": "Upside-Down Maqluba"
+  }
+}
