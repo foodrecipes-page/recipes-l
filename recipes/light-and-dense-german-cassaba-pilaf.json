@@ -1,0 +1,100 @@
+{
+  "title": "German Cassaba Pilaf",
+  "description": "A resinous, dense, and light German dish featuring cassaba and low-sodium-friendly ingredients, served in a salt block vessel.",
+  "cuisine": "german",
+  "diet": [
+    "low-sodium",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cassaba",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fried-grind-rice-khao-khua",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, small diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the salt block vessel by rinsing it under cold water, then drying it thoroughly with a clean towel.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the small diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cassaba, paprika, cumin, salt, and black pepper. Cook for 5-6 minutes, until the cassaba is lightly browned.",
+    "Add the fried-grind-rice-khao-khua and cook for 2-3 minutes, until combined with the cassaba mixture.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 15-20 minutes, or until the liquid has been absorbed and the pilaf is lightly browned.",
+    "Transfer the pilaf to the prepared salt block vessel and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "low-sodium",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "light-and-dense-german-cassaba-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-and-dense-german-cassaba-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:05:29Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "cassaba",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cassaba",
+    "descriptor": "Light and Dense",
+    "dishForm": "Pilaf"
+  }
+}

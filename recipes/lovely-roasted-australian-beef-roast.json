@@ -1,0 +1,116 @@
+{
+  "title": "lovely roasted australian beef roast",
+  "description": "A delicious, easy-to-make roasted beef roast dish featuring a rich beurre-noisette and marinated Australian beef.",
+  "cuisine": "australian",
+  "diet": [
+    "shojin-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef roast",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "beurre-noisette",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "120ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C.",
+    "Season the Australian beef roast with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Sear the beef roast on all sides until browned, about 2 minutes per side.",
+    "Transfer the beef roast to a large baking dish.",
+    "Add the sliced onion and minced garlic to the skillet and cook until softened, about 5 minutes.",
+    "Pour in the red wine and lemon juice, scraping up any browned bits from the bottom of the skillet.",
+    "Bring the liquid to a simmer and cook until reduced by half, about 5 minutes.",
+    "Brush the beurre-noisette over the beef roast and add the sprigs of rosemary and thyme.",
+    "Roast in the preheated oven for 20 minutes per kilogram, or until the beef reaches your desired level of doneness.",
+    "Remove the beef from the oven and let it rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "easy-to-make",
+    "one-pan",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 73,
+    "carbs": 4,
+    "fat": 35
+  },
+  "slug": "lovely-roasted-australian-beef-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-roasted-australian-beef-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:05:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "beef",
+    "descriptor": "lovely roasted",
+    "dishForm": "roast"
+  }
+}

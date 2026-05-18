@@ -2433,6 +2433,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-and-dense-german-cassaba-pilaf",
+    "title": "German Cassaba Pilaf",
+    "tags": [
+      "german",
+      "low-sodium",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "light-and-kneaded-argentinian-chicken-broth",
     "title": "Argentinian Chicken Broth",
     "tags": [
@@ -12664,6 +12678,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-roasted-australian-beef-roast",
+    "title": "lovely roasted australian beef roast",
+    "tags": [
+      "australian",
+      "beef",
+      "easy-to-make",
+      "one-pan",
+      "roasted",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 140,
     "shard": "l"
   },
   {
