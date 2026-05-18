@@ -1,0 +1,87 @@
+{
+  "title": "Lovely Tender Monsoon Malaysian Rainbow Trout Satay",
+  "description": "Delicate rainbow trout marinated in a blend of miso, coriander, and coconut milk, grilled to perfection and served on a stick with a zesty peanut sauce.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout Fillets",
+      "amount": "4"
+    },
+    {
+      "name": "White Miso Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine white miso paste, coconut milk, grated ginger, and coconut sugar. Blend until smooth.",
+    "Add trout fillets to the marinade and mix to coat. Cover and refrigerate for at least 30 minutes.",
+    "Preheat grill to medium heat.",
+    "Thread marinated trout onto skewers, leaving a small space between each piece.",
+    "Grill skewers for 8-10 minutes or until trout is cooked through and slightly charred.",
+    "Meanwhile, blend together peanuts, coconut milk, and a pinch of salt until smooth.",
+    "Brush the peanut sauce onto the grilled trout and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "lovely-tender-monsoon-malaysian-rainbow-trout-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-tender-monsoon-malaysian-rainbow-trout-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:24:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "miso-marinate",
+    "primaryIngredient": "rainbow trout",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Monsoon Malaysian",
+    "mainIngredient": "Rainbow Trout",
+    "descriptor": "Lovely Tender",
+    "dishForm": "Satay"
+  }
+}

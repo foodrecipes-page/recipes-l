@@ -1,0 +1,109 @@
+{
+  "title": "Lightly Oiled Chinese Bok Choi Bao",
+  "description": "A fresh, light, and festive Chinese dish featuring bok choi, perfect for a weeknight dinner. This recipe is dairy-free-friendly and can be prepared in under 30 minutes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bok Choi",
+      "amount": "1 bunch",
+      "notes": "Choose fresh and tender leaves"
+    },
+    {
+      "name": "Rice Flour Bao Buns",
+      "amount": "4",
+      "notes": "You can find these in most Asian grocery stores"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a light oil for a delicate flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced and sautéed for added flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated and sautéed for added warmth"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Use a light soy sauce for a delicate flavor"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional, but adds a sweet and savory flavor"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": "Used for added fragrance and flavor"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped and used as garnish"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "Used as a slurry to thicken the sauce"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and sauté for 1-2 minutes, or until fragrant.",
+    "Add the chopped bok choi and stir-fry for 2-3 minutes, or until tender.",
+    "In a small bowl, whisk together the soy sauce, hoisin sauce, and sesame oil.",
+    "Add the soy sauce mixture to the skillet and stir-fry for an additional minute.",
+    "To assemble the bao, place a few leaves of bok choi in the bottom of each bao bun.",
+    "Add a few tablespoons of the stir-fried bok choi on top of the leaves.",
+    "Drizzle the lightly oiled bok choi with the soy sauce mixture and garnish with chopped scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "lightly-oiled-chinese-bok-choi-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-oiled-chinese-bok-choi-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:24:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "flambe",
+    "primaryIngredient": "bok choi",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Bok Choi",
+    "descriptor": "Lightly Oiled",
+    "dishForm": "Bao"
+  }
+}
