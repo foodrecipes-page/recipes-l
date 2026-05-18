@@ -1,0 +1,106 @@
+{
+  "title": "lightly larded polish salmon pancakes",
+  "description": "briny, pillowy polish dish featuring salmon, agemono-deep-fry, flexitarian-friendly",
+  "cuisine": "polish",
+  "diet": [
+    "flexitarian",
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "canned salmon",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "grated onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "diced fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lard",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flaked salmon, grated onion, and diced fresh dill.",
+    "In a separate bowl, whisk together flour, egg, milk, and a pinch of salt and pepper.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Heat the vegetable oil in a deep frying pan to 375°F.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the hot oil.",
+    "Fry the pancakes for 3-4 minutes on each side, until golden brown and cooked through.",
+    "Drain the pancakes on paper towels and serve hot with a dollop of sour cream or applesauce.",
+    "If desired, add a pat of melted lard on top of each pancake for extra richness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "lightly-larded-polish-salmon-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-larded-polish-salmon-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:52:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "salmon",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "salmon",
+    "descriptor": "Lightly Larded",
+    "dishForm": "Pancakes"
+  }
+}
