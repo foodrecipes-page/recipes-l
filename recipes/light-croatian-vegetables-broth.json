@@ -1,0 +1,102 @@
+{
+  "title": "Light Croatian Vegetables Broth",
+  "description": "A light, refreshing broth featuring raw spring vegetables, perfect for a quick weeknight dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "fresh chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "cold"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Combine chopped onion and minced garlic in a large saucepan over medium heat, cooking for 3 minutes until softened.",
+    "Add sliced carrots, celery, and cucumber to the saucepan, cooking for 5 minutes until the vegetables are slightly tender.",
+    "Pour in cold water and chicken broth, then bring the mixture to a boil.",
+    "Reduce the heat to low, cover the saucepan with a lid, and let it simmer for 20 minutes.",
+    "Stir in freshly chopped dill and lemon juice, then season the broth to taste.",
+    "Strain the broth through a fine-mesh sieve into a large bowl, discarding the solids.",
+    "Serve the Light Croatian Vegetables Broth hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "low-glycemic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 1
+  },
+  "slug": "light-croatian-vegetables-broth",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-croatian-vegetables-broth",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:20:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "bain-marie",
+    "primaryIngredient": "raw vegetables",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Light",
+    "dishForm": "Broth"
+  }
+}
