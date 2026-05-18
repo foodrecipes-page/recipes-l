@@ -1,0 +1,110 @@
+{
+  "title": "Low-Sodium Silky Saudi-Arabian Duck-Confit-Leg Tagine",
+  "description": "A cultured, silky, and cozy Saudi-Arabian dish featuring duck-confit-leg, perfect for a low-sodium diet. This hearty tagine is simmered in a clay vessel, releasing the rich flavors of the confit.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck confit legs",
+      "amount": "2",
+      "notes": "skin removed and deboned"
+    },
+    {
+      "name": "Ras el hanout spice blend",
+      "amount": "2 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ghee or neutral oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the duck"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": "no salt added"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay tagine or a heavy Dutch oven over medium heat.",
+    "Add the ghee or neutral oil and brown the duck confit legs until crispy on all sides.",
+    "Remove the duck from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Add the ras el hanout spice blend and cook for 1 minute, stirring constantly.",
+    "Add the canned diced tomatoes, chicken broth, and honey to the pot.",
+    "Return the duck confit legs to the pot and bring to a simmer.",
+    "Cover the pot with a tight-fitting lid and transfer to the preheated oven.",
+    "Braise the tagine for 2 hours, or until the duck is tender and the sauce has thickened.",
+    "Garnish with chopped fresh cilantro and serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-sodium",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "low-sodium-silky-saudi-arabian-duck-confit-leg-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/low-sodium-silky-saudi-arabian-duck-confit-leg-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T19:42:46Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "duck-confit-leg",
+    "descriptor": "Low-Sodium Silky",
+    "dishForm": "Tagine"
+  }
+}
