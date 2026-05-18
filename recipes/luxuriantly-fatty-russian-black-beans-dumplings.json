@@ -1,0 +1,102 @@
+{
+  "title": "Luxuriantly Fatty Russian Black Beans Dumplings",
+  "description": "A festive Russian dish featuring fermented black beans and cure, this recipe is ayurvedic-tamasic-friendly and perfect for special occasions.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "1 cup",
+      "notes": "also known as douchi"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cure",
+      "amount": "1/4 cup",
+      "notes": "Russian-style meat cure"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the fermented black beans, all-purpose flour, buckwheat flour, and cure.",
+    "Add the melted unsalted butter, eggs, sour cream, chopped fresh dill, salt, and black pepper to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into small pieces and shape each piece into a dumpling.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot.",
+    "Garnish with additional chopped fresh dill and sour cream, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "luxuriantly-fatty-russian-black-beans-dumplings",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-fatty-russian-black-beans-dumplings",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-18T08:10:14Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "fermented black beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "black beans",
+    "descriptor": "luxuriantly fatty",
+    "dishForm": "Dumplings"
+  }
+}
