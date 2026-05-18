@@ -1,0 +1,103 @@
+{
+  "title": "Lightly Spiced Venezuelan Chicken Hash",
+  "description": "A spicy, springy Venezuelan dish featuring chopped onion, nimono-simmer, and macrobiotic-friendly ingredients. Perfect for a quick fix.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "african bird's eye pepper",
+      "amount": "2-3"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the garlic, cumin, and paprika to the skillet and cook for 1 minute.",
+    "Add the African bird's eye pepper to the skillet and cook for 1 minute.",
+    "Add the cooked white rice to the skillet and stir to combine with the onion mixture.",
+    "Return the chicken to the skillet and stir to combine with the rice mixture.",
+    "Cook for an additional 2-3 minutes, until the chicken is cooked through.",
+    "Stir in the soy sauce and cook for 1 minute.",
+    "Serve the chicken hash hot, garnished with scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "macrobiotic-friendly",
+    "one-pan",
+    "quick-fix",
+    "spicy",
+    "springtime",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "lightly-spiced-venezuelan-chicken-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spiced-venezuelan-chicken-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:51:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "chopped onion",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Lightly spiced",
+    "dishForm": "Hash"
+  }
+}
