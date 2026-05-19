@@ -1,0 +1,102 @@
+{
+  "title": "Lightly Luscious French Grass Tarte Tatin",
+  "description": "A unique twist on the classic French dessert, featuring light rum, ssam-wrap, and ayurvedic-sattvic-friendly ingredients to help cure that hangover.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "grass-fed coconut milk",
+      "amount": "2 cups",
+      "notes": "full-fat for creaminess"
+    },
+    {
+      "name": "Ayurvedic sattvic-friendly pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "light rum",
+      "amount": "2 tablespoons",
+      "notes": "for the grassy flavor"
+    },
+    {
+      "name": "ssam-wrap pastry",
+      "amount": "4 pieces",
+      "notes": "for the flaky crust"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "for richness"
+    },
+    {
+      "name": "grass-fed cream cheese",
+      "amount": "8 ounces",
+      "notes": "for tanginess"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch (3 mm).",
+    "Place the ssam-wrap pastry on top of the dough, forming a square shape.",
+    "In a separate bowl, mix together the grass-fed coconut milk, light rum, coconut sugar, and butter.",
+    "Pour the coconut milk mixture into the ssam-wrap pastry-lined dough.",
+    "Crumble the grass-fed cream cheese on top of the coconut milk mixture.",
+    "Fold the edges of the pastry dough over the filling, creating a neat and tidy square shape.",
+    "Bake the tart in the preheated oven for 25-30 minutes, or until the pastry is golden brown.",
+    "Allow the tart to cool for a few minutes before slicing and serving.",
+    "Garnish with fresh mint leaves and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "lightly-luscious-french-grass-tarte-tatin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-luscious-french-grass-tarte-tatin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T20:33:12Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "light rum",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "grass",
+    "descriptor": "Lightly Luscious",
+    "dishForm": "Tarte Tatin"
+  }
+}
