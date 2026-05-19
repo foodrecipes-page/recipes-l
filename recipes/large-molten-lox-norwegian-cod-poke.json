@@ -1,0 +1,106 @@
+{
+  "title": "Large, Molten Lox Norwegian Cod Poke",
+  "description": "A savory, molten, and flavorful dish featuring sashimi-cut Norwegian cod, perfect for a romantic dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian cod fillets",
+      "amount": "250g",
+      "notes": "Fresh and of high quality"
+    },
+    {
+      "name": "Strong white flour",
+      "amount": "50g",
+      "notes": "For dusting the salt block"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "20g",
+      "notes": "For creating the molten effect"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "10g",
+      "notes": "Balances the savory flavors"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "30g",
+      "notes": "Adds richness and creaminess"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": "For garnish and freshness"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "10g",
+      "notes": "For garnish and flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "20ml",
+      "notes": "Adds brightness and acidity"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "10ml",
+      "notes": "For finishing and richness"
+    }
+  ],
+  "instructions": [
+    "Season the cod fillets with a pinch of flaky sea salt and granulated sugar.",
+    "Dust the salt block with strong white flour to prevent sticking.",
+    "Place the cod fillets on the salt block and sear for 2 minutes on each side.",
+    "Transfer the cod to a plate and top with unsalted butter, fresh parsley, and fresh dill.",
+    "Drizzle lemon juice and olive oil over the cod to finish.",
+    "Place the salt block under the broiler for 30 seconds to create the molten effect.",
+    "Remove the salt block from the oven and carefully place the cod on top.",
+    "Serve immediately and garnish with additional parsley and dill if desired.",
+    "Repeat the process for additional servings.",
+    "Note: The salt block should be preheated to 200°C (400°F) before searing the cod."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cod",
+    "date-night",
+    "fodmap-friendly",
+    "high-protein",
+    "molten",
+    "norwegian",
+    "sashimi-cut"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "large-molten-lox-norwegian-cod-poke",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/large-molten-lox-norwegian-cod-poke",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T10:25:50Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "strong white flour",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cod",
+    "descriptor": "Large, Molten Lox",
+    "dishForm": "Poke"
+  }
+}
