@@ -1,0 +1,114 @@
+{
+  "title": "Luscious, Tender Polish Duck Gratin",
+  "description": "A hearty, earthy Polish dish featuring tender duck breast and legs in a rich yuzu-cure and duck fat gratin.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs, bone-in",
+      "amount": "2",
+      "notes": "About 1.5 pounds"
+    },
+    {
+      "name": "Duck breast, boneless",
+      "amount": "1",
+      "notes": "About 1 pound"
+    },
+    {
+      "name": "Yuzu zest",
+      "amount": "2 tablespoons",
+      "notes": "From 1 yuzu fruit"
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "From 1 yuzu fruit"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher or flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Use freshly ground pepper"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted, softened"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening the gratin sauce"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium, warmed"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Optional, for a richer gratin"
+    },
+    {
+      "name": "Duck fat",
+      "amount": "2 tablespoons",
+      "notes": "Melted, for brushing the duck"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the duck legs and breast with sea salt and black pepper.",
+    "Mix the yuzu zest and juice in a small bowl, then brush the mixture evenly over the duck breast and legs.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "Sear the duck breast for 2-3 minutes per side, until browned, then transfer to a plate.",
+    "Add the remaining 1 tablespoon of butter to the skillet, then sear the duck legs for 2-3 minutes per side, until browned.",
+    "Transfer the duck legs to a 9x13-inch baking dish, then add the seared duck breast on top.",
+    "In a small bowl, whisk together the flour and warmed chicken broth until smooth.",
+    "Pour the flour mixture over the duck, then pour in the heavy cream, if using.",
+    "Dot the top of the gratin with the melted duck fat.",
+    "Transfer the dish to the preheated oven and bake for 25-30 minutes, until the top is golden brown and the sauce is bubbly.",
+    "Remove the dish from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dinner-party",
+    "high-protein",
+    "special-occasion",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 56,
+    "carbs": 24,
+    "fat": 52
+  },
+  "slug": "luscious-tender-polish-duck-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-tender-polish-duck-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T10:16:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "duck fat",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Duck",
+    "descriptor": "Luscious, Tender",
+    "dishForm": "Gratin"
+  }
+}
