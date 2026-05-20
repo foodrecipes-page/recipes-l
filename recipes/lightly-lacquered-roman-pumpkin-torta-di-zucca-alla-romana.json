@@ -1,0 +1,96 @@
+{
+  "title": "Lightly Lacquered Roman Pumpkin Torta di Zucca alla Romana",
+  "description": "A fresh and chewy Italian dessert featuring roasted pumpkin, a pescatarian-friendly take on the classic Roman vitello-tonnato. This date-night dish is perfect for fall and winter evenings.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pumpkin puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Sift together the flour and sugar in a medium bowl.",
+    "In a separate bowl, whisk together the ricotta cheese, eggs, and nutmeg.",
+    "In a large mixing bowl, combine the pumpkin puree, flour mixture, and ricotta mixture.",
+    "Mix until smooth and well combined.",
+    "Pour the batter into a greased and floured torta pan.",
+    "Bake for 40-45 minutes, or until a toothpick inserted into the center comes out clean.",
+    "While the torta is baking, prepare the lacquer glaze by whisking together the heavy cream and lacquer glaze in a small saucepan.",
+    "Remove the torta from the oven and let it cool for 10 minutes before glazing.",
+    "Drizzle the lacquer glaze over the torta and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "fall",
+    "italian",
+    "pescatarian",
+    "pumpkin",
+    "romana",
+    "vitello-tonnato",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 14,
+    "carbs": 55,
+    "fat": 16
+  },
+  "slug": "lightly-lacquered-roman-pumpkin-torta-di-zucca-alla-romana",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-lacquered-roman-pumpkin-torta-di-zucca-alla-romana",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:25:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "pumpkin",
+    "diet": "pescatarian",
+    "region": "roman",
+    "cuisineAdjective": "Roman",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Lightly Lacquered",
+    "dishForm": "Torta di Zucca alla Romana"
+  }
+}
