@@ -1,0 +1,119 @@
+{
+  "title": "Light Iced Irish Salmon Tagine",
+  "description": "A deliciously light Irish dish featuring fatty salmon, cooked to perfection in a flavorful tagine.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fatty salmon fillets",
+      "amount": "4",
+      "notes": "Wild or organic preferred"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Raw"
+    },
+    {
+      "name": "Ice cubes",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your tagine or Dutch oven to 300°F (150°C).",
+    "In a small bowl, whisk together lemon juice, honey, salt, and black pepper.",
+    "Add sliced red onion and minced garlic to the bowl and toss to coat.",
+    "Add sliced fresh ginger to the bowl and toss to coat.",
+    "Place the fatty salmon fillets in the preheated tagine or Dutch oven.",
+    "Pour the marinade over the salmon fillets and cook for 12-15 minutes or until cooked through.",
+    "Remove the tagine or Dutch oven from the heat and stir in chopped fresh parsley and mint.",
+    "Place the cooked salmon fillets on a serving platter and garnish with additional parsley and mint if desired.",
+    "Serve immediately, garnished with ice cubes for a refreshing touch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "light-iced-irish-salmon-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-iced-irish-salmon-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:58:18Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "tagine-cook",
+    "primaryIngredient": "salmon",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "salmon",
+    "descriptor": "Light Iced",
+    "dishForm": "Tagine"
+  }
+}

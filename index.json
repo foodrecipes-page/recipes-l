@@ -4427,6 +4427,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-iced-irish-salmon-tagine",
+    "title": "Light Iced Irish Salmon Tagine",
+    "tags": [
+      "anti-inflammatory",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "light-icy-mexican-beef-soup",
     "title": "Light Icy Mexican Beef Soup",
     "tags": [
@@ -9461,6 +9475,23 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoked-algerian-fish-tagine",
+    "title": "Lightly Smoked Algerian Fish Tagine",
+    "tags": [
+      "algerian",
+      "dairy-free",
+      "fish",
+      "gluten-free",
+      "one-pan",
+      "quick-fix",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {

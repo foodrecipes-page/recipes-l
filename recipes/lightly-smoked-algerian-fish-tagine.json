@@ -1,0 +1,109 @@
+{
+  "title": "Lightly Smoked Algerian Fish Tagine",
+  "description": "A peppery, light, and quick-fix Algerian dish made with freshly chopped parsley, shio-cure on a raclette-grill. Whole30-friendly",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shio-cured halibut fillet",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "a few grinds",
+      "notes": null
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "a pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat.",
+    "Season the halibut fillet with salt and black pepper on both sides.",
+    "Brush the onion and garlic on the raclette-grill with a little olive oil.",
+    "Place the onion and garlic on the raclette-grill and cook until softened, about 2 minutes.",
+    "Add the chopped parsley to the raclette-grill and cook for another minute, until slightly wilted.",
+    "Place the halibut fillet on the raclette-grill and cook for 2-3 minutes per side, until cooked through.",
+    "Sprinkle the cumin, coriander, chili pepper, smoked paprika, and crushed red pepper on the halibut fillet.",
+    "Squeeze the fresh lemon juice over the halibut fillet, if using.",
+    "Serve the halibut hot, garnished with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "dairy-free",
+    "fish",
+    "gluten-free",
+    "one-pan",
+    "quick-fix",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "lightly-smoked-algerian-fish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-algerian-fish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:58:36Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "shio-cure",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Fish",
+    "descriptor": "Lightly Smoked",
+    "dishForm": "Tagine"
+  }
+}
