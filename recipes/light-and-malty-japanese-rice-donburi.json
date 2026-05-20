@@ -1,0 +1,106 @@
+{
+  "title": "Light and Malt Japanese Rice Donburi",
+  "description": "A paleo-friendly, light Japanese dish originating from Shikoku featuring dill pickles and a delicate flavor profile. Perfect for a sick day or a simple weeknight meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Malt vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dill pickle slices",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "White pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a skillet over medium heat.",
+    "Add the gochujang and cook, stirring constantly, for 1 minute.",
+    "Add the soy sauce and white pepper, and cook for an additional minute, stirring constantly.",
+    "Add the dill pickle slices and cook for 2 minutes, until slightly caramelized.",
+    "Add the cooked Japanese short-grain rice to the skillet and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Season the rice with malt vinegar and stir-fry for an additional minute.",
+    "Transfer the rice mixture to a bamboo tray and garnish with chopped scallions and toasted sesame seeds.",
+    "Deglaze the skillet with a small amount of water and pour the sauce over the Donburi.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "paleo-friendly",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "light-and-malty-japanese-rice-donburi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-and-malty-japanese-rice-donburi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:44:20Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "dill pickles",
+    "diet": "paleo",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "light and malty",
+    "dishForm": "Donburi"
+  }
+}
