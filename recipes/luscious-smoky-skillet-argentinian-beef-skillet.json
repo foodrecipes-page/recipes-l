@@ -1,0 +1,119 @@
+{
+  "title": "luscious smoky skillet argentinian beef skillet",
+  "description": "rich, flaky, one-pot argentinian dish featuring fajita seasoning, smoke, egg-free-friendly, vessel=kadhai",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (skirt steak or flank steak)",
+      "amount": "12 oz",
+      "notes": "preferably a day or two aged"
+    },
+    {
+      "name": "fajita seasoning blend",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional, but recommended for a deeper flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "optional, but adds a depth of flavor"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "preferably low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional, but adds a burst of flavor"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional, but adds a pop of freshness"
+    },
+    {
+      "name": "black beans, cooked",
+      "amount": "1 cup",
+      "notes": "optional, but adds protein and fiber"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional, but adds a spicy kick"
+    }
+  ],
+  "instructions": [
+    "heat a large kadhai or cast-iron skillet over medium-high heat",
+    "add 2 tbsp of oil and swirl to coat the bottom of the pan",
+    "add the sliced onion and cook for 5 minutes, stirring occasionally, until caramelized",
+    "add the sliced bell pepper and cook for an additional 3-4 minutes, stirring occasionally",
+    "add the minced garlic and cook for 1 minute, stirring constantly to prevent burning",
+    "add the beef strips and cook for 3-4 minutes, stirring occasionally, until browned on both sides",
+    "add the fajita seasoning blend, smoked paprika, and crushed red pepper flakes (if using) and stir to combine",
+    "add the red wine (if using) and beef broth and stir to combine",
+    "bring the mixture to a simmer and cook for 10-15 minutes, stirring occasionally, until the beef is cooked through and the sauce has thickened",
+    "stir in the tomato paste (if using) and cook for an additional 2 minutes",
+    "season with salt and pepper to taste",
+    "serve hot, garnished with chopped fresh cilantro (if using)"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "high-protein",
+    "one-pan",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "luscious-smoky-skillet-argentinian-beef-skillet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-smoky-skillet-argentinian-beef-skillet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T13:06:10Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Luscious Smoky Skillet",
+    "dishForm": "Skillet"
+  }
+}
