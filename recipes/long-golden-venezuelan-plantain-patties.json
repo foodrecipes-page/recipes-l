@@ -1,0 +1,110 @@
+{
+  "title": "Long Golden Venezuelan Plantain Patties",
+  "description": "A kid-friendly Venezuelan dish featuring crispy beurre-noisette and dense, yeasty plantain patties.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "amount": "4"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-noisette",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the warm milk, yeast, and 1 teaspoon of sugar. Let it sit for 5 minutes until foamy.",
+    "In a large mixing bowl, combine the flour, remaining sugar, salt, and 1/2 teaspoon of cumin.",
+    "Add the yeast mixture, olive oil, and shredded cheese to the dry ingredients. Mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan to 350°F.",
+    "Punch down the dough and divide it into 4 equal pieces. Roll each piece into a long rope.",
+    "Cut the rope into 1-inch pieces and flatten each piece slightly into patties.",
+    "Fry the patties in batches until golden brown, about 2-3 minutes on each side.",
+    "Drain the patties on paper towels and brush with beurre-noisette.",
+    "Sprinkle with shredded cheese, green onions, and a pinch of cumin. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "deep-fried",
+    "kid-friendly",
+    "latin-american",
+    "one-pan",
+    "snack",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "long-golden-venezuelan-plantain-patties",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/long-golden-venezuelan-plantain-patties",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T10:22:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantain",
+    "descriptor": "Long Golden",
+    "dishForm": "Patties"
+  }
+}
