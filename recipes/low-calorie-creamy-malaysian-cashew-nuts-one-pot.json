@@ -1,0 +1,100 @@
+{
+  "title": "Low-calorie Creamy Malaysian Cashew Nut One-pot",
+  "description": "A healthy Malaysian-inspired dish made with cashews, vegetables, and a hint of coconut milk, all cooked in one pot. Perfect for a quick weeknight dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    null,
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Katsuramuki-cut carrots",
+      "amount": "2 medium, peeled"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Cashew nuts",
+      "amount": "1 cup, unsalted"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "14 oz can, low-fat"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the carrots and cook for 2 minutes, until slightly tender.",
+    "Add the snow peas and cook for an additional 2 minutes, until the vegetables are tender.",
+    "Add the cashew nuts, coconut milk, fish sauce, soy sauce, and lime juice.",
+    "Bring to a simmer and cook for 2-3 minutes, until the sauce has thickened slightly.",
+    "Stir in the chopped cashew nuts and season with salt to taste.",
+    "Serve the dish hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cashew-nuts",
+    "low-calorie",
+    "malaysian-cuisine",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "low-calorie-creamy-malaysian-cashew-nuts-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-calorie-creamy-malaysian-cashew-nuts-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:51:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "cashew nuts",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cashew nuts",
+    "descriptor": "Low-calorie creamy",
+    "dishForm": "One-pot"
+  }
+}
