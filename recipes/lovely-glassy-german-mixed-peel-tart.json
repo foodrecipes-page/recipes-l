@@ -1,0 +1,77 @@
+{
+  "title": "Lovely Glassy German Mixed Peel Tart",
+  "description": "A romantic twist on a classic German dessert, featuring mixed peel and a glassy-jelly finish.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mixed peel (orange, lemon, lime)",
+      "amount": "140g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "20g",
+      "notes": "mixed with 10g water"
+    },
+    {
+      "name": "Flour",
+      "amount": "120g",
+      "notes": "",
+      "type": "all-purpose"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180\u000142 (350\u0014F) and grease a ramekin with butter.",
+    "Roll out the pastry to a thickness of 3mm and place it in the prepared ramekin.",
+    "Trim the edges and prick the base with a fork to prevent it from bubbling.",
+    "Bake the pastry for 15 minutes, then set aside to cool slightly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "floral",
+    "german",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "lovely-glassy-german-mixed-peel-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-glassy-german-mixed-peel-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:11:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "mixed peel",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "mixed peel",
+    "descriptor": "lovely glassy",
+    "dishForm": "tart"
+  }
+}
