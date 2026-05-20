@@ -1,0 +1,115 @@
+{
+  "title": "Luscious Lacquer-Glazed Kenyan Lamb Bowl",
+  "description": "A tangy and tender Kenyan-inspired dish featuring lamb, sansho peppers, and a sweet lacquer glaze. This halal-friendly meal is perfect for meal prep and served in an earthenware bowl.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 (1.5 kg)",
+      "notes": "Bone-in and halal-certified"
+    },
+    {
+      "name": "Sansho Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Lacquer Glaze",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, then set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add the sansho peppers and cook for an additional 2 minutes.",
+    "Return the lamb shoulder to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 hours.",
+    "While the lamb is cooking, prepare the lacquer glaze by whisking together the lacquer glaze and lime juice in a small bowl.",
+    "After 2 hours, remove the pot from the oven and brush the lacquer glaze over the lamb shoulder.",
+    "Return the pot to the oven and cook for an additional 10 minutes.",
+    "Let the lamb rest for 10 minutes before slicing and serving.",
+    "Garnish with chopped cilantro and serve in an earthenware bowl."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earthenware-bowl",
+    "halal",
+    "kenyan",
+    "lamb",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "luscious-lacquer-glazed-kenyan-lamb-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-lacquer-glazed-kenyan-lamb-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:57:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "sansho",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Luscious Lacquer-Glazed",
+    "dishForm": "Bowl"
+  }
+}

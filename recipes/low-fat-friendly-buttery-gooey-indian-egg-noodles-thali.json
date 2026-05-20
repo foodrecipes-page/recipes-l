@@ -1,0 +1,102 @@
+{
+  "title": "Buttery Gooey Indian Egg Noodles Thali",
+  "description": "A low-fat-friendly, midnight-craving dish inspired by Maharashtrian cuisine, featuring egg noodles, a rich deglazed fond, and a comforting, buttery gooey sauce. Perfect for a late-night snack or a quick breakfast.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "butter",
+      "amount": "50g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large saucepan over medium heat. Add the chopped onion and sauté until translucent.",
+    "Add the ginger and garlic and sauté for another minute.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add 200ml of water, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the red chili powder, garam masala powder, and salt. Stir well to combine.",
+    "Add the butter and stir until melted and well combined.",
+    "Add the cooked egg noodles to the sauce and stir to coat.",
+    "Simmer for another 2 minutes, until the noodles are well coated in the sauce.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-noodles",
+    "indian",
+    "low-fat",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "low-fat-friendly-buttery-gooey-indian-egg-noodles-thali",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-fat-friendly-buttery-gooey-indian-egg-noodles-thali",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:57:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "egg noodles",
+    "diet": "low-fat",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "egg noodles",
+    "descriptor": "low-fat-friendly buttery gooey",
+    "dishForm": "Thali"
+  }
+}
