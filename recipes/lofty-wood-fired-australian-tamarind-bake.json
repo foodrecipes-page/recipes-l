@@ -1,0 +1,98 @@
+{
+  "title": "Lofty Wood-Fired Australian Tamarind Bake",
+  "description": "Earthy, fluffy, show-off Australian dish featuring tamarind pulp, wood-fired-bake, ovo-vegetarian-friendly, served in a bamboo tray.",
+  "cuisine": "australian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tamarind pulp",
+      "amount": "200g"
+    },
+    {
+      "name": "whole wheat pastry dough",
+      "amount": "400g"
+    },
+    {
+      "name": "walnuts",
+      "amount": "120g"
+    },
+    {
+      "name": "sour cream",
+      "amount": "120g"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 220°C.",
+    "Roll out the whole wheat pastry dough and cut into 4 equal pieces.",
+    "Mix together the tamarind pulp, sour cream, eggs, garlic, thyme, salt, and pepper in a bowl.",
+    "Place one piece of pastry dough in the bamboo tray, topping with a quarter of the tamarind mixture and a sprinkle of walnuts.",
+    "Repeat the layers 3 more times, finishing with a layer of pastry dough on top.",
+    "Drizzle the honey over the top of the pastry.",
+    "Place the bamboo tray in the wood-fired oven and bake for 25 minutes.",
+    "Remove the tray from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "healthy",
+    "ofo-vegetarian",
+    "one-pan",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 100,
+    "fat": 60
+  },
+  "slug": "lofty-wood-fired-australian-tamarind-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lofty-wood-fired-australian-tamarind-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:02:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "tamarind",
+    "descriptor": "Lofty wood-fired",
+    "dishForm": "bake"
+  }
+}
