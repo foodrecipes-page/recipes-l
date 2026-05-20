@@ -1,0 +1,107 @@
+{
+  "title": "Light Syrian Turkish Delight Bake",
+  "description": "A sweet and light dessert featuring Turkish delight, baked to perfection in a wood-fired oven. This diabetic-friendly dish is perfect for a special occasion.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Turkish Delight",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 350°F (180°C).",
+    "Mix together the almond flour, coconut sugar, and baking powder in a medium bowl.",
+    "In a separate bowl, whisk together the eggs, unsalted butter, and vanilla extract.",
+    "Add the Turkish delight to the wet ingredients and mix until well combined.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm).",
+    "Cut the dough into desired shapes using a cookie cutter or a knife.",
+    "Place the shapes on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool on a wire rack for 5 minutes.",
+    "Dust with confectioners' sugar before serving.",
+    "Serve warm or at room temperature.",
+    "Store any leftovers in an airtight container for up to 3 days.",
+    "Reheat in the oven at 350°F (180°C) for 5-7 minutes or until warm and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "diabetic-friendly",
+    "sweet-treats",
+    "turkish-delight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "light-syrian-turkish-delight-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-syrian-turkish-delight-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:26:32Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "turkish delight",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Turkish Delight",
+    "descriptor": "Light",
+    "dishForm": "Bake"
+  }
+}
