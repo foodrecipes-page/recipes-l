@@ -1,0 +1,100 @@
+{
+  "title": "Lazy-Sunday Venezuelan Hash",
+  "description": "A light, pungent Venezuelan dish featuring golden caster sugar, perfect for a lazy Sunday morning.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Golden Caster Sugar",
+      "amount": "2 cups",
+      "notes": "use a high-quality sugar for the best flavor"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yacón Root",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Cassava Flour",
+      "amount": "1 cup",
+      "notes": "gluten-free flour option"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "beaten eggs"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat a copper pot over medium heat and add the ferment-jang, stirring to combine.",
+    "Add the diced yacón root and cook for 5 minutes, or until slightly caramelized.",
+    "Add the cassava flour, eggs, salt, black pepper, and garlic to the pot, and stir to combine.",
+    "Continue cooking for an additional 5 minutes, or until the eggs are set and the mixture is lightly golden.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-breakfast",
+    "gluten-free",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "lazy-sunday-venezuelan-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-venezuelan-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:18:17Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "ferment-jang",
+    "descriptor": "lazy-sunday",
+    "dishForm": "hash"
+  }
+}
