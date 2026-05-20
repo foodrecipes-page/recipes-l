@@ -1,0 +1,108 @@
+{
+  "title": "luscious turkish egg menemen",
+  "description": "a flavorful and festive turkish egg dish featuring pomegranate molasses and a mirepoix base, served in a banana leaf.",
+  "cuisine": "turkish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6",
+      "notes": "large, fresh leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the chopped onion and red bell pepper and cook until tender, about 5 minutes.",
+    "add the tomato paste and cook for 1 minute, stirring constantly.",
+    "add the pomegranate molasses, kosher salt, and black pepper, and stir to combine.",
+    "crack the eggs into a bowl and whisk them lightly.",
+    "add the eggs to the skillet and cook until the edges start to set, about 2-3 minutes.",
+    "use a spatula to gently scramble the eggs and distribute the ingredients evenly.",
+    "transfer the menemen mixture to the banana leaves and fold the leaves over to create a package.",
+    "serve immediately, garnished with chopped fresh parsley.",
+    "serve 2-3 eggs per person."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "breakfast",
+    "eggs",
+    "mirepoix",
+    "pomegranate",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "luscious-turkish-egg-turkish-eggs-menemen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-turkish-egg-turkish-eggs-menemen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:46:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "eggs",
+    "descriptor": "Luscious Turkish Egg",
+    "dishForm": "Menemen"
+  }
+}

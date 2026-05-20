@@ -221,6 +221,22 @@
     "shard": "l"
   },
   {
+    "slug": "lacto-vegetarian-friendly-irish-beetroot-hash",
+    "title": "Irish Beetroot Hash",
+    "tags": [
+      "beetroot",
+      "breakfast",
+      "brunch",
+      "irish",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
     "slug": "lamb-herb-canadian-stew",
     "title": "Lamb-Herb Canadian Stew",
     "tags": [
@@ -16502,6 +16518,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 105,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-turkish-egg-turkish-eggs-menemen",
+    "title": "luscious turkish egg menemen",
+    "tags": [
+      "banana-leaf",
+      "breakfast",
+      "eggs",
+      "mirepoix",
+      "pomegranate",
+      "turkish"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
