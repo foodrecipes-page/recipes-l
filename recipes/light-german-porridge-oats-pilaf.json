@@ -1,0 +1,106 @@
+{
+  "title": "Light German Porridge Pilaf",
+  "description": "A tangy and refreshing German-inspired pilaf dish made with porridge oats, pickles, and a hint of spice.",
+  "cuisine": "german",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Porridge oats",
+      "amount": "250g",
+      "notes": "Check for gluten-free certification"
+    },
+    {
+      "name": "Dill pickle",
+      "amount": "100g",
+      "notes": "Chopped or sliced, whichever you prefer"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "Sugar-free maple syrup",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.125 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "15ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a medium saucepan over medium heat until simmering.",
+    "Add the mustard seeds and cook for 1 minute, stirring occasionally.",
+    "Stir in the sugar-free maple syrup, salt, and black pepper.",
+    "Add the chopped pickle and cook for 2 minutes, stirring occasionally.",
+    "Add the porridge oats and stir to combine.",
+    "Reduce heat to low and cook, covered, for 10-12 minutes or until the oats have absorbed most of the liquid.",
+    "Stir in the chopped fresh dill and lemon juice.",
+    "Serve hot, garnished with additional fresh dill if desired.",
+    "Let sit for 2-3 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "german",
+    "gluten-free",
+    "one-pan",
+    "pilaf",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "light-german-porridge-oats-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-german-porridge-oats-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:28:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "porridge oats",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "porridge oats",
+    "descriptor": "light",
+    "dishForm": "Pilaf"
+  }
+}
