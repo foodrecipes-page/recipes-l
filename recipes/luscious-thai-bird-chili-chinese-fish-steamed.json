@@ -1,0 +1,96 @@
+{
+  "title": "Luscious Thai-Bird-Chili Chinese Fish Steamed",
+  "description": "A pescatarian-friendly Chinese steamed dish featuring Thai-bird-chili, agemono-deep-fry, and a bamboo-tray vessel. This dish is perfect for a sick day with its jammy and aerated texture.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fish fillets (3)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Thai bird chili peppers (4)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "4 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "Mix with water for slurry."
+    },
+    {
+      "name": "Bamboo steamer tray",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix fish fillets with Thai bird chili peppers, ginger, soy sauce, and sugar in a bowl.",
+    "Prepare the bamboo steamer tray by placing scallions in the bottom.",
+    "Add the fish mixture to the steamer tray, leaving space for air to circulate.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes to allow flavors to meld.",
+    "Heat a pot of water to a boil and place the bamboo steamer tray on top.",
+    "Steam for 10 minutes or until the fish is cooked through.",
+    "Serve hot with a side of cornstarch slurry, which should be mixed with water to a desired consistency.",
+    "Garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "chinese",
+    "fish",
+    "pescatarian",
+    "sick-day",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "luscious-thai-bird-chili-chinese-fish-steamed",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-thai-bird-chili-chinese-fish-steamed",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:18:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Fish",
+    "descriptor": "Luscious Thai-Bird-Chili",
+    "dishForm": "Steamed"
+  }
+}

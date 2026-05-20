@@ -1,0 +1,97 @@
+{
+  "title": "Light Springy Kenyan Doubanjiang Bowl",
+  "description": "A pungent, springy, and light Kenyan dish featuring doubanjiang, perfect for a quick and easy meal.",
+  "cuisine": "Kenyan",
+  "meal": "dinner",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "ingredients": [
+    {
+      "name": "Doubanjiang paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Pressure-cook the sweet potatoes and green beans for 5 minutes.",
+    "In a pan, heat 1 tablespoon of oil over medium heat. Add the red onion and cook for 3 minutes, until softened.",
+    "Add the garlic and ginger to the pan and cook for 1 minute, until fragrant.",
+    "Stir in the doubanjiang paste and cook for 1 minute, until combined.",
+    "Add the cooked sweet potatoes and green beans to the pan and stir to combine.",
+    "Season with lime juice to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "light-springy-kenyan-doubanjiang-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-springy-kenyan-doubanjiang-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:19:03Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "doubanjiang",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Doubanjiang",
+    "descriptor": "Light Springy",
+    "dishForm": "Bowl"
+  }
+}

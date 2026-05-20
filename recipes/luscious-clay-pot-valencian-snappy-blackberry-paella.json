@@ -1,0 +1,122 @@
+{
+  "title": "Luscious Clay-Pot Valencian Snappy Blackberry Paella",
+  "description": "A rich, snappy, weeknight Spanish Valencian dish featuring blackberries, mortar-pestle-pounded and cooked in a clay pot. Gluten-free-friendly and perfect for a dinner party.",
+  "cuisine": "Spanish (Valencian)",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch pieces",
+      "amount": "1 pound",
+      "notes": "Use a fatty cut for maximum flavor."
+    },
+    {
+      "name": "Blackberries",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, whichever is available."
+    },
+    {
+      "name": "Long-grain rice",
+      "amount": "1 cup",
+      "notes": "Gluten-free, if necessary."
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought, low-sodium."
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Adds a rich, smoky flavor."
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Mortar-pestle-pound to release the oils."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, flavorful oil."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a coarse grind for best flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground, if possible."
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "Garnish, optional."
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "Serve on the side, optional."
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for some heat."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a clay pot or Dutch oven over medium-high heat.",
+    "Mortar-pestle-pound the garlic until it forms a smooth paste.",
+    "Add the pork to the pot and cook until browned, about 5 minutes.",
+    "Add the chicken broth, smoked paprika, salt, and black pepper to the pot.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Add the rice to the pot and stir to combine.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes.",
+    "Add the blackberries to the pot and stir to combine.",
+    "Continue to simmer, uncovered, for an additional 10 minutes.",
+    "Remove the pot from the heat and let it rest, covered, for 5 minutes.",
+    "Fluff the paella with a fork and serve hot, garnished with parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "pork",
+    "spanish",
+    "valencian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 35
+  },
+  "slug": "luscious-clay-pot-valencian-snappy-blackberry-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-clay-pot-valencian-snappy-blackberry-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:18:55Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "blackberries",
+    "diet": "gluten-free",
+    "region": "valencian",
+    "cuisineAdjective": "Valencian",
+    "mainIngredient": "snappy blackberry",
+    "descriptor": "Luscious Clay-Pot",
+    "dishForm": "Paella"
+  }
+}
