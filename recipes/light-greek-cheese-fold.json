@@ -1,0 +1,81 @@
+{
+  "title": "Light Greek Cheese Fold",
+  "description": "A savory, cheese-pull light Greek dish featuring dark soy sauce, perfect for snacking or as a side. Features halal-friendly ingredients and is easy to make.",
+  "cuisine": "Greek",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "Thawed according to package instructions"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "8 oz",
+      "notes": "Crumble into small pieces before using"
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground is best"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Lay a sheet of phyllo dough on a flat surface and brush with a little water.",
+    "Sprinkle a quarter of the Feta cheese down the center of the dough, leaving a 1-inch border around it.",
+    "Fold the dough over the cheese to form a triangle, pressing the edges to seal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "easy",
+    "greek",
+    "halal",
+    "light",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 14,
+    "carbs": 18,
+    "fat": 14
+  },
+  "slug": "light-greek-cheese-fold",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-greek-cheese-fold",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:21:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cheese",
+    "descriptor": "light",
+    "dishForm": "Fold"
+  }
+}
