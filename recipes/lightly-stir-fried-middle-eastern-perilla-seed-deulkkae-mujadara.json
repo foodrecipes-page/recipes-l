@@ -1,0 +1,118 @@
+{
+  "title": "Lightly Stir-Fried Middle Eastern Perilla-Seed-Deulkkae Mujadara",
+  "description": "Sweet, tender, and show-off Middle Eastern dish featuring perilla-seed-deulkkae, stir-fry, and ayurvedic-tamasic-friendly ingredients. Mujadara originates from Lebanese cuisine and is traditionally cooked with lentils and onions.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Perilla-seed-deulkkae",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Medium-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown lentils",
+      "amount": "1 cup",
+      "notes": "Rinse and drain before use."
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add brown lentils, cumin, turmeric, cayenne pepper, and salt. Stir well to combine.",
+    "Add water to the saucepan and bring to a boil.",
+    "Stir in perilla-seed-deulkkae and cook for 5 minutes.",
+    "Add cooked rice to the saucepan and stir-fry for 3-4 minutes, until heated through.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until the water has been absorbed.",
+    "Stir in chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 15,
+    "carbs": 120,
+    "fat": 30
+  },
+  "slug": "lightly-stir-fried-middle-eastern-perilla-seed-deulkkae-mujadara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-stir-fried-middle-eastern-perilla-seed-deulkkae-mujadara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:28:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "perilla-seed-deulkkae",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "perilla-seed-deulkkae",
+    "descriptor": "Lightly stir-fried",
+    "dishForm": "Mujadara"
+  }
+}
