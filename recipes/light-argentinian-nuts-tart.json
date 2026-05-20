@@ -1,0 +1,106 @@
+{
+  "title": "light argentinian nuts tart",
+  "description": "a grassy, crumbly, light argentinian dish featuring nuts and a touch of flambe, suitable for ayurvedic-sattvic diets. perfect for a snack or dessert.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "sattvic",
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup toasted",
+      "notes": "chopped, preferably skinless"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup toasted",
+      "notes": "chopped, for added crunch"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup chopped",
+      "notes": "for added texture and flavor"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/4 cup chopped",
+      "notes": "soaked overnight to soften"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "coconut sugar for a more sattvic option"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground, for added warmth and depth"
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups all-purpose",
+      "notes": "gluten-free, for a more sensitive gut"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature, for easier whisking"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup melted",
+      "notes": "coconut oil for a more sattvic option"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "mix the ground almonds, hazelnuts, and walnuts in a medium bowl.",
+    "soak the dried apricots in water for at least 4 hours. drain and chop them coarsely.",
+    "whisk the eggs in a large bowl, adding the brown sugar, cinnamon, and vanilla extract.",
+    "add the flour and mix until a dough forms. knead for 5-7 minutes until the dough is smooth and elastic.",
+    "press the dough into a 9-inch tart pan with a removable bottom.",
+    "arrange the chopped nuts and dried apricots on top of the dough, leaving a 1-inch border around the edges.",
+    "drizzle the melted coconut oil over the nuts and apricots.",
+    "bake the tart for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "remove the tart from the oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 85,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "low-calorie",
+    "sattvic",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "light-argentinian-nuts-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-argentinian-nuts-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:52:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "flambe",
+    "primaryIngredient": "nuts",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "nuts",
+    "descriptor": "light",
+    "dishForm": "tart"
+  }
+}
