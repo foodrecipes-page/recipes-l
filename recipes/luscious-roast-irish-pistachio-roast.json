@@ -1,0 +1,109 @@
+{
+  "title": "Luscious Roast Irish Pistachio Roast",
+  "description": "A nutty and tender Irish dish featuring pistachio and roasted flavors, perfect for a brunch occasion.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pistachios",
+      "amount": "1 cup, shelled"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Duck fat or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or clay pot to 400°F (200°C).",
+    "Heat 2 tablespoons of butter and duck fat in the preheated tandoor or clay pot over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute, until fragrant.",
+    "Add the cauliflower, carrots, ground ginger, salt, and black pepper. Stir to combine.",
+    "Add the pistachios, chopped parsley, and the remaining 2 tablespoons of butter. Stir to combine.",
+    "Transfer the mixture to the preheated tandoor or clay pot with the remaining 2 tablespoons of duck fat or oil.",
+    "Cook for 20 minutes, or until the vegetables are tender and the pistachios are fragrant.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "high-fiber",
+    "irish",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "luscious-roast-irish-pistachio-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-roast-irish-pistachio-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:29:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "pistachio",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pistachio",
+    "descriptor": "Luscious Roast",
+    "dishForm": "Roast"
+  }
+}
