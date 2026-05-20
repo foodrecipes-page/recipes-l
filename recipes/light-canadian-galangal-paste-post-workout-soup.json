@@ -1,0 +1,121 @@
+{
+  "title": "Light Canadian Galangal Paste Post-Workout Soup",
+  "description": "A refreshing and revitalizing post-workout soup featuring galangal paste as the main flavor component, perfect for a light Canadian-inspired meal.",
+  "cuisine": "canadian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "galangal paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kelp powder",
+      "amount": "1/2 tsp",
+      "notes": "for added umami flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "low-fat variant"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "brine-soaked carrots",
+      "amount": "2 medium",
+      "notes": "washed and sliced"
+    }
+  ],
+  "instructions": [
+    "Combine chicken broth, galangal paste, kelp powder, ginger, and water in a large pot over medium heat.",
+    "Bring the mixture to a simmer and let cook for 5 minutes.",
+    "Add sliced carrots and cook for an additional 5 minutes, or until tender.",
+    "Stir in coconut milk, lemon juice, salt, and black pepper.",
+    "Reduce heat to low and let the soup simmer for 2 minutes before serving.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped parsley and serve hot.",
+    "Refrigerate any leftovers and enjoy the next day, if desired.",
+    "For an added boost, sprinkle with additional kelp powder before serving.",
+    "Garnish with chopped green onions and a sprinkle of parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "galangal",
+    "low-fat",
+    "post-workout",
+    "soup",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "light-canadian-galangal-paste-post-workout-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-canadian-galangal-paste-post-workout-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:30:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "galangal paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "galangal paste",
+    "descriptor": "light",
+    "dishForm": "post-workout soup"
+  }
+}
