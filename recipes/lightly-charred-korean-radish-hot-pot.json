@@ -1,0 +1,107 @@
+{
+  "title": "Lightly Charred Korean Radish Hot Pot",
+  "description": "A light and refreshing Korean-inspired hot pot featuring radish and a shio-koji cure.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Radish",
+      "amount": "1 large radish, cut into 1-inch pieces",
+      "notes": null
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Halal beef broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Halal-friendly cheese option."
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of sesame oil in a large hot pot vessel over medium-high heat.",
+    "Add the shio-koji cure and cook for 1 minute, stirring constantly.",
+    "Add the beef broth and bring to a boil.",
+    "Add the radish and cook for 5 minutes, or until slightly tender.",
+    "Stir in the Korean chili flakes and cook for 1 minute.",
+    "Reduce heat to low and simmer for 2 minutes.",
+    "Sprinkle the shredded cheese over the top of the hot pot and cook until melted and slightly charred.",
+    "Garnish with green onions, toasted sesame seeds, and a sprinkle of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "halal-friendly",
+    "hot-pot",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "lightly-charred-korean-radish-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-charred-korean-radish-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:13:11Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "radish",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "radish",
+    "descriptor": "Lightly charred",
+    "dishForm": "Hot Pot"
+  }
+}
