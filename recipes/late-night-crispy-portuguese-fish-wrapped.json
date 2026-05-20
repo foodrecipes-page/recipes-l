@@ -1,0 +1,109 @@
+{
+  "title": "Late Night Crispy Portuguese Fish Wrapped",
+  "description": "Citrusy fish wrapped in crispy lotus leaf for a midnight craving, using pressure-cooked fish-sauce aekjeot and following Whole30 guidelines.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Freshly squeezed lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce (aekjeot)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Galangal paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Himalayan pink salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lotus leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the lotus leaf wraps by washing and drying them.",
+    "Season the cod fillets with Himalayan pink salt and set aside.",
+    "Mix together the freshly squeezed lime juice, fish sauce, ginger paste, and galangal paste for the marinade.",
+    "Marinate the cod fillets in the mixture for at least 30 minutes.",
+    "Heat a pressure cooker to high pressure and cook the cod fillets for 8 minutes.",
+    "While the fish is cooking, heat the avocado oil in a pan over medium heat.",
+    "Once the fish is cooked, remove it from the pressure cooker and set aside to cool.",
+    "Using the same pan, add the garlic paste and cook until fragrant.",
+    "Add the cooked cod fillets to the pan and wrap each one in a lotus leaf wrap.",
+    "Serve immediately and garnish with fresh cilantro.",
+    "Crisp up the lotus leaf wraps in a pan over medium heat for 1-2 minutes on each side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish-wrapped",
+    "midnight-snack",
+    "portuguese",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "late-night-crispy-portuguese-fish-wrapped",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/late-night-crispy-portuguese-fish-wrapped",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:34:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Fish",
+    "descriptor": "Late Night Crispy",
+    "dishForm": "Wrapped"
+  }
+}
