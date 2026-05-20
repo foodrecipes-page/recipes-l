@@ -1,0 +1,89 @@
+{
+  "title": "Light Steamed Dutch Lentils Dal",
+  "description": "A rich, light, weeknight Dutch dish featuring brown lentils, steamed to perfection in a mason jar. This egg-free-friendly recipe is perfect for a quick and easy dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "},{": false
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and drain well.",
+    "In a mason jar, combine the lentils, onion, garlic, carrot, celery, and tomato paste.",
+    "Add 2 cups of water to the mason jar, leaving about 1 inch of space at the top.",
+    "Place the mason jar in a pot of boiling water, making sure the water level is below the top of the jar.",
+    "Cover the pot and bring to a boil, then reduce the heat to a simmer and steam for 25 minutes.",
+    "Remove the mason jar from the pot and let it cool slightly before serving.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Store leftovers in the refrigerator for up to 3 days.",
+    "Reheat in the microwave or on the stovetop before serving.",
+    "Note: Before reheating, always check the temperature of the lentils to ensure they are cooked through and at a safe temperature.",
+    "Strain the broth before reheating if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "lentils",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 322,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "light-steamed-dutch-lentils-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-steamed-dutch-lentils-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:54:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "brown lentils",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Lentils",
+    "descriptor": "Light Steamed",
+    "dishForm": "Dal"
+  }
+}
