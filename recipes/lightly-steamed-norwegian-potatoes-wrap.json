@@ -1,0 +1,114 @@
+{
+  "title": "Lightly Steamed Norwegian Potatoes Wrap",
+  "description": "A deliciously herby and satisfying snack combining lightly steamed Norwegian potatoes with a flavorful sauté and wrapped in a warm corn husk.",
+  "cuisine": "norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "norwegian potatoes",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dill weed",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.25 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Fill a medium saucepan with water and bring to a boil, then reduce heat to a simmer.",
+    "Steam the sliced potatoes for 5 minutes or until slightly tender.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the thinly sliced onion and cook for 3-4 minutes, or until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the steamed potatoes, chopped parsley, dried dill weed, salt, and pepper to the skillet.",
+    "Toss the potato mixture to combine and cook for an additional 2-3 minutes.",
+    "Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon the potato mixture onto the center of each warmed corn husk.",
+    "Drizzle the melted butter over the potato mixture.",
+    "Fold the bottom edge of the corn husk up over the filling, then fold in the sides and roll into a neat package.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-peasy",
+    "high-protein",
+    "norwegian-noms",
+    "one-pan",
+    "snack-attack",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "lightly-steamed-norwegian-potatoes-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-steamed-norwegian-potatoes-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:28:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "melted butter",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Lightly steamed",
+    "dishForm": "Wrap"
+  }
+}
