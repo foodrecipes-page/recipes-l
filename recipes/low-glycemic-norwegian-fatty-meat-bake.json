@@ -1,0 +1,128 @@
+{
+  "title": "Low-Glycemic Norwegian Fatty Meat Bake",
+  "description": "A rich and flavorful Norwegian dish made with fatty meat and dark soy sauce, served in a mason jar for a healthy low-glycemic twist.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fatty pork shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Season the pork shoulder with salt, pepper, and nutmeg.",
+    "Brown the bacon in a skillet over medium heat, then set aside.",
+    "In the same skillet, cook the pork shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the cooked pork shoulder to a mason jar, leaving about 1 inch of space at the top.",
+    "In a small bowl, whisk together the eggs, coconut flour, and a pinch of salt and pepper.",
+    "Pour the egg mixture over the pork shoulder in the mason jar.",
+    "Add the browned bacon, chopped onion, minced garlic, and dark soy sauce to the mason jar.",
+    "Cover the mason jar with a lid and bake in the preheated oven for 30 minutes.",
+    "Remove the mason jar from the oven and sprinkle with chopped parsley.",
+    "Let the meat bake for an additional 10-15 minutes, or until the eggs are set and the meat is cooked through.",
+    "Let the dish cool slightly before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "low-glycemic",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 44
+  },
+  "slug": "low-glycemic-norwegian-fatty-meat-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-glycemic-norwegian-fatty-meat-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:56:46Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fatty meat",
+    "descriptor": "Low-Glycemic",
+    "dishForm": "Bake"
+  }
+}
