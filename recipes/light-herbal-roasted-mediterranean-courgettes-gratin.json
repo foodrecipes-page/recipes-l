@@ -1,0 +1,113 @@
+{
+  "title": "Light Herbal Roasted Mediterranean Courgettes Gratin",
+  "description": "A floral and light post-workout Mediterranean dish featuring courgettes, perfect for a lacto-vegetarian diet.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated Pecorino Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Peel the courgettes and cut them into 1/4-inch thick slices.",
+    "In a large bowl, mix together the sliced courgettes, minced garlic, chopped rosemary, and chopped thyme.",
+    "Season the courgettes with salt and black pepper, and toss to coat.",
+    "In a sous-vide water bath, cook the courgettes at 180°F (82°C) for 30 minutes.",
+    "Meanwhile, mix together the grated Pecorino cheese, breadcrumbs, and olive oil in a small bowl.",
+    "After 30 minutes, remove the courgettes from the sous-vide water bath and arrange them in a single layer in a baking dish.",
+    "Drizzle the courgettes with lemon juice and sprinkle with the Pecorino cheese mixture.",
+    "Transfer the baking dish to the preheated oven and bake for 15 minutes, or until the top is golden brown and the cheese is melted.",
+    "Let the gratin rest for 5 minutes before serving.",
+    "Serve warm, garnished with additional rosemary and thyme if desired.",
+    "Garnish with a drizzle of olive oil and a pinch of black pepper if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "healthy",
+    "herbal",
+    "lacto-vegetarian",
+    "mediterranean",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 13
+  },
+  "slug": "light-herbal-roasted-mediterranean-courgettes-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-herbal-roasted-mediterranean-courgettes-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:56:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "courgettes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "courgettes",
+    "descriptor": "light herbal roasted",
+    "dishForm": "Gratin"
+  }
+}
