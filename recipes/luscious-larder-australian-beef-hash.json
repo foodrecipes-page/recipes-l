@@ -1,0 +1,106 @@
+{
+  "title": "Luscious Larder Australian Beef Hash",
+  "description": "A rich, silky Australian dish featuring fries, fold, and foldable low-carb friendly goodness in a cast-iron skillet.",
+  "cuisine": "australian",
+  "diet": [
+    "beef",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 pound beef brisket",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "2 tablespoons cooking oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "1 cup frozen french fries",
+      "amount": "1",
+      "notes": "thawed"
+    },
+    {
+      "name": "2 cups shredded cheddar cheese",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon Worcestershire sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "3 tablespoons all-purpose flour",
+      "amount": "3",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) and the skillet to medium-high heat.",
+    "Add 1 tablespoon of oil to the skillet and cook the beef brisket until browned.",
+    "Add the onion to the skillet and cook until softened.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Add the frozen french fries to the skillet and cook until golden brown.",
+    "In a separate bowl, mix the shredded cheese with the flour.",
+    "Add the cheese mixture on top of the beef mixture and cook until the cheese is melted.",
+    "Fold the hash in thirds and cook for an additional 5 minutes.",
+    "Serve hot and enjoy.",
+    "Garnish with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "beef-hash",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "luscious-larder-australian-beef-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-larder-australian-beef-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:19:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "fold",
+    "primaryIngredient": "fries",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "Luscious Larder",
+    "dishForm": "Hash"
+  }
+}
