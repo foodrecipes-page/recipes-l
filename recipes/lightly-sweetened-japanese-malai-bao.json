@@ -1,0 +1,123 @@
+{
+  "title": "Lightly Sweetened Japanese Malai Bao",
+  "description": "A creamy and nostalgic Japanese dish featuring malai and a lightly sweetened bread, perfect for a snack or dessert.",
+  "cuisine": "japanese",
+  "diet": [
+    "low-carb",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": "around 100°F"
+    },
+    {
+      "name": "malai",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar for brushing",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a small bowl, let it sit for 5 minutes.",
+    "In a large mixing bowl, whisk together flour, cornstarch and salt.",
+    "Add sugar, milk and yeast mixture to the dry ingredients, mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, let it rise in a warm place for 1 hour.",
+    "Punch down the dough, divide it into 4-6 equal pieces, shape each piece into a ball.",
+    "Roll out each ball into a thin circle, place a tablespoon of malai in the center.",
+    "Fold the dough into a half moon shape, press the edges to seal, and use a fork to crimp the edges.",
+    "Heat a comal or griddle over medium heat, brush with coconut oil.",
+    "Cook the baos for 2-3 minutes on each side, or until they are golden brown.",
+    "Brush the tops with sugar syrup (1 tablespoon sugar dissolved in 1 tablespoon water) and let them cool."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "japanese",
+    "low-carb",
+    "snack",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "lightly-sweetened-japanese-malai-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-sweetened-japanese-malai-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:51:20Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "marinate",
+    "primaryIngredient": "malai",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "malai",
+    "descriptor": "Lightly Sweetened",
+    "dishForm": "Bao"
+  }
+}
