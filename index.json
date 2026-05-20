@@ -6706,6 +6706,21 @@
     "shard": "l"
   },
   {
+    "slug": "light-thai-beef-nam-prik",
+    "title": "Light Thai Beef Nam Prik",
+    "tags": [
+      "asiandish",
+      "beef",
+      "featherblade",
+      "glutenfree",
+      "nam-prik",
+      "thaifood"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 37,
+    "shard": "l"
+  },
+  {
     "slug": "light-thai-chicken-legs-toast",
     "title": "Light Thai Chicken Legs Toast",
     "tags": [
@@ -16218,6 +16233,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 120,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-middle-eastern-shredded-phyllo-knafeh-shisha",
+    "title": "Luscious Middle-Eastern Shredded Phyllo Knafeh Shisha",
+    "tags": [
+      "date-night",
+      "dessert",
+      "middle-eastern",
+      "paleo-friendly",
+      "romantic"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {

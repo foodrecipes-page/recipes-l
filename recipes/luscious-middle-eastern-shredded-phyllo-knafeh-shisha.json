@@ -1,0 +1,130 @@
+{
+  "title": "Luscious Middle-Eastern Shredded Phyllo Knafeh Shisha",
+  "description": "A rich and silky dessert featuring tender phyllo, caramelized dates, and a hint of Grand Marnier. Perfect for a romantic evening in.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package (1 pound)",
+      "notes": ""
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "shaved bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the phyllo dough into 1-inch squares and set aside.",
+    "In a large saucepan, combine the honey, pistachios, Grand Marnier, and 2 tablespoons of the unsalted butter. Bring to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the chopped dates to the saucepan and cook for an additional 2-3 minutes, or until the dates are tender and the liquid has thickened.",
+    "In a separate saucepan, melt the remaining 2 tablespoons of unsalted butter over medium heat.",
+    "Add the shaved bonito flakes to the saucepan and cook for 1-2 minutes, or until fragrant.",
+    "Add the heavy cream, rose water, ground cinnamon, salt, and vanilla extract to the saucepan and whisk until combined.",
+    "Add the phyllo squares to the saucepan and cook for 2-3 minutes on each side, or until the phyllo is golden brown and crispy.",
+    "Transfer the phyllo to a serving dish and drizzle with the honey-date mixture.",
+    "Sprinkle the sugar over the top and serve immediately.",
+    "Reheat the knafeh in the oven for 5-7 minutes, or until hot and bubbly.",
+    "Serve warm, garnished with additional pistachios and rose petals if desired.",
+    "Note: Be careful when working with hot phyllo dough, as it can burn easily.",
+    "This dessert is best served immediately, as the phyllo will become soggy if left to sit for too long.",
+    "If you want to make this dessert ahead of time, you can assemble the knafeh and refrigerate it for up to 2 hours before baking.",
+    "When baking the knafeh, use a kitchen torch to caramelize the sugar on top, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "dessert",
+    "middle-eastern",
+    "paleo-friendly",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "luscious-middle-eastern-shredded-phyllo-knafeh-shisha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-middle-eastern-shredded-phyllo-knafeh-shisha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:20:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "grand marnier",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Shredded Phyllo",
+    "descriptor": "Luscious",
+    "dishForm": "Knafeh Shisha"
+  }
+}

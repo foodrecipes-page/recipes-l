@@ -1,0 +1,103 @@
+{
+  "title": "Light Thai Beef Nam Prik",
+  "description": "A peppery and flavorful Nam Prik made with feather blade beef, wood-fired bake, and a variety of fresh ingredients.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Feather blade beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bird's eye chilies",
+      "amount": "4-5",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven or a conventional oven to 500°F (260°C).",
+    "Prepare the ingredients by chopping the garlic, ginger, lemongrass, and chilies.",
+    "Season the feather blade beef with salt and pepper.",
+    "Heat the oil in an oven-safe pan over medium-high heat.",
+    "Sear the beef until browned on both sides, then transfer to a baking sheet and roast for 10 minutes.",
+    "Meanwhile, combine the chilies, garlic, ginger, and lemongrass in a blender or food processor and blend until smooth.",
+    "Add the fish sauce, brown sugar, and rice vinegar to the blender and blend until well combined.",
+    "Return the beef to the oven and roast for an additional 5-7 minutes, or until cooked to desired doneness.",
+    "Remove the beef from the oven and let rest for 5 minutes before slicing thinly.",
+    "Serve the sliced beef with the Nam Prik sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "asiandish",
+    "beef",
+    "featherblade",
+    "glutenfree",
+    "nam-prik",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "light-thai-beef-nam-prik",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-thai-beef-nam-prik",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:20:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "feather blade beef",
+    "diet": "flexitarian",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef",
+    "descriptor": "light",
+    "dishForm": "Nam Prik"
+  }
+}
