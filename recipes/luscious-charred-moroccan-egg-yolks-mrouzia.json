@@ -1,0 +1,109 @@
+{
+  "title": "Luscious Charred Moroccan Egg Yolks Mrouzia",
+  "description": "A rich, flavorful, and shaggy Moroccan dish featuring wood-fired egg yolks.\nMrouzia is a traditional Moroccan dessert, but this version is ovo-vegetarian-friendly, making it a unique breakfast option.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "ovo-vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg yolks",
+      "amount": "4",
+      "notes": "Large eggs, separated from the whites and saved for another use."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Raw, unfiltered honey for best flavor."
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "Clarified butter for added richness."
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Ground cinnamon for warmth and depth."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Ground ginger for spice."
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 tsp",
+      "notes": "Ground cardamom for unique flavor."
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "Chopped pistachios for added crunch."
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "1 tsp",
+      "notes": "Pure orange blossom water for exotic flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "Flaky sea salt for savory depth."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "High-quality olive oil for finishing."
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven or a conventional oven to 400°F (200°C).",
+    "In a small bowl, mix together the honey, ghee, cinnamon, ginger, cardamom, and salt.",
+    "In a separate bowl, gently beat the egg yolks until they're lightly broken up.",
+    "Add the pistachios, orange blossom water, and honey-ghee mixture to the egg yolks and stir until just combined.",
+    "Using a spoon, place the egg yolk mixture onto a sheet of parchment paper or a lightly oiled baking sheet, creating shaggy, uneven mounds.",
+    "Drizzle the tops with olive oil and place in the preheated oven.",
+    "Bake for 12-15 minutes, or until the egg yolks are set and the tops are caramelized.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "moroccan",
+    "ovovegetarian",
+    "weeknight",
+    "woodfired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "luscious-charred-moroccan-egg-yolks-mrouzia",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-charred-moroccan-egg-yolks-mrouzia",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:48:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "egg yolks",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Luscious Charred",
+    "dishForm": "Mrouzia"
+  }
+}
