@@ -1,0 +1,114 @@
+{
+  "title": "luscious citrusy egyptian eggs frittata",
+  "description": "a crispy and flavorful egyptian-inspired frittata bursting with citrusy flavors, perfect for a satisfying breakfast or brunch.",
+  "cuisine": "european/middle-eastern",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "laminated puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "tandoor egg wash",
+      "amount": "1 egg beaten"
+    }
+  ],
+  "instructions": [
+    "preheat the tandoor clay pot to 375 degrees fahrenheit.",
+    "roll out the laminated puff pastry on a lightly floured surface to a thickness of 1/8 inch.",
+    "in a separate bowl, whisk together the eggs, lemon juice, orange juice, salt, and pepper.",
+    "add the sliced onion and minced garlic to the egg mixture and whisk until well combined.",
+    "spread the egg mixture evenly over the center of the puff pastry, leaving a 1-inch border around the edges.",
+    "sprinkle the chopped parsley and dill over the egg mixture.",
+    "fold the 1-inch border over the filling to create a crust, pressing gently to seal.",
+    "place the frittata in the preheated tandoor clay pot and brush the egg wash over the pastry.",
+    "bake for 25-30 minutes or until the pastry is golden brown and the eggs are set.",
+    "remove from the oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "citrusy",
+    "egyptian",
+    "frittata",
+    "high-protein",
+    "one-pan",
+    "tandoor",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "luscious-citrusy-egyptian-eggs-frittata",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-citrusy-egyptian-eggs-frittata",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T21:50:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "eggs",
+    "descriptor": "Luscious Citrusy",
+    "dishForm": "Frittata"
+  }
+}
