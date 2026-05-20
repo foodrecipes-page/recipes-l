@@ -1,0 +1,112 @@
+{
+  "title": "lazy-sunday tangy tunisian poppy seeds tagine",
+  "description": "a tangy and crunchy tunisian dish featuring ground poppy seeds, perfect for a lazy sunday morning meal, vegan and raw-friendly",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan",
+    "raw-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground poppy seeds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's fermented for at least 24 hours before using"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use mild olive oil for best flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chop it finely before adding to the pan"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "mince them finely before adding to the pan"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "use freshly ground cumin for best flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "use freshly ground coriander for best flavor"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "use sweet paprika for best flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "use fine sea salt for best flavor"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped before adding to the tagine"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat",
+    "add the chopped onion and saut\u00163e until it's translucent",
+    "add the minced garlic and cook for 1 minute",
+    "add the ground poppy seeds, cumin, coriander, paprika and salt. stir to combine",
+    "cook for 2 minutes, stirring constantly",
+    "add the ferment-jang and stir to combine",
+    "reduce the heat to low and simmer for 10 minutes",
+    "stir in the chopped parsley and cook for an additional 2 minutes",
+    "serve the tagine hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "raw-friendly",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "lazy-sunday-tangy-tunisian-poppy-seeds-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-tangy-tunisian-poppy-seeds-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:40:31Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "lazy-sunday tangy",
+    "dishForm": "Tagine"
+  }
+}
