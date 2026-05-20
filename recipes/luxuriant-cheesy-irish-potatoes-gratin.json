@@ -1,0 +1,69 @@
+{
+  "title": "Luxuriant Cheesy Irish Potatoes Gratin",
+  "description": "A show-stopping Irish dish featuring Jersey Royal potatoes in a cheesy, lacquer-glaze topped gratin. Perfect for dinner gatherings or special occasions.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey Royal potatoes",
+      "amount": "6-8 medium-sized potatoes",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "200g",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C (375°F)."
+  ],
+  "cookTimeMin": 45,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "european",
+    "irish",
+    "luxurious",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 150,
+    "fat": 70
+  },
+  "prepTimeMin": 15,
+  "slug": "luxuriant-cheesy-irish-potatoes-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriant-cheesy-irish-potatoes-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:39:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "luxuriant cheesy",
+    "dishForm": "Gratin"
+  }
+}
