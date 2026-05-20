@@ -1,0 +1,115 @@
+{
+  "title": "Light Norteño Pibil Pibil",
+  "description": "A quick and easy vegan take on the classic Yucatecan cochinita pibil dish, featuring tender jackfruit and a tangy citrus marinade.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jackfruit",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Orange juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Jalapeño pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine lime and orange juice, smoked paprika, cumin, salt, and black pepper. Blend until smooth.",
+    "Heat the vegan butter in a large skillet over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped jalapeño and cook for an additional minute.",
+    "Add the jackfruit to the skillet and cook for 5-7 minutes, until tender and lightly browned.",
+    "Transfer the jackfruit mixture to a baking dish and brush with the citrus marinade.",
+    "Bake in a preheated oven at 375°F for 20-25 minutes, until the jackfruit is tender and the glaze is set.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve with your favorite sides, such as rice, beans, or tortillas.",
+    "Adjust the level of heat to your liking by adding more or less jalapeño.",
+    "For a crisper glaze, broil the jackfruit for an additional 2-3 minutes, watching carefully to avoid burning."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easy-dinner",
+    "gluten-free",
+    "mexican",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "light-norteno-pibil-pibil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-norteno-pibil-pibil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:08:26Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "simmer",
+    "primaryIngredient": "vegan butter",
+    "diet": "dairy-free",
+    "region": "norteño",
+    "cuisineAdjective": "norteño",
+    "mainIngredient": "pibil",
+    "descriptor": "Light",
+    "dishForm": "Pibil"
+  }
+}
