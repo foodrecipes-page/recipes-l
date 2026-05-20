@@ -8935,6 +8935,22 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-pan-fried-canadian-fish-hash",
+    "title": "Lightly Pan-Fried Canadian Fish Hash",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "fish",
+      "hash",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-peppery-middle-eastern-morcilla-tagine",
     "title": "Lightly Peppery Middle Eastern Morcilla Tagine",
     "tags": [
@@ -18206,6 +18222,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriantly-silky-irish-mozzarella-gratin",
+    "title": "Luxuriantly Silky Irish Mozzarella Gratin",
+    "tags": [
+      "comfort-food",
+      "copper-pot",
+      "dinner-party",
+      "gratin",
+      "indulgent",
+      "mozzarella"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {

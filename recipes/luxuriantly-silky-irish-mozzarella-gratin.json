@@ -1,0 +1,91 @@
+{
+  "title": "Luxuriantly Silky Irish Mozzarella Gratin",
+  "description": "A rich, comforting gratin featuring melted mozzarella, crispy potatoes, and fragrant thyme. Perfect for an indulgent dinner or special occasion.",
+  "cuisine": "irish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cubed potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "mozzarella balls",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "canned full-fat coconut milk",
+      "amount": "1 can",
+      "notes": "chilled in the refrigerator overnight"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler. In a copper pot, combine the sliced potatoes, salt, and pepper. Toss to coat. Arrange the potatoes in a single layer and set aside. In a separate bowl, mix the softened butter and chopped thyme until well combined. Place the mozzarella balls in the copper pot, leaving a 1-inch border around the edges. Spoon the potato mixture over the mozzarella, followed by the butter and thyme mixture. If using, sprinkle the shredded cheddar cheese over the top. Drizzle the chilled coconut milk over the potatoes. Transfer the copper pot to the preheated broiler. Broil for 5-7 minutes, or until the potatoes are golden brown and the cheese is melted and bubbly. Remove the copper pot from the broiler and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "copper-pot",
+    "dinner-party",
+    "gratin",
+    "indulgent",
+    "mozzarella"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "luxuriantly-silky-irish-mozzarella-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luxuriantly-silky-irish-mozzarella-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:14:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Luxuriantly Silky",
+    "dishForm": "Gratin"
+  }
+}
