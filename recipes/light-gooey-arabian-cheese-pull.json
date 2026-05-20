@@ -1,0 +1,110 @@
+{
+  "title": "light gooey arabian cheese pull",
+  "description": "a light, saudi-arabian dish featuring orange zest and a gooey cheese pull that's perfect for breakfast, lunch, or dinner. this lacto-vegetarian recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole wheat pita",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f (190°c).",
+    "in a small saucepan, melt the butter over medium heat.",
+    "add the orange zest, salt, thyme, and garlic to the saucepan and cook for 1 minute, stirring constantly.",
+    "add the feta cheese to the saucepan and stir until it starts to melt.",
+    "place the whole wheat pita on a baking sheet and brush the top with olive oil.",
+    "place a spoonful of the cheese mixture onto the center of each pita.",
+    "fold the pita in half and place it on the baking sheet.",
+    "drizzle the lemon juice over the top of each pita.",
+    "bake in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "remove from the oven and let cool for a few minutes before serving.",
+    "serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-option",
+    "easy-meal",
+    "middle-eastern",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "light-gooey-arabian-cheese-pull",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-gooey-arabian-cheese-pull",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:50:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "orange zest",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "cheese",
+    "descriptor": "Light Gooey",
+    "dishForm": "Pull"
+  }
+}
