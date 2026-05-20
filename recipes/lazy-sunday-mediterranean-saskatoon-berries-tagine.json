@@ -1,0 +1,118 @@
+{
+  "title": "lazy sunday mediterranean saskatoon berries tagine",
+  "description": "a rich and velvety tagine featuring the deep flavor of saskatoon berries, perfect for a lazy sunday afternoon.\nsweet and tangy, this dish is a delicious twist on traditional mediterranean cuisine.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "saskatoon berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "green olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large ceramic tagine over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the canned diced tomatoes, green olives, honey, cinnamon, ground ginger, salt, and black pepper. stir to combine.",
+    "add the saskatoon berries and lemon juice. stir to combine.",
+    "bring the mixture to a simmer and cook, uncovered, for 20-25 minutes, or until the sauce has thickened and the berries have popped.",
+    "remove the tagine from the heat and let it cool slightly.",
+    "serve warm, garnished with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "low-fat",
+    "mediterranean",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "lazy-sunday-mediterranean-saskatoon-berries-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-mediterranean-saskatoon-berries-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:29:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Saskatoon berries",
+    "descriptor": "Lazy Sunday",
+    "dishForm": "Tagine"
+  }
+}

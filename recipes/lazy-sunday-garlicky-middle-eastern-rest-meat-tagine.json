@@ -1,0 +1,108 @@
+{
+  "title": "Lazy-Sunday Garlicky Middle-Eastern Rest-Meat Tagine",
+  "description": "A deliciously light and garlicky Middle Eastern dish made with rest-meat, perfect for a lazy Sunday.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "plant-based-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Lamb or Rest-Meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole milk or non-dairy"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add garlic and sauté for 2-3 minutes or until fragrant.",
+    "Add rest-meat and cook until browned, breaking it up with a spoon as needed.",
+    "Stir in turmeric and cook for an additional 1-2 minutes.",
+    "In a separate bowl, whisk together yogurt and milk.",
+    "Gradually add the yogurt mixture to the saucepan, stirring constantly.",
+    "Bring mixture to a simmer and cook for 10-15 minutes or until the sauce has thickened.",
+    "Taste and adjust seasoning with salt and black pepper.",
+    "Serve over sliced pita bread and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-garlicky-middle-eastern-rest-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:29:34Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "rest-meat",
+    "primaryIngredient": "milk",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Rest-Meat",
+    "descriptor": "Lazy-Sunday Garlicky",
+    "dishForm": "Tagine"
+  }
+}

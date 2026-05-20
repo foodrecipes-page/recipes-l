@@ -1129,6 +1129,19 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine",
+    "title": "Lazy-Sunday Garlicky Middle-Eastern Rest-Meat Tagine",
+    "tags": [
+      "lazy-sunday",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-gluten-free-rice-noodles",
     "title": "Lazy Sunday Nutty Crumbly Gluten-Free Rice Noodles",
     "tags": [
@@ -1239,6 +1252,20 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-mediterranean-saskatoon-berries-tagine",
+    "title": "lazy sunday mediterranean saskatoon berries tagine",
+    "tags": [
+      "dessert",
+      "low-fat",
+      "mediterranean",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
