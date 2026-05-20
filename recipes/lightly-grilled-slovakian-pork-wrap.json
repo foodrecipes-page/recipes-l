@@ -1,0 +1,63 @@
+{
+  "title": "Lightly Grilled Slovakian Pork Wrap",
+  "description": "A light and refreshing Slovakian pork dish featuring dark rum and served in a pandan leaf wrap.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "400g",
+      "notes": "preferably Slovakian or similar cut"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Season the pork tenderloin with salt, pepper, and 2 tsp of paprika.",
+    "Grill the pork tenderloin for 4-5 minutes per side, or until it reaches an internal temperature of 63\u00193C.",
+    "Let the pork rest for 2 minutes before slicing it thinly.",
+    "In a small bowl, mix together 2 tbsp of dark rum, 1 tsp of honey, and 1 tsp of Dijon mustard.",
+    "Brush the rum mixture onto the sliced pork tenderloin.",
+    "Warm the pandan leaf wraps according to package instructions.",
+    "Assemble the wraps by placing a few slices of the rum-glazed pork tenderloin onto the center of each wrap, followed by a few slices of cucumber and a sprinkle of chopped fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "low-carb",
+    "pandan-wrap",
+    "pork",
+    "rum",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "lightly-grilled-slovakian-pork-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-grilled-slovakian-pork-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:15:54Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "light",
+    "technique": "robata-grill",
+    "primaryIngredient": "dark rum",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Pork",
+    "descriptor": "Lightly Grilled",
+    "dishForm": "Wrap"
+  }
+}
