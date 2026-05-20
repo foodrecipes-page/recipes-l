@@ -1,0 +1,97 @@
+{
+  "title": "Light Zesty Australian Buckwheat Bake",
+  "description": "A deliciously light Australian buckwheat bake featuring a sweet and tangy jammy center, perfect for a quick weeknight dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup buckwheat flour",
+      "amount": "1 cup",
+      "notes": "make sure to use a high-quality buckwheat flour"
+    },
+    {
+      "name": "1/2 cup almond milk",
+      "amount": "1/2 cup",
+      "notes": "use a non-dairy milk to keep the dish Whole30 compliant"
+    },
+    {
+      "name": "1/4 cup coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted coconut oil adds a rich flavor to the dish"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2",
+      "notes": "fresh eggs are essential for a light and fluffy texture"
+    },
+    {
+      "name": "1/2 cup mixed berries",
+      "amount": "1/2 cup",
+      "notes": "fresh or frozen berries work equally well in this recipe"
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste for desired level of sweetness"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "use a high-quality vanilla extract for the best flavor"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4 teaspoon",
+      "notes": "a pinch of salt enhances the flavors in the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C) and line a 9x9 inch baking dish with parchment paper.",
+    "In a large bowl, whisk together the buckwheat flour, almond milk, melted coconut oil, eggs, mixed berries, honey, vanilla extract, and salt until well combined.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 35 minutes or until the edges are lightly golden and the center is set.",
+    "Remove the dish from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "breakfast",
+    "brunch",
+    "one-pan",
+    "paleo",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "light-zesty-australian-buckwheat-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-zesty-australian-buckwheat-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:03:48Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "salt-bake",
+    "primaryIngredient": "buckwheat",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "light zesty",
+    "dishForm": "Bake"
+  }
+}
