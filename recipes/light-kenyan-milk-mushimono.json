@@ -1,0 +1,74 @@
+{
+  "title": "Light Kenyan Milk Mushimono",
+  "description": "A briny, glassy-jelly, sweetened condensed milk dessert originating from Kenya, suitable for a sugar-free diet.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the sweetened condensed milk, water, and melted ghee or butter in a medium saucepan.",
+    "Bring the mixture to a simmer over medium heat, whisking constantly.",
+    "Reduce the heat to low and continue cooking for an additional 5 minutes, or until the mixture has thickened slightly.",
+    "Remove the saucepan from the heat and stir in the salt, vanilla extract, cinnamon powder, and cardamom powder.",
+    "Pour the mixture into a shallow dish or mold and refrigerate for at least 2 hours, or until chilled and set.",
+    "Once set, slice the Light Kenyan Milk Mushimono into small pieces and serve chilled.",
+    "Note: If desired, garnish with a sprinkle of cardamom powder or a few strands of saffron for added flavor and visual appeal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-dish",
+    "dessert",
+    "easy-to-make",
+    "kenyan",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "light-kenyan-milk-mushimono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-kenyan-milk-mushimono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:00:27Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Milk",
+    "descriptor": "Light",
+    "dishForm": "Mushimono"
+  }
+}
