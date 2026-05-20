@@ -1,0 +1,113 @@
+{
+  "title": "Lemon-Herb Filled Tunisian Chili Tagine",
+  "description": "A flavorful and crispy one-pot dish from Tunisia, featuring ancho chillies and double-rise bread.",
+  "cuisine": "tunisian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ancho chillies",
+      "amount": "3-4",
+      "notes": "dried"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "crusty"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "unflavored"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a copper mug over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced ancho chillies and cook for 2 minutes.",
+    "Add the chopped fresh parsley, salt, black pepper, grated ginger, and lemon zest. Cook for 1 minute.",
+    "Cut the double-rise bread into 1-inch cubes and add to the copper mug.",
+    "Pour in the lemon juice and stir to combine.",
+    "Cover the copper mug and cook for 10-12 minutes, or until the bread is crispy and the filling is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "lemon-herb",
+    "one-pan",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "lemon-herb-filled-tunisian-chili-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-herb-filled-tunisian-chili-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:40:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "ancho chillies",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chili",
+    "descriptor": "Lemon-Herb Filled",
+    "dishForm": "Tagine"
+  }
+}
