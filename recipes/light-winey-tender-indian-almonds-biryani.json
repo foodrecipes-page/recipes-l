@@ -1,0 +1,111 @@
+{
+  "title": "Winey Almond Biryani",
+  "description": "A flavorful and kid-friendly Indian dish made with tender almonds, a hint of wine, and a mirepoix base, perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "sliced and toasted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Wine",
+      "amount": "2 tablespoons",
+      "notes": "dry white wine"
+    },
+    {
+      "name": "Amaretti",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil or ghee in a large skillet over medium-high heat.",
+    "Add the chopped onion, carrot, and celery and saut\u00166 over until the vegetables are tender.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the sliced almonds and cook for 2-3 minutes, until fragrant.",
+    "Add the crushed amaretti and cook for 1 minute, until the mixture is lightly browned.",
+    "Add the wine and cook until the liquid has almost completely evaporated.",
+    "Add the cooked basmati rice to the skillet and stir to combine with the vegetable and almond mixture.",
+    "Season with salt to taste and garnish with chopped cilantro.",
+    "Transfer the biryani to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "kid-friendly",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "light-winey-tender-indian-almonds-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-winey-tender-indian-almonds-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:49:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "amaretti",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "almonds",
+    "descriptor": "light winey tender",
+    "dishForm": "Biryani"
+  }
+}
