@@ -1,0 +1,107 @@
+{
+  "title": "late-night luscious mexican feta pozole",
+  "description": "a rich and creamy mexican soup featuring crumbly feta, slow-cooked in a nimono-style broth, served with fresh cilantro, lime wedges, and crunchy tortilla strips.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "canned hominy",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, salted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": "canned"
+    },
+    {
+      "name": "homemade chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "tortilla strips",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "heat the chicken broth in a large pot over medium heat.",
+    "add the onion, garlic, chili powder, and cumin to the pot and cook until the onion is translucent.",
+    "add the chipotle peppers, hominy, and feta cheese to the pot and stir to combine.",
+    "reduce heat to low and simmer for 30 minutes.",
+    "taste and adjust seasoning as needed.",
+    "serve hot, garnished with chopped cilantro, lime wedges, and tortilla strips.",
+    "optionally, serve with diced avocado, sour cream, or shredded cabbage."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mexican",
+    "one-pan",
+    "pozole",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 23,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "late-night-luscious-mexican-feta-pozole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/late-night-luscious-mexican-feta-pozole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:10:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "feta",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "feta",
+    "descriptor": "late-night luscious",
+    "dishForm": "Pozole"
+  }
+}

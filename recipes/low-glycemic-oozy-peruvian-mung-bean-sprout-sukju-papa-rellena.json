@@ -1,0 +1,106 @@
+{
+  "title": "Low-Glycemic Oozy Peruvian Mung-Bean-Sprout-Sukju Papa Rellena",
+  "description": "A refreshing, post-workout Peruvian dish featuring mung-bean-sprout-sukju, ice-bath-shock, and low-glycemic ingredients. This recipe wraps the filling in banana leaves for a traditional Peruvian touch.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "Fresh, not canned or cooked."
+    },
+    {
+      "name": "Sukju (Korean-style mung beans)",
+      "amount": "1 cup",
+      "notes": "Soaked and cooked according to package instructions."
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "Raw."
+    },
+    {
+      "name": "Diced red onion",
+      "amount": "1/4 cup",
+      "notes": "Raw."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For ice bath."
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "4-6 leaves",
+      "notes": "Large enough to wrap each serving."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For greasing banana leaves."
+    }
+  ],
+  "instructions": [
+    "Soak the mung bean sprouts in cold water for 10 minutes to remove bitterness.",
+    "Drain and set aside.",
+    "In a blender or food processor, combine cooked sukju, diced red bell pepper, and diced red onion. Blend until smooth.",
+    "Transfer the mixture to a bowl and stir in chopped cilantro, lime juice, and a pinch of salt.",
+    "Add the mung bean sprouts to the bowl and mix gently to combine.",
+    "Fill the center of each banana leaf with about 1/4 cup of the mung bean-sprout-sukju mixture, leaving a 2-inch border around the edges.",
+    "Fold the banana leaf over the filling, creating a pouch, and secure with a toothpick if needed.",
+    "Place the pouches in a large bowl and cover with ice. Let sit for 10-15 minutes to shock and set the filling.",
+    "Heat a non-stick skillet or griddle over medium heat. Grease with coconut oil.",
+    "Add the pouches to the skillet and cook for 2-3 minutes on each side, until the banana leaves are slightly charred.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "post-workout",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "low-glycemic-oozy-peruvian-mung-bean-sprout-sukju-papa-rellena",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-glycemic-oozy-peruvian-mung-bean-sprout-sukju-papa-rellena",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:09:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "mung-bean-sprout-sukju",
+    "descriptor": "Low-Glycemic Oozy",
+    "dishForm": "Papa Rellena"
+  }
+}

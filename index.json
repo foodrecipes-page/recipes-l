@@ -380,6 +380,21 @@
     "shard": "l"
   },
   {
+    "slug": "late-night-luscious-mexican-feta-pozole",
+    "title": "late-night luscious mexican feta pozole",
+    "tags": [
+      "comfort-food",
+      "mexican",
+      "one-pan",
+      "pozole",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
     "slug": "lavender-creamy-croatian-cheese-fritters",
     "title": "Lavender Creamy Croatian Cheese Fritters",
     "tags": [
@@ -6908,6 +6923,19 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-baked-peruvian-shio-koji-relleno",
+    "title": "Peruvian Shio-Koji Relleno with Rocoto Peppers",
+    "tags": [
+      "one-pan",
+      "peruvian",
+      "shio-koji",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
@@ -13966,6 +13994,20 @@
     ],
     "cuisine": "norwegian",
     "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "low-glycemic-oozy-peruvian-mung-bean-sprout-sukju-papa-rellena",
+    "title": "Low-Glycemic Oozy Peruvian Mung-Bean-Sprout-Sukju Papa Rellena",
+    "tags": [
+      "gluten-free",
+      "low-glycemic",
+      "one-pan",
+      "post-workout",
+      "vegan"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {

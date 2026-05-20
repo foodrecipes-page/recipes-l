@@ -1,0 +1,103 @@
+{
+  "title": "Peruvian Shio-Koji Relleno with Rocoto Peppers",
+  "description": "A twist on the classic Peruvian dish, this version uses shio-koji to add depth and umami flavor. Perfect for a quick and easy weeknight dinner.",
+  "cuisine": "peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocoto peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the rocoto peppers and scoop out the seeds.",
+    "In a blender or food processor, combine shio-koji, heavy cream, parmesan cheese, eggs, salt, and black pepper. Blend until smooth.",
+    "Stuff each pepper with the shio-koji mixture and place in a baking dish.",
+    "Dot the tops of the peppers with butter and cover with foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for 10-15 minutes, or until the peppers are tender and the filling is lightly browned.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "peruvian",
+    "shio-koji",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "lightly-baked-peruvian-shio-koji-relleno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-baked-peruvian-shio-koji-relleno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:10:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "shio-koji",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Shio-Koji",
+    "descriptor": "Lightly Baked",
+    "dishForm": "Relleno"
+  }
+}
