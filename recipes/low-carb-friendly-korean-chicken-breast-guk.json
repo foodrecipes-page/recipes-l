@@ -1,0 +1,119 @@
+{
+  "title": "Low-Carb Korean Chicken Breast Guk",
+  "description": "A low-carb, fermented Korean chicken breast dish that's great for hangovers and is made with a combination of chicken breast and score. This unique and flavorful recipe is a twist on the traditional Korean hangover soup called doenjang-jjigae.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "score",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "doenjang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine chicken breast and score in a blender or food processor and blend until smooth.",
+    "Heat chicken broth and water in a large pot over high heat until boiling.",
+    "Add blended chicken mixture to the pot and stir to combine.",
+    "Reduce heat to medium and add green onion, ginger, garlic, gochujang, fish sauce, toasted sesame oil, doenjang, and salt to the pot.",
+    "Stir to combine and cook for 10 minutes.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot and garnish with green onion and toasted sesame seeds if desired.",
+    "Refrigerate any leftovers for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "hangover-cure",
+    "korean",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 8,
+    "fat": 15
+  },
+  "slug": "low-carb-friendly-korean-chicken-breast-guk",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-carb-friendly-korean-chicken-breast-guk",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:06:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "score-fat",
+    "primaryIngredient": "chicken breast",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken breast",
+    "descriptor": "low-carb-friendly",
+    "dishForm": "Guk"
+  }
+}
