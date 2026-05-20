@@ -1,0 +1,70 @@
+{
+  "title": "Light Indian Mars Bar Biryani",
+  "description": "A paleo-friendly Indian dish featuring Mars Bar and ferment-kimchi, perfect for a quick dessert or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars Bar",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "250g",
+      "notes": "preferably brown or sprouted rice"
+    }
+  ],
+  "instructions": [
+    "Heat Coconut oil in a large saucepan over medium heat.",
+    "Add the Basmati rice and cooking liquid, and bring to a simmer.",
+    "Reduce heat to low and cook for 15 minutes, or until the rice is cooked and fluffy.",
+    "While the rice cooks, chop the Mars Bar into small pieces and set aside.",
+    "In a small bowl, mix the ferment-kimchi with Salt and Black pepper, to taste.",
+    "Once the rice is cooked, fluff it with a fork and stir in the ferment-kimchi mixture.",
+    "Add the chopped Mars Bar to the rice mixture, and stir until well combined.",
+    "Transfer the mixture to a serving dish and garnish with Fresh cilantro, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-dinner",
+    "ferment-kimchi",
+    "indian",
+    "mars-bar",
+    "paleo",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 30
+  },
+  "slug": "light-indian-mars-bar-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-indian-mars-bar-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:38:51Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "mars bar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "light",
+    "dishForm": "Biryani"
+  }
+}
