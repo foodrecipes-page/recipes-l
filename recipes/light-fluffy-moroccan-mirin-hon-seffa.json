@@ -1,0 +1,115 @@
+{
+  "title": "light fluffy moroccan mirin-hon seffa",
+  "description": "a light and fluffy take on the classic moroccan seffa dish, featuring mirin-hon for a slightly sweet flavor. served as a side or light meal, this dish is macrobiotic-friendly and perfect for a weeknight dinner.",
+  "cuisine": "moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mirin-hon",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of olive oil in a large saucepan over medium heat. add the chopped onion, minced garlic, peeled and chopped carrots, and chopped celery, and sauté until the vegetables are tender. add the mirin-hon, apricot jam, cinnamon, ground ginger, salt, and black pepper, and stir to combine. bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes. stir in the all-purpose flour to thicken the mixture. cook for an additional 2 minutes, or until the seffa is lightly thickened and fluffy. remove from heat and serve hot.",
+    "use a large saucepan with a heavy bottom, such as stainless steel or cast iron, to prevent scorching.",
+    "if using a saucepan with a non-stick coating, use a lower heat setting to prevent damage to the non-stick surface.",
+    "stir the mixture constantly when adding the flour to prevent lumps from forming.",
+    "if desired, add a sprinkle of cinnamon or ginger to the top of the seffa before serving for extra flavor.",
+    "seffa can be served as a side dish or light meal, and is best served immediately after cooking.",
+    "seffa will keep in the refrigerator for up to 3 days, and can be reheated in the microwave or oven before serving.",
+    "macrobiotic-friendly ingredients and cooking methods make this dish a great option for those following a macrobiotic diet.",
+    "this dish is also low in calories and fat, making it a great option for those watching their diet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "macrobiotic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "light-fluffy-moroccan-mirin-hon-seffa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fluffy-moroccan-mirin-hon-seffa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:58:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "mirin-hon",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "mirin-hon",
+    "descriptor": "light fluffy",
+    "dishForm": "Seffa"
+  }
+}
