@@ -1,0 +1,128 @@
+{
+  "title": "steamed filipino savoy cabbage bao",
+  "description": "a light and refreshing midnight craving dish that brings together the flavors of the philippines in a sattvic-friendly and easy-to-make bao. serve in a bento box for a delightful meal.",
+  "cuisine": "filipino",
+  "diet": [
+    "sattvic",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "glutinous rice flour",
+      "amount": "2 cups",
+      "notes": "for bao dough"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece",
+      "notes": "about 1 inch long"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "for steaming",
+      "notes": ""
+    },
+    {
+      "name": "ttukbaegi (earthenware cookware)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "bento box",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "cut the savoy cabbage into small florets and set aside.",
+    "in a large mixing bowl, combine the glutinous rice flour and water to form a dough. knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "divide the dough into 4-6 equal portions, depending on how large you want your baos to be. shape each portion into a ball and then flatten it slightly into a disk shape.",
+    "heat a non-stick pan or ttukbaegi over medium heat and add the coconut oil. swirl the pan to coat the bottom evenly.",
+    "add the ginger and garlic to the pan and saut\u00187 for 1-2 minutes until fragrant.",
+    "add the soy sauce to the pan and stir to combine. bring the mixture to a simmer and cook for 2-3 minutes.",
+    "add the savoy cabbage to the pan and stir to combine. cook for 2-3 minutes until the cabbage is slightly tender.",
+    "place a portion of the cabbage mixture onto the center of each dough disk. fold the dough over the filling to form a bao shape and press the edges together to seal the bao.",
+    "place the baos on the bamboo skewers and steam in the ttukbaegi for 10-12 minutes until the dough is cooked through and the filling is tender.",
+    "serve the baos in a bento box with a sprinkle of sesame seeds on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "sattvic",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "lightly-steamed-filipino-savoy-cabbage-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-steamed-filipino-savoy-cabbage-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:14:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "lightly steamed",
+    "dishForm": "Bao"
+  }
+}
