@@ -1,0 +1,155 @@
+{
+  "title": "Light and Savory Indian Bread Pav Bhaji",
+  "description": "A traditional Andhra-style savory dish featuring pillowy Indian bread, ideal for lunch or dinner at a Buddhist temple.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green chili",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curry leaves",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pav bhaji masala",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "to cook the bread"
+    }
+  ],
+  "instructions": [
+    "Soak the white bread in water for about 10 minutes until it softens.",
+    "Heat ghee or oil in a large clay pot over medium heat.",
+    "Add cumin powder, coriander powder, and turmeric powder, and sauté for a minute until fragrant.",
+    "Add the onions and sauté until they are translucent and starting to brown.",
+    "Add the tomatoes and sauté until they are soft and mushy.",
+    "Add the potatoes and mushrooms, and sauté until they are cooked through.",
+    "Add the green chilies, ginger, and garlic, and sauté for a minute until fragrant.",
+    "Add the curry leaves and sauté for a minute until they are crispy.",
+    "Add the pav bhaji masala and sauté for a minute until fragrant.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Add the soaked bread to the pot and mix well to combine.",
+    "Add salt to taste and mix well to combine.",
+    "Garnish with chopped cilantro and lemon juice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "buddhist-friendly",
+    "dinner",
+    "easy-to-make",
+    "indian",
+    "lunch",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "light-and-savory-indian-bread-pav-bhaji",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-and-savory-indian-bread-pav-bhaji",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:39:30Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "white bread",
+    "diet": "buddhist-temple",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "bread",
+    "descriptor": "light and savory",
+    "dishForm": "Pav Bhaji"
+  }
+}
