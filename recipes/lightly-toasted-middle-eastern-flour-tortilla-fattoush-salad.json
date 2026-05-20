@@ -1,0 +1,102 @@
+{
+  "title": "Lightly Toasted Middle Eastern Flour Tortilla Fattoush Salad",
+  "description": "A refreshing and flavorful take on the classic Middle Eastern salad, featuring toasted flour tortilla crisps and a variety of juicy vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flour Tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing tortillas and dressing the salad"
+    },
+    {
+      "name": "Binchotan Charcoal",
+      "amount": "1 tsp",
+      "notes": "For toasting tortillas"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly Feta Cheese",
+      "amount": "8 oz",
+      "notes": "Optional (dairy not required for vegetarian)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush both sides of flour tortillas with olive oil and sprinkle with binchotan charcoal.",
+    "Place tortillas on a baking sheet and bake for 5-7 minutes, or until lightly toasted and crispy.",
+    "Chop mixed greens, cherry tomatoes, red onion, and cucumber into bite-sized pieces and place in a large bowl.",
+    "To toast tortilla crisps, place them in a single layer on a baking sheet and bake for an additional 2-3 minutes, or until crispy.",
+    "Remove tortillas from oven and let cool for a few minutes.",
+    "Add toasted tortilla crisps to the bowl with the mixed greens and top with crumbled feta cheese (if using).",
+    "Drizzle with olive oil and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fattoush",
+    "gluten-free",
+    "high-fiber",
+    "low-fat",
+    "middle-eastern",
+    "salad",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "lightly-toasted-middle-eastern-flour-tortilla-fattoush-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-toasted-middle-eastern-flour-tortilla-fattoush-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:22:55Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "flour tortilla",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "flour tortilla",
+    "descriptor": "Lightly toasted",
+    "dishForm": "Fattoush Salad"
+  }
+}
