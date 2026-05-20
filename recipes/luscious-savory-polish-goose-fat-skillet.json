@@ -1,0 +1,109 @@
+{
+  "title": "Luscious Savory Polish Goose Fat Skillet",
+  "description": "A hearty, savory dish reminiscent of traditional Polish cuisine, featuring crumbly goose fat as the base. It's perfect for a weeknight dinner, and can be easily adapted to a plant-based version by substituting the goose fat with a vegan alternative.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sweet onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the goose fat in a tava-griddle over medium-high heat until it reaches 350°F (175°C).",
+    "Add the sliced sweet onions and cook until they're translucent and slightly caramelized, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Sprinkle the flour over the onions and mushrooms and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it thickens, about 2-3 minutes.",
+    "Season with smoked paprika, garlic powder, salt, and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "savory",
+    "traditional-polish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 38
+  },
+  "slug": "luscious-savory-polish-goose-fat-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-savory-polish-goose-fat-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:57:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "goose fat",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "goose fat",
+    "descriptor": "Luscious Savory",
+    "dishForm": "Skillet"
+  }
+}
