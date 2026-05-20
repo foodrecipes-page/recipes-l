@@ -4736,6 +4736,20 @@
     "shard": "l"
   },
   {
+    "slug": "light-japanese-basmati-rice-pilaf",
+    "title": "Light Japanese Basmati Rice Pilaf",
+    "tags": [
+      "basmati",
+      "easy",
+      "japanese",
+      "rice",
+      "weeknight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
     "slug": "light-japanese-beef-gyudon",
     "title": "Light Japanese Beef Gyudon",
     "tags": [
@@ -14299,6 +14313,22 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 150,
+    "shard": "l"
+  },
+  {
+    "slug": "low-carb-friendly-charred-creamy-uruguayan-beurre-noisette-casserole",
+    "title": "Charred Creamy Uruguayan Beurre-Noisette Casserole",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "keto",
+      "low-carb",
+      "one-pan",
+      "romantic",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 80,
     "shard": "l"
   },
   {

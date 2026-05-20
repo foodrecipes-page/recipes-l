@@ -1,0 +1,60 @@
+{
+  "title": "Light Japanese Basmati Rice Pilaf",
+  "description": "A simple and savory Japanese-inspired pilaf made with basmati rice, perfect for a lazy Sunday afternoon",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "250g",
+      "notes": "long-grain basmati rice recommended"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a medium saucepan over medium heat",
+    "Add 1 small onion, diced, and cook until translucent, about 3 minutes",
+    "Add 2 cloves of garlic, minced, and cook for an additional minute",
+    "Add the basmati rice and stir to combine with the oil and onion mixture",
+    "Cook for 2-3 minutes, stirring constantly, until the rice is lightly toasted",
+    "Add 250ml of water to the saucepan and bring to a boil",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the water is absorbed and the rice is cooked",
+    "Fluff the rice with a fork and serve hot"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "basmati",
+    "easy",
+    "japanese",
+    "rice",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "light-japanese-basmati-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-japanese-basmati-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:34:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "basmati rice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "basmati rice",
+    "descriptor": "Light",
+    "dishForm": "Pilaf"
+  }
+}
