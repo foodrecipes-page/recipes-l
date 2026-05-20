@@ -1,0 +1,103 @@
+{
+  "title": "Lavish Aerated Ukrainian Monsoon Borscht Soup",
+  "description": "A savory, aerated Ukrainian dish featuring Chinese sesame sauce and dashi-extract, perfect for monsoon weather. This recipe is kosher-friendly and ideal for dinner or a special occasion.",
+  "cuisine": "ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Celeriac",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Dashi-extract",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Kosher chicken broth",
+      "amount": "4 cups",
+      "notes": "+1 cup water for dilution before serving"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1/4 cup",
+      "notes": "for finishing"
+    },
+    {
+      "name": "Chinese sesame sauce",
+      "amount": "2 tbsp",
+      "notes": "see below for homemade recipe"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "kosher, for saut\u00163ing"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large pot, melt 1 tablespoon of butter over medium heat. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the grated beetroot, carrot, and celeriac to the pot, stirring to combine.",
+    "Add the dashi-extract, kosher chicken broth, and 1 cup of water to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes, or until the vegetables are tender.",
+    "Strain the soup through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add 2 tablespoons of Chinese sesame sauce and 1/4 cup of sesame oil to the pot, stirring to combine.",
+    "Taste and adjust seasoning as needed.",
+    "Ladle the soup into bowls and garnish with chopped fresh dill and a dollop of Chinese sesame sauce, if desired.",
+    "Serve hot, finishing with a drizzle of sesame oil and a sprinkle of chopped fresh dill.",
+    "Serve immediately, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "homemade-soup",
+    "monsoon-dish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "lavish-aerated-ukrainian-monsoon-borscht-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lavish-aerated-ukrainian-monsoon-borscht-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:38:09Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "dashi-extract",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "monsoon",
+    "descriptor": "Lavish Aerated",
+    "dishForm": "Borscht Soup"
+  }
+}
