@@ -1,0 +1,99 @@
+{
+  "title": "Lovely Roasted Vietnamese Potatoes Bánh Bột",
+  "description": "A crispy roasted Vietnamese dish perfect for hangover cures, featuring baby new potatoes, fluffy texture, and egg-free-friendly ingredients.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "New potatoes (about 500g)",
+      "amount": "2",
+      "notes": "Baby potatoes work best for this recipe."
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality palm sugar for the best flavor."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Choose a neutral-tasting oil for this recipe."
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 teaspoon",
+      "notes": "Omit for a vegetarian version or reduce to taste."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Use fresh cilantro for the best flavor."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": "Choose a high-quality lime juice for the best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Sesame seeds (optional)",
+      "amount": "1 tablespoon",
+      "notes": "Omit for a nut-free version or reduce to taste."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the baby new potatoes and pat them dry with a paper towel.",
+    "Toss the potatoes with coconut oil, palm sugar, fish sauce (if using), and salt in a large bowl until they're evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet lined with parchment paper.",
+    "Roast the potatoes in the preheated oven for 20-25 minutes, flipping them halfway through, until they're tender and golden brown.",
+    "Remove the potatoes from the oven and let them cool slightly.",
+    "Transfer the potatoes to a serving dish and sprinkle with chopped cilantro, lime juice, and sesame seeds (if using).",
+    "Serve the Lovely Roasted Vietnamese Potatoes Bánh Bột warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "one-pan",
+    "vegan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "lovely-roasted-vietnamese-potatoes-banh-bot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-roasted-vietnamese-potatoes-banh-bot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T02:29:37Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "dehydrate",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "potatoes",
+    "descriptor": "Lovely Roasted",
+    "dishForm": "Bánh Bột"
+  }
+}
