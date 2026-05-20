@@ -3202,6 +3202,23 @@
     "shard": "l"
   },
   {
+    "slug": "light-chinese-colby-jack-cheese-bao",
+    "title": "Light Chinese Colby Jack Cheese Bao",
+    "tags": [
+      "bao",
+      "cheese",
+      "chinese",
+      "fujian",
+      "one-pan",
+      "satvik",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
     "slug": "light-chinese-shirataki-yangzhou-fried-rice",
     "title": "Light Chinese Shirataki Yangzhou Fried Rice",
     "tags": [
@@ -17011,6 +17028,24 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 70,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-smoky-ukrainian-beef-borscht",
+    "title": "Luscious Smoky Ukrainian Beef Borscht",
+    "tags": [
+      "beef",
+      "borscht",
+      "comfort-food",
+      "hot",
+      "main-course",
+      "one-pan",
+      "ukrainian",
+      "weeknight",
+      "winter"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 150,
     "shard": "l"
   },
   {

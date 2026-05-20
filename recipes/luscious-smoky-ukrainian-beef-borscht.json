@@ -1,0 +1,146 @@
+{
+  "title": "Luscious Smoky Ukrainian Beef Borscht",
+  "description": "Hearty weeknight borscht featuring smoky beef broth and crispy bacon, served in a bento box for a fun twist on the classic Ukrainian dish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef bones",
+      "amount": "4 pounds",
+      "notes": "stock pot"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beet juice",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the bacon in a large stock pot over medium heat, then set it aside on a paper towel-lined plate.",
+    "Add the ground beef to the pot and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion, carrots, celery, and beets to the pot and cook until the vegetables are tender.",
+    "Add the tomato paste, smoked paprika, salt, and black pepper to the pot and cook for 1 minute, stirring constantly.",
+    "Add the beef bones, water, and browned bacon back to the pot. Bring to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the beet juice, Korean chili flakes, and vegetable oil to the pot and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the borscht hot, garnished with fresh dill and a dollop of sour cream or a sprinkle of chopped fresh herbs, if desired.",
+    "Assemble the bento boxes by dividing the borscht among four small containers, adding a sprinkle of crispy bacon and a few fresh herbs to each.",
+    "Serve immediately, or refrigerate for up to 3 days or freeze for up to 2 months.",
+    "Reheat the borscht before serving, and garnish with additional fresh herbs and crispy bacon, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "borscht",
+    "comfort-food",
+    "hot",
+    "main-course",
+    "one-pan",
+    "ukrainian",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 28,
+    "fat": 28
+  },
+  "slug": "luscious-smoky-ukrainian-beef-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-smoky-ukrainian-beef-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:21:12Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "score-fat",
+    "primaryIngredient": "hot beef stock",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Luscious Smoky",
+    "dishForm": "Borscht"
+  }
+}
