@@ -1,0 +1,106 @@
+{
+  "title": "Low-Calorie-Friendly Argentinian Tofu Bake",
+  "description": "A low-calorie-friendly twist on a traditional argentinian dish, featuring silken tofu and a zesty yuzu-cure.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-Firm Silken Tofu",
+      "amount": "14 oz",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu Juice",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (1/4 cup)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/4 cup",
+      "notes": "low-fat or dairy-free alternative"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (1/4 cup)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a 9x9-inch baking dish with parchment paper.",
+    "Cut the silken tofu into 1-inch cubes and place in the prepared baking dish.",
+    "In a small bowl, whisk together yuzu juice, balsamic vinegar, coconut oil, garlic powder, chili flakes, salt, and black pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "low-calorie",
+    "silken-tofu",
+    "weeknight",
+    "yuzu-cure"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "low-calorie-friendly-argentinian-tofu-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-calorie-friendly-argentinian-tofu-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:46:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "silken tofu",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "tofu",
+    "descriptor": "low-calorie-friendly",
+    "dishForm": "Bake"
+  }
+}
