@@ -1,0 +1,121 @@
+{
+  "title": "Leaf-Wrapped Turkish Duck Kunefe",
+  "description": "A smoky, crispy, lacto-vegetarian-friendly Turkish dish featuring duck fat and steamed leaf wraps.; Steamed leaf wraps are filled with crispy duck kunefe, served with a side of turkish salad.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck fat",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "2 cups",
+      "notes": "Panko or store-bought."
+    },
+    {
+      "name": "Kunefe cheese",
+      "amount": "1 cup",
+      "notes": "Melting cheese, like mozzarella or cheddar."
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "Thawed, ready to use."
+    },
+    {
+      "name": "Turkish leaf wraps",
+      "amount": "1 package",
+      "notes": "Fresh or frozen."
+    },
+    {
+      "name": "Duck breast",
+      "amount": "1",
+      "notes": "Boneless, skinless."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Unrefined."
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Fresh, chopped."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes ": "Freshly squeezed."
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the duck breast into thin slices, about 1/4 inch thick.",
+    "In a small bowl, mix together duck fat, parsley, lemon juice, and garlic.",
+    "Dip each leaf wrap into the melted duck fat mixture, coating both sides evenly, then sprinkle with bread crumbs.",
+    "Wrap each leaf wrap around the duck breast, overlapping them slightly to form a neat package.",
+    "Place the wrapped duck breast on a baking sheet lined with parchment paper, leaving about 1 inch of space between each package.",
+    "Drizzle the remaining duck fat mixture over the top of each package.",
+    "Bake in the preheated oven for 20-25 minutes or until crispy and golden brown.",
+    "While the duck kunefe is baking, prepare the kunefe cheese by melting it in a saucepan over low heat.",
+    "Once the duck kunefe is done, remove it from the oven and let it cool for a few minutes.",
+    "Serve the crispy duck kunefe filled with melted kunefe cheese alongside a side of Turkish salad.",
+    "Reheat the steamed leaf wraps in the oven at 350°F (175°C) for 5-7 minutes or until crispy and warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "lacto-vegetarian",
+    "street-food",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 56,
+    "carbs": 16,
+    "fat": 54
+  },
+  "slug": "leaf-wrapped-turkish-duck-kunefe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/leaf-wrapped-turkish-duck-kunefe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:24:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "duck fat",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Duck",
+    "descriptor": "Leaf-Wrapped",
+    "dishForm": "Kunefe"
+  }
+}
