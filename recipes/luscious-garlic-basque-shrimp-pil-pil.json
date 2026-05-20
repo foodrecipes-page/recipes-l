@@ -1,0 +1,102 @@
+{
+  "title": "Luscious Garlic Basque Shrimp Pil-Pil",
+  "description": "Umami-rich Basque-inspired dish featuring shrimp, passata, and yuzu-cure, perfect for adventurous eaters.",
+  "cuisine": "Basque",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large shrimp (12 count)",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Passata",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Yuzu-cured sea salt",
+      "amount": "1 tsp",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Pimentón",
+      "amount": "1/2 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for raclette grill"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the raclette grill to medium-high heat.",
+    "Add the olive oil to the grill and swirl it around to coat the surface.",
+    "Add the minced garlic to the grill and cook for 1 minute, until fragrant.",
+    "Add the pimentón and cook for an additional 30 seconds.",
+    "Add the passata to the grill and cook for 3-4 minutes, stirring occasionally, until the sauce has thickened slightly.",
+    "Add the shrimp to the grill and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Season the shrimp with yuzu-cured sea salt and red pepper flakes (if using).",
+    "Transfer the shrimp to a plate and serve immediately, garnished with chopped parsley (if using) and a squeeze of fresh lemon juice (if using).",
+    "Serve the shrimp with the passata sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "diabetic-friendly",
+    "high-protein",
+    "one-pan",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "luscious-garlic-basque-shrimp-pil-pil",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-garlic-basque-shrimp-pil-pil",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:24:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "passata",
+    "diet": "diabetic-friendly",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Luscious Garlic",
+    "dishForm": "Pil-Pil"
+  }
+}
