@@ -1,0 +1,122 @@
+{
+  "title": "luscious malaysian black beans satay",
+  "description": "this dish showcases the flavors of malaysia with a twist of using black beans, making it ayurvedic and tamasic-friendly.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans (1 cup)",
+      "amount": "1",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "coconut milk (1/2 cup)",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "coriander (2 tablespoons)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cumin (1 tablespoon)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chili powder (1 teaspoon)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "turmeric (1/2 teaspoon)",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "garam masala (1/4 teaspoon)",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil (2 tablespoons)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice (2 tablespoons)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar (1 tablespoon)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "peanuts or cashews (1/4 cup)",
+      "amount": "1/4",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "in a mortar and pestle, pound the coriander, cumin, chili powder, turmeric, and garam masala until well combined.",
+    "add the coconut oil and pound until the spices are well coated.",
+    "add the black beans and pound until they are well coated with the spice mixture.",
+    "add the coconut milk and pound until the mixture is well combined.",
+    "heat a small non-stick pan over medium heat and add the black bean mixture.",
+    "cook for 5-7 minutes or until the mixture thickens.',\n      \"stir in the lemon juice and brown sugar.",
+    "cook for an additional 2 minutes.",
+    "remove from heat and season with salt to taste.",
+    "garnish with peanuts or cashews and serve hot.",
+    "serve with rice or roti for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "malaysian",
+    "one-pan",
+    "tamasic-friendly",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "luscious-malaysian-black-beans-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-malaysian-black-beans-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:07:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "black beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "black beans",
+    "descriptor": "Luscious",
+    "dishForm": "Satay"
+  }
+}
