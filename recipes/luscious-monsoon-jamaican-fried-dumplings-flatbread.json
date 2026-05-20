@@ -1,0 +1,103 @@
+{
+  "title": "Jamaican Fried Dumplings Flatbread",
+  "description": "Malty, crispy flatbread inspired by the monsoon season in Jamaica, perfect for a low-carb breakfast or snack.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "lactose-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Self-raising flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "All-purpose flour for dusting",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together self-raising flour, sugar, and yeast.",
+    "Add the melted butter, egg, and warm water to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes elastic and smooth.",
+    "Transfer the dough to a greased bowl, cover it with a damp cloth, and let it rise in a warm place for about 1 hour, or until it has doubled in size.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Dust a work surface with all-purpose flour and roll out the dough to a thickness of about 1/4 inch.",
+    "Cut the dough into 8 equal pieces and roll each piece into a ball.",
+    "Using a rolling pin, flatten each ball into a disk shape.",
+    "Heat the coconut oil in the skillet or griddle over medium heat and cook the flatbreads for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "Brush the flatbreads with balsamic vinegar and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "crispy",
+    "jamaican",
+    "lactose-free",
+    "low-carb",
+    "malty",
+    "snack",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "luscious-monsoon-jamaican-fried-dumplings-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-monsoon-jamaican-fried-dumplings-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T10:37:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Fried Dumplings",
+    "descriptor": "Luscious Monsoon",
+    "dishForm": "Flatbread"
+  }
+}
