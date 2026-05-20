@@ -1,0 +1,124 @@
+{
+  "title": "lemon-herb aussie chicken wings skewers",
+  "description": "tangy, crunchy and show-stopping australian-inspired chicken wings skewers using lemon, herbs, and australian bush spices. served with a side of tangy honey mustard sauce",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "sattvic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings (1.5 kg)",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice (120ml)",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "olive oil (60ml)",
+      "amount": "2",
+      "notes": "infused with lemon zest and rosemary"
+    },
+    {
+      "name": "rosemary leaves (20g)",
+      "amount": "4",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "lemongrass paste (30g)",
+      "amount": "6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion powder (5g)",
+      "amount": "1",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic powder (5g)",
+      "amount": "1",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika (5g)",
+      "amount": "1",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt (10g)",
+      "amount": "2",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper (10g)",
+      "amount": "2",
+      "notes": "to taste"
+    },
+    {
+      "name": "tangy honey mustard sauce (120ml)",
+      "amount": "3",
+      "notes": "+ store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "preheat your oven to 200 degrees celsius. line a baking tray with foil and set aside.",
+    "cut the chicken wings into 12 equal pieces and thread them onto metal skewers.",
+    "in a large bowl, whisk together lemon juice, olive oil, rosemary leaves, lemongrass paste, onion powder, garlic powder, paprika, salt and pepper.",
+    "add the chicken wings to the bowl and toss to coat with the marinade.",
+    "let it marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "remove the chicken from the marinade and thread them onto the skewers, leaving a little space between each piece.",
+    "place the skewers onto the prepared baking tray and bake for 25-30 minutes, or until cooked through.",
+    "meanwhile, prepare the tangy honey mustard sauce by whisking together 120ml of honey, 120ml of mustard and 60ml of lemon juice.",
+    "remove the chicken from the oven and brush with the tangy honey mustard sauce.",
+    "serve immediately, garnished with fresh rosemary leaves and lemon wedges.",
+    "serve with a side of tangy honey mustard sauce for dipping.",
+    "discard any leftover sauce and store the chicken in an airtight container in the refrigerator for up to 3 days.",
+    "label the leftovers with the date and contents."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "chicken",
+    "easy",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "sattvic",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "lemon-herb-australian-chicken-wings-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-herb-australian-chicken-wings-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:56:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chicken wings",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "lemon-herb",
+    "dishForm": "Skewers"
+  }
+}
