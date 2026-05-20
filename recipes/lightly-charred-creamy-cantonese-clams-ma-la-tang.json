@@ -1,0 +1,53 @@
+{
+  "title": "Lightly Charred Creamy Cantonese Clams Ma La Tang",
+  "description": "A vegetarian-friendly, Cantonese-inspired dish featuring charred clams in a creamy, spicy broth.",
+  "cuisine": "Cantonese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh clams",
+      "amount": "12 clams",
+      "notes": "about 1.5 pounds"
+    }
+  ],
+  "instructions": [
+    "Rinse the clams under cold water and scrub them clean."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "chinese",
+    "shellfish",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "lightly-charred-creamy-cantonese-clams-ma-la-tang",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-charred-creamy-cantonese-clams-ma-la-tang",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:41:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "soffritto-base",
+    "primaryIngredient": "clams",
+    "diet": "vegetarian",
+    "region": "cantonese",
+    "cuisineAdjective": "cantonese",
+    "mainIngredient": "clams",
+    "descriptor": "Lightly charred creamy",
+    "dishForm": "Ma La Tang"
+  }
+}

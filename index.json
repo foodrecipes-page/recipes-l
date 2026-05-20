@@ -7804,6 +7804,20 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-charred-creamy-cantonese-clams-ma-la-tang",
+    "title": "Lightly Charred Creamy Cantonese Clams Ma La Tang",
+    "tags": [
+      "cantonese",
+      "chinese",
+      "shellfish",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Cantonese",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-charred-mediterranean-seafood-flatbread",
     "title": "Lightly Charred Mediterranean Seafood Flatbread",
     "tags": [
@@ -16997,6 +17011,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-shattering-indian-cookies-tagine",
+    "title": "luscious shattering indian cookies tagine",
+    "tags": [
+      "dessert",
+      "indian",
+      "one-pan",
+      "snack",
+      "spicy",
+      "vegan-option"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
