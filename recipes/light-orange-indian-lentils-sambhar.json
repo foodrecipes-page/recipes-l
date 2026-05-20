@@ -1,0 +1,125 @@
+{
+  "title": "Light Orange Indian Lentils Sambhar",
+  "description": "A creamy and flavorful Indian-inspired dish made with roasted spices, orange blossom water, and pressure-cooked lentils.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red split lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Roasted red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Roasted ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Uradd dal",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of ghee or oil in a pressure cooker over medium heat.",
+    "Add cumin seeds and coriander seeds and let them sizzle for 1 minute.",
+    "Add the roasted onion, ginger, and uradd dal and saut\t4 for 2 minutes.",
+    "Add the lentils, turmeric powder, garam masala, and salt. Mix well.",
+    "Add 4 cups of water to the pressure cooker and close the lid.",
+    "Pressure cook for 10 minutes.",
+    "Open the pressure cooker and stir in the orange blossom water and coconut milk.",
+    "Add the chopped cilantro and mix well.",
+    "Serve hot with rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "indian",
+    "lentils",
+    "one-pot",
+    "pressure-cooker",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "light-orange-indian-lentils-sambhar",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-orange-indian-lentils-sambhar",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:00:37Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "orange blossom water",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Light Orange",
+    "dishForm": "Sambhar"
+  }
+}
