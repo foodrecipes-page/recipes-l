@@ -1,0 +1,105 @@
+{
+  "title": "Lush Herbed Ethiopian Almond Butter Stew",
+  "description": "A rich and fragrant plant-based stew featuring a velvety almond butter base infused with traditional Ethiopian niter kibbeh spices and fresh green herbs.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "Vegan",
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons",
+      "notes": "infused with cardamom, fenugreek, and nigella seeds"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and cut into one-inch cubes"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "3 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "creamy almond butter",
+      "amount": "0.5 cup",
+      "notes": "unsalted and unsweetened"
+    },
+    {
+      "name": "collard greens",
+      "amount": "4 cups",
+      "notes": "destemmed and chopped into ribbons"
+    },
+    {
+      "name": "fresh cilantro and basil",
+      "amount": "0.5 cup",
+      "notes": "finely chopped for finishing"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat and stir in the infused spices until fragrant.",
+    "Add the chopped onion, garlic, and ginger, cooking until the onions are soft and translucent.",
+    "Toss in the sweet potato cubes and stir to coat them with the aromatic oil mixture.",
+    "Pour in the vegetable broth and bring the liquid to a boil over high heat.",
+    "Reduce the heat to low, cover the pot, and simmer for fifteen minutes until the sweet potatoes are tender.",
+    "Whisk the almond butter with a half cup of the hot broth in a small bowl until smooth, then stir it back into the pot.",
+    "Add the chopped collard greens and cook for five minutes until they are wilted and bright green.",
+    "Stir in the fresh chopped herbs right before serving to maintain their vibrant color and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "ethiopian",
+    "nut-butter",
+    "one-pot",
+    "plant-based",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 10,
+    "carbs": 32,
+    "fat": 25
+  },
+  "slug": "lush-herbed-ethiopian-almond-butter-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lush-herbed-ethiopian-almond-butter-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T15:00:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "infuse-oil",
+    "primaryIngredient": "almond butter",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Almond Butter",
+    "descriptor": "Lush Herbed",
+    "dishForm": "Stew"
+  }
+}
