@@ -1,0 +1,125 @@
+{
+  "title": "Light Japanese Oats Mochi",
+  "description": "A refreshing and unique dessert featuring oats in a glassy-jelly texture, perfect for a date night. This pescatarian-friendly dish is easy to make and requires minimal ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "rice flour",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "koji powder",
+      "amount": "5g",
+      "notes": "Available at Asian grocery stores or online."
+    },
+    {
+      "name": "sugar",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1g",
+      "notes": "Optional, for extra flavor."
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "5ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "2g",
+      "notes": "Available at Asian grocery stores or online."
+    },
+    {
+      "name": "water chestnut",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "20g",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "5g",
+      "notes": "Optional, for flavor."
+    }
+  ],
+  "instructions": [
+    "Combine the oats, water, and salt in a saucepan and bring to a boil. Reduce heat and simmer for 5 minutes.",
+    "Add the rice flour, koji powder, sugar, matcha powder, vanilla extract, and agar agar powder to the saucepan and stir to combine.",
+    "Add the water chestnut and sesame seeds to the saucepan and stir to combine.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Knead the mixture until it forms a dough.",
+    "Divide the dough into small balls and flatten them slightly.",
+    "Heat a non-stick skillet over medium heat and add a small amount of coconut oil.",
+    "Cook the mochi balls for 2-3 minutes on each side, until they are lightly browned.",
+    "Serve the light Japanese oats mochi warm, garnished with sesame seeds if desired.",
+    "If desired, add a spoonful of miso paste to the mochi balls for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dessert",
+    "easy-to-make",
+    "high-protein",
+    "unique",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "light-japanese-oats-mochi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-japanese-oats-mochi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:12:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "oats",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "oats",
+    "descriptor": "light",
+    "dishForm": "Mochi"
+  }
+}

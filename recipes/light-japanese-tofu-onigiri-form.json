@@ -1,0 +1,131 @@
+{
+  "title": "Light Japanese Tofu Onigiri",
+  "description": "A quick-fix dish featuring extra-firm tofu, sesame seeds, and Japanese seasonings, all wrapped up in a triangular onigiri form. This Kyushu-inspired recipe is nut-free-friendly and packed with protein.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "Rice paper",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Green chili pepper",
+      "amount": "thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Black sesame seeds",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wrap a small amount of Japanese short-grain rice onto a flat surface, leaving room to shape into a triangle.",
+    "Place a small piece of extra-firm tofu in the center of the rice.",
+    "Gently fold the rice over the tofu to form a triangle, applying gentle pressure to seal the onigiri.",
+    "Repeat with the remaining ingredients to create 6-8 onigiri.",
+    "Heat a small amount of sesame oil in a pan over medium heat.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the onion and green chili pepper and cook until softened, about 3-4 minutes.",
+    "Add the cooked onigiri to the pan and cook for 2-3 minutes on each side, until lightly browned.",
+    "Garnish with black sesame seeds and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-lunch",
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "onigiri",
+    "tofu",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "light-japanese-tofu-onigiri-form",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-japanese-tofu-onigiri-form",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:12:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "dehydrate",
+    "primaryIngredient": "tofu",
+    "diet": "nut-free",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Light",
+    "dishForm": "Onigiri Form"
+  }
+}
