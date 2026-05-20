@@ -1,0 +1,108 @@
+{
+  "title": "Lightly Spicy Jamaican Shrimp Skewers",
+  "description": "Quick-fix Jamaican dish featuring red chilli, umami flavors and silky shrimp, perfect for a pescatarian-friendly meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "red chilli",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, thyme, allspice, salt, and black pepper.",
+    "Add the diced red chilli, scotch bonnet pepper, and minced garlic to the bowl and stir to combine.",
+    "Add the peeled and deveined shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Brush the skewers with olive oil and place them in the air fryer basket.",
+    "Cook the shrimp skewers in the air fryer for 8-10 minutes, or until they are pink and cooked through.",
+    "Serve the shrimp skewers hot, garnished with additional thyme and scotch bonnet pepper if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "jamaican-cuisine",
+    "pescatarian-friendly",
+    "quick-fix",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "lightly-spicy-jamaican-shrimp-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-spicy-jamaican-shrimp-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:06:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "red chilli",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "shrimp",
+    "descriptor": "Lightly spicy",
+    "dishForm": "Skewers"
+  }
+}
