@@ -1,0 +1,106 @@
+{
+  "title": "Light Spanish Tofu Crema Catalana",
+  "description": "A light Spanish-style dessert featuring marinated tofu, crumbly pastry, and a touch of citrus. This recipe is perfect for a weeknight treat or a special occasion.",
+  "cuisine": "Spanish",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1 cup",
+      "notes": "low-glycemic alternative to regular milk"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Orange liqueur",
+      "amount": "1 tsp",
+      "notes": "such as Cointreau or Grand Marnier"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "or low-glycemic sweetener of choice"
+    },
+    {
+      "name": "Pastry dough",
+      "amount": "1 puff pastry sheet",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "Citrus zest",
+      "amount": "1 tsp",
+      "notes": "from orange or lemon"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "dried or fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "On a lightly floured surface, roll out the puff pastry to a thickness of about 1/8 inch.",
+    "In a small bowl, whisk together the almond milk, lemon juice, orange liqueur, and honey until well combined.",
+    "Cut the extra-firm tofu into 1-inch cubes and marinate in the milk mixture for at least 30 minutes.",
+    "On one half of the pastry, spread the marinated tofu, leaving a 1/2-inch border around the edges.",
+    "Fold the other half of the pastry over the tofu and press the edges to seal.",
+    "Brush the pastry with the beaten egg and cut a few slits in the top to allow steam to escape.",
+    "Place the crema catalana on a baking sheet and bake for 25-30 minutes, or until the pastry is golden brown.",
+    "While the crema catalana is baking, mix the citrus zest and chopped thyme together in a small bowl.",
+    "Remove the crema catalana from the oven and let it cool for a few minutes before serving.",
+    "Dust the crema catalana with the citrus-thyme mixture and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "low-glycemic",
+    "one-pan",
+    "pastry",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "light-spanish-tofu-crema-catalana",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-spanish-tofu-crema-catalana",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:57:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "en-croute",
+    "primaryIngredient": "marinated tofu",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "tofu",
+    "descriptor": "light",
+    "dishForm": "crema-catalana"
+  }
+}
