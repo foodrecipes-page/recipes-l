@@ -1,0 +1,76 @@
+{
+  "title": "light mediterranean applesauce stew",
+  "description": "a delicate and flavorful stew featuring sashimi-cut vegetables and a floral, crisp mediterranean twist, perfect for a weekend brunch",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "granny smith apples",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced thin"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the sliced onion and cook for 5 minutes until softened.",
+    "add the sashimi-cut vegetables and cook for 2-3 minutes until slightly tender.",
+    "stir in the granny smith applesauce and the juice of 1 lemon.",
+    "season with salt and pepper to taste.",
+    "serve the stew over hot stones in a shallow dish and garnish with fresh herbs if desired.",
+    "garnish with chopped fresh parsley or thyme for a pop of color and flavor.",
+    "serve immediately and enjoy!",
+    "optional: add a dollop of tzatziki sauce on top for extra creaminess and flavor.",
+    "note: for an extra crispy texture, serve the stew over toasted pita chips or crostini."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "applesauce",
+    "breakfast",
+    "easy",
+    "hot-stone",
+    "mediterranean",
+    "one-pan",
+    "sashimi-cut",
+    "vegan",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "light-mediterranean-applesauce-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mediterranean-applesauce-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:00:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "applesauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "applesauce",
+    "descriptor": "light",
+    "dishForm": "stew"
+  }
+}

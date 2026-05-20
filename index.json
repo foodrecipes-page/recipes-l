@@ -812,6 +812,21 @@
     "shard": "l"
   },
   {
+    "slug": "lazy-sunday-american-rye-bake",
+    "title": "lazy-sunday american rye bake",
+    "tags": [
+      "bread",
+      "breakfast",
+      "gluten-free",
+      "grain-free",
+      "rye",
+      "whole30"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
     "slug": "lazy-sunday-australian-beef-skillet",
     "title": "Lazy Sunday Australian Beef Skillet",
     "tags": [
@@ -5065,6 +5080,24 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-mediterranean-applesauce-stew",
+    "title": "light mediterranean applesauce stew",
+    "tags": [
+      "applesauce",
+      "breakfast",
+      "easy",
+      "hot-stone",
+      "mediterranean",
+      "one-pan",
+      "sashimi-cut",
+      "vegan",
+      "weekend-brunch"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {

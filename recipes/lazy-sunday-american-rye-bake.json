@@ -1,0 +1,106 @@
+{
+  "title": "lazy-sunday american rye bake",
+  "description": "a nutty, aerated american-inspired dish perfect for a lazy sunday. made with whole30-friendly ingredients and requiring minimal effort.",
+  "cuisine": "american",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "grain-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup",
+      "notes": "adjust to consistency"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "in a large bowl, combine the rye flour, baking soda, and salt.",
+    "in a separate bowl, whisk together the melted coconut oil, honey, apple cider vinegar, and egg.",
+    "add the wet ingredients to the dry ingredients and stir until just combined.",
+    "gradually add the water, stirring until a sticky dough forms.",
+    "knead the dough for 5 minutes until smooth and elastic.",
+    "place the dough in a greased loaf pan.",
+    "bake for 40 minutes, or until a toothpick comes out clean.",
+    "let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "breakfast",
+    "gluten-free",
+    "grain-free",
+    "rye",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "lazy-sunday-american-rye-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-sunday-american-rye-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:01:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "rye",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "rye",
+    "descriptor": "lazy-sunday",
+    "dishForm": "bake"
+  }
+}
