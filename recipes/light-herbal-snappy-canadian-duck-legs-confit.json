@@ -1,0 +1,102 @@
+{
+  "title": "Light Herbal Snappy Canadian Duck Legs Confit",
+  "description": "A diabetic-friendly, herb-infused dish featuring succulent duck legs, perfect for a weeknight dinner. Inspired by Canadian cuisine, this recipe balances flavors and textures for a delightful meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes ": "shio-cure"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275\u00165 F (135\u00165 C).",
+    "Season the duck legs with salt and black pepper.",
+    "In a small saucepan, combine olive oil, garlic, thyme, and rosemary. Heat over low heat for 5 minutes, stirring occasionally.",
+    "Place the duck legs in a large Dutch oven or oven-safe pot, skin side up. Brush the herb-infused oil over the duck legs, making sure they are fully coated.",
+    "Cover the pot with a lid and transfer to the preheated oven. Braise the duck legs for 2 hours, or until tender and easily shredded with a fork.",
+    "Remove the pot from the oven and let it cool slightly. Strain the juices and discard the solids.",
+    "Shred the duck legs with two forks and serve warm, garnished with chopped parsley and a squeeze of lemon juice.",
+    "Refrigerate the confit for at least 2 hours or overnight to allow the flavors to meld and the meat to set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "diabetic-friendly",
+    "herbal",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "light-herbal-snappy-canadian-duck-legs-confit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-herbal-snappy-canadian-duck-legs-confit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:02:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "shio-cure",
+    "primaryIngredient": "duck legs",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "duck legs",
+    "descriptor": "light herbal snappy",
+    "dishForm": "confit"
+  }
+}
