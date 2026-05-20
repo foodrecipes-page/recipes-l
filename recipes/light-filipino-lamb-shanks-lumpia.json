@@ -1,0 +1,105 @@
+{
+  "title": "Light Filipino Lamb Shanks Lumpia",
+  "description": "Buttery, light, and festive Filipino dish featuring lamb shanks, ideal for diabetic-friendly meals. Each serving is crunchy on the outside and tender on the inside.",
+  "cuisine": "filipino",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4",
+      "notes": "preferably bone-in and well-marbled"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting lamb shanks"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional, adds earthy flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use low-sodium salt for diabetic-friendly option"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground for best flavor"
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1",
+      "notes": "for dusting lumpia wrappers"
+    }
+  ],
+  "instructions": [
+    "Dust lamb shanks with all-purpose flour, shaking off excess.",
+    "In a large bowl, mix together paprika, salt, and black pepper.",
+    "Dip floured lamb shanks in beaten eggs, coating evenly.",
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add lamb shanks to the skillet and sear until browned on all sides.",
+    "Transfer lamb shanks to a plate and set aside.",
+    "In the same skillet, add a small amount of oil to coat the bottom.",
+    "Dust lumpia wrappers with all-purpose flour, shaking off excess.",
+    "Place a lamb shank in the center of a lumpia wrapper, leaving a 1-inch border around it.",
+    "Brush edges of the wrapper with egg wash.",
+    "Fold the bottom half of the wrapper over the lamb shank, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with remaining lamb shanks and wrappers.",
+    "Fry lumpia in batches until golden brown, about 2-3 minutes per side.",
+    "Drain lumpia on paper towels and serve hot."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-to-make",
+    "filipino-cuisine",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 12,
+    "fat": 28
+  },
+  "slug": "light-filipino-lamb-shanks-lumpia",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-filipino-lamb-shanks-lumpia",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:11:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "brine-dry",
+    "primaryIngredient": "lamb shanks",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "lamb shanks",
+    "descriptor": "light",
+    "dishForm": "Lumpia"
+  }
+}
