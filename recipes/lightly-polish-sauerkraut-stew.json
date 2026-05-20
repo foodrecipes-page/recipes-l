@@ -1,0 +1,105 @@
+{
+  "title": "Lightly Polish Sauerkraut Stew",
+  "description": "A comforting and peppery Polish dish that features a rich lardons-render and cooking wine, suitable for diabetic diets.",
+  "cuisine": "Polish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pork lardons",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Cooking wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of lardons-render in a large pot over medium heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add the sauerkraut, pork lardons, cooking wine, salt, and black pepper.",
+    "Stir to combine, then add the flour to thicken the stew.",
+    "Bring the stew to a simmer and cook for 20 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired.",
+    "Serve 4-6 portions and enjoy!",
+    "Freeze any leftover stew for up to 3 months for future meals."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "lightly-polish-sauerkraut-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-polish-sauerkraut-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:16:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "lardons-render",
+    "primaryIngredient": "cooking wine",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Sauerkraut",
+    "descriptor": "Lightly",
+    "dishForm": "Stew"
+  }
+}
