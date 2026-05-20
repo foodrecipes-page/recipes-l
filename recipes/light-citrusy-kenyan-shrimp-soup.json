@@ -1,0 +1,108 @@
+{
+  "title": "light citrusy kenyan shrimp soup",
+  "description": "a light and refreshing kenyan-inspired soup featuring succulent shrimp and a hint of citrus, perfect for a lazy sunday afternoon.",
+  "cuisine": "kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": 2,
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": 1,
+      "notes": "juiced"
+    },
+    {
+      "name": "lime",
+      "amount": 1,
+      "notes": "juiced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": 1,
+      "notes": "canned"
+    },
+    {
+      "name": "shrimp stock",
+      "amount": 4,
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "shrimp",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": 1,
+      "notes": "+ or - to taste"
+    },
+    {
+      "name": "salt",
+      "amount": 1,
+      "notes": "+ or - to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": 1,
+      "notes": "+ or - to taste"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large pot over medium heat.",
+    "add onion and garlic and saut\u00194\t7e until softened, about 5 minutes.",
+    "add lemon and lime juice and stir to combine.",
+    "add coconut milk and stir to combine.",
+    "add shrimp stock and bring to a simmer.",
+    "add shrimp and cook until pink and cooked through, about 2-3 minutes.",
+    "season with cumin, salt, and black pepper to taste.",
+    "serve hot, garnished with lemon wedges and chopped fresh herbs, if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "easy-to-make",
+    "kenyan",
+    "seafood",
+    "soup",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "light-citrusy-kenyan-shrimp-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-citrusy-kenyan-shrimp-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:48:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "shrimp stock",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "shrimp",
+    "descriptor": "light citrusy",
+    "dishForm": "Soup"
+  }
+}
