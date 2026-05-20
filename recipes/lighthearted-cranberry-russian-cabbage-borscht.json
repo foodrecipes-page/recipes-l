@@ -1,0 +1,114 @@
+{
+  "title": "Cranberry Russian Cabbage Borscht",
+  "description": "A lighthearted twist on traditional Russian borscht, featuring the sweetness of cranberry juice and the crunch of fresh cabbage.",
+  "cuisine": "russian",
+  "diet": [
+    "low-sodium",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the grated carrot and cook for 2 minutes, until slightly softened.",
+    "Add the shredded cabbage and cook until it starts to wilt, about 5 minutes.",
+    "Add the grated beetroot, cranberry juice, tomato paste (if using), and salt-free seasoning blend.",
+    "Stir to combine, then add the apple cider vinegar.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes, or until the cabbage is tender.",
+    "Season with additional salt-free seasoning blend to taste.",
+    "Serve hot, garnished with chopped fresh dill.",
+    "Serve in individual ramekins and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage-based",
+    "low-sodium",
+    "one-pan",
+    "russian-cuisine",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "lighthearted-cranberry-russian-cabbage-borscht",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lighthearted-cranberry-russian-cabbage-borscht",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:51:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "cranberry juice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Lighthearted Cranberry",
+    "dishForm": "Borscht"
+  }
+}
