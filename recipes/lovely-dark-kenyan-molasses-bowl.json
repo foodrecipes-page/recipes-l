@@ -1,0 +1,113 @@
+{
+  "title": "lovely dark kenyan molasses bowl",
+  "description": "mustardy, crumbly date-night kenyan dish featuring molasses, mother-sauce-base, keto-friendly, served in dolsot stone bowl",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "2",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large skillet over medium-high heat.",
+    "add onion and cook until softened, about 3 minutes.",
+    "add chicken to skillet and cook until browned, about 5 minutes.",
+    "add garlic, ginger, cumin, coriander, and cayenne pepper to skillet and cook for 1 minute.",
+    "add molasses to skillet and stir to combine.",
+    "cook for an additional 2-3 minutes, stirring occasionally.",
+    "stir in yogurt and cook for 1 minute.",
+    "serving hot, garnish with chopped cilantro.",
+    "transfer to dolsot stone bowl and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "lovely-dark-kenyan-molasses-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-dark-kenyan-molasses-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:52:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "molasses",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "molasses",
+    "descriptor": "lovely dark",
+    "dishForm": "bowl"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Light Fluffy British Eggs Scramble",
+  "description": "Delicious, light, and fluffy egg scramble inspired by British cuisine. Perfect for a post-workout meal or a quick weeknight dinner.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "use whole milk for a richer flavor"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1 tsp",
+      "notes": "balances the savory flavors"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tsp",
+      "notes": "adds richness to the dish"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/8 tsp",
+      "notes": "subtle heat and flavor"
+    }
+  ],
+  "instructions": [
+    "Whisk eggs in a bowl until they become light and fluffy.",
+    "Add milk, sugar, salt, and a pinch of black pepper to the eggs and whisk until combined.",
+    "Heat butter in a clay pot over medium heat until melted and foamy.",
+    "Pour the egg mixture into the clay pot and let cook for 2-3 minutes until the edges start to set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "easter-recipe",
+    "easy-breakfast",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "light-fluffy-british-eggs-scramble",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-fluffy-british-eggs-scramble",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:51:57Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "caster sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "eggs",
+    "descriptor": "light fluffy",
+    "dishForm": "scramble"
+  }
+}
