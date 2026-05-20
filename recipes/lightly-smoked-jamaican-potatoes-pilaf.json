@@ -1,0 +1,91 @@
+{
+  "title": "Lightly Smoked Jamaican Potatoes Pilaf",
+  "description": "A smoky, springy, energizing Jamaican dish featuring poached potatoes, inspired by macrobiotic-friendly ingredients.",
+  "cuisine": "jamaican",
+  "diet": [
+    "macrobiotic",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "scallions",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, bring the water to a boil over high heat.",
+    "Reduce heat to medium-low, add the apple cider vinegar, smoked paprika, thyme, black pepper, and salt.",
+    "Cut the potatoes into 1-inch wedges and add them to the saucepan.",
+    "Cover the saucepan and simmer for 12 minutes, or until the potatoes are tender.",
+    "Using a slotted spoon, transfer the potatoes to a plate.",
+    "Strain the cooking liquid through a fine-mesh sieve into a small bowl.",
+    "Whisk the strained cooking liquid to combine, then spoon it over the potatoes.",
+    "Garnish with chopped scallions, if desired.",
+    "Serve warm, or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pot",
+    "plant-based",
+    "spring-inspired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 0
+  },
+  "slug": "lightly-smoked-jamaican-potatoes-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-smoked-jamaican-potatoes-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:23:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "potatoes",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "potatoes",
+    "descriptor": "Lightly Smoked",
+    "dishForm": "Pilaf"
+  }
+}

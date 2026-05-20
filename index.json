@@ -5002,6 +5002,22 @@
     "shard": "l"
   },
   {
+    "slug": "light-mexican-amazake-wrap",
+    "title": "Light Mexican Amazake Wrap",
+    "tags": [
+      "amazake",
+      "breakfast",
+      "easy",
+      "halal",
+      "mexican",
+      "quick",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
     "slug": "light-mexican-cheese-enchiladas",
     "title": "light mexican cheese enchiladas",
     "tags": [
@@ -6516,6 +6532,23 @@
       "turkish"
     ],
     "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-turkish-leek-stir-fry",
+    "title": "Light Turkish Leek Stir-fry",
+    "tags": [
+      "dinner",
+      "leek",
+      "lunch",
+      "paleo",
+      "quick",
+      "stir-fry",
+      "turkish",
+      "vegetarian"
+    ],
+    "cuisine": "turkish",
     "totalTimeMin": 25,
     "shard": "l"
   },
@@ -9316,6 +9349,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoked-jamaican-potatoes-pilaf",
+    "title": "Lightly Smoked Jamaican Potatoes Pilaf",
+    "tags": [
+      "gluten-free",
+      "high-fiber",
+      "one-pot",
+      "plant-based",
+      "spring-inspired"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -15113,6 +15160,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-glassy-indian-fermented-yogurt-biryani",
+    "title": "Luscious Glassy Indian Fermented Yogurt Biryani",
+    "tags": [
+      "bengali",
+      "comfort-food",
+      "fermented",
+      "glassy",
+      "indian",
+      "luscious"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {

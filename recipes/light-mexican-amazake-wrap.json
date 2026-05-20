@@ -1,0 +1,111 @@
+{
+  "title": "Light Mexican Amazake Wrap",
+  "description": "A halal-friendly, festive mexican dish featuring amazake and a light, umami flavor profile, perfect for a quick breakfast or snack",
+  "cuisine": "mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Amazake",
+      "amount": "1/2 cup",
+      "notes": "made from fermented rice, a sweet and savory paste"
+    },
+    {
+      "name": "Shredded chicken",
+      "amount": "1/2 cup",
+      "notes": "cook and shred before using"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1/4 cup",
+      "notes": "fresh or frozen, thawed before using"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1 tsp",
+      "notes": "for brushing tortilla"
+    }
+  ],
+  "instructions": [
+    "Preheat a dry non-stick skillet over medium heat.",
+    "Brush a large tortilla with avocado oil on both sides.",
+    "Place the tortilla in the skillet and cook for 30 seconds on each side, until lightly toasted.",
+    "In a medium bowl, whisk together amazake, lime juice, salt, and black pepper.",
+    "Add shredded chicken, spinach, and red onion to the bowl and toss to combine.",
+    "Spoon the chicken mixture onto the center of the tortilla, leaving a 1-inch border around the edges.",
+    "Sprinkle cilantro over the top of the filling.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Repeat with the remaining ingredients to make additional wraps.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "amazake",
+    "breakfast",
+    "easy",
+    "halal",
+    "mexican",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "light-mexican-amazake-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mexican-amazake-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:22:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "amazake",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "amazake",
+    "descriptor": "Light",
+    "dishForm": "Wrap"
+  }
+}

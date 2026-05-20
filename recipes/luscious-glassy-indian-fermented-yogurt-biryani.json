@@ -1,0 +1,100 @@
+{
+  "title": "Luscious Glassy Indian Fermented Yogurt Biryani",
+  "description": "Indulgent Bengali dish featuring lemongrass-takrai and fermented yogurt, perfect for a comforting dinner.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dahi (Indian yogurt)",
+      "amount": "1 cup",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Takrai (Indian fermented mustard paste)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Soak 1 cup of basmati rice in water for 30 minutes.",
+    "Drain the water and set the rice aside.",
+    "In a blender, blend 1 cup of fermented dahi, 2 stalks of lemongrass, and 2 tablespoons of takrai until smooth.",
+    "Heat 2 tablespoons of ghee in a large pan over medium heat.",
+    "Add 1 teaspoon of cumin seeds and let them sizzle for a few seconds.",
+    "Add 1 teaspoon of coriander powder, 1/2 teaspoon of red chili powder, and 1 teaspoon of salt. Mix well.",
+    "Add the blended dahi mixture and cook for 2-3 minutes, stirring constantly.",
+    "Add the soaked basmati rice to the pan and mix well.",
+    "Reduce the heat to low, cover the pan with a tight-fitting lid, and cook for 18-20 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bengali",
+    "comfort-food",
+    "fermented",
+    "glassy",
+    "indian",
+    "luscious"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luscious-glassy-indian-fermented-yogurt-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-glassy-indian-fermented-yogurt-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:23:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "kosher",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fermented yogurt",
+    "descriptor": "Luscious Glassy",
+    "dishForm": "Biryani"
+  }
+}
