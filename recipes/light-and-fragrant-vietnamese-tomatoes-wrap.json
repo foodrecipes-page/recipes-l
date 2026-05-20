@@ -1,0 +1,94 @@
+{
+  "title": "light and fragrant vietnamese tomatoes wrap",
+  "description": "a winey, light, and romantic vietnamese dish featuring tinned tomatoes, leaf wrap steam, and low-calorie-friendly flavors.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tinned tomatoes",
+      "amount": "250g"
+    },
+    {
+      "name": "banana leaf",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "place a sheet of banana leaf on a flat surface",
+    "arrange 2-3 tinned tomato halves on one half of the banana leaf",
+    "sprinkle salt and sugar over the tomatoes",
+    "add a few chopped spring onion slices on top",
+    "drizzle fish sauce and lime juice over the spring onions",
+    "place a few pieces of chopped cilantro on top",
+    "fold the banana leaf over the filling to enclose",
+    "place the wrap on a steamer basket over boiling water",
+    "steam for 5 minutes or until the banana leaf is fragrant"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fragrant",
+    "light",
+    "low-calorie",
+    "steamer-baguette",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "name": "ginger",
+  "amount": "1 tsp",
+  "slug": "light-and-fragrant-vietnamese-tomatoes-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-and-fragrant-vietnamese-tomatoes-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:29:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Light and Fragrant",
+    "dishForm": "Wrap"
+  }
+}
