@@ -1,0 +1,113 @@
+{
+  "title": "Lavishly Charred Algerian Dish Bake",
+  "description": "A charred, shattering, midnight-craving Algerian dish featuring toast, sashimi-cut meat and vegetables, baked to perfection in individual-mini-cocottes.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "120g",
+      "notes": "preferably with the bone in for extra flavor"
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "150g",
+      "notes": "such as button, cremini and shiitake"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "harissa",
+      "amount": "1 tsp",
+      "notes": "North African chili paste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "10g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "20g",
+      "notes": "for serving with the dish"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the lamb shoulder with salt, black pepper and cumin seeds.",
+    "Heat the olive oil in a large pan over medium-high heat and brown the lamb on all sides.",
+    "Transfer the lamb to a plate and set aside.",
+    "Add the thinly sliced onion and minced garlic to the pan and cook, stirring occasionally, until the onion is softened and lightly caramelized.",
+    "Add the mixed mushrooms to the pan and cook, stirring occasionally, until they release their liquid and start to brown.",
+    "Add the harissa to the pan and stir to combine.",
+    "Transfer the lamb back to the pan and add the chicken broth.",
+    "Cover the pan with a lid and transfer it to the preheated oven.",
+    "Bake the lamb for 20 minutes, then reduce the heat to 180°C (350°F) and bake for an additional 10-15 minutes, or until the lamb is cooked through and the meat is tender.",
+    "Remove the lamb from the oven and let it rest for 5 minutes before slicing it thinly against the grain.",
+    "To assemble the dish, place a slice of the lamb on each toasted bread round, followed by a spoonful of the mushroom mixture and a dollop of harissa.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "charred",
+    "high-protein",
+    "individual-serving",
+    "lamb",
+    "midnight-craving",
+    "one-pan",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "lavishly-charred-algerian-dish-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lavishly-charred-algerian-dish-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:19:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "toast",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Dish",
+    "descriptor": "Lavishly charred",
+    "dishForm": "Bake"
+  }
+}
