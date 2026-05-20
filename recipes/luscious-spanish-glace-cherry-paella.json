@@ -1,0 +1,89 @@
+{
+  "title": "Luscious Spanish Glace Cherry Paella",
+  "description": "A jammy, crunchy, pescatarian-friendly Spanish dish combining the sweetness of glace cherries with the flaky texture of lamination-puff.",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Lamination-puff",
+      "amount": "200g"
+    },
+    {
+      "name": "Glaces Cherries",
+      "amount": "150g"
+    },
+    {
+      "name": "Grapeseed Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice",
+      "amount": "150g"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the Grapeseed Oil in a large paella pan over medium-high heat. Add the Smoked Paprika and cook for 1 minute. Add the Garlic and saut\b for 2 minutes. Add the Rice and stir to coat with the Oil and Spice mixture.",
+    "Add the Chicken Broth and bring to a boil. Stir in the Saffron Threads and cook for 5 minutes. Add the Fish Sauce and stir to combine.",
+    "Add the Lamination-puff to the pan and cook for 2 minutes. Use a spatula to gently press down on the Puff, creating a layer on the bottom of the pan.",
+    "Add the Glaces Cherries to the pan and cook for 2 minutes, stirring to combine with the Rice and Puff.",
+    "Transfer the pan to a preheated oven at 375\t9F for 15 minutes.",
+    "Remove the pan from the oven and let it cool for 5 minutes. Serve hot, garnished with additional Glaces Cherries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glace-cherry",
+    "one-pan",
+    "pescatarian",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "luscious-spanish-glace-cherry-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-spanish-glace-cherry-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:02:03Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "glace cherry",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "glace cherry",
+    "descriptor": "luscious",
+    "dishForm": "paella"
+  }
+}
