@@ -1,0 +1,106 @@
+{
+  "title": "Lightly Steamed Australian Khus Khus Bowls",
+  "description": "A delicate Australian dish featuring the subtle flavors of khus khus, perfect for a romantic dinner or light meal.",
+  "cuisine": "australian",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "khus khus (popped lotus seeds)",
+      "amount": "1 1/2 cups",
+      "notes": "fodmap-friendly alternative to other grains"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Australian bush tomato relish",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon",
+      "notes": "use a mild, Australian olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Australian bush herbs (such as lemon myrtle or kakadu plum)",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the khus khus under cold running water and drain well.",
+    "In a medium saucepan, bring 4 cups of water to a boil.",
+    "Add the quinoa to the saucepan and reduce heat to low.",
+    "Cover the saucepan with a lid and simmer for 15-20 minutes, or until the quinoa is tender and the water has been absorbed.",
+    "While the quinoa cooks, combine the Australian bush tomato relish, lemon juice, and olive oil in a small bowl.",
+    "Stir to combine and set aside.",
+    "Once the quinoa is cooked, fluff it with a fork and add the khus khus to the saucepan.",
+    "Stir to combine and cook for an additional 2-3 minutes, or until the khus khus is lightly toasted.",
+    "Season the khus khus mixture with salt to taste.",
+    "To serve, divide the khus khus mixture among four bowls and top each bowl with a spoonful of the bush tomato relish mixture.",
+    "Garnish with chopped fresh parsley and sprinkle with Australian bush herbs, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "fodmap-friendly",
+    "gluten-free",
+    "light-and-easy",
+    "one-pan",
+    "romantic-dinner",
+    "vegetarian",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "lightly-steamed-australian-khus-khus-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-steamed-australian-khus-khus-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T00:23:33Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "khus khus",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "khus khus",
+    "descriptor": "Lightly steamed",
+    "dishForm": "Bowl"
+  }
+}
