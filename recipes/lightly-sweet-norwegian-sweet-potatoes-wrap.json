@@ -1,0 +1,98 @@
+{
+  "title": "Lightly Sweet Norwegian Sweet Potatoes Wrap",
+  "description": "A quick-fix, keto-friendly dish featuring sweet potatoes, a hint of ferment, and a winey flavor wrapped in a corn-husk vessel.",
+  "cuisine": "norwegian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4",
+      "notes": "large enough to wrap the filling"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Pierce the sweet potatoes with a fork a few times and bake for 45 minutes, or until soft.",
+    "Let the sweet potatoes cool slightly, then peel and mash in a bowl.",
+    "In a small bowl, mix together the butter, honey, cider vinegar, salt, and black pepper.",
+    "Add the yeast to the bowl and mix until fully dissolved.",
+    "Add the yeast mixture to the mashed sweet potatoes and stir to combine.",
+    "Place a corn husk on a flat surface and spread a quarter of the sweet potato mixture onto the center of the husk.",
+    "Add a sprinkle of parsley on top of the sweet potato mixture.",
+    "Fold the sides of the corn husk over the filling and then roll the husk up to form a tight cylinder.",
+    "Repeat with the remaining ingredients to form 3 more wraps."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wrap",
+    "fermented",
+    "gluten-free",
+    "keto-friendly",
+    "norwegian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "lightly-sweet-norwegian-sweet-potatoes-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-sweet-norwegian-sweet-potatoes-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T01:59:51Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Lightly Sweet",
+    "dishForm": "Wrap"
+  }
+}
