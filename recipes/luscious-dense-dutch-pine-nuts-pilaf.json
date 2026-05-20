@@ -1,0 +1,105 @@
+{
+  "title": "Luscious Dense Dutch Pine Nuts Pilaf",
+  "description": "Funky and dense Dutch dish featuring pine nuts, perfect for a crowd-pleaser. Can be easily adapted to shojin-friendly ingredients.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pine nuts",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the pine nuts and cook until lightly toasted, about 3-4 minutes.",
+    "Add the brown rice and cook for 2-3 minutes, stirring constantly.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 25-30 minutes or until the liquid has been absorbed.",
+    "Stir in dried thyme, dried rosemary, salt, and black pepper.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free-options",
+    "one-pan-meals",
+    "pine-nuts",
+    "vegetarian-friendly",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 65,
+    "fat": 20
+  },
+  "slug": "luscious-dense-dutch-pine-nuts-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-dense-dutch-pine-nuts-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:00:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "pine nuts",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Pine Nuts",
+    "descriptor": "Luscious dense",
+    "dishForm": "Pilaf"
+  }
+}
