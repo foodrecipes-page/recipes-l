@@ -1,0 +1,107 @@
+{
+  "title": "X-Fried Australian Fish Pilaf",
+  "description": "A light and refreshing Australian-inspired dish featuring pan-seared fish, crunchy pilaf, and tangy basil notes.",
+  "cuisine": "australian",
+  "diet": [
+    "low-carb",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4 pieces",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": "Short-grain for fluffy texture"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 bunch",
+      "notes": "For garnish and flavor"
+    },
+    {
+      "name": "Furikake seasoning",
+      "amount": "1 tsp",
+      "notes": "Japanese-inspired flavor enhancer"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "High-quality sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "Optional, for added nuttiness"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets under cold water, pat dry with paper towels.",
+    "Heat 1 tablespoon of vegetable oil in a large non-stick pan over medium-high heat.",
+    "Add the cod fillets, skin side up, and sear for 3-4 minutes.",
+    "Flip the cod, reduce heat to medium, and cook for an additional 5-6 minutes, or until cooked through.",
+    "While the cod cooks, heat 1 tablespoon of sesame oil in a separate pan over medium heat.",
+    "Add the jasmine rice and cook, stirring frequently, for 5-7 minutes, or until lightly toasted.",
+    "Add the furikake seasoning, salt, and black pepper to the rice and stir to combine.",
+    "Transfer the cooked rice to a serving platter or individual plates.",
+    "Top the rice with the cooked cod fillets and garnish with fresh parsley and basil leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "basil",
+    "fish",
+    "low-carb",
+    "one-pan",
+    "pilaf",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "lightly-x-fried-australian-fish-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-x-fried-australian-fish-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:42:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "fresh basil",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "lightly x-fried",
+    "dishForm": "Pilaf"
+  }
+}
