@@ -1,0 +1,102 @@
+{
+  "title": "luscious crunchy spanish cheese catalan cream",
+  "description": "a comforting spanish dessert featuring crispy cheddar cheese and catalan cream, inspired by traditional crema catalana.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond extract",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "in a medium bowl, whisk together the flour, sugar, and kosher salt.",
+    "in a separate bowl, whisk together the eggs, milk, and melted butter.",
+    "add the grated cheddar cheese to the egg mixture and whisk until smooth.",
+    "add the flour mixture to the egg mixture and whisk until just combined.",
+    "pour the batter into a 9x13 inch baking dish and smooth the top.",
+    "bake for 25 minutes, or until the edges are golden brown and the center is set.",
+    "remove the dish from the oven and let it cool for 5 minutes.",
+    "drizzle the caramel sauce over the top of the cream and sprinkle with cinnamon.",
+    "return the dish to the oven and bake for an additional 5-7 minutes, or until the caramel is bubbly and the cream is set.",
+    "remove the dish from the oven and let it cool to room temperature.",
+    "cover the dish with plastic wrap and refrigerate for at least 2 hours, or until chilled."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "dessert",
+    "european",
+    "make-ahead",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 32,
+    "fat": 22
+  },
+  "slug": "luscious-crunchy-spanish-cheese-catalan-cream",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-crunchy-spanish-cheese-catalan-cream",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:40:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "cure",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "Luscious Crunchy",
+    "dishForm": "Catalan Cream"
+  }
+}
