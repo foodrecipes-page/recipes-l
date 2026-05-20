@@ -1,0 +1,94 @@
+{
+  "title": "lovely roasted brazilian vegetables roast",
+  "description": "earthy, crunchy, cozy brazillian dish featuring roasted vegetables.",
+  "cuisine": "brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "yams",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425°f (220°c).",
+    "toss the vegetables in a bowl with olive oil, cumin, salt, and garlic until evenly coated.",
+    "spread the vegetables in a single layer on a baking sheet lined with parchment paper.",
+    "roast in the preheated oven for 25 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "oven-roasted",
+    "side-dish",
+    "snacky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 3
+  },
+  "slug": "lovely-roasted-brazilian-vegetables-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lovely-roasted-brazilian-vegetables-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:40:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "vegetables",
+    "descriptor": "lovely roasted",
+    "dishForm": "roast"
+  }
+}
