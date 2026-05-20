@@ -1,0 +1,103 @@
+{
+  "title": "Low-Sodium-Friendly Char-Grill-Yang Romantic Portuguese Haricot Beans Gratin",
+  "description": "Rich, shaggy, romantic Portuguese dish featuring haricot beans, char-grill-yang, low-sodium-friendly. Perfect for a special dinner.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haricot beans, soaked overnight and drained",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "char-grill-yang sauce (low-sodium)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "bacon, diced",
+      "amount": "4 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "1 can"
+    },
+    {
+      "name": "beef broth (low-sodium)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese, shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced bacon and cook until browned, about 5 minutes.",
+    "Add the soaked haricot beans, char-grill-yang sauce, beef broth, and salt-free seasoning blend. Stir to combine.",
+    "Bring the mixture to a simmer and let cook for 10 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with shredded cheddar cheese and diced tomato.",
+    "Bake in the preheated oven for 20-25 minutes, until the top is golden brown and the cheese is melted.",
+    "Sprinkle with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-sodium",
+    "one-pan",
+    "portuguese",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 55,
+    "fat": 22
+  },
+  "slug": "low-sodium-friendly-char-grill-yang-romantic-portuguese-haricot-beans-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/low-sodium-friendly-char-grill-yang-romantic-portuguese-haricot-beans-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:41:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "haricot beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "romantic portuguese",
+    "mainIngredient": "haricot beans",
+    "descriptor": "low-sodium-friendly char-grill-yang",
+    "dishForm": "Gratin"
+  }
+}
