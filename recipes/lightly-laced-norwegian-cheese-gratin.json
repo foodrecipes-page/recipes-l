@@ -1,0 +1,99 @@
+{
+  "title": "lightly laced norwegian cheese gratin",
+  "description": "a pungent, fluffy, energizing norwegian dish featuring cheese slices, clay-pot-cook, no onion no garlic friendly",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "gjetost cheese",
+      "amount": "1 1/2 cups shredded"
+    },
+    {
+      "name": "brown cheese",
+      "amount": "1/2 cup grated"
+    },
+    {
+      "name": "baker's cheese",
+      "amount": "1/4 cup crumbled"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "butter a 9-inch springform pan and set aside.",
+    "in a medium bowl, whisk together the gjetost cheese, brown cheese, baker's cheese, sour cream, eggs, salt, and black pepper.",
+    "stir in the chopped fresh dill.",
+    "dust the springform pan with flour and coat evenly.",
+    "pour the cheese mixture into the prepared pan.",
+    "cover the pan with foil and place it in a large clay pot or Dutch oven.",
+    "add hot water to come halfway up the sides of the pan.",
+    "cover the pot with a lid and bake for 30 minutes.",
+    "remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "remove the pan from the oven and let it cool for 5 minutes.",
+    "run a knife around the edges of the pan to release the gratin, then invert onto a serving plate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 32,
+    "carbs": 12,
+    "fat": 30
+  },
+  "slug": "lightly-laced-norwegian-cheese-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-laced-norwegian-cheese-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:53:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "cheese slices",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "Lightly Laced",
+    "dishForm": "Gratin"
+  }
+}

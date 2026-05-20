@@ -1,0 +1,63 @@
+{
+  "title": "Luscious, Smoky French Petit Pois Quiche",
+  "description": "Hearty French quiche featuring petit pois, ham, and a smoky crust for a savory breakfast delight.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "Roll out the puff pastry to a thickness of about 1/8 inch (3 mm).",
+    "In a large skillet, saut\u00162e the diced ham over medium heat until lightly browned.",
+    "In a separate bowl, whisk together the eggs, heavy cream, and milk until well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "luscious-smoky-french-petit-pois-quiche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-smoky-french-petit-pois-quiche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:53:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "rest-meat",
+    "primaryIngredient": "petit pois",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "petit pois",
+    "descriptor": "Luscious, Smoky",
+    "dishForm": "Quiche"
+  }
+}

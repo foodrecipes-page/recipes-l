@@ -8665,6 +8665,21 @@
     "shard": "l"
   },
   {
+    "slug": "lightly-laced-norwegian-cheese-gratin",
+    "title": "lightly laced norwegian cheese gratin",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "high-protein",
+      "norwegian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
     "slug": "lightly-laced-portuguese-vermicelli-rice-noodles-bowl",
     "title": "Lightly Laced Portuguese Vermicelli Rice Noodles Bowl",
     "tags": [
@@ -16429,6 +16444,19 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 170,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-smoky-french-petit-pois-quiche",
+    "title": "Luscious, Smoky French Petit Pois Quiche",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
