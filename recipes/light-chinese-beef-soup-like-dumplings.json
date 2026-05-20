@@ -1,0 +1,122 @@
+{
+  "title": "Light Chinese Beef Soup-Like Dumplings",
+  "description": "A light and refreshing twist on traditional xiaolongbao, featuring a bitter and aerated broth. This dish is perfect for those looking for a sugar-free friendly option.",
+  "cuisine": "Chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pork fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Beef stock",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine ground beef, pork fat, ginger, garlic, and sesame oil in a mortar and pestle. Pound the mixture with the pestle until it is well combined and has a smooth texture.",
+    "In a separate bowl, whisk together beef stock, water, salt, and black pepper.",
+    "In a small bowl, whisk together cornstarch and a small amount of water until smooth. Add the mixture to the beef stock mixture and whisk until well combined.",
+    "Add the egg to the beef stock mixture and whisk until well combined.",
+    "Add the lard to the beef stock mixture and whisk until well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "To assemble the dumplings, lay a piece of dough flat and place a tablespoon of the beef stock mixture in the center of the dough. Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Bring a large pot of water to a boil and cook the dumplings for 10-15 minutes. Serve the dumplings in bowls and ladle the hot broth over them.",
+    "Garnish with green onions and serve immediately.",
+    "Strain the broth through a fine-mesh sieve into a clean pot and discard the solids.",
+    "Bring the broth to a boil and cook for 10 minutes to allow the flavors to meld.",
+    "Serve the hot broth over the cooked dumplings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chinese-food",
+    "high-protein",
+    "one-pan",
+    "soup-like",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "light-chinese-beef-soup-like-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-chinese-beef-soup-like-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:09:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "beef stock",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beef",
+    "descriptor": "light",
+    "dishForm": "Soup-like dumplings"
+  }
+}
