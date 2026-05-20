@@ -1,0 +1,107 @@
+{
+  "title": "Light Nimono British soya bean Pie-and-Mash",
+  "description": "A light and savory British-inspired dish made with soya beans in a nimono-style simmer, served in a traditional pie-and-mash format. This recipe is kosher-friendly and perfect for a weeknight dinner.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free",
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bouillon",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "4 servings",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium-low heat.",
+    "Add the onion, garlic, carrot, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the soya beans, bouillon, and flour. Bring to a simmer, then reduce the heat to low and cook for 10 minutes.",
+    "Meanwhile, prepare the mashed potatoes according to package instructions.",
+    "To assemble the dish, place a portion of the mashed potatoes in a serving vessel made of wood, then spoon the soya bean mixture over the top.",
+    "Garnish with additional herbs or spices as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "gluten-free",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "light-nimono-british-soya-bean-pie-and-mash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-nimono-british-soya-bean-pie-and-mash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:18:30Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "soya bean",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "soya bean",
+    "descriptor": "Light Nimono",
+    "dishForm": "Pie-and-Mash"
+  }
+}
