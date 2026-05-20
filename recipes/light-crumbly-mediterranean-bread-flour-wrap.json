@@ -1,0 +1,92 @@
+{
+  "title": "Light and Crumbly Mediterranean Wrap",
+  "description": "A light, crumbly Mediterranean bread flour wrap made without eggs, perfect as a snack or dessert.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine flour, sugar, yeast, and salt in a large mixing bowl.",
+    "Add water and olive oil to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400°F.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Brush the circles with olive oil and sprinkle with sesame seeds.",
+    "Bake the wraps in the preheated oven for 10-12 minutes, or until lightly browned.",
+    "Let the wraps cool on a wire rack before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "easy",
+    "egg-free",
+    "mediterranean",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "light-crumbly-mediterranean-bread-flour-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-crumbly-mediterranean-bread-flour-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:30:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "bread flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bread flour",
+    "descriptor": "Light, crumbly",
+    "dishForm": "Wrap"
+  }
+}
