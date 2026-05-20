@@ -1,0 +1,96 @@
+{
+  "title": "Light and Snappy Norwegian Perilla leaf Wrap",
+  "description": "A refreshing and savory wrap featuring perilla leaves, perfect for a quick lunch or snack.",
+  "cuisine": "norwegian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Perilla leaves (kkaennip)",
+      "amount": "12 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Rice paper wraps",
+      "amount": "4 wraps",
+      "notes": ""
+    },
+    {
+      "name": "Smoked salmon",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Pickled daikon",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Lay a rice paper wrap flat on a clean surface.",
+    "Arrange 3 perilla leaves in the center of the wrap, overlapping them slightly.",
+    "Place 1.5 ounces of smoked salmon on top of the perilla leaves.",
+    "Add 1/8 cup of pickled daikon, 1 tablespoon of chopped fresh dill, and a drizzle of sesame oil on top of the salmon.",
+    "Drizzle with lime juice and season with salt to taste.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap tightly.",
+    "Repeat with the remaining ingredients and wraps.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "light",
+    "one-pan",
+    "raw-friendly",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "light-and-snappy-norwegian-perilla-leaf-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-and-snappy-norwegian-perilla-leaf-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:35:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Perilla leaf",
+    "descriptor": "Light and Snappy",
+    "dishForm": "Wrap"
+  }
+}
