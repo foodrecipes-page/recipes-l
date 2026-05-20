@@ -1,0 +1,73 @@
+{
+  "title": "Long-fermentation-dough energizing Norwegian Ground cumin Flatbread",
+  "description": "Grassy, crumbly, energizing Norwegian flatbread featuring long-fermentation dough and ground cumin, suitable for those with dietary restrictions.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "7g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "10g",
+      "notes": "Unrefined salt"
+    }
+  ],
+  "waterproofed with olive oil and honey to create a crispy crust.\n3. Fold the dough to create a ball, cover with a damp cloth, and let it rest in a warm place for 4 hours.\n4. Once the dough has rested, punch it down and divide it into 6-8 equal pieces.\n5. Roll out each piece of dough into a thin circle, about 1/8 inch thick.\n6. Heat a non-stick skillet or griddle over medium heat, and cook the flatbreads for 1-2 minutes on each side, until they are golden brown and crispy.\n7. Repeat the process with the remaining dough pieces, until you have cooked all of the flatbreads.\n8. Serve warm, garnished with a sprinkle of ground cumin and a drizzle of olive oil.": 15,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "easy-flatbread",
+    "fodmap-friendly",
+    "gluten-free-option",
+    "grain-free-option",
+    "high-fiber",
+    "low-calorie",
+    "one-pan",
+    "quick-recipe",
+    "weeknight"
+  ],
+  "nutrition": {
+    "protein": 4,
+    "servings": 12,
+    "calories": 130,
+    "totalTimeMin": 180,
+    "cookTimeMin": 15,
+    "prepTimeMin": 15,
+    "fat": 0,
+    "carbs": 25
+  },
+  "prepTimeMin": 15,
+  "instructionStep": 8,
+  "totalTimeMin": 30,
+  "instructions": [
+    "Combine flour, yeast, and salt in a large mixing bowl.\n2. Gradually add water, mixing the dough until it comes together in a sticky ball.\n3. Knead the dough for 10 minutes until it becomes smooth and elastic."
+  ],
+  "cookTimeMin": 15,
+  "slug": "long-fermentation-dough-energizing-norwegian-ground-cumin-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/long-fermentation-dough-energizing-norwegian-ground-cumin-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:09:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "ground cumin",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Ground cumin",
+    "descriptor": "Long-fermentation-dough energizing",
+    "dishForm": "Flatbread"
+  }
+}
