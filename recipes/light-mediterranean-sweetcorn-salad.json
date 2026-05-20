@@ -1,0 +1,91 @@
+{
+  "title": "Light Mediterranean Sweetcorn Salad",
+  "description": "A refreshing and light salad perfect for a warm summer night. This dish combines the sweetness of corn with the tanginess of feta and a hint of bitterness from the arugula.",
+  "cuisine": "Mediterranean",
+  "meal": "lunch",
+  "difficulty": "medium",
+  "servings": 4,
+  "diet": null,
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 9
+  },
+  "ingredients": [
+    {
+      "name": "Fresh arugula",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sweetcorn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup, pitted"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a sous-vide machine, cook the sweetcorn for 1 hour at 170°F (77°C).",
+    "Chop the cooked sweetcorn into bite-sized pieces.",
+    "In a large bowl, combine the arugula, chopped sweetcorn, feta cheese, red onion, and olives.",
+    "Drizzle the olive oil and lemon juice over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir the salad and adjust the seasoning if necessary.",
+    "Serve chilled or at room temperature.",
+    "Garnish with additional feta cheese and arugula if desired."
+  ],
+  "tags": [
+    "easy-to-make",
+    "lunch-dinner",
+    "mediterranean",
+    "summer",
+    "vegan",
+    "weeknight"
+  ],
+  "slug": "light-mediterranean-sweetcorn-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mediterranean-sweetcorn-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:05:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "sweetcorn",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Sweetcorn",
+    "descriptor": "Light",
+    "dishForm": "Salad"
+  }
+}
