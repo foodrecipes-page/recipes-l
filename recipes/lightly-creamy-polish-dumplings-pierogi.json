@@ -1,0 +1,107 @@
+{
+  "title": "Lightly Creamy Polish Dumplings Pierogi",
+  "description": "A classic Polish dish featuring double cream and a tadka-spiced filling, perfect for meal prep.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "approximately"
+    },
+    {
+      "name": "double cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tadka spice mix (or garam masala, ground cumin, salt, black pepper to taste)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all-purpose potatoes",
+      "amount": "2 large",
+      "notes": "grated"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and warm water to form a dough.",
+    "Knead the dough for approximately 5-7 minutes until it becomes smooth and elastic.",
+    "Rest the dough for 30 minutes.",
+    "Roll out the dough to a thickness of approximately 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a separate mixing bowl, combine the double cream, tadka spice mix, onion, potatoes, butter, egg, salt, and black pepper.",
+    "Place a tablespoon or two of the filling in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together with a fork to seal the pierogi.",
+    "Bring a large pot of salted water to a boil and gently add the pierogi.",
+    "Cook for 5-7 minutes or until the pierogi float to the surface.",
+    "Serve hot with additional double cream and a sprinkle of tadka spice mix if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-rich",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "lightly-creamy-polish-dumplings-pierogi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-creamy-polish-dumplings-pierogi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T03:25:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "double cream",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Dumplings",
+    "descriptor": "Lightly Creamy",
+    "dishForm": "Pierogi"
+  }
+}
