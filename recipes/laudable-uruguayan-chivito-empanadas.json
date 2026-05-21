@@ -1,0 +1,105 @@
+{
+  "title": "Laudable Uruguayan Chivito Empanadas",
+  "description": "A show-off Uruguayan dish featuring piccalilli, double-fried chicken, and ayurvedic rajasic-friendly ingredients, resulting in a sour and crumbly taste.",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "double-fried chicken",
+      "amount": "500g",
+      "notes": "use KFC-style double-frying method"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "120g",
+      "notes": "for sour taste"
+    },
+    {
+      "name": "onion",
+      "amount": "120g",
+      "notes": "for flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "for flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g",
+      "notes": "for flavor"
+    },
+    {
+      "name": "emmental cheese",
+      "amount": "80g",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Mix together flour, water, and salt to create the empanada dough.",
+    "Knead the dough for 5 minutes until it becomes pliable.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a spoonful of the double-fried chicken mixture onto one half of the dough circle.",
+    "Add a spoonful of piccalilli, onion, garlic, and emmental cheese on top of the chicken.",
+    "Fold the other half of the dough circle over the filling to form a half-circle shape.",
+    "Press the edges together to seal the empanada.",
+    "Heat the olive oil in a large frying pan over medium heat.",
+    "When the oil is hot, add the empanadas and fry for 4 minutes on each side until golden brown.",
+    "Serve the empanadas hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 8,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chicken",
+    "fancy",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "laudable-uruguayan-chivito-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/laudable-uruguayan-chivito-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T01:44:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "piccalilli",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chivito",
+    "descriptor": "Laudable",
+    "dishForm": "Empanadas"
+  }
+}
