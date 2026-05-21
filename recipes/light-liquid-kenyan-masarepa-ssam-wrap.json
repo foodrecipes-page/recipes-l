@@ -1,0 +1,93 @@
+{
+  "title": "light liquid kenyan masarepa ssam-wrap",
+  "description": "A hangover-cure dish made with yellow masarepa, ssam-wrap, and cedar-plank. Perfect for satvik diets.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yellow masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "6 sheets"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F (200°C).",
+    "Soak the cedar plank in water for at least 30 minutes.",
+    "Wrap the ssam-wrap around the coconut oil, ginger, tamarind paste, and sugar.",
+    "Place the wrapped ssam-wrap on the soaked cedar plank.",
+    "Grill the ssam-wrap for 5 minutes on each side.",
+    "In a separate pan, boil the water and mix with lemon juice.",
+    "Pour the liquid mixture over the grilled ssam-wrap.",
+    "Cook the masarepa according to the package instructions.",
+    "Mix the cooked masarepa with the liquid from the ssam-wrap.",
+    "Serve the light liquid kenyan masarepa ssam-wrap hot.",
+    "Garnish with additional tamarind paste if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "grilled-dish",
+    "hangover-cure",
+    "kenyan-cuisine",
+    "one-pan",
+    "satvik",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "light-liquid-kenyan-masarepa-ssam-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/light-liquid-kenyan-masarepa-ssam-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T09:23:23Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "masarepa",
+    "descriptor": "Light Liquid",
+    "dishForm": "Ssam-wrap"
+  }
+}
