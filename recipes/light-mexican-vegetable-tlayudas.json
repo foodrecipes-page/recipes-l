@@ -1,0 +1,106 @@
+{
+  "title": "Light Mexican Vegetable Tlayudas",
+  "description": "A plant-based friendly Mexican dish featuring crispy tlayudas topped with a variety of vegetables and a hint of Thai fish sauce, all held together with a mortar-pestle-pound technique.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "8",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Brush both sides of the corn tortillas with olive oil and bake for 10-12 minutes, or until crispy and lightly browned.",
+    "In a large skillet, saute the red onion, zucchini, bell pepper, and mushrooms over medium-high heat until the vegetables are tender.",
+    "In a mortar and pestle, pound the sauteed vegetables with Thai fish sauce, lime juice, and salt until coarsely chopped.",
+    "To assemble the tlayudas, place a baked tortilla on a flat surface and spoon some of the vegetable mixture onto the center of the tortilla.",
+    "Sprinkle chopped cilantro over the top of the vegetable mixture and serve immediately.",
+    "Repeat the assembly process with the remaining ingredients.",
+    "Serve the tlayudas hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-snacks",
+    "easy-dinner",
+    "mexican-food",
+    "plant-based",
+    "thai-inspired",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "light-mexican-vegetable-tlayudas",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/light-mexican-vegetable-tlayudas",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:12:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "vegetables",
+    "descriptor": "Light",
+    "dishForm": "Tlayudas"
+  }
+}
