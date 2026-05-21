@@ -1,0 +1,123 @@
+{
+  "title": "Ethiopian Chicken Doro Wot",
+  "description": "A light and juicy Ethiopian chicken dish made with slow-cooked chicken in a flavorful onion and ginger sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium broth"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice mix"
+    },
+    {
+      "name": "tumeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken bouillon cubes",
+      "amount": "2 cubes",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add ginger and cook for 1 minute, until fragrant.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add chicken and cook until browned on all sides, about 5-6 minutes.",
+    "Add berbere spice mix, turmeric, salt, and black pepper. Cook for 1 minute, until fragrant.",
+    "Add chicken broth, bouillon cubes, and chicken. Bring to a boil, then cover and simmer for 30-40 minutes, or until the chicken is cooked through.",
+    "Stir in cilantro and lemon juice. Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "ethiopian",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "light-juicy-ethiopian-chicken-doro-wot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-juicy-ethiopian-chicken-doro-wot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:20:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "hail",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "light juicy",
+    "dishForm": "Doro Wot"
+  }
+}
