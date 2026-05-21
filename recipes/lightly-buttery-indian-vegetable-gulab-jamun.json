@@ -1,0 +1,106 @@
+{
+  "title": "Lightly Buttery Indian Vegetable Gulab Jamun",
+  "description": "A buttery, crumbly, and cozy Indian dish featuring vegetable stock and marinated vegetables, made in an ayurvedic-sattvic-friendly style and formed into gulab jamun shapes.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "semolina",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gulab jamun syrup",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the melted ghee over medium heat and saute the grated carrots and cauliflower florets until they are tender.",
+    "Add the diced potatoes to the pan and continue to cook until they are lightly browned.",
+    "In a large bowl, whisk together the all-purpose flour, semolina, and salt.",
+    "Gradually add the vegetable stock to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it is smooth and pliable.",
+    "Divide the dough into small balls and shape each ball into a gulab jamun shape.",
+    "Heat the gulab jamun syrup in a large pan over medium heat and add the shaped dough balls to the syrup.",
+    "Cook the gulab jamun for 10 minutes on each side, or until they are lightly browned and cooked through.",
+    "Remove the gulab jamun from the syrup and place them on a serving plate.",
+    "Sprinkle the garam masala over the gulab jamun and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "comfort-food",
+    "gulab-jamun",
+    "homemade",
+    "indian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "lightly-buttery-indian-vegetable-gulab-jamun",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/lightly-buttery-indian-vegetable-gulab-jamun",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:57:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "marinate",
+    "primaryIngredient": "vegetable stock",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Lightly Buttery",
+    "dishForm": "Gulab Jamun"
+  }
+}
