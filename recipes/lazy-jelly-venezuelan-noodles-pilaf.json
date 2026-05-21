@@ -1,0 +1,95 @@
+{
+  "title": "Lazy-Jelly Venezuelan Noodles Pilaf",
+  "description": "A jammy and glassy-jelly Venezuelan noodle dish made with lamination-puff, perfect for a lazy Sunday. This vegetarian-friendly dish is easy to make and serves well as a lunch or dinner option.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sirloin steak broth concentrate",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "carnation evaporated milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large skillet over medium heat.",
+    "Add the egg noodles and cook for 5 minutes, stirring constantly.",
+    "Pour in the chicken broth, sirloin steak broth concentrate, heavy cream, and carnation evaporated milk.",
+    "Bring the mixture to a simmer and let cook for 10-12 minutes or until the noodles are tender.",
+    "Stir in the salt and black pepper.",
+    "Serve hot and garnish with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "labor-day",
+    "one-pan",
+    "sunday-funday",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "lazy-jelly-venezuelan-noodles-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lazy-jelly-venezuelan-noodles-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:36:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "lamination-puff",
+    "primaryIngredient": "noodles",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "noodles",
+    "descriptor": "lazy-jelly",
+    "dishForm": "Pilaf"
+  }
+}
