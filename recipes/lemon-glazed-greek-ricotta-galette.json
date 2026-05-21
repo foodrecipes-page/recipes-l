@@ -1,0 +1,140 @@
+{
+  "title": "Lemon-Glazed Greek Ricotta Galette",
+  "description": "A comforting pastry made with sesame butter, ricotta cheese, and a tangy lemon glaze, reminiscent of traditional Greek galaktoboureko, served in a beautiful slate-tile vessel.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "sesame butter",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "0.125 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the ricotta cheese, sesame butter, granulated sugar, and eggs until smooth.",
+    "In a separate bowl, whisk together the flour, baking powder, and a pinch of salt.",
+    "Add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Wrap the dough in plastic wrap and let rest for 30 minutes.",
+    "Roll out the dough to a thickness of 1/8 inch (3 mm).",
+    "Transfer the dough to a 9x13 inch (23x33 cm) slate-tile vessel and trim the edges to fit.",
+    "Spread the ferment-kimchi over the dough, leaving a 1 inch (2.5 cm) border around the edges.",
+    "Fold the edges of the dough over the filling to form a crust, pressing gently to seal.",
+    "Bake for 30-35 minutes or until the crust is golden brown and the filling is set.",
+    "While the galette is baking, prepare the lemon glaze by whisking together the lemon juice and honey in a small bowl.",
+    "Once the galette is done, remove it from the oven and let cool for 10 minutes.",
+    "Drizzle the lemon glaze over the galette and sprinkle with sesame seeds.",
+    "Serve warm, garnished with a sprinkle of cinnamon and a pinch of nutmeg.",
+    "Slice and serve to 4-6 people."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "low-sugar",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 18,
+    "carbs": 50,
+    "fat": 30
+  },
+  "slug": "lemon-glazed-greek-ricotta-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/lemon-glazed-greek-ricotta-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:21:45Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "sesame butter",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Ricotta",
+    "descriptor": "Lemon-Glazed",
+    "dishForm": "Galette"
+  }
+}
