@@ -1,0 +1,125 @@
+{
+  "title": "Light Bitter Algerian Scamorza Tagine",
+  "description": "A vegetarian-friendly Algerian dish featuring scamorza cheese, with a bitter and crispy finish. Serve warm on a wooden board.",
+  "cuisine": "algerian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the preserved lemon, capers, parsley, salt, black pepper, paprika, cumin, coriander, and crushed red pepper. Cook for 1 minute, stirring constantly.",
+    "Add the scamorza cheese and stir until melted. ",
+    "Sprinkle with flour and cook for 1 minute, stirring constantly.",
+    "Transfer the mixture to a wooden board and serve warm.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "cheesy",
+    "one-pan",
+    "snappy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "light-bitter-algerian-scamorza-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-bitter-algerian-scamorza-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:18:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "scamorza",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Scamorza",
+    "descriptor": "Light Bitter",
+    "dishForm": "Tagine"
+  }
+}
