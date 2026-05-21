@@ -1,0 +1,106 @@
+{
+  "title": "Lavender Kissed Polish Russet Potato Croquettes",
+  "description": "A daring fusion of comforting Polish krokiety and Japanese agemono technique, featuring crispy russet potatoes infused with a delicate hint of culinary lavender.",
+  "cuisine": "Polish-Japanese Fusion",
+  "diet": [
+    "Whole30",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "1.5 lbs",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Dried culinary lavender buds",
+      "amount": "1/2 tsp",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tbsp",
+      "notes": "melted, Whole30 compliant"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "pure, no additives"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/2 cup",
+      "notes": "finely blanched"
+    },
+    {
+      "name": "Pork rinds",
+      "amount": "1 cup",
+      "notes": "crushed into fine crumbs for breading"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "3 cups",
+      "notes": "for deep frying"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "divided"
+    }
+  ],
+  "instructions": [
+    "Boil the cubed russet potatoes in salted water until they are fork-tender, which takes about fifteen minutes.",
+    "Drain the potatoes thoroughly and mash them in a large bowl until completely smooth.",
+    "Stir in the ground culinary lavender, melted ghee, garlic powder, and half a teaspoon of sea salt until fully incorporated.",
+    "Allow the potato mixture to cool completely in the refrigerator for twenty minutes so it becomes easy to shape.",
+    "Divide the chilled potato mixture into eight equal portions and shape each into a smooth cylinder.",
+    "Roll each cylinder first in the almond flour, then dip it into the beaten egg, and finally coat it thoroughly in the crushed pork rinds.",
+    "Heat the avocado oil in a deep pot to three hundred sixty degrees Fahrenheit.",
+    "Fry the croquettes in small batches for about three minutes until they are golden brown and crispy.",
+    "Drain the finished croquettes on paper towels and sprinkle them with a pinch of sea salt before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "croquettes",
+    "deep-fried",
+    "fusion",
+    "savory",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 11,
+    "carbs": 26,
+    "fat": 18
+  },
+  "slug": "lavender-kissed-polish-russet-potato-croquettes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/lavender-kissed-polish-russet-potato-croquettes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T07:06:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "russet potato",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "russet potato",
+    "descriptor": "Lavender kissed",
+    "dishForm": "Croquettes"
+  }
+}
