@@ -1,0 +1,97 @@
+{
+  "title": "Light Irish Couscous Bowl",
+  "description": "A light, refreshing Irish-inspired dish featuring couscous, marinated vegetables, and a tangy sour cream sauce.",
+  "cuisine": "irish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized onion",
+      "amount": "1/2 cup",
+      "notes": "caramelized in a pan with 1 tsp olive oil at 400\u00137 for 20 minutes."
+    },
+    {
+      "name": "Marinated vegetables",
+      "amount": "1 cup",
+      "notes": "marinated in a mixture of 2 tbsp lemon juice, 1 tbsp olive oil, and 1 tsp dried thyme for 30 minutes."
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the couscous according to package instructions using 2 cups water and 1 tsp olive oil at 400\u00137 for 5 minutes. ",
+    "Caramelize the onion in a pan with 1 tsp olive oil at 400\u00137 for 20 minutes. ",
+    "Combine the marinated vegetables, sour cream, and bonito flakes in a bowl and mix well. ",
+    "Add the cooked couscous to the bowl and mix gently. ",
+    "Top the couscous mixture with mixed greens and chopped parsley. ",
+    "Season with salt and pepper to taste. ",
+    "Serve immediately and garnish with additional bonito flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "flexitarian",
+    "irish",
+    "one-pan",
+    "sour-cream",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "light-irish-couscous-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/light-irish-couscous-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:33:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "bonito-shave",
+    "primaryIngredient": "couscous",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "couscous",
+    "descriptor": "light",
+    "dishForm": "bowl"
+  }
+}
