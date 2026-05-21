@@ -1,0 +1,119 @@
+{
+  "title": "luscious australian pistachio burger",
+  "description": "a vegan-friendly and flavorful burger patty made with ground pistachios, yuzu-cure, and served on a toasted bun with lettuce, tomato, and vegan mayo.",
+  "cuisine": "australian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground pistachios",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegan Worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "ice-cold water",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 leaves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 slice",
+      "notes": ""
+    },
+    {
+      "name": "vegan mayo",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted brioche bun",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pistachios, yuzu juice, vegan Worcestershire sauce, garlic powder, salt, and black pepper. Mix well until a sticky dough forms.",
+    "Gradually add ice-cold water to the dough, mixing until it comes together in a ball.",
+    "Divide the dough into 4 equal portions and shape each into a ball.",
+    "Flatten each ball into a patty shape, about 1 inch thick.",
+    "Heat a non-stick skillet or grill over medium heat.",
+    "Cook the patties for 3-4 minutes per side, or until they're golden brown and cooked through.",
+    "Meanwhile, toast the brioche buns on the grill or in a toaster.",
+    "Assemble the burgers by spreading vegan mayo on the bottom bun, followed by a cooked patty, lettuce, tomato, and top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "luscious-australian-pistachios-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-australian-pistachios-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T06:19:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "ground pistachios",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pistachios",
+    "descriptor": "Luscious",
+    "dishForm": "Burger"
+  }
+}
