@@ -1,0 +1,106 @@
+{
+  "title": "Luscious Egyptian Fava Pilaf",
+  "description": "A unique Egyptian dish featuring fava beans, tangy sauce, and crispy onions, all in one delicious pilaf. Perfect for a weekend brunch.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fava beans",
+      "amount": "1 1/2 cups dried, soaked overnight and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "soda water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add fava beans, ginger, cumin, coriander, salt, and black pepper. Cook, stirring occasionally, for 10 minutes.",
+    "Add lemon juice and stir to combine.",
+    "Gradually add soda water while stirring to prevent the mixture from becoming too thick.",
+    "Reduce heat to low and simmer, covered, for 20 minutes or until the fava beans are tender.",
+    "Stir in chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-leftovers",
+    "high-fiber",
+    "low-fat",
+    "one-pan",
+    "vegan-friendly",
+    "vegetarian",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "luscious-egyptian-fava-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-egyptian-fava-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T05:58:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "soda water",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fava",
+    "descriptor": "Luscious",
+    "dishForm": "Pilaf"
+  }
+}
