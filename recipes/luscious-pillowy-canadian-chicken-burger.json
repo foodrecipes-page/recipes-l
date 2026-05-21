@@ -1,0 +1,116 @@
+{
+  "title": "Luscious Pillowy Canadian Chicken Burger",
+  "description": "A crowd-pleasing Canadian dish featuring crispy chicken drumsticks, rich chocolate sauce, and fresh herbs, all served on a beautiful Talavera plate.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Drumsticks",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tempering Chocolate",
+      "amount": "1/2 cup",
+      "notes": "For sauce, see instruction 6."
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "Chopped 1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the chicken drumsticks with salt, pepper, and garlic powder.",
+    "Dredge the chicken in flour, then coat with breadcrumbs, pressing gently to adhere.",
+    "Place the coated chicken on the prepared baking sheet and dot with butter.",
+    "Bake for 20 minutes or until the chicken is cooked through and golden brown.",
+    "In a saucepan over medium heat, melt the tempering chocolate and stir in heavy cream until smooth.",
+    "Stir in grated cheddar cheese until melted and smooth, then season with salt and pepper.",
+    "Toss the cooked chicken in the chocolate sauce until well coated.",
+    "Garnish with chopped parsley and serve on a Talavera plate.",
+    "Let the chicken rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "cheese",
+    "chicken",
+    "comfort-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 52,
+    "carbs": 44,
+    "fat": 44
+  },
+  "slug": "luscious-pillowy-canadian-chicken-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-pillowy-canadian-chicken-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:22:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "luscious pillowy",
+    "dishForm": "Burger"
+  }
+}
