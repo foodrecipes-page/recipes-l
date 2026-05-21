@@ -1,0 +1,106 @@
+{
+  "title": "Luscious Saudi-Arabian Lamb Burger",
+  "description": "A mouth-watering twist on the classic burger, featuring tender lamb, crispy sesame seed buns, and a side of tangy tahini sauce.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegetarian-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Mince",
+      "amount": "500g"
+    },
+    {
+      "name": "Finely chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Egg, lightly beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Sesame seed buns",
+      "amount": "4"
+    },
+    {
+      "name": "Tahini sauce for serving",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a molcajete or grill pan to medium-high heat.",
+    "Combine lamb mince, onion, garlic, cumin seeds, cayenne pepper, salt, and black pepper in a large bowl.",
+    "Mix in flour, breadcrumbs, and egg until just combined.",
+    "Divide the mixture into 4 equal portions and shape into patties.",
+    "Add patties to the preheated pan and cook for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, toast sesame seed buns on the pan or in a toaster.",
+    "Assemble burgers by spreading a layer of tahini sauce on the bottom bun, followed by a cooked patty, lettuce, tomato, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger-lovers",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "luscious-saudi-arabian-lamb-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/luscious-saudi-arabian-lamb-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T02:30:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Luscious",
+    "dishForm": "Burger"
+  }
+}
