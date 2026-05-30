@@ -1,0 +1,70 @@
+{
+  "slug": "lazy-sunday-chocolate-brownie",
+  "title": "Lazy Sunday Brownie",
+  "description": "A rich and fudgy brownie perfect for a relaxing Sunday afternoon. This easy-to-make dessert is sure to satisfy your sweet tooth.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chocolate",
+      "amount": "250g"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "150g",
+      "notes": "You can substitute with granulated sugar if needed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Grease an 8x8 inch baking pan and line it with parchment paper.",
+    "Melt the chocolate and butter in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Whisk together the sugar, flour, and eggs in a medium bowl.",
+    "Add the vanilla extract and whisk until combined.",
+    "Pour the melted chocolate mixture into the sugar mixture and stir until well combined.",
+    "Pour the batter into the prepared baking pan and smooth the top.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out with a few moist crumbs.",
+    "Let the brownie cool completely in the pan before cutting into squares and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "brownie",
+    "chocolate",
+    "sunday",
+    "relaxing",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-chocolate-brownie",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:55:36.002Z"
+}
