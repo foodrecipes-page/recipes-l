@@ -1,0 +1,96 @@
+{
+  "slug": "light-vietnamese-beef-mi-quang",
+  "title": "Quang Beef Noodle Soup",
+  "description": "A popular Vietnamese noodle soup made with rich beef broth, tender beef, and springy mi noodles.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "mi noodles",
+      "amount": "1 package (12 oz)",
+      "notes": "dried"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for balance"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "rich and flavorful"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for broth"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine beef broth, water, ginger, and sugar. Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "2. Add sliced beef to the pot and cook for 3-5 minutes, or until tender.",
+    "3. Add light soy sauce, fish sauce (if using), and black pepper to the pot. Stir to combine.",
+    "4. Cook mi noodles according to package instructions. Drain and set aside.",
+    "5. To assemble the soup, place cooked noodles in a bowl, then add sliced beef and hot broth.",
+    "6. Garnish with chopped scallions and serve immediately.",
+    "7. Cook time for beef should be 130°F - 135°F (54°C - 57°C) for medium-rare, 145°F (63°C) for medium, and 160°F (71°C) for well-done.",
+    "8. Check the internal temperature of the beef with a meat thermometer.",
+    "9. Adjust seasoning as needed before serving.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "noodle-soup",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-vietnamese-beef-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:46:31.885Z"
+}
