@@ -1,0 +1,90 @@
+{
+  "slug": "lively-briny-mexican-pumpkin-tacos",
+  "title": "Pumpkin Tacos with Lively Slaw",
+  "description": "A twist on traditional tacos, featuring roasted pumpkin, a lively slaw, and a hint of mexican spice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 small",
+      "notes": "roasting required"
+    },
+    {
+      "name": "lively",
+      "amount": "1/4 cup",
+      "notes": "store-bought slaw mix"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 tsp",
+      "notes": "cumin, chili powder, or taco seasoning"
+    },
+    {
+      "name": "tacos",
+      "amount": "4-6 corn tortillas",
+      "notes": "preferably warm"
+    },
+    {
+      "name": "briny",
+      "amount": "1 lime",
+      "notes": "juice and wedges for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped, optional"
+    },
+    {
+      "name": "avocado",
+      "amount": "diced, optional"
+    },
+    {
+      "name": "sour cream",
+      "amount": "sour cream, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel, de-seed, and chop the pumpkin into 1-inch pieces.",
+    "Toss pumpkin with 1 tsp of mexican spice and a pinch of salt.",
+    "Roast pumpkin in the oven for 20-25 minutes, or until tender.",
+    "While pumpkin is roasting, prepare the slaw by combining lively slaw mix, lime juice, and a pinch of salt.",
+    "Warm tacos according to package instructions.",
+    "Assemble tacos by placing roasted pumpkin, lively slaw, and desired toppings in a warm tortilla.",
+    "Serve immediately, garnished with cilantro and a lime wedge if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "pumpkin",
+    "mexican",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-briny-mexican-pumpkin-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:28:54.263Z"
+}
