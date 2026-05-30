@@ -56,14 +56,13 @@
   },
   {
     "slug": "lacquer-glazed-mexican-morbier-tacos",
-    "title": "Lacquer-glazed Mexican Morbier Tacos",
+    "title": "Glazed Tacos with Lacquer-Crusted Chicken",
     "tags": [
-      "cheese-tacos",
-      "mexican",
-      "one-pan",
-      "weeknight"
+      "glazed-tacos",
+      "lacquer-crusted-chicken",
+      "mexican-recipes"
     ],
-    "cuisine": "mexican",
+    "cuisine": "Mexican",
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -7636,17 +7635,15 @@
   },
   {
     "slug": "light-vietnamese-beef-mi-quang",
-    "title": "Light Vietnamese Beef Mi Quang",
+    "title": "Quang Beef Noodle Soup",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "vietnamese",
+      "beef",
+      "noodle-soup",
+      "soup"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 27,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
