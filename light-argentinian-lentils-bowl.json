@@ -1,0 +1,85 @@
+{
+  "slug": "light-argentinian-lentils-bowl",
+  "title": "Argentinian Lentil Bowl",
+  "description": "A hearty and flavorful bowl filled with argentinian-style lentils, served with a side of sautéed vegetables.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add onion and garlic, cook until softened (3-4 minutes).",
+    "Add red bell pepper and cook for an additional 2 minutes.",
+    "Add lentils, cumin, and chili powder. Stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat and simmer for 20-25 minutes or until lentils are tender.",
+    "Stir in salt to taste.",
+    "Serve hot, garnished with chopped cilantro.",
+    "Serve over a bed of light, fluffy rice or enjoy as a standalone bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-bowl",
+    "argentinian-cuisine",
+    "vegetarian-recipe",
+    "gluten-free-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-argentinian-lentils-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:53:31.823Z"
+}
