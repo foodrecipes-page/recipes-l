@@ -6003,18 +6003,14 @@
   },
   {
     "slug": "light-nutty-british-walnut-pudding",
-    "title": "Light Nutty British Walnut Pudding",
+    "title": "British Walnut Pudding",
     "tags": [
-      "adventurous",
-      "british",
       "dessert",
-      "gluten-free",
-      "light",
-      "nutty",
-      "pudding"
+      "british",
+      "walnut"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -6820,17 +6816,15 @@
   },
   {
     "slug": "light-slovakian-wonton-skin-dumplings",
-    "title": "Light Slovakian Wonton Skin Dumplings",
+    "title": "Slovakian Wonton Dumplings Recipe",
     "tags": [
-      "bamboo-steamer",
-      "egg-free",
       "slovakian",
-      "steamed",
-      "vegetarian",
-      "yeast-based"
+      "dumplings",
+      "wonton",
+      "meat"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "cuisine": "slovakian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
