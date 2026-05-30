@@ -1,0 +1,79 @@
+{
+  "slug": "light-saudi-arabian-pineapple-pasta",
+  "title": "Saudi Arabian Pineapple Pasta",
+  "description": "A flavorful and sweet pasta dish inspired by Saudi Arabian cuisine, featuring juicy pineapple and savory spices.",
+  "cuisine": "arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, diced",
+      "notes": null
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz, cooked",
+      "notes": null
+    },
+    {
+      "name": "Light",
+      "amount": "2 tbsp, olive oil",
+      "notes": null
+    },
+    {
+      "name": "Saudi",
+      "amount": "1 tsp, mixed spices",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garnish",
+      "amount": "fresh parsley, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add mixed spices and cook for 1-2 minutes, until fragrant.",
+    "Add diced pineapple and cook for 3-4 minutes, until tender.",
+    "Combine cooked pasta and pineapple mixture in the skillet.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped parsley.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "pineapple",
+    "pasta",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-saudi-arabian-pineapple-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:26:40.239Z"
+}
