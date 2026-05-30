@@ -1063,15 +1063,16 @@
   },
   {
     "slug": "lazy-sunday-chocolate-brownie",
-    "title": "Lazy Sunday Chocolate Brownie",
+    "title": "Lazy Sunday Brownie",
     "tags": [
-      "lazy-sunday",
-      "irish-dish",
-      "bitter-flaky-chocolate-brownie",
-      "paleo-friendly"
+      "brownie",
+      "chocolate",
+      "sunday",
+      "relaxing",
+      "easy"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -2875,16 +2876,15 @@
   },
   {
     "slug": "light-argentinian-lentils-bowl",
-    "title": "Light Argentinian Lentils Bowl",
+    "title": "Argentinian Lentil Bowl",
     "tags": [
-      "argentinian",
-      "easy",
-      "flambe",
-      "lentils",
-      "weeknight"
+      "lentil-bowl",
+      "argentinian-cuisine",
+      "vegetarian-recipe",
+      "gluten-free-recipe"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -5973,16 +5973,15 @@
   },
   {
     "slug": "light-nutty-almond-crumble",
-    "title": "Light Nutty Almond Crumble",
+    "title": "Almond Crumble Cake",
     "tags": [
-      "light",
-      "indulgent",
       "almond",
+      "cake",
       "crumble",
-      "jain-friendly"
+      "dessert"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
