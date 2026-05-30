@@ -1,0 +1,84 @@
+{
+  "slug": "light-slovakian-wonton-skin-dumplings",
+  "title": "Slovakian Wonton Dumplings Recipe",
+  "description": "A traditional Slovakian dish with a twist, using wonton wrappers instead of traditional dumpling dough.",
+  "cuisine": "slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 pound ground pork",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 package wonton wrappers (about 20-24 wrappers)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot of boiling water, cook the chopped onion and garlic until softened.",
+    "In a large bowl, combine the ground pork, flour, egg, and cooked onion mixture. Mix well to combine.",
+    "Lay a wonton wrapper on a clean surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a little water, then fold the wrapper into a triangle and press the edges together to seal.",
+    "Repeat with the remaining wrappers and filling.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat. When the oil is hot, add a few of the wonton dumplings to the pan.",
+    "Cook the dumplings for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Remove the dumplings from the pan and repeat with the remaining dumplings.",
+    "Serve the wonton dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "wonton",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-slovakian-wonton-skin-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:35:59.942Z"
+}
