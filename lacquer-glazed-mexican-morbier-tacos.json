@@ -1,0 +1,88 @@
+{
+  "slug": "lacquer-glazed-mexican-morbier-tacos",
+  "title": "Glazed Tacos with Lacquer-Crusted Chicken",
+  "description": "Sweet and savory tacos filled with crispy chicken and crunchy toppings. Perfect for a quick weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": "pounded to 1/4 inch thickness"
+    },
+    {
+      "name": "glaze",
+      "amount": "1/4 cup",
+      "notes": "mix of honey, soy sauce, and spices"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "warm and pliable"
+    },
+    {
+      "name": "tacos",
+      "amount": "1 package",
+      "notes": "hard shell or soft shell"
+    },
+    {
+      "name": "sliced radishes",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 pint",
+      "notes": "fresh and flavorful"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 head",
+      "notes": "crisp and cold"
+    },
+    {
+      "name": "diced onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken with salt and pepper. In a shallow dish, mix together glaze and lacquer.",
+    "Coat each chicken breast with the lacquer mixture, pressing gently to adhere.",
+    "Place coated chicken on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until cooked through. Let rest for 5 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing a cooked chicken breast on a tortilla, followed by radishes, tomatoes, lettuce, and onions.",
+    "Serve immediately, with sour cream on the side (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glazed-tacos",
+    "lacquer-crusted-chicken",
+    "mexican-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacquer-glazed-mexican-morbier-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:46:59.846Z"
+}
