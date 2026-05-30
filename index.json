@@ -2006,16 +2006,14 @@
   },
   {
     "slug": "lean-dutch-chicken-roast",
-    "title": "Lean Dutch Chicken Roast",
+    "title": "Roast Chicken with Dutch Potatoes",
     "tags": [
-      "lean",
-      "dutch-roast",
-      "low-carb",
-      "diabetic-friendly",
-      "post-workout"
+      "chicken",
+      "potatoes",
+      "roast"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 75,
+    "cuisine": "European",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -6584,17 +6582,16 @@
   },
   {
     "slug": "light-saudi-arabian-pineapple-pasta",
-    "title": "Light Saudi Arabian Pineapple Pasta",
+    "title": "Saudi Arabian Pineapple Pasta",
     "tags": [
-      "low-sodium",
-      "pineapple-juice",
-      "romantic-dinner",
-      "saudi-arabian",
-      "spring-pasta",
-      "talavera-plate"
+      "arabian",
+      "pineapple",
+      "pasta",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 22,
+    "cuisine": "arabian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -11901,18 +11898,16 @@
   },
   {
     "slug": "lively-briny-mexican-pumpkin-tacos",
-    "title": "Lively Briny Mexican Pumpkin Tacos",
+    "title": "Pumpkin Tacos with Lively Slaw",
     "tags": [
-      "fall-recipe",
-      "gluten-free",
-      "high-protein",
-      "mexican-cuisine",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "tacos",
+      "pumpkin",
+      "mexican",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -12277,17 +12272,16 @@
   },
   {
     "slug": "lively-light-polish-cabbage-salad",
-    "title": "Lively Light Polish Cabbage Salad",
+    "title": "Polish Cabbage and Salad",
     "tags": [
-      "light",
-      "pescatarian",
       "polish",
-      "quick",
+      "cabbage",
       "salad",
-      "spicy"
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 15,
+    "cuisine": "polish",
+    "totalTimeMin": 17,
     "shard": "l"
   },
   {
