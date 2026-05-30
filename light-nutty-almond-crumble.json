@@ -1,0 +1,90 @@
+{
+  "slug": "light-nutty-almond-crumble",
+  "title": "Almond Crumble Cake",
+  "description": "A moist almond cake topped with a crunchy crumble made with almonds and a hint of nutty flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crumble ingredients",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a 9-inch (23cm) round cake pan.",
+    "In a large bowl, whisk together almond flour, granulated sugar, and baking powder.",
+    "In a separate bowl, whisk together eggs, melted butter, and light brown sugar.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean.",
+    "While the cake is baking, prepare the crumble topping by mixing together almonds, all-purpose flour, and a pinch of salt.",
+    "Remove the cake from the oven and let it cool for 5 minutes.",
+    "Top the cake with the crumble topping and return to the oven for an additional 5-7 minutes, or until the topping is golden brown.",
+    "Remove the cake from the oven and let it cool completely on a wire rack before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "cake",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-nutty-almond-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:49:52.178Z"
+}
