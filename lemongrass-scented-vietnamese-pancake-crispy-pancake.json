@@ -1,0 +1,95 @@
+{
+  "slug": "lemongrass-scented-vietnamese-pancake-crispy-pancake",
+  "title": "Crispy Vietnamese Pancake Bites",
+  "description": "A crispy and flavorful twist on traditional Vietnamese pancakes, perfect for snacking.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "scalded coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "crispy pancake mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined (optional)"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, mix together flour, crispy pancake mix, sugar, salt, and baking powder.",
+    "Add scalded coconut milk and mix until a smooth batter forms.",
+    "Add chopped lemongrass and mix well.",
+    "If using shrimp, fold them into the batter.",
+    "Using a spoon, drop small balls of the batter into the hot oil.",
+    "Fry the pancake bites until crispy and golden brown, about 2-3 minutes per side.",
+    "Drain the pancake bites on paper towels.",
+    "Serve hot with green onion and fish sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "snack",
+    "breakfast",
+    "coconut",
+    "lemongrass"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemongrass-scented-vietnamese-pancake-crispy-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:58:03.275Z"
+}
