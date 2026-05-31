@@ -4271,17 +4271,15 @@
   },
   {
     "slug": "light-fluffy-brazilian-pumpkin-empanadas",
-    "title": "Light Fluffy Brazilian Pumpkin Empanadas",
+    "title": "Brazilian Pumpkin Empanadas",
     "tags": [
-      "brazilian-food",
+      "brazilian",
+      "pumpkin",
       "empanadas",
-      "kid-friendly",
-      "laminated-pastry",
-      "pumpkin-recipe",
-      "snack-time"
+      "dessert"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -7160,17 +7158,14 @@
   },
   {
     "slug": "light-syrian-dum-bouncy-qq",
-    "title": "Light Syrian Dum Bouncy-Qq",
+    "title": "Bouncy Dum Delight",
     "tags": [
-      "ayurvedic",
-      "cuisine",
-      "light",
-      "peppery",
-      "syrian",
-      "weeknight"
+      "asian-fusion",
+      "easy-to-make",
+      "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -13553,18 +13548,14 @@
   },
   {
     "slug": "lovely-garlicky-spanish-cabbage-stew",
-    "title": "Lovely Garlicky Spanish Cabbage Stew",
+    "title": "Spanish Stew",
     "tags": [
-      "cabbage",
-      "dehydrated",
-      "garlic",
-      "one-pot",
       "spanish",
-      "tamasic-friendly",
+      "stew",
       "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
