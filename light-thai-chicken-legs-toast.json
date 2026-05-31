@@ -1,0 +1,72 @@
+{
+  "slug": "light-thai-chicken-legs-toast",
+  "title": "Thai Chicken Toast",
+  "description": "A simple recipe for a delicious Thai-inspired chicken toast. The combination of crispy chicken and flavorful sauce on top of toasted bread is a perfect snack.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken legs",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the chicken into bite-sized pieces and season with salt and pepper.",
+    "Heat 1 tablespoon of oil in a skillet over medium-high heat. Cook the chicken until browned and cooked through, about 5-7 minutes.",
+    "In a small bowl, whisk together soy sauce, fish sauce, lime juice, brown sugar, and garlic.",
+    "Brush the toasted bread with the sauce mixture and top with the cooked chicken.",
+    "Place the bread under the broiler for 1-2 minutes, or until the top is toasted and crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "thai",
+    "snack",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-thai-chicken-legs-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:39:41.160Z"
+}
