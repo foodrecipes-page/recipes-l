@@ -1,0 +1,94 @@
+{
+  "slug": "luxurious-earthy-spanish-shrimp-gambas-al-ajillo--mexican",
+  "title": "Shrimp Fajitas al Ajillo",
+  "description": "A spicy and flavorful Mexican dish featuring succulent shrimp cooked in a garlic butter sauce, served with sautéed onions and bell peppers.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp (gambas)",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 large",
+      "notes": "any color, thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the sliced onions and bell peppers, and cook until they start to soften, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the shrimp to the skillet, and cook until they start to turn pink, about 2-3 minutes.",
+    "Add the smoked paprika, cumin, chili powder, and salt to the skillet, and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the shrimp are fully cooked and the sauce has thickened.",
+    "Serve the shrimp and vegetables hot, garnished with chopped fresh cilantro if desired.",
+    "Serve with warm flour or corn tortillas, and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "shrimp",
+    "fajitas",
+    "garlic",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-earthy-spanish-shrimp-gambas-al-ajillo--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:59:06.457Z"
+}
