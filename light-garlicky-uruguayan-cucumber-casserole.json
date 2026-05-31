@@ -1,0 +1,83 @@
+{
+  "slug": "light-garlicky-uruguayan-cucumber-casserole",
+  "title": "Uruguayan-Style Grilled Chorizo Casserole",
+  "description": "A South American-inspired casserole featuring chorizo, cucumber, and a hint of garlic. Perfect for a quick and flavorful dinner.",
+  "cuisine": "South American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan chorizo",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch slices"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "2 medium",
+      "notes": "Sliced into 1/4-inch thick rounds"
+    },
+    {
+      "name": "Light casserole",
+      "amount": "1 (10.5 oz) box",
+      "notes": "Do not prepare according to box instructions"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing chorizo"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chorizo slices with salt and pepper.",
+    "Brush chorizo slices with olive oil.",
+    "Grill chorizo for 2-3 minutes per side, or until slightly charred.",
+    "In a separate pan, heat 1 tablespoon of olive oil over medium heat.",
+    "Add minced garlic and cook for 1-2 minutes, or until fragrant.",
+    "Add sliced cucumber to the pan and cook for 2-3 minutes, or until slightly tender.",
+    "In a large bowl, combine cooked chorizo, cucumber mixture, and light casserole.",
+    "Mix well to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake at 375°F for 15-20 minutes, or until the casserole is hot and bubbly.",
+    "Serve hot, garnished with additional sliced cucumber if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chorizo",
+    "casserole",
+    "grilled",
+    "south-american",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-garlicky-uruguayan-cucumber-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:03:08.261Z"
+}
