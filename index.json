@@ -435,18 +435,16 @@
   },
   {
     "slug": "laudable-uruguayan-chivito-empanadas",
-    "title": "Laudable Uruguayan Chivito Empanadas",
+    "title": "Uruguayan Chivito Empanadas",
     "tags": [
-      "chicken",
-      "fancy",
-      "high-protein",
-      "latin-american",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "uruguayan",
+      "chivito",
+      "empanadas",
+      "beef",
+      "pork"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 38,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -8050,17 +8048,15 @@
   },
   {
     "slug": "lightly-browned-mediterranean-beef-kidney-skewers",
-    "title": "Lightly Browned Mediterranean Beef Kidney Skewers",
+    "title": "Beef Skewers with Mediterranean Flair",
     "tags": [
-      "gluten-free",
-      "high-protein",
+      "beef",
       "mediterranean",
-      "one-pot",
-      "satvik",
-      "weeknight"
+      "grill",
+      "skewers"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -14045,17 +14041,15 @@
   },
   {
     "slug": "lovely-molten-turkish-sausages-skillet",
-    "title": "Lovely Molten Turkish Sausages Skillet",
+    "title": "Lovely Sausage Skillet",
     "tags": [
-      "brunch-ideas",
-      "flambe-dishes",
-      "kosher-friendly",
-      "one-pan-meals",
-      "sausage-recipes",
-      "turkish-cuisine"
+      "sausages",
+      "skillet",
+      "breakfast",
+      "easy"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
