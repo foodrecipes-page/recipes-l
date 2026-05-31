@@ -1,0 +1,72 @@
+{
+  "slug": "light-saudi-arabian-pineapple-pasta--japanese",
+  "title": "Japanese-Style Pineapple Pasta",
+  "description": "A sweet and savory fusion of Japanese flavors with a tropical twist, featuring light and refreshing ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "arabian ghee",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook pasta al dente and set aside.",
+    "In a pan, heat Arabian ghee over medium heat.",
+    "Add grated ginger and sauté for 1 minute.",
+    "Add diced pineapple and cook for 2-3 minutes until it starts to caramelize.",
+    "Add cooked pasta to the pan and toss with soy sauce.",
+    "Top with chopped green onions and sesame seeds.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "pineapple",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-saudi-arabian-pineapple-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:11:58.435Z"
+}
