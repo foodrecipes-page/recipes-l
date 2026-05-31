@@ -2407,15 +2407,16 @@
   },
   {
     "slug": "lemony-crunchy-falafel-pita-wraps",
-    "title": "LemonyCrunchy Falafel Pita Wraps",
+    "title": "Lemony Falafel Wrap",
     "tags": [
-      "crunchy",
-      "falafel",
-      "middle-eastern",
-      "vegan"
+      "vegan",
+      "vegetarian",
+      "middle eastern",
+      "wrap",
+      "falafel"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 75,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
@@ -2532,18 +2533,16 @@
   },
   {
     "slug": "lentil-like-fermented-balls-middle-eastern-chickpea-falafel-cazuela",
-    "title": "Lentil-Like Fermented Balls Middle Eastern Chickpea Falafel Cazuela",
+    "title": "Hearty Lentil and Chickpea Cazuela",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "fermented",
-      "high-protein",
+      "lentil",
+      "chickpea",
       "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -4635,17 +4634,16 @@
   },
   {
     "slug": "light-garlicky-uruguayan-cucumber-casserole",
-    "title": "Light Garlicky Uruguayan Cucumber Casserole",
+    "title": "Uruguayan-Style Grilled Chorizo Casserole",
     "tags": [
+      "chorizo",
       "casserole",
-      "comfort-food",
-      "halal",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "grilled",
+      "south-american",
+      "dinner"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "cuisine": "South American",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
