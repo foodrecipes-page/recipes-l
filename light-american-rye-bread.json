@@ -1,0 +1,65 @@
+{
+  "slug": "light-american-rye-bread",
+  "title": "Classic Reuben Sandwich",
+  "description": "A hearty sandwich filled with corned beef, sauerkraut, Swiss cheese, and Thousand Island dressing, grilled to perfection on rye bread.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corned beef",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Swiss cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Thousand Island dressing",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rye bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Butter one side of each slice of rye bread.",
+    "Place two slices of bread, buttered side down, in the grill.",
+    "Top each slice with a slice of cheese, a few slices of corned beef, some sauerkraut, and a dollop of Thousand Island dressing.",
+    "Place the remaining two slices of bread, buttered side up, on top of the filling.",
+    "Grill for 2-3 minutes or until bread is golden brown and cheese is melted.",
+    "Flip the sandwiches over and grill for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "reuben",
+    "sandwich",
+    "grilled",
+    "corned-beef"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": "40g",
+    "carbs": "60g",
+    "fat": "40g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-american-rye-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:02:02.737Z"
+}
