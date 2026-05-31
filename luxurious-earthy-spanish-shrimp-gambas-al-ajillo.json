@@ -1,0 +1,89 @@
+{
+  "slug": "luxurious-earthy-spanish-shrimp-gambas-al-ajillo",
+  "title": "Shrimp and Garlic Paella",
+  "description": "A classic Spanish dish featuring succulent shrimp and a rich garlic flavor. This paella is a staple of Spanish cuisine, perfect for a special occasion.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Al",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "Ajillo",
+      "amount": "2 tablespoons",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan or skillet over medium-high heat.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the pan and set aside.",
+    "Add the garlic to the pan and cook until fragrant, about 1 minute.",
+    "Add the rice to the pan and cook for 1-2 minutes, until slightly toasted.",
+    "Add the broth, salt, black pepper, and red pepper to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the cooked shrimp back to the pan and stir to combine.",
+    "Continue to simmer for an additional 10-15 minutes, until the rice is tender and the liquid has been absorbed.",
+    "Remove the paella from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-earthy-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:44:07.230Z"
+}
