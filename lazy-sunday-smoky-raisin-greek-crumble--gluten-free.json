@@ -1,0 +1,77 @@
+{
+  "slug": "lazy-sunday-smoky-raisin-greek-crumble--gluten-free",
+  "title": "Greek Crumble Oatmeal for Sunday",
+  "description": "A delicious and healthy breakfast option for a lazy Sunday morning. This crumble oatmeal is made with gluten-free oatmeal and topped with a crunchy greek yogurt crumble.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gluten-free oatmeal",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lazy raisin",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sunday honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Smoky almonds",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Crumble brown sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Greek vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a pot, bring to a boil 1 cup of water and 1/2 cup of gluten-free oatmeal.",
+    "Reduce heat to low and simmer for 5 minutes or until the oatmeal has absorbed the water.",
+    "In a separate bowl, mix together greek yogurt, lazy raisin, and sunday honey.",
+    "In a separate pan, toast the smoky almonds until fragrant.",
+    "In a small bowl, mix together crumble brown sugar and greek vanilla extract.",
+    "Once the oatmeal is cooked, top it with the yogurt mixture, toasted almonds, and crumble topping.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "breakfast",
+    "oatmeal",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-smoky-raisin-greek-crumble--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:34:03.379Z"
+}
