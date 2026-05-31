@@ -1,0 +1,77 @@
+{
+  "slug": "lacto-sour-slovakian-sunflower-seeds-skillet",
+  "title": "Slovakian Skillet Pancakes",
+  "description": "Delicious Slovakian-style pancakes made with sunflower seeds and a hint of sour milk. Perfect for a weekend breakfast.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "lacto",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lacto milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "skillet",
+      "amount": null,
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sunflower seeds, and sugar.",
+    "In a separate bowl, whisk together lacto milk, sour milk, and eggs.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Heat a large skillet over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "Serve hot with melted butter and a sprinkle of sunflower seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "skillet",
+    "breakfast",
+    "pancakes",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacto-sour-slovakian-sunflower-seeds-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:03:08.931Z"
+}
