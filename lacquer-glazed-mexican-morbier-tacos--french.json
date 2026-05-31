@@ -1,0 +1,75 @@
+{
+  "slug": "lacquer-glazed-mexican-morbier-tacos--french",
+  "title": "Morbier and Carrot Tart",
+  "description": "A French dessert featuring a rich, creamy Morbier cheese filling and caramelized carrots, all topped with a flaky pastry crust.",
+  "cuisine": "French",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Make the pastry dough by combining flour, butter, and salt in a bowl. Roll out to a thickness of 1/8 inch.",
+    "Place the dough in a tart pan and trim the edges.",
+    "In a separate bowl, beat the eggs and sugar until light and fluffy.",
+    "Add the grated carrot, cinnamon, and Morbier cheese to the egg mixture and stir until combined.",
+    "Pour the filling into the pastry-lined tart pan.",
+    "Bake for 35-40 minutes or until the crust is golden and the filling is set.",
+    "Remove from oven and let cool on a wire rack for at least 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "morbier",
+    "carrot",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacquer-glazed-mexican-morbier-tacos--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:59:05.172Z"
+}
