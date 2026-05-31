@@ -1,0 +1,73 @@
+{
+  "slug": "lightly-browned-mediterranean-beef-kidney-skewers",
+  "title": "Beef Skewers with Mediterranean Flair",
+  "description": "A delicious and easy-to-make recipe featuring marinated beef skewers, inspired by the flavors of the Mediterranean. Serve with your favorite sides for a quick and satisfying meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef, cut into 1-inch cubes",
+      "amount": "1.5 pounds",
+      "notes": "Choose leaner cuts like sirloin or ribeye"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing the skewers"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "For added brightness"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Mediterranean seasoning blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, and Mediterranean seasoning blend.",
+    "Add the beef cubes to the marinade and mix well to coat.",
+    "Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef reaches an internal temperature of 145°F.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "mediterranean",
+    "grill",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-browned-mediterranean-beef-kidney-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:30:34.300Z"
+}
