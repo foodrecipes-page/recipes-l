@@ -1,0 +1,79 @@
+{
+  "slug": "lively-norwegian-pork-skillet--gluten-free",
+  "title": "Norwegian Pork Skillet",
+  "description": "A hearty and flavorful skillet dish inspired by Norwegian cuisine. This gluten-free meal is perfect for a quick dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "New potatoes",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Skillet oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the skillet oil and swirl to coat the pan.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the sliced onion and bell pepper to the pan and cook until the vegetables are tender, about 5 minutes.",
+    "Add the sliced potatoes to the pan and cook for 2-3 minutes.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Reduce heat to medium-low and simmer, covered, until the pork is cooked through and the potatoes are tender, about 15-20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "gluten-free",
+    "pork",
+    "skillet",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-norwegian-pork-skillet--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:31:35.258Z"
+}
