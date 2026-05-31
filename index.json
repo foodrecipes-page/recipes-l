@@ -20258,5 +20258,32 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 30,
     "shard": "l"
+  },
+  {
+    "slug": "light-crumbly-brazilian-cheese-frittata--indian",
+    "title": "Cheesy Frittata with Indian Spices",
+    "tags": [
+      "indian",
+      "breakfast",
+      "frittata",
+      "cheese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-earthy-spanish-shrimp-gambas-al-ajillo--mexican",
+    "title": "Shrimp Fajitas al Ajillo",
+    "tags": [
+      "mexican",
+      "shrimp",
+      "fajitas",
+      "garlic",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
