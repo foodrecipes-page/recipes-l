@@ -1,0 +1,69 @@
+{
+  "slug": "light-fluffy-brazilian-pumpkin-empanadas",
+  "title": "Brazilian Pumpkin Empanadas",
+  "description": "Crispy empanadas filled with a delicious pumpkin mixture, inspired by the flavors of Brazil. Perfect as a snack or dessert.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pumpkin puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light flaky pastry dough (for empanadas)",
+      "amount": "1 package"
+    },
+    {
+      "name": "Brazilian cheese (or mozzarella)",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the empanada dough to about 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together pumpkin puree, Brazilian cheese, brown sugar, cinnamon, and salt.",
+    "Place a spoonful of the pumpkin mixture in the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape, and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little bit of water, and sprinkle with additional cinnamon if desired.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the empanadas are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "pumpkin",
+    "empanadas",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fluffy-brazilian-pumpkin-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:03:31.043Z"
+}
