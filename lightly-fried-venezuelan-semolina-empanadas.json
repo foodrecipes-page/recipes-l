@@ -1,0 +1,75 @@
+{
+  "slug": "lightly-fried-venezuelan-semolina-empanadas",
+  "title": "Venezuelan Semolina Empanadas",
+  "description": "A traditional Venezuelan dish, these semolina empanadas make for a satisfying snack or light meal, perfect for any time of day.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "lightly fried onions",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "optional cheese filling",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    }
+  ],
+  "instructions": [
+    "Preheat a deep frying pan with oil over medium heat.",
+    "Combine semolina flour and salt in a large bowl.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and pliable.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Place a tablespoon of cheese filling in the center of each disk, if using.",
+    "Fold the dough over to form a half-circle shape and press edges together to seal.",
+    "Deep fry the empanadas in batches until golden brown.",
+    "Drain on paper towels and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "veggie",
+    " venezuelan cuisine",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-fried-venezuelan-semolina-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:16:55.997Z"
+}
