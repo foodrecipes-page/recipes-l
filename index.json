@@ -8175,17 +8175,15 @@
   },
   {
     "slug": "lightly-charred-brazilian-myeongnan-roe-skewers",
-    "title": "Lightly Charred Brazilian Myeongnan Roe Skewers",
+    "title": "Grilled Brazilian Skewers with Charred Myeongnan",
     "tags": [
-      "brazilian-cuisine",
-      "gluten-free",
-      "pescatarian",
-      "quick-fix",
-      "ramekin-recipe",
-      "seafood"
+      "grilled",
+      "skewers",
+      " brazilian",
+      "myeongnan"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 23,
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
@@ -20283,6 +20281,19 @@
       "spicy"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lemongrass-scented-vietnamese-pancake-crispy-pancake--chinese",
+    "title": "Crispy Vietnamese Pancake",
+    "tags": [
+      "vietnamese",
+      "chinese",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "l"
   }
