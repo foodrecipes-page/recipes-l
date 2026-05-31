@@ -1,0 +1,67 @@
+{
+  "slug": "lovely-garlicky-spanish-cabbage-stew",
+  "title": "Spanish Stew",
+  "description": "A hearty and flavorful stew made with cabbage, lovely stew, and spanish spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lovely stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head, shredded"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the shredded cabbage and cook for 5-7 minutes, until slightly tender.",
+    "Add the lovely stew, chicken broth, and tomato paste.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew rest for 10-15 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-garlicky-spanish-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:01:41.282Z"
+}
