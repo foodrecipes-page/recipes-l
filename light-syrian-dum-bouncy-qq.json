@@ -1,0 +1,64 @@
+{
+  "slug": "light-syrian-dum-bouncy-qq",
+  "title": "Bouncy Dum Delight",
+  "description": "A delightful and easy-to-make dish combining bouncy and dum ingredients. Syrian light adds a twist of flavor.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bouncy",
+      "amount": "250g",
+      "notes": "Diced"
+    },
+    {
+      "name": "Dum",
+      "amount": "200g",
+      "notes": "Diced"
+    },
+    {
+      "name": "Syrian Light",
+      "amount": "2 tbsp",
+      "notes": "Sesame oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat Syrian Light in a pan over medium-high heat.",
+    "Add Bouncy and Dum, stir-fry until lightly browned.",
+    "Season with Salt and Black Pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "asian-fusion",
+    "easy-to-make",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-syrian-dum-bouncy-qq",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:57:19.337Z"
+}
