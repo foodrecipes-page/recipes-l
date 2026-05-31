@@ -1,0 +1,76 @@
+{
+  "slug": "light-briny-australian-pecorino-bisque",
+  "title": "Australian-Style Pecorino Fritters",
+  "description": "A crispy, savory fritter filled with the tangy flavors of Australia, topped with a tangy pecorino and a hint of bisque.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian-Style Pecorino Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Light and Crispy Bisque Batter Mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Australian-Style Pecorino Cheese for topping",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light, Briny Fritter Breading",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil for frying",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the pecorino cheese, bisque batter mix, salt, and chives.",
+    "Stir in the light, briny fritter breading until just combined.",
+    "Using a spoon, drop small balls of the mixture into the hot oil.",
+    "Fry until golden brown and crispy, about 2-3 minutes.",
+    "Drain on paper towels and top with additional pecorino cheese.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "cheese",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-briny-australian-pecorino-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:05:11.436Z"
+}
