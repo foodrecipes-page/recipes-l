@@ -1,0 +1,70 @@
+{
+  "slug": "lively-sour-argentinian-jellyfish-isn-t-common-so-we-ll-use-jalapeno-quesadilla",
+  "title": "Jalapeno Quesadilla",
+  "description": "Crispy jalapeno quesadillas make a perfect snack or meal. The spicy kick from jalapeno pairs well with the savory flavor of common cheese.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "common cheese",
+      "amount": "4 ounces",
+      "notes": null
+    },
+    {
+      "name": "jalapeno",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "common flour tortilla",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "so",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "common olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Slice the jalapeno into thin strips.",
+    "In a bowl, mix the sliced jalapeno with the so.",
+    "Place a flour tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Add the jalapeno-so mixture on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for another 2-3 minutes or until the other side is also crispy.",
+    "Cut the quesadilla into wedges and serve hot.",
+    "Serve with your favorite dipping sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "cheese",
+    "julapeno"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-sour-argentinian-jellyfish-isn-t-common-so-we-ll-use-jalapeno-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:27:06.390Z"
+}
