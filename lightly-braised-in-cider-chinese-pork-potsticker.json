@@ -1,0 +1,92 @@
+{
+  "slug": "lightly-braised-in-cider-chinese-pork-potsticker",
+  "title": "Braised Pork Potstickers in Cider",
+  "description": "A twist on traditional potstickers, this recipe braises pork in a sweet and tangy cider sauce, served with pan-fried potstickers.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Lightly sweetened cider",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Braised onions",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": ".5 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Potstickers wrappers",
+      "amount": "20",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": ".25 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large Dutch oven, heat 1 tablespoon of vegetable oil over medium-high heat. Add the pork shoulder and cook until browned, about 5 minutes. Remove the pork from the pot and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the pot and cook the onions until caramelized, about 10 minutes.",
+    "Add the braised onions, five-spice powder, salt, and pepper to the pot. Stir to combine.",
+    "Add the cider to the pot and bring to a simmer.",
+    "Return the pork to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 hours, or until the pork is tender.",
+    "While the pork is braising, cook the potstickers according to package instructions.",
+    "To serve, place a few potstickers on each plate and spoon the braised pork and cider sauce over the top.",
+    "Garnish with chopped green onions and a drizzle of sesame oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "pork",
+    "potstickers",
+    "cider",
+    "chinese",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-braised-in-cider-chinese-pork-potsticker",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:27:57.026Z"
+}
