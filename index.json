@@ -20223,5 +20223,30 @@
     "cuisine": "American",
     "totalTimeMin": 15,
     "shard": "l"
+  },
+  {
+    "slug": "lacquer-glazed-mexican-morbier-tacos--thai",
+    "title": "Thai Lacquer Glazed Shrimp Tacos",
+    "tags": [
+      "thaifood",
+      "shrimptacos",
+      "mexicanfood"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lacquer-glazed-mexican-morbier-tacos--french",
+    "title": "Morbier and Carrot Tart",
+    "tags": [
+      "french",
+      "morbier",
+      "carrot",
+      "tart"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "l"
   }
 ]
