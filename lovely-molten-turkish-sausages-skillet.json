@@ -1,0 +1,75 @@
+{
+  "slug": "lovely-molten-turkish-sausages-skillet",
+  "title": "Lovely Sausage Skillet",
+  "description": "A simple and flavorful skillet dish made with lovely sausages, turkish sausage, and vegetables.",
+  "cuisine": "European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lovely Sausages",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Sausage",
+      "amount": "1/2 pound",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the olive oil and cook the chopped onion and bell pepper until tender.",
+    "Add the lovely sausages and turkish sausage to the skillet, cooking until browned.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausages",
+    "skillet",
+    "breakfast",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-molten-turkish-sausages-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:46:37.654Z"
+}
