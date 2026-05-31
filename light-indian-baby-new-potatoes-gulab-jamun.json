@@ -1,0 +1,88 @@
+{
+  "slug": "light-indian-baby-new-potatoes-gulab-jamun",
+  "title": "Baby Potatoes with Indian Spice",
+  "description": "A flavorful and spicy dish made with baby potatoes, perfect for a weeknight dinner. The combination of Indian spices and herbs adds a unique twist to this simple recipe.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby potatoes",
+      "amount": "4-6",
+      "notes": "any color"
+    },
+    {
+      "name": "light oil",
+      "amount": "2 tablespoons",
+      "notes": "such as canola or vegetable oil"
+    },
+    {
+      "name": "new potatoes",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "gulab",
+      "amount": "1 teaspoon",
+      "notes": "gulab powder"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a pan over medium heat.",
+    "2. Add cumin seeds and let them sizzle for a few seconds.",
+    "3. Add diced new potatoes and cook for 2-3 minutes.",
+    "4. Add baby potatoes, gulab powder, cumin powder, coriander powder, and turmeric powder. Mix well.",
+    "5. Add salt to taste and mix again.",
+    "6. Reduce heat to low and simmer for 10-12 minutes or until the potatoes are cooked through.",
+    "7. Garnish with chopped cilantro (if using).",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-indian-baby-new-potatoes-gulab-jamun",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:28:56.019Z"
+}
