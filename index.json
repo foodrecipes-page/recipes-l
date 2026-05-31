@@ -3371,17 +3371,15 @@
   },
   {
     "slug": "light-charred-filipino-rice-noodles-pancit-bihon",
-    "title": "Light Charred Filipino Rice Noodles Pancit Bihon",
+    "title": "Filipino-Style Charred Bihon Noodle Stir-Fry",
     "tags": [
-      "easy-meal-prep",
-      "filipino-food",
-      "gluten-free",
-      "one-pan",
-      "weeknight-meal",
-      "whole30-friendly"
+      "filipino",
+      "stir-fry",
+      "noodles",
+      "vegetarian"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "cuisine": "filipino",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -4887,17 +4885,14 @@
   },
   {
     "slug": "light-indian-baby-new-potatoes-gulab-jamun",
-    "title": "Light Indian Baby New Potatoes Gulab Jamun",
+    "title": "Baby Potatoes with Indian Spice",
     "tags": [
-      "herbal",
-      "indian-cuisine",
-      "quick-fix",
-      "snack",
-      "vegetarian",
-      "whole30-friendly"
+      "indian",
+      "spicy",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -12537,17 +12532,15 @@
   },
   {
     "slug": "lively-sour-argentinian-jellyfish-isn-t-common-so-we-ll-use-jalapeno-quesadilla",
-    "title": "Lively Sour Argentinian Jalapeno Quesadilla",
+    "title": "Jalapeno Quesadilla",
     "tags": [
-      "argentinian",
-      "fodmap-friendly",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "mexican",
+      "snack",
+      "cheese",
+      "julapeno"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 14,
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -20271,6 +20264,33 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-norwegian-pork-skillet--gluten-free",
+    "title": "Norwegian Pork Skillet",
+    "tags": [
+      "norwegian",
+      "gluten-free",
+      "pork",
+      "skillet",
+      "main-course"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-smoky-raisin-greek-crumble--gluten-free",
+    "title": "Greek Crumble Oatmeal for Sunday",
+    "tags": [
+      "gluten-free",
+      "breakfast",
+      "oatmeal",
+      "crumble"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "l"
   }
 ]
