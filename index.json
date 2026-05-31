@@ -9455,16 +9455,15 @@
   },
   {
     "slug": "lightly-indulgent-german-zucchini-tart",
-    "title": "Lightly Indulgent German Zucchini Tart",
+    "title": "Tart Zucchini Fritters with Lightly Sweetened German Sauce",
     "tags": [
-      "german-cuisine",
-      "low-fat",
-      "pastry-dough",
-      "scallop-shell",
-      "zucchini-recipes"
+      "german",
+      "indulgent",
+      "zucchini",
+      "tart"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 55,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -20240,6 +20239,33 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "light-saudi-arabian-pineapple-pasta--japanese",
+    "title": "Japanese-Style Pineapple Pasta",
+    "tags": [
+      "japanese",
+      "pineapple",
+      "pasta",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "light-herbal-roasted-mediterranean-courgettes-gratin--keto",
+    "title": "Gratin Courgettes with Mediterranean Flair",
+    "tags": [
+      "keto",
+      "vegetarian",
+      "mediterranean",
+      "gratin",
+      "courgettes"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "l"
   }
 ]
