@@ -5100,16 +5100,14 @@
   },
   {
     "slug": "light-jamaican-chicken-curry",
-    "title": "Light Jamaican Chicken Curry",
+    "title": "Jamaican Chicken Curry",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "curry-dishes",
-      "jamaican-cuisine",
-      "weeknight-meals"
+      "chicken",
+      "curry",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -7283,16 +7281,15 @@
   },
   {
     "slug": "light-thai-chicken-legs-toast",
-    "title": "Light Thai Chicken Legs Toast",
+    "title": "Thai Chicken Toast",
     "tags": [
-      "easy-to-make",
-      "fresh-herbs",
-      "light-meal",
-      "quick-dinner",
-      "thai-inspired"
+      "chicken",
+      "thai",
+      "snack",
+      "easy"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -12330,16 +12327,14 @@
   },
   {
     "slug": "lively-norwegian-pork-skillet",
-    "title": "Lively Norwegian Pork Skillet",
+    "title": "Norwegian Pork Skillet",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "high-protein",
-      "one-pan",
-      "quick",
-      "weeknight"
+      "norwegian",
+      "pork",
+      "skillet",
+      "dinner"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "Scandinavian",
     "totalTimeMin": 40,
     "shard": "l"
   },
