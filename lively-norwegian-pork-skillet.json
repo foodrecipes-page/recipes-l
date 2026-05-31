@@ -1,0 +1,85 @@
+{
+  "slug": "lively-norwegian-pork-skillet",
+  "title": "Norwegian Pork Skillet",
+  "description": "A hearty and flavorful skillet dish featuring Norwegian pork, served with lively vegetables.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian pork shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Lively potatoes, peeled and chopped",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the pork with salt and pepper.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Sear the pork for 2-3 minutes on each side, or until browned.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook for 3-4 minutes, or until softened.",
+    "Add the sliced carrots to the skillet and cook for an additional 4 minutes.",
+    "Add the chopped potatoes to the skillet and cook for 5 minutes, or until they begin to tenderize.",
+    "Return the pork to the skillet and stir to combine with the vegetables.",
+    "Cook for an additional 5 minutes, or until the pork is cooked through.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "pork",
+    "skillet",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-norwegian-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:46:24.994Z"
+}
