@@ -1,0 +1,82 @@
+{
+  "slug": "light-charred-filipino-rice-noodles-pancit-bihon",
+  "title": "Filipino-Style Charred Bihon Noodle Stir-Fry",
+  "description": "A flavorful stir-fry dish made with charred bihon noodles, a variety of vegetables, and a hint of Filipino spices.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "charred bihon noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and onion, and stir-fry until the onion is translucent.",
+    "Add the bell pepper and mushrooms, and stir-fry for 2-3 minutes.",
+    "Add the charred bihon noodles, light soy sauce, salt, and pepper. Stir-fry for 2-3 minutes.",
+    "Add the green onions and stir-fry for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "stir-fry",
+    "noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-charred-filipino-rice-noodles-pancit-bihon",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:17:08.608Z"
+}
