@@ -1625,15 +1625,15 @@
   },
   {
     "slug": "lazy-sunday-smoky-raisin-greek-crumble",
-    "title": "Lazy-Sunday Smoky Raisin Greek Crumble",
+    "title": "Greek Crumble Oatmeal",
     "tags": [
-      "lazy-sunday",
-      "smoky",
-      "fluffy",
-      "diabetic-friendly"
+      "breakfast",
+      "oatmeal",
+      "crumble",
+      "greek"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -2664,18 +2664,15 @@
   },
   {
     "slug": "light-american-rye-bread",
-    "title": "Light American Rye Bread",
+    "title": "Classic Reuben Sandwich",
     "tags": [
-      "american",
-      "rye",
-      "fermented",
-      "light",
-      "vegetarian",
-      "bread",
-      "snack"
+      "reuben",
+      "sandwich",
+      "grilled",
+      "corned-beef"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 16,
     "shard": "l"
   },
   {
@@ -3758,17 +3755,16 @@
   },
   {
     "slug": "light-crumbly-brazilian-cheese-frittata",
-    "title": "Light Crumbly Brazilian Cheese Frittata",
+    "title": "Brazilian Cheese Frittata",
     "tags": [
-      "brazilian",
+      "breakfast",
       "brunch",
-      "cheesy",
-      "easy-to-make",
-      "gluten-free",
-      "low-fat"
+      "brazilian",
+      "cheese",
+      "frittata"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -7945,17 +7941,17 @@
   },
   {
     "slug": "lightly-braised-in-cider-chinese-pork-potsticker",
-    "title": "Cider Braised Chinese Pork Potstickers",
+    "title": "Braised Pork Potstickers in Cider",
     "tags": [
       "braised",
-      "chinese",
-      "cider",
-      "one-pan",
+      "pork",
       "potstickers",
-      "weeknight"
+      "cider",
+      "chinese",
+      "homemade"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 135,
     "shard": "l"
   },
   {
@@ -19627,17 +19623,14 @@
   },
   {
     "slug": "luxurious-earthy-spanish-shrimp-gambas-al-ajillo",
-    "title": "Luxurious Earthy Spanish Shrimp Gambas Al Ajillo",
+    "title": "Shrimp and Garlic Paella",
     "tags": [
-      "banana-leaf",
-      "high-protein",
-      "low-glycemic",
-      "post-workout",
+      "spanish",
       "seafood",
-      "spanish-cuisine"
+      "paella"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
