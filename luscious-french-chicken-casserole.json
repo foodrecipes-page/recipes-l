@@ -1,0 +1,87 @@
+{
+  "slug": "luscious-french-chicken-casserole",
+  "title": "Luscious Chicken Casserole",
+  "description": "A classic comfort dish made with tender chicken, creamy sauce, and a crunchy topping.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "luscious sauce mix",
+      "amount": "1 packet",
+      "notes": null
+    },
+    {
+      "name": "french bread",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "casserole dish",
+      "amount": "1",
+      "notes": "9x13 inch"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the chicken breast in a skillet over medium-high heat until browned and cooked through, about 5-6 minutes per side.",
+    "Set the chicken aside and let it rest for a few minutes before slicing into thin strips.",
+    "In a separate skillet, melt 1 tablespoon of butter over medium heat. Add the french bread and toast until lightly browned, about 2-3 minutes.",
+    "In a large mixing bowl, combine the sliced chicken, toasted bread, and luscious sauce mix. Stir until everything is well coated.",
+    "Transfer the mixture to a 9x13 inch casserole dish and top with shredded cheese.",
+    "Dot the top of the casserole with the remaining 1 tablespoon of butter.",
+    "Bake the casserole in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and sprinkle with chopped parsley, if desired. Serve hot and enjoy!",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-french-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:03:44.322Z"
+}
