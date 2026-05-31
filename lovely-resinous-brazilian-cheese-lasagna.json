@@ -1,0 +1,82 @@
+{
+  "slug": "lovely-resinous-brazilian-cheese-lasagna",
+  "title": "Brazilian Lasagna",
+  "description": "A twist on the classic Italian dish, this Brazilian-inspired lasagna combines rich cheese and flavorful meat.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Brazilian lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Lovely, resinous, and sharp cheese blend",
+      "amount": "2 cups",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Resinous cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or regular"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Brazilian lasagna noodles according to package instructions.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the lovely, resinous, and sharp cheese blend and cook until melted.",
+    "Spread a layer of the meat sauce in the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the meat sauce.",
+    "Spread half of the remaining meat sauce over the noodles.",
+    "Sprinkle with half of the shredded resinous cheese.",
+    "Repeat the layers, ending with the shredded resinous cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "lasagna",
+    "cheese",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-resinous-brazilian-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:50:17.376Z"
+}
