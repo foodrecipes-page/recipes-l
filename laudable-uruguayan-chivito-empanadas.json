@@ -1,0 +1,104 @@
+{
+  "slug": "laudable-uruguayan-chivito-empanadas",
+  "title": "Uruguayan Chivito Empanadas",
+  "description": "A twist on traditional empanadas, these Uruguayan-style ones are filled with the savory flavors of a chivito sandwich.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh oregano",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "La Ventana Uruguayan Chivito Empanada Dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Salsa Criolla",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan Chivito seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion, parsley, oregano, chivito seasoning, salt, and pepper to the skillet and cook until the onion is softened.",
+    "Stir in the beef broth and bring the mixture to a simmer.",
+    "Reduce heat to low and let the mixture cook for 5 minutes, stirring occasionally.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle.",
+    "Fold the dough over the filling, pressing the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water and sprinkle with shredded cheese.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 15-20 minutes, or until golden brown.",
+    "Serve the empanadas hot with a side of Salsa Criolla for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "chivito",
+    "empanadas",
+    "beef",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/laudable-uruguayan-chivito-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:53:11.398Z"
+}
