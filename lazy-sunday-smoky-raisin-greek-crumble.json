@@ -1,0 +1,74 @@
+{
+  "slug": "lazy-sunday-smoky-raisin-greek-crumble",
+  "title": "Greek Crumble Oatmeal",
+  "description": "A delicious, easy-to-make oatmeal with a crunchy crumble topping.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Raisin Oatmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lazy Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sunday Morning Nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoky Banana",
+      "amount": "1 ripe"
+    },
+    {
+      "name": "Greek Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a pot, bring 2 cups of water to a boil.",
+    "2. Add 1 cup of raisin oatmeal and reduce heat.",
+    "3. Simmer for 5 minutes or until the oats are cooked.",
+    "4. Stir in 1/2 cup of Greek yogurt, 2 tbsp of lazy honey, and 1 tsp of Greek cinnamon.",
+    "5. Top with 1/4 cup of crumble topping and 1/4 cup of Sunday morning nuts.",
+    "6. Bake in a preheated oven at 375°F for 10-12 minutes or until golden brown.",
+    "7. Serve warm with a sliced smoky banana."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "crumble",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-smoky-raisin-greek-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:35:20.296Z"
+}
