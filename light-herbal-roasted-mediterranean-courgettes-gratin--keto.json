@@ -1,0 +1,65 @@
+{
+  "slug": "light-herbal-roasted-mediterranean-courgettes-gratin--keto",
+  "title": "Gratin Courgettes with Mediterranean Flair",
+  "description": "A delicious and flavorful keto side dish made with courgettes, roasted garlic, and a hint of Mediterranean herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the courgettes into 1/4-inch thick rounds.",
+    "In a large skillet, heat the light olive oil over medium heat.",
+    "Add the sliced courgettes and cook for 5 minutes, or until they start to soften.",
+    "Add the roasted garlic and Mediterranean seasoning to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the courgettes are tender and lightly browned.",
+    "Remove the skillet from the oven and top the courgettes with grated Parmesan cheese.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve the gratin courgettes hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "vegetarian",
+    "mediterranean",
+    "gratin",
+    "courgettes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-herbal-roasted-mediterranean-courgettes-gratin--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:12:13.020Z"
+}
