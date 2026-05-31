@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-charred-brazilian-myeongnan-roe-skewers",
+  "title": "Grilled Brazilian Skewers with Charred Myeongnan",
+  "description": "A fusion of flavors with the bold taste of Brazilian spices and the delicate sweetness of charred Myeongnan. Serve with a side of lightly charred vegetables.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian Skewers",
+      "amount": "4",
+      "notes": "made with marinated tofu and vegetables"
+    },
+    {
+      "name": "Myeongnan",
+      "amount": "1/2 cup",
+      "notes": "lightly charred"
+    },
+    {
+      "name": "Lightly Charred Vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers and onions"
+    },
+    {
+      "name": "Roe",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Brazilian Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "make your own with chili powder, cumin, and smoked paprika"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Brazilian Spice Blend and lime juice to make the marinade.",
+    "Brush the skewers with olive oil and coat with the marinade.",
+    "Let the skewers marinate for at least 30 minutes.",
+    "Thread the Myeongnan and lightly charred vegetables onto the skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Brush the skewers with olive oil and grill for an additional 2-3 minutes.",
+    "Garnish with roe and serve immediately.",
+    "Serve with a side of lightly charred vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    " brazilian",
+    "myeongnan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-charred-brazilian-myeongnan-roe-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:47:23.386Z"
+}
