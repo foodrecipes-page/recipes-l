@@ -1,0 +1,83 @@
+{
+  "slug": "lively-indian-mussels-gulab-jamun",
+  "title": "Mussels in Indian Spice",
+  "description": "A flavorful and aromatic dish that combines the sweetness of mussels with the warmth of Indian spices. This recipe is a great option for a quick and easy dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "gulab",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the cumin, coriander, and cayenne pepper (if using) and cook for 1 minute.",
+    "Add the mussels and cook for 2-3 minutes, until they start to open.",
+    "Add the lemon juice and garam masala (if using) and stir to combine.",
+    "Cover the saucepan and cook for 5-7 minutes, until the mussels are cooked through and the sauce has thickened.",
+    "Serve the mussels hot, garnished with fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "mussels",
+    "seafood",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-indian-mussels-gulab-jamun",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:02:16.737Z"
+}
