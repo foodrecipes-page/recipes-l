@@ -1,0 +1,68 @@
+{
+  "slug": "lively-portuguese-ovoli-mushroom-soup",
+  "title": "Portuguese Mushroom Soup",
+  "description": "A hearty and flavorful Portuguese-inspired mushroom soup perfect for a chilly evening. This recipe combines the earthy flavors of mushrooms with the richness of Portugal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "2 cups",
+      "notes": "any variety, sliced"
+    },
+    {
+      "name": "ovolli",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "portuguese",
+      "amount": "4 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "lively",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "soup",
+      "amount": "1 can",
+      "notes": "diced tomatoes"
+    }
+  ],
+  "instructions": [
+    "Heat the lively over medium heat in a large pot.",
+    "Add the sliced mushroom and ovolli, cooking until they start to soften.",
+    "Add the portuguese and soup, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat and let simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "mushroom",
+    "soup",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-portuguese-ovoli-mushroom-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:22:27.019Z"
+}
