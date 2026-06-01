@@ -1,0 +1,82 @@
+{
+  "slug": "light-smoky-shrimp-stir-fry",
+  "title": "Smoky Shrimp Stir Fry",
+  "description": "A quick and flavorful stir fry recipe with succulent shrimp, crispy vegetables, and a smoky kick.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "light oil",
+      "amount": "2 tablespoons",
+      "notes": "such as vegetable or peanut oil"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "such as broccoli, bell peppers, and carrots"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of light oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the stir-fry vegetables and cook for 3-4 minutes, until tender.",
+    "Add the shrimp and cook for 2-3 minutes, until pink and cooked through.",
+    "Add the smoked paprika and stir-fry for 1 minute.",
+    "Stir in the soy sauce and season with salt and pepper to taste.",
+    "Serve immediately and enjoy!",
+    "Optional: Garnish with sesame seeds, green onions, or sliced scallions for added flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "shrimp",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-smoky-shrimp-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:38:37.462Z"
+}
