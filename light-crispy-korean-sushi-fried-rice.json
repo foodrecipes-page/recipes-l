@@ -1,0 +1,80 @@
+{
+  "slug": "light-crispy-korean-sushi-fried-rice",
+  "title": "Crispy Korean Fried Rice",
+  "description": "A spicy and savory dish combining the crunch of fried rice with the flavors of Korean cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Light Rice",
+      "amount": "2 cups",
+      "notes": "preferably leftover"
+    },
+    {
+      "name": "Crispy Kernels",
+      "amount": "1/4 cup",
+      "notes": "crushed potato chips"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sushi Vinegar",
+      "amount": "2 tbsp",
+      "notes": "diluted with water"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium heat.",
+    "Add Korean chili flakes and cook for 1 minute.",
+    "Add light rice and stir-fry for 2-3 minutes.",
+    "Add crispy kernels, fried shallots, and soy sauce. Stir-fry for another 2-3 minutes.",
+    "Season with sushi vinegar.",
+    "Transfer to a serving platter and garnish with green onions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fried-rice",
+    "lunch",
+    "easy-meals"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-crispy-korean-sushi-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:30:44.861Z"
+}
