@@ -1,0 +1,64 @@
+{
+  "slug": "lively-portuguese-ovoli-mushroom-soup--vegan",
+  "title": "Hearty Mushroom Soup",
+  "description": "A comforting and flavorful vegan soup made with sautéed mushrooms and a blend of spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "2 cups mixed mushrooms, sliced"
+    },
+    {
+      "name": "Ovoli",
+      "amount": "1 medium ovoli, diced"
+    },
+    {
+      "name": "Soup",
+      "amount": "2 cups vegetable broth"
+    },
+    {
+      "name": "Lively",
+      "amount": "1 tsp lively spice blend"
+    },
+    {
+      "name": "Portuguese",
+      "amount": "1 tsp smoked paprika"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a large pot over medium heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the diced ovoli and cook for another 2-3 minutes.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Reduce heat to low and let the soup simmer for 15-20 minutes.",
+    "Stir in the lively spice blend and smoked paprika. Season with salt and pepper to taste.",
+    "Use an immersion blender to puree the soup until smooth, or let it cool and puree it in a blender.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom",
+    "soup",
+    "vegan",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-portuguese-ovoli-mushroom-soup--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:33:32.489Z"
+}
