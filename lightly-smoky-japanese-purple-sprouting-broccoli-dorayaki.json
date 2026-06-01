@@ -1,0 +1,74 @@
+{
+  "slug": "lightly-smoky-japanese-purple-sprouting-broccoli-dorayaki",
+  "title": "Smoky Grilled Broccoli with Dorayaki Crumbs",
+  "description": "A simple and flavorful side dish or light snack, featuring smoky grilled broccoli and crunchy dorayaki crumbs.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 large bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "dorayaki",
+      "amount": "4-6 cakes",
+      "notes": "crushed into crumbs"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Toss broccoli florets with light soy sauce, honey, and sesame oil in a bowl.",
+    "Transfer broccoli to a grill basket or foil and grill for 3-4 minutes per side, or until tender.",
+    "In a pan, toast dorayaki crumbs over medium heat for 2-3 minutes, stirring frequently.",
+    "Season with black pepper to taste.",
+    "Serve grilled broccoli topped with toasted dorayaki crumbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "broccoli",
+    "dorayaki",
+    "japanese",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-japanese-purple-sprouting-broccoli-dorayaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:10:16.819Z"
+}
