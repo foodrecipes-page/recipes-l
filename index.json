@@ -2030,15 +2030,15 @@
   },
   {
     "slug": "leek-fold-light-breeze",
-    "title": "Leek Fold Light Breeze",
+    "title": "Leek and Breeze Fritters",
     "tags": [
       "leek",
-      "light",
-      "turkish",
-      "low-carb"
+      "breeze",
+      "fritters",
+      "snack"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -8598,18 +8598,14 @@
   },
   {
     "slug": "lightly-cured-japanese-baby-new-potatoes-gratin",
-    "title": "Lightly Cured Japanese Baby New Potatoes Gratin",
+    "title": "New Potatoes Gratin",
     "tags": [
-      "comfort-food",
-      "japanese-inspired",
-      "mediterranean-friendly",
-      "one-pan",
-      "potato-dish",
-      "vegetarian-option",
-      "weeknight-meal"
+      "sidedish",
+      "potatoes",
+      "gratin"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 75,
+    "cuisine": "French",
+    "totalTimeMin": 65,
     "shard": "l"
   },
   {
@@ -9144,18 +9140,15 @@
   },
   {
     "slug": "lightly-garlicky-portuguese-lamb-skewers",
-    "title": "Lightly Garlicky Portuguese Lamb Skewers",
+    "title": "Garlicky Portuguese Lamb Skewers",
     "tags": [
-      "garlicky",
-      "grilled",
       "lamb",
       "portuguese",
-      "rosemary",
-      "skewers",
+      "grill",
       "summer"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 38,
     "shard": "l"
   },
   {
