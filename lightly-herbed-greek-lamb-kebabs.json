@@ -1,0 +1,82 @@
+{
+  "slug": "lightly-herbed-greek-lamb-kebabs",
+  "title": "Herbed Greek Lamb Kebabs",
+  "description": "Delicious lamb kebabs marinated in a blend of herbs and spices, perfect for a summer evening. This recipe is a classic Greek dish with a flavorful twist.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": " shoulder or leg, cut into 1-inch cubes"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together yogurt, olive oil, parsley, oregano, garlic, salt, and pepper.",
+    "Add lamb cubes to the marinade and mix well to coat.",
+    "Thread lamb onto skewers, leaving a small space between each cube.",
+    "Brush kebabs with olive oil and season with salt and pepper.",
+    "Grill kebabs for 8-10 minutes per side, or until cooked to your liking.",
+    "Let kebabs rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "kebabs",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 33,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-herbed-greek-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:23:42.421Z"
+}
