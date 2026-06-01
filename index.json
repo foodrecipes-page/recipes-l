@@ -6921,14 +6921,14 @@
   },
   {
     "slug": "light-smoky-shrimp-stir-fry",
-    "title": "Light Smoky Shrimp Stir-fry",
+    "title": "Smoky Shrimp Stir Fry",
     "tags": [
-      "light-smoky-shrimp-stir-fry",
-      "jumbo-shrimp",
-      "mediterranean-friendly"
+      "smoky",
+      "shrimp",
+      "stir-fry"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -9381,16 +9381,15 @@
   },
   {
     "slug": "lightly-herbed-greek-lamb-kebabs",
-    "title": "Lightly Herbed Greek Lamb Kebabs",
+    "title": "Herbed Greek Lamb Kebabs",
     "tags": [
-      "easy-entertaining",
-      "greek-food",
-      "grilled-meats",
-      "healthy-dinner",
-      "weeknight"
+      "greek",
+      "lamb",
+      "kebabs",
+      "grill"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 36,
     "shard": "l"
   },
   {
@@ -15333,14 +15332,12 @@
   },
   {
     "slug": "low-glycemic-french-choux-gougere",
-    "title": "Low-Glycemic French Choux Gougere",
+    "title": "Low Glycemic French Choux Gougere",
     "tags": [
-      "breakfast",
-      "easy-to-make",
-      "french-patisserie",
-      "gourmet",
       "low-glycemic",
-      "snack"
+      "french",
+      "choux",
+      "gougere"
     ],
     "cuisine": "French",
     "totalTimeMin": 40,
@@ -19848,16 +19845,15 @@
   },
   {
     "slug": "luxurious-sweet-vietnamese-beef-bo-kho",
-    "title": "Luxurious Sweet Vietnamese Beef Bo Kho",
+    "title": "Vietnamese Beef Noodle Soup",
     "tags": [
-      "beef-recipes",
-      "comfort-food",
-      "one-pot-meals",
-      "slow-cooker",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "beef",
+      "soup",
+      "noodle"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 170,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -20287,6 +20283,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-portuguese-ovoli-mushroom-soup--vegan",
+    "title": "Hearty Mushroom Soup",
+    "tags": [
+      "mushroom",
+      "soup",
+      "vegan",
+      "portuguese"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
     "shard": "l"
   }
 ]
