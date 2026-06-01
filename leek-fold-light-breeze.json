@@ -1,0 +1,58 @@
+{
+  "slug": "leek-fold-light-breeze",
+  "title": "Leek and Breeze Fritters",
+  "description": "A crispy fritter filled with leek and breeze, perfect for a light snack.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "leek",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "breeze",
+      "amount": "1 cup",
+      "notes": "Freshly chopped breeze"
+    },
+    {
+      "name": "light",
+      "amount": "1/4 cup",
+      "notes": "All-purpose light flour"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Slice the leek into thin rounds and chop the breeze.",
+    "3. In a bowl, mix together the leek, breeze, and light.",
+    "4. Add a pinch of salt and pepper to taste.",
+    "5. Using a spoon, drop the mixture onto a baking sheet.",
+    "6. Drizzle with a little bit of oil.",
+    "7. Bake for 15-20 minutes or until crispy.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "leek",
+    "breeze",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/leek-fold-light-breeze",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:00:21.310Z"
+}
