@@ -1,0 +1,67 @@
+{
+  "slug": "lightly-garlicky-portuguese-lamb-skewers",
+  "title": "Garlicky Portuguese Lamb Skewers",
+  "description": "Tender lamb skewers infused with the flavors of garlic and the spices of Portugal. Perfect for a quick and easy summer meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Portuguese seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": ""
+    },
+    {
+      "name": "Lightly salted water",
+      "amount": "for soaking skewers"
+    }
+  ],
+  "instructions": [
+    "Soak 4-6 wooden skewers in lightly salted water for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together garlic, Portuguese seasoning, and olive oil.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto the skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "portuguese",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-garlicky-portuguese-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:07:38.223Z"
+}
