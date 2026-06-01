@@ -1,0 +1,79 @@
+{
+  "slug": "low-glycemic-french-choux-gougere",
+  "title": "Low Glycemic French Choux Gougere",
+  "description": "A French-inspired savory pastry made with low glycemic ingredients and choux for a delightful side dish or snack.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Choux Pastry Dough",
+      "amount": "1 package",
+      "notes": "Low glycemic flour"
+    },
+    {
+      "name": "Low Glycemic All-Purpose Flour",
+      "amount": "1 cup",
+      "notes": "Substitution for all-purpose flour"
+    },
+    {
+      "name": "Bacon Fat or Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": "For brushing pastry"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Low fat version if possible"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 tbsp, chopped",
+      "notes": "Adds flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Roll out the choux pastry dough to 1/4 inch thickness.",
+    "Transfer the dough to the baking sheet, trimming edges to fit.",
+    "Brush the dough with bacon fat or unsalted butter.",
+    "Sprinkle the Gruyère cheese evenly over the dough.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Remove from oven and sprinkle with chopped thyme.",
+    "Cut into desired shapes or serve as is.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "low-glycemic",
+    "french",
+    "choux",
+    "gougere"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-glycemic-french-choux-gougere",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:55:32.107Z"
+}
