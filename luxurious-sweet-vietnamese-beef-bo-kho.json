@@ -1,0 +1,95 @@
+{
+  "slug": "luxurious-sweet-vietnamese-beef-bo-kho",
+  "title": "Vietnamese Beef Noodle Soup",
+  "description": "A hearty and flavorful Vietnamese beef noodle soup made with tender beef, sweet and savory broth, and soft noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye), sliced",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bo Kho Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Luxurious Beef Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese Noodles (Rice Stick)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chili Slices",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil in a large pot over high heat.",
+    "Reduce the heat to medium-low and add the Bo Kho Spice Mix. Simmer for 10 minutes.",
+    "Add the sliced beef to the pot and cook for 3-4 minutes per side, or until browned.",
+    "Add the sweet soy sauce to the pot and stir to combine. Simmer for an additional 5 minutes.",
+    "Cook the Vietnamese noodles according to the package instructions and set aside.",
+    "Slice the fresh cilantro and set aside.",
+    "Lime wedges and fresh chili slices for garnish.",
+    "Serve the beef and noodles in bowls, garnished with fresh cilantro, lime wedges, and fresh chili slices.",
+    "Season with ground black pepper and salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "soup",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-sweet-vietnamese-beef-bo-kho",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:26:27.568Z"
+}
