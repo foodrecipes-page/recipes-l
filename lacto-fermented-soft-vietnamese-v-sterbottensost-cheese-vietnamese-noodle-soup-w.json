@@ -1,0 +1,93 @@
+{
+  "slug": "lacto-fermented-soft-vietnamese-v-sterbottensost-cheese-vietnamese-noodle-soup-w",
+  "title": "Vietnamese Noodle Soup",
+  "description": "A traditional Vietnamese noodle soup made with fermented elements, soft noodles, and cheese.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "lacto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soft Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Elements (Vietnamese Fermented Fish Sauce)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sterbottensost Cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lacto (optional)",
+      "amount": "1 cup, lacto milk",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese Noodle Soup Powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soft-Boiled Egg",
+      "amount": "1 egg",
+      "notes": ""
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil.",
+    "Add the Vietnamese Noodle Soup Powder and stir.",
+    "Add the Soft Noodles and cook according to package instructions.",
+    "Add the Fermented Elements, Sterbottensost Cheese, and Lacto (if using).",
+    "Stir to combine.",
+    "Add the Soft-Boiled Egg and Bean Sprouts.",
+    "Stir to combine.",
+    "Garnish with chopped Green Onions and Fresh Cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "lacto"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacto-fermented-soft-vietnamese-v-sterbottensost-cheese-vietnamese-noodle-soup-w",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:44:34.995Z"
+}
