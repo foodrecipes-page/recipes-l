@@ -1,0 +1,78 @@
+{
+  "slug": "low-sodium-friendly-char-grill-yang-romantic-portuguese-haricot-beans-gratin",
+  "title": "Portuguese Char-Grilled Haricot Beans",
+  "description": "A hearty and flavorful char-grilled haricot bean dish inspired by Portuguese cuisine, perfect for a romantic dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "portuguese olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "char-grill seasoning",
+      "amount": "1 tsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "romantic garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your char-grill to medium-high heat.",
+    "In a large bowl, combine haricot beans, olive oil, char-grill seasoning, and garlic. Mix well to coat.",
+    "Thread the bean mixture onto skewers, leaving a little space between each bean.",
+    "Grill the skewers for 5-7 minutes per side, or until the beans are lightly charred.",
+    "Transfer the skewers to a serving platter and top with grated cheese.",
+    "Sprinkle salt-free seasoning blend over the top and garnish with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "portuguese",
+    "vegetarian",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-sodium-friendly-char-grill-yang-romantic-portuguese-haricot-beans-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:44:11.890Z"
+}
