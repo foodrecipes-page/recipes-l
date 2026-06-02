@@ -6960,17 +6960,15 @@
   },
   {
     "slug": "light-spanish-cornmeal-pilaf",
-    "title": "Light Spanish Cornmeal Pilaf",
+    "title": "Spanish Cornbread",
     "tags": [
-      "crowd-pleaser",
-      "gluten-free",
-      "healthy-option",
-      "low-fat",
-      "side-dish",
-      "spanish-cuisine"
+      "spanish",
+      "cornbread",
+      "snack",
+      "easy-to-make"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -11031,16 +11029,15 @@
   },
   {
     "slug": "lightly-spicy-jamaican-shrimp-skewers",
-    "title": "Lightly Spicy Jamaican Shrimp Skewers",
+    "title": "Jamaican Shrimp Skewers",
     "tags": [
-      "air-fryer",
-      "jamaican-cuisine",
-      "pescatarian-friendly",
-      "quick-fix",
-      "seafood",
-      "spicy"
+      "shrimp",
+      "skewers",
+      "jamaican",
+      "spicy",
+      "grilled"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "jamaican",
     "totalTimeMin": 25,
     "shard": "l"
   },
@@ -18423,16 +18420,13 @@
   },
   {
     "slug": "lush-egyptian-lentils-curry",
-    "title": "Lush Egyptian Lentils Curry",
+    "title": "Lentil Curry",
     "tags": [
-      "copper-mug",
-      "curry",
-      "date-night",
-      "grassy",
-      "lentils",
-      "tadka"
+      "lentil-curry",
+      "indian-cuisine",
+      "vegan-recipe"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "Indian",
     "totalTimeMin": 40,
     "shard": "l"
   },
