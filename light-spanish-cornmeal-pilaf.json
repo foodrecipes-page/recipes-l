@@ -1,0 +1,84 @@
+{
+  "slug": "light-spanish-cornmeal-pilaf",
+  "title": "Spanish Cornbread",
+  "description": "A crispy cornbread infused with the flavors of Spain, perfect for a snack or light meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Spanish",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease an 8-inch square baking dish.",
+    "In a medium bowl, whisk together cornmeal, Spanish, and salt.",
+    "In a large bowl, whisk together Light, eggs, milk, and cheese.",
+    "Add the dry ingredients to the wet ingredients and stir until combined.",
+    "Melt butter and add to the mixture, stirring until smooth.",
+    "Pour the batter into the prepared baking dish.",
+    "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "cornbread",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-spanish-cornmeal-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:26:25.440Z"
+}
