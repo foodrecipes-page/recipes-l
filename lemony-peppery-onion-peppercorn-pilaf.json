@@ -1,0 +1,63 @@
+{
+  "slug": "lemony-peppery-onion-peppercorn-pilaf",
+  "title": "Pilaf with Lemony Pepper Crust",
+  "description": "A flavorful pilaf dish coated with a zesty lemony pepper crust, perfect for a quick lunch or dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "lemony",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "peppercorn",
+      "amount": "2 tbsp",
+      "notes": "whole"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add uncooked pilaf, stir to coat with oil and onions.",
+    "Cook for 2-3 minutes, stirring occasionally.",
+    "Add chopped lemony and whole peppercorns, stir to combine.",
+    "Reduce heat to low, cover and cook for 5-7 minutes or until the pilaf is cooked.",
+    "Fluff pilaf with a fork and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lemony",
+    "pepper-crusted",
+    "vegetarian",
+    "pilaf",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemony-peppery-onion-peppercorn-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:23:44.943Z"
+}
