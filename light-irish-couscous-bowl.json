@@ -1,0 +1,83 @@
+{
+  "slug": "light-irish-couscous-bowl",
+  "title": "Couscous Bowl with Irish Sausage and Vegetables",
+  "description": "A hearty one-pot dish featuring Irish sausage, couscous, and a variety of vegetables, all cooked to perfection.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large bowl over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes and cook for an additional 5 minutes.",
+    "Add the Irish sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Stir in the chicken broth and bring to a boil.",
+    "Add the couscous and stir to combine.",
+    "Reduce heat to low, cover the bowl with a lid, and simmer for 10-12 minutes or until the couscous is tender.",
+    "Stir in the peas and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Cook the Irish sausage to an internal temperature of at least 160°F (71°C) for food safety.",
+    "Check the internal temperature of the sausage with a food thermometer to ensure it reaches a safe minimum internal temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "sausage",
+    "couscous",
+    "one-pot",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-irish-couscous-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:19:51.296Z"
+}
