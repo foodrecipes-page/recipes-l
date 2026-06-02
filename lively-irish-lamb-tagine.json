@@ -1,0 +1,95 @@
+{
+  "slug": "lively-irish-lamb-tagine",
+  "title": "Lamb Tagine with Irish Flair",
+  "description": "A hearty and flavorful stew originating from North Africa, infused with the lively spirit of Irish cuisine.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Lively Irish stout",
+      "amount": "1 cup",
+      "notes": "used as marinade and deglazing liquid"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tablespoons",
+      "notes": "used for browning and finishing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with cumin, coriander, and cayenne pepper (if using).",
+    "Heat 1 tablespoon of Irish butter in a large Dutch oven over medium-high. Brown the lamb on all sides, then set aside.",
+    "Add the remaining 1 tablespoon of Irish butter to the pot, then sauté the chopped onion until softened.",
+    "Add the minced garlic and sliced ginger; cook for an additional 1-2 minutes.",
+    "Add the chopped lamb back to the pot, along with the lively Irish stout. Bring to a simmer.",
+    "Cover the pot with a lid and transfer to the preheated oven. Braise for 2.5 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and sprinkle with chopped fresh parsley (if using).",
+    "Serve the lamb tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "irish",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-irish-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:46:01.402Z"
+}
