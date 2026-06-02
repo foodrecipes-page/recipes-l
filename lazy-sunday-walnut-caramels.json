@@ -1,0 +1,63 @@
+{
+  "slug": "lazy-sunday-walnut-caramels",
+  "title": "Sunday Walnut Caramels",
+  "description": "A delicious and sweet treat to kick off your Sunday. Made with walnuts and gooey caramels.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "caramels",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lazy",
+      "amount": "a pinch",
+      "notes": "optional, for extra relaxation"
+    },
+    {
+      "name": "sunday",
+      "amount": "a dash",
+      "notes": "to capture the mood"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper.",
+    "Spread the walnuts on the baking sheet and toast in the oven for 5-7 minutes, or until fragrant.",
+    "Melt the caramels in a saucepan over low heat, stirring constantly.",
+    "Remove the walnuts from the oven and let cool slightly.",
+    "Dip each walnut into the melted caramels, coating completely.",
+    "Place the coated walnuts on a piece of parchment paper or a silicone mat.",
+    "Refrigerate for at least 30 minutes to set the caramels.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "walnuts",
+    "caramels",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-walnut-caramels",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:17:04.659Z"
+}
