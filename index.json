@@ -174,18 +174,14 @@
   },
   {
     "slug": "lacto-fermented-soft-vietnamese-v-sterbottensost-cheese-vietnamese-noodle-soup-w",
-    "title": "Vietnamese Rice Noodle Soup with Fermented Soft V Sterbottensost Cheese",
+    "title": "Vietnamese Noodle Soup",
     "tags": [
-      "cheese",
-      "comfort-food",
-      "lacto-fermented",
+      "vietnamese",
       "noodle-soup",
-      "one-pot",
-      "soup",
-      "vietnamese"
+      "lacto"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -5270,17 +5266,15 @@
   },
   {
     "slug": "light-kenyan-vegetable-bake",
-    "title": "Light Kenyan Vegetable Bake",
+    "title": "Kenyan Vegetable Bake",
     "tags": [
-      "cazuela",
       "kenyan",
-      "midnight-craving",
-      "one-pan",
       "vegetarian",
-      "wood-fired"
+      "gluten-free",
+      "bake"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "kenyan",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
@@ -7174,17 +7168,16 @@
   },
   {
     "slug": "light-syrian-lamb-tagine",
-    "title": "Light Syrian Lamb Tagine",
+    "title": "Lamb Tagine with Light and Syrian Spices",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "lamb-recipes",
-      "low-calorie",
-      "syrian-cuisine",
-      "tandoor-cooking"
+      "lamb",
+      "tagine",
+      "north-african",
+      "dinner",
+      "meat-based"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 140,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "l"
   },
   {
