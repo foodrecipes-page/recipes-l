@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-spicy-jamaican-shrimp-skewers",
+  "title": "Jamaican Shrimp Skewers",
+  "description": "A flavorful and spicy Jamaican-inspired dish featuring succulent shrimp skewers. Perfect for a quick and delicious dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large shrimp (21-25 per pound)",
+      "amount": "1 pound",
+      "notes": "deveined and peeled"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Light brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Spicy all-purpose seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Lightly salted skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "In a small bowl, mix together jerk seasoning, brown sugar, and spicy seasoning.",
+    "Add the lime juice to the bowl and mix well.",
+    "Add the coconut oil to the bowl and mix until well combined.",
+    "Add the shrimp to the marinade and mix until coated.",
+    "Thread the marinated shrimp onto the lightly salted skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the shrimp are pink and cooked through.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "skewers",
+    "jamaican",
+    "spicy",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spicy-jamaican-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:22:47.924Z"
+}
