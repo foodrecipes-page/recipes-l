@@ -1,0 +1,68 @@
+{
+  "slug": "lovely-light-german-potato-casserole",
+  "title": "German Potato Casserole",
+  "description": "A hearty and comforting German-inspired potato casserole, perfect for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "lovely",
+      "amount": "1 cup",
+      "notes": "sliced and sautéed"
+    },
+    {
+      "name": "light",
+      "amount": "1/2 cup",
+      "notes": "sliced and diced"
+    },
+    {
+      "name": "german seasoning",
+      "amount": "1 tsp",
+      "notes": "a blend of salt, pepper, and paprika"
+    },
+    {
+      "name": "casserole cheese",
+      "amount": "1 cup",
+      "notes": "shredded and melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the sliced potatoes and diced light. Toss to coat.",
+    "In a separate pan, sauté the lovely over medium heat until lightly browned.",
+    "In a greased 9x13-inch baking dish, arrange half of the potato mixture.",
+    "Top with the sautéed lovely and sprinkle with german seasoning.",
+    "Repeat the layers, finishing with the remaining potato mixture.",
+    "Sprinkle the casserole cheese on top and cover with foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-light-german-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:47:44.497Z"
+}
