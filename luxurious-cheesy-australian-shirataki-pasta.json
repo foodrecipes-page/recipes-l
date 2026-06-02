@@ -1,0 +1,74 @@
+{
+  "slug": "luxurious-cheesy-australian-shirataki-pasta",
+  "title": "Australian Shirataki Pasta Bake",
+  "description": "A creamy, cheesy pasta bake with a twist of Australian flavors. This dish combines the low-carb benefits of shirataki noodles with the richness of luxurious cheese.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shirataki noodles",
+      "amount": "250g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Pasta",
+      "amount": "120g",
+      "notes": "dried, broken into small pieces"
+    },
+    {
+      "name": "Luxurious cheese",
+      "amount": "150g",
+      "notes": "grated, mixed cheddar and parmesan"
+    },
+    {
+      "name": "Australian cream cheese",
+      "amount": "60g",
+      "notes": "softened"
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "150g",
+      "notes": "such as button or cremini"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "20g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the shirataki noodles according to the package instructions. Drain and rinse them.",
+    "In a large skillet, sauté the sliced mushrooms in a little bit of oil until they're softened.",
+    "In a separate mixing bowl, combine the luxurious cheese, Australian cream cheese, and a pinch of salt and pepper.",
+    "Add the cooked pasta and shirataki noodles to the cheese mixture, and stir until everything is well coated.",
+    "Transfer the pasta mixture to a baking dish, and top it with the sautéed mushrooms.",
+    "Bake the pasta bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh parsley, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "shirataki",
+    "australian",
+    "cheesy",
+    "luxurious"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-cheesy-australian-shirataki-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:17:47.987Z"
+}
