@@ -1,0 +1,93 @@
+{
+  "slug": "lovely-dense-german-sausage-stew",
+  "title": "Classic German Sausage Stew",
+  "description": "A hearty, comforting stew filled with the flavors of Germany. Perfect for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lovely German Sausage",
+      "amount": "1 pound",
+      "notes": "any type of German sausage, such as knockwurst or bratwurst"
+    },
+    {
+      "name": "Dense German Bread",
+      "amount": "2 cups, cubed",
+      "notes": "such as pumpernickel or dark rye"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the sausage in a large pot over medium-high heat, about 5 minutes.",
+    "Remove the sausage from the pot and set aside.",
+    "Reduce heat to medium and add the chopped onion to the pot. Cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for 5 more minutes.",
+    "Add the diced tomato, beef broth, and beer (if using) to the pot. Stir to combine.",
+    "Return the sausage to the pot and bring the mixture to a simmer.",
+    "Reduce heat to low and let the stew cook, covered, for 20-25 minutes, or until the vegetables are tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-dense-german-sausage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:24:35.568Z"
+}
