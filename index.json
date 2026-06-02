@@ -4963,16 +4963,15 @@
   },
   {
     "slug": "light-irish-couscous-bowl",
-    "title": "Light Irish Couscous Bowl",
+    "title": "Couscous Bowl with Irish Sausage and Vegetables",
     "tags": [
-      "couscous",
-      "flexitarian",
       "irish",
-      "one-pan",
-      "sour-cream",
-      "weeknight"
+      "sausage",
+      "couscous",
+      "one-pot",
+      "lunch"
     ],
-    "cuisine": "irish",
+    "cuisine": "Irish",
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -12144,17 +12143,16 @@
   },
   {
     "slug": "lively-irish-lamb-tagine",
-    "title": "Lively Irish Lamb Tagine",
+    "title": "Lamb Tagine with Irish Flair",
     "tags": [
-      "clay-cooking",
-      "gluten-free",
-      "irish-cuisine",
-      "lamb-recipes",
-      "one-pot",
-      "sugar-free"
+      "lamb",
+      "tagine",
+      "irish",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 170,
+    "cuisine": "North African",
+    "totalTimeMin": 190,
     "shard": "l"
   },
   {
@@ -15297,18 +15295,14 @@
   },
   {
     "slug": "low-fat-tagliatelle-wot",
-    "title": "Low-Fat Tagliatelle Wot",
+    "title": "Low-Fat Tagliatelle with Wot Sauce",
     "tags": [
-      "tagliatelle",
-      "ethiopian",
+      "italian",
       "low-fat",
-      "vegan",
-      "savory",
-      "light",
-      "festive"
+      "pasta"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -19440,16 +19434,15 @@
   },
   {
     "slug": "luxurious-cheesy-australian-shirataki-pasta",
-    "title": "Luxurious Cheesy Australian Shirataki Pasta",
+    "title": "Australian Shirataki Pasta Bake",
     "tags": [
-      "australian-cuisine",
+      "pasta",
+      "shirataki",
+      "australian",
       "cheesy",
-      "indulgent",
-      "lacto-vegetarian",
-      "one-pot",
-      "pasta-lovers"
+      "luxurious"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 35,
     "shard": "l"
   },
