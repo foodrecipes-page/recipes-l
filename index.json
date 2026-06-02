@@ -1850,15 +1850,15 @@
   },
   {
     "slug": "lazy-sunday-walnut-caramels",
-    "title": "Lazy Sunday Walnut Caramels",
+    "title": "Sunday Walnut Caramels",
     "tags": [
-      "lazy-sunday",
-      "walnut",
+      "walnuts",
       "caramels",
-      "norwegian"
+      "dessert",
+      "easy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "cuisine": "American",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -15585,17 +15585,15 @@
   },
   {
     "slug": "low-sodium-friendly-char-grill-yang-romantic-portuguese-haricot-beans-gratin",
-    "title": "Low-Sodium-Friendly Char-Grill-Yang Romantic Portuguese Haricot Beans Gratin",
+    "title": "Portuguese Char-Grilled Haricot Beans",
     "tags": [
-      "comfort-food",
-      "low-sodium",
-      "one-pan",
+      "char-grilled",
       "portuguese",
-      "romantic",
-      "weeknight"
+      "vegetarian",
+      "romantic"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
