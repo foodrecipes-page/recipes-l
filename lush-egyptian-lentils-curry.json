@@ -1,0 +1,79 @@
+{
+  "slug": "lush-egyptian-lentils-curry",
+  "title": "Lentil Curry",
+  "description": "A flavorful and nutritious curry made with red lentils and a blend of Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and carrot; cook until tender.",
+    "Add curry powder, cumin powder, and garam masala; cook for 1 minute.",
+    "Add lentils and water; bring to a boil.",
+    "Reduce heat to low; simmer, covered, for 20-25 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil-curry",
+    "indian-cuisine",
+    "vegan-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-egyptian-lentils-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:42:16.420Z"
+}
