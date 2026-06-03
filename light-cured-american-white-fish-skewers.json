@@ -1,0 +1,67 @@
+{
+  "slug": "light-cured-american-white-fish-skewers",
+  "title": "Grilled Salmon Skewers",
+  "description": "A simple and flavorful recipe for grilled salmon skewers, perfect for a summer evening. This dish is light and refreshing, making it ideal for a quick dinner or lunch.",
+  "cuisine": "American",
+  "diet": [
+    "healthy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon",
+      "amount": "4 fillets",
+      "notes": "preferably wild-caught"
+    },
+    {
+      "name": "White Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "White Vinegar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12-15",
+      "notes": "preferably wooden"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread a salmon piece, a few onion slices, and a few cherry tomatoes (if using) onto each skewer.",
+    "In a small bowl, whisk together olive oil, vinegar, salt, and pepper.",
+    "Brush the skewers with the marinade, making sure to coat all the ingredients.",
+    "Grill the skewers for 8-10 minutes per side, or until the salmon is cooked through.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "grilled",
+    "skewers",
+    "summer",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-cured-american-white-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:18:44.458Z"
+}
