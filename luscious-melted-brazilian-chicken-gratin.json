@@ -1,0 +1,83 @@
+{
+  "slug": "luscious-melted-brazilian-chicken-gratin",
+  "title": "Brazilian Chicken Gratin Casserole",
+  "description": "A delicious and easy-to-make Brazilian-inspired casserole featuring chicken, cheese, and a crunchy topping.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Luscious grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "Brazilian-style grated mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Gratin breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "panko or regular"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the casserole dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the chicken breast with salt, black pepper, and garlic powder.",
+    "In a greased 9x13-inch casserole dish, arrange half of the chicken breast pieces in a single layer.",
+    "Sprinkle with half of the luscious grated cheddar cheese and all of the Brazilian-style grated mozzarella cheese.",
+    "Arrange the remaining chicken breast pieces on top.",
+    "Sprinkle with the remaining luscious grated cheddar cheese.",
+    "In a small bowl, mix the gratin breadcrumbs and a pinch of salt.",
+    "Sprinkle the breadcrumb mixture evenly over the top of the casserole.",
+    "Drizzle the olive oil over the top of the casserole.",
+    "Bake in the preheated oven for 35-40 minutes or until the chicken is cooked through and the top is golden brown.",
+    "Let the casserole rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "casserole",
+    "brazilian",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-melted-brazilian-chicken-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:33:38.928Z"
+}
