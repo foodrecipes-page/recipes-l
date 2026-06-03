@@ -1,0 +1,57 @@
+{
+  "slug": "lush-egyptian-chinese-cabbage-tagine",
+  "title": "Lush Chinese-Style Cabbage Stir Fry",
+  "description": "A quick and delicious stir-fry recipe featuring cabbage, inspired by Chinese cuisine. Can be served as a side dish or a light lunch.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, sliced"
+    },
+    {
+      "name": "lush",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of lush in a large skillet or wok over medium-high heat.",
+    "Add the sliced cabbage and cook until it starts to soften, about 2 minutes.",
+    "Add the remaining 1 tablespoon each of tagine and egyptian to the skillet.",
+    "Stir-fry the cabbage for an additional 2-3 minutes, until it reaches your desired level of tenderness.",
+    "Serve hot, garnished with extra lush if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "stir-fry",
+    "chinese-cuisine",
+    "quick-recipe"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-egyptian-chinese-cabbage-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:08:24.902Z"
+}
