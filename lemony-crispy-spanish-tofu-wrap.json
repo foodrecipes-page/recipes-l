@@ -1,0 +1,84 @@
+{
+  "slug": "lemony-crispy-spanish-tofu-wrap",
+  "title": "Lemony Spanish Tofu Wrap",
+  "description": "A delicious and healthy wrap filled with marinated tofu, crunchy vegetables, and a hint of Spanish flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": " drained and cut into small pieces"
+    },
+    {
+      "name": "Lemony Wrap",
+      "amount": "1 piece",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Spanish Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together lemon juice, olive oil, salt, and pepper.",
+    "Add the tofu to the marinade and mix well.",
+    "Let it marinate for at least 30 minutes.",
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Remove the tofu from the marinade and cook for 3-4 minutes per side, until golden brown.",
+    "Warm the wrap in the microwave for 20-30 seconds.",
+    "Assemble the wrap by placing the cooked tofu, crispy lettuce, and chopped cilantro on it.",
+    "Drizzle with extra lemon juice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "lunch",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemony-crispy-spanish-tofu-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:35:00.850Z"
+}
