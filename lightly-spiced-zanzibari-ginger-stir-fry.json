@@ -1,0 +1,87 @@
+{
+  "slug": "lightly-spiced-zanzibari-ginger-stir-fry",
+  "title": "Spiced Zanzibari Stir Fry",
+  "description": "A flavorful and aromatic stir fry dish made with the unique spices of Zanzibar. Serve hot over steamed rice or noodles.",
+  "cuisine": "Swahili",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lightly Sweetened Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zanzibari Spice Blend",
+      "amount": "1 tsp",
+      "notes": "available at African markets"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced ginger and cook for 1-2 minutes until fragrant.",
+    "Add the onion, bell pepper, and carrots. Cook for 3-4 minutes until the vegetables start to soften.",
+    "Add the snow peas, garlic, and Zanzibari Spice Blend. Cook for an additional 2-3 minutes.",
+    "Stir in the soy sauce and cook for 1 minute.",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "stir-fry",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-zanzibari-ginger-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:37:57.811Z"
+}
