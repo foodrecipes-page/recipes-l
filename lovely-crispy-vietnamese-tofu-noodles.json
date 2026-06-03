@@ -1,0 +1,92 @@
+{
+  "slug": "lovely-crispy-vietnamese-tofu-noodles",
+  "title": "Crispy Vietnamese Tofu Noodle Soup",
+  "description": "A flavorful and comforting soup that combines crispy tofu with the savory flavors of Vietnamese cuisine, all in a bowl of steaming hot noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lovely crispy tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Press and drain excess moisture before cutting into bite-sized cubes"
+    },
+    {
+      "name": "vietnamese noodles",
+      "amount": "1 package (12 oz)",
+      "notes": "Choose a rice noodle for the best texture and flavor"
+    },
+    {
+      "name": "lovely vegetable broth",
+      "amount": "4 cups",
+      "notes": "Use low-sodium broth for a healthier option"
+    },
+    {
+      "name": "vietnamese fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste for the perfect balance of flavor"
+    },
+    {
+      "name": "lovely fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chop the leaves for garnish and add a pop of color"
+    },
+    {
+      "name": "lovely lime juice",
+      "amount": "2 tbsp",
+      "notes": "Squeeze the juice for a burst of citrus flavor"
+    },
+    {
+      "name": "lovely chili flakes",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste for the perfect level of heat"
+    },
+    {
+      "name": "lovely sesame oil",
+      "amount": "1 tsp",
+      "notes": "Use a neutral oil for a lighter flavor"
+    },
+    {
+      "name": "lovely salt",
+      "amount": "1 tsp",
+      "notes": "Use a flaky salt for a more delicate flavor"
+    },
+    {
+      "name": "lovely black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Use a coarse grind for a more robust flavor"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tbsp of sesame oil over medium heat.",
+    "Add 1 tsp of chili flakes and cook for 1 minute, until fragrant.",
+    "Add 4 cups of lovely vegetable broth and bring to a simmer.",
+    "Add 1 package of vietnamese noodles and cook according to package instructions.",
+    "While the noodles cook, prepare the crispy tofu by cutting it into bite-sized cubes and coating with a mixture of 1 tsp of lovely sesame oil and 1 tsp of lovely salt.",
+    "Heat 1 tsp of lovely sesame oil in a pan over medium-high heat and cook the tofu cubes until crispy and golden brown.",
+    "Add 2 tbsp of vietnamese fish sauce, 2 tbsp of lovely lime juice, and 1 tsp of lovely black pepper to the pot and stir to combine.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Garnish with chopped lovely fresh cilantro and serve immediately.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "vegan-recipe",
+    "vegetarian-recipe",
+    "soup",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crispy-vietnamese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:40:00.669Z"
+}
