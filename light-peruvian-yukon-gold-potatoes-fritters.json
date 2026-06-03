@@ -1,0 +1,62 @@
+{
+  "slug": "light-peruvian-yukon-gold-potatoes-fritters",
+  "title": "Twice-Baked Yukon Golds with Crispy Peruvian Potato Fritters",
+  "description": "Elevate your side dish game with these flavorful, crispy potato fritters and twice-baked Yukon golds. Perfect for any meal.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "3-4 large"
+    },
+    {
+      "name": "Peruvian potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Light oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fritters",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Pierce the potatoes with a fork a few times and bake for 45-60 minutes or until tender.",
+    "Scoop out the flesh and mash with a fork.",
+    "Add a splash of oil to the potatoes and mix to combine.",
+    "Transfer the potatoes to a baking dish and top with grated cheese (optional).",
+    "Bake for an additional 15-20 minutes or until the cheese is melted and bubbly.",
+    "Meanwhile, heat oil in a deep frying pan to 350°F (175°C).",
+    "Crumble the fritters and fry in batches until crispy and golden brown.",
+    "Drain the fritters on paper towels.",
+    "Serve the twice-baked potatoes with crispy fritters on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 65,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "twice-baked",
+    "potatoes",
+    "fritters",
+    "peruvian",
+    "yukon-gold"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2.5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-peruvian-yukon-gold-potatoes-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:38:41.493Z"
+}
