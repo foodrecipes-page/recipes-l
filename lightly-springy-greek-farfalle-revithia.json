@@ -1,0 +1,82 @@
+{
+  "slug": "lightly-springy-greek-farfalle-revithia",
+  "title": "Greek Farfalle Salad with Chickpeas",
+  "description": "A refreshing Greek salad made with farfalle pasta, chickpeas, and a tangy vinaigrette.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Farfalle pasta",
+      "amount": "8 oz",
+      "notes": "Lightly salted"
+    },
+    {
+      "name": "Revithia chickpeas",
+      "amount": "1 can (15 oz), drained and rinsed",
+      "notes": "Canned"
+    },
+    {
+      "name": "Greek vinaigrette",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Cherry tomatoes, halved",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Red onion, thinly sliced",
+      "amount": "1/2 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Kalamata olives, pitted",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Feta cheese, crumbled",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Cook the farfalle pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large bowl, combine the chickpeas, cherry tomatoes, red onion, olives, and parsley.",
+    "In a small bowl, whisk together the Greek vinaigrette and a pinch of salt and pepper.",
+    "Add the cooked farfalle pasta to the bowl with the chickpea mixture and toss to combine.",
+    "Drizzle the vinaigrette over the pasta and toss to coat.",
+    "Top with crumbled feta cheese, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-cuisine",
+    "vegetarian-recipes",
+    "gluten-free-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-springy-greek-farfalle-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:18:27.343Z"
+}
