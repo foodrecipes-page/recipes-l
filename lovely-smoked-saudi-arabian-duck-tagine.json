@@ -1,0 +1,101 @@
+{
+  "slug": "lovely-smoked-saudi-arabian-duck-tagine",
+  "title": "Smoked Duck Tagine",
+  "description": "A traditional Moroccan stew made with tender smoked duck, aromatic spices, and a blend of sweet and tangy flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked duck",
+      "amount": "1 pound, cut into 8 pieces",
+      "notes": "You can use any type of smoked duck you like"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Uncooked white or brown rice is fine"
+    },
+    {
+      "name": "Lovely saudi saffron",
+      "amount": "a pinch",
+      "notes": "Saffron adds a beautiful yellow color and a subtle earthy flavor"
+    },
+    {
+      "name": "Arabian ginger",
+      "amount": "2 inches, sliced",
+      "notes": "You can also use fresh ginger"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "You can use any type of onion you like"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "You can use more or less garlic to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin adds a warm, earthy flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked paprika adds a deep, smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt or sea salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "You can use any type of oil you like"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the duck and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the cumin, paprika, salt, and pepper, and stir to combine.",
+    "Add the rice and stir to combine.",
+    "Add the stock and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Stir in the saffron and cook for 1 minute.",
+    "Serve the duck and rice hot, garnished with fresh herbs if desired.",
+    "Cook's note: Traditionally, a tagine is cooked in a clay pot over low heat for 1-2 hours. If you have a clay pot, feel free to use it.",
+    "Nutrition information: This recipe makes 4 servings and has approximately 500 calories, 30g protein, 60g carbs, and 20g fat per serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "smoked-duck"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoked-saudi-arabian-duck-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:18:54.732Z"
+}
