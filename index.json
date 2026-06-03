@@ -6169,18 +6169,16 @@
   },
   {
     "slug": "light-peruvian-yukon-gold-potatoes-fritters",
-    "title": "Light Peruvian Yukon Gold Potatoes Fritters",
+    "title": "Twice-Baked Yukon Golds with Crispy Peruvian Potato Fritters",
     "tags": [
-      "ayurvedic-friendly",
-      "fritters",
-      "one-pan",
-      "peruvian",
+      "twice-baked",
       "potatoes",
-      "snack",
-      "weeknight"
+      "fritters",
+      "peruvian",
+      "yukon-gold"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 32,
+    "cuisine": "Latin American",
+    "totalTimeMin": 80,
     "shard": "l"
   },
   {
@@ -8317,16 +8315,15 @@
   },
   {
     "slug": "lightly-crisp-australian-fish-sashimi",
-    "title": "Lightly Crisp Australian Fish Sashimi",
+    "title": "Pan-Seared Crisp Fish with Sashimi Salad",
     "tags": [
+      "fish",
+      "salad",
       "australian",
-      "pescatarian",
-      "rajasik",
-      "sashimi",
-      "weeknight"
+      "seafood"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 38,
+    "cuisine": "Australian",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
