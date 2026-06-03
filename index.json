@@ -10993,14 +10993,15 @@
   },
   {
     "slug": "lightly-spiced-zanzibari-ginger-stir-fry",
-    "title": "Lightly Spiced Zanzibari Ginger Stir-fry",
+    "title": "Spiced Zanzibari Stir Fry",
     "tags": [
-      "zanzibari",
-      "gourmet",
-      "gluten-free"
+      "african",
+      "stir-fry",
+      "vegetarian",
+      "spicy"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Swahili",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -17150,18 +17151,16 @@
   },
   {
     "slug": "luscious-middle-eastern-date-ouzi",
-    "title": "Luscious Middle Eastern Date Ouzi",
+    "title": "Luscious Date Ouzi",
     "tags": [
-      "date",
-      "ice-cream",
-      "macrobiotic",
       "middle-eastern",
-      "soffritto",
-      "sweet-salty",
-      "velvety"
+      "dessert",
+      "dates",
+      "phyllo",
+      "sweet"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
