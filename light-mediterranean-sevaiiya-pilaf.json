@@ -1,0 +1,77 @@
+{
+  "slug": "light-mediterranean-sevaiiya-pilaf",
+  "title": "Mediterranean Sevaiiya Pilaf",
+  "description": "A flavorful and light Mediterranean-inspired pilaf dish made with sevaiiya and a hint of Mediterranean spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sevaiiya",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mediterranean Pilaf Rice Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add chopped garlic and cook for another minute.",
+    "Add the Mediterranean Pilaf Rice Mix and cook for 1-2 minutes, stirring constantly.",
+    "Add 1 cup of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the liquid is absorbed.",
+    "Stir in dried oregano, salt, and chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Cook the sevaiiya according to package instructions and serve alongside the pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "pilaf",
+    "sevaiiya",
+    "easy-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-mediterranean-sevaiiya-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:01:25.333Z"
+}
