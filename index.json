@@ -5603,17 +5603,15 @@
   },
   {
     "slug": "light-mediterranean-sevaiiya-pilaf",
-    "title": "light mediterranean sevaiiya pilaf",
+    "title": "Mediterranean Sevaiiya Pilaf",
     "tags": [
-      "easy-lunch",
-      "gluten-free",
-      "low-calorie",
       "mediterranean",
-      "pastafree",
-      "quick-dinner"
+      "pilaf",
+      "sevaiiya",
+      "easy-meal"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 25,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -11065,16 +11063,14 @@
   },
   {
     "slug": "lightly-springy-greek-farfalle-revithia",
-    "title": "Lightly Springy Greek Farfalle Revithia",
+    "title": "Greek Farfalle Salad with Chickpeas",
     "tags": [
-      "gluten-free",
       "greek-cuisine",
-      "meal-prep",
-      "one-pan",
-      "veggie-friendly"
+      "vegetarian-recipes",
+      "gluten-free-recipes"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "l"
   },
   {
@@ -12447,18 +12443,15 @@
   },
   {
     "slug": "lively-smoky-argentinian-potatoes-grill",
-    "title": "Lively Smoky Argentinian Potatoes Grill",
+    "title": "Smoky Argentinian Potatoes",
     "tags": [
       "argentinian",
-      "buddhist-friendly",
-      "comfort-food",
       "grill",
-      "one-pan",
       "potatoes",
-      "smoky"
+      "vegetarian"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -13235,13 +13228,14 @@
   },
   {
     "slug": "lovely-crispy-vietnamese-tofu-noodles",
-    "title": "Lovely Crispy Vietnamese Tofu Noodles",
+    "title": "Crispy Vietnamese Tofu Noodle Soup",
     "tags": [
-      "noodle-dish",
-      "plant-based",
-      "romantic-dinner",
-      "spicy-food",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "noodle-soup",
+      "vegan-recipe",
+      "vegetarian-recipe",
+      "soup",
+      "comfort-food"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
@@ -14078,17 +14072,16 @@
   },
   {
     "slug": "lovely-nutty-syrian-wensleydale-biryani",
-    "title": "Lovely Nutty Syrian Wensleydale Biryani",
+    "title": "Syrian Biryani Bites with Wensleydale",
     "tags": [
-      "anti-inflammatory",
-      "crumbly-cheese",
-      "kid-friendly",
-      "nutty-flavors",
-      "syrian-cuisine",
-      "tandoor-cooking"
+      "syrian",
+      "biryani",
+      "cheese",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -18376,17 +18369,15 @@
   },
   {
     "slug": "lush-egyptian-chinese-cabbage-tagine",
-    "title": "Lush Egyptian Chinese Cabbage Tagine",
+    "title": "Lush Chinese-Style Cabbage Stir Fry",
     "tags": [
-      "fusion",
-      "one-pot",
-      "plant-based",
-      "quick",
-      "tagine",
-      "vegan"
+      "cabbage",
+      "stir-fry",
+      "chinese-cuisine",
+      "quick-recipe"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "cuisine": "chinese",
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
