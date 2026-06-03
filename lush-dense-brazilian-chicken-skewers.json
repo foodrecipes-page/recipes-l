@@ -1,0 +1,90 @@
+{
+  "slug": "lush-dense-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers with Lush Salad",
+  "description": "A flavorful and colorful Brazilian-inspired dish featuring marinated chicken skewers served with a fresh lush salad.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast, boneless and skinless",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Lush mixed greens",
+      "amount": "4 cups",
+      "notes": "such as arugula, spinach, and lettuce"
+    },
+    {
+      "name": "Dense pineapple",
+      "amount": "1 cup",
+      "notes": "fresh chunks"
+    },
+    {
+      "name": "Brazilian-style skewers",
+      "amount": "10-12",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, salt, and black pepper.",
+    "Add chicken pieces to the marinade and mix well.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush skewers with marinade and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, combine lush mixed greens and dense pineapple in a large bowl.",
+    "Serve skewers hot with lush salad on the side.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-chicken",
+    "brazilian-cuisine",
+    "lunch-ideas",
+    "dinner-ideas",
+    "skewers-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-dense-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:49:28.905Z"
+}
