@@ -1,0 +1,80 @@
+{
+  "slug": "lovely-charred-spanish-lamb-tagine",
+  "title": "Charred Lamb Tagine",
+  "description": "A hearty North African-inspired dish featuring charred lamb and a blend of aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for char-grilling"
+    },
+    {
+      "name": "Spanish onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lovely lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "Tagine spices",
+      "amount": "2 tsp",
+      "notes": "a blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the lamb with salt and tagine spices.",
+    "Grill the lamb over direct heat for 5 minutes per side, or until nicely charred.",
+    "Transfer the lamb to a large Dutch oven or tagine.",
+    "Add olive oil, chopped onions, and lemon juice to the pot.",
+    "Pour in chicken broth and bring to a simmer.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and easily shredded.",
+    "Garnish with parsley, if desired.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 25,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-charred-spanish-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:09:05.736Z"
+}
