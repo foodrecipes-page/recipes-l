@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-spiced-syrian-lentils-pilaf",
+  "title": "Spiced Lentil Pilaf",
+  "description": "A flavorful and nutritious Middle Eastern-inspired dish made with spiced lentils and pilaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup, uncooked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the rinsed lentils, uncooked pilaf, cumin, paprika, salt, and black pepper.",
+    "Stir to combine, then add 2 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the lentils and pilaf are tender.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentils",
+    "pilaf",
+    "middle-eastern",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-syrian-lentils-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:14:19.042Z"
+}
