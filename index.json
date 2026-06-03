@@ -2388,15 +2388,15 @@
   },
   {
     "slug": "lemony-crispy-spanish-tofu-wrap",
-    "title": "Lemony Crispy Spanish Tofu Wrap",
+    "title": "Lemony Spanish Tofu Wrap",
     "tags": [
-      "spanish-wrap",
-      "tofu-wrap",
-      "lemon-lemony",
-      "plant-based-friendly"
+      "spanish",
+      "lunch",
+      "vegetarian",
+      "wrap"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "l"
   },
   {
@@ -3831,16 +3831,16 @@
   },
   {
     "slug": "light-cured-american-white-fish-skewers",
-    "title": "Light Cured American White Fish Skewers",
+    "title": "Grilled Salmon Skewers",
     "tags": [
-      "american-cuisine",
-      "high-protein",
-      "low-carb",
-      "quick-fix",
-      "seafood"
+      "salmon",
+      "grilled",
+      "skewers",
+      "summer",
+      "dinner"
     ],
     "cuisine": "American",
-    "totalTimeMin": 25,
+    "totalTimeMin": 31,
     "shard": "l"
   },
   {
@@ -13040,16 +13040,14 @@
   },
   {
     "slug": "lovely-charred-spanish-lamb-tagine",
-    "title": "Lovely Charred Spanish Lamb Tagine",
+    "title": "Charred Lamb Tagine",
     "tags": [
-      "anti-inflammatory",
-      "lamb-recipes",
-      "romantic-dinner",
-      "spanish-cuisine",
-      "spherification",
-      "tagine-cooking"
+      "lamb",
+      "tagine",
+      "north-african",
+      "gluten-free"
     ],
-    "cuisine": "Spanish",
+    "cuisine": "North African",
     "totalTimeMin": 180,
     "shard": "l"
   },
@@ -17144,13 +17142,12 @@
   },
   {
     "slug": "luscious-melted-brazilian-chicken-gratin",
-    "title": "Luscious Melted Brazilian Chicken Gratin",
+    "title": "Brazilian Chicken Gratin Casserole",
     "tags": [
+      "chicken",
+      "casserole",
       "brazilian",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "post-workout"
+      "cheesy"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 55,
@@ -20274,6 +20271,32 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lacto-sour-slovakian-sunflower-seeds-skillet--german",
+    "title": "Slovakian-Style Skillet Schnitzel",
+    "tags": [
+      "german",
+      "slovakian",
+      "pork",
+      "schnitzel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-light-polish-cabbage-salad--indian",
+    "title": "Spicy Cabbage Salad",
+    "tags": [
+      "salad",
+      "indian",
+      "vegetarian",
+      "vegan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 10,
     "shard": "l"
   }
 ]
