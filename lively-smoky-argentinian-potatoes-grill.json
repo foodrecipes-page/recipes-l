@@ -1,0 +1,81 @@
+{
+  "slug": "lively-smoky-argentinian-potatoes-grill",
+  "title": "Smoky Argentinian Potatoes",
+  "description": "A simple yet flavorful side dish featuring smoky Argentinian potatoes, perfect for any grill occasion.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "argentinian potatoes",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lively olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "1 teaspoon",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together lively olive oil, grill seasoning, salt, and pepper.",
+    "Add the sliced argentinian potatoes to the bowl and toss to coat with the mixture.",
+    "Grill the potatoes for 5-7 minutes per side, or until tender and slightly charred.",
+    "Transfer the potatoes to a serving platter and sprinkle with minced garlic and chopped cilantro.",
+    "Serve hot with lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "grill",
+    "potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-smoky-argentinian-potatoes-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:15:47.622Z"
+}
