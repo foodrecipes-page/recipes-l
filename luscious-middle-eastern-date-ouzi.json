@@ -1,0 +1,81 @@
+{
+  "slug": "luscious-middle-eastern-date-ouzi",
+  "title": "Luscious Date Ouzi",
+  "description": "A traditional Middle Eastern dessert with sweet dates and crispy phyllo. Perfect for special occasions.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "In a bowl, mix together dates, cinnamon, cardamom, and honey.",
+    "Layer phyllo dough in a baking dish, brushing each layer with melted butter.",
+    "Spread date mixture on top of phyllo layer.",
+    "Top with another layer of phyllo dough, brushing with melted butter.",
+    "Bake for 25-30 minutes, or until phyllo is golden brown.",
+    "Remove from oven and let cool.",
+    "Sprinkle with chopped almonds, if using.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "dessert",
+    "dates",
+    "phyllo",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-middle-eastern-date-ouzi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:15:11.289Z"
+}
