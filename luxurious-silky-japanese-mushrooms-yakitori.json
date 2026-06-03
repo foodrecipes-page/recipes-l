@@ -1,0 +1,92 @@
+{
+  "slug": "luxurious-silky-japanese-mushrooms-yakitori",
+  "title": "Pan-Seared Yakitori Chicken with Shiitake Mushrooms",
+  "description": "A luxurious and savory Japanese-inspired dish featuring grilled yakitori chicken paired with sautéed shiitake mushrooms.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yakitori Chicken Skewers",
+      "amount": "4-6 skewers",
+      "notes": null
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "1 cup sliced",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup cooked",
+      "notes": "for serving"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Brush yakitori chicken skewers with sesame oil and season with salt and pepper.",
+    "3. Grill yakitori chicken for 5-7 minutes per side, or until cooked through.",
+    "4. Meanwhile, heat 1 tablespoon of sesame oil in a large skillet over medium-high heat.",
+    "5. Add sliced shiitake mushrooms and cook for 3-4 minutes, or until tender.",
+    "6. In a small bowl, whisk together soy sauce and 1 tablespoon of water.",
+    "7. Pour soy sauce mixture over mushrooms and cook for an additional 1-2 minutes.",
+    "8. Serve yakitori chicken with sautéed mushrooms and sushi rice.",
+    "9. Garnish with green onions and sesame seeds.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "mushrooms",
+    "grilled",
+    "sushi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-silky-japanese-mushrooms-yakitori",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:00:48.523Z"
+}
