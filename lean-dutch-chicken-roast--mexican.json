@@ -1,0 +1,107 @@
+{
+  "slug": "lean-dutch-chicken-roast--mexican",
+  "title": "Mexican Chicken Fajitas",
+  "description": "A flavorful and spicy dish made with chicken, peppers, onions, and a hint of cumin. Serve with warm flour tortillas and your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound boneless, skinless chicken breast, cut into thin strips",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 large onion, sliced",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "2 large bell peppers, sliced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "2 cloves of garlic, minced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon chili powder",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon paprika",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "1/4",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "8 small flour tortillas",
+      "amount": "8",
+      "notes": null
+    },
+    {
+      "name": "Optional toppings: avocado, sour cream, shredded cheese, cilantro, salsa",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onions and bell peppers to the skillet and cook until tender, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the cumin, chili powder, paprika, and cayenne pepper to the skillet and cook for 1 minute.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and spices.",
+    "Season with salt and pepper to taste.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the chicken and vegetable mixture onto a tortilla and topping with your desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "fajitas",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lean-dutch-chicken-roast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:12:07.096Z"
+}
