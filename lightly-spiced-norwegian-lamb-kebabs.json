@@ -1,0 +1,84 @@
+{
+  "slug": "lightly-spiced-norwegian-lamb-kebabs",
+  "title": "Norwegian Lamb Kebabs",
+  "description": "A flavorful and aromatic dish originating from Norway, featuring lightly spiced lamb kebabs that are perfect for a quick dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably with a bit of fat for tenderness"
+    },
+    {
+      "name": "Norwegian-style kebab spice mix",
+      "amount": "2 tablespoons",
+      "notes": "available in most Scandinavian stores or online"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the kebabs"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (around 400°F/200°C).",
+    "2. Thread lamb cubes, onion, bell pepper, and tomato onto skewers, leaving a little space between each piece.",
+    "3. In a small bowl, mix together Norwegian-style kebab spice mix and olive oil.",
+    "4. Brush the spice mix mixture evenly onto both sides of the lamb cubes.",
+    "5. Grill the kebabs for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "6. Transfer the kebabs to a serving platter and garnish with parsley.",
+    "7. Serve immediately with lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "norwegian",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-norwegian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:16:29.283Z"
+}
