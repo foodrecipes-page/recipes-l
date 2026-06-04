@@ -3048,14 +3048,15 @@
   },
   {
     "slug": "light-boil-pork-stir-fry",
-    "title": "Light Boil Pork Stir-fry",
+    "title": "Crispy Pork Stir Fry",
     "tags": [
-      "light-boil-pork-stir-fry",
-      "quick-chinese-dish",
-      "vegetarian-friendly"
+      "asian",
+      "stir-fry",
+      "pork",
+      "easy"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 15,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -11837,17 +11838,15 @@
   },
   {
     "slug": "lively-brittany-lentils-stew",
-    "title": "Lively Brittany Lentils Stew",
+    "title": "Lively's Brittany Lentil Stew",
     "tags": [
-      "brittany",
-      "macrobiotic-friendly",
-      "one-pot",
-      "peppery",
+      "lentil",
       "stew",
-      "vegan"
+      "comfort-food",
+      "vegetarian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -16053,14 +16052,14 @@
     "slug": "luscious-canadian-lamb-casserole",
     "title": "Luscious Canadian Lamb Casserole",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "crowd-pleaser",
-      "lamb-based",
-      "one-pan"
+      "canadian",
+      "lamb",
+      "casserole",
+      "main-course",
+      "comfort-food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 80,
     "shard": "l"
   },
   {
@@ -20279,6 +20278,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 10,
+    "shard": "l"
+  },
+  {
+    "slug": "light-syrian-lamb-tagine--keto",
+    "title": "Syrian Lamb Tagine",
+    "tags": [
+      "lamb",
+      "ketogenic",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 140,
     "shard": "l"
   }
 ]
