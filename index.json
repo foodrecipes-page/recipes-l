@@ -15510,18 +15510,14 @@
   },
   {
     "slug": "low-sodium-british-kebabs-british-almonds-kebabs",
-    "title": "Low-sodium British Kebabs",
+    "title": "British-Style Kebab",
     "tags": [
-      "adventurous",
-      "almonds",
       "british",
       "kebabs",
-      "low-sodium",
-      "tagine",
-      "tempeh"
+      "low-sodium"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 35,
+    "cuisine": "British",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
@@ -16201,17 +16197,18 @@
   },
   {
     "slug": "luscious-creamy-summer-dutch-temper-paella",
-    "title": "luscious creamy summer dutch temper paella",
+    "title": "Dutch Summer Paella",
     "tags": [
-      "comfort-food",
-      "creamy-sauce",
-      "one-pan",
-      "summer-dish",
-      "vegetarian",
-      "weeknight"
+      "dutch",
+      "paella",
+      "summer",
+      "rice",
+      "chorizo",
+      "shrimp",
+      "spanish"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 40,
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -20405,6 +20402,31 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-spiced-syrian-lentils-pilaf--french",
+    "title": "Syrian Lentil Pilaf",
+    "tags": [
+      "lentils",
+      "pilaf",
+      "vegetarian",
+      "french-cuisine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-american-rye-bread--indian",
+    "title": "Indian-Style Toasted Sandwich",
+    "tags": [
+      "indian",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 8,
     "shard": "l"
   }
 ]
