@@ -20392,5 +20392,19 @@
     "cuisine": "Korean",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "low-glycemic-french-choux-gougere--german",
+    "title": "German Apple Gougere",
+    "tags": [
+      "german",
+      "low-glycemic",
+      "dessert",
+      "gougere",
+      "apple"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
