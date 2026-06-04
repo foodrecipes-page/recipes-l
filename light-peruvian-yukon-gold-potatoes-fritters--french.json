@@ -1,0 +1,75 @@
+{
+  "slug": "light-peruvian-yukon-gold-potatoes-fritters--french",
+  "title": "French Yukon Gold Potato Gratin",
+  "description": "A rich and creamy potato gratin made with Yukon Gold potatoes, light cream, and a hint of Peruvian aji amarillo pepper.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Yukon Gold potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "Light cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "1 small, diced",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Gold potatoes",
+      "amount": "1 large, diced",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel the Yukon Gold potatoes and slice them thinly.",
+    "In a large bowl, combine the sliced potatoes and diced Peruvian aji amarillo pepper.",
+    "In a separate bowl, whisk together the light cream and a pinch of salt and pepper.",
+    "Grease a 9x13 inch baking dish with butter or cooking spray.",
+    "Arrange a layer of potatoes in the baking dish, followed by a layer of cream.",
+    "Repeat the layers two more times, ending with a layer of cream on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown.",
+    "Remove from the oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "gratin",
+    "french",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-peruvian-yukon-gold-potatoes-fritters--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:41:16.911Z"
+}
