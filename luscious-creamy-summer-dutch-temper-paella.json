@@ -1,0 +1,99 @@
+{
+  "slug": "luscious-creamy-summer-dutch-temper-paella",
+  "title": "Dutch Summer Paella",
+  "description": "A vibrant Dutch-inspired paella dish perfect for summer evenings, loaded with saffron-infused rice, succulent shrimp, and smoky chorizo.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saffron-infused rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1/2 pound",
+      "notes": "Slice into 1/4-inch thick rounds"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Peel and de-vein"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Slice into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chorizo and cook until browned, about 2-3 minutes. Remove from the pan and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pan, then add the sliced red bell pepper and cook until tender, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the saffron-infused rice to the pan and stir to coat the rice in oil and mix with the vegetables.",
+    "Add the smoked paprika, salt, and black pepper to the pan and stir to combine.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Add the browned chorizo back into the pan, then add the peeled and de-veined shrimp.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes.",
+    "Serve the paella hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "paella",
+    "summer",
+    "rice",
+    "chorizo",
+    "shrimp",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-creamy-summer-dutch-temper-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:14:49.986Z"
+}
