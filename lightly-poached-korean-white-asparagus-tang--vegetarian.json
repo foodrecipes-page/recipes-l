@@ -1,0 +1,72 @@
+{
+  "slug": "lightly-poached-korean-white-asparagus-tang--vegetarian",
+  "title": "Tangy Asparagus Stir-Fry",
+  "description": "A simple and flavorful vegetarian stir-fry made with poached asparagus, tangy sauce, and crisp white onions.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "poached, cut into 1-inch pieces"
+    },
+    {
+      "name": "tang",
+      "amount": "2 tablespoons",
+      "notes": "korean chili paste"
+    },
+    {
+      "name": "lightly salted sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and stir-fry for 1 minute.",
+    "Add asparagus and stir-fry for 2-3 minutes, or until tender.",
+    "Stir in tang, white pepper, and salt to taste.",
+    "Add sliced onions and stir-fry for an additional 2 minutes.",
+    "Serve hot, garnished with sesame seeds and chopped green onions if desired.",
+    "Cook's note: For an extra kick, add a dash of red pepper flakes.",
+    "Cook's note: To poach asparagus, bring a pot of water to a boil, then reduce heat to a simmer.",
+    "Add asparagus to the pot, cover, and cook for 4-6 minutes, or until tender.",
+    "Drain and rinse with cold water to stop cooking."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-poached-korean-white-asparagus-tang--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:39:18.547Z"
+}
