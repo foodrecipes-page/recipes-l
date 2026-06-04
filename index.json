@@ -3497,16 +3497,18 @@
   },
   {
     "slug": "light-comforting-doner-wraps",
-    "title": "Light Comforting Doner Wraps",
+    "title": "Doner Wrap",
     "tags": [
+      "lamb",
       "doner",
-      "wraps",
-      "light",
+      "wrap",
+      "turkish",
       "comforting",
-      "french"
+      "flavorful",
+      "easy"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 5,
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -16993,16 +16995,14 @@
   },
   {
     "slug": "luscious-lean-peruvian-pollo-jjigae-style-roast",
-    "title": "Luscious Lean Peruvian Pollo Jjigae-Style Roast",
+    "title": "Peruvian Roast Chicken with Pollo Jjigae Sauce",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
       "peruvian",
-      "weeknight"
+      "chicken",
+      "roast"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 75,
+    "cuisine": "peruvian",
+    "totalTimeMin": 65,
     "shard": "l"
   },
   {
