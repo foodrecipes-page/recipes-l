@@ -1,0 +1,82 @@
+{
+  "slug": "low-calorie-korean-noodles-sujebi--vegan",
+  "title": "Low-Calorie Korean Sujebi Noodle Soup",
+  "description": "A vegan version of the Korean sujebi noodle soup, made with low-calorie ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Low-calorie noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Sujebi (Korean handmade noodles)",
+      "amount": "100g",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce (make sure it's vegan)",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the low-calorie noodles according to the package instructions.",
+    "Heat the vegetable broth in a large pot over medium heat.",
+    "Add sliced mushrooms, chopped spinach, sliced ginger, and minced garlic to the pot.",
+    "Bring the broth to a simmer and cook for 5 minutes.",
+    "Add the sujebi noodles to the pot and cook for an additional 2-3 minutes.",
+    "Season the soup with soy sauce and serve hot.",
+    "Garnish with green onions and sliced ginger, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "noodles",
+    "low-calorie",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-calorie-korean-noodles-sujebi--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:56:27.305Z"
+}
