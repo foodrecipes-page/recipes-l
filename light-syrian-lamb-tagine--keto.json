@@ -1,0 +1,89 @@
+{
+  "slug": "light-syrian-lamb-tagine--keto",
+  "title": "Syrian Lamb Tagine",
+  "description": "A rich and flavorful Middle Eastern dish made with lamb, lamb stock, and aromatic spices, perfect for a keto diet.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Syrian allspice",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Lamb stock",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb pieces on all sides, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Add garlic and ginger to pot and cook for 1 minute.",
+    "Stir in allspice, tagine spice blend, salt, and pepper.",
+    "Cook for 1 minute.",
+    "Add lamb stock to pot and bring to a boil.",
+    "Return lamb to pot and cover.",
+    "Transfer pot to oven and braise for 2 hours, or until lamb is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "ketogenic",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 47
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-syrian-lamb-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:15:57.819Z"
+}
