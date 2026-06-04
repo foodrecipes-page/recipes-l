@@ -1,0 +1,81 @@
+{
+  "slug": "light-peruvian-yukon-gold-potatoes-fritters--gluten-free",
+  "title": "Crispy Peruvian Fritter Potato Cakes",
+  "description": "A gluten-free version of traditional Peruvian fritters made with Yukon gold potatoes and topped with crispy fritters.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Peruvian potatoes",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Gluten-free cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gluten-free flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fritters (store-bought or homemade)",
+      "amount": "4-6"
+    },
+    {
+      "name": "Light oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Grate the Yukon gold potatoes and set aside.",
+    "Boil the Peruvian potatoes until tender, then drain and let cool.",
+    "In a large bowl, combine the gluten-free cornstarch, gluten-free flour, and eggs. Mix well.",
+    "Add the grated cheese, chopped scallions, and boiled potatoes to the bowl. Mix until a dough forms.",
+    "Heat a non-stick skillet or frying pan over medium-high heat with a small amount of oil.",
+    "Using a spoon, drop small amounts of the potato mixture into the pan and flatten slightly.",
+    "Cook the potato cakes for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Meanwhile, heat a small amount of oil in a separate pan and fry the fritters until crispy.",
+    "Serve the potato cakes hot topped with crispy fritters and a side of your favorite dipping sauce.",
+    "Optional: Serve with a fried egg or a side of salsa for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "breakfast",
+    "peruvian",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-peruvian-yukon-gold-potatoes-fritters--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:44:06.220Z"
+}
