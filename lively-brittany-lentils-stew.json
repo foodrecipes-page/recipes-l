@@ -1,0 +1,68 @@
+{
+  "slug": "lively-brittany-lentils-stew",
+  "title": "Lively's Brittany Lentil Stew",
+  "description": "A hearty, comforting stew originating from Brittany, featuring lentils and a blend of aromatic spices.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils, brown",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "Brittany, salt",
+      "amount": null
+    },
+    {
+      "name": "Lively, black pepper",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are tender, about 8 minutes.",
+    "Add the lentils, vegetable broth, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Check that the lentils are tender, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "stew",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-brittany-lentils-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:45:10.907Z"
+}
