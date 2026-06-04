@@ -1,0 +1,76 @@
+{
+  "slug": "lovely-smoky-peruvian-beetroot-lomo-saltado",
+  "title": "Peruvian Lomo Saltado",
+  "description": "A classic Peruvian dish made with beef strips, onions, tomatoes, and French fries, served with rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lomo (thinly sliced beef strips)",
+      "amount": "500g"
+    },
+    {
+      "name": "Lovely potatoes (French fries)",
+      "amount": "2 large"
+    },
+    {
+      "name": "Smoky onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Peruvian tomatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Beetroot (for garnish)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Saltado seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced onions and cook until browned, about 3-4 minutes.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Add the tomatoes and cook for an additional 2 minutes.",
+    "Add the French fries and cook for 2-3 minutes, or until they start to brown.",
+    "Season with Saltado seasoning and salt to taste.",
+    "Serve hot, garnished with beetroot slices.",
+    "Cook rice according to package instructions and serve alongside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "french-fries",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 45,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-peruvian-beetroot-lomo-saltado",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:53:50.596Z"
+}
