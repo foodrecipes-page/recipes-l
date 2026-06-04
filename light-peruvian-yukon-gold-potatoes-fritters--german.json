@@ -1,0 +1,68 @@
+{
+  "slug": "light-peruvian-yukon-gold-potatoes-fritters--german",
+  "title": "German Potato Fritters",
+  "description": "A classic German dish made with crispy potato fritters and a side of tangy applesauce. Perfect for a snack or light meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "light potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "peruvian potatoes",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "gold potatoes",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "yukon potatoes",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "fritters",
+      "amount": "1 package",
+      "notes": "for coating"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated potatoes and 1/2 cup of water. Let it sit for 5 minutes to allow the potatoes to release their excess moisture.",
+    "Squeeze out as much water as possible from the potato mixture using a cheesecloth or a clean dish towel.",
+    "In a separate bowl, mix together the eggs, salt, and pepper.",
+    "Add the egg mixture to the potato mixture and stir until well combined.",
+    "Heat a large non-stick skillet or griddle over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the potato mixture into the skillet or griddle, flattening it slightly with a spatula.",
+    "Cook the fritters for 4-5 minutes on each side, or until they are golden brown and crispy.",
+    "Serve the fritters hot with a side of tangy applesauce or your favorite dipping sauce.",
+    "Optional: You can also coat the fritters with a mixture of flour, paprika, and garlic powder before frying for an extra crispy coating."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "potato",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-peruvian-yukon-gold-potatoes-fritters--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:39:56.593Z"
+}
