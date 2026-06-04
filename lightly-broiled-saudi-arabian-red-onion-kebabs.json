@@ -1,0 +1,77 @@
+{
+  "slug": "lightly-broiled-saudi-arabian-red-onion-kebabs",
+  "title": "Saudi Arabian Red Onion Kebabs",
+  "description": "A flavorful and aromatic kebab dish from Saudi Arabia, featuring red onion and spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Red onion",
+      "amount": "2 large onions, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Lightly broiled chicken breast",
+      "amount": "500g, cut into kebab-sized pieces",
+      "notes": ""
+    },
+    {
+      "name": "Saudi Arabian spices (Baharat)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together the Baharat, lemon juice, olive oil, salt, and black pepper.",
+    "Add the chicken and onion slices to the bowl and toss to coat.",
+    "Thread the chicken and onion onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the chicken is cooked through and the onion is tender.",
+    "Serve hot, garnished with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "saudi-arabian",
+    "red-onion",
+    "chicken",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-broiled-saudi-arabian-red-onion-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:43:36.034Z"
+}
