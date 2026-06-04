@@ -1,0 +1,89 @@
+{
+  "slug": "low-calorie-korean-noodles-sujebi",
+  "title": "Low-Calorie Korean Sujebi",
+  "description": "A traditional Korean dish made with low-calorie noodles and sujebi, perfect for a quick and easy meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Low-calorie noodles",
+      "amount": "200g",
+      "notes": "Choose a brand with minimal added sugars and salt"
+    },
+    {
+      "name": "Sujebi",
+      "amount": "100g",
+      "notes": "Traditional Korean noodle soup made with anchovy broth"
+    },
+    {
+      "name": "Low-sodium broth",
+      "amount": "500ml",
+      "notes": "You can use store-bought or homemade broth"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced or grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium option"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Bring the broth to a boil in a large pot.",
+    "Add the sliced ginger and garlic.",
+    "Cook for 2 minutes or until fragrant.",
+    "Add the low-calorie noodles and cook according to package instructions.",
+    "Add the sujebi and cook for an additional 2-3 minutes.",
+    "Season with soy sauce and sesame oil.",
+    "Taste and adjust the seasoning with black pepper.",
+    "Garnish with chopped green onions.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "low-calorie",
+    "noodles",
+    "sujebi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "14g",
+    "carbs": "60g",
+    "fat": "6g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-calorie-korean-noodles-sujebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:22:42.646Z"
+}
