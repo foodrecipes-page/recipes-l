@@ -1,0 +1,96 @@
+{
+  "slug": "low-calorie-korean-noodles-sujebi--gluten-free",
+  "title": "Spicy Sujebi Noodle Soup",
+  "description": "A gluten-free, spicy noodle soup inspired by Korean cuisine, made with sujebi (hand-pulled noodles) and a variety of vegetables. This dish is perfect for a quick and easy meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sujebi (hand-pulled noodles)",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Low-calorie vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger, peeled and grated",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Zucchini, sliced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots, peeled and sliced",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Low-calorie soy sauce (gluten-free)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the Korean chili flakes, ginger, and garlic to the pot.",
+    "Reduce heat to medium-low and simmer for 5 minutes.",
+    "Add the sliced zucchini and carrots to the pot.",
+    "Cook for an additional 5 minutes, or until the vegetables are tender.",
+    "Stir in the low-calorie soy sauce and salt to taste.",
+    "Cook the sujebi noodles according to package instructions.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Sprinkle the chopped green onions on top of the soup.",
+    "Serve hot and enjoy.",
+    "Optional: garnish with toasted sesame seeds and extra green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "low-calorie",
+    "gluten-free",
+    "noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-calorie-korean-noodles-sujebi--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:57:26.969Z"
+}
