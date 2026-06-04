@@ -1,0 +1,59 @@
+{
+  "slug": "light-spanish-cornmeal-pilaf--chinese",
+  "title": "Crispy Cornmeal Chicken Bites",
+  "description": "A twist on traditional Chinese-style fried chicken, this recipe uses cornmeal for a crispy coating.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "spanish paprika",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, whisk together soy sauce, paprika, and 1 tablespoon water.",
+    "2. Add the chicken to the marinade and toss to coat. Refrigerate for at least 30 minutes.",
+    "3. Preheat the oil in a deep frying pan or a deep fryer to 350°F (175°C).",
+    "4. In a shallow dish, mix together cornmeal and a pinch of salt.",
+    "5. Remove the chicken from the marinade, allowing any excess to drip off.",
+    "6. Dredge the chicken pieces in the cornmeal mixture, shaking off any excess.",
+    "7. Fry the chicken in batches until golden brown and cooked through, about 5-7 minutes.",
+    "8. Drain the chicken on paper towels and serve hot with pilaf."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fried-chicken",
+    "cornmeal"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-spanish-cornmeal-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:18:48.290Z"
+}
