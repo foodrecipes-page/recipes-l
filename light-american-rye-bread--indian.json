@@ -1,0 +1,59 @@
+{
+  "slug": "light-american-rye-bread--indian",
+  "title": "Indian-Style Toasted Sandwich",
+  "description": "A simple and flavorful sandwich recipe with Indian-inspired flavors. Serve as a snack or light meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "light bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "american cheese",
+      "amount": "1 slice",
+      "notes": "optional"
+    },
+    {
+      "name": "thinly sliced rye bread",
+      "amount": "1 slice",
+      "notes": "for toasting"
+    },
+    {
+      "name": "Indian-style chutney",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Toast the rye bread slice until lightly browned.",
+    "2. Spread 1 tablespoon of chutney on each toasted bread slice.",
+    "3. Place 1 slice of American cheese between the two bread slices.",
+    "4. Grill or toast the sandwich until the cheese is melted and the bread is crispy.",
+    "5. Cut the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-american-rye-bread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:04:08.430Z"
+}
