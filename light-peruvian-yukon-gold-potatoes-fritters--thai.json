@@ -1,0 +1,68 @@
+{
+  "slug": "light-peruvian-yukon-gold-potatoes-fritters--thai",
+  "title": "Thai-Style Twice-Fried Potato Fritters",
+  "description": "A crispy and flavorful snack inspired by Thai street food. Twice-frying the fritters gives them a crunchy exterior and fluffy interior.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "light potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "peruvian gold potatoes",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "yukon potatoes",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "fritters",
+      "amount": "1 package",
+      "notes": "used for inspiration"
+    }
+  ],
+  "instructions": [
+    "Grate the light potatoes, peruvian gold potatoes, and yukon potatoes.",
+    "Squeeze out as much moisture as possible from the grated potatoes.",
+    "In a bowl, mix together the grated potatoes, 1 egg, and 1/4 cup of flour.",
+    "Heat about 1-2 inches of oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small amounts of the potato mixture into the oil.",
+    "Fry the fritters until they are golden brown, about 2-3 minutes.",
+    "Remove the fritters from the oil and let them cool on a paper towel-lined plate.",
+    "Increase the heat to high and add more oil to the pan if necessary.",
+    "Once the oil is hot, add the fritters back into the pan and fry until they are crispy and golden brown, about 2-3 minutes.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "potatoes",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-peruvian-yukon-gold-potatoes-fritters--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:39:54.019Z"
+}
