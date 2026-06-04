@@ -1,0 +1,94 @@
+{
+  "slug": "long-smoked-slovakian-vanilla-bake",
+  "title": "Slovakian Smoked Long Bean Fritters",
+  "description": "A traditional Slovakian dish made with smoked long beans, perfect for a snack or side. These crispy fritters are easy to make and delicious to eat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "long beans",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bake soda",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bake powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the long beans, smoked paprika, flour, bake soda, eggs, vanilla sugar, salt, and bake powder.",
+    "Mix well until a thick batter forms.",
+    "Gradually add in the water and mix until the batter reaches the desired consistency.",
+    "Heat the oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small amounts of the batter into the hot oil.",
+    "Fry the fritters until they are golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "smoked",
+    "fritters",
+    "long-beans"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/long-smoked-slovakian-vanilla-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:12:54.426Z"
+}
