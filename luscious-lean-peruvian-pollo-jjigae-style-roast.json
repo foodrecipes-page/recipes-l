@@ -1,0 +1,81 @@
+{
+  "slug": "luscious-lean-peruvian-pollo-jjigae-style-roast",
+  "title": "Peruvian Roast Chicken with Pollo Jjigae Sauce",
+  "description": "A twist on traditional roast chicken with a spicy and savory Peruvian-inspired sauce.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pollo",
+      "amount": "1 whole",
+      "notes": "3-4 pounds"
+    },
+    {
+      "name": "Peruvian",
+      "amount": "2 tablespoons",
+      "notes": "a blend of spices including cumin, coriander, and chili powder"
+    },
+    {
+      "name": "luscious",
+      "amount": "1/4 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "lean",
+      "amount": "1 medium",
+      "notes": "onion, chopped"
+    },
+    {
+      "name": "style",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "roast",
+      "amount": "1 teaspoon",
+      "notes": "paprika"
+    },
+    {
+      "name": "jjigae",
+      "amount": "1/4 cup",
+      "notes": "gochujang sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "In a small bowl, mix together Peruvian spice blend, roast paprika, and a pinch of salt.",
+    "Rub the spice blend all over the chicken, making sure to get some under the skin as well.",
+    "Heat luscious butter in a large skillet over medium-high heat.",
+    "Sear the chicken on all sides until golden brown, about 5-7 minutes.",
+    "Transfer the chicken to a baking sheet and roast in the oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is roasting, heat lean onion and style garlic in a small saucepan over medium heat.",
+    "Add jjigae gochujang sauce and stir to combine.",
+    "Simmer the sauce for 5-7 minutes, stirring occasionally, until thickened slightly.",
+    "Once the chicken is done, let it rest for 5 minutes before carving.",
+    "Serve the chicken with the pollo jjigae sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-lean-peruvian-pollo-jjigae-style-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:46:31.208Z"
+}
