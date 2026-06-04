@@ -1,0 +1,89 @@
+{
+  "slug": "light-boil-pork-stir-fry",
+  "title": "Crispy Pork Stir Fry",
+  "description": "A quick and easy stir fry recipe that serves a crowd with flavorful crispy pork.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "2. Add the sliced onion and bell pepper and stir-fry until they begin to soften.",
+    "3. Add the minced garlic and stir-fry for 1 minute.",
+    "4. Add the sliced pork and cook until browned and crispy.",
+    "5. In a small bowl, whisk together soy sauce and oyster sauce (if using).",
+    "6. Add the marinade to the wok or skillet and stir-fry for 1-2 minutes.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve immediately and garnish with green onions (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "stir-fry",
+    "pork",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-boil-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:15:09.207Z"
+}
