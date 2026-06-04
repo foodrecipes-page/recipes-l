@@ -1,0 +1,90 @@
+{
+  "slug": "light-comforting-doner-wraps",
+  "title": "Doner Wrap",
+  "description": "A comforting and flavorful doner wrap filled with juicy lamb and crunchy vegetables. Perfect for a satisfying meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Doner Meat",
+      "amount": "250g",
+      "notes": "Cooked to an internal temperature of 63°C (145°F)"
+    },
+    {
+      "name": "Wraps",
+      "amount": "4",
+      "notes": "Gluten-free wraps available"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "amount": "100g",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Slice the lamb doner meat into thin strips.",
+    "2. Warm the wraps in the oven at 180°C (350°F) for 5 minutes.",
+    "3. Assemble the wraps by spreading tzatziki sauce on the bottom half of the wrap.",
+    "4. Add sliced lamb, lettuce, tomato, onion, cucumber, and sumac (if using).",
+    "5. Fold the bottom half of the wrap over the filling and serve immediately.",
+    "6. Repeat with remaining ingredients."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "doner",
+    "wrap",
+    "turkish",
+    "comforting",
+    "flavorful",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-comforting-doner-wraps",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:53:41.362Z"
+}
