@@ -1,0 +1,77 @@
+{
+  "slug": "lightly-poached-korean-white-asparagus-tang",
+  "title": "Tangy Asparagus Poached Salmon",
+  "description": "A delicious and healthy salmon dish, poached to perfection and served with a side of tangy asparagus.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "White asparagus",
+      "amount": "1 lb",
+      "notes": " trimmed"
+    },
+    {
+      "name": "Tang",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional for some heat"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for poaching"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large saucepan.",
+    "Reduce the heat to a simmer and add the salmon, poaching for 8-10 minutes or until cooked through.",
+    "Meanwhile, toss the asparagus with the soy sauce, chili flakes, and a pinch of salt and pepper.",
+    "Steam the asparagus for 4-5 minutes or until tender.",
+    "Serve the salmon with the asparagus and a drizzle of tang on top.",
+    "Season with additional salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "salmon",
+    "poached",
+    "korean",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-poached-korean-white-asparagus-tang",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:01:28.188Z"
+}
