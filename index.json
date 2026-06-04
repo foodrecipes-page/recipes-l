@@ -19959,17 +19959,15 @@
   },
   {
     "slug": "luxuriously-roasted-korean-vin-santo-hwajeon",
-    "title": "Luxuriously Roasted Korean Vin Santo Hwajeon",
+    "title": "Korean Vin Santo Hwajeon",
     "tags": [
-      "indulgent",
-      "korean-dessert",
-      "luxurious",
-      "roasted",
-      "special-occasion",
-      "vin-santo"
+      "dessert",
+      "korean",
+      "italian",
+      "fusion"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "cuisine": "Korean-Italian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -20427,6 +20425,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 8,
+    "shard": "l"
+  },
+  {
+    "slug": "light-spanish-cornmeal-pilaf--chinese",
+    "title": "Crispy Cornmeal Chicken Bites",
+    "tags": [
+      "chinese",
+      "fried-chicken",
+      "cornmeal"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "l"
   }
 ]
