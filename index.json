@@ -7967,17 +7967,16 @@
   },
   {
     "slug": "lightly-broiled-saudi-arabian-red-onion-kebabs",
-    "title": "Lightly Broiled Saudi Arabian Red Onion Kebabs",
+    "title": "Saudi Arabian Red Onion Kebabs",
     "tags": [
-      "healthy",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "kebabs",
+      "saudi-arabian",
+      "red-onion",
+      "chicken",
+      "vegetarian-option"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -20290,6 +20289,71 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 140,
+    "shard": "l"
+  },
+  {
+    "slug": "lean-dutch-chicken-roast--mexican",
+    "title": "Mexican Chicken Fajitas",
+    "tags": [
+      "chicken",
+      "mexican",
+      "fajitas",
+      "dinner"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-peruvian-yukon-gold-potatoes-fritters--thai",
+    "title": "Thai-Style Twice-Fried Potato Fritters",
+    "tags": [
+      "thai",
+      "potatoes",
+      "fritters",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-peruvian-yukon-gold-potatoes-fritters--german",
+    "title": "German Potato Fritters",
+    "tags": [
+      "german",
+      "potato",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-peruvian-yukon-gold-potatoes-fritters--french",
+    "title": "French Yukon Gold Potato Gratin",
+    "tags": [
+      "potato",
+      "gratin",
+      "french",
+      "creamy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 70,
+    "shard": "l"
+  },
+  {
+    "slug": "light-peruvian-yukon-gold-potatoes-fritters--gluten-free",
+    "title": "Crispy Peruvian Fritter Potato Cakes",
+    "tags": [
+      "gluten-free",
+      "breakfast",
+      "peruvian",
+      "fritters"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
     "shard": "l"
   }
 ]
