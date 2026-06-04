@@ -1,0 +1,68 @@
+{
+  "slug": "luxuriously-roasted-korean-vin-santo-hwajeon",
+  "title": "Korean Vin Santo Hwajeon",
+  "description": "A fusion dessert combining Korean hwajeon with Italian Vin Santo. Crunchy rice flour pancakes served with caramelized Korean honey and an Italian dessert wine reduction.",
+  "cuisine": "Korean-Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean Honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vin Santo",
+      "amount": "1 cup",
+      "notes": "Italian dessert wine"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine rice flour and water in a bowl to form a smooth batter.",
+    "Heat coconut oil in a large non-stick pan over medium heat.",
+    "Using a ladle, pour the batter into the pan to form pancakes.",
+    "Cook the pancakes for 2-3 minutes on each side or until golden brown.",
+    "In a small saucepan, heat the Korean honey over low heat until caramelized.",
+    "To serve, place a pancake on a plate and drizzle with caramelized honey and Vin Santo reduction.",
+    "To make the reduction, boil Vin Santo in a saucepan until reduced by half.",
+    "Serve the hwajeon with the Vin Santo reduction immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "korean",
+    "italian",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriously-roasted-korean-vin-santo-hwajeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:37:59.624Z"
+}
