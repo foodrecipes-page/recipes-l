@@ -1,0 +1,78 @@
+{
+  "slug": "low-glycemic-french-choux-gougere--german",
+  "title": "German Apple Gougere",
+  "description": "A classic German dessert featuring a low-glycemic gougere pastry filled with sweet apples.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "low-glycemic"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "grated apple",
+      "amount": "1 cup",
+      "notes": "low-glycemic"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together flour, baking powder, and salt.",
+    "In a separate large bowl, cream butter and eggs until light and fluffy.",
+    "Gradually add dry ingredients to butter mixture, mixing until combined.",
+    "Gently fold in grated apple.",
+    "Transfer dough to a piping bag fitted with a large round tip.",
+    "Pipe dough onto a parchment-lined baking sheet in small balls, about 1 inch apart.",
+    "Bake for 15-20 minutes, or until puffed and golden brown.",
+    "Allow gougere to cool completely before filling with granulated sugar, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "low-glycemic",
+    "dessert",
+    "gougere",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-glycemic-french-choux-gougere--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:16:37.904Z"
+}
