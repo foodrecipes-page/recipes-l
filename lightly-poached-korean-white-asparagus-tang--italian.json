@@ -1,0 +1,82 @@
+{
+  "slug": "lightly-poached-korean-white-asparagus-tang--italian",
+  "title": "Creamy White Asparagus Pasta with Poached Eggs",
+  "description": "A delicious Italian-inspired dish featuring lightly cooked white asparagus, poached eggs, and a creamy sauce. This recipe is perfect for a springtime dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 pound",
+      "notes": " trimmed"
+    },
+    {
+      "name": "pasta (linguine or fettuccine)",
+      "amount": "8 ounces",
+      "notes": " cooked al dente"
+    },
+    {
+      "name": "poached eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "korean chili flakes (gochugaru)",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "tangy cream (sour cream or crème fraîche)",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "While the pasta cooks, melt 1 tablespoon of butter in a large skillet over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the white asparagus to the skillet and cook for 3-5 minutes until lightly cooked.",
+    "In a small bowl, whisk together the tangy cream and Korean chili flakes (if using).",
+    "Add the cream mixture to the skillet with the asparagus and stir to combine.",
+    "Once the pasta is cooked, reserve 1 cup of pasta water and then drain the pasta.",
+    "Add the cooked pasta to the skillet with the asparagus and cream sauce. Toss to combine, adding some reserved pasta water if the sauce seems too thick.",
+    "Meanwhile, poach the eggs by cracking them into a pot of simmering water. Cook for 3-5 minutes until the whites are set and the yolks are cooked to your desired doneness.",
+    "To serve, place the pasta on a plate, top with a poached egg, and spoon some of the asparagus and cream sauce over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "spring",
+    "asparagus",
+    "pasta",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-poached-korean-white-asparagus-tang--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:40:31.969Z"
+}
