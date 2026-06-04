@@ -12766,18 +12766,15 @@
   },
   {
     "slug": "long-smoked-slovakian-vanilla-bake",
-    "title": "Long-Smoked Slovakian Vanilla Bake",
+    "title": "Slovakian Smoked Long Bean Fritters",
     "tags": [
-      "dessert",
-      "gluten-free",
       "slovakian",
       "smoked",
-      "vanilla",
-      "vegan",
-      "wood-fired"
+      "fritters",
+      "long-beans"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 42,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -15679,16 +15676,14 @@
   },
   {
     "slug": "lpeppery-lonion-bravas",
-    "title": "Lpeppery LOnion Bravas",
+    "title": "Bravas and Lonion Frittata",
     "tags": [
-      "crispy",
-      "paleo-friendly",
-      "peppery",
-      "solo-dinner",
-      "spanish"
+      "spanish",
+      "omelette",
+      "breakfast"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 22,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -20349,6 +20344,58 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-poached-korean-white-asparagus-tang--vegetarian",
+    "title": "Tangy Asparagus Stir-Fry",
+    "tags": [
+      "asparagus",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-poached-korean-white-asparagus-tang--italian",
+    "title": "Creamy White Asparagus Pasta with Poached Eggs",
+    "tags": [
+      "italian",
+      "spring",
+      "asparagus",
+      "pasta",
+      "eggs"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
+    "slug": "low-calorie-korean-noodles-sujebi--vegan",
+    "title": "Low-Calorie Korean Sujebi Noodle Soup",
+    "tags": [
+      "korean",
+      "noodles",
+      "low-calorie",
+      "vegan"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "low-calorie-korean-noodles-sujebi--gluten-free",
+    "title": "Spicy Sujebi Noodle Soup",
+    "tags": [
+      "korean",
+      "low-calorie",
+      "gluten-free",
+      "noodle-soup"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
