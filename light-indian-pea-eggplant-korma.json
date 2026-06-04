@@ -1,0 +1,77 @@
+{
+  "slug": "light-indian-pea-eggplant-korma",
+  "title": "Eggplant Korma",
+  "description": "A flavorful and spicy Indian-inspired eggplant dish made with a rich korma sauce. Serve over basmati rice or with naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "korma sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup frozen"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee or oil in a large skillet over medium heat.",
+    "Add the eggplant and cook until it starts to soften, about 3-4 minutes.",
+    "Add the korma sauce, peas, coconut milk, garam masala, salt, cumin powder, and coriander powder.",
+    "Stir well to combine and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 15-20 minutes or until the eggplant is tender.",
+    "Serve hot over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "indian",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-indian-pea-eggplant-korma",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:38:03.633Z"
+}
