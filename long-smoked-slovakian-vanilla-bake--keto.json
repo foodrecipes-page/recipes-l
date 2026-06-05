@@ -1,0 +1,87 @@
+{
+  "slug": "long-smoked-slovakian-vanilla-bake--keto",
+  "title": "Smoked Slovakian Keto Sausage Bakes",
+  "description": "A keto twist on traditional Slovakian sausage bakes, featuring long, smoked Slovakian sausages and a side of vanilla-flavored cauliflower.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long, Smoked Slovakian Sausages",
+      "amount": "4",
+      "notes": "look for a keto-friendly sausage"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "vanilla flavoring and butter will be added later"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "high-quality extract"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup",
+      "notes": "almond flour or coconut flour"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the cauliflower into florets and place on a baking sheet.",
+    "3. Drizzle the cauliflower with butter and sprinkle with salt, pepper, and garlic powder.",
+    "4. Roast the cauliflower in the oven for 20-25 minutes, or until tender.",
+    "5. Meanwhile, slice the smoked Slovakian sausages into 1-inch pieces.",
+    "6. In a large skillet, cook the sausage pieces over medium-high heat until browned, about 5-7 minutes.",
+    "7. Remove the sausage from the skillet and set aside.",
+    "8. Add the vanilla extract to the skillet and cook for 1 minute.",
+    "9. Sprinkle the bake into the skillet and cook for 2-3 minutes, stirring constantly.",
+    "10. Return the sausage to the skillet and stir to combine with the bake mixture.",
+    "11. Serve the sausage and bake mixture over the roasted cauliflower."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "slovakian",
+    "sausages",
+    "cauliflower",
+    "vanilla"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 48
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/long-smoked-slovakian-vanilla-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:20:38.856Z"
+}
