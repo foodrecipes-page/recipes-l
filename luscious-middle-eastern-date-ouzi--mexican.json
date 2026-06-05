@@ -1,0 +1,72 @@
+{
+  "slug": "luscious-middle-eastern-date-ouzi--mexican",
+  "title": "Middle Eastern-Style Stuffed Dates with Ouzi",
+  "description": "A fusion twist on traditional stuffed dates, with a sweet and spicy kick from the ouzi.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12"
+    },
+    {
+      "name": "ouzi",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "luscious cheese",
+      "amount": "1/4 cup crumbled"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut a small slit in the side of each date to create a pocket.",
+    "3. Stuff each date with a pinch of luscious cheese, a sprinkle of middle eastern spice blend, and a few chopped cilantro leaves.",
+    "4. Drizzle ouzi evenly over the stuffed dates.",
+    "5. Sprinkle crushed red pepper flakes and salt to taste.",
+    "6. Bake for 10-12 minutes, or until the cheese is melted and the dates are caramelized.",
+    "7. Remove from oven and squeeze fresh lime juice over the top.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-middle-eastern-date-ouzi--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:16:46.530Z"
+}
