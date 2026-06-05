@@ -11707,15 +11707,15 @@
   },
   {
     "slug": "lime-leaf-medjool",
-    "title": "Lime Leaf Medjool",
+    "title": "Lime and Coconut Rice Bowl",
     "tags": [
-      "limes",
-      "syrian",
-      "umami",
-      "juicy"
+      "coconut-rice",
+      "lime-juice",
+      "chicken",
+      "gluten-free"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 5,
+    "cuisine": "Asian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -18715,13 +18715,12 @@
   },
   {
     "slug": "luxuriant-garlicky-vietnamese-noodles",
-    "title": "Luxuriant Garlicky Vietnamese Noodles",
+    "title": "Luxuriant Vietnamese Noodle Soup",
     "tags": [
-      "bamboo-serving",
-      "garlic-lovers",
-      "noodle-dishes",
-      "vegetarian-friendly",
-      "vietnamese-cuisine"
+      "noodle-soup",
+      "vietnamese-cuisine",
+      "luxuriant-ingredients",
+      "garlicky-ginger"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
@@ -20585,6 +20584,33 @@
     ],
     "cuisine": "Asian",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "long-smoked-slovakian-vanilla-bake--french",
+    "title": "Smoked Pork Roulade with Vanilla Cream",
+    "tags": [
+      "pork",
+      "smoked",
+      "vanilla",
+      "cream",
+      "roulade"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lemon-light-british-lentils-curry--vegetarian",
+    "title": "Lentil Curry",
+    "tags": [
+      "lentil",
+      "curry",
+      "vegetarian",
+      "british"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "l"
   }
 ]
