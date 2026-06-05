@@ -1,0 +1,63 @@
+{
+  "slug": "lively-smoky-argentinian-potatoes-grill--japanese",
+  "title": "Smoky Miso Potato Yakitori",
+  "description": "A twist on traditional Japanese yakitori, this recipe combines smoky flavors with the sweetness of potatoes.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "lively miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "argentinian chimichurri",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grill",
+      "amount": null,
+      "notes": "for cooking"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the potatoes into 1-inch cubes and set aside.",
+    "In a small bowl, whisk together the miso paste and chimichurri.",
+    "Add the soy sauce (if using) and whisk until combined.",
+    "Thread the potatoes onto skewers, if using.",
+    "Brush the potatoes with the miso-chimichurri mixture and season with salt and pepper.",
+    "Grill the potatoes for 10-12 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Serve the potatoes hot, garnished with additional chimichurri if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "snack",
+    "grilled",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-smoky-argentinian-potatoes-grill--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:56:35.360Z"
+}
