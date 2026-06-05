@@ -1,0 +1,84 @@
+{
+  "slug": "light-charred-filipino-rice-noodles-pancit-bihon--gluten-free",
+  "title": "Filipino-Style Bihon Stir Fry",
+  "description": "A traditional Filipino dish made with bihon noodles, vegetables, and a savory sauce. This gluten-free version is perfect for a quick and easy dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bihon Noodles",
+      "amount": "1 package (8 oz)",
+      "notes": "gluten-free bihon noodles"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Char Siu Fillet",
+      "amount": "1 cup",
+      "notes": "sliced, cooked"
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade and stir-fry"
+    },
+    {
+      "name": "Oyster Sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Cook bihon noodles according to package instructions. Drain and set aside.",
+    "In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for another minute, until fragrant.",
+    "Add sliced char siu fillet and cook for 2-3 minutes, until heated through.",
+    "Add cooked bihon noodles, light soy sauce, and oyster sauce (if using) to the skillet.",
+    "Stir-fry everything together for 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "gluten-free",
+    "noodle-dish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-charred-filipino-rice-noodles-pancit-bihon--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:19:26.559Z"
+}
