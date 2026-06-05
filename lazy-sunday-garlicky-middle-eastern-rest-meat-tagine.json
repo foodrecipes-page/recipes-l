@@ -1,0 +1,80 @@
+{
+  "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine",
+  "title": "Sunday Eastern Tagine",
+  "description": "A hearty North African-inspired stew perfect for a lazy Sunday. Serve over couscous.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "1 medium, peeled and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can, drained and rinsed"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "rest of the spices",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion, garlic, carrots, sweet potatoes, and red bell pepper. Cook, stirring occasionally, until the vegetables are tender, about 20 minutes.",
+    "Stir in the spice blend and cook for 1 minute.",
+    "Add the canned tomatoes, chickpeas, and 2 cups of water. Bring to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste. Serve hot over couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "vegetarian",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 65,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-garlicky-middle-eastern-rest-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:00:31.562Z"
+}
