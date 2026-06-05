@@ -1,0 +1,86 @@
+{
+  "slug": "low-glycemic-peruvian-snappy-causa-limena--japanese",
+  "title": "Low-Glycemic Causa Rolls with Peruvian Snappy Sauce",
+  "description": "A unique twist on traditional causa rolls, incorporating Peruvian snappy sauce and low-glycemic ingredients for a healthier take. Perfect for a Japanese-inspired meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Causa",
+      "amount": "1 package",
+      "notes": "Low-glycemic corn-based"
+    },
+    {
+      "name": "Peruvian Snappy Sauce",
+      "amount": "1/2 cup",
+      "notes": "Made with Peruvian ingredients"
+    },
+    {
+      "name": "Japanese-style Grilled Salmon",
+      "amount": "4 fillets",
+      "notes": "Marinated in Japanese flavors"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "Sliced for garnish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to Japanese standards"
+    },
+    {
+      "name": "Low-glycemic soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Gluten-free alternative"
+    }
+  ],
+  "instructions": [
+    "Cook sushi rice according to Japanese standards.",
+    "Grill salmon fillets, seasoning with Japanese flavors and cooking to a safe internal temperature of 145°F (63°C).",
+    "Slice the grilled salmon into thin strips.",
+    "Prepare Peruvian snappy sauce according to package instructions.",
+    "Mix low-glycemic soy sauce with lime juice for a marinade.",
+    "Combine cooked sushi rice with marinade and mix well.",
+    "Assemble causa rolls by spreading sushi rice mixture onto the center of the causa package.",
+    "Place grilled salmon strips on top of the rice mixture.",
+    "Fold the causa package to enclose the filling and refrigerate for at least 30 minutes.",
+    "Slice causa rolls into individual servings and garnish with sliced avocado, chopped green onions, and a drizzle of Peruvian snappy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-glycemic",
+    "peruvian",
+    "snappy",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-glycemic-peruvian-snappy-causa-limena--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:35:01.224Z"
+}
