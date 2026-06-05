@@ -17702,17 +17702,15 @@
   },
   {
     "slug": "luscious-smoky-syrian-pork-kebabs",
-    "title": "Luscious Smoky Syrian Pork Kebabs",
+    "title": "Smoky Syrian Pork Kebabs",
     "tags": [
-      "crowd-pleaser",
-      "pork-kebabs",
-      "salt-block-cooking",
-      "smoky",
-      "syrian-cuisine",
-      "weeknight-dinner"
+      "syrian",
+      "kebabs",
+      "pork",
+      "grilled"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 70,
+    "cuisine": "syrian",
+    "totalTimeMin": 33,
     "shard": "l"
   },
   {
@@ -20548,6 +20546,45 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 28,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-middle-eastern-date-ouzi--mexican",
+    "title": "Middle Eastern-Style Stuffed Dates with Ouzi",
+    "tags": [
+      "mexican",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "lemon-light-british-lentils-curry--vegan",
+    "title": "Lentil Curry",
+    "tags": [
+      "vegan",
+      "curry",
+      "lentils",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-spiced-zanzibari-ginger-stir-fry--keto",
+    "title": "Spiced Keto Zanzibari Chicken Stir Fry",
+    "tags": [
+      "keto",
+      "chicken",
+      "stir-fry",
+      "zanzibari",
+      "spicy"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 30,
     "shard": "l"
   }
 ]
