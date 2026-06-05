@@ -1,0 +1,76 @@
+{
+  "slug": "lacto-fermented-soft-vietnamese-v-sterbottensost-cheese-vietnamese-noodle-soup-w--thai",
+  "title": "Thai Chicken Noodle Soup",
+  "description": "A comforting and flavorful Thai-inspired noodle soup made with tender chicken, soft noodles, and a variety of aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "lacto",
+    "fermented"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soft Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Thai Basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil.",
+    "Cook the soft noodles according to the package instructions.",
+    "In a large skillet, heat the Thai red curry paste over medium heat.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the chicken breast to the skillet and cook until browned on all sides.",
+    "Add the coconut milk, fish sauce, and cooked noodles to the skillet.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes.",
+    "Stir in the fresh Thai basil and serve hot with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "soup",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacto-fermented-soft-vietnamese-v-sterbottensost-cheese-vietnamese-noodle-soup-w--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:54:11.986Z"
+}
