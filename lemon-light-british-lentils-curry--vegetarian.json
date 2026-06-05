@@ -1,0 +1,57 @@
+{
+  "slug": "lemon-light-british-lentils-curry--vegetarian",
+  "title": "Lentil Curry",
+  "description": "A flavorful and nutritious curry made with lentils, inspired by British cuisine. This dish is perfect for a quick and easy vegetarian meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Light British curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add curry powder and cook for 1 minute, stirring constantly.",
+    "Add lentils and stir to coat with curry powder.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until lentils are tender.",
+    "Stir in lemon juice and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "curry",
+    "vegetarian",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-light-british-lentils-curry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:33:36.157Z"
+}
