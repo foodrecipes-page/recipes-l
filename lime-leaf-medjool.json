@@ -1,0 +1,83 @@
+{
+  "slug": "lime-leaf-medjool",
+  "title": "Lime and Coconut Rice Bowl",
+  "description": "A flavorful and refreshing dish made with coconut rice, roasted chicken, and a squeeze of fresh lime juice.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Medjool Dates",
+      "amount": "3",
+      "notes": "pitted"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jasmine Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Boneless, Skinless Chicken Breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint Leaf",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken breast and pat dry with paper towels. Season with salt.",
+    "Place the chicken on a baking sheet and roast for 25-30 minutes or until cooked through.",
+    "While the chicken is cooking, prepare the coconut rice. Rinse the rice in a fine mesh strainer and drain well.",
+    "In a medium saucepan, combine the coconut milk, rice, and 1 cup of water. Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is tender and fluffy.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing.",
+    "To assemble the dish, place a scoop of coconut rice on a plate, top with sliced chicken, and garnish with fresh cilantro and a sprig of mint.",
+    "Squeeze a bit of lime juice over the top and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-rice",
+    "lime-juice",
+    "chicken",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lime-leaf-medjool",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:07:26.785Z"
+}
