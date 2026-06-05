@@ -1207,15 +1207,15 @@
   },
   {
     "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine",
-    "title": "Lazy-Sunday Garlicky Middle-Eastern Rest-Meat Tagine",
+    "title": "Sunday Eastern Tagine",
     "tags": [
-      "lazy-sunday",
-      "one-pan",
+      "north-african",
+      "stew",
       "vegetarian",
-      "weeknight"
+      "couscous"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 65,
     "shard": "l"
   },
   {
@@ -7292,17 +7292,16 @@
   },
   {
     "slug": "light-tunisian-coconut-wrap",
-    "title": "Light Tunisian Coconut Wrap",
+    "title": "Tunisian Chicken Wrap",
     "tags": [
-      "coconut-based",
-      "gluten-free",
-      "healthy-snack",
-      "kid-friendly",
-      "paleo-diet",
-      "tunisian-cuisine"
+      "chicken",
+      "tunisian",
+      "wrap",
+      "lunch",
+      "north african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -20437,6 +20436,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lacto-fermented-soft-vietnamese-v-sterbottensost-cheese-vietnamese-noodle-soup-w--thai",
+    "title": "Thai Chicken Noodle Soup",
+    "tags": [
+      "thai",
+      "soup",
+      "noodle"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "long-smoked-slovakian-vanilla-bake--italian",
+    "title": "Smoked Slovakian Italian Sausage Bake",
+    "tags": [
+      "italian",
+      "sausage",
+      "bake",
+      "smoked",
+      "slovakian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "l"
   }
 ]
