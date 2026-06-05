@@ -1,0 +1,91 @@
+{
+  "slug": "long-smoked-slovakian-vanilla-bake--italian",
+  "title": "Smoked Slovakian Italian Sausage Bake",
+  "description": "A hearty Italian-inspired dish featuring Slovakian smoked sausage, perfect for a cozy evening.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian Smoked Sausage",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla",
+      "amount": "1/4 tsp",
+      "notes": "for added depth"
+    },
+    {
+      "name": "Long",
+      "amount": "2 large",
+      "notes": "bell peppers, sliced"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup",
+      "notes": "Italian-seasoned breadcrumbs"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "crushed, canned"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook sliced bell peppers in olive oil until tender.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add crushed tomatoes and cook for 2 minutes.",
+    "Add Slovakian smoked sausage and cook until browned.",
+    "Transfer the mixture to a baking dish.",
+    "Sprinkle Italian-seasoned breadcrumbs on top.",
+    "Bake for 20-25 minutes or until the top is golden brown.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sausage",
+    "bake",
+    "smoked",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/long-smoked-slovakian-vanilla-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:12:10.462Z"
+}
