@@ -1,0 +1,82 @@
+{
+  "slug": "lemon-light-british-lentils-curry--vegan",
+  "title": "Lentil Curry",
+  "description": "A hearty and flavorful vegan curry made with red lentils and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and ginger, cook until softened.",
+    "Add curry powder and cumin, cook for 1 minute.",
+    "Add lentils, water, and salt. Bring to a boil.",
+    "Reduce heat and simmer for 20-25 minutes, or until lentils are tender.",
+    "Stir in lemon juice.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "curry",
+    "lentils",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-light-british-lentils-curry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:20:46.526Z"
+}
