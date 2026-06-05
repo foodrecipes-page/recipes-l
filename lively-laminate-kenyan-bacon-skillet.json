@@ -1,0 +1,86 @@
+{
+  "slug": "lively-laminate-kenyan-bacon-skillet",
+  "title": "Kenyan-Style Bacon Skillet",
+  "description": "A flavorful and spicy skillet dish made with crispy bacon, Kenyan spices, and lively vegetables.",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kenyan spice mix",
+      "amount": "2 tsp",
+      "notes": "available at African markets"
+    },
+    {
+      "name": "lively vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "such as coconut or avocado oil"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the bacon in a large skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the Kenyan spice mix and cook for 1 minute.",
+    "Return the cooked bacon to the skillet and stir to combine.",
+    "Add the lively vegetable oil to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "bacon",
+    "skillet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-laminate-kenyan-bacon-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:15:15.952Z"
+}
