@@ -1,0 +1,93 @@
+{
+  "slug": "low-glycemic-peruvian-snappy-causa-limena",
+  "title": "Causa Rellena con Mariscos",
+  "description": "A Peruvian-inspired dish of causa rellena, a stuffed potato cake, filled with a mixture of seafood, onions and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "low glycemic"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "mussels",
+      "amount": "12 large",
+      "notes": "snappy"
+    },
+    {
+      "name": "clams",
+      "amount": "12 large",
+      "notes": "snappy"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "peruvian ají amarillo peppers",
+      "amount": "2",
+      "notes": "limena"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Boil the potatoes until tender, then let them cool down.",
+    "2. Chop the onions and garlic, and sauté them in a pan until softened.",
+    "3. Add the mussels and clams to the pan, and cook until they open.",
+    "4. Add the chili peppers, cumin, and ají amarillo peppers to the pan, and cook for 1 minute.",
+    "5. Slice the cooked potatoes in half lengthwise, and scoop out some of the flesh to make room for the filling.",
+    "6. Mix the potato flesh with the mayonnaise, and spoon the mixture into the potato halves.",
+    "7. Top the potato halves with the seafood mixture, and serve immediately.",
+    "8. Garnish with chopped cilantro, and serve with a side of spicy salsa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "causa",
+    "peruvian",
+    "seafood",
+    "low-glycemic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-glycemic-peruvian-snappy-causa-limena",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:09:08.384Z"
+}
