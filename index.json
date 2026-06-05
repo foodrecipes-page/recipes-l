@@ -12168,17 +12168,15 @@
   },
   {
     "slug": "lively-laminate-kenyan-bacon-skillet",
-    "title": "Lively Laminate Kenyan Bacon Skillet",
+    "title": "Kenyan-Style Bacon Skillet",
     "tags": [
-      "adventurous",
-      "high-protein",
-      "kenyan-cuisine",
-      "one-pan",
-      "shojin-friendly",
-      "weeknight"
+      "kenyan",
+      "bacon",
+      "skillet",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "African",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -13878,16 +13876,14 @@
   },
   {
     "slug": "lovely-lightly-grilled-tunisian-lamb-kebabs",
-    "title": "Lovely Lightly Grilled Tunisian Lamb Kebabs",
+    "title": "Tunisian Lamb Kebabs",
     "tags": [
-      "gluten-free",
-      "grilled-meats",
-      "high-protein",
-      "lotus-leaf-wraps",
-      "post-workout",
-      "tunisian-cuisine"
+      "grilled",
+      "lamb",
+      "kebabs",
+      "tunisian"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -20505,6 +20501,32 @@
       "japanese"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-smoky-argentinian-potatoes-grill--japanese",
+    "title": "Smoky Miso Potato Yakitori",
+    "tags": [
+      "japanese",
+      "snack",
+      "grilled",
+      "potatoes"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "light-crispy-british-chicken-stir-fry--vegan",
+    "title": "Crispy British-Style Vegan Stir Fry",
+    "tags": [
+      "vegan",
+      "british",
+      "stir-fry",
+      "easy"
+    ],
+    "cuisine": "British",
     "totalTimeMin": 27,
     "shard": "l"
   }
