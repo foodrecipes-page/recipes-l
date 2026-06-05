@@ -1,0 +1,80 @@
+{
+  "slug": "lovely-crispy-vietnamese-tofu-noodles--chinese",
+  "title": "Crispy Vietnamese Noodle Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry made with lovely, crispy, Vietnamese noodles, tofu, and a variety of vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lovely Noodles",
+      "amount": "8 oz",
+      "notes": "Vietnamese-style rice noodles"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "Crispy Vegetables",
+      "amount": "1 cup",
+      "notes": "Bok choy, bean sprouts, and carrots, chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions and set aside.",
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the crispy vegetables and cook until they start to soften, about 2-3 minutes.",
+    "Add the ginger and garlic and cook for 1 minute, until fragrant.",
+    "Add the cooked noodles and soy sauce, and stir-fry for 2-3 minutes, until everything is well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "noodle",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crispy-vietnamese-tofu-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:32:30.974Z"
+}
