@@ -1,0 +1,85 @@
+{
+  "slug": "lightly-smoky-egyptian-fish-kebabs",
+  "title": "Smoky Shish Taouk",
+  "description": "A flavorful Egyptian-inspired chicken kebab recipe with smoky spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped 1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together smoky paprika, garlic powder, salt, and black pepper.",
+    "Add chicken to the bowl and toss to coat with the spice mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat grill to medium-high heat.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with salt.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Transfer skewers to a plate and brush with lemon juice.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "chicken",
+    "smoky",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-egyptian-fish-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:15:46.352Z"
+}
