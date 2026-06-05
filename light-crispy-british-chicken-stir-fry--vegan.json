@@ -1,0 +1,69 @@
+{
+  "slug": "light-crispy-british-chicken-stir-fry--vegan",
+  "title": "Crispy British-Style Vegan Stir Fry",
+  "description": "A delicious and easy-to-make vegan stir fry with a crispy British twist, perfect for a weeknight dinner.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Light British Ale (for marinade)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegan stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crispy Fried Shallots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "British-style vegan sausages",
+      "amount": "4 sausages"
+    },
+    {
+      "name": "Mixed vegetables (e.g., bell peppers, carrots, broccoli)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rice or noodles",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the light British ale and vegan stir-fry sauce to make a marinade.",
+    "2. Add the British-style vegan sausages to the marinade and let them sit for at least 30 minutes.",
+    "3. Heat a large skillet or wok over medium-high heat.",
+    "4. Add the mixed vegetables to the skillet and cook for 3-4 minutes, or until they start to soften.",
+    "5. Add the crispy fried shallots to the skillet and cook for another minute.",
+    "6. Remove the sausages from the marinade and add them to the skillet.",
+    "7. Cook the sausages for 2-3 minutes on each side, or until they are browned and cooked through.",
+    "8. Serve the sausages and vegetables over rice or noodles.",
+    "9. Garnish with additional crispy fried shallots if desired.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "british",
+    "stir-fry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-crispy-british-chicken-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:00:03.118Z"
+}
