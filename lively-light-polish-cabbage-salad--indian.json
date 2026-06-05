@@ -1,46 +1,40 @@
 {
   "slug": "lively-light-polish-cabbage-salad--indian",
-  "title": "Spicy Cabbage Salad",
-  "description": "A crunchy and flavorful Indian-inspired salad made with cabbage, salad, and a hint of spice.",
+  "title": "Indian Style Cabbage Salad",
+  "description": "A refreshing and crunchy Indian-inspired salad made with cabbage, lively greens and a hint of polish dressing.",
   "cuisine": "indian",
   "diet": [
     "vegetarian",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
     {
       "name": "cabbage",
-      "amount": "1 head",
-      "notes": "shredded"
+      "amount": "1 head, shredded",
+      "notes": null
+    },
+    {
+      "name": "lively greens",
+      "amount": "2 cups, chopped",
+      "notes": null
+    },
+    {
+      "name": "polish dressing",
+      "amount": "1/4 cup",
+      "notes": null
     },
     {
       "name": "salad",
-      "amount": "4 cups",
-      "notes": "mixed greens"
-    },
-    {
-      "name": "light",
-      "amount": "2 tbsp",
-      "notes": "olive oil"
-    },
-    {
-      "name": "lively",
-      "amount": "1 tsp",
-      "notes": "garam masala"
-    },
-    {
-      "name": "polish",
-      "amount": "1 tsp",
-      "notes": "apple cider vinegar"
+      "amount": "1 cup, chopped",
+      "notes": null
     }
   ],
   "instructions": [
-    "1. In a large bowl, combine shredded cabbage and mixed greens.",
-    "2. In a small bowl, whisk together olive oil, garam masala, and apple cider vinegar.",
-    "3. Pour the dressing over the cabbage mixture and toss to coat.",
-    "4. Season with salt and pepper to taste.",
-    "5. Serve immediately and garnish with chopped cilantro if desired."
+    "In a large bowl, combine shredded cabbage and chopped lively greens.",
+    "In a separate bowl, whisk together polish dressing and a pinch of salt.",
+    "Pour the dressing over the cabbage mixture and toss to coat.",
+    "Top with chopped salad and serve chilled."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
@@ -49,18 +43,18 @@
   "difficulty": "easy",
   "tags": [
     "salad",
-    "indian",
-    "vegetarian",
-    "vegan"
+    "indian-cuisine",
+    "quick-recipe",
+    "veggie-dish"
   ],
   "nutrition": {
-    "calories": 60,
+    "calories": 50,
     "protein": 2,
     "carbs": 10,
-    "fat": 3
+    "fat": 0
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/lively-light-polish-cabbage-salad--indian",
   "providerUsed": "groq",
-  "createdAt": "2026-06-01T00:06:44.800Z"
+  "createdAt": "2026-06-02T10:15:34.602Z"
 }
