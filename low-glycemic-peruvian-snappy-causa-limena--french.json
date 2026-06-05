@@ -1,0 +1,82 @@
+{
+  "slug": "low-glycemic-peruvian-snappy-causa-limena--french",
+  "title": "Causa Limena French Style",
+  "description": "A French-inspired dish, Causa Limena, is a twist on the Peruvian classic, with a low-glycemic twist. This recipe combines the flavors of Peru with the elegance of French cuisine.",
+  "cuisine": "french",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snappy Lima Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Causa",
+      "amount": "1 (12 oz) package"
+    },
+    {
+      "name": "Low-Glycemic Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peruvian-Style Chicken",
+      "amount": "1 pound"
+    },
+    {
+      "name": "French Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Lima beans according to the package instructions.",
+    "Prepare the Peruvian-Style Chicken by seasoning with salt and pepper. Bake in the oven for 20-25 minutes or until cooked through.",
+    "Cook the Low-Glycemic Rice according to the package instructions.",
+    "Melt the French Butter in a saucepan over medium heat.",
+    "Add the chopped garlic and cook for 1-2 minutes.",
+    "Add the White Wine and cook until reduced by half.",
+    "Add the cooked Lima beans and stir to combine.",
+    "Spoon the Causa mixture into individual serving dishes.",
+    "Top with the cooked Peruvian-Style Chicken and Lima bean mixture.",
+    "Garnish with chopped Fresh Parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "causa",
+    "limena",
+    "low-glycemic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-glycemic-peruvian-snappy-causa-limena--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:32:34.672Z"
+}
