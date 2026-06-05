@@ -2237,18 +2237,15 @@
   },
   {
     "slug": "lemon-light-british-lentils-curry",
-    "title": "Lemon Light British Lentils Curry",
+    "title": "British-Style Lentil Curry",
     "tags": [
       "british",
-      "citrus",
-      "kid-friendly",
-      "low-fat",
-      "one-pot",
-      "quick",
-      "vegan"
+      "curry",
+      "lentils",
+      "vegetarian"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 35,
+    "cuisine": "british",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -7859,16 +7856,16 @@
   },
   {
     "slug": "lightly-battered-american-milk-fritters",
-    "title": "Lightly Battered American Milk Fritters",
+    "title": "American-Style Buttermilk Fritters",
     "tags": [
-      "american-classics",
-      "brunch-ideas",
-      "dairy-free-options",
-      "deep-fried",
-      "sweet-treats"
+      "american",
+      "buttermilk",
+      "fritters",
+      "snack",
+      "dessert"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -8868,17 +8865,15 @@
   },
   {
     "slug": "lightly-flaky-moroccan-yukon-gold-potatoes-tagine",
-    "title": "Lightly Flaky Moroccan Yukon Gold Potatoes Tagine",
+    "title": "Moroccan Tagine with Potatoes",
     "tags": [
-      "flaky-potatoes",
-      "gluten-free",
-      "herbal-notes",
-      "keto-friendly",
-      "moroccan-inspiration",
-      "one-pan"
+      "moroccan",
+      "potatoes",
+      "tagine",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -20528,6 +20523,31 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-nutty-syrian-wensleydale-biryani--chinese",
+    "title": "Biryani and Wensleydale Stir Fry",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "easy-to-make"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "light-fluffy-brazilian-pumpkin-empanadas--keto",
+    "title": "Brazilian Keto Pumpkin Empanadas",
+    "tags": [
+      "keto",
+      "brazilian",
+      "pumpkin",
+      "empanadas"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 28,
     "shard": "l"
   }
 ]
