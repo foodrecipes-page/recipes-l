@@ -1,0 +1,94 @@
+{
+  "slug": "lovely-lightly-grilled-tunisian-lamb-kebabs",
+  "title": "Tunisian Lamb Kebabs",
+  "description": "A flavorful and aromatic dish from Tunisia, featuring tender lamb kebabs grilled to perfection. Serve with a side of couscous or bread for a delicious meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, extra-virgin olive oil"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed is best"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use 1-2 cloves depending on your taste"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1-inch piece",
+      "notes": "Use fresh ginger for the best flavor"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin is fine, but whole cumin seeds are better"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked paprika adds a nice smokiness"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt or sea salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Use freshly ground black pepper"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds a nice freshness"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the lamb pieces onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145°F (63°C).",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "lamb",
+    "kebabs",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-lightly-grilled-tunisian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:54:26.314Z"
+}
