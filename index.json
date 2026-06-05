@@ -10475,17 +10475,15 @@
   },
   {
     "slug": "lightly-smoky-egyptian-fish-kebabs",
-    "title": "Lightly Smoky Egyptian Fish Kebabs",
+    "title": "Smoky Shish Taouk",
     "tags": [
-      "healthy",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "kebabs",
+      "chicken",
+      "smoky",
+      "egyptian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -20482,6 +20480,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "low-glycemic-peruvian-snappy-causa-limena--french",
+    "title": "Causa Limena French Style",
+    "tags": [
+      "french",
+      "causa",
+      "limena",
+      "low-glycemic"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
+    "slug": "low-glycemic-peruvian-snappy-causa-limena--japanese",
+    "title": "Low-Glycemic Causa Rolls with Peruvian Snappy Sauce",
+    "tags": [
+      "low-glycemic",
+      "peruvian",
+      "snappy",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
     "shard": "l"
   }
 ]
