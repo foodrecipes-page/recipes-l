@@ -1,0 +1,71 @@
+{
+  "slug": "lemon-loosely-leafy-slovakian-bouillon-cubes-wrap",
+  "title": "Slovakian Chicken Wrap",
+  "description": "A hearty and flavorful wrap filled with chicken, leafy greens, and a tangy Slovakian-inspired sauce.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "loosely wrapped garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "leafy greens (such as lettuce and spinach)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Slovakian bouillon cubes",
+      "amount": "2 cubes",
+      "notes": "dissolved in 2 cups of water"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "whole wheat or gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken breast and cook for 5-6 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing into thin strips.",
+    "In a large bowl, combine the chopped leafy greens, dissolved bouillon, and sliced chicken.",
+    "Warm the wrap in the oven for 2-3 minutes, or according to package instructions.",
+    "Assemble the wrap by spooning the chicken and greens mixture onto the center of the wrap.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "wrap",
+    "slovakian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-loosely-leafy-slovakian-bouillon-cubes-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:13:50.771Z"
+}
