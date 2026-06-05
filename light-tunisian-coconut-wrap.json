@@ -1,0 +1,91 @@
+{
+  "slug": "light-tunisian-coconut-wrap",
+  "title": "Tunisian Chicken Wrap",
+  "description": "A flavorful and healthy wrap filled with chicken, vegetables, and a hint of Tunisian spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian chili paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light yogurt",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Add the coconut oil and swirl to coat the pan.",
+    "Add the chicken and cook for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a plate and let rest for 2 minutes.",
+    "In the same skillet, add the Tunisian chili paste and cook for 1 minute.",
+    "Add the red onion and cook for an additional 2 minutes.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the yogurt on the tortilla, then adding the chicken, onion mixture, cucumber, tomato, and cilantro.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "tunisian",
+    "wrap",
+    "lunch",
+    "north african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-tunisian-coconut-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:05:11.327Z"
+}
