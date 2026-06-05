@@ -1,0 +1,82 @@
+{
+  "slug": "luscious-smoky-syrian-pork-kebabs",
+  "title": "Smoky Syrian Pork Kebabs",
+  "description": "A flavorful and tender kebab recipe inspired by Syrian cuisine, featuring smoky pork and a blend of exotic spices.",
+  "cuisine": "syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "luscious olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": "Add smoky flavor to kebabs"
+    },
+    {
+      "name": "syrian sumac",
+      "amount": "1 teaspoon",
+      "notes": "Add a tangy, slightly sour flavor"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Add depth of flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "kebab skewers",
+      "amount": "10-12",
+      "notes": "For grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "In a large bowl, whisk together olive oil, smoky paprika, syrian sumac, garlic powder, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the marinated pork cubes onto the kebab skewers, leaving a small space between each piece.",
+    "Brush the kebabs with the remaining spice mixture.",
+    "Grill the kebabs for 8-10 minutes per side, or until the pork is cooked through and slightly charred.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "kebabs",
+    "pork",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-smoky-syrian-pork-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:12:58.844Z"
+}
