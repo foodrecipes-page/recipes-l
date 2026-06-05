@@ -1,0 +1,66 @@
+{
+  "slug": "lovely-nutty-syrian-wensleydale-biryani--chinese",
+  "title": "Biryani and Wensleydale Stir Fry",
+  "description": "A unique fusion of Chinese and British flavors, this stir fry combines the nutty flavor of biryani with the creamy taste of Wensleydale cheese.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "150g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Biryani",
+      "amount": "100g",
+      "notes": "lovely, nutty"
+    },
+    {
+      "name": "Lovely",
+      "amount": "2",
+      "notes": "Chinese broccoli"
+    },
+    {
+      "name": "Syrian",
+      "amount": "1",
+      "notes": "red chili"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok over medium-high heat.",
+    "Add the Chinese broccoli and stir-fry for 2 minutes.",
+    "Add the red chili and stir-fry for another minute.",
+    "Add the biryani and stir-fry for 2 minutes.",
+    "Add the Wensleydale cheese and stir-fry until melted and bubbly.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-nutty-syrian-wensleydale-biryani--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:40:22.836Z"
+}
