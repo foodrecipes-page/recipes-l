@@ -2266,17 +2266,15 @@
   },
   {
     "slug": "lemon-loosely-leafy-slovakian-bouillon-cubes-wrap",
-    "title": "Lemon-Loosely Leafy Slovakian Bouillon Cubes Wrap",
+    "title": "Slovakian Chicken Wrap",
     "tags": [
-      "citrusy",
-      "delicate",
-      "lemony",
-      "one-pan",
+      "chicken",
+      "wrap",
       "slovakian",
-      "wrap"
+      "gluten-free"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 15,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -20226,12 +20224,12 @@
   },
   {
     "slug": "lively-light-polish-cabbage-salad--indian",
-    "title": "Spicy Cabbage Salad",
+    "title": "Indian Style Cabbage Salad",
     "tags": [
       "salad",
-      "indian",
-      "vegetarian",
-      "vegan"
+      "indian-cuisine",
+      "quick-recipe",
+      "veggie-dish"
     ],
     "cuisine": "indian",
     "totalTimeMin": 10,
@@ -20611,6 +20609,34 @@
     ],
     "cuisine": null,
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-crispy-vietnamese-tofu-noodles--chinese",
+    "title": "Crispy Vietnamese Noodle Stir Fry",
+    "tags": [
+      "chinese",
+      "noodle",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "long-smoked-slovakian-vanilla-bake--keto",
+    "title": "Smoked Slovakian Keto Sausage Bakes",
+    "tags": [
+      "keto",
+      "slovakian",
+      "sausages",
+      "cauliflower",
+      "vanilla"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
     "shard": "l"
   }
 ]
