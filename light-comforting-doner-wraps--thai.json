@@ -1,0 +1,95 @@
+{
+  "slug": "light-comforting-doner-wraps--thai",
+  "title": "Doner Wrap with Thai Flair",
+  "description": "A twist on traditional street food, this Thai-inspired doner wrap is packed with flavor and texture.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Doner meat",
+      "amount": "1 lb",
+      "notes": "Turkey or lamb work well"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Pickled carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat.",
+    "Add the doner meat and cook until browned, breaking it up into small pieces.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Stir in the fish sauce (if using) and coconut milk.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Warm the light wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the doner meat mixture onto a wrap, followed by chopped cilantro, a lime wedge, pickled carrots, sliced cucumber, and crushed peanuts.",
+    "Serve immediately and enjoy!",
+    "Cook the doner meat to an internal temperature of at least 165°F (74°C) to ensure food safety.",
+    "Adjust the amount of curry paste to taste.",
+    "For an extra crispy wrap, grill the wraps for 30-60 seconds on each side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "doner",
+    "wrap",
+    "lunch",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-comforting-doner-wraps--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:24:42.543Z"
+}
