@@ -1,0 +1,77 @@
+{
+  "slug": "lovely-spicy-german-sweet-red-peppers-skewers",
+  "title": "Spicy Pepper Skewers",
+  "description": "A flavorful and colorful dish featuring marinated peppers grilled to perfection on skewers.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "4",
+      "notes": "any color peppers work, but red adds a nice pop of color"
+    },
+    {
+      "name": "lovely sweet onions",
+      "amount": "1",
+      "notes": "thinly sliced, so they cook quickly"
+    },
+    {
+      "name": "spicy jalapeños",
+      "amount": "2",
+      "notes": "seeded and finely chopped for extra heat"
+    },
+    {
+      "name": "german style skewers",
+      "amount": "10",
+      "notes": "soaked in water before using"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers before grilling"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "add to taste, but not too much"
+    },
+    {
+      "name": "optional: german mustard",
+      "amount": "1 tablespoon",
+      "notes": "adds a tangy flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread peppers, onions, and jalapeños onto skewers, leaving a little space between each piece.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until peppers are tender and lightly charred.",
+    "Optional: brush with german mustard during the last minute of grilling.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegetarian",
+    "grilled",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-spicy-german-sweet-red-peppers-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:12:20.953Z"
+}
