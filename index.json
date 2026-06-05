@@ -3587,16 +3587,14 @@
   },
   {
     "slug": "light-crispy-british-chicken-stir-fry",
-    "title": "Light Crispy British Chicken Stir-Fry",
+    "title": "Crispy British Chicken Stir Fry",
     "tags": [
-      "low-calorie",
       "british",
-      "stir-fry",
-      "quick",
-      "protein-rich"
+      "chicken",
+      "stir-fry"
     ],
     "cuisine": "British",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -14572,17 +14570,15 @@
   },
   {
     "slug": "lovely-spicy-german-sweet-red-peppers-skewers",
-    "title": "Lovely Spicy German Sweet Red Peppers Skewers",
+    "title": "Spicy Pepper Skewers",
     "tags": [
-      "german-food",
+      "german",
+      "vegetarian",
       "grilled",
-      "high-protein",
-      "romantic-dinner",
-      "special-occasion",
-      "spicy"
+      "peppers"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 32,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -20462,6 +20458,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-charred-filipino-rice-noodles-pancit-bihon--gluten-free",
+    "title": "Filipino-Style Bihon Stir Fry",
+    "tags": [
+      "filipino",
+      "gluten-free",
+      "noodle-dish",
+      "stir-fry"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-comforting-doner-wraps--thai",
+    "title": "Doner Wrap with Thai Flair",
+    "tags": [
+      "thai",
+      "doner",
+      "wrap",
+      "lunch",
+      "street-food"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
