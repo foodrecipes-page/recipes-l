@@ -1,0 +1,101 @@
+{
+  "slug": "lightly-flaky-moroccan-yukon-gold-potatoes-tagine",
+  "title": "Moroccan Tagine with Potatoes",
+  "description": "A hearty and flavorful Moroccan dish made with tender potatoes and fragrant spices. Perfect for a comforting meal.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lightly flaky moroccan potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Tagine",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tagine over medium heat.",
+    "Add the olive oil and sauté the onion until softened.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the cumin, coriander, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add the potatoes and stir to coat with the spice mixture.",
+    "Add 1 cup of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the potatoes are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "potatoes",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-flaky-moroccan-yukon-gold-potatoes-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:43:20.521Z"
+}
