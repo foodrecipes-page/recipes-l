@@ -1,0 +1,75 @@
+{
+  "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--italian",
+  "title": "Lazy Sunday Tagine",
+  "description": "A hearty, slow-cooked Italian-inspired stew perfect for a lazy Sunday afternoon.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlicky olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "middle eastern rest meat (such as lamb or beef)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried prunes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the garlicky olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the middle eastern rest meat and cook until browned, about 5 minutes.",
+    "Add the tagine spice mix and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours, or until the meat is tender.",
+    "Stir in the dried prunes and honey.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "stew",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:32:43.858Z"
+}
