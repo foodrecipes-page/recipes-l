@@ -1,0 +1,92 @@
+{
+  "slug": "lightly-smoky-middle-eastern-haddock-curry",
+  "title": "Smoky Haddock Curry",
+  "description": "A flavorful and aromatic curry dish made with smoky haddock and a blend of middle eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Lightly smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Middle eastern curry powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the curry powder and smoked paprika. Cook for 1 minute.",
+    "Add the haddock fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Stir in the lemon juice and season with salt and black pepper.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "haddock",
+    "curry",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-middle-eastern-haddock-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:34:53.825Z"
+}
