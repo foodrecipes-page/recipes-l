@@ -1,0 +1,80 @@
+{
+  "slug": "luxurious-cheesy-australian-shirataki-pasta--japanese",
+  "title": "Japanese Pasta with Shirataki and Cheese",
+  "description": "A Japanese-inspired pasta dish loaded with shirataki noodles, rich cheese, and a hint of luxurious flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shirataki Noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Pasta",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Luxurious Feta Cheese",
+      "amount": "100g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Australian Cheddar Cheese",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sushi Ginger",
+      "amount": "1 tablespoon",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Cook shirataki noodles according to package instructions.",
+    "Cook pasta according to package instructions.",
+    "In a saucepan, heat sesame oil over low heat.",
+    "Add soy sauce and sushi ginger to the saucepan.",
+    "Stir in crumbled feta cheese.",
+    "Add shredded cheddar cheese and stir until melted.",
+    "Combine cooked shirataki noodles and pasta in a bowl.",
+    "Pour the cheesy sauce over the noodles and pasta.",
+    "Toss everything together to combine.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "noodles",
+    "cheese",
+    "vegetarian",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-cheesy-australian-shirataki-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:48:15.020Z"
+}
