@@ -1,0 +1,87 @@
+{
+  "slug": "lovely-syrian-lentil-pilaf",
+  "title": "Syrian Lentil Pilaf",
+  "description": "A flavorful and nutritious Syrian-inspired dish made with lentils, pilaf, and lovely spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": "green or brown"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "lovely",
+      "amount": "2 tbsp",
+      "notes": "dried parsley"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp",
+      "notes": "sumac"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for another minute, until fragrant.",
+    "Add cooked pilaf, lentil, lovely, syrian, salt, and black pepper.",
+    "Stir well to combine and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes, or until lentil is tender.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "pilaf",
+    "syrian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-syrian-lentil-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:38:17.116Z"
+}
