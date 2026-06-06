@@ -1,0 +1,82 @@
+{
+  "slug": "lpeppery-lonion-bravas--vegan",
+  "title": "Vegan Bravas Fritters",
+  "description": "Crispy fritters filled with a flavorful bravas-inspired filling, perfect for a vegan snack or side dish.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bravas Sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lonion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Lpeppery",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Vegan breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan egg replacement",
+      "amount": "1",
+      "notes": "e.g. flaxseed or chia seeds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped lonion, lpeppery, vegan breadcrumbs, and vegan egg replacement.",
+    "Add the bravas sauce and mix until a dough forms.",
+    "Heat a non-stick pan with a drizzle of olive oil over medium heat.",
+    "Using a spoon, drop small balls of the dough into the pan, flattening them slightly with a spatula.",
+    "Cook for 3-4 minutes on each side, until crispy and golden brown.",
+    "Serve hot and enjoy!",
+    "Note: You can also bake the fritters in a preheated oven at 375°F (190°C) for 15-20 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "snack",
+    "spanish",
+    "bravas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lpeppery-lonion-bravas--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:38:14.632Z"
+}
