@@ -1,0 +1,80 @@
+{
+  "slug": "light-garlic-mexican-salad--chinese",
+  "title": "Kung Pao Chicken Salad",
+  "description": "A Chinese-inspired twist on traditional salad, featuring crunchy vegetables and savory chicken. This recipe serves 4-6 people and can be prepared in under 30 minutes.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "light",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet or wok, heat 1 tablespoon of light over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. In the same skillet, add the remaining 1 tablespoon of light and the minced garlic.",
+    "5. Cook for 1 minute, until fragrant.",
+    "6. Add the sliced cucumber, grated carrots, and bean sprouts to the skillet.",
+    "7. Cook for 2-3 minutes, until the vegetables are tender-crisp.",
+    "8. Return the cooked chicken to the skillet and stir to combine with the vegetables.",
+    "9. Sprinkle the shredded cheddar cheese over the top and stir to combine.",
+    "10. Serve immediately, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "salad",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-garlic-mexican-salad--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:48:15.668Z"
+}
