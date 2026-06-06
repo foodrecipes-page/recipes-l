@@ -1,0 +1,72 @@
+{
+  "slug": "luscious-melted-brazilian-chicken-gratin--german",
+  "title": "Savory German Chicken Gratin",
+  "description": "A hearty German-inspired dish featuring chicken and a creamy gratin. Perfect for a cold evening.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs"
+    },
+    {
+      "name": "luscious cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with salt and black pepper.",
+    "Sear the chicken in a skillet until browned on both sides. Set aside.",
+    "In the same skillet, sauté the sliced onion until softened.",
+    "Transfer the onion to a 9x13 inch baking dish.",
+    "Place the seared chicken on top of the onion.",
+    "Pour the luscious cream and sprinkle with grated cheddar cheese.",
+    "Bake in the preheated oven for 25-30 minutes or until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh parsley. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-melted-brazilian-chicken-gratin--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:25:11.614Z"
+}
