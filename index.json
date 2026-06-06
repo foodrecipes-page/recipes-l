@@ -10573,17 +10573,14 @@
   },
   {
     "slug": "lightly-smoky-middle-eastern-haddock-curry",
-    "title": "Lightly Smoky Middle Eastern Haddock Curry",
+    "title": "Smoky Haddock Curry",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "haddock",
+      "curry",
+      "middle eastern"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -14691,17 +14688,15 @@
   },
   {
     "slug": "lovely-syrian-lentil-pilaf",
-    "title": "Lovely Syrian Lentil Pilaf",
+    "title": "Syrian Lentil Pilaf",
     "tags": [
-      "high-fiber",
-      "middle-eastern",
-      "one-pot",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "lentil",
+      "pilaf",
+      "syrian",
+      "vegetarian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -20679,6 +20674,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 135,
+    "shard": "l"
+  },
+  {
+    "slug": "lpeppery-lonion-bravas--vegan",
+    "title": "Vegan Bravas Fritters",
+    "tags": [
+      "vegan",
+      "snack",
+      "spanish",
+      "bravas"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-garlic-mexican-salad--chinese",
+    "title": "Kung Pao Chicken Salad",
+    "tags": [
+      "chinese",
+      "salad",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
