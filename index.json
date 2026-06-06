@@ -20700,5 +20700,57 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "luxurious-cheesy-australian-shirataki-pasta--japanese",
+    "title": "Japanese Pasta with Shirataki and Cheese",
+    "tags": [
+      "noodles",
+      "cheese",
+      "vegetarian",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoky-middle-eastern-haddock-curry--vegetarian",
+    "title": "Smoky Eastern-Style Haddock-Free Curry",
+    "tags": [
+      "middle-eastern",
+      "vegetarian",
+      "curry",
+      "dinner"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoky-middle-eastern-haddock-curry--italian",
+    "title": "Smoky Haddock alla Italiana",
+    "tags": [
+      "italian",
+      "baked-fish",
+      "smoky",
+      "haddock"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "lpeppery-lonion-bravas--vegetarian",
+    "title": "Bravas Grilled Portobello Mushroom",
+    "tags": [
+      "vegetarian",
+      "mushrooms",
+      "bravas",
+      "spanish"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 18,
+    "shard": "l"
   }
 ]
