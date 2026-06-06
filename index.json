@@ -1563,14 +1563,16 @@
   },
   {
     "slug": "lazy-sunday-sea-salt-bhuna-crumble",
-    "title": "Lazy Sunday Sea Salt Bhuna Crumble",
+    "title": "Sunday Sea Crumble",
     "tags": [
-      "lazy-sunday",
-      "sea-salt",
-      "bhuna"
+      "british",
+      "fish",
+      "seafood",
+      "easy",
+      "seafood-crumble"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 35,
+    "cuisine": "british",
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -4535,11 +4537,12 @@
   },
   {
     "slug": "light-garlic-mexican-salad",
-    "title": "Light Garlic Mexican Salad",
+    "title": "Mexican Salad Bowl",
     "tags": [
-      "light-garlic-mexican-salad",
-      "energizing-salad",
-      "low-fat-friendly"
+      "mexican",
+      "salad",
+      "healthy",
+      "easy"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 10,
@@ -20637,6 +20640,45 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-peruvian-beetroot-lomo-saltado--german",
+    "title": "Smoky Beef Lomo Saltado",
+    "tags": [
+      "smoky",
+      "beef",
+      "german",
+      "peruvian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "low-calorie-korean-noodles-sujebi--german",
+    "title": "German-Style Low-Calorie Sujebi Noodle Soup",
+    "tags": [
+      "german",
+      "korean",
+      "low-calorie",
+      "soup",
+      "noodles"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--italian",
+    "title": "Lazy Sunday Tagine",
+    "tags": [
+      "italian",
+      "stew",
+      "slow-cooked"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 135,
     "shard": "l"
   }
 ]
