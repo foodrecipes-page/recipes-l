@@ -1,0 +1,96 @@
+{
+  "slug": "luscious-smoky-syrian-pork-kebabs--japanese",
+  "title": "Grilled Pork Kebabs with Japanese Teriyaki Sauce",
+  "description": "A fusion twist on traditional kebabs, infused with Japanese flavors and served with a sweet teriyaki sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork (for kebabs)",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Teriyaki sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Syrup",
+      "amount": "2 tablespoons",
+      "notes": "Honey or brown sugar"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Syrup",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated for teriyaki sauce"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For teriyaki sauce"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For teriyaki sauce"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced for teriyaki sauce"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together teriyaki sauce, syrup, sesame oil, soy sauce, sugar, and garlic.",
+    "3. Add pork cubes to the bowl and toss to coat with the marinade.",
+    "4. Thread pork cubes onto skewers, leaving a small space between each cube.",
+    "5. Brush kebabs with sesame oil and season with salt and pepper.",
+    "6. Grill kebabs for 8-10 minutes, turning occasionally, or until cooked through.",
+    "7. Brush with teriyaki sauce during the last 2 minutes of grilling.",
+    "8. Garnish with green onions and serve with additional teriyaki sauce on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "kebabs",
+    "pork",
+    "japanese",
+    "teriyaki",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-smoky-syrian-pork-kebabs--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:17:07.058Z"
+}
