@@ -20752,5 +20752,20 @@
     "cuisine": "Spanish",
     "totalTimeMin": 18,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-smoky-syrian-pork-kebabs--japanese",
+    "title": "Grilled Pork Kebabs with Japanese Teriyaki Sauce",
+    "tags": [
+      "grilled",
+      "kebabs",
+      "pork",
+      "japanese",
+      "teriyaki",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "l"
   }
 ]
