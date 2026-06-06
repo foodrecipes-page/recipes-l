@@ -1,0 +1,77 @@
+{
+  "slug": "lovely-smoky-peruvian-beetroot-lomo-saltado--keto",
+  "title": "Peruvian Lomo Saltado Keto Stir Fry",
+  "description": "A keto twist on the classic Peruvian dish, Lomo Saltado. This recipe replaces the traditional rice with cauliflower rice and uses a sugar-free stir-fry sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian Lomo",
+      "amount": "400g",
+      "notes": "Thinly sliced beef (grass-fed)"
+    },
+    {
+      "name": "Lovely Smoky Bacon",
+      "amount": "6 slices",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Saltado Stir-Fry Sauce",
+      "amount": "250ml",
+      "notes": "Sugar-free"
+    },
+    {
+      "name": "Cauliflower Rice",
+      "amount": "1 head",
+      "notes": "Grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the sliced beef and cook for 3-4 minutes, or until browned. Remove from the skillet and set aside.",
+    "Add the crumbled bacon to the skillet and cook until crispy. Remove from the skillet and set aside with the beef.",
+    "Add the diced beetroot to the skillet and cook for 5 minutes, or until tender.",
+    "Add the grated cauliflower rice to the skillet and cook for 3-4 minutes, or until tender.",
+    "Add the cooked beef and bacon back into the skillet and stir to combine.",
+    "Pour the Sugar-Free Saltado Stir-Fry Sauce over the top of the beef and vegetables, and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "keto",
+    "beef",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "36g",
+    "carbs": "10g",
+    "fat": "40g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-peruvian-beetroot-lomo-saltado--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:39:18.553Z"
+}
