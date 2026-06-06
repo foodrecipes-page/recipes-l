@@ -1,0 +1,97 @@
+{
+  "slug": "lovely-smoky-peruvian-beetroot-lomo-saltado--german",
+  "title": "Smoky Beef Lomo Saltado",
+  "description": "A German-inspired twist on the Peruvian dish, Lomo Saltado. This recipe combines the flavors of smoky beef, crunchy vegetables, and a hint of Peruvian spices.",
+  "cuisine": "german",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lovely Smoked Beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "peruvian lomo saltado spice blend",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced potatoes and cook until they start to brown, about 5 minutes.",
+    "Add the sliced beetroot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the smoked beef and cook until browned, about 3-4 minutes.",
+    "Sprinkle the Peruvian lomo saltado spice blend and smoked paprika over the beef and vegetables.",
+    "Season with salt to taste.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro.",
+    "Serve with your choice of sides, such as rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "beef",
+    "german",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-peruvian-beetroot-lomo-saltado--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:14:53.242Z"
+}
