@@ -1,0 +1,70 @@
+{
+  "slug": "lazy-sunday-sea-salt-bhuna-crumble",
+  "title": "Sunday Sea Crumble",
+  "description": "A delicious and easy-to-make seafood dish perfect for a lazy Sunday. This crumble topping adds a crunchy texture and a burst of flavor.",
+  "cuisine": "british",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (Sea Bass)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sunday Sauce Mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "1 cup",
+      "notes": "made with salt and lazy love"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. Season the fish fillets with sea salt and set aside.",
+    "3. In a separate pan, heat the bhuna sauce over medium heat.",
+    "4. Add the Sunday sauce mix to the bhuna sauce and stir well.",
+    "5. Place the fish fillets in a baking dish and spoon the sauce mixture over the top.",
+    "6. Sprinkle the crumble topping evenly over the sauce.",
+    "7. Bake in the preheated oven for 12-15 minutes or until the fish is cooked through.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "fish",
+    "seafood",
+    "easy",
+    "seafood-crumble"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-sea-salt-bhuna-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:28:22.914Z"
+}
