@@ -1,0 +1,65 @@
+{
+  "slug": "light-garlic-mexican-salad",
+  "title": "Mexican Salad Bowl",
+  "description": "A flavorful and healthy salad bowl inspired by Mexican cuisine, featuring mixed greens, juicy tomatoes, crunchy tortilla chips, and a zesty dressing.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tortilla Chips",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced Avocado",
+      "amount": "1"
+    },
+    {
+      "name": "Light Ranch Dressing",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mixed greens, diced tomatoes, and crushed tortilla chips.",
+    "Top with shredded cheese, sliced avocado, and a dollop of light ranch dressing.",
+    "Serve immediately and enjoy.",
+    "Optional: Add diced chicken or steak for added protein.",
+    "Optional: Substitute Greek yogurt for light ranch dressing for a healthier option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "salad",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-garlic-mexican-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:57:44.555Z"
+}
