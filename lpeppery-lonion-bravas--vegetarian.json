@@ -1,0 +1,63 @@
+{
+  "slug": "lpeppery-lonion-bravas--vegetarian",
+  "title": "Bravas Grilled Portobello Mushroom",
+  "description": "A vegetarian twist on a Spanish classic, featuring smoky portobello mushrooms in a spicy bravas sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "Lpeppery",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lonion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bravas",
+      "amount": "1/4 cup",
+      "notes": "sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Clean mushrooms and brush with oil.",
+    "Season with salt and pepper.",
+    "Grill mushrooms for 3-4 minutes per side, or until tender.",
+    "Meanwhile, sauté chopped lpeppery and lonion in a pan with a little oil until softened.",
+    "Stir in bravas sauce and cook for 1-2 minutes.",
+    "Serve mushrooms with bravas sauce spooned over the top.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "mushrooms",
+    "bravas",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lpeppery-lonion-bravas--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:40:03.843Z"
+}
