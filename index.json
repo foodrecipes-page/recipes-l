@@ -20780,5 +20780,18 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-melted-brazilian-chicken-gratin--german",
+    "title": "Savory German Chicken Gratin",
+    "tags": [
+      "german",
+      "chicken",
+      "gratin",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
