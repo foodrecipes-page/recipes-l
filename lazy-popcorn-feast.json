@@ -1,0 +1,67 @@
+{
+  "slug": "lazy-popcorn-feast",
+  "title": "Lazy Feast Popcorn",
+  "description": "A simple snack recipe combining lazy man's popcorn with some tasty ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feast popcorn",
+      "amount": "2 cups",
+      "notes": "any brand will do"
+    },
+    {
+      "name": "Lazy man's seasoning",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Melted cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Caramel sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Crushed crackers",
+      "amount": "1/4 cup",
+      "notes": "optional for crunch"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. Spread the feast popcorn on a baking sheet.",
+    "3. Sprinkle the lazy man's seasoning evenly over the popcorn.",
+    "4. If using cheese and caramel sauce, drizzle them over the popcorn.",
+    "5. Bake for 5-7 minutes or until the cheese is melted.",
+    "6. Remove from oven and sprinkle crushed crackers on top.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "popcorn",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-popcorn-feast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:02:26.705Z"
+}
