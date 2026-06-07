@@ -1,0 +1,50 @@
+{
+  "slug": "luscious-turkish-nectarines-toast",
+  "title": "Grilled Nectarine Toast",
+  "description": "A sweet and savory breakfast or brunch recipe featuring grilled nectarines and crispy toast. Perfect for warm weather.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "2"
+    },
+    {
+      "name": "Luscious Toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Turkish",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Slice the nectarines into 1-inch wedges.",
+    "Grill the nectarine slices for 2-3 minutes per side, until slightly charred.",
+    "Meanwhile, toast the Luscious Toast until crispy.",
+    "Spread a small amount of Turkish on each slice of toast.",
+    "Top each slice with a grilled nectarine wedge.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "grilled",
+    "nectarine",
+    "toast"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-turkish-nectarines-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:14:35.550Z"
+}
