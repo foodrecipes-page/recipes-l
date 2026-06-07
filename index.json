@@ -3768,17 +3768,15 @@
   },
   {
     "slug": "light-crunchy-egyptian-turkey-neck-kebabs",
-    "title": "Light Crunchy Egyptian Turkey Neck Kebabs",
+    "title": "Egyptian-Style Turkey Kebabs",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "kebabs",
+      "turkey",
+      "egyptian",
+      "grilled"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -7507,13 +7505,11 @@
   },
   {
     "slug": "light-vanilla-bean-turkish-stir-fry",
-    "title": "Light Vanilla Bean Turkish Stir-fry",
+    "title": "Turkish-Style Stir Fry with Vanilla Bean",
     "tags": [
-      "light",
-      "vanilla",
       "turkish",
       "stir-fry",
-      "sick-day"
+      "vanilla-bean"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 25,
@@ -19490,17 +19486,16 @@
   },
   {
     "slug": "luxurious-ethiopian-lentil-flatbread",
-    "title": "Luxurious Ethiopian Lentil Flatbread",
+    "title": "Ethiopian-Style Lentil Stew with Flatbread",
     "tags": [
+      "lentils",
       "ethiopian",
+      "stew",
       "flatbread",
-      "indulgent",
-      "lentil",
-      "spicy",
-      "vegan"
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
