@@ -855,14 +855,14 @@
   },
   {
     "slug": "lazy-popcorn-feast",
-    "title": "Lazy Popcorn Feast",
+    "title": "Lazy Feast Popcorn",
     "tags": [
       "popcorn",
-      "toffee",
-      "middle-eastern"
+      "snack",
+      "easy-to-make"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 20,
+    "cuisine": "American",
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
@@ -2884,16 +2884,16 @@
   },
   {
     "slug": "light-argentinian-seafood-grill",
-    "title": "Light Argentinian Seafood Grill",
+    "title": "Grilled Argentinian-Style Skirt Steak with Chimichurri",
     "tags": [
-      "argentinian",
-      "easy-to-make",
-      "glaze",
       "grill",
-      "seafood"
+      "argentinian",
+      "chimichurri",
+      "steak",
+      "flavorful"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -14354,17 +14354,16 @@
   },
   {
     "slug": "lovely-smoky-greek-chickpeas-revithia",
-    "title": "Lovely Smoky Greek Chickpeas Revithia",
+    "title": "Revithia Chickpea Stew",
     "tags": [
-      "clay-pot-cooking",
-      "comfort-food",
-      "fodmap-friendly",
-      "greek-cuisine",
-      "smoky-flavors",
-      "vegetarian-dishes"
+      "greek",
+      "chickpeas",
+      "revithia",
+      "stew",
+      "lentil-free"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 80,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
