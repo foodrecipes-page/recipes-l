@@ -1,0 +1,77 @@
+{
+  "slug": "light-vanilla-bean-turkish-stir-fry",
+  "title": "Turkish-Style Stir Fry with Vanilla Bean",
+  "description": "A unique and flavorful stir fry dish combining the sweetness of vanilla with the spices of Turkish cuisine. This recipe is a perfect blend of East meets West.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vanilla bean",
+      "amount": "1/2 bean",
+      "notes": "Split lengthwise for easy use"
+    },
+    {
+      "name": "Turkish stir fry mix",
+      "amount": "2 cups",
+      "notes": "Includes a mix of spices and herbs"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For stir frying"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 large",
+      "notes": "Any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add onions and bell peppers; stir-fry until tender.",
+    "Add Turkish stir fry mix and cook for 1 minute.",
+    "Add snow peas and cook until tender.",
+    "Add vanilla bean and stir to combine.",
+    "Drizzle with soy sauce and stir to coat.",
+    "Cook for an additional 2 minutes to allow flavors to meld.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stir-fry",
+    "vanilla-bean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-vanilla-bean-turkish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:06:05.923Z"
+}
