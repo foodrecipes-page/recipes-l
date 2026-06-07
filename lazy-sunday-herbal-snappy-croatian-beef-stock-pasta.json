@@ -1,0 +1,67 @@
+{
+  "slug": "lazy-sunday-herbal-snappy-croatian-beef-stock-pasta",
+  "title": "Croatian Beef Pasta",
+  "description": "A hearty beef-based pasta dish originating from Croatia, perfect for a Sunday evening. This recipe combines tender beef with flavorful herbs and a rich stock.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound, cut into bite-sized pieces",
+      "notes": "Use a lean cut of beef for the best results"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces, such as pappardelle or fettuccine",
+      "notes": "Choose a pasta shape that will hold onto the beef and sauce well"
+    },
+    {
+      "name": "stock",
+      "amount": "2 cups, homemade or store-bought",
+      "notes": "Use a high-quality stock for the best flavor"
+    },
+    {
+      "name": "snappy",
+      "amount": "1 teaspoon, dried thyme",
+      "notes": "Use fresh thyme if available for a more vibrant flavor"
+    },
+    {
+      "name": "herbal",
+      "amount": "1 teaspoon, dried rosemary",
+      "notes": "Rosemary pairs well with beef and adds a savory flavor to the dish"
+    }
+  ],
+  "instructions": [
+    "Bring the stock to a boil in a large pot over high heat.",
+    "Add the beef to the pot and cook until browned, about 5 minutes.",
+    "Add the pasta to the pot and cook according to package instructions until al dente.",
+    "Stir in the thyme and rosemary, and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve the beef and pasta hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "beef",
+    "pasta",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-herbal-snappy-croatian-beef-stock-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:31:37.245Z"
+}
