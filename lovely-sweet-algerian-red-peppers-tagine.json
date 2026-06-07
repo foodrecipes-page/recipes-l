@@ -1,0 +1,86 @@
+{
+  "slug": "lovely-sweet-algerian-red-peppers-tagine",
+  "title": "Spicy Algerian Tagine",
+  "description": "A slow-cooked stew originating from Algeria, flavored with sweet and spicy peppers. Serve with couscous or rice.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lovely sweet peppers",
+      "amount": "2"
+    },
+    {
+      "name": "algerian red peppers",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sweet and red peppers, cooking for 5 minutes.",
+    "Stir in the tomato paste, cumin, coriander, salt, and black pepper.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "stew",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-sweet-algerian-red-peppers-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:06:49.524Z"
+}
