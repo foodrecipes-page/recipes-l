@@ -1,0 +1,60 @@
+{
+  "slug": "light-french-taleggio-tarte-tatin",
+  "title": "Tarte Tatin Crostini",
+  "description": "A French-inspired appetizer featuring caramelized Tarte Tatin atop toasted baguette slices topped with creamy Taleggio cheese.",
+  "cuisine": "French",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tarte Tatin",
+      "amount": "6 ounces, caramelized"
+    },
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 ounces, softened"
+    },
+    {
+      "name": "Baguette",
+      "amount": "1 (1-inch thick) slice per serving"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice baguette into 1-inch thick rounds and toast until lightly browned.",
+    "3. Spread a layer of softened Taleggio cheese on each toasted baguette slice.",
+    "4. Top each slice with a portion of caramelized Tarte Tatin.",
+    "5. Drizzle with honey and sprinkle with fresh thyme leaves.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "cheese",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-french-taleggio-tarte-tatin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:47:04.848Z"
+}
