@@ -1,0 +1,80 @@
+{
+  "slug": "lovely-charred-ethiopian-injera-fir-fir",
+  "title": "Ethiopian Fir Fir Stew",
+  "description": "A traditional Ethiopian fir fir stew made with lovely fir fir, charred spices, and injera bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lovely fir fir",
+      "amount": "2 cups"
+    },
+    {
+      "name": "charred onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "charred garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "injera bread",
+      "amount": "2 cups, torn"
+    },
+    {
+      "name": "ethiopian spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add onion and garlic and cook until charred.",
+    "Add fir fir and cook for 5 minutes.",
+    "Add water, spices, and torn injera.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot.",
+    "Garnish with additional injera and spices if desired.",
+    "Serve with additional fir fir if desired.",
+    "Serve with additional charred onion and garlic if desired.",
+    "Serve with additional olive oil if desired.",
+    "Serve with additional water if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "fir-fir",
+    "injera",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-charred-ethiopian-injera-fir-fir",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:32:41.781Z"
+}
