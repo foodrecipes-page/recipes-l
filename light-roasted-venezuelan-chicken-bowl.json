@@ -1,0 +1,98 @@
+{
+  "slug": "light-roasted-venezuelan-chicken-bowl",
+  "title": "Creamy Chicken and Roasted Bowl",
+  "description": "A comforting, creamy dish featuring roasted chicken and a variety of vegetables in a flavorful bowl.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with cumin, paprika, salt, and black pepper.",
+    "In a large bowl, toss the roasted peppers, onion, and garlic with olive oil.",
+    "Roast the chicken in the oven for 30-40 minutes, or until cooked through.",
+    "In a medium saucepan, combine heavy cream and shredded cheese (if using).",
+    "Simmer over low heat until the cheese is melted and the mixture is creamy.",
+    "Slice the roasted chicken and serve with the creamy sauce and roasted vegetables.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "roasted",
+    "latin american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-roasted-venezuelan-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:46:00.394Z"
+}
