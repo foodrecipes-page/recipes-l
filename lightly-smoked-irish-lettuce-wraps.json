@@ -1,0 +1,61 @@
+{
+  "slug": "lightly-smoked-irish-lettuce-wraps",
+  "title": "Smoked Irish Wrap",
+  "description": "A delicious and easy-to-make wrap with smoked Irish sausage, lettuce, and lightly smoked flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish Smoked Sausage",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Lightly Smoked Cheddar Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head, shredded"
+    },
+    {
+      "name": "Lightly Smoked Bacon",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Irish Wrap",
+      "amount": "1-2 wraps"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Add the Irish Smoked Sausage and cook for 5-7 minutes per side, or until browned and cooked through.",
+    "3. Meanwhile, cook the Lightly Smoked Bacon in a separate pan until crispy.",
+    "4. Assemble the wraps by adding the cooked sausage, shredded lettuce, and Lightly Smoked Cheddar Cheese.",
+    "5. Top with cooked bacon and serve immediately.",
+    "6. Serve with additional toppings as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "smoked",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-irish-lettuce-wraps",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:02:27.398Z"
+}
