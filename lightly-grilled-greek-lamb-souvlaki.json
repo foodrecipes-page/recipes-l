@@ -1,0 +1,95 @@
+{
+  "slug": "lightly-grilled-greek-lamb-souvlaki",
+  "title": "Classic Greek Souvlaki",
+  "description": "A traditional Greek dish made with marinated lamb skewers, perfect for a summer evening. Serve with a refreshing side of salad and pita bread.",
+  "cuisine": "Greek",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, skinned and cubed",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Souvlaki skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200g",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "100g",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "100g",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Tomato, sliced",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber, sliced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Red onion, thinly sliced",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together yogurt, lemon juice, garlic, and 2 tablespoons olive oil.",
+    "2. Add the lamb cubes to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread the marinated lamb onto the souvlaki skewers, leaving a small space between each piece.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill the souvlaki for 8-10 minutes, turning occasionally, until browned and cooked through.",
+    "7. Meanwhile, grill the onion, tomato, and cucumber slices for 2-3 minutes per side, until tender.",
+    "8. Warm pita bread by wrapping it in foil and heating it on the grill for a few minutes.",
+    "9. Assemble the souvlaki by placing a few skewers onto each pita, followed by a few slices of onion, tomato, and cucumber.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "souvlaki",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-grilled-greek-lamb-souvlaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:18:03.594Z"
+}
