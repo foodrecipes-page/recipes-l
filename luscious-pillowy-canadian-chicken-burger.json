@@ -1,0 +1,72 @@
+{
+  "slug": "luscious-pillowy-canadian-chicken-burger",
+  "title": "Canadian Chicken Burger",
+  "description": "A classic Canadian-inspired chicken burger recipe featuring a juicy chicken patty, crispy bacon, and melted cheddar cheese.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "luscious chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "pillowy brioche buns",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "4 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "burger",
+      "amount": "4",
+      "notes": "patty or substitute with 4 chicken breasts"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the chicken breasts with salt, pepper, and your favorite herbs.",
+    "3. Grill the chicken breasts for 5-6 minutes per side, or until cooked through.",
+    "4. Meanwhile, cook the bacon slices in a skillet over medium heat until crispy.",
+    "5. Assemble the burgers by spreading a layer of mayonnaise on the bottom bun, followed by a cooked chicken patty, a slice of cheese, a few strips of bacon, and finally the top bun.",
+    "6. Serve the burgers on a bed of lettuce, with your favorite toppings and condiments."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "chicken",
+    "burger",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 38,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-pillowy-canadian-chicken-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:17:41.486Z"
+}
