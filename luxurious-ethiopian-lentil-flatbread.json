@@ -1,0 +1,85 @@
+{
+  "slug": "luxurious-ethiopian-lentil-flatbread",
+  "title": "Ethiopian-Style Lentil Stew with Flatbread",
+  "description": "A hearty and flavorful Ethiopian-inspired stew made with lentils, served with a side of crispy flatbread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian clarified butter"
+    }
+  ],
+  "instructions": [
+    "Heat the niter kibbeh in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for an additional minute.",
+    "Stir in the tomato paste and cook for 1-2 minutes.",
+    "Add the lentils, vegetable broth, and spices. Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "While the stew is cooking, prepare the flatbread according to package instructions or recipe.",
+    "To serve, place a portion of the stew on a flatbread, then top with additional spices or garnishes as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "ethiopian",
+    "stew",
+    "flatbread",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "18g",
+    "carbs": "45g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-ethiopian-lentil-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:45:49.742Z"
+}
