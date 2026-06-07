@@ -1,0 +1,68 @@
+{
+  "slug": "light-crunchy-egyptian-turkey-neck-kebabs",
+  "title": "Egyptian-Style Turkey Kebabs",
+  "description": "Delicious and flavorful turkey kebabs infused with the spices of Egypt, perfect for a quick and easy meal. Serve with your favorite sides or as a snack on its own.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian kebab seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Crunchy vegetables (bell peppers, onions, carrots)",
+      "amount": "1 cup",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Neck bones (optional)",
+      "amount": "4-6",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a small bowl, mix together kebab seasoning, salt, and pepper.",
+    "Cut turkey breast into 1-inch pieces and toss with kebab seasoning mixture.",
+    "Thread turkey and vegetables onto skewers, leaving a little space between each piece.",
+    "Brush kebabs with olive oil and season with salt and pepper.",
+    "Grill kebabs for 8-10 minutes per side, or until cooked through and lightly charred.",
+    "Let kebabs rest for 5 minutes before serving.",
+    "If using neck bones, simmer in a small saucepan with 1 cup of water for 10-15 minutes, or until meat falls off the bone. Strain and serve on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "turkey",
+    "egyptian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-crunchy-egyptian-turkey-neck-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:57:56.262Z"
+}
