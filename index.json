@@ -416,17 +416,15 @@
   },
   {
     "slug": "late-night-luscious-mexican-feta-pozole",
-    "title": "late-night luscious mexican feta pozole",
+    "title": "Luscious Mexican Pozole",
     "tags": [
-      "comfort-food",
       "mexican",
-      "one-pan",
+      "stew",
       "pozole",
-      "vegan-friendly",
-      "weeknight"
+      "pork"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 80,
     "shard": "l"
   },
   {
@@ -14616,16 +14614,14 @@
   },
   {
     "slug": "lovely-sweet-algerian-red-peppers-tagine",
-    "title": "Lovely Sweet Algerian Red Peppers Tagine",
+    "title": "Spicy Algerian Tagine",
     "tags": [
-      "jain-friendly",
-      "north-african",
-      "one-pot",
-      "special-occasion",
-      "vegetarian"
+      "algerian",
+      "stew",
+      "slow-cooked"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
