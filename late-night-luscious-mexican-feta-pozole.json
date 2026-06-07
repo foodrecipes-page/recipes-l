@@ -1,0 +1,89 @@
+{
+  "slug": "late-night-luscious-mexican-feta-pozole",
+  "title": "Luscious Mexican Pozole",
+  "description": "A hearty, comforting Mexican stew made with tender pork, hominy, and a blend of spices. Serve with a squeeze of lime and a sprinkle of feta for a flavorful treat.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pozole",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the pork shoulder in a large pot over medium-high heat.",
+    "Add the onion and garlic to the pot and cook until softened.",
+    "Add the cumin and chili powder to the pot and cook for 1 minute.",
+    "Add the pozole to the pot and bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Shred the pork with two forks and return it to the pot.",
+    "Stir in the feta cheese and lime juice.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional feta cheese and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "stew",
+    "pozole",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/late-night-luscious-mexican-feta-pozole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:09:54.313Z"
+}
