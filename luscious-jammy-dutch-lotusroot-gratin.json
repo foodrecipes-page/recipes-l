@@ -1,0 +1,66 @@
+{
+  "slug": "luscious-jammy-dutch-lotusroot-gratin",
+  "title": "Lotusroot Gratin with Jammy Onions",
+  "description": "A rich and creamy gratin dish featuring lotusroot and caramelized jammy onions.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lotusroot",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "luscious butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "jammy onions",
+      "amount": "1 large onion, thinly sliced"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1 cup grated"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice lotusroot into 1/4 inch thick rounds.",
+    "Melt 2 tablespoons of luscious butter in a pan over medium heat.",
+    "Add sliced jammy onions and cook until caramelized, stirring occasionally.",
+    "In a separate pan, melt the remaining 2 tablespoons of luscious butter over medium heat.",
+    "Add sliced lotusroot and cook until golden brown, stirring occasionally.",
+    "In a greased 9x13 inch baking dish, create a layer of lotusroot slices.",
+    "Top with a layer of caramelized jammy onions, followed by a layer of dutch cheese.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Bake in the preheated oven for 35-40 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lotusroot",
+    "gratin",
+    "jammy onions"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-jammy-dutch-lotusroot-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:13:18.682Z"
+}
