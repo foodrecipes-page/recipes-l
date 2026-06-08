@@ -7713,16 +7713,13 @@
   },
   {
     "slug": "lightly-aerated-italian-mulukhiyah-pilaf",
-    "title": "Lightly Aerated Italian Mulukhiyah Pilaf",
+    "title": "Mulukhiyah Pilaf",
     "tags": [
-      "aerated",
-      "bamboo-steamer",
-      "italian",
       "mulukhiyah",
-      "one-pot",
-      "vegetarian"
+      "pilaf",
+      "middle-eastern"
     ],
-    "cuisine": "Italian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
     "shard": "l"
   },
@@ -10219,18 +10216,15 @@
   },
   {
     "slug": "lightly-smoked-american-peas-skillet",
-    "title": "Lightly Smoked American Peas Skillet",
+    "title": "Smoked American Breakfast Skillet",
     "tags": [
-      "american",
-      "macrobiotic",
-      "one-pan",
-      "quick-fix",
-      "smoky",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "skillet",
+      "sausage",
+      "eggs"
     ],
     "cuisine": "American",
-    "totalTimeMin": 17,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -10334,14 +10328,11 @@
   },
   {
     "slug": "lightly-smoked-mexican-broccoli-skillet",
-    "title": "Lightly Smoked Mexican Broccoli Skillet",
+    "title": "Smoked Chicken Fajitas",
     "tags": [
-      "healthy",
       "mexican",
-      "one-pan",
-      "smoked",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "fajitas"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 25,
