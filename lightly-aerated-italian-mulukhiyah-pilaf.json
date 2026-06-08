@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-aerated-italian-mulukhiyah-pilaf",
+  "title": "Mulukhiyah Pilaf",
+  "description": "A flavorful Middle Eastern-inspired pilaf dish featuring the unique mulukhiyah leafy green. This recipe is a great way to experience the rich flavors of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mulukhiyah",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "italian pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lightly aerated water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and sauté for an additional minute.",
+    "Add chopped mulukhiyah and cook until wilted.",
+    "Add pilaf and stir to combine with mulukhiyah.",
+    "Gradually add aerated water, stirring constantly to prevent lumps.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 20-25 minutes or until the liquid has been absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mulukhiyah",
+    "pilaf",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-aerated-italian-mulukhiyah-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:43:35.640Z"
+}
