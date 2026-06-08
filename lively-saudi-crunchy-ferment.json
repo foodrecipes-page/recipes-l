@@ -1,0 +1,55 @@
+{
+  "slug": "lively-saudi-crunchy-ferment",
+  "title": "Fermented Crunchy Lively Delight",
+  "description": "A tasty and healthy snack made with fermented lively ingredients, crunchy texture, and a hint of saudi spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lively Ferment",
+      "amount": "1 cup",
+      "notes": "active ferment for 24 hours"
+    },
+    {
+      "name": "Crunchy Saudi Spices",
+      "amount": "2 tsp",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Crunchy Topping",
+      "amount": "1/2 cup",
+      "notes": "chopped nuts or seeds for crunchy texture"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together lively ferment and crunchy saudi spices.",
+    "Cover the bowl with a cloth and let it ferment in a cool, dark place for 24 hours.",
+    "Preheat oven to 375°F (190°C).",
+    "Transfer the fermented mixture to a baking dish and top with crunchy topping.",
+    "Bake for 20-25 minutes or until the topping is golden brown and crispy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "snack",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-saudi-crunchy-ferment",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:33:43.283Z"
+}
