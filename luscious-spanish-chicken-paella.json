@@ -1,0 +1,96 @@
+{
+  "slug": "luscious-spanish-chicken-paella",
+  "title": "Spanish Chicken Paella",
+  "description": "A classic Spanish dish made with chicken, rice, and vegetables. This recipe is a hearty and flavorful main course.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Luscious rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spanish smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the diced red bell pepper and cook for an additional 2 minutes.",
+    "Add the Spanish smoked paprika and cook for 1 minute.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the diced tomatoes, chicken broth, salt, and black pepper. Stir to combine.",
+    "Add the luscious rice to the pan and stir to coat the rice with the oil and distribute the ingredients evenly.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "paella",
+    "luscious",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:30:36.921Z"
+}
