@@ -1,0 +1,86 @@
+{
+  "slug": "lightly-fried-northern-thai-noodles-nam-prik",
+  "title": "Spicy Northern Thai Noodle Stir Fry",
+  "description": "A flavorful and spicy stir fry dish made with northern Thai noodles and a variety of ingredients, originating from the northern region of Thailand.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Northern Thai noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Nam prik (Thai chili paste)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add onion and cook until translucent.",
+    "Add mushrooms and bell pepper, cook until tender.",
+    "Add noodles and stir-fry for 2-3 minutes.",
+    "Add nam prik, soy sauce, and brown sugar. Stir-fry for another 2 minutes.",
+    "Taste and adjust seasoning with fish sauce (if using).",
+    "Transfer to a serving platter and garnish with chopped cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "stir-fry",
+    "thaicuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-fried-northern-thai-noodles-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:45:53.819Z"
+}
