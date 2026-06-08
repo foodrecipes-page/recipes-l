@@ -1,0 +1,70 @@
+{
+  "slug": "lightly-smoked-mexican-broccoli-skillet",
+  "title": "Smoked Chicken Fajitas",
+  "description": "Quick and flavorful fajitas made with smoked chicken, broccoli, and a hint of Mexican spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked chicken breasts",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "lightly smoked fajita seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "skillet",
+      "amount": null,
+      "notes": "for cooking"
+    },
+    {
+      "name": "8 small flour tortillas",
+      "amount": null,
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add 1 tablespoon of olive oil and cook the chicken for 5-6 minutes per side, or until cooked through.",
+    "While the chicken cooks, toss the broccoli with the remaining 1 tablespoon of olive oil and lightly smoked fajita seasoning.",
+    "Add the broccoli to the skillet and cook for an additional 2-3 minutes, or until tender.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the chicken and broccoli onto a tortilla and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-mexican-broccoli-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:44:59.782Z"
+}
