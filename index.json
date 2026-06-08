@@ -10797,17 +10797,15 @@
   },
   {
     "slug": "lightly-spiced-moroccan-lamb-tagine",
-    "title": "Lightly Spiced Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "gluten-free-options",
-      "halal-recipes",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "sesame-seed-buns",
-      "tagine-cooking"
+      "lamb",
+      "moroccan",
+      "stew",
+      "casserole"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 140,
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
@@ -17914,18 +17912,15 @@
   },
   {
     "slug": "luscious-tunisian-natto-tagine",
-    "title": "luscious tunisian natto tagine",
+    "title": "Tunisian Luscious Chicken Tagine",
     "tags": [
-      "breakfast",
-      "brunch",
-      "natto",
-      "one-pan",
-      "pescatarian",
-      "tunisian",
-      "weeknight"
+      "chicken",
+      "north-african",
+      "stew",
+      "lunch"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
