@@ -12771,14 +12771,14 @@
   },
   {
     "slug": "love-knot-beef-kidney",
-    "title": "Love Knot Beef Kidney",
+    "title": "Beef and Kidney Stew",
     "tags": [
-      "beef kidney",
-      "love knot dish",
-      "korean cuisine"
+      "beef",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "cuisine": "British",
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
@@ -15946,18 +15946,15 @@
   },
   {
     "slug": "luscious-brazilian-crustaceans-poke",
-    "title": "Brazilian Crustaceans Poke",
+    "title": "Crustacean Poke Bowl",
     "tags": [
+      "poke",
       "brazilian",
-      "dehydrated",
-      "high-protein",
-      "kid-friendly",
-      "lunch",
       "seafood",
-      "snack"
+      "healthy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 23,
     "shard": "l"
   },
   {
