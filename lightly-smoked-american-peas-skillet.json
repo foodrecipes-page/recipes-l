@@ -1,0 +1,98 @@
+{
+  "slug": "lightly-smoked-american-peas-skillet",
+  "title": "Smoked American Breakfast Skillet",
+  "description": "A hearty breakfast skillet filled with smoked sausage, scrambled eggs, and a variety of vegetables.",
+  "cuisine": "American",
+  "diet": [
+    "breakfast",
+    "lunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked American Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Large Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Add the potatoes to the skillet and cook for 5 minutes.",
+    "Add the peas to the skillet and cook until tender, about 2 minutes.",
+    "Push the vegetables to one side of the skillet.",
+    "Add the butter to the empty side of the skillet and crack in the eggs.",
+    "Scramble the eggs until cooked through, then mix with the vegetables.",
+    "Return the sausage to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "skillet",
+    "sausage",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-american-peas-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:38:36.779Z"
+}
