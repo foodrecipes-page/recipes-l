@@ -1,0 +1,63 @@
+{
+  "slug": "lemony-glazed-white-cabbage-corn-husk-wrap",
+  "title": "Lemony Corn and Cabbage Wrap",
+  "description": "A fresh and healthy wrap filled with sautéed corn, cabbage, and a hint of lemon.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "White cabbage",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Lemony wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Husk",
+      "amount": "1/4 cup",
+      "notes": "shredded for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add the corn and cabbage to the skillet and sauté for 3-4 minutes.",
+    "Add a squeeze of lemon juice and cook for an additional minute.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spooning the corn and cabbage mixture onto the center of the wrap.",
+    "Top with additional shredded cabbage and a sprinkle of lemon zest.",
+    "Serve immediately and garnish with shredded husk."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "cabbage",
+    "wrap",
+    "healthy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemony-glazed-white-cabbage-corn-husk-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:17:11.265Z"
+}
