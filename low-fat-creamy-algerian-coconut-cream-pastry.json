@@ -1,0 +1,72 @@
+{
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry",
+  "title": "Algerian Cream Pastry",
+  "description": "A delicious pastry filled with a creamy, low-fat filling, inspired by Algerian cuisine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Low-fat Pastry Dough",
+      "amount": "1 sheet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Low-fat Cream",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Algerian Spice Mix",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough and cut into circles.",
+    "In a bowl, mix together the coconut cream, low-fat cream, Algerian spice mix, and honey.",
+    "Spoon the filling onto one half of each pastry circle.",
+    "Fold the other half over the filling and press edges to seal.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "dessert",
+    "pastry",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:07:00.902Z"
+}
