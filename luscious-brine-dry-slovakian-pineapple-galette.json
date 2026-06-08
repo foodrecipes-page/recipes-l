@@ -1,0 +1,68 @@
+{
+  "slug": "luscious-brine-dry-slovakian-pineapple-galette",
+  "title": "Slovakian Pineapple Galette",
+  "description": "A twist on the classic galette, incorporating sweet pineapple and a hint of Slovakian flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Slovakian galette dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Dry honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Luscious cream cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Brine",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the Slovakian galette dough to a thickness of 1/8 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "In a bowl, mix together the diced pineapple, dry honey, luscious cream cheese, and a pinch of powdered sugar.",
+    "Spread the pineapple mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough over the filling, pressing gently to seal.",
+    "Brush the brine over the dough to give it a golden glaze.",
+    "Bake the galette for 25-30 minutes, or until the crust is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pineapple",
+    "galette",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-brine-dry-slovakian-pineapple-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:15:00.709Z"
+}
