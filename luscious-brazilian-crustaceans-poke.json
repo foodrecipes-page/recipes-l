@@ -1,0 +1,86 @@
+{
+  "slug": "luscious-brazilian-crustaceans-poke",
+  "title": "Crustacean Poke Bowl",
+  "description": "A flavorful and refreshing poke bowl loaded with succulent crustaceans and fresh ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sushi-grade Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-Style Aji Amarillo Sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Mango",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Macadamia Nuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine Aji Amarillo sauce ingredients and blend until smooth.",
+    "In a large bowl, combine mixed greens, sliced red onion, diced mango, and crushed macadamia nuts.",
+    "In a separate bowl, whisk together lime juice and soy sauce.",
+    "Add the sushi-grade shrimp to the bowl and marinate for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Cut the grilled shrimp into bite-sized pieces.",
+    "To assemble the poke bowls, place a scoop of mixed greens mixture in the bottom of a bowl, followed by a portion of the grilled shrimp.",
+    "Drizzle the Aji Amarillo sauce over the top and sprinkle with sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "poke",
+    "brazilian",
+    "seafood",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-brazilian-crustaceans-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:20:56.210Z"
+}
