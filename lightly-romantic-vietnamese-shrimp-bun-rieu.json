@@ -1,0 +1,88 @@
+{
+  "slug": "lightly-romantic-vietnamese-shrimp-bun-rieu",
+  "title": "Vietnamese Shrimp Rieu Noodle Soup",
+  "description": "A light and romantic Vietnamese noodle soup filled with flavorful shrimp and rich broth. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rieu Paste",
+      "amount": "2 tablespoons",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Bun Noodles",
+      "amount": "8 ounces",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "Light Chicken Broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the Rieu Paste in a large pot over medium heat for 1-2 minutes.",
+    "Add the Chicken Broth and bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the Shrimp and cook until pink and cooked through, about 2-3 minutes.",
+    "Cook the Bun Noodles according to the package instructions and set aside.",
+    "Stir in the Fish Sauce, Soy Sauce, and Brown Sugar (if using).",
+    "Taste and adjust the seasoning as needed.",
+    "Ladle the hot broth over the cooked noodles and shrimp.",
+    "Garnish with chopped Green Onions and serve immediately.",
+    "Serve with lime wedges on the side for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "noodle-soup",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-romantic-vietnamese-shrimp-bun-rieu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:09:17.923Z"
+}
