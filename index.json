@@ -3124,17 +3124,14 @@
   },
   {
     "slug": "light-brazilian-sweet-rice-flour-gratin",
-    "title": "light brazilian sweet-rice-flour gratin",
+    "title": "Brazilian Sweet Rice Gratin",
     "tags": [
       "brazilian",
-      "comfort-food",
-      "easy-to-make",
-      "gratin",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "sweet",
+      "rice",
+      "gratin"
     ],
-    "cuisine": "brazilian",
+    "cuisine": "Brazilian",
     "totalTimeMin": 45,
     "shard": "l"
   },
@@ -8975,14 +8972,11 @@
   },
   {
     "slug": "lightly-fried-northern-thai-noodles-nam-prik",
-    "title": "Lightly Fried Northern Thai Noodles Nam Prik",
+    "title": "Spicy Northern Thai Noodle Stir Fry",
     "tags": [
-      "buddhist-friendly",
-      "lunch-ideas",
-      "one-pan",
-      "quick-fix",
-      "thai-cuisine",
-      "vegan",
+      "spicy",
+      "stir-fry",
+      "thaicuisine",
       "vegetarian"
     ],
     "cuisine": "Thai",
@@ -15037,18 +15031,15 @@
   },
   {
     "slug": "low-fat-creamy-algerian-coconut-cream-pastry",
-    "title": "Algerian Coconut-cream Pastry",
+    "title": "Algerian Cream Pastry",
     "tags": [
       "algerian",
-      "coconut",
-      "crust",
       "dessert",
-      "low-carb",
-      "low-fat",
-      "pastry"
+      "pastry",
+      "low-fat"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 40,
+    "cuisine": "Algerian",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -15959,17 +15950,15 @@
   },
   {
     "slug": "luscious-brine-dry-slovakian-pineapple-galette",
-    "title": "Luscious Brine-Dry Slovakian Pineapple Galette",
+    "title": "Slovakian Pineapple Galette",
     "tags": [
-      "dessert",
-      "diabetic",
-      "gluten-free",
-      "one-pan",
-      "romantic",
-      "vegan"
+      "slovakian",
+      "pineapple",
+      "galette",
+      "dessert"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
