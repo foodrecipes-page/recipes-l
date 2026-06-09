@@ -1,0 +1,87 @@
+{
+  "slug": "light-boiled-algerian-boil-bowl",
+  "title": "Boiled Algerian Chicken",
+  "description": "A hearty and flavorful Algerian chicken dish made with tender boiled chicken, served with a side of steamed vegetables and a light salad.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken leg",
+      "amount": "1 whole",
+      "notes": "bone-in"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "1 teaspoon",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Fill a large bowl with cold water and add 1 tablespoon of salt. Submerge the chicken leg and let it soak for 30 minutes.",
+    "Preheat a large pot of water over high heat and bring it to a boil.",
+    "Remove the chicken from the brine and place it in the boiling water.",
+    "Reduce the heat to medium-low and simmer for 20-25 minutes, or until the chicken is cooked through.",
+    "Remove the chicken from the water and place it on a plate to rest.",
+    "In a large bowl, combine the chopped onion, minced garlic, olive oil, salt, pepper, and Algerian spice blend.",
+    "Stir to combine and let it sit for 5 minutes to allow the flavors to meld.",
+    "Add the lemon juice to the bowl and stir to combine.",
+    "Slice the rested chicken and serve it with the onion and garlic mixture spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "dinner",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-boiled-algerian-boil-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:25:36.714Z"
+}
