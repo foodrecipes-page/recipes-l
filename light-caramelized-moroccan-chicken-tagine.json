@@ -1,0 +1,80 @@
+{
+  "slug": "light-caramelized-moroccan-chicken-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A flavorful and aromatic North African-inspired dish made with chicken and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine or Dutch oven over medium heat.",
+    "Add onions and cook until caramelized, about 20 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add spice blend, apricots, broth, and honey. Stir to combine.",
+    "Bring to a simmer, cover, and cook until chicken is cooked through, about 25-30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with parsley and serve over couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "tagine",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-caramelized-moroccan-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:10:04.906Z"
+}
