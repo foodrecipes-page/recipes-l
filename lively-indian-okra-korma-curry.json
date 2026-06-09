@@ -1,0 +1,88 @@
+{
+  "slug": "lively-indian-okra-korma-curry",
+  "title": "Okra Korma Curry",
+  "description": "A flavorful Indian-inspired curry made with okra, korma spices, and a hint of lively spices. Serve over rice or with naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "okra",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "korma curry paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lively spices",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add korma curry paste; cook for 1-2 minutes, until fragrant.",
+    "Add okra, coconut milk, tomato, salt, and black pepper; stir to combine.",
+    "Reduce heat to low; simmer, covered, for 20-25 minutes, or until okra is tender.",
+    "Stir in lively spices; adjust seasoning as needed.",
+    "Serve hot over rice or with naan bread.",
+    "Garnish with cilantro, if desired.",
+    "Adjust seasoning and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-indian-okra-korma-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:30:26.113Z"
+}
