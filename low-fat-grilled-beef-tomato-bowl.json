@@ -1,0 +1,74 @@
+{
+  "slug": "low-fat-grilled-beef-tomato-bowl",
+  "title": "Grilled Beef Bowl",
+  "description": "A flavorful and healthy bowl filled with grilled beef, juicy tomatoes, and a sprinkle of herbs.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Low-fat beef strips",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Bowl",
+      "amount": "1 large",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the beef strips with salt and pepper.",
+    "Grill the beef for 5-7 minutes per side, or until cooked to desired doneness.",
+    "Meanwhile, slice the tomatoes into wedges.",
+    "Grill the tomato wedges for 2-3 minutes per side, or until slightly charred.",
+    "Transfer the grilled beef and tomatoes to a large bowl.",
+    "Garnish with chopped parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "beef",
+    "healthy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-grilled-beef-tomato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:03:22.028Z"
+}
