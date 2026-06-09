@@ -1,0 +1,99 @@
+{
+  "slug": "lightly-smoked-thai-rice-noodles-pad-thai",
+  "title": "Smoked Thai Pad Thai",
+  "description": "A classic Thai dish with a smoky twist, featuring smoked chicken, lightly cooked vegetables, and a flavorful sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked chicken breast",
+      "amount": "1 cup",
+      "notes": "Cooked and sliced"
+    },
+    {
+      "name": "Lightly smoked tofu",
+      "amount": "1/2 cup",
+      "notes": "Marinated and pan-fried"
+    },
+    {
+      "name": "Thai rice noodles",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Pad thai sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1 cup",
+      "notes": "Lightly cooked"
+    },
+    {
+      "name": "Shredded bean sprouts",
+      "amount": "1 cup",
+      "notes": "Lightly cooked"
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions. Drain and set aside.",
+    "In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the sliced chicken breast and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the marinated tofu and cook until lightly browned, about 2-3 minutes.",
+    "Add the shredded carrots and bean sprouts to the skillet and cook until lightly cooked, about 2-3 minutes.",
+    "Add the cooked chicken breast back into the skillet and stir in the pad thai sauce.",
+    "Add the cooked noodles to the skillet and stir-fry everything together for about 2 minutes.",
+    "Transfer the pad thai to a serving platter or individual plates.",
+    "Garnish with chopped peanuts, sliced scallions, and fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pad-thai",
+    "smoked-chicken",
+    "tofu",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-thai-rice-noodles-pad-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:54:51.020Z"
+}
