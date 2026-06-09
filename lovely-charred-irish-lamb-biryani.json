@@ -1,0 +1,78 @@
+{
+  "slug": "lovely-charred-irish-lamb-biryani",
+  "title": "Irish Lamb Biryani",
+  "description": "A flavorful and aromatic lamb biryani infused with the warmth of Irish spices.",
+  "cuisine": "Irish-Indian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 kg",
+      "notes": "fat trimmed"
+    },
+    {
+      "name": "Lovely basmati rice",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Charred onions",
+      "amount": "2",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Biryani spices",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Water",
+      "amount": "500ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 150°C (300°F) for slow cooking.",
+    "2. In a large pan, heat the Irish butter over medium heat.",
+    "3. Add the charred onions and cook until they're lightly browned.",
+    "4. Add the lamb shoulder and cook until browned on all sides.",
+    "5. Add the biryani spices and cook for 1 minute.",
+    "6. Add the lovely basmati rice and cook until lightly toasted.",
+    "7. Transfer the mixture to a large Dutch oven or oven-safe pot.",
+    "8. Add the water and cover the pot with a tight-fitting lid.",
+    "9. Transfer the pot to the preheated oven and cook for 30 minutes.",
+    "10. Remove the pot from the oven and let it rest for 10 minutes.",
+    "11. Fluff the lamb and rice mixture with a fork before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "biryani",
+    "irish",
+    "slow-cooked",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-charred-irish-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:16:13.012Z"
+}
