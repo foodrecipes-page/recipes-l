@@ -14519,17 +14519,15 @@
   },
   {
     "slug": "lovely-spicy-mexican-almond-burrito",
-    "title": "Lovely Spicy Mexican Almond Burrito",
+    "title": "Spicy Mexican Burrito",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "mexican-cuisine",
-      "spicy-food",
-      "vegetarian",
-      "weeknight-meal"
+      "mexican",
+      "spicy",
+      "quick",
+      "lunch"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
