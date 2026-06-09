@@ -8402,16 +8402,16 @@
   },
   {
     "slug": "lightly-crispy-german-grape-nuts-fritters",
-    "title": "Lightly Crispy German Grape Nuts Fritters",
+    "title": "German-Style Grape Fritters",
     "tags": [
-      "easy-to-make",
-      "german-cuisine",
-      "halal-friendly",
-      "kid-friendly",
-      "snack-time"
+      "german",
+      "dessert",
+      "snack",
+      "fried",
+      "grapes"
     ],
     "cuisine": "German",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -10374,13 +10374,14 @@
   },
   {
     "slug": "lightly-smoked-thai-rice-noodles-pad-thai",
-    "title": "Lightly Smoked Thai Rice Noodles Pad Thai",
+    "title": "Smoked Thai Pad Thai",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "thai-cuisine",
-      "vegetarian-friendly",
-      "weeknight-meal"
+      "thai",
+      "pad-thai",
+      "smoked-chicken",
+      "tofu",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
@@ -12042,18 +12043,14 @@
   },
   {
     "slug": "lively-indian-okra-korma-curry",
-    "title": "Lively Indian Okra Korma Curry",
+    "title": "Okra Korma Curry",
     "tags": [
-      "briny",
-      "korma-curry",
-      "low-carb",
-      "one-pot",
-      "south-indian",
-      "springy",
-      "whole30-friendly"
+      "indian",
+      "curry",
+      "vegetarian"
     ],
-    "cuisine": "south indian",
-    "totalTimeMin": 45,
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -13733,17 +13730,15 @@
   },
   {
     "slug": "lovely-light-french-rhubarb-choux-pastry",
-    "title": "Lovely Light French Rhubarb Choux Pastry",
+    "title": "Rhubarb Choux Pastry",
     "tags": [
-      "choux-pastry",
-      "french-dessert",
-      "halal-friendly",
-      "kid-friendly",
-      "rhubarb-recipe",
-      "sweet-treat"
+      "rhubarb",
+      "pastry",
+      "french",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
