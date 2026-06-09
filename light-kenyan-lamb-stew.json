@@ -1,0 +1,88 @@
+{
+  "slug": "light-kenyan-lamb-stew",
+  "title": "Kenyan-Style Lamb Stew",
+  "description": "A flavorful and hearty stew originating from Kenya, made with tender lamb and spices. This recipe is perfect for a cold winter's day.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Light cooking oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kenyan curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes. Remove lamb from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Stir in curry powder, cumin, salt, and pepper. Cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add lamb back to pot, along with water and any accumulated juices.",
+    "Bring to a boil, then cover and transfer to oven.",
+    "Bake at 300°F (150°C) for 1 1/2 hours, or until lamb is tender.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "kenyan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-kenyan-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:12:04.132Z"
+}
