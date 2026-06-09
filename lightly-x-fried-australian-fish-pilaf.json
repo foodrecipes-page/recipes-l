@@ -1,0 +1,89 @@
+{
+  "slug": "lightly-x-fried-australian-fish-pilaf",
+  "title": "Australian Fish Pilaf",
+  "description": "A flavorful and nutritious Australian-inspired dish featuring fish, pilaf, and a hint of fried goodness.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Pilaf Rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "amount": "1 cup",
+      "notes": "Frozen"
+    },
+    {
+      "name": "Australian Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Australian Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat Australian Olive Oil in a pan over medium-high heat.",
+    "Add Mixed Vegetables and cook until tender.",
+    "Season with Salt, Pepper, Garlic Powder, and Paprika.",
+    "Add Pilaf Rice to the pan and stir to combine.",
+    "In a separate pan, fry Cod Fillets until cooked through.",
+    "Serve Cod Fillets on top of the Pilaf Rice mixture.",
+    "Drizzle with Australian Lemon Juice and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fish",
+    "pilaf",
+    "lunch",
+    "medium"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-x-fried-australian-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:45:14.166Z"
+}
