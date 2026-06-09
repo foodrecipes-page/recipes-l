@@ -10836,16 +10836,15 @@
   },
   {
     "slug": "lightly-spiced-syrian-chicken-kebabs",
-    "title": "Syrian Chicken Kebabs",
+    "title": "Syrian-Style Chicken Kebabs",
     "tags": [
-      "grilled-chicken",
-      "keto-friendly",
-      "low-carb",
-      "syrian-cuisine",
-      "weeknight"
+      "chicken",
+      "kebabs",
+      "syrian",
+      "grill"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 36,
     "shard": "l"
   },
   {
@@ -11927,17 +11926,14 @@
   },
   {
     "slug": "lively-dense-ethiopian-chicken-liver-tibs",
-    "title": "Lively Dense Ethiopian Chicken Liver Tibs",
+    "title": "Spicy Ethiopian Chicken Tibs",
     "tags": [
-      "ethiopian-cuisine",
-      "high-protein",
-      "liver-recipes",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "ethiopian",
+      "chicken",
+      "stir-fry"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -15125,15 +15121,15 @@
   },
   {
     "slug": "low-fat-grilled-beef-tomato-bowl",
-    "title": "Low-Fat Grilled Beef Tomato Bowl",
+    "title": "Grilled Beef Bowl",
     "tags": [
-      "beef",
-      "tomato",
       "grilled",
-      "low-fat"
+      "beef",
+      "healthy",
+      "lunch"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
