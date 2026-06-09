@@ -1,0 +1,89 @@
+{
+  "slug": "lightly-spiced-syrian-chicken-kebabs",
+  "title": "Syrian-Style Chicken Kebabs",
+  "description": "Juicy chicken kebabs marinated in a blend of Middle Eastern spices, served with a side of fresh vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemongrass, garlic, paprika, cumin, coriander, salt, and black pepper.",
+    "Add the chicken cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken cubes onto skewers, leaving a small space between each piece.",
+    "Brush the kebabs with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked through.",
+    "Serve hot with your choice of sides, such as grilled vegetables or a salad.",
+    "Optional: serve with a side of tahini sauce or tzatziki for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "syrian",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-syrian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:24:40.013Z"
+}
