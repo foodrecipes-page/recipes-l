@@ -1521,14 +1521,15 @@
   },
   {
     "slug": "lazy-sunday-russian-raspberry-jam-stir-fry",
-    "title": "Lazy-Sunday Russian Raspberry Jam Stir-fry",
+    "title": "Lazy Sunday Raspberry Jam Stir Fry",
     "tags": [
-      "lazy-sunday",
+      "breakfast",
+      "stirfry",
       "russian",
-      "dessert"
+      "raspberry"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 7,
+    "cuisine": "russian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -3337,17 +3338,15 @@
   },
   {
     "slug": "light-caramelized-moroccan-chicken-tagine",
-    "title": "Light Caramelized Moroccan Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "moroccan",
       "chicken",
+      "moroccan",
       "tagine",
-      "caramelized",
-      "diabetic-friendly",
-      "gluten-free"
+      "couscous"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
@@ -10985,17 +10984,16 @@
   },
   {
     "slug": "lightly-spicy-norwegian-oat-porridge",
-    "title": "Lightly Spicy Norwegian Oat Porridge",
+    "title": "Norwegian Spicy Oat Porridge",
     "tags": [
-      "low-glycemic",
-      "norwegian",
-      "oat-porridge",
-      "post-workout",
+      "breakfast",
+      "porridge",
+      "oat",
       "spicy",
-      "vegetarian"
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 17,
     "shard": "l"
   },
   {
@@ -11439,16 +11437,16 @@
   },
   {
     "slug": "lightly-toasted-irish-bread-toast",
-    "title": "Lightly Toasted Irish Bread Toast",
+    "title": "Irish Toast",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "irish-food",
-      "low-carb",
-      "quick-snack"
+      "breakfast",
+      "brunch",
+      "irish",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 22,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
