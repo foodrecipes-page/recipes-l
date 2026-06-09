@@ -1,0 +1,84 @@
+{
+  "slug": "lazy-sunday-russian-raspberry-jam-stir-fry",
+  "title": "Lazy Sunday Raspberry Jam Stir Fry",
+  "description": "A delicious and easy-to-make stir fry dish perfect for a relaxing Sunday morning. Sweet raspberry jam adds a fruity twist to the savory flavors of the stir fry.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Raspberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Pork",
+      "amount": "1/2 lb",
+      "notes": "sliced and cooked to a safe internal temperature of 145°F (63°C)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add another tsp of vegetable oil to the skillet and cook the sliced onion and bell pepper until tender, about 4-5 minutes.",
+    "Return the cooked pork to the skillet and stir in the soy sauce, raspberry jam, and sesame oil (if using).",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Stir in the fresh or frozen raspberries and cook until they have broken down and the sauce has thickened further.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional raspberries and sesame seeds (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "stirfry",
+    "russian",
+    "raspberry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-russian-raspberry-jam-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:31:34.969Z"
+}
