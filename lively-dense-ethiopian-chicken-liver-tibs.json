@@ -1,0 +1,81 @@
+{
+  "slug": "lively-dense-ethiopian-chicken-liver-tibs",
+  "title": "Spicy Ethiopian Chicken Tibs",
+  "description": "A flavorful and spicy Ethiopian-inspired stir-fry dish made with marinated chicken, onions, and bell peppers. Serve with injera or rice for a delicious and filling meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tibs spice mix",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "liver oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat liver oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add onion and bell pepper to skillet and cook until tender, about 5 minutes.",
+    "Add tibs spice mix, thyme, salt, and black pepper to skillet and cook for 1 minute.",
+    "Add cooked chicken back into skillet and stir to combine with onion and bell pepper mixture.",
+    "Serve hot over injera or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-dense-ethiopian-chicken-liver-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:29:25.289Z"
+}
