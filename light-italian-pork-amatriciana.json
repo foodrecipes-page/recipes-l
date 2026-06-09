@@ -1,0 +1,80 @@
+{
+  "slug": "light-italian-pork-amatriciana",
+  "title": "Spaghetti Amatriciana",
+  "description": "A classic Italian pasta dish made with guanciale, tomatoes, and Pecorino Romano. Serve with spaghetti and a sprinkle of black pepper.",
+  "cuisine": "italian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Pecorino Romano",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook spaghetti according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, cook guanciale over medium heat until crispy.",
+    "Remove guanciale from the skillet, and set aside.",
+    "In the same skillet, add onion and cook until translucent.",
+    "Add garlic and cook for 1 minute.",
+    "Add canned tomatoes, and cook for 5 minutes.",
+    "Add reserved pasta water and stir to combine.",
+    "Add cooked spaghetti to the skillet, and toss with tomato sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve with Pecorino Romano cheese shaved on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 32,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-italian-pork-amatriciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:31:29.014Z"
+}
