@@ -3056,23 +3056,16 @@
   },
   {
     "slug": "light-boiled-algerian-boil-bowl",
-    "title": "Light Boiled Algerian Boil Bowl",
+    "title": "Boiled Algerian Chicken",
     "tags": [
       "algerian",
-      "boil-bowl",
-      "fodmap-friendly",
+      "chicken",
+      "dinner",
       "gluten-free",
-      "high-fiber",
-      "low-calorie",
-      "one-pan",
-      "quick-and-easy",
-      "vegan",
-      "vegetarian",
-      "weeknight",
-      "weight-loss"
+      "dairy-free"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -5397,17 +5390,14 @@
   },
   {
     "slug": "light-lovely-slovakian-wild-garlic-leaves-dumplings",
-    "title": "Slovakian Wild Garlic Leaves Dumplings",
+    "title": "Slovakian Dumplings with Wild Garlic",
     "tags": [
-      "halal-friendly",
-      "light-snack",
-      "midnight-craving",
-      "slovakian-cuisine",
-      "steamed-dumplings",
+      "slovakian",
+      "dumplings",
       "wild-garlic"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -16165,18 +16155,15 @@
   },
   {
     "slug": "luscious-crispy-mediterranean-lamb-wrap",
-    "title": "Luscious Crispy Mediterranean Lamb Wrap",
+    "title": "Luscious Lamb Wrap",
     "tags": [
-      "crispy",
-      "flexitarian",
-      "lamb",
-      "lotus-leaf",
       "mediterranean",
-      "pickle-juice",
-      "rainy-day"
+      "lamb",
+      "wrap",
+      "grilled"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -19564,17 +19551,14 @@
   },
   {
     "slug": "luxurious-laminated-norwegian-mussels-paella",
-    "title": "Luxurious Laminated Norwegian Mussels Paella",
+    "title": "Norwegian Paella with Mussels",
     "tags": [
-      "flexitarian-friendly",
-      "laminated-pastry",
-      "midnight-craving",
-      "norwegian-cuisine",
-      "one-pan-meal",
-      "seafood-paella"
+      "seafood",
+      "paella",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
