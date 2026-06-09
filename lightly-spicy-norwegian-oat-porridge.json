@@ -1,0 +1,69 @@
+{
+  "slug": "lightly-spicy-norwegian-oat-porridge",
+  "title": "Norwegian Spicy Oat Porridge",
+  "description": "A hearty and comforting Norwegian oat porridge infused with a touch of spicy warmth. Perfect for a chilly morning.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "250g"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the oats, light brown sugar, cinnamon, cardamom, and cayenne pepper.",
+    "Reduce heat to low and simmer, stirring occasionally, for 10-12 minutes.",
+    "Stir in the unsalted butter until melted.",
+    "Serve hot, garnished with additional cinnamon or cardamom if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "oat",
+    "spicy",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spicy-norwegian-oat-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:38:15.276Z"
+}
