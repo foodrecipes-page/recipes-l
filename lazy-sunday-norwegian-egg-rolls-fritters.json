@@ -1,0 +1,65 @@
+{
+  "slug": "lazy-sunday-norwegian-egg-rolls-fritters",
+  "title": "Lazy Sunday Norwegian Fritters",
+  "description": "A simple and delicious breakfast or brunch option, these Norwegian fritters are made with rolled oats, eggs, and cheese. Perfect for a lazy Sunday morning.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "breakfast",
+    "brunch",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup shredded"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together oats, eggs, milk, and flour.",
+    "Heat a non-stick pan over medium heat.",
+    "Add a small amount of oil to the pan and pour in the oat mixture.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the fritters and cook for an additional 2-3 minutes or until golden brown.",
+    "Serve hot with cheese and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "norwegian",
+    "fritters",
+    "oats",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-norwegian-egg-rolls-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:37:20.137Z"
+}
