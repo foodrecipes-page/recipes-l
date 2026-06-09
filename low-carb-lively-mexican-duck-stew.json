@@ -1,0 +1,95 @@
+{
+  "slug": "low-carb-lively-mexican-duck-stew",
+  "title": "Low-Carb Mexican Duck Stew",
+  "description": "A flavorful and healthy low-carb stew recipe that combines the richness of duck with the spices of Mexico. This stew is perfect for a chilly evening.",
+  "cuisine": "mexican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the duck breast and sear until browned on both sides, about 5 minutes.",
+    "Remove the duck from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the chili powder and cumin and cook for 1 minute.",
+    "Add the diced tomatoes, chicken broth, and browned duck breast back to the pot.",
+    "Bring the stew to a simmer and cook for 20-25 minutes or until the duck is cooked through.",
+    "Stir in the fresh spinach and cook until wilted.",
+    "Squeeze the fresh lime juice over the stew and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "low-carb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-carb-lively-mexican-duck-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:52:05.971Z"
+}
