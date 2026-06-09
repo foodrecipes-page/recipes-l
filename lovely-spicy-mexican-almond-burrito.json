@@ -1,0 +1,64 @@
+{
+  "slug": "lovely-spicy-mexican-almond-burrito",
+  "title": "Spicy Mexican Burrito",
+  "description": "A flavorful and spicy burrito with a delightful crunch from almonds. Perfect for a quick and satisfying meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "lovely",
+      "amount": "1/2 cup, cooked brown rice"
+    },
+    {
+      "name": "spicy",
+      "amount": "1/4 cup, diced jalapenos"
+    },
+    {
+      "name": "burrito",
+      "amount": "1 large flour tortilla"
+    },
+    {
+      "name": "mexican",
+      "amount": "1/2 cup, black beans, cooked"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large skillet over medium-high heat.",
+    "2. Add the sliced almonds and cook until lightly toasted.",
+    "3. Add the diced jalapenos and cook for 1 minute.",
+    "4. Add the cooked brown rice and stir to combine.",
+    "5. Add the cooked black beans and stir to combine.",
+    "6. Warm the flour tortilla in the skillet for 30 seconds on each side.",
+    "7. Spoon the rice and bean mixture onto the center of the tortilla.",
+    "8. Top with the toasted almonds and fold the tortilla to enclose.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "spicy",
+    "quick",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-spicy-mexican-almond-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:28:08.317Z"
+}
