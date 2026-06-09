@@ -1,0 +1,86 @@
+{
+  "slug": "lightly-crispy-german-grape-nuts-fritters",
+  "title": "German-Style Grape Fritters",
+  "description": "Delicious crispy fritters filled with sweet grapes, perfect as a dessert or snack.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert/snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "grated nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grapes, halved",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "powdered sugar (for dusting)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, nutmeg, baking powder, and sugar.",
+    "2. In a separate bowl, whisk together milk, eggs, and melted butter.",
+    "3. Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "4. Gently fold in the grapes and chopped nuts.",
+    "5. Heat about 2-3 inches of oil in a deep frying pan over medium-high heat.",
+    "6. Using a spoon, drop small balls of the batter into the hot oil, about 1 tablespoon each.",
+    "7. Cook the fritters for 2-3 minutes on each side, or until golden brown and crispy.",
+    "8. Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate.",
+    "9. Dust the fritters with powdered sugar and serve warm.",
+    "10. Enjoy your delicious German-style grape fritters!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "snack",
+    "fried",
+    "grapes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-crispy-german-grape-nuts-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:30:18.450Z"
+}
