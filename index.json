@@ -489,17 +489,16 @@
   },
   {
     "slug": "lavender-smoked-quesadilla-applesauce",
-    "title": "Lavender Smoked Quesadilla Applesauce",
+    "title": "Smoked Apple Lavender Crumble",
     "tags": [
-      "apple",
-      "cedar-plank",
-      "ethiopian",
-      "fluffy",
-      "smoke-cooking",
-      "smoky"
+      "dessert",
+      "sweet",
+      "savory",
+      "lavender",
+      "applesauce"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 65,
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -1413,16 +1412,17 @@
   },
   {
     "slug": "lazy-sunday-norwegian-egg-rolls-fritters",
-    "title": "lazy sunday norwegian egg rolls fritters",
+    "title": "Lazy Sunday Norwegian Fritters",
     "tags": [
       "breakfast",
-      "easy-to-make",
-      "lazy-sunday",
+      "brunch",
       "norwegian",
-      "weeknight"
+      "fritters",
+      "oats",
+      "cheese"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 32,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -5032,17 +5032,14 @@
   },
   {
     "slug": "light-italian-pork-amatriciana",
-    "title": "Light Italian Pork Amatriciana",
+    "title": "Spaghetti Amatriciana",
     "tags": [
-      "clay-pot-cooking",
-      "indulgent-meals",
-      "italian-cuisine",
-      "pork-recipes",
-      "special-occasion",
-      "spicy-food"
+      "italian",
+      "pasta",
+      "pork"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 60,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -5174,16 +5171,15 @@
   },
   {
     "slug": "light-kenyan-lamb-stew",
-    "title": "Light Kenyan Lamb Stew",
+    "title": "Kenyan-Style Lamb Stew",
     "tags": [
-      "kenyan",
       "lamb",
       "stew",
-      "diabetic-friendly",
-      "low-carb"
+      "kenyan",
+      "spicy"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 110,
     "shard": "l"
   },
   {
@@ -11563,18 +11559,16 @@
   },
   {
     "slug": "lightly-x-fried-australian-fish-pilaf",
-    "title": "X-Fried Australian Fish Pilaf",
+    "title": "Australian Fish Pilaf",
     "tags": [
       "australian",
-      "basil",
       "fish",
-      "low-carb",
-      "one-pan",
       "pilaf",
-      "weeknight"
+      "lunch",
+      "medium"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 25,
+    "cuisine": "Australian",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
