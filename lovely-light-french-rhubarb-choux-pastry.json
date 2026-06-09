@@ -1,0 +1,77 @@
+{
+  "slug": "lovely-light-french-rhubarb-choux-pastry",
+  "title": "Rhubarb Choux Pastry",
+  "description": "A classic French dessert made with flaky pastry and sweet rhubarb filling. Perfect for springtime.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Choux Pastry",
+      "amount": "1 sheet (thawed)"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Roll out the choux pastry to a thickness of 1/8 inch. Cut into squares or use a cookie cutter to create shapes.",
+    "In a large bowl, mix together the rhubarb, granulated sugar, flour, and egg.",
+    "Place a spoonful of the rhubarb mixture onto one half of each pastry square, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry square over the filling, pressing the edges to seal. Use a fork to crimp the edges.",
+    "Brush the tops of the pastry with the melted butter and sprinkle with confectioners' sugar.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Allow the pastries to cool on a wire rack for 10 minutes before serving.",
+    "If desired, drizzle with vanilla extract before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "rhubarb",
+    "pastry",
+    "french",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-light-french-rhubarb-choux-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:59:01.747Z"
+}
