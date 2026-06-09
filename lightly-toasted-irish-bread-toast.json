@@ -1,0 +1,58 @@
+{
+  "slug": "lightly-toasted-irish-bread-toast",
+  "title": "Irish Toast",
+  "description": "A simple and delicious breakfast or brunch dish made with toasted bread and irish bread, topped with lightly toasted bread.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish bread",
+      "amount": "4 slices",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Toasted bread",
+      "amount": "2 slices",
+      "notes": "Torn into pieces"
+    },
+    {
+      "name": "Lightly toasted bread",
+      "amount": "2 slices",
+      "notes": "Crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add a small amount of oil to the pan and lightly toast the bread until golden brown.",
+    "Cube the irish bread into small pieces.",
+    "Add the torn toasted bread to the pan and cook for 2-3 minutes.",
+    "Add the crushed lightly toasted bread to the pan and cook for an additional 1-2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "irish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-toasted-irish-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:47:56.896Z"
+}
