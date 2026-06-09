@@ -1,0 +1,78 @@
+{
+  "slug": "luscious-crispy-mediterranean-lamb-wrap",
+  "title": "Luscious Lamb Wrap",
+  "description": "Tender lamb, crispy vegetables, and fresh herbs wrapped in a warm flatbread.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound, thinly sliced",
+      "notes": "look for flavorful lamb shoulder or leg"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large, warm",
+      "notes": "preferably a pita or naan"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup, chopped",
+      "notes": "use thinly sliced carrots, cucumbers, or bell peppers"
+    },
+    {
+      "name": "luscious",
+      "amount": "1/4 cup, pomegranate seeds",
+      "notes": "add a sweet and fruity touch"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "1/4 cup, chopped",
+      "notes": "such as parsley, mint, or cilantro"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "add a squeeze of fresh lemon juice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing the wrap"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the lamb with salt and pepper. Grill for 3-4 minutes per side, or until cooked to your liking.",
+    "Meanwhile, brush the wrap with olive oil and warm it on the grill or in the oven.",
+    "Slice the grilled lamb into thin strips.",
+    "Assemble the wrap by spreading a layer of lamb, crispy vegetables, and fresh herbs on the wrap.",
+    "Drizzle with lemon juice and sprinkle with pomegranate seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "lamb",
+    "wrap",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-crispy-mediterranean-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:28:54.908Z"
+}
