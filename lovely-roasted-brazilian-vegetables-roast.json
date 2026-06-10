@@ -1,0 +1,78 @@
+{
+  "slug": "lovely-roasted-brazilian-vegetables-roast",
+  "title": "Brazilian Roast Chicken with Roasted Vegetables",
+  "description": "A delicious and flavorful chicken dish roasted with a mix of vegetables, inspired by the cuisine of Brazil.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 bunch",
+      "notes": "halved"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "Season the chicken with salt, pepper, and your favorite spices.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken for 2-3 minutes on each side, until browned.",
+    "Transfer the skillet to the preheated oven and roast the chicken for 25-30 minutes, or until cooked through.",
+    "Toss the Brussels sprouts, bell pepper, and onion with a little bit of oil and season with salt and pepper.",
+    "Spread the vegetables in a single layer on a baking sheet and roast in the oven for 20-25 minutes, or until tender.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before slicing.",
+    "Serve the chicken with the roasted vegetables and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "vegetables",
+    "roasted",
+    "brazilian",
+    "dinner",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-roasted-brazilian-vegetables-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:13:55.376Z"
+}
