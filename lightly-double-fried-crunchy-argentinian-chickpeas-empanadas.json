@@ -1,0 +1,84 @@
+{
+  "slug": "lightly-double-fried-crunchy-argentinian-chickpeas-empanadas",
+  "title": "Argentinian Empanada Chickpea Fritters",
+  "description": "A fusion of traditional Argentinian empanadas and crispy Middle Eastern fritters, made with chickpeas and spices.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup, drained and mashed"
+    },
+    {
+      "name": "Argentinian empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "double fried onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "Divide the empanada dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of mashed chickpeas in the center of each circle.",
+    "Sprinkle a pinch of cumin, paprika, salt, and pepper over the chickpeas.",
+    "Fold the dough in half to form a half-moon shape, and press the edges together to seal.",
+    "Heat the oil in a deep frying pan to 375°F (190°C).",
+    "Fry the fritters for 2-3 minutes on each side, until golden brown and crispy.",
+    "Drain the fritters on paper towels.",
+    "Serve hot with a side of double fried onions and a dollop of tzatziki sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "chickpeas",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-double-fried-crunchy-argentinian-chickpeas-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:22:07.804Z"
+}
