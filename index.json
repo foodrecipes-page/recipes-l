@@ -10906,16 +10906,14 @@
   },
   {
     "slug": "lightly-spiced-vietnamese-chicken-tagine",
-    "title": "Lightly Spiced Vietnamese Chicken Tagine",
+    "title": "Spiced Chicken Tagine",
     "tags": [
-      "clay-cooking",
-      "mediterranean-inspired",
-      "one-pot",
-      "vietnamese-cuisine",
-      "weeknight-dinner"
+      "chicken",
+      "north-african",
+      "slow-cooker"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -12368,17 +12366,16 @@
   },
   {
     "slug": "lively-smoky-filipino-kale-kare-kare",
-    "title": "Lively Smoky Filipino Kale Kare Kare",
+    "title": "Filipino-Style Kare Kare with Kale",
     "tags": [
-      "filipino-food",
-      "jain-friendly",
-      "kale-recipes",
-      "one-pot-meals",
-      "smoky-flavors",
-      "vegetarian-options"
+      "filipino",
+      "stew",
+      "peanut-sauce",
+      "kale",
+      "vegetarian"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 80,
     "shard": "l"
   },
   {
@@ -16928,17 +16925,15 @@
   },
   {
     "slug": "luscious-lyon-miso-bouillon",
-    "title": "Luscious Lyon Miso Bouillon",
+    "title": "Luscious Lyon Miso Soup",
     "tags": [
-      "comforting",
-      "french",
-      "lyon",
-      "maple",
+      "soup",
       "miso",
-      "southern-french"
+      "lyon",
+      "vegetarian"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 40,
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -19142,16 +19137,15 @@
   },
   {
     "slug": "luxuriantly-glazed-british-lamb-stew",
-    "title": "Luxuriantly Glazed British Lamb Stew",
+    "title": "Classic British Lamb Stew",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "lamb-recipes",
-      "special-occasion",
-      "winter-meals"
+      "lamb",
+      "british",
+      "stew",
+      "comfort food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
