@@ -8631,17 +8631,16 @@
   },
   {
     "slug": "lightly-double-fried-crunchy-argentinian-chickpeas-empanadas",
-    "title": "Crunchy Argentinian Chickpea Empanadas",
+    "title": "Argentinian Empanada Chickpea Fritters",
     "tags": [
       "argentinian",
-      "finger-food",
-      "high-protein",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "empanadas",
+      "chickpeas",
+      "fritters",
+      "snack"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 40,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 23,
     "shard": "l"
   },
   {
@@ -9596,17 +9595,15 @@
   },
   {
     "slug": "lightly-pickled-sour-german-vegetables-salad",
-    "title": "Leicht Pickelte Sauerkraut Salat",
+    "title": "German Pickled Vegetable Salad",
     "tags": [
-      "easy-to-make",
       "german",
       "salad",
-      "side-dish",
-      "vegan",
-      "weeknight"
+      "vegetarian",
+      "low-calorie"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 25,
+    "cuisine": "German",
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
@@ -17687,17 +17684,16 @@
   },
   {
     "slug": "luscious-sweet-and-sour-german-sauerkraut-bake",
-    "title": "Luscious Sweet and Sour German Sauerkraut Bake",
+    "title": "Sour German Sauerkraut Bake",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "one-pan",
+      "german",
       "sauerkraut",
-      "sweet-chilli-sauce",
-      "weeknight"
+      "bake",
+      "lunch",
+      "sausage"
     ],
     "cuisine": "german",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
