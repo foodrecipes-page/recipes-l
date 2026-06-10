@@ -12559,16 +12559,14 @@
   },
   {
     "slug": "lmolten-show-off-red-onions-agave-poke",
-    "title": "LmoltenShow-OffRedOnionsAgave-Poke",
+    "title": "Grilled Poke with Red Onion Salsa",
     "tags": [
-      "agave-leaf",
-      "kenyan",
-      "low-glycemic",
-      "molten",
-      "onion-dish"
+      "grilled poke",
+      "red onion salsa",
+      "hawaiian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "hawaiian",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -16549,16 +16547,15 @@
   },
   {
     "slug": "luscious-hangover-italian-sausages-tiramisu",
-    "title": "Luscious Hangover Italian Sausages Tiramisu",
+    "title": "Italian Sausage Hangover Breakfast",
     "tags": [
-      "hangover-cure",
       "italian",
-      "italian-sausages",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "sausages",
+      "hangover"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 70,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -19770,17 +19767,14 @@
   },
   {
     "slug": "luxuriously-lacquered-portuguese-beef-shin-stew",
-    "title": "Luxuriously Lacquered Portuguese Beef Shin Stew",
+    "title": "Braised Beef Shin Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "lacquer-glaze",
-      "one-pot",
-      "portuguese-cuisine",
-      "wine-based"
+      "beef",
+      "stew",
+      "portuguese"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 210,
+    "totalTimeMin": 180,
     "shard": "l"
   },
   {
