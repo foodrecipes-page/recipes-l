@@ -1,0 +1,83 @@
+{
+  "slug": "luxuriously-lacquered-portuguese-beef-shin-stew",
+  "title": "Braised Beef Shin Stew",
+  "description": "A hearty and comforting Portuguese-style beef stew made with tender beef shin, richly flavored with red wine and spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 kg, cut into 2.5 cm cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "250 ml"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp, dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef cubes until browned on all sides, then set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened.",
+    "Add the red wine and stir to deglaze the pan, scraping up any browned bits.",
+    "Add the beef broth, tomato paste, bay leaves, thyme, salt, and black pepper.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise for 2.5 hours, or until the beef is tender and falls apart easily.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriously-lacquered-portuguese-beef-shin-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:48:53.435Z"
+}
