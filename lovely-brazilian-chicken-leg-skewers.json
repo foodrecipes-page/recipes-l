@@ -1,0 +1,75 @@
+{
+  "slug": "lovely-brazilian-chicken-leg-skewers",
+  "title": "Brazilian Chicken Leg Skewers",
+  "description": "Grilled chicken leg skewers marinated in a mixture of Brazilian spices, perfect for a summer evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "grill",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4-6",
+      "notes": "pounded to 1/2 inch thickness"
+    },
+    {
+      "name": "lovely brazilian seasoning mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oil",
+      "amount": "4 tablespoons",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together lovely brazilian seasoning mix, oil, lime juice, garlic, and onion.",
+    "2. Add the chicken legs to the marinade, turning to coat evenly. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread the marinated chicken legs onto skewers, leaving a small space between each piece.",
+    "5. Grill the skewers for 5-7 minutes per side, or until the chicken is cooked through and the internal temperature reaches 165°F.",
+    "6. Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grill",
+    "summer",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-brazilian-chicken-leg-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:54:11.844Z"
+}
