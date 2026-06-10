@@ -1,0 +1,79 @@
+{
+  "slug": "luscious-sweet-and-sour-german-sauerkraut-bake",
+  "title": "Sour German Sauerkraut Bake",
+  "description": "A hearty and tangy German-inspired casserole featuring sauerkraut, sausage, and a blend of sweet and sour flavors.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "luscious sauer",
+      "amount": "1/2 cup",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "and sausage",
+      "amount": "1/2 pound",
+      "notes": "you can choose the type you like"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "or vegan cream alternative"
+    },
+    {
+      "name": "german seasonings",
+      "amount": "1 tsp",
+      "notes": "such as thyme, caraway seeds"
+    },
+    {
+      "name": "bake",
+      "amount": "350°F",
+      "notes": "preheated oven temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large mixing bowl, combine sauerkraut, sweet potatoes, luscious sauer, and german seasonings.",
+    "In a separate pan, cook sausage over medium heat until browned.",
+    "Add sour cream to the pan and stir until combined with sausage.",
+    "Combine sausage mixture with sauerkraut mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25-30 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sauerkraut",
+    "bake",
+    "lunch",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-sweet-and-sour-german-sauerkraut-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:00:51.604Z"
+}
