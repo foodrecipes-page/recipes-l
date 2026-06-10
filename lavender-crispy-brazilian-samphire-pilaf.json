@@ -1,0 +1,77 @@
+{
+  "slug": "lavender-crispy-brazilian-samphire-pilaf",
+  "title": "Lavender Samphire Pilaf",
+  "description": "A flavorful side dish that combines the sweetness of samphire with the subtle taste of lavender. Perfect for a relaxing dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "250g",
+      "notes": "trim and cut to 1-inch pieces"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "dried lavender",
+      "amount": "1 tsp",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "vegetable or chicken broth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the samphire and cook for 2-3 minutes, or until tender.",
+    "Add the white rice and cook for another 2-3 minutes, stirring constantly.",
+    "Add the chicken broth, lavender, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herb",
+    "vegan",
+    "gluten-free",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lavender-crispy-brazilian-samphire-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:12:20.641Z"
+}
