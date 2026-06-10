@@ -1,0 +1,87 @@
+{
+  "slug": "lively-smoky-filipino-kale-kare-kare",
+  "title": "Filipino-Style Kare Kare with Kale",
+  "description": "A hearty and flavorful Filipino stew made with a rich peanut sauce, tender ox tripe, and nutritious kale. Serve with steamed rice for a satisfying meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ox tripe",
+      "amount": "2 pounds",
+      "notes": "cleaned and cut into small pieces"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted and ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "curly-leafed, chopped"
+    },
+    {
+      "name": "annatto seeds",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Sear the ox tripe until browned, then set aside.",
+    "In the same pot, sauté the onion and garlic until softened.",
+    "Add the peanuts, annatto seeds, salt, and black pepper. Cook for 1 minute.",
+    "Add 2 cups of water and bring to a boil.",
+    "Return the ox tripe to the pot and simmer for 1 hour, or until tender.",
+    "Add the chopped kale to the pot and cook until wilted.",
+    "Serve hot with steamed rice and garnish with fresh herbs, if desired.",
+    "Note: Traditionally, kare kare is made with a variety of ingredients, including ox tripe, vegetables, and bagoong (fermented shrimp paste). This recipe is a simplified version using kale and omitting bagoong for a vegetarian option."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "stew",
+    "peanut-sauce",
+    "kale",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-smoky-filipino-kale-kare-kare",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:10:24.425Z"
+}
