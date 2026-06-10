@@ -1,0 +1,66 @@
+{
+  "slug": "light-egyptian-flaxseed-frittata",
+  "title": "Egyptian Flaxseed Frittata",
+  "description": "A nutritious breakfast frittata made with flaxseed and inspired by Egyptian cuisine. This dish is packed with protein and fiber to keep you energized throughout the morning.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "breakfast",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "light",
+      "amount": "1/4 cup",
+      "notes": "used as a substitute for oil"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 cup, shredded",
+      "notes": "used in place of traditional cheese"
+    },
+    {
+      "name": "flaxseed",
+      "amount": "1 tablespoon",
+      "notes": "ground and added as a nutritious topping"
+    },
+    {
+      "name": "frittata",
+      "amount": "6 eggs",
+      "notes": "used as the base of the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1/4 cup of light over medium heat.",
+    "Add shredded egyptian and cook until melted and slightly browned.",
+    "In a large bowl, whisk together eggs and a pinch of salt.",
+    "Pour egg mixture over the skillet and cook until edges start to set.",
+    "Transfer skillet to the oven and bake for 15-20 minutes or until the eggs are set.",
+    "Remove from oven and sprinkle with ground flaxseed.",
+    "Use a spatula to carefully loosen the edges of the frittata.",
+    "Slide the frittata onto a plate and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egyptian",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-egyptian-flaxseed-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:43:04.670Z"
+}
