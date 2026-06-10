@@ -1,0 +1,78 @@
+{
+  "slug": "lmolten-show-off-red-onions-agave-poke",
+  "title": "Grilled Poke with Red Onion Salsa",
+  "description": "A simple and flavorful poke dish grilled to perfection, served with a sweet and spicy red onion salsa. Perfect for a quick and easy meal.",
+  "cuisine": "hawaiian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb poke",
+      "amount": "1 lb",
+      "notes": "Fresh and sashimi-grade"
+    },
+    {
+      "name": "1/2 red onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "1/4 cup agave",
+      "amount": "1/4 cup",
+      "notes": "For the salsa"
+    },
+    {
+      "name": "1/4 cup show",
+      "amount": "1/4 cup",
+      "notes": "For the salsa"
+    },
+    {
+      "name": "2 cloves off",
+      "amount": "2",
+      "notes": "For the salsa"
+    },
+    {
+      "name": "1 tablespoon lmolten",
+      "amount": "1 tbsp",
+      "notes": "To grill the poke"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the poke with salt, pepper, and lmolten.",
+    "Grill the poke for 2-3 minutes per side, or until cooked through.",
+    "Meanwhile, combine the red onion, agave, show, and off in a bowl.",
+    "Mix well and set aside.",
+    "Once the poke is cooked, slice it into thin pieces.",
+    "Serve the grilled poke with the red onion salsa on top.",
+    "Garnish with additional show and agave if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled poke",
+    "red onion salsa",
+    "hawaiian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lmolten-show-off-red-onions-agave-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:56:08.221Z"
+}
