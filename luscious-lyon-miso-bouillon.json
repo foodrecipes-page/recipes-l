@@ -1,0 +1,78 @@
+{
+  "slug": "luscious-lyon-miso-bouillon",
+  "title": "Luscious Lyon Miso Soup",
+  "description": "A twist on the classic Lyon soup, featuring the umami flavor of miso. This hearty soup is perfect for a chilly evening.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Luscious Mushrooms",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lyon Shallots",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Bouillon",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium heat.",
+    "Add the Lyon shallots and cook until softened, about 5 minutes.",
+    "Add the Luscious mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the Miso paste and cook for 1 minute, stirring constantly.",
+    "Pour in the Vegetable Bouillon and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the soup simmer for 10 minutes.",
+    "Season with Salt and Black Pepper to taste.",
+    "Serve hot, garnished with Fresh Parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "miso",
+    "lyon",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-lyon-miso-bouillon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:01:53.695Z"
+}
