@@ -14067,17 +14067,17 @@
   },
   {
     "slug": "lovely-roasted-brazilian-vegetables-roast",
-    "title": "lovely roasted brazilian vegetables roast",
+    "title": "Brazilian Roast Chicken with Roasted Vegetables",
     "tags": [
+      "chicken",
+      "vegetables",
+      "roasted",
       "brazilian",
-      "oven-roasted",
-      "side-dish",
-      "snacky",
-      "vegetarian",
-      "weeknight"
+      "dinner",
+      "easy-to-make"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 40,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -15527,15 +15527,13 @@
   },
   {
     "slug": "low-temperature-japanese-molten-stir-fry",
-    "title": "Low-Temperature Japanese Molten Stir-Fry",
+    "title": "Molten Japanese Stir Fry",
     "tags": [
-      "high-protein",
-      "low-sodium",
-      "one-pan",
-      "post-workout",
-      "tohoku"
+      "japanese",
+      "stir-fry",
+      "beef"
     ],
-    "cuisine": "Japanese",
+    "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "l"
   },
