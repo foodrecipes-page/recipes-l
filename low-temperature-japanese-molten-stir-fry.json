@@ -1,0 +1,85 @@
+{
+  "slug": "low-temperature-japanese-molten-stir-fry",
+  "title": "Molten Japanese Stir Fry",
+  "description": "A quick and easy Japanese-inspired stir fry made with tender beef and crunchy vegetables.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "8 oz (225g)",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp (30ml)",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp (5g)",
+      "notes": null
+    },
+    {
+      "name": "Ginger (grated)",
+      "amount": "1 tsp (5g)",
+      "notes": null
+    },
+    {
+      "name": "Garlic (minced)",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Snow peas",
+      "amount": "8 oz (225g)",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "chopped (for garnish)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a wok or large skillet over medium-high heat. Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the wok and set aside.",
+    "In the same wok, add the remaining 1 tablespoon of olive oil. Add the snow peas and carrots and cook until tender, about 4-5 minutes.",
+    "Add the grated ginger and minced garlic to the wok and cook for 1 minute, until fragrant.",
+    "Return the beef to the wok and stir in the soy sauce, brown sugar, and cooked vegetables.",
+    "Cook for an additional 2 minutes, until the sauce has thickened and the beef is coated.",
+    "Transfer the stir fry to a serving platter and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-temperature-japanese-molten-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:51:27.832Z"
+}
