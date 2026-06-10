@@ -1,0 +1,93 @@
+{
+  "slug": "lightly-spiced-vietnamese-chicken-tagine",
+  "title": "Spiced Chicken Tagine",
+  "description": "A flavorful North African-inspired chicken dish made with aromatic spices, served with tender chicken and a hint of sweetness.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken thighs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lightly spiced",
+      "amount": "2 teaspoons ground cumin",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 teaspoon ground coriander",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons olive oil",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon ground cinnamon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 teaspoon ground ginger",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons freshly squeezed lemon juice",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon honey",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Remove chicken from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add cumin, coriander, cinnamon, and ginger to pot and cook for 1 minute.",
+    "Add chicken back to pot, along with lemon juice and honey.",
+    "Cover pot and transfer to oven.",
+    "Bake at 375°F (190°C) for 25-30 minutes, or until chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-vietnamese-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:18:50.721Z"
+}
