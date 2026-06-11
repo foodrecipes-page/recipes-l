@@ -1,0 +1,82 @@
+{
+  "slug": "light-buttery-slovakian-tiger-prawns-fried-rice",
+  "title": "Pan-Seared Prawns with Tiger Fried Rice",
+  "description": "A delicious and easy-to-make dish that combines the flavors of Slovakia with a twist of Asian cuisine.",
+  "cuisine": "Slovakian-Asian fusion",
+  "diet": [
+    "Gluten-free",
+    "Seafood-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Light Slovakian rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Tiger prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Buttery slovakian seasoning",
+      "amount": "2 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Light oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Slovakian salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "Fried egg",
+      "amount": "1",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the prawns and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the prawns from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of oil and the buttery slovakian seasoning.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the cooked rice to the skillet and stir to combine with the seasoning.",
+    "Cook for 2-3 minutes, until the rice is heated through.",
+    "Return the prawns to the skillet and stir to combine with the rice.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped parsley and a fried egg if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "prawns",
+    "slovakian",
+    "tigerfriedrice",
+    "panseared"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-buttery-slovakian-tiger-prawns-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:32:30.282Z"
+}
