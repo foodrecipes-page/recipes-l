@@ -11686,18 +11686,15 @@
   },
   {
     "slug": "lively-argentinian-beef-stew",
-    "title": "Lively Argentinian Beef Stew",
+    "title": "Argentinian Beef Stew",
     "tags": [
-      "argentine",
+      "argentinian",
       "beef",
-      "ghee",
-      "low-carb",
-      "one-pot",
       "stew",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 105,
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
@@ -15445,17 +15442,14 @@
   },
   {
     "slug": "low-sodium-layered-ukrainian-vine-leaves-stew",
-    "title": "Low Sodium Layered Ukrainian Vine Leaves Stew",
+    "title": "Borscht Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-stew",
-      "low-sodium",
-      "one-pot",
-      "ukrainian-cuisine"
+      "beets",
+      "stew",
+      "ukrainian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 75,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
