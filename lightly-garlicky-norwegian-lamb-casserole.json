@@ -1,0 +1,97 @@
+{
+  "slug": "lightly-garlicky-norwegian-lamb-casserole",
+  "title": "Norwegian Lamb Casserole",
+  "description": "A hearty and flavorful Norwegian-inspired lamb casserole. Perfect for a cold winter evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Lightly floured all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlicky butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Casserole potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb cubes with salt and pepper.",
+    "Heat the garlicky butter in a large Dutch oven over medium-high heat.",
+    "Sear the lamb cubes until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the sliced mushrooms to the pot and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the sliced potatoes to the pot and cook for 2-3 minutes, until slightly tender.",
+    "Add the chicken broth and heavy cream to the pot, scraping up any browned bits from the bottom.",
+    "Return the lamb to the pot and bring the mixture to a simmer.",
+    "Transfer the pot to the preheated oven and bake for 2 hours, or until the lamb is tender and the potatoes are cooked through.",
+    "Stir in the chopped parsley and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "casserole",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-garlicky-norwegian-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:25:48.081Z"
+}
