@@ -1,0 +1,60 @@
+{
+  "slug": "lazy-sunday-dill-pickle-pie",
+  "title": "Sunday Brunch Pickle Pie",
+  "description": "A delicious twist on traditional pie, featuring a tangy pickle filling and a flaky crust.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1 cup, finely chopped"
+    },
+    {
+      "name": "Sunday Pie Crust",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lazy (Vegan Butter)",
+      "amount": "1/2 cup, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place it in a pie dish.",
+    "In a separate bowl, combine the chopped pickle and dill.",
+    "Pour the pickle mixture into the pie crust.",
+    "Drizzle the melted lazy over the pickle mixture.",
+    "Bake for 35-40 minutes, or until the crust is golden brown.",
+    "Allow the pie to cool before serving.",
+    "Serve warm, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "pie",
+    "pickle",
+    "dill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-dill-pickle-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:55:19.445Z"
+}
