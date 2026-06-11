@@ -1,0 +1,62 @@
+{
+  "slug": "luxuriously-crunchy-syrian-milk-chocolate-bars",
+  "title": "Crunchy Syrian Milk Chocolate Bars",
+  "description": "A luxurious dessert made with crunchy Syrian ingredients, perfect for warm days. Crunchy syrian ingredients add a delightful texture to the milk chocolate bars.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Syrian Crunchy Cookies",
+      "amount": "1 cup",
+      "notes": "Crushed into crumbs"
+    },
+    {
+      "name": "Dark Chocolate Bars",
+      "amount": "4",
+      "notes": "Crushed into pieces"
+    },
+    {
+      "name": "Milk Chocolate Bars",
+      "amount": "1",
+      "notes": "Melted"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": "For dipping"
+    }
+  ],
+  "instructions": [
+    "Crush Syrian crunchy cookies into crumbs and set aside.",
+    "Melt milk chocolate bars over low heat and mix with heavy cream.",
+    "Dip crushed cookies into melted chocolate and place on a baking sheet.",
+    "Refrigerate for 10 minutes to set.",
+    "Melt dark chocolate bars and drizzle over the chilled cookie bars.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "luxury dessert",
+    "syrian dessert",
+    "chocolate dessert",
+    "easy dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriously-crunchy-syrian-milk-chocolate-bars",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:09:45.758Z"
+}
