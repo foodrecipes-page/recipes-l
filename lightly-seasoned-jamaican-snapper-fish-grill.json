@@ -1,0 +1,78 @@
+{
+  "slug": "lightly-seasoned-jamaican-snapper-fish-grill",
+  "title": "Grilled Jamaican Snapper",
+  "description": "A Caribbean-inspired dish featuring pan-seared snapper seasoned with Jamaican spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper (4 fillets, 6 oz each)",
+      "amount": "4",
+      "notes": "Fresh, sustainable snapper"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Lightly Battered Breading",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Rinse snapper fillets and pat dry with paper towels.",
+    "Season snapper with Jamaican Jerk Seasoning, making sure to coat both sides evenly.",
+    "If using lightly battered breading, coat snapper fillets with breading, pressing gently to adhere.",
+    "Brush grill grates with vegetable oil to prevent sticking.",
+    "Grill snapper fillets for 3-4 minutes per side, or until cooked through.",
+    "Remove snapper from grill and place on a serving platter.",
+    "Squeeze lime wedges over snapper and garnish with chopped cilantro.",
+    "Serve immediately, with additional lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "fish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-seasoned-jamaican-snapper-fish-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:12:52.237Z"
+}
