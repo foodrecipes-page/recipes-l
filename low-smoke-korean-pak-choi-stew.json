@@ -1,0 +1,94 @@
+{
+  "slug": "low-smoke-korean-pak-choi-stew",
+  "title": "Smoked Beef and Pak Choi Stew",
+  "description": "A hearty, flavorful stew made with tender beef and crisp pak choy, smoked to perfection. This recipe is perfect for a cold winter's night.",
+  "cuisine": "Korean",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Low fat beef (1 pound)",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "For added smokiness"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Pak choy",
+      "amount": "2 bunches",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "Beef broth or stock"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "To balance flavors"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add smoked paprika and Korean chili flakes, and cook for 1 minute.",
+    "Add stew, soy sauce, sugar, ginger, and garlic, and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Add pak choy and cook until wilted, about 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "beef",
+    "pak-choi"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-smoke-korean-pak-choi-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:40:22.221Z"
+}
