@@ -1,0 +1,72 @@
+{
+  "slug": "luxuriant-dense-chinese-rice-congee",
+  "title": "Luxuriant Congee with Chinese Herbs",
+  "description": "A nourishing and comforting congee dish infused with the subtle flavors of Chinese herbs, ideal for a relaxing breakfast or brunch.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice"
+    },
+    {
+      "name": "Luxuriant Chinese Herbs",
+      "amount": "2 tablespoons",
+      "notes": "Dried herbs such as astragalus and licorice root"
+    },
+    {
+      "name": "Congee",
+      "amount": "4 cups",
+      "notes": "Prepared congee or cooked rice porridge"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium broth"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for at least 4 hours or overnight.",
+    "Drain and rinse the rice, then add it to a large pot with the vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 1 hour, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the congee and dried Chinese herbs. Cook for an additional 10-15 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the congee hot, garnished with thinly sliced scallions and a slice of ginger."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "vegetarian",
+    "breakfast",
+    "chinese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-dense-chinese-rice-congee",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:17:37.541Z"
+}
