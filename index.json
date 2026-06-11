@@ -7056,16 +7056,15 @@
   },
   {
     "slug": "light-steamed-dutch-lentils-dal",
-    "title": "Light Steamed Dutch Lentils Dal",
+    "title": "Steamed Lentil Dal",
     "tags": [
-      "dutch",
-      "lentils",
-      "one-pan",
-      "vegan",
+      "lentil",
+      "dal",
+      "indian",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Dutch",
+    "cuisine": "Indian",
     "totalTimeMin": 40,
     "shard": "l"
   },
@@ -19336,17 +19335,15 @@
   },
   {
     "slug": "luxurious-creamy-korean-pork-ssam",
-    "title": "Luxurious Creamy Korean Pork Ssam",
+    "title": "Korean-Style Pork Belly Ssam",
     "tags": [
-      "cream-based",
-      "gluten-free",
-      "korean-cuisine",
-      "one-pot",
-      "pork-recipe",
-      "special-occasion"
+      "korean",
+      "bbq",
+      "pork",
+      "ssam"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 80,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -19739,17 +19736,15 @@
   },
   {
     "slug": "luxuriously-crunchy-syrian-milk-chocolate-bars",
-    "title": "Luxuriously Crunchy Syrian Milk Chocolate Bars",
+    "title": "Crunchy Syrian Milk Chocolate Bars",
     "tags": [
-      "chocolate-lovers",
-      "crunchy-texture",
-      "easy-to-make",
-      "middle-eastern",
-      "no-bake",
-      "vegetarian-friendly"
+      "luxury dessert",
+      "syrian dessert",
+      "chocolate dessert",
+      "easy dessert"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
