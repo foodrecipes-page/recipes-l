@@ -1,0 +1,83 @@
+{
+  "slug": "lively-argentinian-beef-stew",
+  "title": "Argentinian Beef Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, perfect for a chilly evening. This recipe serves 4-6 people and is best enjoyed with crusty bread.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Lively onions",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Argentinian red wine",
+      "amount": "1 cup",
+      "notes": "Dried or fresh, any variety"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Crushed or pureed"
+    },
+    {
+      "name": "Spices (e.g., cumin, oregano, thyme)",
+      "amount": "1 teaspoon",
+      "notes": "Blended or separate"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Grind or whole"
+    },
+    {
+      "name": "Lively fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large Dutch oven over medium-high heat, about 5 minutes per side.",
+    "Remove the browned beef and set aside.",
+    "Add the chopped onions to the pot and cook until they're softened and lightly browned, about 8 minutes.",
+    "Add the red wine, beef broth, tomato paste, and spices to the pot, stirring to combine.",
+    "Return the browned beef to the pot, cover, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-argentinian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:32:42.325Z"
+}
