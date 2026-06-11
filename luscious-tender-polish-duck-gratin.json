@@ -1,0 +1,80 @@
+{
+  "slug": "luscious-tender-polish-duck-gratin",
+  "title": "Pan-Seared Polish Duck Breast with Honey Gratin",
+  "description": "Tender Polish duck breast pan-seared to perfection and served with a sweet honey gratin.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish duck breast",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "pure"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the duck breast with salt and pepper.",
+    "Heat butter in a skillet over medium-high heat.",
+    "Sear the duck breast for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the duck reaches an internal temperature of 145°F (63°C).",
+    "Meanwhile, prepare the honey gratin according to the package instructions.",
+    "Remove the duck from the oven and let it rest for 5 minutes.",
+    "Serve the duck breast with the honey gratin spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "duck",
+    "honey",
+    "gratin",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-tender-polish-duck-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:33:36.501Z"
+}
