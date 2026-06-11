@@ -1,0 +1,87 @@
+{
+  "slug": "luscious-kenyan-rice-pilaf",
+  "title": "Kenyan-Style Rice Pilaf",
+  "description": "A flavorful and aromatic rice dish inspired by Kenyan cuisine, with a blend of spices and herbs.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Luscious rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kenyan pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add rice, pilaf, cumin, turmeric, cayenne pepper, salt, and black pepper.",
+    "Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the liquid is absorbed.",
+    "Fluff the rice mixture with a fork and garnish with chopped cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan-food",
+    "rice-dish",
+    "vegetarian-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-kenyan-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:14:30.375Z"
+}
