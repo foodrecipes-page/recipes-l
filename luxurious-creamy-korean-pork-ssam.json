@@ -1,0 +1,83 @@
+{
+  "slug": "luxurious-creamy-korean-pork-ssam",
+  "title": "Korean-Style Pork Belly Ssam",
+  "description": "A modern twist on traditional Korean BBQ, this dish features tender pork belly wrapped in a crispy, spicy ssam wrap.",
+  "cuisine": "Korean",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 (2-pound) piece",
+      "notes": "Score the fat in a diamond pattern"
+    },
+    {
+      "name": "Luxurious soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-end soy sauce for added depth"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "To balance the heat"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Crispy garlic",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4-6 wraps",
+      "notes": "Crispy, spicy Korean rice paper"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, whisk together soy sauce, gochujang, brown sugar, and garlic.",
+    "Place the pork belly in a large ziplock bag and pour the marinade over it. Seal the bag and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Roast the pork in the preheated oven for 20-25 minutes, or until caramelized and crispy.",
+    "While the pork is cooking, prepare the ssam wrap by cutting it into thin strips.",
+    "To assemble the ssam, place a few pieces of the roasted pork onto a ssam wrap, followed by a sprinkle of chopped green onions and crispy garlic.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "korean",
+    "bbq",
+    "pork",
+    "ssam"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-creamy-korean-pork-ssam",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:52:15.348Z"
+}
