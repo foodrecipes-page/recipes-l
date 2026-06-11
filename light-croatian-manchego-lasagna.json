@@ -1,0 +1,81 @@
+{
+  "slug": "light-croatian-manchego-lasagna",
+  "title": "Croatian Cheesy Lasagna",
+  "description": "A hearty, cheesy lasagna dish with a Croatian twist, featuring Manchego and light cheeses.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Croatian Manchego cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Light cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat. Add onion and garlic and cook until softened.",
+    "Stir in Manchego and light cheese until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "In a 9x13 inch baking dish, spread a layer of the cheese mixture. Arrange 4 lasagna noodles on top.",
+    "Repeat the cheese and noodle layers two more times, ending with a layer of cheese on top.",
+    "Sprinkle parsley over the top of the cheese.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until the cheese is golden brown and bubbly.",
+    "Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "croatian",
+    "lasagna"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-croatian-manchego-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:34:49.627Z"
+}
