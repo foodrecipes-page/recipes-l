@@ -3264,15 +3264,14 @@
   },
   {
     "slug": "light-buttery-slovakian-tiger-prawns-fried-rice",
-    "title": "Light Buttery Slovakian Tiger Prawns Fried Rice",
+    "title": "Pan-Seared Prawns with Tiger Fried Rice",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "seafood",
-      "weeknight"
+      "prawns",
+      "slovakian",
+      "tigerfriedrice",
+      "panseared"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "Slovakian-Asian fusion",
     "totalTimeMin": 25,
     "shard": "l"
   },
@@ -3683,17 +3682,14 @@
   },
   {
     "slug": "light-croatian-manchego-lasagna",
-    "title": "Light Croatian Manchego Lasagna",
+    "title": "Croatian Cheesy Lasagna",
     "tags": [
-      "cedar-plank",
       "cheesy",
-      "comfort-food",
-      "croatian-cuisine",
-      "kid-friendly",
-      "low-sodium"
+      "croatian",
+      "lasagna"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
@@ -9982,16 +9978,13 @@
   },
   {
     "slug": "lightly-seasoned-jamaican-snapper-fish-grill",
-    "title": "Lightly Seasoned Jamaican Snapper Fish Grill",
+    "title": "Grilled Jamaican Snapper",
     "tags": [
-      "brine-dry",
-      "grilled-fish",
-      "jamaican-cuisine",
-      "romantic-dinner",
-      "seafood",
-      "shojin-friendly"
+      "caribbean",
+      "fish",
+      "grilled"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "Caribbean",
     "totalTimeMin": 23,
     "shard": "l"
   },
@@ -17710,16 +17703,16 @@
   },
   {
     "slug": "luscious-tender-polish-duck-gratin",
-    "title": "Luscious, Tender Polish Duck Gratin",
+    "title": "Pan-Seared Polish Duck Breast with Honey Gratin",
     "tags": [
-      "comfort-food",
-      "dinner-party",
-      "high-protein",
-      "special-occasion",
-      "winter"
+      "polish",
+      "duck",
+      "honey",
+      "gratin",
+      "main-course"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -18524,17 +18517,15 @@
   },
   {
     "slug": "luxuriant-dense-chinese-rice-congee",
-    "title": "Luxuriant Dense Chinese Rice Congee",
+    "title": "Luxuriant Congee with Chinese Herbs",
     "tags": [
-      "chinese-inspired",
       "comfort-food",
-      "festive",
-      "one-pot",
-      "spicy",
-      "vegetarian-friendly"
+      "vegetarian",
+      "breakfast",
+      "chinese-cuisine"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 75,
     "shard": "l"
   },
   {
