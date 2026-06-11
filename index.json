@@ -1093,15 +1093,16 @@
   },
   {
     "slug": "lazy-sunday-dill-pickle-pie",
-    "title": "Lazy Sunday Dill Pickle Pie",
+    "title": "Sunday Brunch Pickle Pie",
     "tags": [
-      "lazy-sunday",
-      "dill-pickle-pie",
-      "keto",
-      "bbq"
+      "breakfast",
+      "brunch",
+      "pie",
+      "pickle",
+      "dill"
     ],
-    "cuisine": "Keto, BBQ",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -12249,17 +12250,14 @@
   },
   {
     "slug": "lively-portuguese-fish-soup",
-    "title": "Lively Portuguese Fish Soup",
+    "title": "Fisherman's Portuguese Soup",
     "tags": [
-      "gluten-free",
-      "low-carb",
-      "one-pot",
       "portuguese",
-      "quick-meal",
-      "seafood"
+      "fish",
+      "soup"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 30,
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -16782,17 +16780,14 @@
   },
   {
     "slug": "luscious-kenyan-rice-pilaf",
-    "title": "Kenyan Rice Pilaf with Coconut and Onions",
+    "title": "Kenyan-Style Rice Pilaf",
     "tags": [
-      "date-night",
-      "gluten-free",
       "kenyan-food",
-      "nut-free",
-      "one-pan",
-      "vegan-option"
+      "rice-dish",
+      "vegetarian-recipe"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
