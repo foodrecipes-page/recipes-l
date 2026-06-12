@@ -1,0 +1,73 @@
+{
+  "slug": "luscious-dense-dutch-pine-nuts-pilaf",
+  "title": "Dutch Pine Nut Pilaf",
+  "description": "A savory pilaf dish combining the flavors of Dutch cuisine with the crunch of pine nuts.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch pilaf",
+      "amount": "1 cup",
+      "notes": "preferably a combination of rice and spices"
+    },
+    {
+      "name": "Pine nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Luscious olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Dense vegetables (carrots, peas, onions)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped vegetables and sauté until tender.",
+    "Add pilaf and stir to combine with vegetables.",
+    "Add pine nuts and stir-fry for 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "dutch-cuisine",
+    "pine-nuts",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-dense-dutch-pine-nuts-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:32:17.768Z"
+}
