@@ -1,0 +1,87 @@
+{
+  "slug": "lively-dutch-lentil-stew",
+  "title": "Dutch Lentil Stew",
+  "description": "A hearty stew originating from the Netherlands made with red lentils, vegetables, and spices.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Dutch Stew Spice",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Lively Vegetable Broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the lively vegetable broth in a large pot over medium heat.",
+    "Add the onion, carrot, and celery and sauté until tender.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the red lentils, Dutch stew spice, salt, and black pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Check the lentils for tenderness and adjust the cooking time as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "stew",
+    "vegetarian",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "18g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-dutch-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:13:04.046Z"
+}
