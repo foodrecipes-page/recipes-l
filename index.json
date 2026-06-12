@@ -4795,17 +4795,15 @@
   },
   {
     "slug": "light-herbal-ukrainian-fish-pilaf",
-    "title": "Light Herbal Ukrainian Fish Pilaf",
+    "title": "Baked Fish with Ukrainian Pilaf",
     "tags": [
-      "fish-based",
-      "gluten-free",
-      "herbal",
-      "light-meal",
-      "one-pot",
-      "ukrainian"
+      "fish",
+      "ukrainian",
+      "pilaf",
+      "light"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -10328,18 +10326,15 @@
   },
   {
     "slug": "lightly-smoked-russian-corned-beef-pirozhki",
-    "title": "Lightly Smoked Russian Corned Beef Pirozhki",
+    "title": "Beef Pirozhki Stew",
     "tags": [
-      "comfort-food",
-      "eastern-european",
-      "high-protein",
-      "one-pan",
-      "russian-recipes",
-      "savory-pastries",
-      "weeknight"
+      "beef",
+      "stew",
+      "russian-cuisine",
+      "comfort-food"
     ],
     "cuisine": "russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
