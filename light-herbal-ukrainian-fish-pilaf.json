@@ -1,0 +1,76 @@
+{
+  "slug": "light-herbal-ukrainian-fish-pilaf",
+  "title": "Baked Fish with Ukrainian Pilaf",
+  "description": "A delicious and easy-to-make dish that combines the flavors of Ukraine with the freshness of fish.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fish fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian pilaf mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Herbal mix (dill, parsley, basil)",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Rinse the fish fillets and pat dry with paper towels.",
+    "Mix Ukrainian pilaf mix with light olive oil, herbal mix, salt, and pepper.",
+    "Place the fish fillets on the prepared baking sheet.",
+    "Top each fish fillet with the pilaf mixture.",
+    "Bake in the preheated oven for 12-15 minutes or until the fish is cooked through.",
+    "Serve hot with lemon juice squeezed on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "ukrainian",
+    "pilaf",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-herbal-ukrainian-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:40:56.771Z"
+}
