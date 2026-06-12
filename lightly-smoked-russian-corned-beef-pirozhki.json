@@ -1,0 +1,93 @@
+{
+  "slug": "lightly-smoked-russian-corned-beef-pirozhki",
+  "title": "Beef Pirozhki Stew",
+  "description": "A hearty beef stew made with smoked beef, corned beef, and a hint of russian spices, served with crispy pirozhki on the side.",
+  "cuisine": "russian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Beef",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "Corned Beef",
+      "amount": "1/2 pound, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "Pirozhki",
+      "amount": "6-8 pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the smoked beef and corned beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the beef broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes, or until the beef is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve with pirozhki on the side.",
+    "To make the pirozhki, preheat the oven to 400°F (200°C).",
+    "Cut the pirozhki in half and place on a baking sheet.",
+    "Brush with oil and bake for 5-7 minutes, or until crispy and golden brown.",
+    "Serve with the beef stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "russian-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-russian-corned-beef-pirozhki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:20:40.307Z"
+}
