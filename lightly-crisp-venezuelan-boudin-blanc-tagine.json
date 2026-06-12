@@ -1,0 +1,76 @@
+{
+  "slug": "lightly-crisp-venezuelan-boudin-blanc-tagine",
+  "title": "Crispy Boudin Bites with Tagine Aioli",
+  "description": "Crispy bites of boudin served with a creamy tagine aioli, perfect as an appetizer or snack.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boudin",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Venezuelan cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lightly beaten eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Crisp breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Blanc cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F.",
+    "2. Cut the boudin into small cubes.",
+    "3. In a bowl, mix together the cornstarch, eggs, and milk.",
+    "4. Dip each boudin cube into the cornstarch mixture, coating completely.",
+    "5. Roll the coated boudin cube in the breadcrumbs to coat.",
+    "6. Fry the coated boudin in the hot oil for 2-3 minutes, or until golden brown.",
+    "7. Remove the fried boudin from the oil and drain on paper towels.",
+    "8. Make the tagine aioli by mixing together the tagine, garlic, and lemon juice.",
+    "9. Serve the crispy boudin bites with the tagine aioli for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "snack",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-crisp-venezuelan-boudin-blanc-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:47:14.875Z"
+}
