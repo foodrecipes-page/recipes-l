@@ -1,0 +1,64 @@
+{
+  "slug": "lazy-sunday-citrus-creme",
+  "title": "Lazy Sunday Breakfast",
+  "description": "A simple and delicious breakfast to start your lazy Sunday morning.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lemon",
+      "amount": "1/2 cup",
+      "notes": "Juice of 1 lemon"
+    },
+    {
+      "name": "Sunday Orange Marmalade",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Creme",
+      "amount": "1 cup",
+      "notes": "Heavy whipping cream or half-and-half"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whip the creme until it starts to thicken.",
+    "Add the lemon juice, orange marmalade, caster sugar, and vanilla extract to the bowl.",
+    "Continue whipping the mixture until stiff peaks form.",
+    "Serve the whipped cream immediately, garnished with a sprinkle of sugar if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lazy",
+    "weekend",
+    "whipped cream"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-citrus-creme",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:23:38.342Z"
+}
