@@ -8325,17 +8325,14 @@
   },
   {
     "slug": "lightly-crisp-venezuelan-boudin-blanc-tagine",
-    "title": "Lightly Crisp Venezuelan Boudin Blanc Tagine",
+    "title": "Crispy Boudin Bites with Tagine Aioli",
     "tags": [
-      "boudin-blanc",
-      "ceramic-tagine",
-      "fry-grind-rice-khao-khua",
-      "one-pot",
-      "satvik-friendly",
-      "venezuelan-cuisine"
+      "appetizer",
+      "snack",
+      "french"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -10165,15 +10162,14 @@
   },
   {
     "slug": "lightly-smoked-algerian-lamb-kebabs",
-    "title": "Lightly Smoked Algerian Lamb Kebabs",
+    "title": "Smoked Lamb Kebabs",
     "tags": [
-      "date-night",
-      "grilled-meats",
-      "lamb-recipes",
-      "mediterranean-dishes",
-      "middle-eastern"
+      "smoked-lamb",
+      "kebabs",
+      "north-african",
+      "grilled"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 30,
     "shard": "l"
   },
@@ -13421,15 +13417,14 @@
   },
   {
     "slug": "lovely-golden-american-egg-omelette",
-    "title": "Lovely Golden American Egg Omelette",
+    "title": "American Omelette",
     "tags": [
-      "breakfast-ideas",
-      "brunch-mood",
-      "easy-omelette",
-      "eggs-travagant"
+      "breakfast",
+      "omelette",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 15,
+    "totalTimeMin": 13,
     "shard": "l"
   },
   {
