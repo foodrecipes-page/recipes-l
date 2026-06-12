@@ -1,0 +1,60 @@
+{
+  "slug": "lovely-golden-american-egg-omelette",
+  "title": "American Omelette",
+  "description": "A classic American-style omelette made with eggs, cheese, and ham.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "American cheddar cheese",
+      "amount": "1/4 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Diced ham",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Crack the eggs into a bowl and whisk them together with a pinch of salt and pepper.",
+    "2. Heat a small non-stick pan over medium heat.",
+    "3. Add the diced ham to the pan and cook until it's lightly browned.",
+    "4. Pour the whisked eggs over the ham in the pan.",
+    "5. Sprinkle the shredded cheese over the eggs.",
+    "6. Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "7. Continue cooking and folding until the eggs are almost set.",
+    "8. Use the spatula to carefully flip the omelette over and cook for another minute.",
+    "9. Slide the omelette out of the pan onto a plate.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "omelette",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-golden-american-egg-omelette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:26:55.507Z"
+}
