@@ -1,0 +1,80 @@
+{
+  "slug": "luscious-filipino-chicken-kaldereta",
+  "title": "Filipino Kaldereta Chicken",
+  "description": "A classic Filipino dish made with tender chicken in a rich tomato-based sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups",
+      "notes": "canned or chopped fresh"
+    },
+    {
+      "name": "kaldereta sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add chopped onion and sauté until softened.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chicken breast and cook until browned on all sides.",
+    "Add canned or chopped fresh tomatoes and cook until they start to break down.",
+    "Add kaldereta sauce and stir to combine.",
+    "Bring the mixture to a simmer and let cook for 20-25 minutes or until the chicken is cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot garnished with chopped green onions or fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "kaldereta",
+    "tomato-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-filipino-chicken-kaldereta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:01:55.495Z"
+}
