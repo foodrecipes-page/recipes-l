@@ -1,0 +1,69 @@
+{
+  "slug": "lazy-ketchup-tart",
+  "title": "Lazy Tart",
+  "description": "A simple tart recipe with a twist. Perfect for a quick snack or dessert.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Tart",
+      "amount": "1 (pre-made)"
+    },
+    {
+      "name": "Lazy Sauce",
+      "amount": "1/4 cup",
+      "notes": "see below"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the pre-made tart crust and place on a baking sheet.",
+    "3. In a bowl, whisk together the sugar, eggs, and melted butter.",
+    "4. Pour the sugar mixture into the tart crust.",
+    "5. Bake for 25-30 minutes or until the filling is set.",
+    "6. While the tart is baking, prepare the lazy sauce by mixing ketchup and a splash of water.",
+    "7. Remove the tart from the oven and let it cool for a few minutes.",
+    "8. Drizzle the lazy sauce over the top of the tart.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tart",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-ketchup-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:22:58.770Z"
+}
