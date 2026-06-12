@@ -1,0 +1,73 @@
+{
+  "slug": "lovely-baked-chinese-mustard-seeds-bake",
+  "title": "Baked Lovely Chicken",
+  "description": "A simple baked chicken recipe with lovely flavors. This dish is perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "lovely mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chinese five-spice seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baked sweet potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chicken breast and pat it dry with paper towels.",
+    "In a small bowl, mix the lovely mustard, chinese five-spice seeds, salt, and pepper.",
+    "Apply the mustard mixture evenly to both sides of the chicken breast.",
+    "Place the chicken breast on a baking sheet lined with parchment paper.",
+    "Bake the chicken for 20-25 minutes or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is baking, slice the baked sweet potatoes into wedges.",
+    "Toss the sweet potato wedges with a little bit of oil and season with salt and pepper.",
+    "After the chicken has baked for 15 minutes, add the sweet potato wedges to the oven.",
+    "Continue baking for an additional 10-12 minutes or until the sweet potato wedges are tender and lightly browned.",
+    "Remove the chicken and sweet potato wedges from the oven and let them rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "baked",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-baked-chinese-mustard-seeds-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:13:24.661Z"
+}
