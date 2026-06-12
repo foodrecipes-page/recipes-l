@@ -11651,17 +11651,16 @@
   },
   {
     "slug": "lively-algerian-chickpea-tagine",
-    "title": "Lively Algerian Chickpea Tagine",
+    "title": "Classic Algerian Chickpea Tagine",
     "tags": [
       "algerian",
-      "low-glycemic",
-      "one-pot",
-      "quick",
+      "chickpea",
       "tagine",
-      "vegan"
+      "stew",
+      "north-african"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
@@ -12787,17 +12786,14 @@
   },
   {
     "slug": "lovely-baked-chinese-mustard-seeds-bake",
-    "title": "Lovely Baked Chinese Mustard Seeds Bake",
+    "title": "Baked Lovely Chicken",
     "tags": [
-      "baked-tofu",
-      "chinese-mustard-seeds",
-      "festive-dish",
-      "lacto-vegetarian",
-      "sichuan-cuisine",
-      "wood-fired"
+      "chicken",
+      "baked",
+      "sweet-potatoes"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
