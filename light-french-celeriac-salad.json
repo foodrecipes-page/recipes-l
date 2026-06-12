@@ -1,0 +1,67 @@
+{
+  "slug": "light-french-celeriac-salad",
+  "title": "Celeriac and Light Salad",
+  "description": "A light and refreshing salad featuring roasted celeriac and mixed greens",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Light vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Dried herbs (e.g. thyme)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss celeriac with 1 tablespoon olive oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes, or until tender.",
+    "In a large bowl, combine mixed greens, roasted celeriac, and dried herbs.",
+    "Drizzle light vinaigrette over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "celeriac",
+    "salad",
+    "light",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-french-celeriac-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:18:59.370Z"
+}
