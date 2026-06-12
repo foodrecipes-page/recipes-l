@@ -1,0 +1,90 @@
+{
+  "slug": "lively-algerian-chickpea-tagine",
+  "title": "Classic Algerian Chickpea Tagine",
+  "description": "A hearty and aromatic North African stew made with chickpeas, lively spices, and tender meat. Serve over couscous for a flavorful and nutritious meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "lively",
+      "amount": "2 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "algerian",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chickpeas, cumin, coriander, and chicken broth.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in couscous and cook for 5 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with parsley and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chickpea",
+    "tagine",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-algerian-chickpea-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:55:16.769Z"
+}
