@@ -1,0 +1,84 @@
+{
+  "slug": "luscious-australian-pistachios-burger",
+  "title": "Juicy Australian Burger with Pistachio Crunch",
+  "description": "A flavorful twist on the classic burger, featuring Australian beef and a crunchy pistachio topping.",
+  "cuisine": "australian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian beef patties",
+      "amount": "4 (1-inch thick)",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1 cup, chopped",
+      "notes": "for topping"
+    },
+    {
+      "name": "Burger buns",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Luscious lettuce",
+      "amount": "1 head, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Tasty tomato",
+      "amount": "2, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Crisp onion",
+      "amount": "1, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Australian-style aioli",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season beef patties with salt and pepper.",
+    "Grill patties for 4-5 minutes per side, or until cooked to desired temperature.",
+    "Meanwhile, toast burger buns on the grill.",
+    "Assemble burgers with lettuce, tomato, onion, cheese, and a dollop of aioli.",
+    "Top with chopped pistachios and serve immediately.",
+    "Cook Australian-style aioli in a saucepan over low heat until warmed through.",
+    "Serve aioli on the side for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "burger",
+    "pistachio",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-australian-pistachios-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:49:28.935Z"
+}
