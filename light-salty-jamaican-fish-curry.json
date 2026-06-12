@@ -1,0 +1,78 @@
+{
+  "slug": "light-salty-jamaican-fish-curry",
+  "title": "Jamaican Fish Curry",
+  "description": "A flavorful and aromatic curry dish made with fish and Jamaican spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "400g",
+      "notes": "Cod or Snapper work well"
+    },
+    {
+      "name": "Jamaican Curry Powder",
+      "amount": "2 tbsp",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "250ml",
+      "notes": "Full-fat for richness"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for a further 1 minute.",
+    "Add the Jamaican curry powder and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk and bring to the boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add the fish fillets and cook for 8-10 minutes, or until cooked through.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "curry",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-salty-jamaican-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:03:32.629Z"
+}
