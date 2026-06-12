@@ -1,0 +1,64 @@
+{
+  "slug": "lively-citrusy-syrian-shrimp-pilaf",
+  "title": "Shrimp and Syrian Pilaf",
+  "description": "A flavorful and vibrant shrimp dish inspired by Middle Eastern cuisine, served with a side of aromatic Syrian pilaf.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound, peeled and deveined"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "lively",
+      "amount": "1/2 cup, chopped fresh herbs (such as parsley or cilantro)"
+    },
+    {
+      "name": "citrusy",
+      "amount": "2 tablespoons, freshly squeezed lemon juice"
+    },
+    {
+      "name": "syrian",
+      "amount": "2 tablespoons, olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the cooked pilaf to the skillet and stir to combine with the remaining oil and any accumulated shrimp juices.",
+    "Stir in the chopped herbs and lemon juice.",
+    "Return the shrimp to the skillet and toss to combine with the pilaf mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "pilaf",
+    "middle eastern",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-citrusy-syrian-shrimp-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:03:45.264Z"
+}
