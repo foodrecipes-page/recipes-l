@@ -1,0 +1,96 @@
+{
+  "slug": "luxuriant-australian-chicken-tagine",
+  "title": "Luxuriant Chicken Tagine",
+  "description": "A flavorful and aromatic North African-inspired dish featuring chicken cooked in a rich and spicy tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds (680g)",
+      "notes": "Bone-in for extra flavor"
+    },
+    {
+      "name": "Luxuriant olive oil",
+      "amount": "2 tablespoons (30ml)",
+      "notes": null
+    },
+    {
+      "name": "Australian lamb or beef stock",
+      "amount": "1 cup (240ml)",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup (240ml)",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium (about 1 pound 100g)",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon (15g)",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the cumin, coriander, ginger, garlic, and cayenne pepper. Cook for 1 minute, stirring constantly.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the lamb or beef stock, chicken broth, and bring to a boil.",
+    "Cover the tagine and transfer it to the preheated oven.",
+    "Bake at 300°F (150°C) for 30-40 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "north-african",
+    "spicy",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-australian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:29:43.601Z"
+}
