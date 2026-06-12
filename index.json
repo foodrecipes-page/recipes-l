@@ -6409,16 +6409,14 @@
   },
   {
     "slug": "light-salty-jamaican-fish-curry",
-    "title": "Light Salty Jamaican Fish Curry",
+    "title": "Jamaican Fish Curry",
     "tags": [
       "jamaican",
-      "fish-curry",
-      "low-carb",
-      "post-workout",
-      "easy-to-make"
+      "curry",
+      "fish"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -11792,17 +11790,15 @@
   },
   {
     "slug": "lively-citrusy-syrian-shrimp-pilaf",
-    "title": "Lively Citrusy Syrian Shrimp Pilaf",
+    "title": "Shrimp and Syrian Pilaf",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "middle-eastern",
-      "one-pot",
-      "seafood",
-      "syrian-cuisine"
+      "shrimp",
+      "pilaf",
+      "middle eastern",
+      "herbs"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -11912,13 +11908,15 @@
   },
   {
     "slug": "lively-dutch-lentil-stew",
-    "title": "Lively Dutch Lentil Stew",
+    "title": "Dutch Lentil Stew",
     "tags": [
-      "dutch",
-      "dinner"
+      "lentils",
+      "stew",
+      "vegetarian",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
