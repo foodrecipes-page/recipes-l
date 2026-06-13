@@ -1,0 +1,65 @@
+{
+  "slug": "lightly-garlicky-jamaican-buckwheat-toast",
+  "title": "Garlicky Buckwheat Toast",
+  "description": "A simple yet flavorful breakfast dish made with buckwheat, garlic, and lightly toasted bread.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lightly toasted bread",
+      "amount": "4 slices",
+      "notes": "preferably whole grain"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the buckwheat groats and cook, stirring frequently, for 5-7 minutes, until lightly toasted.",
+    "Meanwhile, toast the bread slices until lightly browned.",
+    "To assemble the dish, divide the buckwheat groats among the toast slices.",
+    "Drizzle with olive oil and season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-garlicky-jamaican-buckwheat-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:01:08.764Z"
+}
