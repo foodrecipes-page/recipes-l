@@ -3837,17 +3837,17 @@
   },
   {
     "slug": "light-dutch-soya-bean-flatbread",
-    "title": "Light Dutch Soya Bean Flatbread",
+    "title": "Bean and Soya Stew",
     "tags": [
-      "dutch-cuisine",
-      "flatbread",
-      "low-carb",
-      "snack-time",
-      "soya-bean",
-      "vegetarian"
+      "stew",
+      "beans",
+      "soya",
+      "dutch",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -9481,13 +9481,12 @@
   },
   {
     "slug": "lightly-leaf-wrapped-monsoon-mexican-tortilla-quesadilla",
-    "title": "Monsoon Mexican Tortilla Quesadilla",
+    "title": "Monsoon Quesadilla",
     "tags": [
-      "keto",
       "mexican",
-      "one-pan",
       "quesadilla",
-      "veggie-filled"
+      "chicken",
+      "cheese"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 25,
