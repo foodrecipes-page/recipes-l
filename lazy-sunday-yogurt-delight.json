@@ -1,0 +1,52 @@
+{
+  "slug": "lazy-sunday-yogurt-delight",
+  "title": "Lazy Sunday Yogurt Delight",
+  "description": "A simple and delicious dessert to relax on a lazy Sunday afternoon. A sweet and tangy mix of yogurt, topped with fresh delight.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plain Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Delight",
+      "amount": "1/2 cup",
+      "notes": "any type of delight"
+    },
+    {
+      "name": "Sunday",
+      "amount": "1 tsp",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix together the plain yogurt and delight until well combined.",
+    "2. Add a teaspoon of Sunday if desired for added flavor.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "4. Serve chilled and enjoy!",
+    "5. Garnish with fresh delight if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "yogurt",
+    "easy",
+    "simple"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-yogurt-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:13:49.501Z"
+}
