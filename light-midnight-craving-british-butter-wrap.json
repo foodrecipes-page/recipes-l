@@ -1,0 +1,75 @@
+{
+  "slug": "light-midnight-craving-british-butter-wrap",
+  "title": "Midnight Craving British Wrap",
+  "description": "A late-night British-inspired wrap to satisfy your cravings, made with savory butter and a hint of midnight magic.",
+  "cuisine": "British",
+  "diet": [
+    "snack"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "British butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "light wrap",
+      "amount": "1",
+      "notes": "large tortilla"
+    },
+    {
+      "name": "craving filling (e.g. grilled cheese, ham)",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "midnight cheese (e.g. cheddar, mozzarella)",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Place the British butter in the pan and let it melt.",
+    "3. Place the light wrap in the pan and let it cook for 1-2 minutes, until it starts to brown.",
+    "4. Add the craving filling (if using) to one half of the wrap.",
+    "5. Sprinkle the midnight cheese over the filling.",
+    "6. Fold the other half of the wrap over the filling.",
+    "7. Cook for an additional 1-2 minutes, until the cheese is melted and the wrap is crispy.",
+    "8. Remove from heat and season with salt and pepper (if using).",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "late-night",
+    "craving",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-midnight-craving-british-butter-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:41:53.333Z"
+}
