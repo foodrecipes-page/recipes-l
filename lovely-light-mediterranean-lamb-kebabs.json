@@ -1,0 +1,85 @@
+{
+  "slug": "lovely-light-mediterranean-lamb-kebabs",
+  "title": "Mediterranean Lamb Kebabs",
+  "description": "Tender lamb skewers marinated in a zesty Mediterranean blend, grilled to perfection. Perfect for a warm evening or as a show-stopping centerpiece for your next gathering.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder, cut into 1 1/2-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "High-quality oil for the best flavor"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "2 tbsp",
+      "notes": "Chopped fresh oregano for added zing"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Don't be shy, use more if you love garlic"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality, fresh lemon"
+    },
+    {
+      "name": "Mediterranean Seasoning",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade, whatever you have on hand"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Adjust to your liking"
+    },
+    {
+      "name": "Wooden Skewers",
+      "amount": "4-6",
+      "notes": "Soak them in water for 30 minutes before grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together olive oil, oregano, garlic, lemon juice, and Mediterranean seasoning.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the marinade.",
+    "Thread the lamb onto the wooden skewers, leaving a small space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Garnish with fresh parsley or oregano, if desired.",
+    "Serve immediately, hot off the grill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "mediterranean",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "6g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-light-mediterranean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:26:22.433Z"
+}
