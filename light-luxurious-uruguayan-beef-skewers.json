@@ -1,0 +1,77 @@
+{
+  "slug": "light-luxurious-uruguayan-beef-skewers",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A classic Uruguayan dish, these beef skewers are marinated in a mix of herbs and spices, then grilled to perfection. Serve with a side of grilled vegetables or a salad for a quick and easy meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "500g",
+      "notes": "Choose a high-quality cut of beef for the best results"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin olive oil is best for this recipe"
+    },
+    {
+      "name": "Garlic (minced)",
+      "amount": "4 cloves",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Chimichurri (store-bought or homemade)",
+      "amount": "1 cup",
+      "notes": "See below for homemade chimichurri recipe"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Skewers (wooden)",
+      "amount": "10-12",
+      "notes": "Soak skewers in water for at least 30 minutes before using"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, chimichurri, salt, and black pepper.",
+    "Add the sliced beef to the bowl and toss to coat with the marinade.",
+    "Thread the beef onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as grilled vegetables or a salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "uruguayan",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-luxurious-uruguayan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T04:56:57.229Z"
+}
