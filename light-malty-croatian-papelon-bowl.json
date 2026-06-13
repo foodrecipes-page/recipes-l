@@ -1,0 +1,55 @@
+{
+  "slug": "light-malty-croatian-papelon-bowl",
+  "title": "Croatian Papelon Porridge",
+  "description": "A traditional Croatian dish made with papelon, light ingredients, and a touch of sweetness.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "250g"
+    },
+    {
+      "name": "Light Croats' special grains",
+      "amount": "400g"
+    },
+    {
+      "name": "Croatian honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Malty creamer",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Boil 4 cups of water in a large bowl.",
+    "2. Add the Papelon and cook for 10 minutes.",
+    "3. Stir in the special grains and cook for 5 more minutes.",
+    "4. Remove from heat and stir in the honey and malty creamer.",
+    "5. Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 55,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-malty-croatian-papelon-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:29:56.676Z"
+}
