@@ -1,0 +1,87 @@
+{
+  "slug": "light-grilled-japanese-wagyu-skewers",
+  "title": "Japanese Wagyu Skewers with Teriyaki Sauce",
+  "description": "Marinate Wagyu beef in a sweet teriyaki sauce and grill to perfection on skewers. Serve as a snack or appetizer.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wagyu beef (1 inch cubes)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Skewers (soaked in water)",
+      "amount": "10-12",
+      "notes": "wooden or bamboo"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, sake, honey, grated ginger, and garlic.",
+    "2. Add the Wagyu beef cubes to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread the marinated Wagyu beef onto the skewers, leaving a small space between each piece.",
+    "6. Brush the skewers with sesame oil and season with salt and pepper.",
+    "7. Grill the skewers for 8-10 minutes, turning occasionally, or until the Wagyu beef is cooked to desired doneness.",
+    "8. Transfer the skewers to a serving platter and garnish with chopped green onions.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "wagyu",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-grilled-japanese-wagyu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:02:55.059Z"
+}
