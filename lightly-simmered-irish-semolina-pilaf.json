@@ -1,0 +1,84 @@
+{
+  "slug": "lightly-simmered-irish-semolina-pilaf",
+  "title": "Irish Semolina Pilaf",
+  "description": "A comforting side dish with a hint of Irish flavor. Perfect for accompanying roasted meats or stews.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lightly",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Simmered Irish Pilaf Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Optional for added flavor"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp",
+      "notes": "Optional for richness"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Optional for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Optional for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add lightly and sauté for 1 minute.",
+    "Add onion and garlic, optional, and sauté for an additional 2 minutes.",
+    "Add semolina and stir to coat with oil.",
+    "Gradually add simmered Irish pilaf broth, whisking constantly.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 20-25 minutes or until semolina is cooked and liquid is absorbed.",
+    "Stir in butter and season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "simple",
+    "pilaf",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-simmered-irish-semolina-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:57:06.042Z"
+}
