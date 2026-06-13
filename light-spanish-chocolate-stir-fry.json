@@ -1,0 +1,82 @@
+{
+  "slug": "light-spanish-chocolate-stir-fry",
+  "title": "Spanish-Style Chicken Fajitas",
+  "description": "Savory, flavorful, and spicy, these fajitas are perfect for a weeknight dinner. Served with warm flour tortillas and your favorite toppings.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1.5 lbs",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "light bell peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "1/4 cup",
+      "notes": "Divided"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the sliced bell peppers and onion to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the stir-fry sauce to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve the fajitas hot, garnished with your favorite toppings.",
+    "Warm flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "fajitas",
+    "chicken",
+    "vegetable",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-spanish-chocolate-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:02:44.652Z"
+}
