@@ -1,0 +1,73 @@
+{
+  "slug": "low-cali-friendly-portuguese-mincemeat-stir-fry",
+  "title": "Portuguese Mincemeat Stir Fry",
+  "description": "A twist on traditional stir fries, incorporating Portuguese flavors with low-calorie mincemeat.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Low-calorie mincemeat",
+      "amount": "1 cup",
+      "notes": "Choose a low-calorie variety."
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "Any color bell peppers work well."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onions for quick cooking."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic adds a rich flavor."
+    },
+    {
+      "name": "Portuguese olive oil",
+      "amount": "2 tbsp",
+      "notes": "Choose a high-quality, flavorful oil."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a light hand when seasoning."
+    }
+  ],
+  "instructions": [
+    "Heat the Portuguese olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onions and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the bell peppers and cook until tender, about 5 minutes.",
+    "Add the low-calorie mincemeat and stir to combine with the vegetables.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "stir-fry",
+    "mincemeat",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-cali-friendly-portuguese-mincemeat-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:32:37.124Z"
+}
