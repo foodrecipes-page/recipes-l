@@ -615,14 +615,15 @@
   },
   {
     "slug": "lazy-basil-breeze",
-    "title": "Lazy Basil Breeze",
+    "title": "Summer Basil Pesto Pasta",
     "tags": [
-      "lazy-sunday",
-      "smoky-breeze",
-      "flaky-vegan-dish"
+      "italian",
+      "pesto",
+      "basil",
+      "gluten-free"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 15,
+    "cuisine": "Italian",
+    "totalTimeMin": 23,
     "shard": "l"
   },
   {
@@ -13701,17 +13702,15 @@
   },
   {
     "slug": "lovely-light-mediterranean-lamb-kebabs",
-    "title": "Lovely Light Mediterranean Lamb Kebabs",
+    "title": "Mediterranean Lamb Kebabs",
     "tags": [
-      "easy-entertaining",
-      "gluten-free",
-      "grilled-meats",
-      "healthy-dinner",
-      "lamb-recipes",
-      "mediterranean-diet"
+      "lamb",
+      "kebabs",
+      "mediterranean",
+      "grilled"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 36,
     "shard": "l"
   },
   {
@@ -14676,14 +14675,15 @@
   },
   {
     "slug": "low-cali-friendly-portuguese-mincemeat-stir-fry",
-    "title": "Low Cali Friendly Portuguese Mincemeat Stir-fry",
+    "title": "Portuguese Mincemeat Stir Fry",
     "tags": [
+      "portuguese",
       "stir-fry",
-      "low-calorie-friendly",
-      "portuguese-mincemeat"
+      "mincemeat",
+      "low-calorie"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
