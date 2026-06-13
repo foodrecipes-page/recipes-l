@@ -1,0 +1,86 @@
+{
+  "slug": "lightly-spiced-ethiopian-collard-greens-gomen",
+  "title": "Spiced Ethiopian Collard Greens",
+  "description": "A flavorful and nutritious side dish made with lightly spiced Ethiopian collard greens. This recipe is a twist on the traditional Ethiopian gomen besega.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "sides",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "niter kibbeh or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beeswax or niter",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the collard greens and remove the stems.",
+    "2. Chop the onion and mince the garlic and ginger.",
+    "3. Heat the niter kibbeh or vegetable oil in a large pan over medium heat.",
+    "4. Add the onion and sauté until lightly browned.",
+    "5. Add the garlic and ginger and sauté for an additional 2 minutes.",
+    "6. Add the cumin, coriander, turmeric, salt, and black pepper to the pan and sauté for 1 minute.",
+    "7. Add the chopped collard greens to the pan and sauté until wilted.",
+    "8. Stir in the beeswax or niter and continue to cook for an additional 5 minutes.",
+    "9. Serve the spiced collard greens hot.",
+    "10. Garnish with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "collard-greens",
+    "spiced",
+    "gomen",
+    "vegan",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-ethiopian-collard-greens-gomen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:02:55.512Z"
+}
