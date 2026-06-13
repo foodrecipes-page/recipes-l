@@ -1,0 +1,83 @@
+{
+  "slug": "luscious-polish-ovoli-mushroom-gratin",
+  "title": "Creamy Polish Mushroom Gratin",
+  "description": "A rich and creamy Polish-inspired dish featuring sautéed mushrooms, topped with a crunchy gratin crust.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "luscious mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": "Any variety of mushrooms will do"
+    },
+    {
+      "name": "polish butter",
+      "amount": "2 tablespoons",
+      "notes": "Salted or unsalted, whichever you prefer"
+    },
+    {
+      "name": "ovoli cheese",
+      "amount": "1/2 cup, grated",
+      "notes": "Or substitute with any other type of cheese"
+    },
+    {
+      "name": "gratin",
+      "amount": "1/2 cup, crumbled",
+      "notes": "For topping"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "To balance flavors"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "To balance flavors"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced",
+      "notes": "Optional, but adds flavor"
+    },
+    {
+      "name": "white wine",
+      "amount": "2 tablespoons",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté the sliced mushrooms in polish butter until they're tender and lightly browned.",
+    "Add garlic, salt, and black pepper to taste, and cook for an additional minute.",
+    "Transfer the mushroom mixture to a baking dish and top with grated ovoli cheese.",
+    "Sprinkle crumbled gratin on top of the cheese.",
+    "Drizzle white wine over the gratin crust.",
+    "Bake in the preheated oven until the gratin is golden brown and the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "mushroom",
+    "gratin",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-polish-ovoli-mushroom-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:13:38.838Z"
+}
