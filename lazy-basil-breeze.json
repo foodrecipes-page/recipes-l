@@ -1,0 +1,79 @@
+{
+  "slug": "lazy-basil-breeze",
+  "title": "Summer Basil Pesto Pasta",
+  "description": "A simple and delicious pasta dish made with fresh basil and a hint of breeze.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lazy noodles (linguine)",
+      "amount": "8 oz",
+      "notes": "gluten-free option"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 cup, chopped",
+      "notes": "use the breeze to keep fresh"
+    },
+    {
+      "name": "Breeze (olive oil)",
+      "amount": "1/4 cup",
+      "notes": "high-quality extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use high-quality flake"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "use high-quality peppercorns"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the linguine noodles according to package instructions until al dente.",
+    "In a blender or food processor, combine basil, garlic, and a pinch of salt.",
+    "With the blender running, slowly pour in the olive oil until well combined.",
+    "Transfer the pesto sauce to a bowl and stir in Parmesan cheese.",
+    "Drain the cooked noodles and add to the pesto sauce.",
+    "Toss to combine and season with black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pesto",
+    "basil",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-basil-breeze",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:31:46.359Z"
+}
