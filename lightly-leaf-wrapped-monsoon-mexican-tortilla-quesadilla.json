@@ -1,0 +1,79 @@
+{
+  "slug": "lightly-leaf-wrapped-monsoon-mexican-tortilla-quesadilla",
+  "title": "Monsoon Quesadilla",
+  "description": "A flavorful quesadilla filled with spiced chicken, onions, and cheese, inspired by the monsoon season in Mexico.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lightly seasoned chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Monsoon spice blend (cumin, chili powder, paprika)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tortilla",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Sliced leaf lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Wrapped sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Season the chicken breast with monsoon spice blend and cook until browned.",
+    "Add sliced onion to the skillet and cook until softened.",
+    "Shred the cooked chicken and mix with onion and cheese.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the quesadillas by placing a portion of the chicken and onion mixture onto half of each tortilla, then folding in half.",
+    "Cook the quesadillas in the skillet for 2-3 minutes on each side, until crispy and melted.",
+    "Serve immediately, garnished with sliced leaf lettuce and wrapped sour cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "quesadilla",
+    "chicken",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-leaf-wrapped-monsoon-mexican-tortilla-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:22:29.785Z"
+}
