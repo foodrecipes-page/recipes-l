@@ -4724,16 +4724,15 @@
   },
   {
     "slug": "light-grilled-japanese-wagyu-skewers",
-    "title": "Light Grilled Japanese Wagyu Skewers",
+    "title": "Japanese Wagyu Skewers with Teriyaki Sauce",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "japanese-cuisine",
-      "one-pan",
-      "weeknight"
+      "japanese",
+      "wagyu",
+      "skewers",
+      "grilled"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 32,
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -5419,17 +5418,15 @@
   },
   {
     "slug": "light-luxurious-uruguayan-beef-skewers",
-    "title": "Light Luxurious Uruguayan Beef Skewers",
+    "title": "Uruguayan Beef Skewers",
     "tags": [
+      "beef",
       "grilled",
-      "high-protein",
-      "luxurious",
-      "one-pan",
       "uruguayan",
-      "weeknight"
+      "skewers"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -6893,14 +6890,16 @@
   },
   {
     "slug": "light-spanish-chocolate-stir-fry",
-    "title": "Light Spanish Chocolate Stir-fry",
+    "title": "Spanish-Style Chicken Fajitas",
     "tags": [
-      "light-spanish",
-      "chocolate-stir-fry",
-      "fodmap-friendly-diet"
+      "spanish",
+      "fajitas",
+      "chicken",
+      "vegetable",
+      "dinner"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 13,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
