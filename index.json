@@ -5696,14 +5696,16 @@
   },
   {
     "slug": "light-midnight-craving-british-butter-wrap",
-    "title": "Light Midnight-Craving British Butter Wrap",
+    "title": "Midnight Craving British Wrap",
     "tags": [
-      "casabe",
-      "british-butter-wrap",
-      "whole30-friendly"
+      "british",
+      "late-night",
+      "craving",
+      "snack",
+      "wrap"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
@@ -6235,15 +6237,14 @@
   },
   {
     "slug": "light-rich-indian-mulukhiyah-curry",
-    "title": "Light Rich Indian Mulukhiyah Curry",
+    "title": "Rich Mulukhiyah Curry",
     "tags": [
-      "indian-curry",
-      "low-fat",
-      "gluten-free",
-      "hangover-cure"
+      "mulukhiyah",
+      "curry",
+      "indian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -19635,16 +19636,15 @@
   },
   {
     "slug": "luxuriously-charred-turkish-butter-beans-pilaf",
-    "title": "Luxuriously Charred Turkish Butter Beans Pilaf",
+    "title": "Turkish-Style Charred Bean Pilaf",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
-      "vegetarian"
+      "turkish",
+      "bean-pilaf",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
