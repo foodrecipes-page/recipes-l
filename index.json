@@ -1886,12 +1886,13 @@
     "slug": "lazy-sunday-yogurt-delight",
     "title": "Lazy Sunday Yogurt Delight",
     "tags": [
-      "lazy-sunday",
+      "dessert",
       "yogurt",
-      "indulgent-dessert"
+      "easy",
+      "simple"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 5,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -10078,13 +10079,11 @@
   },
   {
     "slug": "lightly-simmered-on-a-tava-griddle-russian-warm-water-pilaf",
-    "title": "Lightly Simmered Russian Warm Water Pilaf",
+    "title": "Russian Pilaf on a Tava",
     "tags": [
       "comfort-food",
-      "one-pan",
-      "russian",
-      "vegetarian",
-      "weeknight"
+      "russian-cuisine",
+      "pilaf"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 35,
@@ -10627,17 +10626,17 @@
   },
   {
     "slug": "lightly-spiced-ethiopian-collard-greens-gomen",
-    "title": "Lightly Spiced Ethiopian Collard Greens Gomen",
+    "title": "Spiced Ethiopian Collard Greens",
     "tags": [
       "ethiopian",
-      "one-pan",
-      "quick-dinner",
-      "satvik",
-      "vegetarian",
-      "weeknight"
+      "collard-greens",
+      "spiced",
+      "gomen",
+      "vegan",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
