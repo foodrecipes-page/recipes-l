@@ -4908,14 +4908,16 @@
   },
   {
     "slug": "light-indulgent-syrian-rice-stir-fry",
-    "title": "Light Indulgent Syrian Rice Stir-fry",
+    "title": "Syrian-Style Chicken Stir Fry",
     "tags": [
+      "chicken",
+      "rice",
       "syrian",
-      "vegan",
-      "indulgent"
+      "stir-fry",
+      "lunch"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "cuisine": "syrian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -5477,18 +5479,14 @@
   },
   {
     "slug": "light-malty-croatian-papelon-bowl",
-    "title": "Light Malt Croatian Papelon Bowl",
+    "title": "Croatian Papelon Porridge",
     "tags": [
-      "croatian",
-      "flexitarian",
-      "high-fiber",
-      "low-protein",
-      "one-pan",
-      "quick-dinner",
-      "vegetarian"
+      "breakfast",
+      "porridge",
+      "croatian"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 30,
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
