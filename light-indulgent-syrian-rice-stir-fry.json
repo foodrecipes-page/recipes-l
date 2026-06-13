@@ -1,0 +1,96 @@
+{
+  "slug": "light-indulgent-syrian-rice-stir-fry",
+  "title": "Syrian-Style Chicken Stir Fry",
+  "description": "A flavorful and spicy stir fry with chicken, rice, and a blend of Syrian spices. Serve with a side of naan bread or pita.",
+  "cuisine": "syrian",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Syrian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "make sure to include cumin, coriander, and sumac"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned on all sides and cooked through.",
+    "Remove the chicken and set aside.",
+    "Add more oil if necessary, then add the onion, garlic, bell pepper, and tomato.",
+    "Cook until the vegetables are tender, about 5 minutes.",
+    "Stir in the Syrian spice blend and cook for 1 minute.",
+    "Add the rice to the skillet and stir to combine with the vegetables and spices.",
+    "Return the chicken to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "syrian",
+    "stir-fry",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 64,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-indulgent-syrian-rice-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:25:25.839Z"
+}
