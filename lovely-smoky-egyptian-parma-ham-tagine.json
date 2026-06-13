@@ -1,0 +1,91 @@
+{
+  "slug": "lovely-smoky-egyptian-parma-ham-tagine",
+  "title": "Smoky Ham Tagine",
+  "description": "A twist on the classic North African stew, featuring smoky ham and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lovely ham",
+      "amount": "1 pound, diced",
+      "notes": ""
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "egyptian cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "parma garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "tagine olives",
+      "amount": "1/4 cup, pitted",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add garlic and cook, stirring occasionally, until fragrant, about 2 minutes.",
+    "Add the diced ham, paprika, cumin, and olives. Cook, stirring occasionally, until the ham is lightly browned, about 5 minutes.",
+    "Add the chicken broth, honey, and lemon juice. Stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, until the ham is tender, about 20 minutes.",
+    "Stir in the chopped parsley.",
+    "Serve the smoky ham tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "ham",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-egyptian-parma-ham-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:44:04.265Z"
+}
