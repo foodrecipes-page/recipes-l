@@ -9034,16 +9034,13 @@
   },
   {
     "slug": "lightly-garlicky-jamaican-buckwheat-toast",
-    "title": "Lightly Garlicky Jamaican Buckwheat Toast",
+    "title": "Garlicky Buckwheat Toast",
     "tags": [
-      "buckwheat-recipes",
-      "garlicky",
-      "jamaican-cuisine",
-      "quick-fix",
-      "raw-friendly",
-      "vegetarian-snacks"
+      "breakfast",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "American",
     "totalTimeMin": 20,
     "shard": "l"
   },
@@ -10068,17 +10065,15 @@
   },
   {
     "slug": "lightly-simmered-irish-semolina-pilaf",
-    "title": "Lightly Simmered Irish Semolina Pilaf",
+    "title": "Irish Semolina Pilaf",
     "tags": [
-      "easy-dinners",
-      "irish-food",
-      "low-calorie",
-      "monsoon-dishes",
-      "semolina-recipes",
-      "vegetarian-options"
+      "irish",
+      "simple",
+      "pilaf",
+      "side-dish"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
