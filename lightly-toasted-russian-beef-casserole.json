@@ -1,0 +1,84 @@
+{
+  "slug": "lightly-toasted-russian-beef-casserole",
+  "title": "Russian Beef Casserole",
+  "description": "A hearty, comforting Russian-inspired dish made with ground beef, toasted casserole, and a hint of flavor.",
+  "cuisine": "Russian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Toasted Casserole",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lightly Salted Ground Beef Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Russian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the ground beef in a pan over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the toasted casserole to the pan and cook for 2-3 minutes.",
+    "Stir in the beef broth, milk, and Russian seasoning. Bring to a simmer and cook for 2-3 minutes.",
+    "Stir in the beaten egg and cook for 1 minute.",
+    "Transfer the mixture to a baking dish and top with the lightly salted ground beef breadcrumbs.",
+    "Bake in the preheated oven for 25-30 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "beef",
+    "casserole",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-toasted-russian-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:43:07.170Z"
+}
