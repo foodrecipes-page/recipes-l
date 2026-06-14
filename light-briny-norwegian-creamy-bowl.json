@@ -1,0 +1,81 @@
+{
+  "slug": "light-briny-norwegian-creamy-bowl",
+  "title": "Norwegian-Style Smoked Salmon Bowl",
+  "description": "A simple, elegant bowl filled with smoked salmon, creamy avocado, and fresh herbs, all on a bed of mixed greens.",
+  "cuisine": "Nordic",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked salmon fillet (6 oz)",
+      "amount": "6 oz",
+      "notes": "Norwegian-style"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Any combination of lettuce, arugula, spinach"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "Creamy and ripe"
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup",
+      "notes": "Fresh and chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Light mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Bowls",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mixed greens, smoked salmon, avocado, and chopped dill.",
+    "2. Squeeze lemon juice over the top and toss to coat.",
+    "3. Season with salt to taste.",
+    "4. If desired, dollop with light mayonnaise.",
+    "5. Serve immediately in individual bowls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "salmon",
+    "avocado",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-briny-norwegian-creamy-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:54:09.376Z"
+}
