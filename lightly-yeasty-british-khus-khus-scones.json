@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-yeasty-british-khus-khus-scones",
+  "title": "Classic British Scones with Khus Khus",
+  "description": "Soft and flaky scones infused with the nutty flavor of khus khus, perfect for a traditional British tea time.",
+  "cuisine": "British",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lightly salted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "1"
+    },
+    {
+      "name": "Khus khus",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, whisk together flour, sugar, baking powder, and baking soda.",
+    "Add softened butter and mix until the mixture resembles coarse crumbs.",
+    "In a separate bowl, whisk together heavy cream and eggs.",
+    "Add the khus khus to the cream mixture and whisk until well combined.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Turn the dough out onto a floured surface and gently knead a few times.",
+    "Pat the dough into a circle that is about 1 inch thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones.",
+    "Place the scones on the prepared baking sheet, leaving about 1 inch of space between each scone.",
+    "Brush the tops of the scones with a little extra heavy cream and sprinkle with granulated sugar.",
+    "Bake for 15-20 minutes, or until the scones are golden brown.",
+    "Remove the scones from the oven and let them cool on a wire rack for 5-10 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "scones",
+    "khus-khus"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-yeasty-british-khus-khus-scones",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:03:19.814Z"
+}
