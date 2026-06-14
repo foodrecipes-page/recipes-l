@@ -1,0 +1,84 @@
+{
+  "slug": "luscious-flaky-spanish-gambas-al-ajillo-jjigae",
+  "title": "Pan-Seared Gambas with Garlic Butter Sauce",
+  "description": "A simple yet flavorful Spanish dish featuring succulent shrimp, garlic butter, and a hint of Asian inspiration. Serve with crusty bread or over rice for a quick and delicious meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gambas",
+      "amount": "12 large shrimp, peeled and deveined",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "luscious",
+      "amount": "2 tablespoons unsalted butter, softened",
+      "notes": "high-quality for best flavor"
+    },
+    {
+      "name": "flaky",
+      "amount": "2 cloves garlic, minced",
+      "notes": "freshly minced for best flavor"
+    },
+    {
+      "name": "spanish",
+      "amount": "1/4 cup dry white wine",
+      "notes": "optional, can substitute with chicken broth"
+    },
+    {
+      "name": "ajillo",
+      "amount": "1/4 cup chopped fresh parsley",
+      "notes": "for garnish"
+    },
+    {
+      "name": "jjigae",
+      "amount": "1/4 teaspoon Korean chili flakes (gochugaru)",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "al",
+      "amount": "salt and pepper, to taste",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the shrimp under cold water and pat dry with paper towels.",
+    "2. In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "3. Add the garlic and sauté for 1-2 minutes, until fragrant.",
+    "4. Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "5. Remove the shrimp from the skillet and set aside.",
+    "6. In the same skillet, add the remaining 1 tablespoon of butter and the white wine (if using).",
+    "7. Scrape up any browned bits from the bottom of the skillet and bring the mixture to a simmer.",
+    "8. Reduce the heat to medium-low and cook for 2-3 minutes, until the sauce has thickened slightly.",
+    "9. Stir in the chopped parsley and Korean chili flakes (if using).",
+    "10. Return the shrimp to the skillet and toss to coat with the garlic butter sauce.",
+    "11. Season with salt and pepper to taste.",
+    "12. Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "seafood",
+    "garlic",
+    "butter",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": "24g",
+    "carbs": "4g",
+    "fat": "16g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-flaky-spanish-gambas-al-ajillo-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:52:49.948Z"
+}
