@@ -649,17 +649,14 @@
   },
   {
     "slug": "lazy-creamy-russian-vegetable-bake",
-    "title": "Lazy Creamy Russian Vegetable Bake",
+    "title": "Lazy Vegetable Bake",
     "tags": [
-      "comfort-food",
-      "jain-friendly",
-      "lazy-sunday",
-      "one-bowl",
-      "russian-cuisine",
-      "vegetarian"
+      "russian",
+      "vegetarian",
+      "bake"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 70,
+    "cuisine": "russian",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
@@ -12990,17 +12987,14 @@
   },
   {
     "slug": "lovely-crisp-irish-lamb-skewers",
-    "title": "Lovely Crisp Irish Lamb Skewers",
+    "title": "Lamb Skewers with Herby Irish Flair",
     "tags": [
-      "curry-based",
-      "gluten-free",
-      "irish-inspired",
-      "lamb-recipes",
-      "low-glycemic",
-      "skewer-recipes"
+      "irish-cuisine",
+      "grilled-lamb",
+      "summer-recipe"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 31,
     "shard": "l"
   },
   {
@@ -17310,16 +17304,14 @@
   },
   {
     "slug": "luscious-savory-marmite-bake-ramekin",
-    "title": "Luscious Savory Marmite Bake Ramekin",
+    "title": "Marmite Crème Brûlée",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "british",
+      "dessert",
+      "marmite"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 30,
+    "cuisine": "british",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
