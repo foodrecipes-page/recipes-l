@@ -9866,17 +9866,16 @@
   },
   {
     "slug": "lightly-salted-japanese-salmon-poke",
-    "title": "Lightly Salted Japanese Salmon Poke",
+    "title": "Poke Salmon Bowl",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "japanese-inspired",
-      "one-bowl",
-      "refreshing",
-      "weeknight"
+      "poke",
+      "salmon",
+      "japanese",
+      "grilled",
+      "healthy"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 23,
     "shard": "l"
   },
   {
@@ -13616,17 +13615,15 @@
   },
   {
     "slug": "lovely-light-argentinian-lamb-tagine",
-    "title": "Lovely Light Argentinian Lamb Tagine",
+    "title": "Argentinian Lamb Tagine",
     "tags": [
-      "argentinian-cuisine",
-      "comfort-food",
-      "lamb-recipes",
-      "one-pot-meals",
-      "shojin-friendly",
-      "tagine-cooking"
+      "lamb",
+      "argentinian",
+      "stew",
+      "tagine"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
