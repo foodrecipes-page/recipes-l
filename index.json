@@ -2832,16 +2832,14 @@
   },
   {
     "slug": "light-argentinian-lamb-salad",
-    "title": "Light Argentinian Lamb Salad",
+    "title": "Argentinian Grilled Lamb Salad",
     "tags": [
-      "argentinian",
-      "gluten-free",
-      "herbaceous",
-      "lamb",
-      "spring"
+      "grilled-lamb",
+      "argentinian-salad",
+      "spring-salad"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 32,
     "shard": "l"
   },
   {
@@ -5802,18 +5800,15 @@
   },
   {
     "slug": "light-norteno-pibil-pibil",
-    "title": "Light Norteño Pibil Pibil",
+    "title": "Pibil Chicken Tacos",
     "tags": [
-      "dairy-free",
-      "easy-dinner",
-      "gluten-free",
       "mexican",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "chicken",
+      "tacos",
+      "grilled"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
