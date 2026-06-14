@@ -1,0 +1,77 @@
+{
+  "slug": "luscious-savory-marmite-bake-ramekin",
+  "title": "Marmite Crème Brûlée",
+  "description": "Rich Marmite-infused custard base topped with a caramelized sugar crust in individual ramekins.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Marmite",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "bake",
+      "amount": ".5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": ".25 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "luscious",
+      "amount": "fresh fruit for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together egg yolks and sugar until pale yellow.",
+    "Add Marmite, heavy cream, and salt to the bowl; whisk until well combined.",
+    "Pour the mixture into 4-6 ramekins and place them in a large baking dish.",
+    "Add hot water to the baking dish to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the baking dish and let them cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, sprinkle a thin layer of sugar over the top of each ramekin.",
+    "Caramelize the sugar with a kitchen torch or under the broiler.",
+    "Garnish with fresh fruit and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "marmite"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "8g",
+    "carbs": "20g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-savory-marmite-bake-ramekin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:34:35.064Z"
+}
