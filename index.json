@@ -344,18 +344,15 @@
   },
   {
     "slug": "large-molten-lox-norwegian-cod-poke",
-    "title": "Large, Molten Lox Norwegian Cod Poke",
+    "title": "Smoked Lox Poke Bowl",
     "tags": [
-      "cod",
-      "date-night",
-      "fodmap-friendly",
-      "high-protein",
-      "molten",
-      "norwegian",
-      "sashimi-cut"
+      "lox",
+      "poke",
+      "seafood",
+      "japanese"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "cuisine": "Japanese",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -1380,16 +1377,15 @@
     "slug": "lazy-sunday-moroccan-boudin-sellou",
     "title": "Lazy Sunday Moroccan Boudin Sellou",
     "tags": [
-      "breakfast",
-      "brunch",
-      "high-protein",
       "moroccan",
-      "moroccan-breakfast",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "boudin",
+      "sellou",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -11525,17 +11521,14 @@
   },
   {
     "slug": "lightly-yeasty-british-khus-khus-scones",
-    "title": "Lightly Yeasty British Khus Khus Scones",
+    "title": "Classic British Scones with Khus Khus",
     "tags": [
-      "british-food",
-      "broiled",
-      "crumbly",
-      "fodmap-friendly",
-      "kid-friendly",
-      "yeasty"
+      "british",
+      "scones",
+      "khus-khus"
     ],
     "cuisine": "British",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
