@@ -2591,17 +2591,14 @@
   },
   {
     "slug": "light-algerian-navy-bean-tagine",
-    "title": "Light Algerian Navy Bean Tagine",
+    "title": "Algerian White Bean Stew",
     "tags": [
-      "algerian",
-      "healthy",
-      "kosher-friendly",
-      "navy-beans",
-      "one-pot",
-      "weeknight"
+      "stew",
+      "beans",
+      "algerian-cuisine"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -6443,16 +6440,15 @@
   },
   {
     "slug": "light-saudi-arabian-eggplant-bake",
-    "title": "Light Saudi Arabian Eggplant Bake",
+    "title": "Saudi-Style Grilled Eggplant",
     "tags": [
-      "baked-eggplant",
-      "middle-eastern",
-      "romo-vegetarian",
-      "special-occasion",
-      "winey-dishes"
+      "grilled",
+      "eggplant",
+      "saudi",
+      "arabian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 55,
+    "cuisine": "Saudi",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -16281,18 +16277,16 @@
   },
   {
     "slug": "luscious-flaky-spanish-gambas-al-ajillo-jjigae",
-    "title": "Luscious Flaky Spanish Gambas Al Ajillo Jjigae",
+    "title": "Pan-Seared Gambas with Garlic Butter Sauce",
     "tags": [
-      "buddhist-temple-friendly",
-      "flaky",
-      "gambas-al-ajillo",
-      "high-protein",
-      "one-pan",
       "spanish",
-      "weeknight"
+      "seafood",
+      "garlic",
+      "butter",
+      "quick"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
