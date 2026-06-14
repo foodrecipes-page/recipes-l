@@ -1,0 +1,66 @@
+{
+  "slug": "lemony-sesame-bamboo-steamer-pilaf",
+  "title": "Sesame Crusted Bamboo Bites",
+  "description": "Delicious bite-sized bamboo pieces coated with a crunchy sesame crust, perfect as a snack.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemony oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "steamer basket",
+      "amount": "",
+      "notes": "for cooking bamboo"
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup",
+      "notes": "optional side dish"
+    }
+  ],
+  "instructions": [
+    "Steam the bamboo shoots for 5-7 minutes, or until tender.",
+    "In a small bowl, mix together sesame seeds and lemony oil.",
+    "Dip each bamboo piece into the sesame mixture, coating evenly.",
+    "Place coated bamboo pieces on a baking sheet lined with parchment paper.",
+    "Bake in a preheated oven at 375°F (190°C) for 10-12 minutes, or until sesame crust is golden brown.",
+    "Serve hot, garnished with additional sesame seeds if desired.",
+    "Cook pilaf rice according to package instructions, if serving as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sesame",
+    "bamboo",
+    "steamed",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemony-sesame-bamboo-steamer-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:54:53.231Z"
+}
