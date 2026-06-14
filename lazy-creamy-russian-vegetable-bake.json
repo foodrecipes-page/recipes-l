@@ -1,0 +1,86 @@
+{
+  "slug": "lazy-creamy-russian-vegetable-bake",
+  "title": "Lazy Vegetable Bake",
+  "description": "A delicious and easy-to-make vegetable bake with a creamy twist, perfect for a weeknight dinner.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetables (such as zucchini, bell peppers, and onions)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Creamy russian sauce (or sour cream)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lazy lasagna noodles",
+      "amount": "8-10 noodles",
+      "notes": null
+    },
+    {
+      "name": "Bake seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the chopped vegetables and cook until they are tender and lightly browned.",
+    "Add the garlic powder, salt, and pepper to the skillet and stir to combine.",
+    "In a separate bowl, combine the creamy russian sauce and bake seasoning.",
+    "In a 9x13 inch baking dish, create a thin layer of the sauce on the bottom.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the cooked vegetables over the noodles, followed by half of the remaining sauce.",
+    "Repeat the layers, starting with the noodles, then the remaining vegetables, and finally the remaining sauce.",
+    "Top the bake with chopped parsley (if using) and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "vegetarian",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-creamy-russian-vegetable-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:34:43.320Z"
+}
