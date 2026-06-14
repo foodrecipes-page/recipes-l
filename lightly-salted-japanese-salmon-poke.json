@@ -1,0 +1,96 @@
+{
+  "slug": "lightly-salted-japanese-salmon-poke",
+  "title": "Poke Salmon Bowl",
+  "description": "A refreshing Japanese-inspired dish featuring seared salmon, mixed greens, and a zesty soy-ginger sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese Salmon Fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Lightly Salted Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": "Baby arugula, spinach, and/or lettuce"
+    },
+    {
+      "name": "Poke Sauce",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the salmon fillets with salt and pepper.",
+    "3. Grill the salmon for 4-5 minutes per side, or until cooked through.",
+    "4. Meanwhile, whisk together soy sauce, ginger, and poke sauce in a small bowl.",
+    "5. In a separate bowl, combine mixed greens, cucumber, and green onions.",
+    "6. To assemble the bowls, place a portion of mixed greens on each plate, followed by a grilled salmon fillet.",
+    "7. Drizzle the soy-ginger sauce over the salmon, then sprinkle with sesame seeds.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poke",
+    "salmon",
+    "japanese",
+    "grilled",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-salted-japanese-salmon-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:01:53.396Z"
+}
