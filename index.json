@@ -1476,15 +1476,15 @@
   },
   {
     "slug": "lazy-sunday-resinous-uruguayan-rest-meat-bake",
-    "title": "Lazy-Sunday Resinous Uruguayan Rest-Meat Bake",
+    "title": "Uruguayan-Style Asado",
     "tags": [
-      "anti-inflammatory",
-      "one-pan",
       "uruguayan",
-      "weeknight"
+      "grilled",
+      "meat",
+      "asado"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 80,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -2476,17 +2476,15 @@
   },
   {
     "slug": "lemony-sesame-bamboo-steamer-pilaf",
-    "title": "Lemony Sesame Bamboo-Steamer Pilaf",
+    "title": "Sesame Crusted Bamboo Bites",
     "tags": [
-      "bamboo-steamer-based",
-      "doenjang-rich",
-      "lemon-licorice-flavored",
-      "nutritious",
-      "raw-friendly-dish",
-      "sesame-yum"
+      "sesame",
+      "bamboo",
+      "steamed",
+      "gluten-free"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 90,
+    "cuisine": "Asian",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -3169,16 +3167,15 @@
   },
   {
     "slug": "light-briny-norwegian-creamy-bowl",
-    "title": "Light Briny Norwegian Creamy Bowl",
+    "title": "Norwegian-Style Smoked Salmon Bowl",
     "tags": [
-      "briny",
-      "creamy",
-      "light",
-      "low-fat",
-      "norwegian"
+      "breakfast",
+      "salmon",
+      "avocado",
+      "salad"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 18,
+    "cuisine": "Nordic",
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
@@ -17657,17 +17654,15 @@
   },
   {
     "slug": "luscious-thai-bird-chili-chinese-fish-steamed",
-    "title": "Luscious Thai-Bird-Chili Chinese Fish Steamed",
+    "title": "Thai-Style Steamed Fish",
     "tags": [
-      "breakfast",
-      "chinese",
       "fish",
-      "pescatarian",
-      "sick-day",
-      "steamed"
+      "thai",
+      "steamed",
+      "healthy"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "cuisine": "Thai",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
