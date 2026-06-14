@@ -1,0 +1,94 @@
+{
+  "slug": "large-molten-lox-norwegian-cod-poke",
+  "title": "Smoked Lox Poke Bowl",
+  "description": "A refreshing and easy-to-make dish combining the flavors of smoked Norwegian lox with the boldness of poke.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lox",
+      "amount": "8 oz",
+      "notes": "Smoked Norwegian lox"
+    },
+    {
+      "name": "Poke-grade Cod",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sriracha",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook sushi rice according to package instructions.",
+    "Cut poke-grade cod into bite-sized pieces.",
+    "Smoked lox should be sliced thinly.",
+    "In a large bowl, combine cooked sushi rice, cod, and lox.",
+    "In a small bowl, whisk together sesame oil, soy sauce, rice vinegar, ginger, and sriracha.",
+    "Pour the dressing over the rice and seafood mixture, and gently toss to combine.",
+    "Sprinkle sesame seeds and chopped scallions on top.",
+    "Serve immediately, garnished with additional sesame seeds and scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lox",
+    "poke",
+    "seafood",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/large-molten-lox-norwegian-cod-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:05:00.451Z"
+}
