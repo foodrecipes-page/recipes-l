@@ -1,0 +1,74 @@
+{
+  "slug": "luscious-smoky-german-peppers-skewers",
+  "title": "Smoked German Pepper Skewers",
+  "description": "A flavorful and colorful vegetarian skewer dish featuring smoky peppers, onions and German sausage. Perfect for a quick and easy summer dinner.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage (such as Bratwurst)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 large red bell pepper, 1 large yellow bell pepper",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large onion",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium zucchini",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Luscious mushrooms",
+      "amount": "1 cup",
+      "notes": " Button or Crimini work well"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "soak in water for 30 minutes before grilling"
+    }
+  ],
+  "instructions": [
+    "Soak the skewers in water for 30 minutes before grilling.",
+    "Preheat grill to medium-high heat.",
+    "Thread the German sausage, bell peppers, onions, zucchini, and mushrooms onto the skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Cook the sausage to an internal temperature of 160°F (71°C).",
+    "Remove the skewers from the grill and let rest for 5 minutes.",
+    "Serve hot with your favorite sides, such as sauerkraut or a salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "grilling",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-smoky-german-peppers-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:25:16.399Z"
+}
