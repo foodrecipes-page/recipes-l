@@ -9915,16 +9915,15 @@
   },
   {
     "slug": "lightly-savory-savoy-cabbage-pilaf",
-    "title": "Lightly Savory Savoy Cabbage Pilaf",
+    "title": "Savoy Cabbage Pilaf",
     "tags": [
-      "diabetic-friendly",
-      "fluffy",
-      "light",
-      "savory",
-      "slovakian"
+      "savoy-cabbage",
+      "pilaf",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -11302,16 +11301,15 @@
   },
   {
     "slug": "lightly-toasted-brazilian-chicken-skewers",
-    "title": "Lightly Toasted Brazilian Chicken Skewers",
+    "title": "Brazilian-Style Grilled Chicken Skewers",
     "tags": [
-      "gluten-free",
-      "herbal",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "brazilian",
+      "grilled",
+      "chicken",
+      "skewers"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 33,
     "shard": "l"
   },
   {
@@ -11435,17 +11433,15 @@
   },
   {
     "slug": "lightly-toasted-russian-beef-casserole",
-    "title": "Lightly Toasted Russian Beef Casserole",
+    "title": "Russian Beef Casserole",
     "tags": [
+      "russian",
+      "beef",
       "casserole",
-      "comfort-food",
-      "fodmap-friendly",
-      "gluten-free",
-      "one-pan",
-      "russian-cuisine"
+      "dinner"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -16151,16 +16147,14 @@
   },
   {
     "slug": "luscious-dense-italian-sausage-pasta",
-    "title": "Luscious Dense Italian Sausage Pasta",
+    "title": "Classic Italian Sausage Pasta",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "italian-inspired",
-      "one-pan",
-      "weeknight"
+      "italian",
+      "sausage",
+      "pasta"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -18715,16 +18709,15 @@
   },
   {
     "slug": "luxuriant-saudi-arabian-vegetable-tagine",
-    "title": "Luxuriant Saudi Arabian Vegetable Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "flavorful",
-      "healthy",
-      "middle-eastern",
-      "one-pot",
-      "vegetarian"
+      "saudi",
+      "lamb",
+      "tagine",
+      "arabic"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "saudi",
+    "totalTimeMin": 180,
     "shard": "l"
   },
   {
