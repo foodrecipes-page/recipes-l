@@ -1,0 +1,66 @@
+{
+  "slug": "lazy-sunday-egyptian-potatoes-tagine",
+  "title": "Sunday Egyptian Tagine",
+  "description": "A hearty and flavorful stew originating from Egypt, perfect for a relaxing Sunday meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Lazy",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Sunday",
+      "amount": "1 medium onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "Egyptian",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the cubed potatoes, chicken broth, and season with salt and pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20 minutes, or until the potatoes are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sunday-lunch",
+    "vegetarian-stew",
+    "european-stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-egyptian-potatoes-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:48:29.051Z"
+}
