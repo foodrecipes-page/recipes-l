@@ -1,0 +1,90 @@
+{
+  "slug": "luscious-dense-italian-sausage-pasta",
+  "title": "Classic Italian Sausage Pasta",
+  "description": "A hearty, comforting pasta dish made with Italian sausage, pasta, and a rich tomato sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "12 oz (340g)",
+      "notes": "Dense, Italian pasta of your choice"
+    },
+    {
+      "name": "Luscious Italian Sausage",
+      "amount": "1 lb (450g)",
+      "notes": "Sliced into 1/4-inch thick rounds"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 cups (475ml)",
+      "notes": "Homemade or store-bought, made with crushed tomatoes, garlic, and herbs"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup (15g)",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp (5g)",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp (5g)",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": null
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/2 cup (120g)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the sliced Italian sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the tomato sauce to the skillet and stir to combine.",
+    "Return the cooked sausage to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Simmer the sauce for 5-7 minutes, stirring occasionally.",
+    "Stir in the chopped basil and grated Parmesan.",
+    "Serve the sauce over the cooked pasta and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sausage",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-dense-italian-sausage-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:44:36.098Z"
+}
