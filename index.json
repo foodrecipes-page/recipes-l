@@ -1130,16 +1130,14 @@
   },
   {
     "slug": "lazy-sunday-egyptian-potatoes-tagine",
-    "title": "Lazy Sunday Egyptian Potatoes Tagine",
+    "title": "Sunday Egyptian Tagine",
     "tags": [
-      "comfort-food",
-      "lazy-sunday",
-      "middle-eastern",
-      "one-pot",
-      "vegetarian"
+      "sunday-lunch",
+      "vegetarian-stew",
+      "european-stew"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -7493,16 +7491,16 @@
   },
   {
     "slug": "light-venezuelan-mini-pudding",
-    "title": "Light Venezuelan Mini Pudding",
+    "title": "Mini Venezuelan Pudding",
     "tags": [
       "dessert",
-      "diabetic-friendly",
-      "high-protein",
-      "veggan-options",
-      "weeknight"
+      "pudding",
+      "mini",
+      "venezuelan",
+      "easy"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 120,
     "shard": "l"
   },
   {
@@ -17414,16 +17412,15 @@
   },
   {
     "slug": "luscious-smoky-german-peppers-skewers",
-    "title": "Luscious Smoky German Peppers Skewers",
+    "title": "Smoked German Pepper Skewers",
     "tags": [
-      "diabetic-friendly",
-      "german-inspired",
-      "grilled",
-      "protein-rich",
-      "smoky"
+      "german",
+      "vegetarian",
+      "grilling",
+      "summer"
     ],
     "cuisine": "German",
-    "totalTimeMin": 32,
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
