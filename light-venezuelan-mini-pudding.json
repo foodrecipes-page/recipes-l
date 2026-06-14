@@ -1,0 +1,65 @@
+{
+  "slug": "light-venezuelan-mini-pudding",
+  "title": "Mini Venezuelan Pudding",
+  "description": "A classic Venezuelan dessert, reimagined in mini form. These bite-sized puddings are rich, creamy, and utterly delicious.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mini Pudding",
+      "amount": "4 boxes",
+      "notes": "any flavor"
+    },
+    {
+      "name": "Light Cream",
+      "amount": "1 cup",
+      "notes": "heavy cream or half-and-half work too"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "use a high-quality extract"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, but helps balance flavors"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the pudding, cream, sugar, vanilla extract, and salt. Whisk until smooth and well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours, or until chilled and set.",
+    "Just before serving, use a cookie scoop or spoon to portion out the pudding into mini cups or ramekins.",
+    "Serve chilled, garnished with a sprinkle of sugar or a drizzle of caramel sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "pudding",
+    "mini",
+    "venezuelan",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-venezuelan-mini-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:25:10.273Z"
+}
