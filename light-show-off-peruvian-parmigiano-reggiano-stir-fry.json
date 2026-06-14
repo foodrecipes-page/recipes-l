@@ -1,0 +1,75 @@
+{
+  "slug": "light-show-off-peruvian-parmigiano-reggiano-stir-fry",
+  "title": "Peruvian Stir Fry with Parmigiano Reggiano",
+  "description": "A quick and flavorful Peruvian-inspired stir fry featuring stir-fried vegetables and topped with crumbled Parmigiano Reggiano cheese.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Parmigiano Reggiano cheese",
+      "amount": "1/4 cup, crumbled"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "2. Add the onion and red bell pepper and stir-fry for 3-4 minutes.",
+    "3. Add the zucchini and tomato and stir-fry for an additional 3-4 minutes.",
+    "4. Add the garlic and stir-fry for 1 minute.",
+    "5. Add the cooked rice to the skillet and stir-fry for 2-3 minutes.",
+    "6. Transfer the rice mixture to a serving platter.",
+    "7. Sprinkle the crumbled Parmigiano Reggiano cheese over the top of the rice mixture.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stir-fry",
+    "vegetarian",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-show-off-peruvian-parmigiano-reggiano-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:14:31.454Z"
+}
