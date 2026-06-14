@@ -1,0 +1,79 @@
+{
+  "slug": "lovely-light-argentinian-lamb-tagine",
+  "title": "Argentinian Lamb Tagine",
+  "description": "A flavorful and aromatic lamb stew from Argentina, typically cooked in a clay pot with a conical lid.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Lovely",
+      "amount": "1 medium",
+      "notes": "onion, chopped"
+    },
+    {
+      "name": "Light",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Brown the lamb pieces in batches until they are nicely browned, about 5 minutes.",
+    "Add the chopped onion to the pot and cook until it is softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the tagine spice blend, lemon juice, salt, and pepper to the pot, and stir to combine.",
+    "Return the lamb pieces to the pot and bring the mixture to a simmer.",
+    "Transfer the pot to the oven and braise the lamb for 2 1/2 to 3 hours, until it is tender.",
+    "Serve the lamb hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "argentinian",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-light-argentinian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:06:07.794Z"
+}
