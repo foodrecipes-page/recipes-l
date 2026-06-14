@@ -1,0 +1,71 @@
+{
+  "slug": "light-saudi-arabian-eggplant-bake",
+  "title": "Saudi-Style Grilled Eggplant",
+  "description": "A flavorful and aromatic dish from Saudi Arabia, featuring grilled eggplant in a rich and spicy sauce.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "light",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "arabian",
+      "amount": "2 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "bake",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the eggplant into 1-inch slices.",
+    "In a small bowl, mix together the cumin, coriander, salt, and pepper.",
+    "Brush the eggplant slices with the olive oil and sprinkle with the spice mixture.",
+    "Grill the eggplant for 3-4 minutes per side, or until tender and lightly charred.",
+    "Transfer the eggplant to a serving platter and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "eggplant",
+    "saudi",
+    "arabian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-saudi-arabian-eggplant-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:49:37.047Z"
+}
