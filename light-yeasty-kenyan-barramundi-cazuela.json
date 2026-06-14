@@ -1,0 +1,94 @@
+{
+  "slug": "light-yeasty-kenyan-barramundi-cazuela",
+  "title": "Kenyan Barramundi Fish Cakes",
+  "description": "A fusion of Kenyan and Australian flavors, these fish cakes are crispy on the outside and tender on the inside. Serve with a side of tangy slaw.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "fish-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "400g",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "light flour",
+      "amount": "100g",
+      "notes": "For dusting"
+    },
+    {
+      "name": "yeasty beer batter mix",
+      "amount": "50g",
+      "notes": "For crispy coating"
+    },
+    {
+      "name": "cabbage",
+      "amount": "100g",
+      "notes": "Shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "50g",
+      "notes": "Grated"
+    },
+    {
+      "name": "onion",
+      "amount": "20g",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "3g",
+      "notes": "To taste"
+    },
+    {
+      "name": "cazuela oil",
+      "amount": "20ml",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "1. In a food processor, combine cabbage, carrots, onion, lemon juice, salt, and black pepper. Process until well combined.",
+    "2. Flake the barramundi fillets into a bowl and mix in the cabbage mixture.",
+    "3. Add the light flour and yeasty beer batter mix to the bowl and mix until just combined.",
+    "4. Divide the mixture into 8-10 portions and shape each into a ball.",
+    "5. Flatten each ball slightly into a patty shape.",
+    "6. Dust the patties with light flour.",
+    "7. Heat a non-stick pan with cazuela oil over medium-high heat.",
+    "8. Add the patties to the pan and fry for 3-4 minutes on each side, until golden brown and crispy.",
+    "9. Serve the fish cakes hot with a side of tangy slaw."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-cakes",
+    "kenyan-cuisine",
+    "australian-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-yeasty-kenyan-barramundi-cazuela",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:29:28.304Z"
+}
