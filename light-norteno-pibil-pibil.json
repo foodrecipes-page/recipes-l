@@ -1,0 +1,97 @@
+{
+  "slug": "light-norteno-pibil-pibil",
+  "title": "Pibil Chicken Tacos",
+  "description": "A traditional Mexican dish from the Yucatan region, featuring marinated chicken cooked in a smoky pibil sauce, served with fresh tacos and your choice of toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pibil sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "light oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing chicken"
+    },
+    {
+      "name": "norteno chilies",
+      "amount": "2",
+      "notes": "dried, stemmed, and seeded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn, for tacos"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine pibil sauce ingredients and blend until smooth.",
+    "In a large bowl, whisk together cumin, paprika, salt, and a few grinds of black pepper.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "Brush the grill with light oil to prevent sticking.",
+    "Add the chicken to the grill and cook for 5-7 minutes per side, or until cooked through.",
+    "Transfer the chicken to a cutting board and let rest for 5 minutes before slicing.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the chicken and adding it to a tortilla, followed by your choice of toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-norteno-pibil-pibil",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T02:40:57.801Z"
+}
