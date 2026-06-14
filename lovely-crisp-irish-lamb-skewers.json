@@ -1,0 +1,93 @@
+{
+  "slug": "lovely-crisp-irish-lamb-skewers",
+  "title": "Lamb Skewers with Herby Irish Flair",
+  "description": "A flavorful and colorful lamb skewer recipe infused with the freshness of lovely herbs and crispy vegetables, all in a delightful Irish twist.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "lovely fresh rosemary",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lovely fresh thyme",
+      "amount": "1 sprig",
+      "notes": "for marinade"
+    },
+    {
+      "name": "irish butter",
+      "amount": "25g",
+      "notes": "for marinade"
+    },
+    {
+      "name": "irish all-purpose flour",
+      "amount": "25g",
+      "notes": "for dusting"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "2 heads",
+      "notes": "for serving"
+    },
+    {
+      "name": "crisp carrots",
+      "amount": "4",
+      "notes": "for skewering"
+    },
+    {
+      "name": "crisp bell peppers",
+      "amount": "4",
+      "notes": "for skewering"
+    },
+    {
+      "name": "crisp onions",
+      "amount": "1",
+      "notes": "for skewering"
+    },
+    {
+      "name": "crisp mushrooms",
+      "amount": "1 cup",
+      "notes": "for skewering"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, mix together irish butter, lovely fresh thyme, and a pinch of salt.",
+    "Add the lamb shoulder to the bowl and coat with the marinade.",
+    "Thread the lamb, crisp carrots, crisp bell peppers, crisp onions, and crisp mushrooms onto skewers.",
+    "Season the skewers with salt and black pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb reaches an internal temperature of 63°C.",
+    "Dust the skewers with irish all-purpose flour.",
+    "Serve with crisp lettuce and garnish with lovely fresh rosemary."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-cuisine",
+    "grilled-lamb",
+    "summer-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crisp-irish-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:37:17.879Z"
+}
