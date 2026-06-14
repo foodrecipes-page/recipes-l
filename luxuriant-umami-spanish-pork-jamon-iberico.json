@@ -1,0 +1,85 @@
+{
+  "slug": "luxuriant-umami-spanish-pork-jamon-iberico",
+  "title": "Crispy Iberico Pork Belly Bites",
+  "description": "A Spanish-inspired appetizer featuring crispy Iberico pork belly, served with a side of tangy umami sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Iberico pork belly",
+      "amount": "1 pound",
+      "notes": "scored into 1-inch pieces"
+    },
+    {
+      "name": "Luxuriant olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Spanish smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Jamon ibérico",
+      "amount": "4 slices",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Umami sauce (homemade or store-bought)",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, toss the pork belly pieces with olive oil, smoked paprika, salt, and black pepper until evenly coated.",
+    "3. Line a baking sheet with parchment paper and arrange the pork belly pieces in a single layer.",
+    "4. Bake for 20 minutes or until crispy and golden brown.",
+    "5. While the pork is baking, heat 2-3 tablespoons of olive oil in a small saucepan over medium heat.",
+    "6. Add the jamon ibérico slices to the saucepan and fry until crispy, about 2-3 minutes per side.",
+    "7. Remove the pork from the oven and let it cool slightly.",
+    "8. Serve the crispy pork belly bites with a side of umami sauce and garnish with chopped parsley and crispy jamon ibérico slices.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "pork",
+    "appetizer",
+    "snack",
+    "iberico"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-umami-spanish-pork-jamon-iberico",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:18:44.867Z"
+}
