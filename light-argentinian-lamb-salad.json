@@ -1,0 +1,76 @@
+{
+  "slug": "light-argentinian-lamb-salad",
+  "title": "Argentinian Grilled Lamb Salad",
+  "description": "A flavorful salad featuring grilled lamb, fresh vegetables, and a tangy dressing.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the lamb"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning the lamb"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning the lamb"
+    },
+    {
+      "name": "Mixed Salad Greens",
+      "amount": "4 cups",
+      "notes": "For the salad base"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a small bowl, mix together salt and black pepper. Rub the seasoning mixture onto the lamb cubes.",
+    "Brush the lamb cubes with olive oil. Grill the lamb for 5-6 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the lamb rest for 5 minutes before slicing it thinly.",
+    "In a large bowl, combine the mixed greens, red onion, and cherry tomatoes.",
+    "Slice the grilled lamb into thin strips and add it to the bowl with the salad.",
+    "Toss the salad with your favorite dressing and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-lamb",
+    "argentinian-salad",
+    "spring-salad"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-argentinian-lamb-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:07:39.810Z"
+}
