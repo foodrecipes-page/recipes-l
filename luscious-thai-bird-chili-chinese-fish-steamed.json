@@ -1,0 +1,77 @@
+{
+  "slug": "luscious-thai-bird-chili-chinese-fish-steamed",
+  "title": "Thai-Style Steamed Fish",
+  "description": "A delicate and flavorful Thai-inspired steamed fish dish, perfect for a light and healthy meal. The combination of Thai chili sauce, steamed fish, and fresh herbs creates a beautiful balance of flavors.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (any white fish, 1 pound)",
+      "amount": "1",
+      "notes": "such as tilapia or cod"
+    },
+    {
+      "name": "Luscious Thai Chili Sauce (4 tablespoons)",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thai Basil (1 bunch)",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Steamed (for cooking)",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Lime Juice (2 tablespoons)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger (1-inch piece)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (2 cloves)",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the fish under cold water and pat dry with paper towels.",
+    "Season the fish with salt and pepper.",
+    "In a small saucepan, combine the Thai chili sauce, lime juice, and grated ginger.",
+    "Bring the mixture to a simmer over medium heat.",
+    "Reduce the heat to low and let it cook for 5 minutes.",
+    "Meanwhile, prepare the steamer basket by placing a piece of parchment paper in the bottom.",
+    "Add the fish to the steamer basket and place it over boiling water.",
+    "Steam the fish for 8-10 minutes or until it's cooked through and flakes easily with a fork.",
+    "Remove the fish from the steamer and place it on a serving plate.",
+    "Drizzle the Thai chili sauce mixture over the fish.",
+    "Garnish with fresh Thai basil leaves and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "thai",
+    "steamed",
+    "healthy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-thai-bird-chili-chinese-fish-steamed",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:55:42.248Z"
+}
