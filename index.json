@@ -1737,12 +1737,13 @@
   },
   {
     "slug": "lazy-sunday-tunisian-shrimp-paste-kapi-tagine",
-    "title": "Lazy-Sunday Tunisian Shrimp-Paste-Kapi Tagine",
+    "title": "Tunisian Shrimp Tagine",
     "tags": [
-      "lazy-sunday",
-      "one-pan",
       "tunisian",
-      "veggie-forward"
+      "shrimp",
+      "tagine",
+      "stew",
+      "lunch"
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
@@ -8133,17 +8134,15 @@
   },
   {
     "slug": "lightly-charred-portuguese-fish-skillet",
-    "title": "Lightly Charred Portuguese Fish Skillet",
+    "title": "Pan-Seared Fish with Charred Skillet Portuguese Flakes",
     "tags": [
-      "flavorful-fish",
-      "healthy-dinner",
-      "one-pan",
-      "portuguese-cuisine",
-      "satvik-friendly",
-      "seafood"
+      "fish",
+      "portuguese",
+      "skillet",
+      "charred"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
