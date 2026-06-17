@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-charred-portuguese-fish-skillet",
+  "title": "Pan-Seared Fish with Charred Skillet Portuguese Flakes",
+  "description": "A delicious and flavorful dish with pan-seared fish, crispy charred skillet flakes, and a hint of Portuguese spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (4)",
+      "amount": "4 fillets",
+      "notes": "Any firm white fish works well, such as cod or tilapia"
+    },
+    {
+      "name": "Lightly Chopped Onion",
+      "amount": "1 medium onion",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Charred Skillet Portuguese Flakes",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt and pepper.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Add the chopped onion and sauté for 2-3 minutes.",
+    "Add the garlic and sauté for another minute.",
+    "Add the charred skillet Portuguese flakes and stir to combine.",
+    "Place the fish fillets in the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "Serve the fish hot with a squeeze of lemon and a side of the charred skillet flakes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "portuguese",
+    "skillet",
+    "charred"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-charred-portuguese-fish-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T13:58:21.641Z"
+}
