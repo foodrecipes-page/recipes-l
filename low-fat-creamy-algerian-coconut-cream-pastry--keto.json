@@ -1,0 +1,74 @@
+{
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry--keto",
+  "title": "Low-Carb Algerian Pastry Bites",
+  "description": "Indulge in these crispy, cheesy pastry bites, perfect for keto diets. Made with a flaky pastry crust and a creamy filling.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Low-Fat Pastry",
+      "amount": "1 package (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Cream Cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fat",
+      "amount": "2 tbsp",
+      "notes": "melted (for brushing pastry)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry to 1/4 inch thickness.",
+    "Cut into 1-inch squares.",
+    "In a bowl, mix together coconut cream, cream cheese, egg, and salt.",
+    "Place a spoonful of the cream mixture onto each pastry square.",
+    "Fold the pastry squares in half to form triangles.",
+    "Brush the edges with melted fat.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "keto",
+    "pastry",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:49:46.771Z"
+}
