@@ -1,76 +1,75 @@
 {
   "slug": "low-fat-creamy-algerian-coconut-cream-pastry--thai",
-  "title": "Thai Coconut Pastry",
-  "description": "A rich and creamy Thai dessert made with coconut cream, pastry, and a touch of spice.",
+  "title": "Thai Coconut Cream Pastry Bites",
+  "description": "A fusion of Thai flavors with a crispy pastry crust, these bite-sized treats are perfect for snacking. They're also surprisingly easy to make! ",
   "cuisine": "thai",
-  "diet": [],
-  "meal": "dessert",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
   "ingredients": [
     {
       "name": "low-fat pastry",
-      "amount": "1 sheet",
-      "notes": ""
+      "amount": "250g",
+      "notes": "thawed"
     },
     {
       "name": "coconut cream",
-      "amount": "1 can",
-      "notes": ""
+      "amount": "200ml",
+      "notes": "full-fat"
     },
     {
-      "name": "algerian cream",
-      "amount": "1/4 cup",
-      "notes": ""
-    },
-    {
-      "name": "fat",
-      "amount": "1/4 cup",
-      "notes": ""
+      "name": "algerian creamy sauce",
+      "amount": "100ml",
+      "notes": "see notes"
     },
     {
       "name": "sugar",
-      "amount": "1 tablespoon",
-      "notes": ""
+      "amount": "2 tbsp",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
     },
     {
       "name": "vanilla extract",
-      "amount": "1 teaspoon",
-      "notes": ""
-    },
-    {
-      "name": "salt",
-      "amount": "1/4 teaspoon",
-      "notes": ""
+      "amount": "1 tsp",
+      "notes": "optional"
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
-    "Roll out the low-fat pastry and cut it into squares.",
-    "In a bowl, mix together the coconut cream, algerian cream, fat, sugar, vanilla extract, and salt.",
-    "Place a spoonful of the coconut cream mixture onto each pastry square.",
-    "Fold the pastry squares in half to form triangles and press the edges to seal.",
-    "Brush the tops of the pastries with a little water and sprinkle with sugar.",
-    "Bake the pastries for 20-25 minutes, or until golden brown.",
-    "Allow the pastries to cool for a few minutes before serving.",
-    "Serve warm and enjoy!"
+    "Preheat the oven to 180°C (350°F).",
+    "Roll out the pastry to a thickness of 3mm (1/8 inch).",
+    "Cut out squares of pastry, about 7cm (3 inches) per side.",
+    "Spoon a small amount of coconut cream onto one half of each square.",
+    "Drizzle a little algerian creamy sauce on top of the coconut cream.",
+    "Fold the other half of the pastry square over to form a triangle, pressing the edges to seal.",
+    "Brush the tops of the pastry with a little egg and sprinkle with sugar.",
+    "Place the pastry bites on a baking tray lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Allow to cool for a few minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
   "totalTimeMin": 45,
-  "servings": 8,
-  "difficulty": "medium",
+  "servings": 12,
+  "difficulty": "easy",
   "tags": [
-    "dessert",
-    "thai",
-    "pastry"
+    "thaifood",
+    "snack",
+    "dessert"
   ],
   "nutrition": {
     "calories": 220,
-    "protein": 2,
-    "carbs": 25,
-    "fat": 12
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry--thai",
   "providerUsed": "groq",
-  "createdAt": "2026-06-26T09:04:52.626Z"
+  "createdAt": "2026-06-26T11:05:50.253Z"
 }
