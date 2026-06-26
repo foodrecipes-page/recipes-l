@@ -1,0 +1,68 @@
+{
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry--chinese",
+  "title": "Coconut Cream Pastry Bites",
+  "description": "Delicious Chinese-inspired pastry bites filled with a creamy coconut filling. Perfect for a snack or dessert.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pastry",
+      "amount": "1 package",
+      "notes": "thawed, cut into small squares"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "low fat cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "algerian cream",
+      "amount": "2 tablespoons",
+      "notes": "adds a unique flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix coconut cream, low fat cream (if using), and algerian cream until smooth.",
+    "Add sugar (if using) and mix well.",
+    "Place a small spoonful of the coconut mixture onto the center of each pastry square.",
+    "Fold the pastry in half to form a triangle and press the edges to seal.",
+    "Place the pastry bites on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little water and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "pastry",
+    "chinese",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:48:49.231Z"
+}
