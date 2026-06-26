@@ -1,0 +1,70 @@
+{
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry--vegetarian",
+  "title": "Creamy Coconut Pastry",
+  "description": "A sweet and creamy pastry dessert, perfect for warm weather or any occasion. This recipe combines the richness of coconut cream with the flakiness of pastry.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pastry dough",
+      "amount": "1 sheet",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": "Full-fat canned coconut milk"
+    },
+    {
+      "name": "Low-fat cream",
+      "amount": "1/2 cup",
+      "notes": "For a lighter version"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Spread the coconut cream evenly over the dough, leaving a 1-inch border around the edges.",
+    "Dot the surface with low-fat cream and sprinkle with granulated sugar.",
+    "Fold the edges of the pastry up to create a crust, pressing gently to seal.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Garnish with cinnamon, if desired.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "pastry",
+    "cream",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T16:53:34.250Z"
+}
