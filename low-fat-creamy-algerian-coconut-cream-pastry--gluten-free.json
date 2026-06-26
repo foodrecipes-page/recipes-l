@@ -1,0 +1,71 @@
+{
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry--gluten-free",
+  "title": "Gluten-Free Coconut Cream Pastry",
+  "description": "A delicious gluten-free pastry filled with a creamy coconut cream, perfect for a sweet treat.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Algerian Pastry Dough",
+      "amount": "1 sheet",
+      "notes": "make sure it is gluten-free"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 can",
+      "notes": "chilled in the fridge"
+    },
+    {
+      "name": "Low Fat Cream",
+      "amount": "1/2 cup",
+      "notes": "whipped until stiff peaks form"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional, for sweetness"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for flavor"
+    },
+    {
+      "name": "Confectioners Sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional, for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the Algerian Pastry Dough to a thickness of 1/8 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Bake the pastry for 15-20 minutes, or until golden brown.",
+    "Allow the pastry to cool completely on a wire rack.",
+    "In a separate bowl, whip the Coconut Cream until stiff peaks form.",
+    "Fold in the whipped Low Fat Cream until well combined.",
+    "Add the Granulated Sugar and Vanilla Extract, if using, and mix until combined.",
+    "Spoon the coconut cream mixture into the cooled pastry shell.",
+    "Dust with Confectioners Sugar, if desired.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "coconut",
+    "creamy",
+    "pastry",
+    "gluten-free",
+    "dessert"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T16:58:13.002Z"
+}
