@@ -20559,5 +20559,33 @@
     "cuisine": "thai",
     "totalTimeMin": 45,
     "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--mexican",
+    "title": "Creamy Coconut Empanadas",
+    "tags": [
+      "mexican",
+      "dessert",
+      "empanadas",
+      "coconut",
+      "cream"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--german",
+    "title": "German Coconut Cream Pie",
+    "tags": [
+      "german",
+      "coconut",
+      "cream",
+      "pie",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "l"
   }
 ]
