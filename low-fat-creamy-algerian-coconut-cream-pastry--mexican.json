@@ -1,0 +1,81 @@
+{
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry--mexican",
+  "title": "Creamy Coconut Empanadas",
+  "description": "Sweet and creamy empanadas filled with a coconut cream filling, perfect for a dessert or snack.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full-fat or low-fat, whichever you prefer"
+    },
+    {
+      "name": "algerian cream",
+      "amount": "1/2 cup",
+      "notes": "or low-fat milk"
+    },
+    {
+      "name": "low-fat cream",
+      "amount": "1 tablespoon",
+      "notes": "optional, for extra creaminess"
+    },
+    {
+      "name": "fat",
+      "amount": "1 tablespoon",
+      "notes": "unsalted butter, melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional, for extra sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together coconut cream, algerian cream, and low-fat cream.",
+    "Add vanilla extract and honey to the coconut cream mixture, if using.",
+    "Place a tablespoon or two of the coconut cream mixture onto one half of each pastry circle.",
+    "Fold the other half of the pastry circle over the filling, pressing the edges together to seal.",
+    "Use a fork to crimp the edges of the empanadas.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with melted fat.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "empanadas",
+    "coconut",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T12:53:18.353Z"
+}
