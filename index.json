@@ -20587,5 +20587,126 @@
     "cuisine": "german",
     "totalTimeMin": 60,
     "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--french",
+    "title": "French Coconut Cream Tart",
+    "tags": [
+      "french",
+      "tart",
+      "coconut",
+      "cream"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--chinese",
+    "title": "Coconut Cream Pastry Bites",
+    "tags": [
+      "coconut",
+      "pastry",
+      "chinese",
+      "dessert"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--keto",
+    "title": "Low-Carb Algerian Pastry Bites",
+    "tags": [
+      "low-carb",
+      "keto",
+      "pastry",
+      "cheesy"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--indian",
+    "title": "Low-Fat Algerian Coconut Cream Pastry",
+    "tags": [
+      "indian",
+      "desert",
+      "coconut",
+      "low-fat"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--japanese",
+    "title": "Coconut Cream Puffs (Japanese-Style)",
+    "tags": [
+      "japanese",
+      "coconut",
+      "pastry",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--vegan",
+    "title": "Low-Fat Coconut Cream Pastry",
+    "tags": [
+      "low-fat",
+      "coconut",
+      "cream",
+      "pastry",
+      "vegan",
+      "dessert"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--italian",
+    "title": "Creamy Coconut Pastry",
+    "tags": [
+      "italian",
+      "dessert",
+      "coconut",
+      "pastry",
+      "low-fat"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--vegetarian",
+    "title": "Creamy Coconut Pastry",
+    "tags": [
+      "coconut",
+      "pastry",
+      "cream",
+      "dessert"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-creamy-algerian-coconut-cream-pastry--gluten-free",
+    "title": "Gluten-Free Coconut Cream Pastry",
+    "tags": [
+      "coconut",
+      "creamy",
+      "pastry",
+      "gluten-free",
+      "dessert"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
