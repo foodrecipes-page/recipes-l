@@ -1,0 +1,76 @@
+{
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry--thai",
+  "title": "Thai Coconut Pastry",
+  "description": "A rich and creamy Thai dessert made with coconut cream, pastry, and a touch of spice.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "low-fat pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "algerian cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fat",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the low-fat pastry and cut it into squares.",
+    "In a bowl, mix together the coconut cream, algerian cream, fat, sugar, vanilla extract, and salt.",
+    "Place a spoonful of the coconut cream mixture onto each pastry square.",
+    "Fold the pastry squares in half to form triangles and press the edges to seal.",
+    "Brush the tops of the pastries with a little water and sprinkle with sugar.",
+    "Bake the pastries for 20-25 minutes, or until golden brown.",
+    "Allow the pastries to cool for a few minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "thai",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T09:04:52.626Z"
+}
