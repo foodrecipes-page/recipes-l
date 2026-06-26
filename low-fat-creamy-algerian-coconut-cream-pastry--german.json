@@ -1,0 +1,96 @@
+{
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry--german",
+  "title": "German Coconut Cream Pie",
+  "description": "A rich and creamy German-inspired dessert featuring a coconut cream filling atop a buttery pastry crust.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pastry",
+      "amount": "1 sheet (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "low fat milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "algerian spices (optional)",
+      "amount": "a pinch",
+      "notes": "cinnamon, nutmeg, cloves"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "flaked coconut",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry sheet and place in a pie dish.",
+    "In a medium bowl, whip coconut cream until stiff peaks form.",
+    "In a separate bowl, whisk together milk, sugar, and Algerian spices (if using).",
+    "Add coconut oil, eggs, and vanilla extract to the milk mixture and whisk until smooth.",
+    "Fold the coconut cream into the milk mixture until well combined.",
+    "Pour the filling into the pastry-lined pie dish.",
+    "Dot the top of the filling with melted butter.",
+    "Sprinkle flaked coconut over the filling.",
+    "Bake for 40-45 minutes, or until the filling is set and the crust is golden brown.",
+    "Allow the pie to cool to room temperature before serving.",
+    "Chill in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "coconut",
+    "cream",
+    "pie",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "30g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T13:03:27.750Z"
+}
