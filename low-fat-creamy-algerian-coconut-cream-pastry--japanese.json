@@ -1,0 +1,67 @@
+{
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry--japanese",
+  "title": "Coconut Cream Puffs (Japanese-Style)",
+  "description": "A unique Japanese-inspired dessert featuring coconut cream-filled pastry puffs.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pastry",
+      "amount": "1 package",
+      "notes": "Store-bought puff pastry"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 can",
+      "notes": "Full-fat coconut milk"
+    },
+    {
+      "name": "Low Fat Cream",
+      "amount": "1/2 cup",
+      "notes": "Optional for lighter cream"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "Optional for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to 1/4 inch thickness.",
+    "Cut into squares, about 3 inches per side.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Allow puffs to cool completely.",
+    "Open coconut cream can and scoop out solid coconut cream.",
+    "Mix coconut cream with low fat cream, granulated sugar, and vanilla extract (if using).",
+    "Fill cooled pastry puffs with coconut cream mixture.",
+    "Serve chilled and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "coconut",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:51:16.843Z"
+}
