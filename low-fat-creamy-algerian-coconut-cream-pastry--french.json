@@ -1,0 +1,72 @@
+{
+  "slug": "low-fat-creamy-algerian-coconut-cream-pastry--french",
+  "title": "French Coconut Cream Tart",
+  "description": "A rich and creamy tart featuring a flaky pastry crust, topped with a coconut cream filling and baked to perfection.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Low-fat Pastry Dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Cream",
+      "amount": "1/2 cup",
+      "notes": "or substitute with heavy cream"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough and place it in a tart pan.",
+    "Bake the pastry crust for 15-20 minutes, or until golden brown.",
+    "In a medium bowl, whisk together the coconut cream, Algerian cream, sugar, and vanilla extract.",
+    "In a small bowl, whisk together the egg yolks.",
+    "Temper the egg yolks by slowly pouring the coconut cream mixture into the egg yolks, whisking constantly.",
+    "Pour the coconut cream mixture into the baked pastry crust.",
+    "Bake the tart for an additional 20-25 minutes, or until the filling is set.",
+    "Let the tart cool to room temperature before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tart",
+    "coconut",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-creamy-algerian-coconut-cream-pastry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:47:11.028Z"
+}
