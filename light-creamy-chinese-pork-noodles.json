@@ -1,0 +1,82 @@
+{
+  "slug": "light-creamy-chinese-pork-noodles",
+  "title": "Creamy Pork Noodle Stir Fry",
+  "description": "A quick and easy noodle dish made with pork, noodles, and a creamy sauce. Perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork loin",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Noodles (thin rice noodles)",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions.",
+    "In a small bowl, whisk together the light soy sauce and cream. Set aside.",
+    "In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the pork and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of oil.",
+    "Add the ginger and garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the noodles to the skillet and cook for 2-3 minutes, until heated through.",
+    "Add the cooked pork back into the skillet and stir to combine.",
+    "Pour the soy sauce and cream mixture into the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Stir in the green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pork",
+    "noodles",
+    "chinese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-creamy-chinese-pork-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:43:11.246Z"
+}
