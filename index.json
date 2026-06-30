@@ -728,14 +728,15 @@
   },
   {
     "slug": "lazy-herbini",
-    "title": "Lazy Herbini",
+    "title": "Herbini Crusted Chicken",
     "tags": [
-      "lazy-herbini",
-      "vegan-pasta",
-      "easy-weekend-dinner"
+      "chicken",
+      "herbini",
+      "gluten-free",
+      "paleo"
     ],
     "cuisine": "American",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -796,13 +797,15 @@
   },
   {
     "slug": "lazy-lemon-bliss",
-    "title": "Lazy Lemon Bliss",
+    "title": "Lazy Lemon Bliss Soup",
     "tags": [
-      "lazy-lunch",
-      "healthy-dessert",
-      "spanish-lemon-dessert"
+      "lazy",
+      "lemon",
+      "bliss",
+      "soup",
+      "soothing"
     ],
-    "cuisine": "Spanish",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -872,14 +875,13 @@
   },
   {
     "slug": "lazy-sherry-loaf",
-    "title": "Lazy Sherry Loaf",
+    "title": "Sherry Loaf Bread",
     "tags": [
-      "lazy-sherry-loaf",
-      "earthly-dish",
-      "dry-sherry-bread"
+      "bread",
+      "snack"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "british",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -2526,13 +2528,11 @@
   },
   {
     "slug": "lentil-soaked-hangover-busting-ethiopian-alcohol-recovering-body-paella",
-    "title": "Lentil-soaked hangover-busting Ethiopian alcohol-recovering body Paella",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
-      "casserole-style",
-      "high-fiber",
-      "lentil-based",
-      "recovery-dish",
-      "sugar-free-friendly"
+      "lentil-stew",
+      "ethiopian-cuisine",
+      "post-hangover-recipe"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
@@ -12607,15 +12607,15 @@
   },
   {
     "slug": "loosely-baked-uruguayan-pillowlamb-bake",
-    "title": "LooselyBaked Uruguayan Pillowlamb Bake",
+    "title": "Uruguayan-Style Pillowlamb Asado",
     "tags": [
-      "high-protein",
-      "one-pot",
-      "tamasic",
-      "uruguayan"
+      "grilled",
+      "asado",
+      "uruguayan",
+      "lamb"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 170,
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -13242,16 +13242,15 @@
   },
   {
     "slug": "lovely-earthy-german-buckwheat-pilaf",
-    "title": "lovely earthen german buckwheat pilaf",
+    "title": "Buckwheat German Pilaf",
     "tags": [
+      "buckwheat",
       "german",
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "german",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -17550,16 +17549,14 @@
   },
   {
     "slug": "luscious-sweet-australian-korean-pear-stew",
-    "title": "Luscious Sweet Australian Korean-Pear Stew",
+    "title": "Korean Pear Stew with Australian Sweetness",
     "tags": [
-      "australian",
-      "comfort-food",
-      "fodmap-friendly",
-      "one-pan",
-      "sweet-stew"
+      "korean",
+      "pear",
+      "stew"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 60,
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
