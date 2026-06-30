@@ -1,0 +1,81 @@
+{
+  "slug": "luscious-sweet-australian-korean-pear-stew",
+  "title": "Korean Pear Stew with Australian Sweetness",
+  "description": "A sweet and savory stew originating from Korea, incorporating luscious Australian pears.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian pear",
+      "amount": "2",
+      "notes": "coring and slicing"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the soy sauce, rice vinegar, brown sugar, ginger, and garlic in a saucepan over medium heat.",
+    "Add the sliced pear and stir to coat with the sauce.",
+    "Add the Korean chili flakes if using.",
+    "Pour in the water and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes or until the pear is tender.",
+    "Serve warm or at room temperature.",
+    "Garnish with additional sliced pear if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "pear",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-sweet-australian-korean-pear-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:37:33.684Z"
+}
