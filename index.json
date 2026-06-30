@@ -3524,17 +3524,15 @@
   },
   {
     "slug": "light-creamy-chinese-pork-noodles",
-    "title": "Light Creamy Chinese Pork Noodles",
+    "title": "Creamy Pork Noodle Stir Fry",
     "tags": [
-      "chinese-cuisine",
-      "low-sodium",
-      "noodle-dishes",
-      "one-pan",
-      "pork-recipes",
-      "weeknight"
+      "pork",
+      "noodles",
+      "chinese",
+      "stir-fry"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -3652,16 +3650,15 @@
   },
   {
     "slug": "light-croatian-lentil-stew",
-    "title": "Light Croatian Lentil Stew",
+    "title": "Croatian Stew",
     "tags": [
-      "lentil-stew",
-      "croatian-cuisine",
-      "vegan-recipes",
-      "comfort-food",
-      "sick-day-meals"
+      "croatian",
+      "stew",
+      "lentil",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
@@ -12379,17 +12376,15 @@
   },
   {
     "slug": "lively-spicy-moroccan-lamb-couscous-royal",
-    "title": "Lively Spicy Moroccan Lamb Couscous Royal",
+    "title": "Moroccan Lamb Couscous",
     "tags": [
-      "comfort-food",
-      "kosher-friendly",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "pressure-cooker",
-      "spicy-food"
+      "moroccan",
+      "lamb",
+      "couscous",
+      "dinner"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -18941,16 +18936,14 @@
   },
   {
     "slug": "luxuriantly-fatty-russian-black-beans-dumplings",
-    "title": "Luxuriantly Fatty Russian Black Beans Dumplings",
+    "title": "Black Bean Dumplings with Russian Smetana",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "russian-cuisine",
-      "weeknight"
+      "russian",
+      "vegetarian",
+      "dinner",
+      "dumplings"
     ],
-    "cuisine": "Russian",
+    "cuisine": "russian",
     "totalTimeMin": 50,
     "shard": "l"
   },
