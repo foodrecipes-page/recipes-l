@@ -1,0 +1,82 @@
+{
+  "slug": "loosely-baked-uruguayan-pillowlamb-bake",
+  "title": "Uruguayan-Style Pillowlamb Asado",
+  "description": "A traditional Uruguayan recipe for grilled pillowlamb, marinated in a mix of spices and herbs.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pillowlamb shoulder",
+      "amount": "1.3 kg",
+      "notes": ""
+    },
+    {
+      "name": "loosely ground black pepper",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baked oregano",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat (175°C).",
+    "2. In a blender or food processor, combine black pepper, oregano, red wine vinegar, olive oil, garlic, onion, and parsley.",
+    "3. Rub the marinade all over the pillowlamb shoulder, making sure to coat it evenly.",
+    "4. Place the pillowlamb shoulder on the grill and close the lid.",
+    "5. Grill the pillowlamb for 4-5 minutes per side, or until it reaches an internal temperature of 63°C.",
+    "6. Remove the pillowlamb from the grill and let it rest for 10 minutes before slicing.",
+    "7. Serve the pillowlamb hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "asado",
+    "uruguayan",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/loosely-baked-uruguayan-pillowlamb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:50:31.985Z"
+}
