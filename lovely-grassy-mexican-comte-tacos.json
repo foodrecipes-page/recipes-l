@@ -1,0 +1,77 @@
+{
+  "slug": "lovely-grassy-mexican-comte-tacos",
+  "title": "Grilled Tacos with Avocado Salsa",
+  "description": "A simple and flavorful recipe perfect for warm evenings, featuring grilled tacos with a delicious avocado salsa. The perfect blend of grassy flavors and spicy kick.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grilled lovely grassy",
+      "amount": "4-6",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "avocado",
+      "amount": "3",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "comte cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tacos",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill lovely grassy for 2-3 minutes per side, until slightly charred.",
+    "Meanwhile, mix together avocado, comte cheese, and mexican seasoning in a bowl.",
+    "Warm tacos on the grill for 1-2 minutes.",
+    "Assemble tacos with grilled lovely grassy, avocado salsa, and a squeeze of lime juice.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "mexican",
+    "avocado",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-grassy-mexican-comte-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:23:25.655Z"
+}
