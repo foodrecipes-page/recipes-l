@@ -16618,15 +16618,16 @@
   },
   {
     "slug": "luscious-juicy-kid-friendly-australian-chicken-tagine",
-    "title": "luscious juicy kid-friendly australian chicken tagine",
+    "title": "Grilled Australian Chicken Tagine",
     "tags": [
       "australian",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "tagine",
+      "grilled",
+      "family-friendly"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 45,
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -16906,16 +16907,14 @@
   },
   {
     "slug": "luscious-middle-eastern-shredded-phyllo-knafeh-shisha",
-    "title": "Luscious Middle-Eastern Shredded Phyllo Knafeh Shisha",
+    "title": "Shisha Knafeh",
     "tags": [
-      "date-night",
       "dessert",
       "middle-eastern",
-      "paleo-friendly",
-      "romantic"
+      "sweet"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
