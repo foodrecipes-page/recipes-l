@@ -1,0 +1,87 @@
+{
+  "slug": "luscious-juicy-kid-friendly-australian-chicken-tagine",
+  "title": "Grilled Australian Chicken Tagine",
+  "description": "A flavorful and aromatic tagine dish made with grilled Australian chicken, perfect for a family dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian chicken breast",
+      "amount": "4",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the chicken"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together the tagine spice mix and 1 tablespoon of olive oil.",
+    "Brush the spice mix mixture evenly onto both sides of the chicken breast.",
+    "Grill the chicken for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is grilling, heat the remaining 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Once the chicken is cooked, let it rest for a few minutes before slicing it thinly.",
+    "Serve the sliced chicken on top of the onion and garlic mixture, garnished with chopped parsley if desired.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "chicken",
+    "tagine",
+    "grilled",
+    "family-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-juicy-kid-friendly-australian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:19:26.426Z"
+}
