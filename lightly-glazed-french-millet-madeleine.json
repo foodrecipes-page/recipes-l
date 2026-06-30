@@ -1,0 +1,75 @@
+{
+  "slug": "lightly-glazed-french-millet-madeleine",
+  "title": "Madeleine Cake",
+  "description": "A delicate French cake made with millet flour and flavored with a hint of citrus. Perfect for a special breakfast treat.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "millet flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "freshly squeezed lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Butter and flour 12 madeleine molds.",
+    "In a large bowl, whisk together millet flour, granulated sugar, and a pinch of salt.",
+    "In a separate bowl, whisk together eggs, softened butter, lemon zest, lemon juice, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared molds and smooth the tops.",
+    "Bake for 12-15 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool in the molds for 5 minutes.",
+    "Transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "madeleine",
+    "french",
+    "cake",
+    "breakfast",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-glazed-french-millet-madeleine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:31:19.845Z"
+}
