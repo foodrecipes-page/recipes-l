@@ -6259,17 +6259,15 @@
   },
   {
     "slug": "light-roasted-norwegian-cashew-nut-stir-fry",
-    "title": "Light Roasted Norwegian Cashew Nut Stir-fry",
+    "title": "Pan-Seared Cashew Crusted Salmon",
     "tags": [
-      "light-roasted",
-      "stir-fry",
-      "cashew-nuts",
-      "floral",
-      "velvety",
-      "norwegian"
+      "salmon",
+      "cashew",
+      "seafood",
+      "pan-seared"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 23,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -13380,17 +13378,15 @@
   },
   {
     "slug": "lovely-grassy-mexican-comte-tacos",
-    "title": "Lovely Grassy Mexican Comte Tacos",
+    "title": "Grilled Tacos with Avocado Salsa",
     "tags": [
-      "grassy",
-      "high-protein",
+      "grilled",
       "mexican",
-      "one-pan",
-      "show-off",
-      "weeknight"
+      "avocado",
+      "tacos"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
