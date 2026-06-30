@@ -1,0 +1,47 @@
+{
+  "slug": "lazy-sherry-loaf",
+  "title": "Sherry Loaf Bread",
+  "description": "A simple bread recipe made with a loaf, perfect for snacking.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "loaf",
+      "amount": "1"
+    },
+    {
+      "name": "sherry",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Cut the loaf into 1-inch cubes.",
+    "In a small bowl, mix together the sherry and 1 tablespoon of water.",
+    "Pour the sherry mixture over the bread cubes and toss to coat.",
+    "Transfer the bread mixture to a baking sheet and bake for 10-12 minutes, or until golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sherry-loaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:40:39.818Z"
+}
