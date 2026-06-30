@@ -1,0 +1,64 @@
+{
+  "slug": "lightly-steamed-turkish-peanut-butter-bowl",
+  "title": "Turkish Peanut Butter Bowl",
+  "description": "A simple and delicious bowl recipe with lightly steamed ingredients and creamy peanut butter.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lightly Steamed Rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "2 tbsp",
+      "notes": "creamy peanut butter"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced Banana",
+      "amount": "1",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chopped Peanuts",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a clean bowl, place the lightly steamed rice.",
+    "Drizzle 2 tbsp of peanut butter over the rice.",
+    "Add 1 tsp of honey if using.",
+    "Slice a banana and place it on top of the peanut butter.",
+    "Sprinkle chopped peanuts over the banana.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "peanut-butter",
+    "rice",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-steamed-turkish-peanut-butter-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:44:24.794Z"
+}
