@@ -1,0 +1,63 @@
+{
+  "slug": "lazy-lemon-bliss",
+  "title": "Lazy Lemon Bliss Soup",
+  "description": "A soothing soup that combines the sweetness of bliss with the tanginess of lemon.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bliss",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 large"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine bliss, lemon juice, water, salt, and pepper.",
+    "Bring the mixture to a boil over medium heat.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Return the pot to medium heat and cook for an additional 5 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy",
+    "lemon",
+    "bliss",
+    "soup",
+    "soothing"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-lemon-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:57:24.895Z"
+}
