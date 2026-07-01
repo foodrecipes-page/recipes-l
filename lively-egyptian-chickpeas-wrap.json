@@ -1,0 +1,71 @@
+{
+  "slug": "lively-egyptian-chickpeas-wrap",
+  "title": "Egyptian Chickpea Wrap",
+  "description": "A flavorful and healthy wrap filled with chickpeas, spices, and fresh vegetables. Perfect for a quick snack or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup (drained and rinsed)"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "2 tsp (mix of cumin, coriander, and paprika)"
+    },
+    {
+      "name": "lively wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup (shredded)"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium (sliced)"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium (sliced)"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup (thinly sliced)"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a dry pan over medium heat.",
+    "Add 1 tsp of egyptian spices to the pan and cook for 1 minute.",
+    "Add the chickpeas to the pan and cook for 3-4 minutes, stirring frequently.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading 1 tbsp of tahini sauce on the wrap.",
+    "Add the cooked chickpea mixture, lettuce, tomato, cucumber, and red onion on top of the sauce.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chickpeas",
+    "middle-eastern",
+    "wrap",
+    "easy",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-egyptian-chickpeas-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:17:40.716Z"
+}
