@@ -1,0 +1,89 @@
+{
+  "slug": "lovely-crisp-ethiopian-lentil-stew",
+  "title": "Ethiopian Lentil Stew",
+  "description": "A hearty and flavorful stew inspired by Ethiopian cuisine, made with lentils, onions, garlic, and a blend of spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian Spice Blend (Berbere)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crisp Carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Lovely Potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add Berbere spice blend and cook for 1 minute.",
+    "Add lentils, carrots, potatoes, vegetable broth, salt, and pepper.",
+    "Bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentil",
+    "stew",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crisp-ethiopian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:45:41.468Z"
+}
