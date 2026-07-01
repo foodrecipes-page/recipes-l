@@ -1,0 +1,95 @@
+{
+  "slug": "low-fat-king-prawn-tandoori-delight",
+  "title": "Delicious Low Fat Prawn Tandoori Delight",
+  "description": "A flavorful and healthy low-fat prawn dish made with tandoori spices and served with a side of rice.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "low fat yogurt",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "tandoori spice mix",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish",
+      "notes": null
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "100g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together yogurt, tandoori spice mix, lemon juice, ginger, and garlic.",
+    "2. Add the prawns to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Remove the prawns from the marinade and cook for 2-3 minutes per side, or until pink and cooked through.",
+    "6. Meanwhile, heat a non-stick skillet over medium heat.",
+    "7. Add the cooked prawns to the skillet and cook for an additional 1-2 minutes.",
+    "8. Serve the prawns with a side of cooked white rice and garnish with chopped cilantro.",
+    "9. Season with salt and black pepper to taste.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "low-fat",
+    "prawns",
+    "tandoori"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-king-prawn-tandoori-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:23:25.985Z"
+}
