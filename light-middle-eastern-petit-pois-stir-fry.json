@@ -1,0 +1,68 @@
+{
+  "slug": "light-middle-eastern-petit-pois-stir-fry",
+  "title": "Stir Fry with Petit Pois",
+  "description": "A simple and flavorful stir fry dish made with petit pois and a blend of Asian-inspired spices.",
+  "cuisine": "eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Petit Pois",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Middle eastern spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add petit pois and stir-fry for 2-3 minutes or until tender.",
+    "Add soy sauce and spice blend, and stir-fry for another minute.",
+    "Serve hot over rice or noodles.",
+    "Season with salt to taste.",
+    "Garnish with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "asian-inspired",
+    "veggie-dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-middle-eastern-petit-pois-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:31:21.419Z"
+}
