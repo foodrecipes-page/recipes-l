@@ -1,0 +1,92 @@
+{
+  "slug": "luscious-malaysian-black-beans-satay",
+  "title": "Satay Chicken with Black Bean Sauce",
+  "description": "A fusion of Malaysian flavors with the addition of luscious and savory black bean sauce. This satay recipe combines the classic Southeast Asian dish with the deep flavors of black beans.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Black beans, cooked",
+      "amount": "1/2 cup",
+      "notes": "Mashed or pureed"
+    },
+    {
+      "name": "Luscious coconut milk",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Malaysian peanut sauce",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Malaysian satay seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Peanuts, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing chicken"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "For serving (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together satay seasoning blend, peanut sauce, and honey.",
+    "3. Add the chicken to the bowl and toss to coat with the marinade.",
+    "4. Brush the grill grates with sesame oil to prevent sticking.",
+    "5. Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "6. Meanwhile, heat the black bean sauce in a small saucepan over medium heat.",
+    "7. To serve, place a piece of grilled chicken on a skewer or in a bowl.",
+    "8. Spoon the black bean sauce over the top of the chicken.",
+    "9. Garnish with chopped peanuts and cilantro.",
+    "10. Serve with a side of luscious coconut milk for dipping (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "satay",
+    "malaysian",
+    "chicken",
+    "blackbeans",
+    "coconutmilk"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-malaysian-black-beans-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:21:17.481Z"
+}
