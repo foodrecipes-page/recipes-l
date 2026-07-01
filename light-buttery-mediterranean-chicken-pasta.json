@@ -1,0 +1,75 @@
+{
+  "slug": "light-buttery-mediterranean-chicken-pasta",
+  "title": "Mediterranean Chicken Pasta",
+  "description": "A light and flavorful Mediterranean-inspired pasta dish made with chicken, olives, and feta cheese.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Light Mediterranean Pasta",
+      "amount": "8 oz",
+      "notes": "Choose a gluten-free option if needed"
+    },
+    {
+      "name": "Buttery Olives",
+      "amount": "1/2 cup",
+      "notes": "Pitted and sliced Kalamata olives"
+    },
+    {
+      "name": "Marinated Chicken Breast",
+      "amount": "1 lb",
+      "notes": "Grilled or baked"
+    },
+    {
+      "name": "Crumbly Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumble into small pieces"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for added flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to package instructions. Drain and set aside.",
+    "Preheat the grill or oven to medium-high heat. Season the chicken breast with salt, pepper, and any desired herbs.",
+    "Grill or bake the chicken for 5-7 minutes per side, or until cooked through to an internal temperature of 165°F.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the sliced olives and cook for an additional 2-3 minutes, until heated through.",
+    "Stir in the crumbled feta cheese and cook for 1 minute, until melted and creamy.",
+    "Toss the cooked pasta with the olive and feta mixture.",
+    "Slice the grilled chicken into thin strips and serve on top of the pasta.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "chicken",
+    "pasta",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-buttery-mediterranean-chicken-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:01:26.292Z"
+}
