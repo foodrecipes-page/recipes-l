@@ -1,0 +1,89 @@
+{
+  "slug": "lazy-sunday-slovakian-cornstarch-braise-ayurvedic",
+  "title": "Slovakian Braised Meat",
+  "description": "A hearty Slovakian dish made with tender meat and a rich sauce, perfect for a lazy Sunday afternoon.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, then set aside.",
+    "Add more oil if needed, then sauté the onion and garlic until softened.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add the flour and cook for 1 minute.",
+    "Gradually add the beef broth and red wine, whisking continuously.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise for 2.5 hours or until the meat is tender.",
+    "Stir in the sour cream and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "braised",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-slovakian-cornstarch-braise-ayurvedic",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:31:11.891Z"
+}
