@@ -1569,18 +1569,14 @@
   },
   {
     "slug": "lazy-sunday-slovakian-cornstarch-braise-ayurvedic",
-    "title": "lazy-sunday slovakian cornstarch braise",
+    "title": "Slovakian Braised Meat",
     "tags": [
-      "ayurvedic",
-      "gluten-free",
-      "lazy-sunday",
-      "one-pan",
       "slovakian",
-      "vegan",
-      "weeknight"
+      "braised",
+      "beef"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 45,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
@@ -2856,16 +2852,14 @@
   },
   {
     "slug": "light-argentinian-nuts-tart",
-    "title": "light argentinian nuts tart",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian",
-      "gluten-free",
-      "low-calorie",
-      "sattvic",
-      "vegan-friendly"
+      "beef",
+      "empanadas",
+      "argentinian"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 85,
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
@@ -4022,16 +4016,16 @@
   },
   {
     "slug": "light-festive-slovakian-potatoes-bake",
-    "title": "Light Festive Slovakian Potatoes Bake",
+    "title": "Slovakian Christmas Potato Dumplings",
     "tags": [
-      "dairy-free",
-      "festive",
-      "one-pan",
+      "christmas",
+      "holiday",
       "slovakian",
-      "winter"
+      "potatoes",
+      "dumplings"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 65,
+    "cuisine": "slovakian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -5655,16 +5649,13 @@
   },
   {
     "slug": "light-middle-eastern-petit-pois-stir-fry",
-    "title": "Light Middle Eastern Petit Pois Stir Fry",
+    "title": "Stir Fry with Petit Pois",
     "tags": [
-      "easy",
-      "healthy",
-      "middle-eastern",
-      "quick",
       "stir-fry",
-      "vegetarian"
+      "asian-inspired",
+      "veggie-dish"
     ],
-    "cuisine": "Middle Eastern",
+    "cuisine": "eastern",
     "totalTimeMin": 20,
     "shard": "l"
   },
@@ -8009,16 +8000,16 @@
   },
   {
     "slug": "lightly-buttery-thai-rice-khao-pad",
-    "title": "Lightly Buttery Thai Rice Khao Pad",
+    "title": "Thai-Style Pad Khao with Buttery Rice",
     "tags": [
-      "baked-goods",
-      "gluten-free",
-      "lunch-ideas",
-      "thai-cuisine",
-      "vegetarian-friendly"
+      "thai",
+      "rice",
+      "pad-khao",
+      "buttery",
+      "lightly-salted"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -16798,18 +16789,16 @@
   },
   {
     "slug": "luscious-malaysian-black-beans-satay",
-    "title": "luscious malaysian black beans satay",
+    "title": "Satay Chicken with Black Bean Sauce",
     "tags": [
-      "ayurvedic",
+      "satay",
       "malaysian",
-      "one-pan",
-      "tamasic-friendly",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "blackbeans",
+      "coconutmilk"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
