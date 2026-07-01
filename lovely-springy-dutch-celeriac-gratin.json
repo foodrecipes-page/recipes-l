@@ -1,0 +1,77 @@
+{
+  "slug": "lovely-springy-dutch-celeriac-gratin",
+  "title": "Celeriac and Lovely Spring Gratin",
+  "description": "A delicious and comforting side dish that combines the natural sweetness of celeriac with the lovely spring vegetables.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "lovely spring vegetables (such as asparagus, carrots, and spring onions)",
+      "amount": "1 bunch",
+      "notes": "trimmed and chopped"
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "dutch butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large saucepan, combine the sliced celeriac and chopped spring vegetables. Add enough cold water to cover the vegetables, and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer, covered, until the vegetables are tender, about 15-20 minutes.",
+    "In a separate saucepan, melt the butter over medium heat. Add the minced garlic and cook, stirring constantly, for 1-2 minutes.",
+    "Stir in the grated cheese until melted and smooth.",
+    "Drain the cooked vegetables and add them to the cheese sauce. Season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and top with additional grated cheese if desired.",
+    "Bake in the preheated oven until the top is golden brown and the gratin is heated through, about 20-25 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "spring-vegetables",
+    "gratin",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-springy-dutch-celeriac-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:27:53.864Z"
+}
