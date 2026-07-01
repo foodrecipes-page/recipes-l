@@ -7385,17 +7385,15 @@
   },
   {
     "slug": "light-uruguayan-kale-salad",
-    "title": "Light Uruguayan Kale Salad",
+    "title": "Uruguayan-Style Grilled Steak with Kale Salad",
     "tags": [
-      "citrusy",
-      "healthy-snack",
-      "high-protein",
-      "one-bowl",
-      "post-workout",
-      "weeknight"
+      "grilled",
+      "steak",
+      "salad",
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -11829,18 +11827,16 @@
   },
   {
     "slug": "lively-egyptian-chickpeas-wrap",
-    "title": "lively egyptian chickpeas wrap",
+    "title": "Egyptian Chickpea Wrap",
     "tags": [
-      "easy-dinner",
-      "gluten-free",
-      "high-protein",
-      "north-african",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "chickpeas",
+      "middle-eastern",
+      "wrap",
+      "easy",
+      "vegetarian"
     ],
-    "cuisine": "egyptian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
@@ -14372,18 +14368,15 @@
   },
   {
     "slug": "lovely-springy-dutch-celeriac-gratin",
-    "title": "Lovely Springy Dutch Celeriac Gratin",
+    "title": "Celeriac and Lovely Spring Gratin",
     "tags": [
       "celeriac",
-      "dairy-free",
-      "dutch",
-      "gluten-free",
+      "spring-vegetables",
       "gratin",
-      "spring",
-      "vegan"
+      "side-dish"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 75,
+    "cuisine": "European",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
