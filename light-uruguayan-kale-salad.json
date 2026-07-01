@@ -1,0 +1,77 @@
+{
+  "slug": "light-uruguayan-kale-salad",
+  "title": "Uruguayan-Style Grilled Steak with Kale Salad",
+  "description": "A classic Uruguayan dish featuring grilled steak served with a simple kale salad.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Uruguayan-style Seasoning (e.g., paprika, garlic, oregano)",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Kale",
+      "amount": "2 cups",
+      "notes": "curly-leaf or lacinato"
+    },
+    {
+      "name": "Light Vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Season the flank steak with salt, black pepper, and Uruguayan-style seasoning.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches an internal temperature of 130°F.",
+    "Transfer the steak to a cutting board and let it rest for 5 minutes.",
+    "In a large bowl, massage the kale with light vinaigrette until slightly tender.",
+    "Slice the grilled steak against the grain and serve with the kale salad.",
+    "Serve immediately, garnished with additional light olive oil and light vinaigrette if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "salad",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-uruguayan-kale-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:41:26.760Z"
+}
