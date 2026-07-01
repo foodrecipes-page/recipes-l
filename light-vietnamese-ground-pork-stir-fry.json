@@ -1,0 +1,82 @@
+{
+  "slug": "light-vietnamese-ground-pork-stir-fry",
+  "title": "Vietnamese Pork Stir Fry",
+  "description": "A quick and flavorful stir fry made with ground pork, inspired by Vietnamese cuisine. This dish is perfect for a weeknight dinner.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp, grated",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the ground pork and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the onion and bell pepper and cook until the vegetables are tender.",
+    "Add the snow peas and cook until they are tender but still crisp.",
+    "Stir in the light soy sauce and cook for 1 minute.",
+    "Serve hot over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-vietnamese-ground-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:45:05.293Z"
+}
