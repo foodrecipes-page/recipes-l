@@ -1,0 +1,65 @@
+{
+  "slug": "light-italian-corn-arepa",
+  "title": "Grilled Corn Arepa with Italian Seasoning",
+  "description": "A flavorful arepa dish topped with grilled corn, melted cheese, and a sprinkle of Italian seasoning.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "arepa",
+      "amount": "2"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "light cheese (Monterey Jack)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush corn with olive oil and season with Italian seasoning.",
+    "Grill corn for 5-7 minutes, turning occasionally.",
+    "Grill arepas for 2-3 minutes, until lightly toasted.",
+    "Slice grilled corn off the cob.",
+    "Assemble arepas by spreading cheese on the bottom half and topping with grilled corn.",
+    "Place the other half of the arepa on top.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "corn",
+    "arepa",
+    "italian",
+    "seasoning",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-italian-corn-arepa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:09:44.076Z"
+}
