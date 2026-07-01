@@ -586,16 +586,15 @@
   },
   {
     "slug": "lazy-algerian-fideo-tagine",
-    "title": "lazy algerian fideo tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-carb",
-      "north-african",
-      "one-pan"
+      "algerian",
+      "chicken",
+      "stew",
+      "tagine"
     ],
-    "cuisine": "north african",
-    "totalTimeMin": 35,
+    "cuisine": "Algerian",
+    "totalTimeMin": 65,
     "shard": "l"
   },
   {
@@ -4340,16 +4339,15 @@
   },
   {
     "slug": "light-fluffy-vietnamese-chicken-pho-ga",
-    "title": "Light Fluffy Vietnamese Chicken Pho Ga",
+    "title": "Vietnamese Chicken Pho",
     "tags": [
-      "chicken-soup",
-      "comfort-food",
-      "low-sodium",
-      "noodle-soup",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "chicken",
+      "pho",
+      "noodle-soup"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -12899,14 +12897,13 @@
   },
   {
     "slug": "lovely-crisp-ethiopian-lentil-stew",
-    "title": "Lovely Crisp Ethiopian Lentil Stew",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
-      "ethiopian-cuisine",
-      "high-protein",
-      "lentil-stew",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "ethiopian",
+      "lentil",
+      "stew",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
@@ -14972,16 +14969,15 @@
   },
   {
     "slug": "low-fat-king-prawn-tandoori-delight",
-    "title": "Low-Fat King Prawn Tandoori Delight",
+    "title": "Delicious Low Fat Prawn Tandoori Delight",
     "tags": [
-      "jamaican",
+      "indian",
       "low-fat",
-      "king-prawn",
-      "tandoori-style",
-      "date-night"
+      "prawns",
+      "tandoori"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
