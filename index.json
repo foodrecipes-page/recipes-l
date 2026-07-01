@@ -3510,16 +3510,15 @@
   },
   {
     "slug": "light-creamy-canadian-tofu-bake",
-    "title": "Light Creamy Canadian Tofu Bake",
+    "title": "Creamy Tofu Bake",
     "tags": [
-      "canadian",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "tofu",
+      "bake",
+      "creamy",
+      "light"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -7340,17 +7339,15 @@
   },
   {
     "slug": "light-umami-portuguese-cucumber-salad",
-    "title": "Light Umami Portuguese Cucumber Salad",
+    "title": "Portuguese-Style Grilled Chicken Salad",
     "tags": [
-      "cucumber",
-      "light",
       "portuguese",
-      "post-workout",
-      "snack",
-      "umami"
+      "grilled-chicken",
+      "salad",
+      "summer"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 30,
+    "cuisine": "portuguese",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
@@ -7553,16 +7550,15 @@
   },
   {
     "slug": "light-warming-russian-eggs-bake",
-    "title": "Light Warming Russian Eggs Bake",
+    "title": "Warming Russian Baked Eggs",
     "tags": [
       "breakfast",
-      "one-pan",
-      "rusian",
-      "vegetarian",
-      "weeknight"
+      "russian",
+      "eggs",
+      "baked"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "russian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -7695,16 +7691,15 @@
   },
   {
     "slug": "lightly-airfried-mediterranean-orange-tagine",
-    "title": "Lightly Airfried Mediterranean Orange Tagine",
+    "title": "Airfried Mediterranean Chicken",
     "tags": [
-      "air-fry",
-      "gluten-free",
-      "low-sodium",
+      "airfryer",
+      "chicken",
       "mediterranean",
-      "one-vessel"
+      "easy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -12244,17 +12239,17 @@
   },
   {
     "slug": "lively-smoky-algerian-chickpeas-tagine",
-    "title": "Lively Smoky Algerian Chickpeas Tagine",
+    "title": "Smoky Algerian Chickpea Tagine",
     "tags": [
-      "grilled",
-      "quick",
-      "smoky",
-      "tagine",
-      "vegan",
-      "winey"
+      "north-african",
+      "veggie-stew",
+      "chickpeas",
+      "smoky-spices",
+      "algerian-cuisine",
+      "lunch"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
