@@ -1,0 +1,94 @@
+{
+  "slug": "light-fluffy-vietnamese-chicken-pho-ga",
+  "title": "Vietnamese Chicken Pho",
+  "description": "A light and flavorful Vietnamese noodle soup made with chicken, pho broth, and a variety of herbs, served hot with rice noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Pho broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the pho broth in a large pot over medium-high heat.",
+    "Add the sliced onion, minced garlic, and sliced ginger to the pot.",
+    "Cook for 5 minutes or until the onion is translucent.",
+    "Add the chicken breast to the pot and cook for 5-7 minutes or until cooked through.",
+    "Remove the chicken from the pot and slice it into thin strips.",
+    "Add the fish sauce, soy sauce, and sugar to the pot and stir to combine.",
+    "Add the rice noodles to the pot and cook for 2-3 minutes or until they are soft and slightly tender.",
+    "Add the sliced chicken back to the pot and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the pho hot, garnished with chopped cilantro and fresh herbs.",
+    "Serve with lime wedges, bean sprouts, and other toppings as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "pho",
+    "noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fluffy-vietnamese-chicken-pho-ga",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:39:52.404Z"
+}
