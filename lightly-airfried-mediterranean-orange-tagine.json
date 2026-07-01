@@ -1,0 +1,88 @@
+{
+  "slug": "lightly-airfried-mediterranean-orange-tagine",
+  "title": "Airfried Mediterranean Chicken",
+  "description": "A flavorful, healthy meal that's easy to make. Chicken is marinated in Mediterranean spices and cooked to perfection in an air fryer.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, thyme, salt, and pepper.",
+    "Add the chicken breasts to the marinade and mix to coat. Let marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place it in the air fryer basket. Cook for 12-15 minutes, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is cooking, mix the tagine spice mix with a little water to create a paste.",
+    "After the chicken is cooked, brush the tagine spice paste onto the chicken breasts.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "airfryer",
+    "chicken",
+    "mediterranean",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-airfried-mediterranean-orange-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:34:29.553Z"
+}
