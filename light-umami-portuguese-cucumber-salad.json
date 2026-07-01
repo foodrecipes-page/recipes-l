@@ -1,0 +1,81 @@
+{
+  "slug": "light-umami-portuguese-cucumber-salad",
+  "title": "Portuguese-Style Grilled Chicken Salad",
+  "description": "A refreshing salad featuring grilled chicken, cucumber, and a light Portuguese-inspired dressing.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "0.25",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "light"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season the chicken with salt and pepper.",
+    "3. Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "4. Let the chicken rest for 5 minutes before slicing.",
+    "5. In a large bowl, combine the sliced cucumber, red onion, and chopped kale.",
+    "6. In a small bowl, whisk together the olive oil, lemon juice, and minced garlic.",
+    "7. Pour the dressing over the salad and toss to combine.",
+    "8. Slice the grilled chicken and add it to the salad.",
+    "9. Toss the salad again to combine.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "grilled-chicken",
+    "salad",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-umami-portuguese-cucumber-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:26:16.586Z"
+}
