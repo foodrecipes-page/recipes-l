@@ -1,0 +1,83 @@
+{
+  "slug": "lightly-buttery-thai-rice-khao-pad",
+  "title": "Thai-Style Pad Khao with Buttery Rice",
+  "description": "A flavorful and aromatic Thai dish made with lightly toasted buttery rice, savory pad khao, and a hint of spices. This recipe serves 4 as a main dish or 6 as a side.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buttery Rice",
+      "amount": "2 cups",
+      "notes": "Lightly toasted"
+    },
+    {
+      "name": "Pad Khao",
+      "amount": "1 cup",
+      "notes": "Thai-style stir-fry"
+    },
+    {
+      "name": "Lightly Salted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add the pad khao and cook for 2-3 minutes, stirring frequently.",
+    "Stir in the soy sauce and cook for 1 minute.",
+    "Add the chopped basil and cook for an additional minute.",
+    "Meanwhile, toast the buttery rice in a dry skillet over medium heat, stirring frequently, until lightly browned.",
+    "Serve the pad khao over the toasted rice.",
+    "Drizzle with lightly salted butter and serve immediately.",
+    "Optional: Add protein of your choice (chicken, shrimp, tofu) and cook according to package instructions before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "rice",
+    "pad-khao",
+    "buttery",
+    "lightly-salted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-buttery-thai-rice-khao-pad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:18:38.961Z"
+}
