@@ -1,0 +1,85 @@
+{
+  "slug": "light-fluffy-irish-soda-bread-dumplings",
+  "title": "Irish Soda Bread Dumplings",
+  "description": "A moist and savory twist on traditional Irish soda bread, in the form of comforting dumplings. This hearty dish is perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "soda bread",
+      "amount": "1 (12-ounce) loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cut the soda bread into 2-inch cubes.",
+    "In a large bowl, whisk together the flour, eggs, milk, and salt (if using).",
+    "Add the softened butter and grated cheddar cheese (if using). Mix until a shaggy dough forms.",
+    "Add the soda bread cubes and mix until the dough is evenly coated.",
+    "Turn the dough out onto a floured surface and gently knead until the dough comes together.",
+    "Use a cookie scoop or spoon to portion out the dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "Heat a large skillet over medium heat and add a tablespoon of butter.",
+    "Add 4-5 dumplings to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "Serve the dumplings hot with additional melted butter and chopped scallions (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "comfort-food",
+    "dinner",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fluffy-irish-soda-bread-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:01:41.014Z"
+}
