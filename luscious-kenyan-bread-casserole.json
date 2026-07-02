@@ -1,0 +1,72 @@
+{
+  "slug": "luscious-kenyan-bread-casserole",
+  "title": "Kenyan Bread Casserole",
+  "description": "A hearty Kenyan-inspired bread casserole, perfect for a comforting meal. This dish combines the warmth of traditional Kenyan spices with the simplicity of a bread-based casserole.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bread, cut into 1-inch cubes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Luscious tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped bell peppers",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan spices (e.g., cumin, coriander, turmeric)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté chopped onions and bell peppers until softened.",
+    "Add Kenyan spices, salt, and luscious tomato sauce. Simmer for 5 minutes.",
+    "In a separate bowl, mix bread cubes and a pinch of salt.",
+    "In a 9x13-inch casserole dish, create a layer of bread mixture, followed by a layer of the tomato sauce mixture. Repeat this process until all ingredients are used, finishing with a layer of bread.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "bread",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-kenyan-bread-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:17:53.933Z"
+}
