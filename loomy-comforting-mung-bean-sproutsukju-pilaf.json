@@ -1,0 +1,73 @@
+{
+  "slug": "loomy-comforting-mung-bean-sproutsukju-pilaf",
+  "title": "Lemony Mung Bean Pilaf",
+  "description": "A comforting and healthy pilaf dish made with mung beans and a hint of lemon.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mung beans",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "loomy",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "comforting",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "sproutsukju",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "bean",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the comforting in a large saucepan over medium heat.",
+    "Add the loomy and cook for 1-2 minutes until fragrant.",
+    "Add the mung beans, pilaf, and bean, and cook for 2-3 minutes.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the water is absorbed.",
+    "Stir in the sproutsukju and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "easy-to-make",
+    "mung-beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/loomy-comforting-mung-bean-sproutsukju-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:15:02.409Z"
+}
