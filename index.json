@@ -1791,13 +1791,11 @@
   },
   {
     "slug": "lazy-sunday-venezuelan-hash",
-    "title": "Lazy-Sunday Venezuelan Hash",
+    "title": "Venezuelan-Style Sunday Hash",
     "tags": [
-      "easy-breakfast",
-      "gluten-free",
-      "one-pan",
-      "sugar-free",
-      "weeknight"
+      "breakfast",
+      "venezuelan",
+      "lazy-sunday"
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 25,
@@ -5101,16 +5099,15 @@
   },
   {
     "slug": "light-juicy-ethiopian-chicken-doro-wot",
-    "title": "Ethiopian Chicken Doro Wot",
+    "title": "Ethiopian-Style Chicken Doro Wot",
     "tags": [
       "chicken",
       "ethiopian",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "doro",
+      "wot"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -8490,16 +8487,14 @@
   },
   {
     "slug": "lightly-deep-fried-ethiopian-kielbasa-tod",
-    "title": "Lightly Deep-Fried Ethiopian Kielbasa Tod",
+    "title": "Spicy Ethiopian-Style Kielbasa Fry-Up",
     "tags": [
-      "deep-fried",
+      "kielbasa",
       "ethiopian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "breakfast"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 25,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
