@@ -1,0 +1,91 @@
+{
+  "slug": "luscious-dense-malaysian-chicken-curry",
+  "title": "Malaysian Chicken Curry",
+  "description": "A delicious and aromatic Malaysian-inspired chicken curry made with fresh spices and coconut milk. Serve with steamed rice or roti for a satisfying meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the remaining 1 tablespoon of oil to the pan and cook the onion until softened, about 3 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the coconut milk, fish sauce, and brown sugar (if using). Bring the mixture to a simmer.",
+    "Return the chicken to the pan and cook until cooked through, about 5-7 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with lemon wedges (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "malaysian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-dense-malaysian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:50:41.985Z"
+}
