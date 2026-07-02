@@ -1,0 +1,88 @@
+{
+  "slug": "light-juicy-ethiopian-chicken-doro-wot",
+  "title": "Ethiopian-Style Chicken Doro Wot",
+  "description": "A flavorful and aromatic Ethiopian-inspired chicken stew made with juicy chicken and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ethiopian spices (berbere)",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream or yogurt",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for another minute.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add berbere and cook for 1-2 minutes, stirring constantly.",
+    "Add broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until chicken is cooked through.",
+    "Stir in heavy cream or yogurt, if using.",
+    "Season with salt and black pepper to taste.",
+    "Serve over injera or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "ethiopian",
+    "doro",
+    "wot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-juicy-ethiopian-chicken-doro-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:13:57.353Z"
+}
