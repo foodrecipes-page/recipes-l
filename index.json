@@ -4249,17 +4249,15 @@
   },
   {
     "slug": "light-fluffy-irish-soda-bread-dumplings",
-    "title": "Light Fluffy Irish Soda Bread Dumplings",
+    "title": "Irish Soda Bread Dumplings",
     "tags": [
-      "bread-dumplings",
+      "irish",
       "comfort-food",
-      "high-fiber",
-      "irish-dish",
-      "one-pan",
-      "steamed-dumplings"
+      "dinner",
+      "snack"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -6875,17 +6873,16 @@
   },
   {
     "slug": "light-spanish-tofu-crema-catalana",
-    "title": "Light Spanish Tofu Crema Catalana",
+    "title": "Spanish Catalana Crema Stuffed Tofu",
     "tags": [
-      "dessert",
-      "low-glycemic",
-      "one-pan",
-      "pastry",
       "spanish",
-      "weeknight"
+      "crema",
+      "catalana",
+      "tofu",
+      "vegan"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -11589,18 +11586,16 @@
   },
   {
     "slug": "lively-argentinian-bonito-ceviche",
-    "title": "Lively Argentinian Bonito Ceviche",
+    "title": "Argentinian Grilled Bonito with Lively Ceviche Sauce",
     "tags": [
-      "aromatic",
-      "buddhist-temple-friendly",
-      "festive",
-      "light",
-      "molcajete",
-      "rice-based",
-      "seafood"
+      "argentinian",
+      "grilled",
+      "bonito",
+      "ceviche",
+      "lively"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -11949,13 +11944,12 @@
   },
   {
     "slug": "lively-italian-guanciale-spaghetti-amatriciana",
-    "title": "Lively Italian Guanciale Spaghetti Amatriciana",
+    "title": "Classic Amatriciana Pasta",
     "tags": [
       "italian",
-      "meat-lovers",
-      "one-pan",
       "pasta",
-      "weeknight"
+      "guanciale",
+      "amatriciana"
     ],
     "cuisine": "Italian",
     "totalTimeMin": 25,
@@ -15627,17 +15621,14 @@
   },
   {
     "slug": "luscious-and-creamy-uruguayan-chicken-lasagna",
-    "title": "Luscious and Creamy Uruguayan Chicken Lasagna",
+    "title": "Uruguayan Creamy Chicken Lasagna",
     "tags": [
-      "cream-based",
       "lasagna",
-      "one-pan",
-      "post-workout",
-      "uruguayan",
-      "weeknight"
+      "chicken",
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 70,
     "shard": "l"
   },
   {
@@ -16905,16 +16896,14 @@
   },
   {
     "slug": "luscious-molten-moroccan-flour-tagine",
-    "title": "Luscious Molten Moroccan Flour Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "moroccan",
-      "one-pot",
-      "vegan"
+      "chicken",
+      "stew",
+      "moroccan"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 65,
     "shard": "l"
   },
   {
