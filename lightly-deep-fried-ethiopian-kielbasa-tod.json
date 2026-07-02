@@ -1,0 +1,88 @@
+{
+  "slug": "lightly-deep-fried-ethiopian-kielbasa-tod",
+  "title": "Spicy Ethiopian-Style Kielbasa Fry-Up",
+  "description": "A bold and spicy twist on traditional kielbasa, seasoned with Ethiopian spices and served with a side of crispy fried onions.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ethiopian berbere spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce (optional)",
+      "amount": "1-2 teaspoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add sliced onions and cook until caramelized, stirring occasionally, about 8 minutes.",
+    "Add minced garlic and cook for 1 minute, stirring constantly.",
+    "Add sliced kielbasa and cook until browned, about 5 minutes.",
+    "Add berbere spice blend, salt, and black pepper, and stir to combine.",
+    "Add beef broth and bring to a simmer.",
+    "Reduce heat to medium-low and cook for 5 minutes, or until the sauce has thickened slightly.",
+    "Taste and adjust seasoning as needed. If desired, add hot sauce for an extra kick.",
+    "Serve hot, garnished with additional sliced onions and a dollop of hot sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kielbasa",
+    "ethiopian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-deep-fried-ethiopian-kielbasa-tod",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:07:30.392Z"
+}
