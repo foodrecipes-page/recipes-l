@@ -1,0 +1,92 @@
+{
+  "slug": "light-orange-indian-lentils-sambhar",
+  "title": "Sambhar Lentil Curry",
+  "description": "A flavorful Indian-inspired curry made with split red lentils and mixed vegetables. This comforting dish is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red or yellow split lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sambhar powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the chopped onion, carrot, and ginger. Saute until the vegetables are tender.",
+    "Add the turmeric, cumin powder, and sambhar powder. Stir well.",
+    "Add the lentils, tomato, and salt. Mix well.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes or until the lentils are cooked.",
+    "Serve hot with rice or roti.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentil-curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-orange-indian-lentils-sambhar",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:36:22.898Z"
+}
