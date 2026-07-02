@@ -1,0 +1,80 @@
+{
+  "slug": "light-garlicky-turkish-duck-bake",
+  "title": "Garlicky Turkish Duck Bake",
+  "description": "A savory and aromatic dish featuring roasted duck with a tangy twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck",
+      "amount": "1 whole (2-3 lbs)",
+      "notes": "fresh and patted dry"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Turkish Spices",
+      "amount": "2 tsp",
+      "notes": "containing cumin, paprika, and coriander"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 tsp",
+      "notes": "garlic powder"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the duck and pat it dry with paper towels.",
+    "Season the duck with salt, pepper, and Turkish spices.",
+    "In a small bowl, mix minced garlic with light olive oil.",
+    "Rub the garlic mixture all over the duck, making sure to get some under the skin as well.",
+    "Place the duck in a roasting pan and put it in the oven.",
+    "Bake the duck for 20 minutes, then reduce the heat to 375°F (190°C).",
+    "Continue roasting the duck for another 30-40 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Let the duck rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "duck",
+    "bake",
+    "garlicky",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 56,
+    "carbs": 0,
+    "fat": 37
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-garlicky-turkish-duck-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:22:50.680Z"
+}
