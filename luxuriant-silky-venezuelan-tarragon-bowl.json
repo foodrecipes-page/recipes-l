@@ -1,0 +1,83 @@
+{
+  "slug": "luxuriant-silky-venezuelan-tarragon-bowl",
+  "title": "Venezuelan Luxuriant Bowl",
+  "description": "A hearty, comforting bowl filled with the flavors of Venezuela, featuring silky luxuriant chicken and fresh tarragon.",
+  "cuisine": "vegan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "silky luxuriant mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tarragon",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onions and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the diced tomatoes, dried tarragon, salt, and black pepper. Stir to combine.",
+    "Reduce heat to low and simmer, uncovered, for 10-15 minutes, stirring occasionally.",
+    "Serve hot in bowls, garnished with fresh tarragon if desired.",
+    "Enjoy your delicious Venezuelan Luxuriant Bowl!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-silky-venezuelan-tarragon-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:06:49.685Z"
+}
