@@ -1,0 +1,95 @@
+{
+  "slug": "lazy-duck-poaching",
+  "title": "Poached Duck Breast with Orange Glaze",
+  "description": "A simple yet elegant dish featuring poached duck breast with a sweet and tangy orange glaze.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the duck breast under cold water and pat dry with paper towels.",
+    "Heat the water in a large saucepan over medium heat until it reaches 160°F.",
+    "Add the shallots, garlic, and rosemary to the water and simmer for 5 minutes.",
+    "Add the duck breast to the water and poach for 15-20 minutes, or until the internal temperature reaches 145°F.",
+    "Remove the duck from the water and let rest for 5 minutes.",
+    "Meanwhile, combine the orange marmalade, orange juice, and honey in a small saucepan over medium heat.",
+    "Bring the glaze to a simmer and cook for 5-7 minutes, or until it has thickened slightly.",
+    "Slice the duck breast and serve with the orange glaze spooned over the top.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "poached-duck",
+    "orange-glaze",
+    "french-cuisine",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-duck-poaching",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:17:21.903Z"
+}
