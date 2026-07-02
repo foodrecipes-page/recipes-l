@@ -1,0 +1,72 @@
+{
+  "slug": "lovely-leafy-venezuelan-prunes-wrap",
+  "title": "Venezuelan Wrap",
+  "description": "A delicious and healthy Venezuelan-inspired wrap filled with lovely leafy greens, savory venezuelan sausage, and sweet prunes.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Venezuelan sausage",
+      "amount": "4 oz",
+      "notes": "look for gluten-free options"
+    },
+    {
+      "name": "lovely leafy greens",
+      "amount": "2 cups",
+      "notes": "such as kale or spinach"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "gluten-free or whole wheat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat skillet over medium-high heat.",
+    "2. Cook the Venezuelan sausage until browned and cooked through, about 5 minutes.",
+    "3. Add the lovely leafy greens to the skillet and cook until wilted.",
+    "4. Add the chopped prunes to the skillet and stir to combine.",
+    "5. Warm the wrap in the microwave for 10-15 seconds.",
+    "6. Assemble the wrap by placing the sausage and green mixture onto the center of the wrap.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "9. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "latin-american",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-leafy-venezuelan-prunes-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:03:03.834Z"
+}
