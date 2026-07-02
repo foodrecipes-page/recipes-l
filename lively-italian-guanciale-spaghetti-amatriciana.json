@@ -1,0 +1,64 @@
+{
+  "slug": "lively-italian-guanciale-spaghetti-amatriciana",
+  "title": "Classic Amatriciana Pasta",
+  "description": "A hearty Italian pasta dish made with guanciale, tomatoes, and Pecorino cheese. Amatriciana is a classic Roman recipe that is easy to make and packed with flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Guanciale",
+      "amount": "6 slices",
+      "notes": "Italian cured pork jowl"
+    },
+    {
+      "name": "Lively Amatriciana Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Pecorino Romano Cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, cook the guanciale over medium heat until crispy.",
+    "Remove the guanciale from the skillet and set aside.",
+    "Add the lively amatriciana sauce to the skillet and stir to combine.",
+    "Add the cooked spaghetti to the skillet and toss with the sauce.",
+    "Return the guanciale to the skillet and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pasta to a serving dish and top with Pecorino Romano cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "guanciale",
+    "amatriciana"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-italian-guanciale-spaghetti-amatriciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:10:14.040Z"
+}
