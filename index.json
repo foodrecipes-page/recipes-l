@@ -7185,17 +7185,15 @@
   },
   {
     "slug": "light-thai-rigatoni-pasta",
-    "title": "Light Thai Rigatoni Pasta",
+    "title": "Light and Thai Rigatoni Pasta",
     "tags": [
-      "easy-to-make",
+      "pasta",
+      "vegetarian",
       "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "italian"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -11726,18 +11724,15 @@
   },
   {
     "slug": "lively-crispy-moroccan-chickpea-pudding",
-    "title": "Lively Crispy Moroccan Chickpea Pudding",
+    "title": "Crispy Chickpea and Moroccan Pudding Bites",
     "tags": [
-      "buddhist-friendly",
-      "dessert",
-      "gluten-free",
-      "meal-prep",
       "moroccan",
-      "savory-sweet",
-      "vegan"
+      "chickpea",
+      "pudding",
+      "crispy"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
