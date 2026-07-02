@@ -1,0 +1,74 @@
+{
+  "slug": "luscious-and-creamy-uruguayan-chicken-lasagna",
+  "title": "Uruguayan Creamy Chicken Lasagna",
+  "description": "A twist on the classic lasagna, featuring Uruguayan flavors and a creamy sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": "preferably Uruguayan brand"
+    },
+    {
+      "name": "Uruguayan chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Luscious ricotta cheese",
+      "amount": "1 cup",
+      "notes": "freshly made with luscious cream"
+    },
+    {
+      "name": "And cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Creamy grated Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to the package instructions.",
+    "Season the chicken breast with salt and black pepper.",
+    "Sear the chicken breast in a hot skillet until browned on both sides.",
+    "Transfer the chicken to a baking sheet and bake in the oven until cooked through.",
+    "In a separate skillet, melt the cream cheese over low heat.",
+    "Stir in the luscious ricotta cheese and creamy grated Parmesan cheese.",
+    "Combine the cooked lasagna noodles, Uruguayan chicken breast, and creamy cheese sauce.",
+    "Transfer the lasagna mixture to a baking dish and top with additional grated Parmesan cheese.",
+    "Bake in the oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "chicken",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-and-creamy-uruguayan-chicken-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:35:50.388Z"
+}
