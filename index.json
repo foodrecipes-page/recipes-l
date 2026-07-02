@@ -687,15 +687,15 @@
   },
   {
     "slug": "lazy-duck-poaching",
-    "title": "Lazy Duck Poaching",
+    "title": "Poached Duck Breast with Orange Glaze",
     "tags": [
-      "lazy-sunday-dish",
-      "egyptian-cuisine",
-      "paleo-friendly",
-      "spicy-flaky"
+      "poached-duck",
+      "orange-glaze",
+      "french-cuisine",
+      "meat"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 105,
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -4556,16 +4556,16 @@
   },
   {
     "slug": "light-garlicky-turkish-duck-bake",
-    "title": "Light Garlicky Turkish Duck Bake",
+    "title": "Garlicky Turkish Duck Bake",
     "tags": [
-      "duck-recipes",
-      "garlic-lovers",
-      "satvik-friendly",
-      "special-occasion",
-      "turkish-cuisine"
+      "turkish",
+      "duck",
+      "bake",
+      "garlicky",
+      "main-course"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 70,
     "shard": "l"
   },
   {
@@ -12566,13 +12566,14 @@
   },
   {
     "slug": "loomy-comforting-mung-bean-sproutsukju-pilaf",
-    "title": "Loomy Comforting Mung-bean-sproutsukju Pilaf",
+    "title": "Lemony Mung Bean Pilaf",
     "tags": [
-      "dairy-free",
-      "sour"
+      "healthy",
+      "easy-to-make",
+      "mung-beans"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -16603,18 +16604,14 @@
   },
   {
     "slug": "luscious-kenyan-bread-casserole",
-    "title": "Luscious Kenyan Bread Casserole",
+    "title": "Kenyan Bread Casserole",
     "tags": [
-      "bread-casserole",
-      "dutch-oven",
       "kenyan",
-      "kid-friendly",
-      "low-sodium",
-      "one-pot",
-      "rum-flavor"
+      "bread",
+      "casserole"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
