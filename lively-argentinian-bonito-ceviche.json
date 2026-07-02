@@ -1,0 +1,78 @@
+{
+  "slug": "lively-argentinian-bonito-ceviche",
+  "title": "Argentinian Grilled Bonito with Lively Ceviche Sauce",
+  "description": "A refreshing Argentinian-inspired dish featuring grilled bonito paired with a zesty ceviche sauce, perfect for a warm evening.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bonito Steaks",
+      "amount": "4 (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season bonito steaks with salt and pepper.",
+    "Grill bonito for 3-4 minutes per side or until cooked through.",
+    "In a bowl, combine red onion, cilantro, lime juice, olive oil, and garlic.",
+    "Stir to combine and adjust seasoning as needed.",
+    "To serve, place grilled bonito on a plate and spoon ceviche sauce over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "bonito",
+    "ceviche",
+    "lively"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-argentinian-bonito-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:23:00.526Z"
+}
