@@ -1,0 +1,93 @@
+{
+  "slug": "light-fermented-ethiopian-tortilla-stir-fry",
+  "title": "Ethiopian-Inspired Fermented Stew",
+  "description": "A flavorful and spicy stew from Ethiopia, incorporating fermented ingredients for added depth.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented cabbage",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tortilla chips",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and ginger; cook until onion is translucent.",
+    "Add garlic and cook for 1 minute.",
+    "Add stir-fry sauce and red pepper flakes; cook for 1 minute.",
+    "Add fermented cabbage, coconut milk, and tortilla chips.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and let cook for 15 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "fermented",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fermented-ethiopian-tortilla-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:36:48.348Z"
+}
