@@ -1,0 +1,68 @@
+{
+  "slug": "lively-crispy-moroccan-chickpea-pudding",
+  "title": "Crispy Chickpea and Moroccan Pudding Bites",
+  "description": "A unique dessert with a sweet and crunchy combination of crispy chickpea bites and creamy moroccan pudding.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Crispy Chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Moroccan Pudding Mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lively Lemon Zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the chickpeas and dry them thoroughly.",
+    "In a bowl, mix together the chickpeas, sugar, and lively lemon zest.",
+    "Pour the mixture onto a baking sheet and bake for 20 minutes, or until crispy.",
+    "In a separate bowl, mix together the moroccan pudding mix, butter, and vanilla extract.",
+    "Pour the pudding mixture into individual cups or ramekins.",
+    "Top each pudding with a few crispy chickpea bites.",
+    "Chill in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "chickpea",
+    "pudding",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-crispy-moroccan-chickpea-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:55:35.019Z"
+}
