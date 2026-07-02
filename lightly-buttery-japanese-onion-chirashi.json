@@ -1,0 +1,78 @@
+{
+  "slug": "lightly-buttery-japanese-onion-chirashi",
+  "title": "Buttery Chirashi Rice Bowl",
+  "description": "A simple and flavorful Japanese-inspired dish featuring buttery sushi rice, onion, and chirashi.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lightly salted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "chirashi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Cook sushi rice according to package instructions.",
+    "In a small saucepan, melt 1 tablespoon of butter over low heat.",
+    "Add soy sauce, mirin, and sesame seeds to the saucepan and stir until combined.",
+    "In a large saucepan, heat 1 tablespoon of butter over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add chirashi to the saucepan and cook for an additional 2 minutes.",
+    "In a large bowl, combine cooked sushi rice and soy sauce mixture.",
+    "Top with chirashi mixture, green onions, and additional butter if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "lunch",
+    "vegetarian",
+    "easy",
+    "chirashi"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-buttery-japanese-onion-chirashi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:03:13.268Z"
+}
