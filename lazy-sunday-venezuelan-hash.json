@@ -1,0 +1,79 @@
+{
+  "slug": "lazy-sunday-venezuelan-hash",
+  "title": "Venezuelan-Style Sunday Hash",
+  "description": "A traditional Venezuelan breakfast dish made with crispy hash and topped with fried eggs and cheese. Perfect for a lazy Sunday morning.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "Venezuelan-style hash or shredded plantains"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the hash to the skillet and cook until crispy and golden brown, about 5-7 minutes.",
+    "Flip the hash and cook for an additional 2-3 minutes.",
+    "In a separate bowl, beat the eggs and season with salt and pepper.",
+    "Add the eggs to the skillet with the hash and cook until the eggs are set.",
+    "Sprinkle the mozzarella cheese on top of the eggs and hash.",
+    "Transfer the skillet to the oven and bake at 375°F (190°C) for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Cook time for the eggs and hash: 10-12 minutes."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "venezuelan",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-venezuelan-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:59:16.895Z"
+}
