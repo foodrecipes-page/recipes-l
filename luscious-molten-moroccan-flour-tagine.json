@@ -1,0 +1,69 @@
+{
+  "slug": "luscious-molten-moroccan-flour-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A slow-cooked stew originating from Morocco, typically made with meat or vegetables. This recipe combines the rich flavors of the tagine with the comfort of a hearty chicken stew.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast or Thighs",
+      "amount": "1 lb (450g)",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan Spice Blend",
+      "amount": "2 tbsp (30g)",
+      "notes": "Use a store-bought or homemade blend for best results"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tbsp (30g)",
+      "notes": "use for dusting chicken"
+    },
+    {
+      "name": "Luscious Olives",
+      "amount": "1 cup (120g)",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Molten Honey",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the chicken with salt, pepper, and flour. Dust off excess.",
+    "Heat a large Dutch oven over medium heat. Add a small amount of oil and sear the chicken on all sides until browned.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the Moroccan spice blend to the pot and cook for 1 minute, until fragrant.",
+    "Add the sliced olives and cook for an additional 2 minutes.",
+    "Return the chicken to the pot and add the honey.",
+    "Cover the pot with a tight-fitting lid and transfer it to the preheated oven.",
+    "Bake for 45-50 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-molten-moroccan-flour-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:09:55.802Z"
+}
