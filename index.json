@@ -7963,16 +7963,15 @@
   },
   {
     "slug": "lightly-buttery-japanese-onion-chirashi",
-    "title": "Lightly Buttery Japanese Onion Chirashi",
+    "title": "Buttery Chirashi Rice Bowl",
     "tags": [
-      "banana-leaf",
-      "high-protein",
-      "japanese-cuisine",
-      "kansai-style",
-      "one-pan",
-      "weeknight"
+      "japanese",
+      "lunch",
+      "vegetarian",
+      "easy",
+      "chirashi"
     ],
-    "cuisine": "Japanese",
+    "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -12386,14 +12385,12 @@
   },
   {
     "slug": "lively-zesty-uruguayan-prawns-ceviche",
-    "title": "Lively Zesty Uruguayan Prawns Ceviche",
+    "title": "Uruguayan Prawn Ceviche",
     "tags": [
-      "brine-wet",
-      "ceviche",
-      "hot-stone",
-      "ovo-vegetarian",
       "uruguayan",
-      "weeknight"
+      "ceviche",
+      "prawns",
+      "fish-and-seafood"
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 15,
@@ -13500,17 +13497,14 @@
   },
   {
     "slug": "lovely-leafy-venezuelan-prunes-wrap",
-    "title": "Lovely Leafy Venezuelan Prunes Wrap",
+    "title": "Venezuelan Wrap",
     "tags": [
-      "comfort-food",
-      "gluten-free",
       "latin-american",
-      "leafy-greens",
-      "prune-based",
-      "vegan-friendly"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
