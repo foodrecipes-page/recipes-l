@@ -1,0 +1,82 @@
+{
+  "slug": "light-spanish-tofu-crema-catalana",
+  "title": "Spanish Catalana Crema Stuffed Tofu",
+  "description": "A fusion twist on traditional tofu dishes, this Spanish Catalana Crema Stuffed Tofu features a silky crema filling, wrapped in a light and crispy Spanish-style tofu.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-Firm Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Spanish-Style Crema",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Catalana Olive Tapenade",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Light Breading Mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Wrap the tofu block in a clean kitchen towel to remove excess moisture.",
+    "3. In a shallow dish, mix the crema and olive tapenade.",
+    "4. Cut the tofu in half lengthwise and fill each half with the crema mixture.",
+    "5. In a separate shallow dish, mix the light breading mix and olive oil.",
+    "6. Coat each tofu half in the breading mix, pressing gently to adhere.",
+    "7. Place the breaded tofu halves on a baking sheet lined with parchment paper.",
+    "8. Bake for 25-30 minutes or until golden brown and crispy.",
+    "9. Season with salt and black pepper to taste.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "crema",
+    "catalana",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-spanish-tofu-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:24:05.896Z"
+}
