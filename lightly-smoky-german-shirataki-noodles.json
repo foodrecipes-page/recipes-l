@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-smoky-german-shirataki-noodles",
+  "title": "Smoky German Noodle Stir-Fry",
+  "description": "A quick and easy German-inspired stir-fry made with smoky noodles, shirataki noodles, and a hint of smokiness.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky noodles",
+      "amount": "250g",
+      "notes": "preferably lightly steamed"
+    },
+    {
+      "name": "Shirataki noodles",
+      "amount": "200g",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "German mustard",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook shirataki noodles according to package instructions.",
+    "Heat a pan over medium-high heat and cook the chopped onion until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the smoky noodles to the pan and stir-fry for 2-3 minutes.",
+    "Add the cooked shirataki noodles to the pan and stir-fry for another 2-3 minutes.",
+    "If using, add German mustard and soy sauce, and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "stir-fry",
+    "noodle",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "8g",
+    "carbs": "55g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-german-shirataki-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:38:44.456Z"
+}
