@@ -261,18 +261,17 @@
   },
   {
     "slug": "lamb-kicked-by-wok-fluffy-lamb-dim-sum",
-    "title": "Lamb Kicked by Wok Fluffy Lamb Dim-Sum",
+    "title": "Lamb Kebab Dim Sum",
     "tags": [
-      "chinese",
-      "date-night",
-      "fermented",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "weeknight"
+      "kebab",
+      "dim-sum",
+      "fusion",
+      "asian",
+      "middle-eastern"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 32,
+    "cuisine": "Chinese-Middle Eastern",
+    "totalTimeMin": 23,
     "shard": "l"
   },
   {
@@ -4380,16 +4379,14 @@
   },
   {
     "slug": "light-fresh-algerian-oats-tagine",
-    "title": "Light Fresh Algerian Oats Tagine",
+    "title": "Spicy Algerian Oat Tagine",
     "tags": [
-      "algerian",
-      "oats",
-      "tagine",
-      "low-fat",
-      "snack",
-      "midnight-craving"
+      "north african",
+      "slow cooker",
+      "vegetarian",
+      "gluten free"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -5067,11 +5064,12 @@
   },
   {
     "slug": "light-japanese-skirt-steak-stir-fry",
-    "title": "Light Japanese Skirt Steak Stir-fry",
+    "title": "Pan-Seared Skirt Steak with Stir Fry",
     "tags": [
-      "light-japanese-stir-fry",
-      "low-fat-friendly",
-      "fresh-skirt-steak"
+      "grilling",
+      "skirt steak",
+      "stir fry",
+      "japanese"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 35,
@@ -14729,18 +14727,14 @@
   },
   {
     "slug": "low-carb-friendly-french-bramley-apples-coq-au-vin",
-    "title": "Low-Carb Friendly French Bramley Apples Coq Au Vin",
+    "title": "Bramley Apple Coq au Vin",
     "tags": [
-      "comfort-food",
-      "easy-prep",
-      "french",
       "low-carb",
-      "one-pan",
-      "red-meat",
-      "weeknight"
+      "french",
+      "chicken"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -16295,16 +16289,14 @@
   },
   {
     "slug": "luscious-gooey-moroccan-pecan-nuts-tagine",
-    "title": "Luscious Gooey Moroccan Pecan Nuts Tagine",
+    "title": "Moroccan Pecan Tagine",
     "tags": [
-      "comfort-food",
-      "low-sodium",
-      "moroccan-cuisine",
-      "one-pan",
-      "sick-day-meals"
+      "dessert",
+      "moroccan",
+      "pecans"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 27,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -16382,16 +16374,13 @@
   },
   {
     "slug": "luscious-indian-pork-tenderloin-skillet",
-    "title": "Luscious Indian Pork Tenderloin Skillet",
+    "title": "Tender Skillet Pork Tenderloin",
     "tags": [
-      "cheese-pull",
       "indian",
-      "one-pan",
-      "pork",
-      "quick",
-      "weeknight"
+      "skillet-cooked",
+      "pork"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "l"
   },
