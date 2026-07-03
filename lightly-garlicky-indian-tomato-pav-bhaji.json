@@ -1,0 +1,59 @@
+{
+  "slug": "lightly-garlicky-indian-tomato-pav-bhaji",
+  "title": "Garlicky Pav Bhaji",
+  "description": "A popular Indian street food dish made with a flavorful mixture of vegetables and pav bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lightly toasted pav bread",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Garlicky bhaji mixture",
+      "amount": "1 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tsp",
+      "notes": "cumin, coriander, turmeric"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and sauté the diced tomatoes until they're soft and fragrant.",
+    "Add the cumin, coriander, and turmeric to the pan and stir for 1 minute.",
+    "Add 1 cup of water to the pan and bring it to a boil.",
+    "Reduce heat and simmer the mixture for 10-15 minutes or until it thickens.",
+    "Stir in the lightly toasted pav bread to soak up the flavorful mixture.",
+    "Serve the garlicky pav bhaji hot with a dollop of butter on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "street-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-garlicky-indian-tomato-pav-bhaji",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:03:39.988Z"
+}
