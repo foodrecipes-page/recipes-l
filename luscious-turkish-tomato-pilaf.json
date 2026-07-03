@@ -1,0 +1,51 @@
+{
+  "slug": "luscious-turkish-tomato-pilaf",
+  "title": "Turkish Stuffed Pilaf Balls",
+  "description": "A twist on traditional Turkish pilaf, these bite-sized balls are filled with a flavorful mixture of spices and herbs. Perfect as an appetizer or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "luscious pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "turkish tomato",
+      "amount": "1/2 cup, diced",
+      "notes": null
+    },
+    {
+      "name": "turkish spices",
+      "amount": "1 tsp",
+      "notes": "cumin, paprika, and sumac"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large mixing bowl, combine the pilaf, diced tomato, and Turkish spices.",
+    "3. Using your hands, shape the mixture into small balls, about 1-inch in diameter.",
+    "4. Place the balls onto a baking sheet lined with parchment paper.",
+    "5. Bake for 15-20 minutes, or until the tops are lightly browned.",
+    "6. Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "snack",
+    "appetizer",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-turkish-tomato-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:48:54.752Z"
+}
