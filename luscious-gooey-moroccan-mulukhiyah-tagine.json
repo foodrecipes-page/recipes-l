@@ -1,0 +1,74 @@
+{
+  "slug": "luscious-gooey-moroccan-mulukhiyah-tagine",
+  "title": "Moroccan Mulukhiyah Tagine",
+  "description": "A traditional Moroccan stew made with mulukhiyah and a blend of spices, slow-cooked in a clay pot. This hearty and flavorful dish is perfect for a cold evening.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mulukhiyah",
+      "amount": "2 cups"
+    },
+    {
+      "name": "luscious olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 large, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the mulukhiyah, spice blend, salt, and pepper. Stir to combine.",
+    "Add the tagine and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "mulukhiyah",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-gooey-moroccan-mulukhiyah-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:09:38.623Z"
+}
