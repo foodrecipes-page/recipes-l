@@ -1,0 +1,77 @@
+{
+  "slug": "light-japanese-skirt-steak-stir-fry",
+  "title": "Pan-Seared Skirt Steak with Stir Fry",
+  "description": "A Japanese-inspired recipe featuring a pan-seared skirt steak served with a light stir fry.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt Steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably flank steak or skirt steak"
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Stir Fry Vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large skillet over medium-high heat.",
+    "2. Season the skirt steak with salt and pepper.",
+    "3. Add 1 tablespoon of sesame oil to the skillet and sear the skirt steak for 3-4 minutes per side.",
+    "4. Remove the skirt steak from the skillet and let it rest for 5 minutes.",
+    "5. In the same skillet, add 1 tablespoon of light soy sauce and stir to combine.",
+    "6. Add the stir fry vegetables to the skillet and cook for 3-4 minutes, or until tender.",
+    "7. Slice the skirt steak against the grain and serve with the stir fry and green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "skirt steak",
+    "stir fry",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-japanese-skirt-steak-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:42:21.700Z"
+}
