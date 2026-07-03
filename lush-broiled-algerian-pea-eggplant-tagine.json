@@ -1,0 +1,80 @@
+{
+  "slug": "lush-broiled-algerian-pea-eggplant-tagine",
+  "title": "Lush Algerian Eggplant Tagine",
+  "description": "A flavorful North African-inspired stew made with tender eggplant, rich tagine sauce, and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought tagine sauce"
+    },
+    {
+      "name": "algerian",
+      "amount": "1 tsp",
+      "notes": "ground cumin and coriander blend"
+    },
+    {
+      "name": "pea",
+      "amount": "1 cup",
+      "notes": "fresh or frozen peas"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing eggplant"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the eggplant into 1-inch thick rounds and brush with olive oil.",
+    "Season the eggplant with salt and pepper.",
+    "Place the eggplant slices on a baking sheet and roast in the oven for 20-25 minutes, or until tender.",
+    "In a large saucepan, heat the tagine sauce over medium heat.",
+    "Add the roasted eggplant slices to the saucepan and simmer for 5-7 minutes.",
+    "Stir in the peas and cook for an additional 2-3 minutes.",
+    "Season with algerian spice blend and serve hot.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "tagine",
+    "algerian",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-broiled-algerian-pea-eggplant-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:25:20.589Z"
+}
