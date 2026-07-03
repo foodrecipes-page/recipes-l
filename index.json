@@ -2748,17 +2748,15 @@
   },
   {
     "slug": "light-and-malty-japanese-rice-donburi",
-    "title": "Light and Malt Japanese Rice Donburi",
+    "title": "Japanese Donburi Rice Bowl",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "paleo-friendly",
-      "sick-day",
-      "weeknight"
+      "japanese",
+      "rice",
+      "chicken",
+      "grilled"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -9111,17 +9109,15 @@
   },
   {
     "slug": "lightly-grilled-mediterranean-lamb-skewers",
-    "title": "Lightly Grilled Mediterranean Lamb Skewers",
+    "title": "Lamb Skewers with Mediterranean Flair",
     "tags": [
+      "lamb",
       "grilled",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "skewers",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 36,
     "shard": "l"
   },
   {
