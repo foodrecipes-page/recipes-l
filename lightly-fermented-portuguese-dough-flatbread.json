@@ -1,0 +1,64 @@
+{
+  "slug": "lightly-fermented-portuguese-dough-flatbread",
+  "title": "Portuguese Flatbread",
+  "description": "Simple, crispy flatbread originating from Portugal. Paired well with various cheeses and cured meats.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dough",
+      "amount": "3% of flour weight (optional)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Mix flour, salt, and dough (if using) in a large bowl.",
+    "2. Gradually add water while kneading the dough for 5 minutes.",
+    "3. Rest the dough for 30 minutes.",
+    "4. Divide dough into 2-4 portions depending on desired flatbread size.",
+    "5. Roll out each portion into a thin circle.",
+    "6. Brush with olive oil.",
+    "7. Heat a non-stick skillet over medium heat.",
+    "8. Cook flatbread for 1-2 minutes per side or until golden brown.",
+    "9. Let cool on a wire rack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "flatbread",
+    "bread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-fermented-portuguese-dough-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:25:19.538Z"
+}
