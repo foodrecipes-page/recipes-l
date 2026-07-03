@@ -2298,16 +2298,14 @@
   },
   {
     "slug": "lemongrass-braised-crisp-dish",
-    "title": "Lemongrass Braised Crisp Dish",
+    "title": "Thai Lemongrass Chicken Braised Dish",
     "tags": [
+      "thaifood",
       "lemongrass",
-      "brazilian",
-      "peppery",
-      "crisp",
-      "dinner"
+      "braised"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "cuisine": "Thai",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
@@ -19427,16 +19425,14 @@
   },
   {
     "slug": "luxurious-velvety-german-tomato-stew",
-    "title": "Luxurious Velvety German Tomato Stew",
+    "title": "German Beef Stew",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "gluten-free",
-      "one-pot",
-      "vegetarian"
+      "german",
+      "beef-stew",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "german",
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
