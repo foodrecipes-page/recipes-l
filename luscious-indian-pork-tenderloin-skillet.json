@@ -1,0 +1,92 @@
+{
+  "slug": "luscious-indian-pork-tenderloin-skillet",
+  "title": "Tender Skillet Pork Tenderloin",
+  "description": "A flavorful and tender pork tenderloin cooked to perfection in a skillet with an Indian-inspired spice blend.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "pork-free",
+    "dairy-free",
+    "vegan-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 (1 pound) piece",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "luscious",
+      "amount": "1/4 cup",
+      "notes": "Indian-inspired spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Season the pork tenderloin with salt, black pepper, and a pinch of luscious spice blend.",
+    "Add the olive oil to the preheated skillet and swirl to coat.",
+    "Sear the pork tenderloin for 2-3 minutes per side, or until browned.",
+    "Remove the pork from the skillet and set aside.",
+    "Reduce the heat to medium and add the minced garlic and grated ginger to the skillet.",
+    "Cook for 1-2 minutes, or until fragrant.",
+    "Return the pork tenderloin to the skillet and brush with lemon juice.",
+    "Cook for an additional 5-7 minutes, or until the pork reaches an internal temperature of 145°F.",
+    "Let the pork rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "skillet-cooked",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-indian-pork-tenderloin-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:57:30.355Z"
+}
