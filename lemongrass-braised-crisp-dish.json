@@ -1,0 +1,90 @@
+{
+  "slug": "lemongrass-braised-crisp-dish",
+  "title": "Thai Lemongrass Chicken Braised Dish",
+  "description": "A delicious and aromatic Thai-inspired braised dish made with lemongrass, chicken, and a mixture of vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary and sauté the onions and garlic until softened.",
+    "Add lemongrass and sauté for 1 minute.",
+    "Add carrots and cook for 5 minutes.",
+    "Add coconut milk, fish sauce, brown sugar, and soy sauce.",
+    "Return chicken to the pot and bring to a simmer.",
+    "Cover and transfer to the oven and braise for 30 minutes.",
+    "Serve hot garnished with chopped lemongrass and fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "lemongrass",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemongrass-braised-crisp-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:07:26.661Z"
+}
