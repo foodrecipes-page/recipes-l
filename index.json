@@ -5407,15 +5407,13 @@
   },
   {
     "slug": "light-malaysian-fish-bun",
-    "title": "Light Malaysian Fish Bun",
+    "title": "Fried Fish Bun",
     "tags": [
-      "malaysian",
       "fish",
-      "bun",
-      "steamed",
-      "lazy-sunday"
+      "malaysian",
+      "fried"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 25,
     "shard": "l"
   },
@@ -6048,17 +6046,16 @@
   },
   {
     "slug": "light-peruvian-pork-tenderloin-chupe",
-    "title": "Light Peruvian Pork Tenderloin Chupe",
+    "title": "Peruvian-Style Grilled Pork Tenderloin with Chupe",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
       "peruvian",
-      "weeknight",
-      "weeknight-dinner"
+      "grilled",
+      "pork",
+      "tenderloin",
+      "chupe"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
@@ -17935,16 +17932,14 @@
   },
   {
     "slug": "lush-broiled-algerian-pea-eggplant-tagine",
-    "title": "Lush Broiled Algerian Pea Eggplant Tagine",
+    "title": "Lush Algerian Eggplant Tagine",
     "tags": [
-      "algerian-cuisine",
-      "fermented-flavors",
-      "low-carb",
-      "one-pot",
-      "plant-based",
-      "spicy-dinner"
+      "eggplant",
+      "tagine",
+      "algerian",
+      "north-african"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 45,
     "shard": "l"
   },
