@@ -1,0 +1,74 @@
+{
+  "slug": "light-canadian-parmigiano-reggiano-crumble",
+  "title": "Crunchy Parmesan Crumble Chicken Breasts",
+  "description": "A delicious and easy-to-make chicken dish topped with a crunchy parmesan crumble, perfect for a quick dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "1 cup crumble",
+      "amount": "1/2 cup each of light and reggiano",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup grated parmesan",
+      "amount": "reggiano",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "for cooking and drizzling",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breasts with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breasts and cook for 2-3 minutes on each side, until browned.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "In a small bowl, mix together the crumble, parmesan, and garlic.",
+    "Sprinkle the crumble mixture evenly over the chicken breasts.",
+    "Bake in the preheated oven for 15-20 minutes, until the chicken is cooked through and the crumble is golden brown.",
+    "Serve hot, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "italian",
+    "parmesan",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-canadian-parmigiano-reggiano-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:17:26.812Z"
+}
