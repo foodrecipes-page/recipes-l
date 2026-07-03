@@ -1,0 +1,86 @@
+{
+  "slug": "lightly-spicy-norwegian-egg-frittata",
+  "title": "Norwegian Spicy Frittata",
+  "description": "A twist on the classic frittata, this Norwegian-inspired dish combines spicy sausage with eggs and cheese for a bold breakfast option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Spicy sausage",
+      "amount": "1 pound",
+      "notes": "Use Norwegian-inspired sausage for the best flavor"
+    },
+    {
+      "name": "Eggs",
+      "amount": "6",
+      "notes": "Large eggs work best for frittatas"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": "Adds richness and creaminess to the dish"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Sharp cheddar works best for this recipe"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground black pepper is essential"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted butter works best for this recipe"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": "Adds a pop of color and freshness to the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté the spicy sausage in a large skillet over medium-high heat until browned, about 5 minutes.",
+    "Remove the cooked sausage from the skillet and set aside.",
+    "In the same skillet, add the butter and let it melt over medium heat.",
+    "Pour in the eggs and cook until the edges start to set, about 3-4 minutes.",
+    "Sprinkle the grated cheese over the top of the eggs and transfer the skillet to the preheated oven.",
+    "Bake for 12-15 minutes, or until the eggs are set and the cheese is melted and golden brown.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley (if using).",
+    "Slice the frittata into wedges and serve immediately.",
+    "Serve with toasted bread or hash browns for a hearty breakfast option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "norwegian",
+    "spicy",
+    "eggs",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spicy-norwegian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:04:40.996Z"
+}
