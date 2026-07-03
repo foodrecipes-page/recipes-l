@@ -3260,15 +3260,14 @@
   },
   {
     "slug": "light-canadian-parmigiano-reggiano-crumble",
-    "title": "Light Canadian Parmigiano‑Reggiano Crumble",
+    "title": "Crunchy Parmesan Crumble Chicken Breasts",
     "tags": [
-      "dessert",
-      "low-fat",
-      "canadian",
-      "crumble",
-      "vegetarian"
+      "chicken",
+      "italian",
+      "parmesan",
+      "crumble"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "Italian",
     "totalTimeMin": 30,
     "shard": "l"
   },
@@ -3588,18 +3587,15 @@
   },
   {
     "slug": "light-crispy-tunisian-jalapeno-flatbread",
-    "title": "Light Crispy Tunisian Jalapeno Flatbread",
+    "title": "Tunisian Flatbread with Spicy Jalapeno Topping",
     "tags": [
-      "crispy",
-      "flatbread",
-      "jalapeno",
-      "north-african",
-      "plant-based",
+      "appetizer",
       "snack",
-      "tunisian"
+      "north-african",
+      "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
