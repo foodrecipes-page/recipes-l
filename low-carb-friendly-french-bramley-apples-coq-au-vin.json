@@ -1,0 +1,86 @@
+{
+  "slug": "low-carb-friendly-french-bramley-apples-coq-au-vin",
+  "title": "Bramley Apple Coq au Vin",
+  "description": "A low-carb twist on the classic French dish, featuring tender chicken in a rich apple and red wine sauce.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Bramley apples",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Low-carb red wine",
+      "amount": "1 cup",
+      "notes": "such as Merlot or Cabernet"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes. Remove from the skillet and set aside.",
+    "Add the butter to the skillet and melt. Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced apples and cook for 2-3 minutes, or until they begin to soften.",
+    "Add the red wine to the skillet and bring to a simmer.",
+    "Return the chicken to the skillet and cook until the sauce has thickened and the chicken is cooked through, about 5 minutes.",
+    "Season with thyme and salt to taste.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "french",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-carb-friendly-french-bramley-apples-coq-au-vin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:44:45.324Z"
+}
