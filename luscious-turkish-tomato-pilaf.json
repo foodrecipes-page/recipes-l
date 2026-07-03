@@ -1,51 +1,67 @@
 {
   "slug": "luscious-turkish-tomato-pilaf",
-  "title": "Turkish Stuffed Pilaf Balls",
-  "description": "A twist on traditional Turkish pilaf, these bite-sized balls are filled with a flavorful mixture of spices and herbs. Perfect as an appetizer or snack.",
+  "title": "Turkish Pilaf with Luscious Tomatoes",
+  "description": "A flavorful and aromatic Turkish-inspired pilaf dish loaded with juicy tomatoes and a hint of sweetness.",
   "cuisine": "Turkish",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
-  "meal": "snack",
+  "diet": null,
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "luscious pilaf",
-      "amount": "1 cup",
-      "notes": null
+      "name": "Turkish pilaf",
+      "amount": "1 cup"
     },
     {
-      "name": "turkish tomato",
-      "amount": "1/2 cup, diced",
-      "notes": null
+      "name": "luscious tomatoes",
+      "amount": "2 medium",
+      "notes": "Chopped"
     },
     {
-      "name": "turkish spices",
-      "amount": "1 tsp",
-      "notes": "cumin, paprika, and sumac"
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "Chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
     }
   ],
   "instructions": [
-    "1. Preheat the oven to 375°F (190°C).",
-    "2. In a large mixing bowl, combine the pilaf, diced tomato, and Turkish spices.",
-    "3. Using your hands, shape the mixture into small balls, about 1-inch in diameter.",
-    "4. Place the balls onto a baking sheet lined with parchment paper.",
-    "5. Bake for 15-20 minutes, or until the tops are lightly browned.",
-    "6. Serve warm, garnished with fresh herbs if desired."
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add chopped tomatoes and cook for 5 minutes.",
+    "Add Turkish pilaf and stir to combine with tomato mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and garnish with chopped fresh herbs if desired.",
+    "Optional: Add a sprinkle of sumac for added flavor and color.",
+    "Serve immediately and enjoy!"
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
     "turkish",
-    "snack",
-    "appetizer",
-    "vegetarian"
+    "pilaf",
+    "tomatoes"
   ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/luscious-turkish-tomato-pilaf",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T16:48:54.752Z"
+  "createdAt": "2026-07-02T05:56:05.575Z"
 }
