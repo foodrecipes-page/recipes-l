@@ -1,0 +1,77 @@
+{
+  "slug": "light-smoky-irish-fish-pilaf",
+  "title": "Smoked Salmon Pilaf",
+  "description": "A flavorful and healthy pilaf dish made with smoked salmon, pilaf rice, and light herbs. This dish is perfect for a light lunch or dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "6 oz",
+      "notes": "preferably wild-caught"
+    },
+    {
+      "name": "Pilaf Rice",
+      "amount": "1 cup",
+      "notes": "preferably jasmine or basmati"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Irish Butter",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large saucepan over medium heat.",
+    "Add 1 cup of pilaf rice and sauté for 2-3 minutes until lightly toasted.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 15-20 minutes until the rice is cooked.",
+    "While the rice is cooking, mix 6 oz of smoked salmon with 1 tsp of chopped fresh dill, 1 tsp of Irish butter (if using), salt, and black pepper.",
+    "Once the rice is cooked, fluff it with a fork and add the smoked salmon mixture on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-salmon",
+    "pilaf",
+    "irish",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-smoky-irish-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:29:41.036Z"
+}
