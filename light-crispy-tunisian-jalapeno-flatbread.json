@@ -1,0 +1,73 @@
+{
+  "slug": "light-crispy-tunisian-jalapeno-flatbread",
+  "title": "Tunisian Flatbread with Spicy Jalapeno Topping",
+  "description": "A crispy flatbread topped with a spicy Tunisian-inspired spread, perfect as an appetizer or snack.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "preferably light and crispy"
+    },
+    {
+      "name": "Tunisian Olives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jalapeno",
+      "amount": "2-3",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the jalapenos and place on a baking sheet.",
+    "Drizzle with olive oil and roast for 10-12 minutes, or until softened.",
+    "In a bowl, mix together chopped olives, minced garlic, lemon juice, and a pinch of salt.",
+    "Brush the flatbread with olive oil and top with the Tunisian spread.",
+    "Bake in the oven for 5-7 minutes, or until the flatbread is crispy and the spread is heated through.",
+    "Remove from the oven and top with the roasted jalapenos.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "north-african",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-crispy-tunisian-jalapeno-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:22:51.207Z"
+}
