@@ -1,0 +1,91 @@
+{
+  "slug": "lamb-kicked-by-wok-fluffy-lamb-dim-sum",
+  "title": "Lamb Kebab Dim Sum",
+  "description": "A fusion of Asian and Middle Eastern flavors in a crispy dim sum wrapper.",
+  "cuisine": "Chinese-Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Kicked",
+      "amount": "",
+      "notes": "Assuming 'kicked' meant kick of flavors, this ingredient is likely a spice blend. Ignoring for this recipe."
+    },
+    {
+      "name": "Dim sum wrappers",
+      "amount": "1 package",
+      "notes": "Typically found in the frozen food section"
+    },
+    {
+      "name": "Fluffy",
+      "amount": "",
+      "notes": "Assuming 'fluffy' meant fluffy rice. Ignoring for this recipe."
+    },
+    {
+      "name": "Lamb",
+      "amount": "",
+      "notes": "You already have lamb. Removing redundancy."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing the dim sum wrappers"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F.",
+    "Cut the lamb into small pieces and mix with salt, black pepper, and any other desired spices.",
+    "Place a few pieces of lamb onto the center of a dim sum wrapper.",
+    "Brush the edges of the wrapper with oil and fold the wrapper into a triangle.",
+    "Repeat with the remaining wrappers and lamb.",
+    "Fry the dim sum for 2-3 minutes on each side, or until golden brown.",
+    "Serve hot with green onions as garnish.",
+    "Optional: Serve with a side of sweet chili sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebab",
+    "dim-sum",
+    "fusion",
+    "asian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lamb-kicked-by-wok-fluffy-lamb-dim-sum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:54:10.044Z"
+}
