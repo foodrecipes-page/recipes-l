@@ -1,0 +1,66 @@
+{
+  "slug": "light-malaysian-fish-bun",
+  "title": "Fried Fish Bun",
+  "description": "A Malaysian-inspired dish, featuring crispy fried fish served on a soft bun. Perfect for a light meal or snack.",
+  "cuisine": "malaysian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish (any white fish)",
+      "amount": "4 pieces",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Bun",
+      "amount": "4 buns",
+      "notes": "Soft bun"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Malaysian chili sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Dredge the fish pieces in salt to coat.",
+    "Fry the fish pieces until golden brown, about 3-4 minutes.",
+    "Drain the fried fish on paper towels.",
+    "Split the buns in half and toast until lightly browned.",
+    "Assemble the buns by placing a few pieces of fried fish on each bun.",
+    "Serve immediately, with optional Malaysian chili sauce on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "malaysian",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-malaysian-fish-bun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:12:08.080Z"
+}
