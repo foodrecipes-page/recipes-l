@@ -8639,17 +8639,15 @@
   },
   {
     "slug": "lightly-fermented-portuguese-dough-flatbread",
-    "title": "Lightly Fermented Portuguese Dough Flatbread",
+    "title": "Portuguese Flatbread",
     "tags": [
-      "fermented-dough",
+      "portuguese",
       "flatbread",
-      "fodmap-friendly",
-      "gherkin-relish",
-      "midnight-craving",
-      "portuguese-cuisine"
+      "bread",
+      "snack"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "portuguese",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -16271,16 +16269,15 @@
   },
   {
     "slug": "luscious-gooey-moroccan-mulukhiyah-tagine",
-    "title": "Luscious Gooey Moroccan Mulukhiyah Tagine",
+    "title": "Moroccan Mulukhiyah Tagine",
     "tags": [
-      "dairy-free",
-      "gluten-free",
       "moroccan",
       "mulukhiyah",
-      "vegan"
+      "tagine",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
