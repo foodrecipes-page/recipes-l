@@ -1,0 +1,84 @@
+{
+  "slug": "light-smoky-british-tofu-cornish-pasty",
+  "title": "Cornish Pasty Tofu Wrap",
+  "description": "A twist on the classic Cornish pasty, filled with tofu and served in a crispy wrap.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Cornish pastry wrap",
+      "amount": "2 wraps",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Lightly seasoned black beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Roasted corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoky BBQ sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Wrap the Cornish pastry wraps in a damp cloth and warm them up in the microwave for 20 seconds.",
+    "Cut the tofu into small cubes and cook in the pan for 3-4 minutes, until golden brown.",
+    "Add the lightly seasoned black beans, roasted corn, and shredded cabbage to the pan and cook for a further 2-3 minutes.",
+    "Brush the smoky BBQ sauce over the tofu and bean mixture.",
+    "Warm the Cornish pastry wraps in the microwave for another 10 seconds.",
+    "Assemble the wraps by spooning the tofu and bean mixture onto the center of each wrap, followed by a sprinkle of chopped cilantro.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy!",
+    "Optional: Serve with additional smoky BBQ sauce on the side for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cornish",
+    "pasty",
+    "tofu",
+    "wrap",
+    "british",
+    "veggie",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-smoky-british-tofu-cornish-pasty",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:17:59.685Z"
+}
