@@ -1,0 +1,75 @@
+{
+  "slug": "lightly-roasted-polish-banana-bake",
+  "title": "Polish Banana Bake",
+  "description": "A delicious dessert recipe featuring caramelized bananas in a crispy polish pastry crust.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Polish pastry dough",
+      "amount": "1 sheet (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Lightly roasted banana",
+      "amount": "3-4",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the polish pastry dough to a thickness of about 1/8 inch.",
+    "In a large bowl, mix together the sliced bananas, granulated sugar, and cinnamon.",
+    "Place the banana mixture onto one half of the pastry dough, leaving a 1/2 inch border around the edges.",
+    "Dot the top of the banana mixture with the unsalted butter.",
+    "Brush the edges of the pastry dough with the beaten egg.",
+    "Fold the other half of the pastry dough over the filling, pressing the edges to seal.",
+    "Use a knife to trim any excess pastry dough and create a decorative edge.",
+    "Place the banana bake on a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown and the bananas are caramelized.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "polish",
+    "banana"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-roasted-polish-banana-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:18:59.441Z"
+}
