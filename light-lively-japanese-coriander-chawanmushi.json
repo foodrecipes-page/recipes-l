@@ -1,0 +1,88 @@
+{
+  "slug": "light-lively-japanese-coriander-chawanmushi",
+  "title": "Japanese-Style Steamed Egg Custard (Chawanmushi)",
+  "description": "A traditional Japanese dish made with steamed egg custard, typically served as a side or light meal. This version is infused with the flavors of coriander and served in a delicate cup.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chawanmushi cups",
+      "amount": "6-8",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "dashi powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": " mirin",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine water, soy sauce, sugar, coriander seeds, and salt in a saucepan. Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Add dashi powder and stir to combine.",
+    "In a separate bowl, whisk together eggs and mirin.",
+    "Strain the dashi mixture into a clean bowl, discarding the solids.",
+    "Add the egg mixture to the dashi mixture and whisk until smooth.",
+    "Pour the mixture into the chawanmushi cups.",
+    "Steam the cups over boiling water for 12-15 minutes, or until the egg is set.",
+    "Remove from heat and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "6-8",
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "steamed",
+    "egg-custard"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-lively-japanese-coriander-chawanmushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:51:54.126Z"
+}
