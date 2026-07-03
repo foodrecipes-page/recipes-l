@@ -6704,17 +6704,18 @@
   },
   {
     "slug": "light-smoky-british-tofu-cornish-pasty",
-    "title": "Light Smoky British Tofu Cornish Pasty",
+    "title": "Cornish Pasty Tofu Wrap",
     "tags": [
+      "cornish",
+      "pasty",
+      "tofu",
+      "wrap",
       "british",
-      "comfort-food",
-      "jain-friendly",
-      "lunchtime",
-      "smoky",
-      "vegetarian"
+      "veggie",
+      "lunch"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 45,
+    "cuisine": "british",
+    "totalTimeMin": 23,
     "shard": "l"
   },
   {
