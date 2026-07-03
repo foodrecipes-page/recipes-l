@@ -5259,16 +5259,13 @@
   },
   {
     "slug": "light-lively-japanese-coriander-chawanmushi",
-    "title": "Light Lively Japanese Coriander Chawanmushi",
+    "title": "Japanese-Style Steamed Egg Custard (Chawanmushi)",
     "tags": [
-      "flexitarian",
-      "fresh",
-      "kitchen-plant-based",
-      "light",
-      "quick",
-      "steamed"
+      "japanese",
+      "steamed",
+      "egg-custard"
     ],
-    "cuisine": "Japanese",
+    "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "l"
   },
@@ -7950,13 +7947,12 @@
   },
   {
     "slug": "lightly-buttery-russian-fideo-pilaf",
-    "title": "Lightly Buttery Russian Fideo Pilaf",
+    "title": "Russian Pilaf with Buttery Fideo",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "pasta-dish",
-      "russian-cuisine",
-      "weeknight"
+      "pilaf",
+      "russian",
+      "fideo",
+      "vegetarian"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 35,
@@ -10326,16 +10322,16 @@
   },
   {
     "slug": "lightly-smoky-german-shirataki-noodles",
-    "title": "Lightly Smoky German Shirataki Noodles",
+    "title": "Smoky German Noodle Stir-Fry",
     "tags": [
-      "german-cuisine",
-      "one-pot",
-      "smoky-flavors",
-      "vegetarian-friendly",
-      "weeknight-dinner"
+      "german",
+      "stir-fry",
+      "noodle",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "German",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -10818,17 +10814,16 @@
   },
   {
     "slug": "lightly-spicy-norwegian-egg-frittata",
-    "title": "Lightly Spicy Norwegian Egg Frittata",
+    "title": "Norwegian Spicy Frittata",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "norwegian-cuisine",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "breakfast",
+      "norwegian",
+      "spicy",
+      "eggs",
+      "frittata"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -17681,15 +17676,14 @@
   },
   {
     "slug": "luscious-turkish-tomato-pilaf",
-    "title": "Turkish Stuffed Pilaf Balls",
+    "title": "Turkish Pilaf with Luscious Tomatoes",
     "tags": [
       "turkish",
-      "snack",
-      "appetizer",
-      "vegetarian"
+      "pilaf",
+      "tomatoes"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
