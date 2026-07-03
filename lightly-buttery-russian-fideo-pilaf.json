@@ -1,0 +1,79 @@
+{
+  "slug": "lightly-buttery-russian-fideo-pilaf",
+  "title": "Russian Pilaf with Buttery Fideo",
+  "description": "A twist on the classic Russian pilaf dish, incorporating fideo for added texture and flavor. This hearty meal is perfect for a chilly evening.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lightly salted fideo",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lightly buttery pilaf mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced celery",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add diced onion, carrot, and celery. Cook until tender, about 5 minutes.",
+    "Add pilaf mix and cook for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Stir in fideo and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "russian",
+    "fideo",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-buttery-russian-fideo-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:28:52.896Z"
+}
