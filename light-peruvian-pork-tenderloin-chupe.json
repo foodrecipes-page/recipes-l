@@ -1,0 +1,79 @@
+{
+  "slug": "light-peruvian-pork-tenderloin-chupe",
+  "title": "Peruvian-Style Grilled Pork Tenderloin with Chupe",
+  "description": "A flavorful Peruvian-inspired dish featuring a tender grilled pork tenderloin served with a side of chupe, a traditional Peruvian corn and potato stew.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1",
+      "notes": "1.5 lbs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chupe spices (paprika, cumin, chili powder)",
+      "amount": "1 tsp",
+      "notes": "total"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Chupe (corn, potatoes, onions, garlic)",
+      "amount": "2 cups",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork tenderloin with chupe spices, salt, and pepper.",
+    "Grill pork tenderloin for 5-7 minutes per side, or until cooked to an internal temperature of 145°F.",
+    "Let pork rest for 5 minutes before slicing.",
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add pre-cooked chupe and stir to combine.",
+    "Season chupe with salt and pepper to taste.",
+    "Serve grilled pork tenderloin with a side of chupe."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "grilled",
+    "pork",
+    "tenderloin",
+    "chupe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "38g",
+    "carbs": "20g",
+    "fat": "22g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-peruvian-pork-tenderloin-chupe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:38:06.807Z"
+}
