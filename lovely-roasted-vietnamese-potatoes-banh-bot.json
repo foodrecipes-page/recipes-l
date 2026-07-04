@@ -1,0 +1,67 @@
+{
+  "slug": "lovely-roasted-vietnamese-potatoes-banh-bot",
+  "title": "Roasted Banh Mi Potatoes",
+  "description": "A delicious fusion of Vietnamese and roasted flavors, this dish combines the crunch of roasted potatoes with the softness of banh mi.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "any variety, peeled and cut into wedges"
+    },
+    {
+      "name": "lovely",
+      "amount": "2 cups",
+      "notes": "lovely leaves, chopped"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "2 tbsp",
+      "notes": "vietnamese chili sauce"
+    },
+    {
+      "name": "banh",
+      "amount": "4 slices",
+      "notes": "vietnamese bread, toasted"
+    },
+    {
+      "name": "bot",
+      "amount": "2",
+      "notes": "vietnamese chili peppers, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the potatoes with 1 tablespoon of the vietnamese chili sauce and a pinch of salt.",
+    "Spread the potatoes on a baking sheet and roast for 20 minutes.",
+    "While the potatoes are roasting, toast the banh mi slices by grilling or toasting in a toaster.",
+    "In a small bowl, mix together the lovely leaves, chopped bot, and remaining 1 tablespoon of vietnamese chili sauce.",
+    "Once the potatoes are done, remove them from the oven and let them cool for a few minutes.",
+    "Assemble the banh mi by spreading a layer of the lovely mixture on each toasted slice, followed by a few pieces of the roasted potatoes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "snack",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-roasted-vietnamese-potatoes-banh-bot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:22:00.466Z"
+}
