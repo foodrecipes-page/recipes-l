@@ -1,0 +1,113 @@
+{
+  "slug": "light-german-beef-braised",
+  "title": "Braised Beef in German Beer Sauce",
+  "description": "A hearty, comforting dish that's sure to warm the soul. This braised beef in German beer sauce is made with tender beef short ribs and a rich, malty sauce.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "beef short ribs"
+    },
+    {
+      "name": "light beer",
+      "amount": "1 cup",
+      "notes": "pilsner or lager"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "packed"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon",
+      "notes": "prepared"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the short ribs with salt and pepper.",
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Sear the short ribs until browned on all sides, about 5 minutes.",
+    "Remove the short ribs from the pot and set them aside.",
+    "Add the chopped onion, carrot, and celery to the pot and cook until the vegetables are softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the flour and cook for 1 minute.",
+    "Add the beer, beef broth, brown sugar, mustard, thyme, salt, and pepper to the pot.",
+    "Stir to combine and bring the mixture to a boil.",
+    "Return the short ribs to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise the short ribs for 2 1/2 hours, or until they are tender.",
+    "Remove the pot from the oven and let the short ribs rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "braised",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-german-beef-braised",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:28:48.134Z"
+}
