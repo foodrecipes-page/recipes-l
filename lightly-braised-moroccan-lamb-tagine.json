@@ -1,0 +1,113 @@
+{
+  "slug": "lightly-braised-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "Slow-cooked lamb tagine in a rich, aromatic Moroccan sauce. Perfect for a cold winter's night.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 kg",
+      "notes": "Bone-in, cut into large pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tbsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "Canned, drained and rinsed"
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches, then set aside.",
+    "Reduce heat to medium and sauté the onions until softened, about 8 minutes.",
+    "Add the garlic, ginger, cumin, coriander, paprika, salt, and pepper. Cook for 1 minute.",
+    "Add the browned lamb, chickpeas, apricots, almonds, and 1 cup of water to the pot.",
+    "Bring to a boil, then cover and transfer to the oven. Braise for 2.5 hours, or until the lamb is tender.",
+    "Stir in chopped parsley and serve over couscous."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-braised-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:50:31.100Z"
+}
