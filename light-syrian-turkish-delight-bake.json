@@ -1,0 +1,63 @@
+{
+  "slug": "light-syrian-turkish-delight-bake",
+  "title": "Delightful Turkish Delight Bake",
+  "description": "A sweet and crunchy Turkish delight-inspired dessert, perfect for snacking. This crunchy treat combines the flavors of Turkish delight with the simplicity of a bake.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Turkish Delight",
+      "amount": "200g"
+    },
+    {
+      "name": "Light Brown Sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "100g"
+    },
+    {
+      "name": "Bake",
+      "amount": "preheated to 180°C"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C.",
+    "2. In a large mixing bowl, combine the Turkish Delight, brown sugar, and butter. Mix until well combined.",
+    "3. Add the flour to the bowl and mix until a dough forms.",
+    "4. Roll out the dough to a thickness of 5mm.",
+    "5. Cut the dough into desired shapes or sizes.",
+    "6. Place the shapes on a baking sheet lined with parchment paper.",
+    "7. Bake for 15-20 minutes, or until the edges are lightly golden.",
+    "8. Allow the bake to cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "delight",
+    "dessert",
+    "bake",
+    "sugar",
+    "flour"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-syrian-turkish-delight-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:35:00.195Z"
+}
