@@ -1,0 +1,68 @@
+{
+  "slug": "light-pickled-canadian-sardines-chowder",
+  "title": "Sardine Chowder",
+  "description": "A hearty and flavorful soup made with sardines, potatoes, and cream.",
+  "cuisine": null,
+  "diet": [
+    "fish-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sardines",
+      "amount": "1 can (3.75 oz)"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Light Chowder Mix",
+      "amount": "1 package (about 1 oz)"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat.",
+    "Add diced potatoes and cook until they start to soften.",
+    "Add light chowder mix and stir to combine.",
+    "Add canned sardines, breaking them up with a spoon as they heat.",
+    "Pour in milk and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes, or until the soup has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "soup",
+    "chowder"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-pickled-canadian-sardines-chowder",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:21:45.737Z"
+}
