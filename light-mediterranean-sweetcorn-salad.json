@@ -1,0 +1,73 @@
+{
+  "slug": "light-mediterranean-sweetcorn-salad",
+  "title": "Grilled Mediterranean Salad",
+  "description": "A refreshing salad featuring the flavors of the Mediterranean, topped with grilled light and sweetcorn. Perfect for a warm evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Light",
+      "amount": "4 oz",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "Sweetcorn",
+      "amount": "2 ears",
+      "notes": "grilled"
+    },
+    {
+      "name": "Mediterranean feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lemon vinaigrette",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the grill to medium-high heat.",
+    "Grill the sweetcorn for 10-12 minutes, turning frequently, until slightly charred.",
+    "In a large bowl, combine the mixed greens, sliced red onion, and crumbled feta cheese.",
+    "Add the grilled sweetcorn and pitted olives to the bowl.",
+    "Drizzle the lemon vinaigrette over the salad and toss to combine.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "salad",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-mediterranean-sweetcorn-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:48:59.485Z"
+}
