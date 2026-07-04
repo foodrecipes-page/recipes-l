@@ -1,0 +1,93 @@
+{
+  "slug": "luxuriantly-roasted-turkish-fish-stew",
+  "title": "Turkish Fish Stew",
+  "description": "A hearty fish stew originating from Turkey, perfect for a cold evening. The combination of spices and fish creates a delightful taste experience.",
+  "cuisine": "Turkish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (4)",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (400g)",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add Turkish red pepper flakes, cook for 1 minute.",
+    "Add fish fillets, cook until browned on both sides.",
+    "Add tomatoes, lemon juice, salt, and black pepper.",
+    "Simmer for 10-12 minutes or until the fish is cooked through.",
+    "Garnish with chopped parsley.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "fish",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriantly-roasted-turkish-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:32:07.140Z"
+}
