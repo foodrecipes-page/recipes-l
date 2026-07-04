@@ -1,0 +1,93 @@
+{
+  "slug": "lush-seared-korean-tuna-bowl",
+  "title": "Seared Tuna Bowl with Spicy Korean Sauce",
+  "description": "A quick and flavorful bowl dish featuring seared tuna, spicy Korean sauce, and a bed of lush greens.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tuna Steaks",
+      "amount": "4 (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Lush Greens",
+      "amount": "4 cups mixed greens",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp (grated)",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup (thinly sliced)",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together soy sauce, rice vinegar, ginger, and Korean chili flakes.",
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add tuna steaks and sear for 2-3 minutes per side, or until cooked to desired doneness.",
+    "Transfer tuna to a plate and cover with foil to keep warm.",
+    "Add sliced green onions to the skillet and cook for 1 minute, or until slightly softened.",
+    "Pour the Korean sauce into the skillet and bring to a simmer.",
+    "Cook for 2-3 minutes, or until the sauce has thickened slightly.",
+    "To assemble the bowls, place a bed of lush greens on a plate, followed by a seared tuna steak.",
+    "Pour the spicy Korean sauce over the tuna, then sprinkle with sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "tuna",
+    "bowl",
+    "lunch",
+    "seafood",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-seared-korean-tuna-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:43:25.700Z"
+}
