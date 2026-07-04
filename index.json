@@ -5774,14 +5774,14 @@
   },
   {
     "slug": "light-norwegian-grapes-stir-fry",
-    "title": "Light Norwegian Grapes Stir-fry",
+    "title": "Pan-Seared Grapes with Light Crust",
     "tags": [
-      "grape",
-      "stir-fry",
-      "norwegian",
-      "umami"
+      "dessert",
+      "grapes",
+      "light",
+      "crust"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -10418,17 +10418,17 @@
   },
   {
     "slug": "lightly-smoky-syrian-lamb-kebabs",
-    "title": "Lightly Smoky Syrian Lamb Kebabs",
+    "title": "Syrian-Style Smoked Lamb Kebabs",
     "tags": [
-      "grilled-meats",
-      "keto-friendly",
-      "lamb-recipes",
-      "middle-eastern",
-      "smoky-flavors",
-      "syrian-cuisine"
+      "lamb",
+      "kebabs",
+      "syrian",
+      "smoked",
+      "bbq",
+      "summer"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 38,
     "shard": "l"
   },
   {
@@ -18906,17 +18906,14 @@
   },
   {
     "slug": "luxuriantly-roasted-turkish-fish-stew",
-    "title": "Luxuriantly Roasted Turkish Fish Stew",
+    "title": "Turkish Fish Stew",
     "tags": [
-      "date-night",
-      "fish-stew",
-      "one-pan",
-      "pescatarian-friendly",
-      "roasted-dish",
-      "turkish-cuisine"
+      "turkish",
+      "fish",
+      "stew"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
