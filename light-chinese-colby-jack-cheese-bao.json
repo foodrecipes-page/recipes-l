@@ -1,0 +1,63 @@
+{
+  "slug": "light-chinese-colby-jack-cheese-bao",
+  "title": "Cheesy Bao Sandwich",
+  "description": "A simple and delicious sandwich made with melted cheese and wrapped in a soft bao bun.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Colby cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Bao",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Light mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Jack cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster oven to 350°F (175°C).",
+    "Cut the bao buns in half and toast them in the oven for 2-3 minutes.",
+    "In a pan, melt 1 tablespoon of light mayonnaise over medium heat.",
+    "Add the shredded Colby cheese to the pan and stir until melted.",
+    "Add the shredded Jack cheese to the pan and stir until melted.",
+    "Add the shredded Chinese cabbage to the pan and stir until wilted.",
+    "Assemble the sandwiches by spreading the cheese mixture onto the toasted bao buns.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy-bao"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-chinese-colby-jack-cheese-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:46:55.799Z"
+}
