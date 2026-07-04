@@ -1,0 +1,75 @@
+{
+  "slug": "lovely-crumbly-british-sausage-fried-sausage-roll",
+  "title": "British Sausage Roll",
+  "description": "A classic British snack made with crumbly pastry and savory sausage filling. Perfect for a quick breakfast or snack on the go.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "breakfast"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lovely, crumbly, british pastry",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "fried sausage",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 egg, beaten (for egg wash)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Roll out the pastry on a floured surface to a large rectangle.",
+    "3. Slice the onion and sauté until softened.",
+    "4. Add the sautéed onion and fried sausage to one half of the pastry rectangle.",
+    "5. Season with salt and black pepper to taste.",
+    "6. Brush the edges of the pastry with the beaten egg.",
+    "7. Fold the other half of the pastry over the filling and press the edges to seal.",
+    "8. Use a knife to cut a few slits in the top of the pastry.",
+    "9. Brush the top of the pastry with the remaining egg wash.",
+    "10. Bake for 25-30 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crumbly-british-sausage-fried-sausage-roll",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:20:19.279Z"
+}
