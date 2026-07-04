@@ -1,0 +1,91 @@
+{
+  "slug": "lightly-smoky-syrian-lamb-kebabs",
+  "title": "Syrian-Style Smoked Lamb Kebabs",
+  "description": "A flavorful and aromatic dish featuring smoky lamb kebabs inspired by Syrian cuisine. Marinated in a mix of spices and herbs, these kebabs are perfect for a summer BBQ or a special occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Make sure to cut the lamb into uniform pieces for even cooking."
+    },
+    {
+      "name": "Lightly smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality smoked paprika for the best flavor."
+    },
+    {
+      "name": "Syrian allspice",
+      "amount": "1 tablespoon",
+      "notes": "This spice is a key component of Syrian cuisine and adds a unique flavor to the kebabs."
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves",
+      "notes": "Use fresh garlic for the best flavor."
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "Add a burst of freshness with chopped parsley."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Use fresh lemon juice for the best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt for the best flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Use freshly ground black pepper for the best flavor."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality olive oil for the best flavor."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the smoked paprika, allspice, garlic, parsley, lemon juice, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the lamb cubes onto skewers, leaving a little space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "syrian",
+    "smoked",
+    "bbq",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:47:33.506Z"
+}
