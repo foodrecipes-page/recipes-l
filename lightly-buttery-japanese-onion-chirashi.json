@@ -1,78 +1,73 @@
 {
   "slug": "lightly-buttery-japanese-onion-chirashi",
-  "title": "Buttery Chirashi Rice Bowl",
-  "description": "A simple and flavorful Japanese-inspired dish featuring buttery sushi rice, onion, and chirashi.",
-  "cuisine": "japanese",
+  "title": "Japanese Chirashi Sushi with Caramelized Onions",
+  "description": "A simple and flavorful dish showcasing chirashi, onions, and lightly buttery goodness. A perfect combination of Japanese flavors.",
+  "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "vegetarian",
+    "gluten-free"
   ],
-  "meal": "lunch",
+  "meal": "dinner",
   "ingredients": [
-    {
-      "name": "sushi rice",
-      "amount": "1 cup"
-    },
-    {
-      "name": "lightly salted butter",
-      "amount": "2 tablespoons"
-    },
-    {
-      "name": "onion",
-      "amount": "1 small"
-    },
     {
       "name": "chirashi",
       "amount": "1 cup"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lightly buttery rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
     },
     {
       "name": "soy sauce",
       "amount": "2 tablespoons"
     },
     {
-      "name": "sesame seeds",
+      "name": "sushi vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
       "amount": "1 teaspoon"
     },
     {
-      "name": "green onions",
-      "amount": "1/4 cup"
-    },
-    {
-      "name": "mirin",
-      "amount": "2 tablespoons"
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
     }
   ],
   "instructions": [
-    "Cook sushi rice according to package instructions.",
-    "In a small saucepan, melt 1 tablespoon of butter over low heat.",
-    "Add soy sauce, mirin, and sesame seeds to the saucepan and stir until combined.",
-    "In a large saucepan, heat 1 tablespoon of butter over medium heat.",
-    "Add chopped onion and cook until softened, about 5 minutes.",
-    "Add chirashi to the saucepan and cook for an additional 2 minutes.",
-    "In a large bowl, combine cooked sushi rice and soy sauce mixture.",
-    "Top with chirashi mixture, green onions, and additional butter if desired.",
-    "Serve immediately and enjoy!"
+    "Cook the lightly buttery rice according to package instructions.",
+    "Caramelize the onion in a pan with a little sesame oil until golden brown.",
+    "In a separate pan, combine chirashi, soy sauce, and sushi vinegar. Cook for 2-3 minutes or until heated through.",
+    "In a large bowl, combine cooked rice, caramelized onion, and chirashi mixture.",
+    "Season with sesame seeds and brown sugar to taste.",
+    "Serve warm or at room temperature."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
-  "servings": 1,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
   "difficulty": "easy",
   "tags": [
     "japanese",
-    "lunch",
-    "vegetarian",
-    "easy",
-    "chirashi"
+    "sushi",
+    "veggie"
   ],
   "nutrition": {
     "calories": 450,
     "protein": 5,
-    "carbs": 60,
-    "fat": 20
+    "carbs": 70,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/lightly-buttery-japanese-onion-chirashi",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T03:03:13.268Z"
+  "createdAt": "2026-07-02T10:38:40.582Z"
 }
