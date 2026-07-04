@@ -1,0 +1,72 @@
+{
+  "slug": "lemon-charred-italian-pasta-pasta",
+  "title": "Charred Lemon Pasta",
+  "description": "A simple and flavorful pasta dish made with charred lemons, garlic, and herbs.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "charred"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the charred lemons to the skillet and cook for 2-3 minutes until they start to release their juices.",
+    "Toss the cooked pasta in the skillet with the lemon and garlic mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "lemon",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-charred-italian-pasta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:04:26.021Z"
+}
