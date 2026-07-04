@@ -1,0 +1,97 @@
+{
+  "slug": "lightly-fermented-greek-honey-loukoumades",
+  "title": "Traditional Greek Loukoumades with Honey Syrup",
+  "description": "A classic Greek dessert consisting of crispy fried dough balls drizzled with a sweet honey syrup. Loukoumades are often served with a sprinkle of cinnamon and a drizzle of honey.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Loukoumades (deep-fried dough balls)",
+      "amount": "12-15 pieces",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan over medium heat.",
+    "Combine the flour, baking powder, and salt in a bowl.",
+    "Gradually add the sugar and yogurt to the dry ingredients, mixing until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into small pieces, about the size of a small egg.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Heat the vegetable oil to 375°F (190°C).",
+    "Fry the dough balls in batches for 2-3 minutes on each side, or until they are golden brown.",
+    "Using a slotted spoon, remove the loukoumades from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining dough balls.",
+    "To make the honey syrup, combine the honey and 1 cup of water in a saucepan.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Drizzle the honey syrup over the loukoumades and sprinkle with ground cinnamon.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "6-8",
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "loukoumades",
+    "honey",
+    "dessert",
+    "fried-dough"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-fermented-greek-honey-loukoumades",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:54:39.432Z"
+}
