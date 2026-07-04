@@ -5510,17 +5510,14 @@
   },
   {
     "slug": "light-mediterranean-sweetcorn-salad",
-    "title": "Light Mediterranean Sweetcorn Salad",
+    "title": "Grilled Mediterranean Salad",
     "tags": [
-      "easy-to-make",
-      "lunch-dinner",
-      "mediterranean",
-      "summer",
-      "vegan",
-      "weeknight"
+      "vegetarian",
+      "salad",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -7771,17 +7768,15 @@
   },
   {
     "slug": "lightly-braised-moroccan-lamb-tagine",
-    "title": "Lightly Braised Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "lamb-recipes",
-      "moroccan-food",
-      "one-pot-meals"
+      "lamb",
+      "tagine",
+      "moroccan",
+      "braised"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 140,
+    "totalTimeMin": 180,
     "shard": "l"
   },
   {
@@ -9374,18 +9369,16 @@
   },
   {
     "slug": "lightly-luscious-french-grass-tarte-tatin",
-    "title": "Lightly Luscious French Grass Tarte Tatin",
+    "title": "Tarte Tatin French Classic",
     "tags": [
-      "ayurvedic",
-      "gluten-free",
-      "hangover-cure",
-      "high-protein",
-      "one-pan",
-      "sattvic",
-      "weeknight"
+      "tarte",
+      "tatin",
+      "french",
+      "dessert",
+      "classic"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
