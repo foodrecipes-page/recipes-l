@@ -1,0 +1,86 @@
+{
+  "slug": "luxuriant-low-fat-russian-porcini-stew",
+  "title": "Russian Porcini Stew",
+  "description": "A hearty and flavorful stew made with porcini mushrooms and luxurious ingredients. This dish is perfect for a cold winter night.",
+  "cuisine": "russian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Luxuriant beef stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Low-fat beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Diced carrot",
+      "amount": "2 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Diced celery",
+      "amount": "2 stalks",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion, carrot, and celery and cook until the vegetables are tender, about 5 minutes.",
+    "Add the porcini mushrooms, beef broth, tomato paste, and thyme. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mushroom",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-low-fat-russian-porcini-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:02:32.768Z"
+}
