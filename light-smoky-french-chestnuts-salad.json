@@ -1,0 +1,73 @@
+{
+  "slug": "light-smoky-french-chestnuts-salad",
+  "title": "Smoky French Chestnut Salad",
+  "description": "A unique and delicious salad with smoky flavors, featuring roasted chestnuts and a light vinaigrette.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "1 cup, peeled and sliced"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Smoked bacon",
+      "amount": "4 slices, diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss chestnuts with 1 tbsp olive oil, salt, and pepper. Spread on a baking sheet and roast for 15-20 minutes or until tender.",
+    "In a large bowl, combine mixed greens, roasted chestnuts, smoked bacon, and red onion.",
+    "In a small bowl, whisk together apple cider vinegar, honey, salt, and pepper.",
+    "Drizzle the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salad",
+    "chestnut",
+    "smoky",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-smoky-french-chestnuts-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:25:33.318Z"
+}
