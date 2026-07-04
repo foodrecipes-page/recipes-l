@@ -1,0 +1,59 @@
+{
+  "slug": "light-australian-egg-noodles",
+  "title": "Australian-Style Egg Noodle Stir-Fry",
+  "description": "A simple and quick stir-fry made with Australian-inspired flavors and light noodles. Perfect for a weeknight dinner.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Light Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Australian",
+      "amount": "2 tbsp",
+      "notes": "Australian seasoning blend"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add Australian seasoning blend and cook for 1 minute.",
+    "Add beaten eggs and scramble until cooked through.",
+    "Add light noodles and stir-fry for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "dinner",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-australian-egg-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:44:36.978Z"
+}
