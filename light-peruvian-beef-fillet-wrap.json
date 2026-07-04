@@ -1,0 +1,88 @@
+{
+  "slug": "light-peruvian-beef-fillet-wrap",
+  "title": "Peruvian Beef Wrap",
+  "description": "A flavorful Peruvian-inspired wrap filled with grilled beef, onions, and a zesty aji amarillo sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fillet (beef)",
+      "amount": "300g",
+      "notes": "preferably tenderized"
+    },
+    {
+      "name": "Light wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "2",
+      "notes": "diced, or substitute with jalapeño"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together minced garlic and diced aji amarillo pepper.",
+    "2. Brush the beef fillet with olive oil and season with salt and black pepper.",
+    "3. Grill the beef over medium-high heat for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "4. Meanwhile, heat a large skillet over medium heat.",
+    "5. Add the sliced onions to the skillet and cook for 3-4 minutes, or until they're translucent and starting to caramelize.",
+    "6. Add the garlic-aji amarillo mixture to the skillet and cook for an additional minute.",
+    "7. Warm the large flour tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Slice the grilled beef into thin strips.",
+    "9. Assemble the Peruvian beef wrap by spreading the onion mixture onto the center of the tortilla, followed by the sliced beef.",
+    "10. Garnish with chopped cilantro, if desired, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-peruvian-beef-fillet-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:58:56.494Z"
+}
