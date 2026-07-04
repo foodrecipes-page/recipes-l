@@ -3369,19 +3369,12 @@
   },
   {
     "slug": "light-chinese-colby-jack-cheese-bao",
-    "title": "Light Chinese Colby Jack Cheese Bao",
+    "title": "Cheesy Bao Sandwich",
     "tags": [
-      "bao",
-      "cheese",
-      "chinese",
-      "fujian",
-      "one-pan",
-      "satvik",
-      "vegetarian",
-      "weeknight"
+      "cheesy-bao"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 27,
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -7928,16 +7921,14 @@
   },
   {
     "slug": "lightly-buttery-japanese-onion-chirashi",
-    "title": "Buttery Chirashi Rice Bowl",
+    "title": "Japanese Chirashi Sushi with Caramelized Onions",
     "tags": [
       "japanese",
-      "lunch",
-      "vegetarian",
-      "easy",
-      "chirashi"
+      "sushi",
+      "veggie"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 35,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -16925,16 +16916,15 @@
   },
   {
     "slug": "luscious-norwegian-wagyu-bowl",
-    "title": "Luscious Norwegian Wagyu Bowl",
+    "title": "Pan-Seared Wagyu Steak with Luscious Mushroom Bowl",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "norwegian",
-      "papillote",
-      "quick-meal",
-      "wagyu"
+      "wagyu",
+      "mushroom",
+      "luxury",
+      "dinner",
+      "special occasion"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": null,
     "totalTimeMin": 30,
     "shard": "l"
   },
