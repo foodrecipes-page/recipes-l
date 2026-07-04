@@ -1,0 +1,83 @@
+{
+  "slug": "luscious-norwegian-wagyu-bowl",
+  "title": "Pan-Seared Wagyu Steak with Luscious Mushroom Bowl",
+  "description": "A tender and flavorful Wagyu steak served with a rich and savory mushroom bowl. Perfect for a special occasion or a luxurious dinner.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu steak",
+      "amount": "2 steaks (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Luscious mushrooms",
+      "amount": "1 cup sliced",
+      "notes": "Norwegian forest mushrooms"
+    },
+    {
+      "name": "Norwegian forest mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "bowl ( ceramic or wooden )",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the Wagyu steak with salt and pepper.",
+    "Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the Wagyu steak for 2-3 minutes per side, or until a nice crust forms.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, or until the steak reaches your desired level of doneness.",
+    "Meanwhile, sauté the sliced mushrooms in the remaining 1 tablespoon of olive oil until they release their liquid and start to brown.",
+    "Add 1 tablespoon of butter to the skillet with the mushrooms and stir until melted.",
+    "Serve the Wagyu steak with the mushroom bowl and additional butter on the side, if desired.",
+    "Enjoy your delicious and indulgent meal!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "wagyu",
+    "mushroom",
+    "luxury",
+    "dinner",
+    "special occasion"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-norwegian-wagyu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:16:44.116Z"
+}
