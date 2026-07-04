@@ -1,0 +1,60 @@
+{
+  "slug": "light-norwegian-grapes-stir-fry",
+  "title": "Pan-Seared Grapes with Light Crust",
+  "description": "A simple dessert recipe featuring sweet grapes in a crispy light crust. Perfect for a light snack or dessert.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "grapes",
+      "amount": "1 cup, halved",
+      "notes": ""
+    },
+    {
+      "name": "light norwegian crust mix",
+      "amount": "1 packet",
+      "notes": "Pre-made mix for a light, crispy crust"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "For mixing crust"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together crust mix and water until a dough forms.",
+    "Roll out the dough to a thin sheet.",
+    "Place the grapes on one half of the dough, leaving a 1-inch border around the edges.",
+    "Fold the other half of the dough over the grapes and press the edges to seal.",
+    "Use a knife or pastry brush to create a decorative edge.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the crust is golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "grapes",
+    "light",
+    "crust"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 35,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-norwegian-grapes-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:18:03.165Z"
+}
