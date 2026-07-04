@@ -2881,17 +2881,15 @@
   },
   {
     "slug": "light-australian-egg-noodles",
-    "title": "Light Australian Egg Noodles",
+    "title": "Australian-Style Egg Noodle Stir-Fry",
     "tags": [
-      "easy-meal",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "stir-fry",
+      "dinner",
+      "easy",
+      "quick"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 13,
     "shard": "l"
   },
   {
@@ -10565,14 +10563,13 @@
   },
   {
     "slug": "lightly-spiced-middle-eastern-chickpea-tagine",
-    "title": "Lightly Spiced Middle Eastern Chickpea Tagine",
+    "title": "Spiced Chickpea Tagine",
     "tags": [
-      "low-sodium",
-      "mason-jar",
-      "middle-eastern",
-      "one-pot",
+      "chickpeas",
+      "tagine",
+      "middle eastern",
       "vegetarian",
-      "weeknight"
+      "vegan"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
@@ -12943,13 +12940,11 @@
   },
   {
     "slug": "lovely-crumbly-british-sausage-fried-sausage-roll",
-    "title": "Lovely Crumbly British Sausage Fried Sausage Roll",
+    "title": "British Sausage Roll",
     "tags": [
-      "breakfast",
       "british",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "snack"
     ],
     "cuisine": "British",
     "totalTimeMin": 40,
@@ -18452,17 +18447,15 @@
   },
   {
     "slug": "luxuriant-low-fat-russian-porcini-stew",
-    "title": "Luxuriant Low Fat Russian Porcini Stew",
+    "title": "Russian Porcini Stew",
     "tags": [
-      "comfort-food",
-      "low-fat",
-      "mushroom-based",
-      "one-pot",
-      "russian-cuisine",
-      "vegetarian"
+      "beef",
+      "mushroom",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 65,
+    "cuisine": "russian",
+    "totalTimeMin": 140,
     "shard": "l"
   },
   {
