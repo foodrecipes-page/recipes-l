@@ -6722,14 +6722,12 @@
   },
   {
     "slug": "light-smoky-french-chestnuts-salad",
-    "title": "Light Smoky French Chestnuts Salad",
+    "title": "Smoky French Chestnut Salad",
     "tags": [
-      "chestnuts",
-      "french",
-      "holiday",
-      "main-course",
       "salad",
-      "smoked-chicken"
+      "chestnut",
+      "smoky",
+      "french"
     ],
     "cuisine": "French",
     "totalTimeMin": 30,
@@ -8565,18 +8563,16 @@
   },
   {
     "slug": "lightly-fermented-greek-honey-loukoumades",
-    "title": "Lightly Fermented Greek Honey Loukoumades",
+    "title": "Traditional Greek Loukoumades with Honey Syrup",
     "tags": [
-      "deep-fried",
-      "greek-dessert",
-      "honey-based",
-      "low-fat",
-      "midnight-cravings",
-      "traditional",
-      "vegetarian"
+      "greek",
+      "loukoumades",
+      "honey",
+      "dessert",
+      "fried-dough"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
