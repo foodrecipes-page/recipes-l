@@ -1,0 +1,73 @@
+{
+  "slug": "long-golden-venezuelan-plantain-patties",
+  "title": "Pan-Fried Venezuelan Plantain Cakes",
+  "description": "A crispy, flavorful side dish that combines the natural sweetness of plantains with the savory taste of Venezuelan patties.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "2 ripe plantains",
+      "amount": "2",
+      "notes": "yellow or black-skinned"
+    },
+    {
+      "name": "1/4 cup Venezuelan patties (crumbled)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Peel the plantains and slice them into 1-inch rounds.",
+    "In a large bowl, mash the plantain slices using a fork or potato masher.",
+    "Add the crumbled patties, flour, salt, and pepper to the bowl and mix until well combined.",
+    "Heat the oil in a large non-stick skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the plantain mixture into the skillet and flatten slightly.",
+    "Cook for 3-4 minutes on each side, until the cakes are golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "latin-american",
+    "plantains",
+    "venezuelan",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/long-golden-venezuelan-plantain-patties",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:38:27.496Z"
+}
