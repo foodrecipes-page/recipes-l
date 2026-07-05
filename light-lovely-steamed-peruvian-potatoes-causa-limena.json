@@ -1,0 +1,74 @@
+{
+  "slug": "light-lovely-steamed-peruvian-potatoes-causa-limena",
+  "title": "Peruvian Causa Rellena",
+  "description": "A traditional Peruvian dish featuring twice-baked potatoes filled with a creamy mixture of chicken, aji amarillo peppers, and herbs.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Caipirinha chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Caipirinha chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake potatoes for 45-60 minutes or until tender. Let cool.",
+    "Melt butter in a skillet over medium heat. Add chicken and cook until browned.",
+    "Add chicken broth and aji amarillo pepper to the skillet and cook until the chicken is cooked through.",
+    "Shred the chicken with two forks and set aside.",
+    "Once potatoes are cool enough to handle, slice them in half lengthwise and scoop out the flesh, leaving a shell.",
+    "In a bowl, mash the potato flesh with a fork until smooth.",
+    "Add the shredded chicken, chopped cilantro, and heavy cream to the bowl with the mashed potatoes. Mix well.",
+    "Spoon the potato mixture into the potato shells and top each shell with a spoonful of the chicken mixture.",
+    "Bake for an additional 15-20 minutes or until heated through.",
+    "Garnish with chopped cilantro and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "causa",
+    "potatoes",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-lovely-steamed-peruvian-potatoes-causa-limena",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:39:02.471Z"
+}
