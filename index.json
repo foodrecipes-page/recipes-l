@@ -8071,17 +8071,16 @@
   },
   {
     "slug": "lightly-citrusy-filipino-pork-kaldereta",
-    "title": "Lightly Citrusy Filipino Pork Kaldereta",
+    "title": "Filipino Kaldereta",
     "tags": [
-      "comfort-food",
-      "filipino-food",
-      "hangover-cure",
-      "low-carb",
-      "one-pot",
-      "pork-recipes"
+      "filipino",
+      "pork",
+      "kaldereta",
+      "tomato-based",
+      "savory"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 110,
     "shard": "l"
   },
   {
@@ -13802,17 +13801,15 @@
   },
   {
     "slug": "lovely-roasted-australian-beef-roast",
-    "title": "lovely roasted australian beef roast",
+    "title": "Aussie Beef Roast",
     "tags": [
       "australian",
       "beef",
-      "easy-to-make",
-      "one-pan",
-      "roasted",
-      "weeknight"
+      "roast",
+      "dinner"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 140,
+    "cuisine": "Australian",
+    "totalTimeMin": 85,
     "shard": "l"
   },
   {
@@ -18311,17 +18308,15 @@
   },
   {
     "slug": "luxuriant-grilled-uruguayan-beef-skewers",
-    "title": "Grilled Uruguayan Beef Skewers",
+    "title": "Uruguayan Grilled Beef Skewers",
     "tags": [
-      "beef",
-      "cranberry",
-      "dinner",
+      "uruguayan",
       "grilled",
-      "kosher",
-      "uruguayan"
+      "beef",
+      "skewers"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 33,
     "shard": "l"
   },
   {
