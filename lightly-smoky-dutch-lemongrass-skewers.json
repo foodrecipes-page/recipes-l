@@ -1,0 +1,81 @@
+{
+  "slug": "lightly-smoky-dutch-lemongrass-skewers",
+  "title": "Smoky Lemongrass Chicken Satay",
+  "description": "A classic Southeast Asian-inspired dish, this recipe features marinated chicken grilled to perfection on skewers and served with a tangy peanut sauce.",
+  "cuisine": "Southeast Asian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine lemongrass, garlic, soy sauce, coconut milk, and honey.",
+    "2. Blend until smooth.",
+    "3. Cut chicken into bite-sized pieces.",
+    "4. Thread chicken onto skewers.",
+    "5. Brush skewers with marinade.",
+    "6. Let marinate for 30 minutes.",
+    "7. Preheat grill to medium-high heat.",
+    "8. Grill skewers for 8-10 minutes, or until chicken is cooked through.",
+    "9. Serve with peanut sauce (see below).",
+    "10. Garnish with chopped peanuts and fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grill",
+    "peanut sauce",
+    "thaicuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-dutch-lemongrass-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:07:13.440Z"
+}
