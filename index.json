@@ -809,15 +809,14 @@
   },
   {
     "slug": "lazy-peach-ferment-curry",
-    "title": "Lazy Peach Ferment Curry",
+    "title": "Lazy Peach Curry",
     "tags": [
-      "lazy-peach-ferment-curry",
-      "spicy-crunchy-moroccan-dish",
-      "peach-ferment-curry",
-      "lazy-sunday-meal"
+      "peach-curry",
+      "indian-cuisine",
+      "lazy-recipe"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 15,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -2903,16 +2902,16 @@
   },
   {
     "slug": "light-australian-nutty-cake",
-    "title": "Australian Nutty Cake",
+    "title": "Australian-Style Pavlova",
     "tags": [
       "australian",
-      "breakfast",
-      "nutty",
-      "orange-blossom-water",
-      "spherify"
+      "pavlova",
+      "dessert",
+      "meringue",
+      "fresh-fruit"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 50,
+    "cuisine": "Australian",
+    "totalTimeMin": 110,
     "shard": "l"
   },
   {
@@ -5309,17 +5308,15 @@
   },
   {
     "slug": "light-lovely-steamed-peruvian-potatoes-causa-limena",
-    "title": "Light, Lovely Steamed Peruvian Potatoes Causa Limena",
+    "title": "Peruvian Causa Rellena",
     "tags": [
-      "creamy-sauce",
-      "crowd-pleaser",
-      "lunch-ideas",
-      "peruvian-cuisine",
-      "steamed-potatoes",
-      "whole30-friendly"
+      "peruvian",
+      "causa",
+      "potatoes",
+      "chicken"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 75,
     "shard": "l"
   },
   {
@@ -5773,17 +5770,14 @@
   },
   {
     "slug": "light-norwegian-sushi-rice-sushi",
-    "title": "Light Norwegian Sushi Rice",
+    "title": "Norwegian Sushi Rolls",
     "tags": [
-      "anti-inflammatory",
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "talavera",
-      "weeknight"
+      "sushi",
+      "norwegian",
+      "fusion"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "norwegian",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -10213,17 +10207,15 @@
   },
   {
     "slug": "lightly-smoky-dutch-lemongrass-skewers",
-    "title": "Lightly Smoky Dutch Lemongrass Skewers",
+    "title": "Smoky Lemongrass Chicken Satay",
     "tags": [
-      "comfort-food",
-      "dutch-inspired",
-      "grilled",
-      "lemongrass",
-      "smoky",
-      "vegan-friendly"
+      "chicken",
+      "grill",
+      "peanut sauce",
+      "thaicuisine"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "cuisine": "Southeast Asian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -10533,11 +10525,11 @@
     "slug": "lightly-spiced-middle-eastern-chickpea-tagine",
     "title": "Spiced Chickpea Tagine",
     "tags": [
-      "chickpeas",
+      "chickpea",
       "tagine",
-      "middle eastern",
-      "vegetarian",
-      "vegan"
+      "middle-eastern",
+      "spiced",
+      "stew"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
