@@ -1,0 +1,78 @@
+{
+  "slug": "light-flaky-earthy-middle-eastern-fish-flatbread",
+  "title": "Middle Eastern Fish Wrap",
+  "description": "A flavorful and healthy wrap filled with grilled fish, topped with a tangy slaw and served with a side of warm flatbread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Fish Fillets (Salmon or Tilapia)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Middle Eastern Spice Mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Cabbage",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup, peeled and grated"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Hummus",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the fish fillets with the Middle Eastern Spice Mix and grill for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, mix together the shredded red cabbage, grated carrots, and sliced cucumber in a bowl.",
+    "In a separate bowl, whisk together the lemon juice and Greek yogurt.",
+    "Add the hummus to the lemon yogurt mixture and stir to combine.",
+    "To assemble the wraps, place a piece of flatbread on a flat surface and top with a grilled fish fillet, followed by a spoonful of the slaw and a dollop of the tahini sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "fish",
+    "middle-eastern",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-flaky-earthy-middle-eastern-fish-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:16:49.904Z"
+}
