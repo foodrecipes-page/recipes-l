@@ -12423,18 +12423,15 @@
   },
   {
     "slug": "long-golden-venezuelan-plantain-patties",
-    "title": "Long Golden Venezuelan Plantain Patties",
+    "title": "Pan-Fried Venezuelan Plantain Cakes",
     "tags": [
-      "comfort-food",
-      "deep-fried",
-      "kid-friendly",
       "latin-american",
-      "one-pan",
-      "snack",
-      "vegan-friendly"
+      "plantains",
+      "venezuelan",
+      "side-dish"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 32,
+    "cuisine": "Latin American",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -15151,14 +15148,15 @@
   },
   {
     "slug": "low-sodium-french-shrimp-pilaf",
-    "title": "Low-sodium French shrimp Pilaf",
+    "title": "Shrimp and Pilaf Casserole",
     "tags": [
-      "gluten-free",
+      "shrimp",
+      "pilaf",
       "low-sodium",
-      "weeknight"
+      "casserole"
     ],
     "cuisine": "French",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
