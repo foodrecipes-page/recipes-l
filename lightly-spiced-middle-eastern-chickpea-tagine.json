@@ -1,79 +1,71 @@
 {
   "slug": "lightly-spiced-middle-eastern-chickpea-tagine",
   "title": "Spiced Chickpea Tagine",
-  "description": "A hearty and flavorful Middle Eastern stew made with chickpeas, spices, and a hint of sweetness.",
+  "description": "A hearty and flavorful stew originating from the Middle East, made with spiced chickpeas and a hint of sweetness.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "chickpeas",
       "amount": "1 1/2 cups",
-      "notes": null
+      "notes": "canned or cooked"
     },
     {
       "name": "olive oil",
       "amount": "2 tablespoons",
-      "notes": null
+      "notes": "for cooking"
     },
     {
       "name": "onion",
       "amount": "1 medium",
-      "notes": null
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
     },
     {
       "name": "garlic",
       "amount": "3 cloves",
-      "notes": null
+      "notes": "minced"
     },
     {
-      "name": "ginger",
-      "amount": "1 tablespoon, grated",
-      "notes": null
-    },
-    {
-      "name": "ground cumin",
+      "name": "cumin",
       "amount": "1 teaspoon",
-      "notes": null
+      "notes": "ground"
     },
     {
-      "name": "ground coriander",
+      "name": "coriander",
       "amount": "1 teaspoon",
-      "notes": null
+      "notes": "ground"
     },
     {
-      "name": "ground cinnamon",
+      "name": "cinnamon",
       "amount": "1/2 teaspoon",
-      "notes": null
-    },
-    {
-      "name": "ground turmeric",
-      "amount": "1/2 teaspoon",
-      "notes": null
-    },
-    {
-      "name": "chickpea broth",
-      "amount": "2 cups",
-      "notes": null
+      "notes": "ground"
     },
     {
       "name": "salt",
-      "amount": "to taste",
-      "notes": null
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
     }
   ],
   "instructions": [
-    "Heat the oil in a large saucepan over medium heat.",
-    "Add the onion and cook until softened, about 5 minutes.",
-    "Add the garlic and ginger and cook for another minute.",
-    "Add the cumin, coriander, cinnamon, and turmeric and cook for 1-2 minutes, until fragrant.",
-    "Add the chickpeas, broth, and salt. Stir to combine.",
-    "Bring the mixture to a simmer.",
-    "Reduce the heat to low and cook, covered, for 20-25 minutes, until the flavors have melded together and the chickpeas are tender.",
-    "Serve hot, garnished with fresh herbs, if desired."
+    "Heat the olive oil in a large Dutch oven or saucepan over medium heat.",
+    "Add the onion, ginger, and garlic and cook until the onion is softened, about 5 minutes.",
+    "Add the cumin, coriander, cinnamon, and salt. Cook for 1 minute, stirring constantly.",
+    "Add the chickpeas, honey (if using), and 1 cup of water. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20-25 minutes, or until the flavors have melded together and the chickpeas are tender.",
+    "Serve the tagine hot, garnished with chopped fresh herbs (such as parsley or cilantro) if desired."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -81,20 +73,20 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "chickpeas",
+    "chickpea",
     "tagine",
-    "middle eastern",
-    "vegetarian",
-    "vegan"
+    "middle-eastern",
+    "spiced",
+    "stew"
   ],
   "nutrition": {
-    "calories": 422,
-    "protein": 14,
-    "carbs": 64,
-    "fat": 12
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-middle-eastern-chickpea-tagine",
   "providerUsed": "groq",
-  "createdAt": "2026-07-02T20:33:04.577Z"
+  "createdAt": "2026-07-04T03:38:05.805Z"
 }
