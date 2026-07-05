@@ -1,0 +1,88 @@
+{
+  "slug": "light-filipino-lamb-shanks-lumpia",
+  "title": "Filipino-Style Braised Lamb Shanks",
+  "description": "A hearty and flavorful Filipino-inspired dish featuring tender lamb shanks slow-cooked in a rich and savory sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4",
+      "notes": "2 pounds"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "lumpia wrapper",
+      "amount": "4",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shanks with salt and black pepper.",
+    "Heat the oil in an oven-safe Dutch oven over medium-high heat. Sear the lamb shanks until browned, about 5 minutes.",
+    "Add the garlic, ginger, and onion to the pot and cook until the onion is translucent.",
+    "Add the soy sauce, fish sauce, and 2 cups of water to the pot.",
+    "Cover the pot and transfer it to the preheated oven. Braise the lamb shanks for 2 1/2 hours, or until tender.",
+    "About 30 minutes before serving, stir in the chopped bok choy and cook until wilted.",
+    "Serve the lamb shanks with the braising liquid spooned over the top.",
+    "To make lumpia, heat a small amount of oil in a pan over medium heat. Wrap the lumpia wrapper around a filling of your choice (such as vegetables or meat). Fry until crispy and serve with the braised lamb shanks."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "filipino",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-filipino-lamb-shanks-lumpia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:34:36.469Z"
+}
