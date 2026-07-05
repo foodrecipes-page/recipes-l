@@ -1,0 +1,66 @@
+{
+  "slug": "low-salted-venezuelan-paneer-skewers",
+  "title": "Venezuelan Paneer Skewers",
+  "description": "A delicious and easy-to-make dish that combines the flavors of Venezuela with the creaminess of paneer. These skewers are perfect for a quick snack or appetizer.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 block (250g)",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "low salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "1 package (20-25 skewers)",
+      "notes": null
+    },
+    {
+      "name": "Venezuelan",
+      "amount": "1 tablespoon",
+      "notes": "Venezuelan seasoning (e.g. aji amarillo, cumin)"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread paneer cubes and Venezuelan seasoning onto skewers.",
+    "3. Brush skewers with oil and season with salt to taste.",
+    "4. Grill skewers for 2-3 minutes per side, or until paneer is lightly charred.",
+    "5. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    " venezuelan",
+    " paneer",
+    " skewers",
+    " grill",
+    " easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-salted-venezuelan-paneer-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:54:47.468Z"
+}
