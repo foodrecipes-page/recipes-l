@@ -1,0 +1,95 @@
+{
+  "slug": "light-crispy-uruguayan-corn-tacos",
+  "title": "Uruguayan Corn Tacos",
+  "description": "A twist on traditional tacos with crispy corn and Uruguayan flair.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn Tortillas",
+      "amount": "8-10",
+      "notes": "You can also use gluten-free corn tortillas"
+    },
+    {
+      "name": "Uruguayan Chorizo Sausage",
+      "amount": "1 pound",
+      "notes": "You can also use Mexican chorizo sausage"
+    },
+    {
+      "name": "Fresh Corn Kernels",
+      "amount": "1 cup",
+      "notes": "You can also use canned corn kernels"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Tomato",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "2. Add the chorizo sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "3. Add the diced onion and cook until translucent.",
+    "4. Add the diced tomato and cook for an additional 2 minutes.",
+    "5. Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the tacos by spooning the chorizo mixture onto a warmed tortilla, followed by a sprinkle of cheese, a dollop of sour cream, and a sprinkle of cilantro.",
+    "7. Serve immediately and enjoy!",
+    "8. Cook the corn kernels in a separate pan with the remaining 1 tablespoon of olive oil over medium heat until lightly toasted.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve the toasted corn kernels on top of the tacos or as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "corn",
+    "tacos",
+    "chicken-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-crispy-uruguayan-corn-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:31:58.748Z"
+}
