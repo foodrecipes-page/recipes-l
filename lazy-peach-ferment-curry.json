@@ -1,0 +1,58 @@
+{
+  "slug": "lazy-peach-ferment-curry",
+  "title": "Lazy Peach Curry",
+  "description": "A simple and delicious curry made with peaches and a hint of fermented flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peach",
+      "amount": "2 ripe peaches, diced"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tablespoons curry powder"
+    },
+    {
+      "name": "ferment",
+      "amount": "1 tablespoon fermented yogurt",
+      "notes": "optional"
+    },
+    {
+      "name": "lazy",
+      "amount": "2 tablespoons canola oil",
+      "notes": "lazy, but necessary"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add curry powder and cook for 1 minute.",
+    "Add diced peaches and cook until tender.",
+    "If using fermented yogurt, stir it in during the last minute of cooking.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peach-curry",
+    "indian-cuisine",
+    "lazy-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-peach-ferment-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:07:09.190Z"
+}
