@@ -1,0 +1,84 @@
+{
+  "slug": "light-norwegian-sushi-rice-sushi",
+  "title": "Norwegian Sushi Rolls",
+  "description": "A unique fusion of traditional Norwegian ingredients with sushi. Perfect for adventurous foodies!",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cured Salmon",
+      "amount": "1/2 cup",
+      "notes": "Norwegian salmon, cured in salt and sugar"
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup",
+      "notes": "Fresh Norwegian dill"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Wasabi",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pickled Ginger",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced Norwegian ginger"
+    },
+    {
+      "name": "Sushi Nori",
+      "amount": "1 sheet",
+      "notes": "Norwegian seaweed sheet"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to the package instructions.",
+    "Cut the cured salmon into thin slices.",
+    "Mix the dill, lemon juice, and sesame oil in a small bowl.",
+    "Spread a thin layer of wasabi onto the nori sheet.",
+    "Place a sheet of nori on a sushi mat, and spread a thin layer of sushi rice onto the nori.",
+    "Arrange the salmon slices on the rice, leaving a small border at the top.",
+    "Drizzle the dill mixture over the salmon, and top with pickled ginger.",
+    "Roll the sushi using the mat, applying gentle pressure.",
+    "Slice the roll into 8 equal pieces using a sharp knife.",
+    "Serve with soy sauce and wasabi, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sushi",
+    "norwegian",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-norwegian-sushi-rice-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:05:20.463Z"
+}
