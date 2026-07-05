@@ -1,0 +1,64 @@
+{
+  "slug": "lovely-roasted-australian-beef-roast",
+  "title": "Aussie Beef Roast",
+  "description": "A classic roasted beef dish from Australia, tender and flavorful. Perfect for special occasions or Sunday dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef roast",
+      "amount": "1.5 kg",
+      "notes": "Choose a high-quality cut for the best results"
+    },
+    {
+      "name": "lovely roasted vegetables",
+      "amount": "2 cups mixed",
+      "notes": "Choose your favorite vegetables, such as carrots, potatoes, and onions"
+    },
+    {
+      "name": "a pinch of salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt for added flavor"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 220°C (425°F).",
+    "Season the beef roast with salt and pepper.",
+    "Heat a large oven-safe pan over high heat. Add the beef roast and sear until browned on all sides.",
+    "Transfer the pan to the preheated oven and roast for 20 minutes.",
+    "Reduce the oven temperature to 180°C (350°F) and continue roasting for an additional 45 minutes, or until the beef reaches your desired level of doneness.",
+    "While the beef is cooking, prepare your roasted vegetables by tossing them with a bit of oil and seasoning with salt and pepper.",
+    "After the beef has roasted for 20 minutes, add the vegetables to the pan and continue roasting for an additional 20-25 minutes, or until the vegetables are tender.",
+    "Remove the pan from the oven and let the beef rest for 10 minutes before slicing and serving.",
+    "Serve the beef roast with the roasted vegetables and your choice of sides, such as mashed potatoes or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "roast",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-roasted-australian-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T18:26:39.425Z"
+}
