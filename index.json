@@ -6207,13 +6207,11 @@
   },
   {
     "slug": "light-roasted-thai-dried-white-corn-kanom-jeen",
-    "title": "Light Roasted Thai Dried White Corn Kanom Jeen",
+    "title": "Thai-Style Roasted Chicken and Rice",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "paleo-friendly",
-      "thai-street-food",
-      "weeknight-meal"
+      "thaicuisine",
+      "roastedchicken",
+      "kanomjeen"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 40,
@@ -15025,16 +15023,14 @@
   },
   {
     "slug": "low-key-lavish-russian-chickpeas-stew",
-    "title": "Low Key Lavish Russian Chickpeas Stew",
+    "title": "Hearty Russian Chickpea Stew",
     "tags": [
-      "comfort-food",
-      "low-glycemic",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "russian",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
