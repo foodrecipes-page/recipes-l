@@ -1,0 +1,65 @@
+{
+  "slug": "luminous-charred-polish-ham-toast",
+  "title": "Charred Polish Ham Toast",
+  "description": "A simple yet flavorful breakfast dish featuring charred polish ham on toasted bread.",
+  "cuisine": "polish",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "polish ham",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "luminous",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "charred",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium-high heat.",
+    "Place 2 slices of polish ham in the panini press or grill.",
+    "Close the lid and cook for 2-3 minutes or until the ham is lightly charred.",
+    "Meanwhile, toast 2 slices of bread.",
+    "Assemble the charred polish ham toast by placing the cooked ham on top of the toasted bread.",
+    "Add a slice of luminous and a sprinkle of charred if desired.",
+    "Serve immediately and enjoy.",
+    "Repeat the process for the remaining ingredients.",
+    "Serve the charred polish ham toast warm.",
+    "Garnish with additional luminous and charred if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "polish",
+    "ham",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luminous-charred-polish-ham-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:47:00.903Z"
+}
