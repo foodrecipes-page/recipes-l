@@ -1938,19 +1938,14 @@
   },
   {
     "slug": "leaf-wrap-steam-american-grape-juice-tagine",
-    "title": "Leaf-Wrap-Steam American Grape Juice Tagine",
+    "title": "Grape and American Tagine",
     "tags": [
-      "american",
-      "breakfast",
-      "easy-to-make",
-      "grape-juice",
-      "healthy",
-      "low-fat",
-      "one-pan",
-      "weeknight"
+      "tagine",
+      "grape",
+      "american-cheese"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -3036,20 +3031,16 @@
   },
   {
     "slug": "light-brazilian-fennel-bulb-bowl",
-    "title": "Light Brazilian Fennel Bowl",
+    "title": "Braised Fennel and Brazilian Steak Bowl",
     "tags": [
-      "brazilian",
-      "dashi",
-      "dinner",
+      "grilled-steak",
       "fennel",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "brazilian-cuisine",
+      "dinner",
+      "meat-lovers"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
