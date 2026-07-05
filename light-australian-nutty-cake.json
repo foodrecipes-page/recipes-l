@@ -1,0 +1,100 @@
+{
+  "slug": "light-australian-nutty-cake",
+  "title": "Australian-Style Pavlova",
+  "description": "A classic Australian meringue-based dessert topped with fresh fruits.",
+  "cuisine": "Australian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Large egg whites",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh strawberries, sliced",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh blueberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh kiwi, peeled and sliced",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150°C (300°F).",
+    "Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, beat the egg whites until stiff peaks form.",
+    "Gradually add the granulated sugar, brown sugar, and vanilla extract to the egg whites.",
+    "Beat until stiff and glossy.",
+    "Sift the flour over the meringue mixture and fold gently.",
+    "Transfer the meringue mixture to a piping bag fitted with a large round tip.",
+    "Pipe the meringue onto the prepared baking sheet in a round shape, about 24cm (9.5in) in diameter.",
+    "Bake for 1 1/2 hours, or until the meringue is crisp and dry.",
+    "Remove from the oven and let cool completely.",
+    "To assemble, place the cooled meringue on a serving plate or cake stand.",
+    "Dust the meringue with confectioners' sugar.",
+    "Arrange the sliced strawberries, blueberries, and kiwi on top of the meringue.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "pavlova",
+    "dessert",
+    "meringue",
+    "fresh-fruit"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-australian-nutty-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:24:14.009Z"
+}
