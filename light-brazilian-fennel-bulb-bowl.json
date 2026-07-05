@@ -1,0 +1,73 @@
+{
+  "slug": "light-brazilian-fennel-bulb-bowl",
+  "title": "Braised Fennel and Brazilian Steak Bowl",
+  "description": "A hearty and flavorful bowl dish featuring tender braised fennel and grilled Brazilian steak.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian Steak (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "such as flank steak or skirt steak"
+    },
+    {
+      "name": "Fennel (2 bulbs)",
+      "amount": "2 bulbs",
+      "notes": "bulb only, sliced"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season steak with salt, pepper, and garlic powder. Grill for 5-7 minutes per side, or until cooked to desired level of doneness.",
+    "In a large bowl, toss sliced fennel with olive oil, salt, and pepper.",
+    "In a large skillet, cook fennel over medium heat for 10-12 minutes, or until tender.",
+    "Slice grilled steak against the grain.",
+    "To assemble bowls, place cooked fennel in the bottom, then top with sliced steak.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-steak",
+    "fennel",
+    "brazilian-cuisine",
+    "dinner",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 25,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-brazilian-fennel-bulb-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:41:30.718Z"
+}
