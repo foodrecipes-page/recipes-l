@@ -1,0 +1,87 @@
+{
+  "slug": "luxuriant-dense-irish-prune-casserole",
+  "title": "Delicious Irish Prune Casserole",
+  "description": "A hearty, comforting casserole made with sweet prunes and tender Irish lamb. Perfect for a cold winter's night.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup pitted",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "luxuriant beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dense red wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with salt and pepper.",
+    "Sear the lamb in a large Dutch oven over medium-high heat until browned on all sides.",
+    "Remove the lamb and set aside.",
+    "Add the onion and garlic to the pot and cook until softened.",
+    "Add the flour and cook for 1 minute.",
+    "Gradually add the beef broth and red wine, stirring to combine.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the lamb from the pot and let rest for 10 minutes before slicing.",
+    "Strain the juices and discard the solids.",
+    "Serve the lamb with the prune casserole and spoon some of the juices over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish-lamb",
+    "prune-casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-dense-irish-prune-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:57:39.022Z"
+}
