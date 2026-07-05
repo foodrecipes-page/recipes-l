@@ -9944,16 +9944,14 @@
   },
   {
     "slug": "lightly-simmered-syrian-vegetable-stew",
-    "title": "Lightly Simmered Syrian Vegetable Stew",
+    "title": "Syrian Vegetable Stew",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "one-pot",
-      "syrian-cuisine",
-      "vegetarian"
+      "stew",
+      "vegetarian",
+      "syrian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
@@ -15052,17 +15050,16 @@
   },
   {
     "slug": "low-salted-venezuelan-paneer-skewers",
-    "title": "Low Salted Venezuelan Paneer Skewers",
+    "title": "Venezuelan Paneer Skewers",
     "tags": [
-      "easy-to-make",
-      "grilled",
-      "healthy-snack",
-      "kid-friendly",
-      "low-carb",
-      "venezuelan-cuisine"
+      " venezuelan",
+      " paneer",
+      " skewers",
+      " grill",
+      " easy"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 16,
     "shard": "l"
   },
   {
@@ -18233,17 +18230,14 @@
   },
   {
     "slug": "luxuriant-dense-irish-prune-casserole",
-    "title": "Luxuriant Dense Irish Prune Casserole",
+    "title": "Delicious Irish Prune Casserole",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
-      "prune-based",
-      "shojin-friendly",
-      "vegetarian",
-      "whiskey-flambe"
+      "irish-lamb",
+      "prune-casserole",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
