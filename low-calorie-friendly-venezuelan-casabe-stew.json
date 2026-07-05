@@ -1,0 +1,87 @@
+{
+  "slug": "low-calorie-friendly-venezuelan-casabe-stew",
+  "title": "Low-Calorie Venezuelan Casabe Stew",
+  "description": "A hearty, low-calorie stew made with traditional Venezuelan ingredients, served with crispy casabe. Perfect for a comforting meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Casabe (Venezuelan flatbread)",
+      "amount": "2 whole",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Lean beef (such as sirloin or round)",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning the meat"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Low-sodium beef broth",
+      "amount": "2 cups",
+      "notes": "For a rich broth"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion, garlic, and red bell pepper; cook until tender, about 5 minutes.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Add beef broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Stir in oregano and season with salt and pepper, to taste.",
+    "Serve with crispy casabe on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "venezuelan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-calorie-friendly-venezuelan-casabe-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:23:24.478Z"
+}
