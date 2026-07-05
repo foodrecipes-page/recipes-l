@@ -1,0 +1,65 @@
+{
+  "slug": "leaf-wrap-steam-american-grape-juice-tagine",
+  "title": "Grape and American Tagine",
+  "description": "A flavorful and sweet tagine dish, perfect for a dinner option. This recipe combines the natural sweetness of grapes with the richness of American cheese.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tagine",
+      "amount": "1",
+      "notes": "Traditionally made from clay, this cooking vessel is essential for this dish."
+    },
+    {
+      "name": "Grape",
+      "amount": "250g",
+      "notes": "Red or green grapes work well in this recipe."
+    },
+    {
+      "name": "American Cheese",
+      "amount": "100g",
+      "notes": "You can substitute with other types of cheese if needed."
+    },
+    {
+      "name": "Juice",
+      "amount": "50ml",
+      "notes": "Use a sweet juice like grape or orange to balance the flavors."
+    },
+    {
+      "name": "Leaf",
+      "amount": "4",
+      "notes": "Fresh leaves like parsley or cilantro add a nice touch to the dish."
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine to medium heat.",
+    "Add the grapes, American cheese, and juice to the tagine.",
+    "Simmer the mixture for 10 minutes, stirring occasionally.",
+    "Add the fresh leaves to the tagine and stir to combine.",
+    "Serve the tagine hot, garnished with additional leaves if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "grape",
+    "american-cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/leaf-wrap-steam-american-grape-juice-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:01:28.135Z"
+}
