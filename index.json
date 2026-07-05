@@ -4019,17 +4019,14 @@
   },
   {
     "slug": "light-filipino-lamb-shanks-lumpia",
-    "title": "Light Filipino Lamb Shanks Lumpia",
+    "title": "Filipino-Style Braised Lamb Shanks",
     "tags": [
-      "diabetic-friendly",
-      "easy-to-make",
-      "filipino-cuisine",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "filipino",
+      "braised"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 65,
+    "cuisine": "Filipino",
+    "totalTimeMin": 200,
     "shard": "l"
   },
   {
@@ -4106,18 +4103,15 @@
   },
   {
     "slug": "light-flaky-earthy-middle-eastern-fish-flatbread",
-    "title": "light flaky earthy middle-eastern fish flatbread",
+    "title": "Middle Eastern Fish Wrap",
     "tags": [
-      "easy-to-make",
-      "fish",
-      "gluten-free",
       "healthy",
-      "low-carb",
+      "fish",
       "middle-eastern",
-      "weeknight"
+      "flatbread"
     ],
-    "cuisine": "middle-eastern",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
