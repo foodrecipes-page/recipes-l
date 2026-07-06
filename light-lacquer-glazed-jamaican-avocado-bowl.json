@@ -1,0 +1,71 @@
+{
+  "slug": "light-lacquer-glazed-jamaican-avocado-bowl",
+  "title": "Jamaican Avocado Bowl",
+  "description": "A flavorful and nutritious bowl filled with Jamaican spices, avocado, and a hint of sweet glaze.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "2 ripe avocados"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Glazed Carrots",
+      "amount": "4 carrots, peeled and chopped"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Cook the brown rice according to package instructions.",
+    "2. In a pan, heat the coconut oil over medium heat.",
+    "3. Add the Jamaican Jerk Seasoning and cook for 1 minute.",
+    "4. Add the chopped carrots and cook for 5 minutes, or until tender.",
+    "5. In a separate pan, grill the avocado slices until slightly charred.",
+    "6. In a bowl, combine the cooked rice, carrots, avocado slices, and chopped cilantro.",
+    "7. Drizzle with lime juice and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "avocado",
+    "bowls",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-lacquer-glazed-jamaican-avocado-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:45:41.277Z"
+}
