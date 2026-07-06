@@ -1,0 +1,83 @@
+{
+  "slug": "luxe-lettuce-wrapped-vietnamese-avocado-bun-cha",
+  "title": "Vietnamese-Style Cha Buns",
+  "description": "A flavorful and refreshing take on traditional Vietnamese street food, these cha buns are filled with grilled pork and topped with crunchy lettuce and creamy avocado.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cha Meat",
+      "amount": "250g",
+      "notes": "You can use any type of meat you like, such as pork or beef"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Choose a crisp and crunchy lettuce for the best results"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "Mash the avocado for a creamy topping"
+    },
+    {
+      "name": "Bun",
+      "amount": "4-6",
+      "notes": "You can use store-bought or homemade buns"
+    },
+    {
+      "name": "Luxe Hoisin Sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Slice the cha meat into thin strips and season with soy sauce, sugar, and Worcestershire sauce (if using).",
+    "3. Grill the cha meat for 3-4 minutes per side, or until cooked through.",
+    "4. Meanwhile, toast the buns by grilling them for 1-2 minutes per side.",
+    "5. Assemble the buns by spreading a layer of hoisin sauce on the bottom bun, followed by a few pieces of the grilled cha meat.",
+    "6. Top with lettuce, avocado, and any other desired toppings.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "cha-buns",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxe-lettuce-wrapped-vietnamese-avocado-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:06:55.841Z"
+}
