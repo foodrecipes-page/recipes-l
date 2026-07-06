@@ -6874,16 +6874,15 @@
   },
   {
     "slug": "light-springy-kenyan-doubanjiang-bowl",
-    "title": "Light Springy Kenyan Doubanjiang Bowl",
+    "title": "Kenyan Doubanjiang Fried Rice Bowl",
     "tags": [
-      "easy",
-      "gluten-free",
-      "one-pan",
-      "quick",
-      "vegan"
+      "kenyan",
+      "fried-rice",
+      "doubanjiang",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 18,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -7965,16 +7964,15 @@
   },
   {
     "slug": "lightly-charred-creamy-cantonese-clams-ma-la-tang",
-    "title": "Lightly Charred Creamy Cantonese Clams Ma La Tang",
+    "title": "Tang's Cantonese Clams",
     "tags": [
       "cantonese",
-      "chinese",
-      "shellfish",
-      "spicy",
-      "vegetarian"
+      "seafood",
+      "clams",
+      "stir-fry"
     ],
     "cuisine": "Cantonese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -18055,18 +18053,16 @@
   },
   {
     "slug": "lush-spanish-danmuji-paella",
-    "title": "Lush Spanish Danmuji Paella",
+    "title": "Spanish Paella with Danmuji",
     "tags": [
-      "funky",
-      "monsoon",
-      "paella",
-      "plant-based",
-      "salt-block",
-      "valencian",
-      "vegan"
+      "spanish",
+      "seafood",
+      "vegetarian",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
