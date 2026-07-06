@@ -5635,18 +5635,14 @@
   },
   {
     "slug": "light-moroccan-fish-broth",
-    "title": "Light Moroccan Fish Broth",
+    "title": "Moroccan Fish Stew",
     "tags": [
-      "fish-broth",
-      "low-sodium",
-      "post-workout",
       "moroccan",
-      "poach",
-      "onion-rings",
-      "quick"
+      "fish",
+      "stew"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 25,
+    "cuisine": "moroccan",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
@@ -16722,17 +16718,16 @@
   },
   {
     "slug": "luscious-molten-italian-rice-krispies-tiramisu",
-    "title": "Luscious Molten Italian Rice Krispies Tiramisu",
+    "title": "Tiramisu Rice Krispies Crunch",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "herbal-flavors",
-      "italian-dessert",
-      "molten-center",
-      "rice-krispies-treat"
+      "dessert",
+      "italian",
+      "rice-krispies",
+      "tiramisu",
+      "italian-dessert"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
