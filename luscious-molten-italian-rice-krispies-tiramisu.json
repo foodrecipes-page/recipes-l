@@ -1,0 +1,74 @@
+{
+  "slug": "luscious-molten-italian-rice-krispies-tiramisu",
+  "title": "Tiramisu Rice Krispies Crunch",
+  "description": "A creative dessert that combines the classic Italian flavors of tiramisu with the childhood favorite of Rice Krispies treats.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Italian cookies (e.g., Biscotti or Savoiardi)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Molten chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Luscious mascarpone cheese",
+      "amount": "8 oz"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the Rice Krispies and cookies.",
+    "Melt the molten chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Pour the melted chocolate over the Rice Krispies mixture and stir until combined.",
+    "In a separate bowl, whip the whipped cream until stiff peaks form.",
+    "Fold the whipped cream into the mascarpone cheese until well combined.",
+    "Add the granulated sugar and vanilla extract to the mascarpone mixture and stir to combine.",
+    "Spoon the mascarpone mixture over the Rice Krispies mixture and top with additional cookies, if desired.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Cut into bars and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "italian",
+    "rice-krispies",
+    "tiramisu",
+    "italian-dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-molten-italian-rice-krispies-tiramisu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:59:42.155Z"
+}
