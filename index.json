@@ -940,15 +940,14 @@
   },
   {
     "slug": "lazy-sunday-bean-steam",
-    "title": "Lazy Sunday Bean Steam",
+    "title": "Sunday Bean Soup",
     "tags": [
-      "pinto-beans",
-      "lazy-sunday",
-      "portuguese",
-      "pescatarian-friendly"
+      "soup",
+      "comfort-food",
+      "vegetarian"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 65,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -5935,17 +5934,14 @@
   },
   {
     "slug": "light-peppery-middle-eastern-rainbow-trout-kebabs",
-    "title": "Light Peppery Middle Eastern Rainbow Trout Kebabs",
+    "title": "Middle Eastern Trout Kebabs",
     "tags": [
-      "fish",
-      "healthy",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "kebabs",
+      "middle eastern",
+      "fish"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "totalTimeMin": 33,
     "shard": "l"
   },
   {
@@ -11676,17 +11672,14 @@
   },
   {
     "slug": "lively-dense-ligurian-celery-lasagna",
-    "title": "Lively Dense Ligurian Celery Lasagna",
+    "title": "Classic Ligurian Lasagna",
     "tags": [
-      "high-protein",
-      "italian-food",
-      "one-pan",
-      "plant-based",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "lasagna",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
@@ -18080,16 +18073,15 @@
   },
   {
     "slug": "luxe-lettuce-wrapped-vietnamese-avocado-bun-cha",
-    "title": "Luxe Lettuce Wrapped Vietnamese Avocado Bun Cha",
+    "title": "Vietnamese-Style Cha Buns",
     "tags": [
-      "easily-transportable",
-      "high-protein",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "vietnamese",
+      "grilled",
+      "cha-buns",
+      "lunch"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 165,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
