@@ -1,0 +1,89 @@
+{
+  "slug": "light-springy-kenyan-doubanjiang-bowl",
+  "title": "Kenyan Doubanjiang Fried Rice Bowl",
+  "description": "A twist on traditional fried rice, this Kenyan-inspired dish combines spicy doubanjiang with springy vegetables.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spring onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "doubanjiang",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "kenyan vegetables",
+      "amount": "1 cup",
+      "notes": "such as sweet potatoes, carrots, and peas"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped spring onion and cook until softened, about 2 minutes.",
+    "Add the cooked rice to the skillet and stir-fry for 2-3 minutes.",
+    "Add the doubanjiang and stir-fry for another minute.",
+    "Add the Kenyan vegetables to the skillet and stir-fry for 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the fried rice in a bowl and garnish with additional spring onion if desired.",
+    "Drizzle with light soy sauce to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fried-rice",
+    "doubanjiang",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-springy-kenyan-doubanjiang-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:02:53.711Z"
+}
