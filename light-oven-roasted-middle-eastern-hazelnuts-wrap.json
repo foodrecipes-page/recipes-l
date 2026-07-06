@@ -1,0 +1,81 @@
+{
+  "slug": "light-oven-roasted-middle-eastern-hazelnuts-wrap",
+  "title": "Middle Eastern Hazelnut Chicken Wrap",
+  "description": "A delicious and healthy wrap filled with roasted chicken, crunchy hazelnuts, and creamy tzatziki sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Middle Eastern wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper.",
+    "Place the chicken on a baking sheet and roast for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, toast the hazelnuts in a dry skillet over medium heat for 5-7 minutes, or until fragrant.",
+    "In a small bowl, mix together the tzatziki sauce and chopped parsley.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing it thinly.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading the tzatziki sauce on the wrap, followed by the sliced chicken, toasted hazelnuts, red onion, cucumber, and a sprinkle of parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "wrap",
+    "middle-eastern",
+    "hazelnuts"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "30g",
+    "fat": "32g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-oven-roasted-middle-eastern-hazelnuts-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:55:47.072Z"
+}
