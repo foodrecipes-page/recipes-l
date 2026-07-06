@@ -1,0 +1,78 @@
+{
+  "slug": "lightly-charred-creamy-cantonese-clams-ma-la-tang",
+  "title": "Tang's Cantonese Clams",
+  "description": "A classic Cantonese-inspired dish featuring tender clams in a savory sauce.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "non-vegetarian",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "scrubbed and rinsed"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "preferably Cantonese-style"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of sesame oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and sliced ginger; stir-fry until fragrant.",
+    "Add the clams, light soy sauce, and oyster sauce (if using); stir to combine.",
+    "Cover the skillet and cook for 3-5 minutes, or until the clams open.",
+    "Uncover and stir in the chopped scallions.",
+    "Serve immediately, garnished with additional scallions if desired.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "seafood",
+    "clams",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-charred-creamy-cantonese-clams-ma-la-tang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:35:07.992Z"
+}
