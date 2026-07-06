@@ -1,0 +1,94 @@
+{
+  "slug": "lightly-emulsified-thai-noodles-pad-thai",
+  "title": "Delicious Pad Thai",
+  "description": "A classic Thai dish made with stir-fried noodles, vegetables, and a tangy sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup",
+      "notes": "soaked according to package instructions"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Light brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the shallots and garlic and stir-fry until fragrant.",
+    "Add the tofu and cook until golden brown.",
+    "Add the carrots and bean sprouts and stir-fry for 2-3 minutes.",
+    "Add the noodles and stir-fry for 2-3 minutes.",
+    "In a small bowl, whisk together the light brown sugar, tamarind paste, and fish sauce (if using).",
+    "Pour the sauce over the noodles and vegetables, and stir-fry for 1-2 minutes.",
+    "Serve hot, garnished with chopped peanuts and fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pad-thai",
+    "thai-food",
+    "noodle-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-emulsified-thai-noodles-pad-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:02:24.983Z"
+}
