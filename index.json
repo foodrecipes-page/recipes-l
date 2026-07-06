@@ -11035,17 +11035,16 @@
   },
   {
     "slug": "lightly-sweet-saudi-arabian-lamb-kebabs",
-    "title": "Lightly Sweet Saudi Arabian Lamb Kebabs",
+    "title": "Saudi Arabian Kebabs",
     "tags": [
-      "high-protein",
-      "lamb-recipes",
-      "middle-eastern",
-      "one-pan",
-      "sugar-free",
-      "weeknight"
+      "saudi-arabian",
+      "kebabs",
+      "lamb",
+      "grilling",
+      "bbq"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -13570,16 +13569,13 @@
   },
   {
     "slug": "lovely-middle-eastern-vegetable-tagine",
-    "title": "Lovely Middle Eastern Vegetable Tagine",
+    "title": "Lamb Tagine with Vegetables",
     "tags": [
-      "clay-pot",
-      "comfort-food",
-      "healthy",
-      "middle-eastern",
-      "stew",
-      "vegetarian"
+      "lamb",
+      "vegetable",
+      "moroccan"
     ],
-    "cuisine": "Middle Eastern",
+    "cuisine": "Moroccan",
     "totalTimeMin": 60,
     "shard": "l"
   },
@@ -16851,16 +16847,15 @@
   },
   {
     "slug": "luscious-norwegian-wagyu-bowl",
-    "title": "Pan-Seared Wagyu Steak with Luscious Mushroom Bowl",
+    "title": "Pan-Seared Wagyu Luscious Bowl",
     "tags": [
-      "wagyu",
-      "mushroom",
-      "luxury",
-      "dinner",
-      "special occasion"
+      "wagyu beef",
+      "pan-seared",
+      "japanesse",
+      "comfort food"
     ],
-    "cuisine": null,
-    "totalTimeMin": 30,
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
