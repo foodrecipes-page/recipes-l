@@ -1,0 +1,74 @@
+{
+  "slug": "lively-energizing-russian-vermicelli-pasta-pilaf",
+  "title": "Russian Vermicelli Pilaf",
+  "description": "A classic Russian dish made with vermicelli, vegetables, and spices. This pilaf is a hearty and flavorful meal option.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add diced onion and sauté until softened.",
+    "Add diced carrot and sauté for another 5 minutes.",
+    "Add vermicelli, pilaf, salt, and black pepper. Stir well.",
+    "Add water to the saucepan and bring to a boil.",
+    "Reduce heat to low and simmer for 15-20 minutes or until vermicelli is cooked.",
+    "Stir in fresh dill and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "russian-cuisine",
+    "vermicelli",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-energizing-russian-vermicelli-pasta-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:39:10.449Z"
+}
