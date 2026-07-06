@@ -1,0 +1,81 @@
+{
+  "slug": "luscious-molten-irish-chicken-legs-stew",
+  "title": "Irish Chicken Stew",
+  "description": "A hearty and comforting stew made with tender chicken and root vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish chicken legs",
+      "amount": "4-6",
+      "notes": "Bone-in, skin-on"
+    },
+    {
+      "name": "luscious carrots",
+      "amount": "2",
+      "notes": "Large"
+    },
+    {
+      "name": "molten potatoes",
+      "amount": "3-4",
+      "notes": "Large"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "Medium"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "Low-sodium broth"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "Diamond Crystal"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the chicken legs with salt and pepper.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Sear the chicken legs until browned on both sides.",
+    "Remove the chicken from the pot and set aside.",
+    "Add more oil if necessary, then sauté the onion until softened.",
+    "Add the carrots and potatoes, cooking until they begin to soften.",
+    "Add the stew and bring to a boil.",
+    "Return the chicken to the pot, cover, and transfer to the preheated oven.",
+    "Bake for 30-40 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-chicken-stew",
+    "homestyle",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-molten-irish-chicken-legs-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:16:27.288Z"
+}
