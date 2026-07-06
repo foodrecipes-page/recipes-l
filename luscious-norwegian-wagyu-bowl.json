@@ -1,83 +1,100 @@
 {
   "slug": "luscious-norwegian-wagyu-bowl",
-  "title": "Pan-Seared Wagyu Steak with Luscious Mushroom Bowl",
-  "description": "A tender and flavorful Wagyu steak served with a rich and savory mushroom bowl. Perfect for a special occasion or a luxurious dinner.",
-  "cuisine": null,
-  "diet": null,
+  "title": "Pan-Seared Wagyu Luscious Bowl",
+  "description": "A hearty bowl dish featuring pan-seared Wagyu beef, served with a side of Norwegian luscious vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "meat-lovers",
+    "comfort-food"
+  ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Wagyu steak",
-      "amount": "2 steaks (6 oz each)",
-      "notes": ""
+      "name": "Wagyu beef",
+      "amount": "1.5 pounds",
+      "notes": "preferably ribeye or strip loin"
     },
     {
-      "name": "Luscious mushrooms",
-      "amount": "1 cup sliced",
-      "notes": "Norwegian forest mushrooms"
+      "name": "Norwegian luscious vegetables",
+      "amount": "1 cup",
+      "notes": "such as asparagus or bell peppers"
     },
     {
-      "name": "Norwegian forest mushrooms",
-      "amount": "1 cup sliced",
-      "notes": ""
+      "name": "cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "such as sesame or avocado oil"
     },
     {
-      "name": "bowl ( ceramic or wooden )",
-      "amount": "",
-      "notes": "for serving"
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
     },
     {
-      "name": "Salt",
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
       "amount": "to taste",
       "notes": ""
     },
     {
-      "name": "Pepper",
+      "name": "pepper",
       "amount": "to taste",
       "notes": ""
     },
     {
-      "name": "Olive oil",
-      "amount": "2 tbsp",
-      "notes": ""
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
     },
     {
-      "name": "Butter",
-      "amount": "2 tbsp",
-      "notes": ""
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
-    "Season the Wagyu steak with salt and pepper.",
-    "Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat.",
-    "Sear the Wagyu steak for 2-3 minutes per side, or until a nice crust forms.",
-    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, or until the steak reaches your desired level of doneness.",
-    "Meanwhile, sauté the sliced mushrooms in the remaining 1 tablespoon of olive oil until they release their liquid and start to brown.",
-    "Add 1 tablespoon of butter to the skillet with the mushrooms and stir until melted.",
-    "Serve the Wagyu steak with the mushroom bowl and additional butter on the side, if desired.",
-    "Enjoy your delicious and indulgent meal!"
+    "Heat the cooking oil in a large skillet over medium-high heat.",
+    "Season the Wagyu beef with salt, pepper, and a pinch of sugar.",
+    "Sear the beef in the skillet for 2-3 minutes per side, or until it reaches an internal temperature of 130°F for medium-rare.",
+    "Transfer the beef to a plate and let it rest for 5 minutes.",
+    "Add the soy sauce, ginger, and garlic to the skillet and stir to combine.",
+    "Add the Norwegian luscious vegetables to the skillet and cook for 2-3 minutes, or until they are tender.",
+    "Slice the Wagyu beef against the grain and serve it on top of the vegetables.",
+    "Garnish with green onions and sesame seeds, if desired.",
+    "Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 10,
+  "prepTimeMin": 15,
   "cookTimeMin": 20,
-  "totalTimeMin": 30,
-  "servings": 2,
-  "difficulty": "hard",
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
   "tags": [
-    "wagyu",
-    "mushroom",
-    "luxury",
-    "dinner",
-    "special occasion"
+    "wagyu beef",
+    "pan-seared",
+    "japanesse",
+    "comfort food"
   ],
   "nutrition": {
-    "calories": 1200,
-    "protein": 60,
-    "carbs": 10,
-    "fat": 80
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/luscious-norwegian-wagyu-bowl",
   "providerUsed": "groq",
-  "createdAt": "2026-07-02T10:16:44.116Z"
+  "createdAt": "2026-07-04T07:08:46.439Z"
 }
