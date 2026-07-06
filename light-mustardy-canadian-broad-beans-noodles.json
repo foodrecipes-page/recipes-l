@@ -1,0 +1,67 @@
+{
+  "slug": "light-mustardy-canadian-broad-beans-noodles",
+  "title": "Canadian Broad Bean Noodle Stir Fry",
+  "description": "A light and flavorful stir fry made with Canadian broad beans, noodles, and a hint of mustardy taste.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian broad beans",
+      "amount": "1 cup, trimmed and sliced"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz, cooked according to package instructions"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustardy sauce (or Dijon mustard)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced broad beans and cook until tender, about 3-4 minutes.",
+    "Add the cooked noodles to the skillet and stir to combine with the broad beans.",
+    "In a small bowl, whisk together the soy sauce, mustardy sauce, and grated ginger.",
+    "Pour the sauce over the noodles and broad beans, and stir-fry for 1-2 minutes.",
+    "Stir in the chopped green onions and cook for an additional 1 minute.",
+    "Serve the stir fry hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "vegetarian",
+    "stir-fry",
+    "noodles",
+    "broad-beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-mustardy-canadian-broad-beans-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:36:32.519Z"
+}
