@@ -1,0 +1,74 @@
+{
+  "slug": "light-flaky-slovakian-dough-dumplings",
+  "title": "Slovakian Cheese Dumplings",
+  "description": "A traditional Slovakian dish made with cheese-filled dumplings served in a light and flaky dough.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-containing"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "slovakian cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dough",
+      "amount": "1 package, light and flaky"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 375°F (190°C).",
+    "2. In a large bowl, combine flour, water, eggs, and salt to form a dough.",
+    "3. Knead the dough for 5-7 minutes until smooth and elastic.",
+    "4. Divide the dough into 8-10 equal pieces.",
+    "5. Roll out each piece into a thin circle.",
+    "6. Place a tablespoon of Slovakian cheese in the center of each circle.",
+    "7. Fold the dough over the cheese to form a half-moon shape and press edges together.",
+    "8. Fry the dumplings in hot oil for 2-3 minutes on each side, until golden brown.",
+    "9. Drain the dumplings on paper towels.",
+    "10. Serve hot with melted butter and a side of your choice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "cheese",
+    "dumplings",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "16g",
+    "carbs": "30g",
+    "fat": "24g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-flaky-slovakian-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:23:13.768Z"
+}
