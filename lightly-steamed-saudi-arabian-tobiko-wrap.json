@@ -1,0 +1,93 @@
+{
+  "slug": "lightly-steamed-saudi-arabian-tobiko-wrap",
+  "title": "Steamed Saudi Arabian Wrap",
+  "description": "A simple and flavorful wrap dish from Saudi Arabia, featuring steamed ingredients and a lightly toasted wrap.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tobiko",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Lightly steamed Arabian rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Steamed chicken breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Steamed carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Steamed cabbage",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Wrapped pita bread",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lightly steamed parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lightly steamed cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Steam the rice, carrots, cabbage, parsley, and cucumber for 10 minutes.",
+    "Season the steamed chicken breast with salt and pepper.",
+    "Warm the pita bread by lightly toasting it.",
+    "Assemble the wrap by placing the steamed chicken breast, rice, and vegetables in the pita bread.",
+    "Drizzle the tahini sauce over the top.",
+    "Garnish with tobiko and parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "steamed",
+    "chicken",
+    "vegetarian",
+    "pita"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-steamed-saudi-arabian-tobiko-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:33:25.709Z"
+}
