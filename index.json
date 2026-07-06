@@ -11714,16 +11714,15 @@
   },
   {
     "slug": "lively-energizing-russian-vermicelli-pasta-pilaf",
-    "title": "Lively Energizing Russian Vermicelli Pasta Pilaf",
+    "title": "Russian Vermicelli Pilaf",
     "tags": [
-      "fodmap-friendly",
-      "high-protein",
+      "pilaf",
       "russian-cuisine",
-      "tagine-pot",
-      "vegan-gluten-free"
+      "vermicelli",
+      "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -12192,17 +12191,16 @@
   },
   {
     "slug": "lively-spicy-mediterranean-lentil-stew",
-    "title": "Lively Spicy Mediterranean Lentil Stew",
+    "title": "Lentil Stew",
     "tags": [
-      "comfort-food",
-      "lentil-stew",
-      "mediterranean-cuisine",
-      "one-pot",
-      "plant-based",
-      "spicy"
+      "lentil",
+      "stew",
+      "vegetarian",
+      "gluten-free",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -16703,17 +16701,14 @@
   },
   {
     "slug": "luscious-molten-irish-chicken-legs-stew",
-    "title": "Luscious Molten Irish Chicken Legs Stew",
+    "title": "Irish Chicken Stew",
     "tags": [
-      "comfort-food",
-      "hearty-dish",
-      "irish-food",
-      "low-glycemic",
-      "one-pot",
-      "winter-stew"
+      "irish-chicken-stew",
+      "homestyle",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 110,
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
