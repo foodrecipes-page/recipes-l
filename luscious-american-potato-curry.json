@@ -1,0 +1,60 @@
+{
+  "slug": "luscious-american-potato-curry",
+  "title": "American Curry Potato Bake",
+  "description": "A simple and flavorful dish combining the comforts of American cuisine with the warmth of Indian curry. Baked to perfection, this potato bake is a satisfying meal for any time of day.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "luscious",
+      "amount": "1 cup",
+      "notes": "shredded cheddar cheese"
+    },
+    {
+      "name": "american",
+      "amount": "1/4 cup",
+      "notes": "sour cream"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together the sliced potatoes and curry until potatoes are evenly coated.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "Top the potatoes with the shredded cheddar cheese and dollop of sour cream.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the potatoes are tender and the cheese is melted and golden brown.",
+    "Remove from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "potato",
+    "american",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-american-potato-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:06:34.256Z"
+}
