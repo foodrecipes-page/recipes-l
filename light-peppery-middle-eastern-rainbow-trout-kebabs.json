@@ -1,0 +1,72 @@
+{
+  "slug": "light-peppery-middle-eastern-rainbow-trout-kebabs",
+  "title": "Middle Eastern Trout Kebabs",
+  "description": "A flavorful and healthy dish featuring trout fillets marinated in a mix of Middle Eastern spices and grilled to perfection on skewers.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "rainbow bell peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together spice blend, lemon juice, and olive oil.",
+    "Add the trout fillets to the marinade and coat evenly.",
+    "Thread the marinated trout, bell peppers, and onion onto skewers.",
+    "Grill the kebabs for 8-10 minutes per side, or until the trout is cooked through and flakes easily with a fork.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "middle eastern",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-peppery-middle-eastern-rainbow-trout-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:10:57.299Z"
+}
