@@ -1,0 +1,86 @@
+{
+  "slug": "lively-spicy-mediterranean-lentil-stew",
+  "title": "Lentil Stew",
+  "description": "A hearty and comforting stew made with lentils and spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentil",
+      "amount": "1 cup",
+      "notes": "brown or green lentils are fine"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Spicy stew mix",
+      "amount": "1 packet",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Lively red wine",
+      "amount": "1/4 cup",
+      "notes": "optional, omit for gluten-free"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "adjust to desired consistency"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté the onion and carrot until tender, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Add lentils, stew mix, and wine (if using).",
+    "Pour in water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30-40 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley or thyme (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "stew",
+    "vegetarian",
+    "gluten-free",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-spicy-mediterranean-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:32:12.116Z"
+}
