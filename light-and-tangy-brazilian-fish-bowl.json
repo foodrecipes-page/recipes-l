@@ -1,0 +1,85 @@
+{
+  "slug": "light-and-tangy-brazilian-fish-bowl",
+  "title": "Brazilian Fish Bowl",
+  "description": "A light and refreshing dish inspired by Brazilian cuisine, featuring pan-seared fish and a tangy bowl.",
+  "cuisine": "brazilian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4 pieces",
+      "notes": null
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Tangy Lime Juice",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Brazilian-Style Seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Crushed Peanuts",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a pan over medium-high heat. Add the fish fillets and cook for 3-4 minutes on each side, or until cooked through.",
+    "Meanwhile, cook the rice according to package instructions.",
+    "In a separate bowl, mix together the lime juice, Brazilian-style seasoning, and a pinch of salt and pepper.",
+    "To assemble the bowls, place a portion of cooked rice on the bottom, followed by a piece of fish, some mixed greens, sliced red onion, and diced tomatoes.",
+    "Drizzle the tangy lime juice mixture over the top and garnish with crushed peanuts."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fish",
+    "lunch",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-and-tangy-brazilian-fish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:57:10.875Z"
+}
