@@ -2792,18 +2792,15 @@
   },
   {
     "slug": "light-and-tangy-brazilian-fish-bowl",
-    "title": "Light and Tangy Brazilian Fish Bowl",
+    "title": "Brazilian Fish Bowl",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "grilled",
-      "low-carb",
-      "one-pan",
-      "steamed",
-      "weeknight"
+      "brazilian",
+      "fish",
+      "lunch",
+      "grilled"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 20,
+    "cuisine": "brazilian",
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -4118,17 +4115,15 @@
   },
   {
     "slug": "light-flaky-slovakian-dough-dumplings",
-    "title": "Light Flaky Slovakian Dough Dumplings",
+    "title": "Slovakian Cheese Dumplings",
     "tags": [
-      "fermented-food",
-      "flaky-dough",
-      "quick-fix",
-      "slovakian-cuisine",
-      "vegan-option",
-      "vegetarian-friendly"
+      "slovakian",
+      "cheese",
+      "dumplings",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 32,
     "shard": "l"
   },
   {
@@ -4600,16 +4595,14 @@
   },
   {
     "slug": "light-gooey-arabian-cheese-pull",
-    "title": "light gooey arabian cheese pull",
+    "title": "Gooey Cheese Pull-Apart Bread",
     "tags": [
-      "breakfast-option",
-      "easy-meal",
-      "middle-eastern",
-      "saudi-arabian",
-      "weeknight"
+      "bread",
+      "cheese",
+      "snack"
     ],
-    "cuisine": "saudi arabian",
-    "totalTimeMin": 27,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -5675,17 +5668,16 @@
   },
   {
     "slug": "light-mustardy-canadian-broad-beans-noodles",
-    "title": "Light Mustardy Canadian Broad Beans Noodles",
+    "title": "Canadian Broad Bean Noodle Stir Fry",
     "tags": [
-      "broad-beans",
       "canadian",
-      "kimchi",
-      "low-calorie",
-      "noodle-dish",
-      "vegetarian"
+      "vegetarian",
+      "stir-fry",
+      "noodles",
+      "broad-beans"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -15464,17 +15456,15 @@
   },
   {
     "slug": "luscious-american-potato-curry",
-    "title": "Luscious American Potato Curry",
+    "title": "American Curry Potato Bake",
     "tags": [
-      "american-fusion",
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "starch",
-      "tandoori"
+      "baked",
+      "potato",
+      "american",
+      "curry"
     ],
-    "cuisine": "american fusion",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
