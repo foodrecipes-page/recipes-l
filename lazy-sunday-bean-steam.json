@@ -1,0 +1,57 @@
+{
+  "slug": "lazy-sunday-bean-steam",
+  "title": "Sunday Bean Soup",
+  "description": "A hearty, comforting soup made with steamed beans and simmered with aromatic spices.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Steam",
+      "amount": "4 cups of water"
+    },
+    {
+      "name": "Lazy",
+      "amount": "1 tablespoon olive oil"
+    },
+    {
+      "name": "Sunday",
+      "amount": "1 medium onion, diced"
+    },
+    {
+      "name": "Bean",
+      "amount": "1 can kidney beans, drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the steamed water and bring to a boil.",
+    "Add the kidney beans and reduce heat to low.",
+    "Simmer for 20-25 minutes or until the flavors have melded together.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-bean-steam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:30:37.765Z"
+}
