@@ -1,0 +1,89 @@
+{
+  "slug": "lively-dense-ligurian-celery-lasagna",
+  "title": "Classic Ligurian Lasagna",
+  "description": "A traditional Italian dish featuring layers of pasta, rich meat sauce, and creamy ricotta.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "ligurian olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna sheets according to package instructions.",
+    "In a large skillet, heat ligurian olive oil over medium heat.",
+    "Add chopped onion and celery, cooking until softened.",
+    "Add dried basil, oregano, and salt, stirring to combine.",
+    "In a large bowl, combine ricotta cheese, milk, and a pinch of salt.",
+    "Spread a layer of meat sauce in the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna sheets on top of the sauce.",
+    "Spread half of the ricotta mixture over the lasagna sheets.",
+    "Sprinkle with half of the parmesan cheese.",
+    "Repeat the layers, starting with the sauce, then the lasagna sheets, the remaining ricotta mixture, and finally the remaining parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-dense-ligurian-celery-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:51:55.677Z"
+}
