@@ -1,0 +1,79 @@
+{
+  "slug": "light-moroccan-fish-broth",
+  "title": "Moroccan Fish Stew",
+  "description": "A flavorful and comforting stew made with fish, Moroccan spices, and a hint of light broth.",
+  "cuisine": "moroccan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (Cod or Tilapia)",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Light Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Moroccan Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "Diced, 14.5 oz"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fish fillets and cook until browned on both sides, about 3-4 minutes.",
+    "Add the Moroccan spice mix and cook for 1 minute.",
+    "Pour in the light broth and bring to a simmer.",
+    "Reduce heat to low and let cook for 10-12 minutes, or until the fish is cooked through.",
+    "Stir in the diced tomatoes and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "fish",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-moroccan-fish-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:52:35.762Z"
+}
