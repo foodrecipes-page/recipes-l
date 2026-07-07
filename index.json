@@ -356,17 +356,15 @@
   },
   {
     "slug": "late-night-canadian-guanciale-pasta",
-    "title": "Late Night Canadian Guanciale Pasta",
+    "title": "Pasta with Guanciale and Canadian Bacon",
     "tags": [
-      "canadian-cuisine",
-      "guanciale-recipe",
-      "late-night",
-      "midnight-cravings",
-      "ovo-vegetarian",
-      "pasta-dish"
+      "italian",
+      "pasta",
+      "breakfast",
+      "dinner"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -3436,18 +3434,15 @@
   },
   {
     "slug": "light-creamy-argentinian-millet-pasta",
-    "title": "Light Creamy Argentinian Millet Pasta",
+    "title": "Creamy Argentinian Pasta Bake",
     "tags": [
       "argentinian",
-      "cheesy",
-      "light",
-      "millet",
-      "pasta",
-      "sour-cream",
-      "vegetarian"
+      "creamy",
+      "pasta-bake",
+      "comfort-food"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
