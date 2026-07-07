@@ -3884,18 +3884,15 @@
   },
   {
     "slug": "light-ethiopian-cabbage-soup",
-    "title": "Light Ethiopian Cabbage Soup",
+    "title": "Ethiopian Cabbage Stew",
     "tags": [
-      "light",
-      "sour",
-      "one-pot",
-      "kosher-friendly",
+      "ethiopian",
+      "stew",
       "vegetarian",
-      "low-fat",
-      "quick"
+      "soup"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -15503,17 +15500,16 @@
   },
   {
     "slug": "luscious-australian-fish-poke",
-    "title": "Luscious Australian Fish Poke",
+    "title": "Australian Fish Poke Bowl",
     "tags": [
-      "australian-cuisine",
-      "high-protein",
-      "one-bowl",
-      "romantic",
-      "special-occasion",
-      "weeknight"
+      "australian",
+      "poke",
+      "fish",
+      "healthy",
+      "gluten-free"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
