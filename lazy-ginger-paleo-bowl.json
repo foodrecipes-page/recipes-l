@@ -1,0 +1,79 @@
+{
+  "slug": "lazy-ginger-paleo-bowl",
+  "title": "Paleo Ginger Chicken Bowl",
+  "description": "A healthy and flavorful paleo meal featuring ginger chicken, served in a bowl with fresh ingredients",
+  "cuisine": "Asian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tablespoons",
+      "notes": "paleo alternative to soy sauce"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together coconut aminos, grated ginger, and olive oil. Add the chicken and toss to coat.",
+    "Bake the chicken for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, prepare the bowl ingredients by chopping green onions and shredding carrots.",
+    "Slice the cucumber into thin rounds.",
+    "To assemble the bowls, place a portion of cooked chicken on the bottom, followed by chopped green onions, shredded carrots, and cucumber slices.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo",
+    "chicken",
+    "ginger",
+    "asian",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-ginger-paleo-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:50:09.168Z"
+}
