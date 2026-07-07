@@ -8970,17 +8970,15 @@
   },
   {
     "slug": "lightly-grilled-filipino-pork-sisig",
-    "title": "Lightly Grilled Filipino Pork Sisig",
+    "title": "Filipino-Style Grilled Pork Sisig",
     "tags": [
-      "date-night",
-      "filipino-food",
-      "gluten-free",
-      "grilled-pork",
-      "high-protein",
-      "whole30"
+      "grilled",
+      "filipino",
+      "pork",
+      "sisig"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -16660,17 +16658,16 @@
   },
   {
     "slug": "luscious-middle-eastern-lamb-tagine",
-    "title": "Luscious Middle Eastern Lamb Tagine",
+    "title": "Lamb Tagine with Eastern Flair",
     "tags": [
-      "almond-essence",
-      "flambe",
-      "hangover-cure",
-      "lamb-based",
-      "middle-eastern",
-      "one-pot"
+      "lamb",
+      "tagine",
+      "moroccan",
+      "eastern",
+      "spicy"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 120,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
