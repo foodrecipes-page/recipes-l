@@ -1,0 +1,87 @@
+{
+  "slug": "luscious-crisp-moroccan-fennel-tagine",
+  "title": "Crisp Fennel and Luscious Olive Tagine",
+  "description": "A flavorful and aromatic Moroccan-inspired stew made with crisp fennel, luscious olives, and a blend of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "1 bulb, sliced",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "luscious olives",
+      "amount": "1/2 cup, pitted",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add cumin, coriander, salt, and pepper. Cook for 1 minute.",
+    "Add sliced fennel and cook until slightly tender, about 5 minutes.",
+    "Add olives and broth. Bring to a simmer.",
+    "Reduce heat to low and cook, covered, until fennel is tender, about 15 minutes.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "vegetarian",
+    "fennel"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 22,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-crisp-moroccan-fennel-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:12:47.646Z"
+}
