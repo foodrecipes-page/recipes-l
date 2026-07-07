@@ -1,0 +1,76 @@
+{
+  "slug": "lovely-moroccan-carrot-kefta-tagine",
+  "title": "Moroccan Kefta Tagine",
+  "description": "A traditional Moroccan dish made with spiced kefta meatballs and vegetables cooked in a flavorful tagine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lovely moroccan spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "kefta",
+      "amount": "500g",
+      "notes": "beef or lamb mix"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add sliced carrots and cook for 5 minutes, stirring occasionally.",
+    "Add kefta meatballs and cook until browned on all sides, about 5-7 minutes.",
+    "Add Moroccan spices and stir to combine.",
+    "Cover the tagine and transfer to the oven. Cook at 180°C (360°F) for 20-25 minutes or until the meatballs are cooked through.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "beef",
+    "lamb",
+    "kefta",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-moroccan-carrot-kefta-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:02:06.795Z"
+}
