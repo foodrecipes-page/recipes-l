@@ -1,0 +1,69 @@
+{
+  "slug": "luscious-crunchy-spanish-cheese-catalan-cream",
+  "title": "Catalan Crema Catalana",
+  "description": "A rich, creamy dessert originating from Catalonia, similar to crème brûlée. This Spanish-inspired treat combines crunchy textures with a smooth, velvety cream.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cream",
+      "amount": "2 cups",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup",
+      "notes": "grated Manchego or Parmesan"
+    },
+    {
+      "name": "catalan",
+      "amount": "2 tbsp",
+      "notes": "Catalan orange marmalade"
+    },
+    {
+      "name": "spanish",
+      "amount": "1 tsp",
+      "notes": "Spanish cinnamon"
+    },
+    {
+      "name": "luscious",
+      "amount": "1 tsp",
+      "notes": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a medium saucepan, combine cream, grated cheese, Catalan orange marmalade, Spanish cinnamon, and vanilla extract.",
+    "Heat the mixture over medium heat, stirring occasionally, until the cheese has melted and the mixture is smooth.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Strain the mixture into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let them cool to room temperature.",
+    "Cover the ramekins with plastic wrap and refrigerate for at least 2 hours, or overnight.",
+    "Just before serving, sprinkle a thin layer of sugar over the top of each ramekin.",
+    "Caramelize the sugar with a kitchen torch or under the broiler."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crema-catalana",
+    "spanish-dessert",
+    "catalan-cuisine",
+    "crème-brûlée"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-crunchy-spanish-cheese-catalan-cream",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:28:46.490Z"
+}
