@@ -1,0 +1,79 @@
+{
+  "slug": "luxuriously-spicy-egyptian-morbier-pasta",
+  "title": "Egyptian Spicy Pasta Bake",
+  "description": "A twist on traditional pasta bake, adding some heat from spicy ingredients and a taste of Egypt.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "8 oz",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Luxuriously spicy sausage",
+      "amount": "1 lb",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Pasta",
+      "amount": "12 oz",
+      "notes": "Cooked al dente"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta al dente, set aside.",
+    "In a pan, cook sliced sausage over medium heat until browned.",
+    "Add chopped onion and minced garlic to the pan, cook until softened.",
+    "Add cooked pasta, chili flakes, and a pinch of salt to the pan, stir to combine.",
+    "Transfer the pasta mixture to a baking dish, top with sliced Morbier cheese.",
+    "Bake in the preheated oven for 15-20 minutes, until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley, serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "spicy",
+    "egyptian",
+    "cheesy",
+    "satisfying"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriously-spicy-egyptian-morbier-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:41:11.108Z"
+}
