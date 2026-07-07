@@ -1,0 +1,68 @@
+{
+  "slug": "lovely-spicy-brazilian-kabocha-grill",
+  "title": "Brazilian Grilled Kabocha",
+  "description": "A flavorful Brazilian-inspired grilled kabocha recipe with a lovely spicy kick.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 small",
+      "notes": "any variety"
+    },
+    {
+      "name": "spicy grill seasoning",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lovely lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Cut the kabocha in half lengthwise and scoop out seeds.",
+    "Brush both sides of the kabocha with vegetable oil and season with spicy grill seasoning.",
+    "Grill the kabocha for 20-25 minutes per side, or until tender and slightly charred.",
+    "Brush with lovely lime juice and sprinkle with sugar (if using).",
+    "Serve warm, garnished with any additional lime wedges or spicy seasoning if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "gluten-free",
+    "snack",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-spicy-brazilian-kabocha-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:03:39.865Z"
+}
