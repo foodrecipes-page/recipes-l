@@ -1,0 +1,73 @@
+{
+  "slug": "luscious-tunisian-asparagus-fritters",
+  "title": "Tunisian Pan-Seared Asparagus Fritters",
+  "description": "A flavorful and crispy fritter recipe loaded with sautéed Tunisian asparagus, perfect for any meal.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Sauté asparagus for 3-4 minutes until slightly tender.",
+    "In a separate bowl, whisk together eggs, parmesan cheese, and tunisian spice blend.",
+    "In another bowl, combine flour and a pinch of salt.",
+    "Add the flour mixture to the egg mixture and stir until just combined.",
+    "Add the cooked asparagus to the egg mixture and stir until well combined.",
+    "Using a 1/4 cup measuring cup, scoop the asparagus mixture into the skillet.",
+    "Using a spatula, flatten the mixture into a patty shape.",
+    "Cook the fritters for 3-4 minutes on each side, until golden brown.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus",
+    "fritters",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-tunisian-asparagus-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:09:20.041Z"
+}
