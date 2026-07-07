@@ -15794,17 +15794,15 @@
   },
   {
     "slug": "luscious-crunchy-spanish-cheese-catalan-cream",
-    "title": "luscious crunchy spanish cheese catalan cream",
+    "title": "Catalan Crema Catalana",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "dessert",
-      "european",
-      "make-ahead",
-      "weeknight"
+      "crema-catalana",
+      "spanish-dessert",
+      "catalan-cuisine",
+      "crème-brûlée"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 60,
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -17153,14 +17151,13 @@
   },
   {
     "slug": "luscious-smoky-korean-pork-anju-jjigae",
-    "title": "Luscious Smoky Korean Pork Anju Jjigae",
+    "title": "Smoky Korean-Style Pork Anju Jjigae",
     "tags": [
-      "gluten-free",
-      "korean-food",
-      "one-pan",
-      "smoky",
+      "korean",
+      "pork",
+      "stew",
       "spicy",
-      "weeknight"
+      "anju"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
@@ -17745,18 +17742,16 @@
   },
   {
     "slug": "lush-argentinian-ume-stew",
-    "title": "Lush Argentinian Ume Stew",
+    "title": "Argentinian Stew with Lush Greens",
     "tags": [
       "argentinian",
-      "energizing",
-      "herbal",
-      "low-fat",
-      "shojin-friendly",
-      "vegan",
-      "velvet"
+      "beef",
+      "stew",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "cuisine": "argentinian",
+    "totalTimeMin": 165,
     "shard": "l"
   },
   {
