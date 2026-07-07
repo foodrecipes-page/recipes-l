@@ -1,0 +1,90 @@
+{
+  "slug": "luscious-australian-fish-poke",
+  "title": "Australian Fish Poke Bowl",
+  "description": "A refreshing and healthy dish that combines the flavors of Australia and Hawaii. This recipe features fresh fish, mixed with a variety of vegetables and a zesty sauce.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sushi-grade fish (such as salmon or tuna)",
+      "amount": "6 oz",
+      "notes": "Fresh and sashimi-grade"
+    },
+    {
+      "name": "Australian avocado",
+      "amount": "2",
+      "notes": "Ripe and sliced"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Baby spinach, arugula, and/or lettuce"
+    },
+    {
+      "name": "Australian pineapple",
+      "amount": "1 cup",
+      "notes": "Diced and fresh"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium and gluten-free"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small pieces and place in a bowl.",
+    "Add the sliced avocado, mixed greens, diced pineapple, and thinly sliced red onion to the bowl.",
+    "In a small bowl, whisk together the soy sauce, lime juice, and chili flakes (if using).",
+    "Pour the dressing over the fish and vegetables, and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with sesame seeds and chopped fresh herbs (such as cilantro or parsley).",
+    "Serve the poke bowl immediately, with additional soy sauce and sesame seeds on the side (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "poke",
+    "fish",
+    "healthy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-australian-fish-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:51:39.439Z"
+}
