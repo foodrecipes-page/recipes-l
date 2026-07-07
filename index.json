@@ -908,16 +908,13 @@
   },
   {
     "slug": "lazy-sunday-australian-beef-skillet",
-    "title": "Lazy Sunday Australian Beef Skillet",
+    "title": "Australian Beef Skillet",
     "tags": [
-      "crisp",
-      "fodmap-friendly",
-      "gluten-free",
-      "lazy-sunday",
-      "one-pan",
-      "yeasty"
+      "beef",
+      "skillet",
+      "australian"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 25,
     "shard": "l"
   },
@@ -19443,17 +19440,16 @@
   },
   {
     "slug": "luxuriously-spicy-egyptian-morbier-pasta",
-    "title": "Luxuriously Spicy Egyptian Morbier Pasta",
+    "title": "Egyptian Spicy Pasta Bake",
     "tags": [
-      "creamy",
-      "dairy-free-friendly",
-      "egyptian",
-      "midnight-cravings",
       "pasta",
-      "spicy"
+      "spicy",
+      "egyptian",
+      "cheesy",
+      "satisfying"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
