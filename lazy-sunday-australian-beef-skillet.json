@@ -1,0 +1,84 @@
+{
+  "slug": "lazy-sunday-australian-beef-skillet",
+  "title": "Australian Beef Skillet",
+  "description": "A hearty and flavorful skillet meal, perfect for a lazy Sunday. This Australian-inspired dish features tender beef and savory vegetables.",
+  "cuisine": "australian",
+  "diet": [
+    "beef",
+    "pork-free",
+    "lamb-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "Thinly sliced beef (sirloin or ribeye)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add beef and cook for 3-4 minutes per side, or until browned and cooked to your desired level of doneness.",
+    "Remove beef from skillet and set aside.",
+    "Add onion and bell pepper to skillet and cook for 3-4 minutes, or until tender.",
+    "Add potato and cook for an additional 2-3 minutes.",
+    "Add tomato and cook for 1-2 minutes.",
+    "Return beef to skillet and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "skillet",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-australian-beef-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:19:50.932Z"
+}
