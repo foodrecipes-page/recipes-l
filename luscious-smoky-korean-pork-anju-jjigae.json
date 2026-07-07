@@ -1,0 +1,90 @@
+{
+  "slug": "luscious-smoky-korean-pork-anju-jjigae",
+  "title": "Smoky Korean-Style Pork Anju Jjigae",
+  "description": "A savory and spicy Korean-inspired stew originating from the Korean peninsula, combining the flavors of anju with smoky pork.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Anju gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, sliced",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the pork and cook until browned, about 5 minutes. Remove from the pan.",
+    "Add the sliced ginger and cook until fragrant, about 1 minute.",
+    "Add the garlic and cook until fragrant, about 1 minute.",
+    "Add the anju gochujang, soy sauce, brown sugar, and Korean chili flakes. Stir to combine.",
+    "Add the browned pork back into the pan and stir to coat with the sauce.",
+    "Add the chopped green onions and cook for 1 minute.",
+    "Serve the jjigae hot over rice.",
+    "Optional: Add rice vinegar to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "stew",
+    "spicy",
+    "anju"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-smoky-korean-pork-anju-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:10:19.806Z"
+}
