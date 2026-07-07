@@ -1,0 +1,98 @@
+{
+  "slug": "luscious-middle-eastern-lamb-tagine",
+  "title": "Lamb Tagine with Eastern Flair",
+  "description": "A hearty and aromatic lamb tagine that's perfect for a cold winter's night. This traditional Moroccan dish is infused with the rich flavors of the luscious eastern spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "2 tsp",
+      "notes": "A blend of cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "luscious eastern spices",
+      "amount": "1 tsp",
+      "notes": "A blend of cayenne pepper, paprika, and allspice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "apricots",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb in batches until browned on all sides, about 5 minutes per batch.",
+    "Transfer the browned lamb to a plate and set aside.",
+    "Reduce the heat to medium and add more oil if needed.",
+    "Cook the onion and garlic until the onion is translucent, about 5 minutes.",
+    "Add the middle eastern spices and cook for 1 minute.",
+    "Add the lamb back to the pot, along with the chicken broth, apricots, and almonds.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in the luscious eastern spices and cook for an additional 10 minutes.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "eastern",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-middle-eastern-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:49:32.641Z"
+}
