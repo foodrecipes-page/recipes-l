@@ -1,0 +1,77 @@
+{
+  "slug": "light-ethiopian-cabbage-soup",
+  "title": "Ethiopian Cabbage Stew",
+  "description": "A hearty and flavorful stew originating from Ethiopia, made with tender cabbage and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, chopped"
+    },
+    {
+      "name": "light",
+      "amount": "2 tablespoons, vegetable oil"
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "2 teaspoons, berbere spice"
+    },
+    {
+      "name": "soup",
+      "amount": "2 cups, vegetable broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic (if using) and cook until softened.",
+    "Add berbere spice and cook for 1 minute.",
+    "Add cabbage and cook until wilted.",
+    "Add vegetable broth and bring to a boil.",
+    "Reduce heat and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "vegetarian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-ethiopian-cabbage-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:43:43.035Z"
+}
