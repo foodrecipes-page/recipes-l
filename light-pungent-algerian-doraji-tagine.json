@@ -1,0 +1,86 @@
+{
+  "slug": "light-pungent-algerian-doraji-tagine",
+  "title": "Algerian Doraji Tagine",
+  "description": "A hearty tagine made with tender doraji, fragrant algerian spices, and a hint of pungency from the onions.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Doraji",
+      "amount": "2 cups, cleaned and sliced",
+      "notes": ""
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine over medium heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add the sliced doraji and cook for 5 minutes.",
+    "Add the Algerian spice blend, salt, and black pepper, stirring to combine.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until doraji is tender.",
+    "Garnish with parsley, serve hot over couscous or rice.",
+    "Simmer the tagine for 20-25 minutes or until doraji is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "doraji",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-pungent-algerian-doraji-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:09:30.559Z"
+}
