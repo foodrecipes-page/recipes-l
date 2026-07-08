@@ -1,0 +1,68 @@
+{
+  "slug": "luscious-low-carb-korean-myeongnan-roe-tagine",
+  "title": "Pan-Seared Myeongnan Roe with Korean Spices",
+  "description": "A flavorful and nutritious dish featuring pan-seared myeongnan roe, served with a side of low-carb tagine and garnished with korean spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Meyeongnan Roe",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Low-Carb Tagine",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Luscious Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat the luscious olive oil in a pan over medium-high heat.",
+    "2. Season the myeongnan roe with salt and pepper.",
+    "3. Add the myeongnan roe to the pan and sear for 2-3 minutes per side.",
+    "4. Remove the roe from the pan and set aside.",
+    "5. Add the korean chili flakes to the pan and stir for 1 minute.",
+    "6. Add the low-carb tagine to the pan and stir for 2-3 minutes.",
+    "7. Serve the pan-seared myeongnan roe with the korean-spiced tagine.",
+    "8. Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "low-carb",
+    "breakfast",
+    "roe"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-low-carb-korean-myeongnan-roe-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:46:51.669Z"
+}
