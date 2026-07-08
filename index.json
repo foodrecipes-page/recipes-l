@@ -511,14 +511,15 @@
   },
   {
     "slug": "lavish-asian-peanut-pilaf",
-    "title": "Lavish Asian Peanut Pilaf",
+    "title": "Peanut Pilaf with Asian Flair",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "papillote"
+      "peanut",
+      "pilaf",
+      "asian",
+      "vegetarian"
     ],
-    "cuisine": "Asian, Brazilian",
-    "totalTimeMin": 60,
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -9923,19 +9924,16 @@
   },
   {
     "slug": "lightly-smoked-algerian-fish-tagine",
-    "title": "Lightly Smoked Algerian Fish Tagine",
+    "title": "Smoked Fish Tagine",
     "tags": [
-      "algerian",
-      "dairy-free",
       "fish",
-      "gluten-free",
-      "one-pan",
-      "quick-fix",
-      "weeknight",
-      "whole30"
+      "smoked",
+      "tagine",
+      "north-african",
+      "lunch"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 18,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -10092,17 +10090,15 @@
   },
   {
     "slug": "lightly-smoked-polish-rye-pilaf",
-    "title": "Lightly Smoked Polish Rye Pilaf",
+    "title": "Smoked Polish Rye Pilaf Bowl",
     "tags": [
-      "one-pot",
-      "polish-cuisine",
-      "smoked-food",
-      "special-occasion",
-      "vegetarian-friendly",
-      "wine-infused"
+      "smoked-polish-sausage",
+      "rye-bread",
+      "pilaf",
+      "european-cuisine"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 60,
+    "cuisine": "European",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -18575,16 +18571,15 @@
   },
   {
     "slug": "luxuriantly-buttery-brazilian-tomato-skillet",
-    "title": "Luxuriantly Buttery Brazilian Tomato Skillet",
+    "title": "Brazilian Skillet Delight",
     "tags": [
-      "brazilian-food",
-      "breakfast-skillet",
-      "comfort-food",
-      "fodmap-friendly",
-      "one-pan"
+      "breakfast",
+      "skillet",
+      "tomato",
+      "parsley"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 25,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
