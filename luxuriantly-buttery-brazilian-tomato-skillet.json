@@ -1,0 +1,65 @@
+{
+  "slug": "luxuriantly-buttery-brazilian-tomato-skillet",
+  "title": "Brazilian Skillet Delight",
+  "description": "A flavorful and aromatic dish from Brazil, featuring a rich tomato skillet sauce, served with a side of savory ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery Brazilian skillet",
+      "amount": "1",
+      "notes": "Use a non-stick skillet for best results"
+    },
+    {
+      "name": "Luxuriantly ripe tomatoes",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium heat.",
+    "Add butter and let it melt.",
+    "Add sliced tomatoes and cook for 3-4 minutes.",
+    "Add salt and pepper to taste.",
+    "Stir in fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "skillet",
+    "tomato",
+    "parsley"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriantly-buttery-brazilian-tomato-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T13:08:35.772Z"
+}
