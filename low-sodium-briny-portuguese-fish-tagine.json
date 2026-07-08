@@ -1,0 +1,89 @@
+{
+  "slug": "low-sodium-briny-portuguese-fish-tagine",
+  "title": "Grilled Portuguese Fish Tagine",
+  "description": "A flavorful and aromatic fish dish inspired by Portuguese cuisine, marinated in a mixture of briny and tagine spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Briny Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together tagine spice mix, lemon juice, garlic, salt, and black pepper.",
+    "Brush the briny olive oil on both sides of the cod fillets.",
+    "Season the cod fillets with the tagine spice mix marinade.",
+    "Grill the cod fillets for 4-5 minutes per side, or until cooked through.",
+    "Transfer the cod fillets to a plate and garnish with parsley and cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "fish",
+    "grilled",
+    "tagine",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-sodium-briny-portuguese-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:55:42.515Z"
+}
