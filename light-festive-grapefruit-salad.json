@@ -1,0 +1,65 @@
+{
+  "slug": "light-festive-grapefruit-salad",
+  "title": "Winter Grapefruit Salad",
+  "description": "A refreshing and light salad perfect for the holiday season, featuring the tangy flavor of grapefruit.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Grapefruit",
+      "amount": "2",
+      "notes": "Halved"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Festive Pecans",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Light Balsamic Vinaigrette",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mixed greens and sliced red onion.",
+    "Arrange halved grapefruit on top of the greens.",
+    "Sprinkle chopped festive pecans over the grapefruit.",
+    "Drizzle light balsamic vinaigrette over the salad and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "holiday",
+    "salad",
+    "grapefruit",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-festive-grapefruit-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:21:49.840Z"
+}
