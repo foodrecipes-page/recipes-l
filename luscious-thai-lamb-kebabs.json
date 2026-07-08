@@ -1,0 +1,93 @@
+{
+  "slug": "luscious-thai-lamb-kebabs",
+  "title": "Thai Kebab Lamb Skewers",
+  "description": "Grilled lamb skewers with a flavorful Thai-inspired marinade, perfect for a quick and delicious dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "You can adjust the level of spiciness to your liking"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "This adds a salty, umami flavor to the dish"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Helps balance out the acidity in the marinade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice adds brightness to the dish"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing the grill grates"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Garnish for the finished skewers"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "Can be adjusted to your taste"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "Adds depth to the marinade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tablespoons",
+      "notes": "Optional, adds creaminess to the marinade"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine Thai red curry paste, fish sauce, brown sugar, lemon juice, vegetable oil, minced garlic, and ground cumin. Blend until smooth.",
+    "In a large bowl, whisk together the marinade and coconut milk (if using). Add the lamb cubes and mix until they are evenly coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "Brush the grill grates with vegetable oil to prevent sticking. Grill the skewers for 8-10 minutes, turning occasionally, until the lamb is cooked to your desired level of doneness.",
+    "Transfer the skewers to a plate and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "thai",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-thai-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:28:30.437Z"
+}
