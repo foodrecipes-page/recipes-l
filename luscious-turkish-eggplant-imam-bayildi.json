@@ -1,0 +1,88 @@
+{
+  "slug": "luscious-turkish-eggplant-imam-bayildi",
+  "title": "Turkish-Style Eggplant Imam Bayildi",
+  "description": "A hearty eggplant dish from Turkish cuisine, roasted to perfection and filled with flavorful aromatics.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "vegetarian",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2\" thick rounds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the eggplant"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Luscious",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin or paprika"
+    },
+    {
+      "name": "Turkish bay",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin or paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush the eggplant slices with olive oil and season with salt and black pepper.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tomato paste and stir to combine. Cook for 1-2 minutes.",
+    "Add the cumin, paprika, salt, and black pepper. Stir to combine.",
+    "Transfer the eggplant slices to a baking dish and top with the onion and garlic mixture.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the eggplant is tender.",
+    "Serve warm, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "eggplant",
+    "baba ganoush"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-turkish-eggplant-imam-bayildi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:04:27.054Z"
+}
