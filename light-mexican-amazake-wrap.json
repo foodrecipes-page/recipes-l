@@ -1,0 +1,74 @@
+{
+  "slug": "light-mexican-amazake-wrap",
+  "title": "Light Mexican Wrap",
+  "description": "A simple and healthy Mexican-inspired wrap filled with lean turkey and crunchy vegetables.",
+  "cuisine": "mexican",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey breast, lean",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce, mixed",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Tomato, cherry",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber, sliced",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Light wrap",
+      "amount": "1pc",
+      "notes": ""
+    },
+    {
+      "name": "Salsa, low-calorie",
+      "amount": "30g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the turkey breast with salt and pepper.",
+    "Grill the turkey for 5-6 minutes per side, or until it reaches an internal temperature of 74°C.",
+    "Let the turkey rest for 5 minutes before slicing it thinly.",
+    "In a large bowl, combine the mixed lettuce, cherry tomatoes, and sliced cucumber.",
+    "Warm the light wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading the low-calorie salsa on the warmed wrap, then layering the sliced turkey, mixed greens, and vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "healthy",
+    "low-calorie",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-mexican-amazake-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:19:43.646Z"
+}
