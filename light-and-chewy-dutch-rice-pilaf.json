@@ -1,0 +1,62 @@
+{
+  "slug": "light-and-chewy-dutch-rice-pilaf",
+  "title": "Dutch Rice Pilaf",
+  "description": "A delicious and easy-to-make pilaf dish with a Dutch twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of light in a large saucepan over medium heat.",
+    "Add 1 teaspoon of dutch and cook for 1 minute.",
+    "Add 1 cup of chewy and cook for 2 minutes.",
+    "Add 1 cup of rice and cook for 2 minutes.",
+    "Add 2 cups of pilaf and stir to combine.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 18-20 minutes or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "riderice",
+    "easyrecipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-and-chewy-dutch-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:06:17.237Z"
+}
