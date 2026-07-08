@@ -1,0 +1,95 @@
+{
+  "slug": "luxurious-slow-cooked-australian-duck-stew",
+  "title": "Australian Duck Stew",
+  "description": "A hearty and flavorful slow-cooked stew originating from Australia, featuring tender duck and a rich mixture of vegetables.",
+  "cuisine": "australian",
+  "diet": [
+    "slow-cooked"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast or thighs",
+      "amount": "1 pound",
+      "notes": "Bone-in or boneless, your choice"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Optional, can be substituted with beef broth"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the duck with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the duck until browned on both sides, then remove and set aside.",
+    "Add more oil if necessary, then sauté the onions until they're softened and lightly browned.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the carrots and potatoes, cook for 5 minutes.",
+    "Add the red wine (if using) and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Add the tomato paste, thyme, salt, and pepper. Stir to combine.",
+    "Return the duck to the pot, cover, and transfer to the oven.",
+    "Braise the stew in a preheated oven at 300°F (150°C) for 2-3 hours, or until the meat is tender and falls off the bone.",
+    "Remove from the oven and let rest for 10 minutes before serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "slow-cooked",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-slow-cooked-australian-duck-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:54:51.068Z"
+}
