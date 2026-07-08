@@ -1,0 +1,84 @@
+{
+  "slug": "lightly-smoked-polish-rye-pilaf",
+  "title": "Smoked Polish Rye Pilaf Bowl",
+  "description": "A hearty and flavorful pilaf dish made with smoked polish sausage, rye bread, and a hint of smoked flavor.",
+  "cuisine": "European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Polish Sausage",
+      "amount": "1 pound",
+      "notes": "Slice into 1/2-inch rounds"
+    },
+    {
+      "name": "Rye Bread",
+      "amount": "2 cups",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the smoked polish sausage over medium-high heat until browned, about 5 minutes.",
+    "Add the chopped onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the cubed rye bread to the skillet and cook until lightly toasted, about 2-3 minutes.",
+    "In a large bowl, combine the cooked pilaf, cooked sausage mixture, and toasted rye bread.",
+    "Mix in the caraway seeds, salt, and black pepper to taste.",
+    "Transfer the mixture to a 9x13-inch baking dish and bake for 20-25 minutes, or until lightly browned.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked-polish-sausage",
+    "rye-bread",
+    "pilaf",
+    "european-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-polish-rye-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:42:58.357Z"
+}
