@@ -5215,16 +5215,15 @@
   },
   {
     "slug": "light-lively-polish-parmesan-cheese-pilaf",
-    "title": "Polish Parmesan Cheese Pilaf",
+    "title": "Polish Pilaf with Cheese Crust",
     "tags": [
-      "comfort-food",
-      "european",
-      "one-pan",
-      "rice-bowl",
-      "seafood"
+      "polish",
+      "cheese",
+      "pilaf",
+      "easy"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "cuisine": "polish",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -5494,18 +5493,15 @@
   },
   {
     "slug": "light-mexican-amazake-wrap",
-    "title": "Light Mexican Amazake Wrap",
+    "title": "Light Mexican Wrap",
     "tags": [
-      "amazake",
-      "breakfast",
-      "easy",
-      "halal",
       "mexican",
-      "quick",
-      "snack"
+      "healthy",
+      "low-calorie",
+      "wrap"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 15,
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
