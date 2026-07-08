@@ -1,0 +1,74 @@
+{
+  "slug": "lovely-crunchy-syrian-squash-fried",
+  "title": "Crunchy Squash Fritters",
+  "description": "A crispy and flavorful side dish made with crunchy squash, a delicious twist on traditional fried fritters.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Squash",
+      "amount": "1 1/2 cups, peeled and grated"
+    },
+    {
+      "name": "Lovely, crunchy bread",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "Syrian cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2, beaten"
+    },
+    {
+      "name": "Fried onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, combine squash, bread, cheese, eggs, onion, salt, pepper, and garlic powder. Mix well.",
+    "Using a spoon, drop small balls of the mixture into the hot oil.",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "squash",
+    "fritters",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crunchy-syrian-squash-fried",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:26:53.874Z"
+}
