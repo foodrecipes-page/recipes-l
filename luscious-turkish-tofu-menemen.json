@@ -1,0 +1,85 @@
+{
+  "slug": "luscious-turkish-tofu-menemen",
+  "title": "Turkish-Style Tofu Menemen",
+  "description": "A Turkish-inspired twist on the classic Turkish menemen dish, using tofu instead of meat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "press and crumble"
+    },
+    {
+      "name": "Luscious Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Menemen Spice Mix",
+      "amount": "1 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and sauté until translucent (5 minutes).",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the crumbled tofu and cook until golden brown (5 minutes).",
+    "Add the chopped tomato, menemen spice mix, salt, and pepper. Stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Serve immediately, garnished with fresh parsley if desired.",
+    "Serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "tofu",
+    "menemen",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-turkish-tofu-menemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:07:25.153Z"
+}
