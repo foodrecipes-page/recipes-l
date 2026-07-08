@@ -1,0 +1,73 @@
+{
+  "slug": "light-herbal-snappy-canadian-duck-legs-confit",
+  "title": "Pan-Seared Duck Legs with Confit Crust",
+  "description": "A delicious and flavorful dish featuring duck legs with a crispy confit crust, perfect for a special occasion.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 duck legs",
+      "amount": "4",
+      "notes": "Make sure to pat dry with paper towels before cooking"
+    },
+    {
+      "name": "1/2 cup duck confit",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought confit works well"
+    },
+    {
+      "name": "2 tbsp light oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "2 tbsp herbal thyme",
+      "amount": "2 tbsp",
+      "notes": "Fresh or dried thyme works well"
+    },
+    {
+      "name": "1 tsp snappy garlic powder",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck legs with salt and pepper.",
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Sear the duck legs until browned on both sides, about 5 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast for 20-25 minutes, or until the duck is cooked through.",
+    "While the duck is cooking, mix together the confit, thyme, and garlic powder in a small bowl.",
+    "Remove the duck from the oven and brush the confit mixture evenly over the top of each leg.",
+    "Return the skillet to the oven and cook for an additional 5-10 minutes, or until the confit is crispy and golden brown.",
+    "Serve the duck legs hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "confit",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-herbal-snappy-canadian-duck-legs-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:16:59.218Z"
+}
