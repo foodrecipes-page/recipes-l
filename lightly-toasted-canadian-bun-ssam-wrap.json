@@ -1,0 +1,95 @@
+{
+  "slug": "lightly-toasted-canadian-bun-ssam-wrap",
+  "title": "Korean BBQ Beef Ssam",
+  "description": "A twist on traditional Korean BBQ, served with a crispy bun and sweet ssam sauce. This recipe is perfect for a quick dinner or lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ssam sauce",
+      "amount": "1/2 cup",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "Lightly toasted bun",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Canadian wrap",
+      "amount": "1",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup",
+      "notes": "spicy Korean fermented cabbage"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, and ginger. Add the sliced beef and marinate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the beef from the marinade and cook for 3-4 minutes per side, or until cooked to desired doneness.",
+    "Meanwhile, toast the buns by grilling them for 1-2 minutes, or until lightly browned.",
+    "Assemble the ssam by placing a piece of beef onto each bun, followed by a spoonful of kimchi, a sprinkle of green onions, and a drizzle of ssam sauce.",
+    "Wrap the bun in a Canadian wrap and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bbq",
+    "beef",
+    "ssam"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-toasted-canadian-bun-ssam-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:10:28.517Z"
+}
