@@ -11009,17 +11009,15 @@
   },
   {
     "slug": "lightly-sweet-thai-chicken-curry",
-    "title": "Lightly Sweet Thai Chicken Curry",
+    "title": "Sweet Thai Chicken Curry",
     "tags": [
-      "clay-pot-cooking",
-      "comfort-food",
-      "low-sodium",
-      "one-pot-meal",
-      "sweet-and-savory",
-      "thai-cuisine"
+      "thai",
+      "chicken",
+      "curry",
+      "coconut milk"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -14918,18 +14916,16 @@
   },
   {
     "slug": "low-glycemic-portuguese-creme-patissiere-toast",
-    "title": "Low-Glycemic Portuguese Creme-Patissiere Toast",
+    "title": "Low-Glycemic Portuguese Cream Toast",
     "tags": [
       "breakfast",
-      "dairy-friendly",
-      "dessert",
-      "healthy",
-      "high-protein",
-      "low-carb",
-      "one-pan"
+      "low-glycemic",
+      "portuguese",
+      "creme",
+      "patissiere"
     ],
     "cuisine": "portuguese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
