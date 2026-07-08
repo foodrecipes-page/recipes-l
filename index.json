@@ -6213,16 +6213,15 @@
   },
   {
     "slug": "light-romantic-garlic-haricot-beans-stir-fry",
-    "title": "Light Romantic Garlic Haricot Beans Stir-fry",
+    "title": "Romantic Bean Stew",
     "tags": [
-      "garlic",
-      "light",
+      "stew",
+      "vegetarian",
       "romantic",
-      "ukrainian",
-      "stir-fry"
+      "light"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -11096,18 +11095,15 @@
   },
   {
     "slug": "lightly-toasted-canadian-bun-ssam-wrap",
-    "title": "Lightly Toasted Canadian Bun Ssam Wrap",
+    "title": "Korean BBQ Beef Ssam",
     "tags": [
-      "canadian-cuisine",
-      "easy-meal",
-      "gluten-free",
-      "herbal-butter",
-      "quick-lunch",
-      "ssam-wrap",
-      "tava-griddle"
+      "korean",
+      "bbq",
+      "beef",
+      "ssam"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 18,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -12903,14 +12899,15 @@
   },
   {
     "slug": "lovely-crunchy-syrian-squash-fried",
-    "title": "Lovely Crunchy Syrian Squash Fried",
+    "title": "Crunchy Squash Fritters",
     "tags": [
-      "copper-pot",
-      "high-fiber",
-      "syrian-cuisine"
+      "squash",
+      "fritters",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 27,
+    "cuisine": "American",
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -17352,17 +17349,15 @@
   },
   {
     "slug": "luscious-thai-lamb-kebabs",
-    "title": "Luscious Thai Lamb Kebabs",
+    "title": "Thai Kebab Lamb Skewers",
     "tags": [
-      "ayurvedic-friendly",
-      "cheesy",
-      "grilled-meats",
-      "lamb-recipes",
-      "special-occasion",
-      "thai-inspired"
+      "lamb",
+      "kebabs",
+      "thai",
+      "grilling"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 38,
+    "cuisine": "Asian",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -17502,18 +17497,16 @@
   },
   {
     "slug": "luscious-turkish-tofu-menemen",
-    "title": "Luscious Turkish Tofu Menemen",
+    "title": "Turkish-Style Tofu Menemen",
     "tags": [
-      "clay-pot",
-      "dairy-free",
-      "minicocotte",
-      "quick",
-      "tofu",
       "turkish",
-      "vegan"
+      "tofu",
+      "menemen",
+      "breakfast",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
