@@ -1,0 +1,69 @@
+{
+  "slug": "lightly-aerated-algerian-fiordilatte-papillote",
+  "title": "Fiordilatte Creamy Rice Pudding with Algerian Flair",
+  "description": "A rich and creamy rice pudding infused with the warmth of Algerian spices, topped with a lightly aerated whipped cream.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unhulled rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fiordilatte milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lightly aerated whipped cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine rice, fiordilatte milk, sugar, and Algerian spice blend in a saucepan.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the rice is tender.",
+    "Remove from heat, stir in salted butter, and let cool slightly.",
+    "Transfer the pudding to individual serving cups.",
+    "Top each serving with lightly aerated whipped cream.",
+    "Chill in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "dessert",
+    "fiordilatte",
+    "pudding",
+    "rice",
+    "whipped-cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-aerated-algerian-fiordilatte-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:04:55.355Z"
+}
