@@ -4683,16 +4683,14 @@
   },
   {
     "slug": "light-herbal-snappy-canadian-duck-legs-confit",
-    "title": "Light Herbal Snappy Canadian Duck Legs Confit",
+    "title": "Pan-Seared Duck Legs with Confit Crust",
     "tags": [
-      "canadian",
-      "diabetic-friendly",
-      "herbal",
-      "one-pan",
-      "weeknight"
+      "duck",
+      "confit",
+      "french"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 135,
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -5680,16 +5678,14 @@
   },
   {
     "slug": "light-nimono-british-soya-bean-pie-and-mash",
-    "title": "Light Nimono British soya bean Pie-and-Mash",
+    "title": "Traditional British Shepherds Pie",
     "tags": [
       "british",
       "comfort-food",
-      "gluten-free",
-      "vegetarian",
-      "weeknight"
+      "shepherds-pie"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 35,
+    "cuisine": "British",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -18346,17 +18342,15 @@
   },
   {
     "slug": "luxuriant-rich-northern-irish-potatoes-bubble-and-squeak",
-    "title": "Luxuriant Rich Northern Irish Potatoes Bubble And Squeak",
+    "title": "Traditional Irish Bubble and Squeak",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "gluten-free",
-      "northern-irish",
-      "potato-dish",
-      "weeknight"
+      "irish",
+      "breakfast",
+      "potatoes",
+      "cabbage"
     ],
-    "cuisine": "Northern Irish",
-    "totalTimeMin": 40,
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
