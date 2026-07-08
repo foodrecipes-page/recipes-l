@@ -1,0 +1,66 @@
+{
+  "slug": "light-lively-polish-parmesan-cheese-pilaf",
+  "title": "Polish Pilaf with Cheese Crust",
+  "description": "A classic polish dish topped with a crispy cheese crust. Perfect as a side or light meal.",
+  "cuisine": "polish",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish Pilaf",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Light Cheese",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Lively Grated Parmesan",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "1 egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp olive oil",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix the grated cheese with the egg and 1 tsp of olive oil.",
+    "Spread the polish pilaf on a baking dish.",
+    "Top the pilaf with the cheese mixture.",
+    "Bake for 15-20 minutes or until the cheese is golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "cheese",
+    "pilaf",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-lively-polish-parmesan-cheese-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:34:19.647Z"
+}
