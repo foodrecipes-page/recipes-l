@@ -7503,17 +7503,17 @@
   },
   {
     "slug": "lightly-aerated-algerian-fiordilatte-papillote",
-    "title": "Lightly Aerated Algerian Fiordilatte Papillote",
+    "title": "Fiordilatte Creamy Rice Pudding with Algerian Flair",
     "tags": [
       "algerian",
-      "cheese",
-      "high-protein",
-      "light",
-      "one-pan",
-      "summer"
+      "dessert",
+      "fiordilatte",
+      "pudding",
+      "rice",
+      "whipped-cream"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 22,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -17465,18 +17465,15 @@
   },
   {
     "slug": "luscious-turkish-eggplant-imam-bayildi",
-    "title": "luscious turkish eggplant imam bayildi",
+    "title": "Turkish-Style Eggplant Imam Bayildi",
     "tags": [
-      "eggs-eggplant",
-      "high-fat",
-      "keto-friendly",
-      "low-carb",
-      "melted-cheese",
-      "one-pan",
-      "turkish-cuisine"
+      "turkish",
+      "vegetarian",
+      "eggplant",
+      "baba ganoush"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 70,
+    "cuisine": "Turkish",
+    "totalTimeMin": 65,
     "shard": "l"
   },
   {
