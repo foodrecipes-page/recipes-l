@@ -1,0 +1,61 @@
+{
+  "slug": "low-glycemic-portuguese-creme-patissiere-toast",
+  "title": "Low-Glycemic Portuguese Cream Toast",
+  "description": "A delicious and healthier twist on traditional toast, using low-glycemic bread and topped with a creamy patissiere filling.",
+  "cuisine": "portuguese",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Low-Glycemic Bread (such as Alvaro)",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Patissiere Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Fruit (such as strawberries or blueberries)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the bread until lightly browned.",
+    "Spread a layer of patissiere cream on each slice of toast.",
+    "Top the cream with a pat of unsalted butter.",
+    "Garnish with a cup of fresh fruit.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "low-glycemic",
+    "portuguese",
+    "creme",
+    "patissiere"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-glycemic-portuguese-creme-patissiere-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:47:23.429Z"
+}
