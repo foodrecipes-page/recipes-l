@@ -1,0 +1,77 @@
+{
+  "slug": "luscious-japanese-rhubarb-soto-dashi",
+  "title": "Japanese Rhubarb Dashi Soup",
+  "description": "A light and delicate Japanese-inspired soup made with dashi broth, rhubarb, and Japanese ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "4 stalks"
+    },
+    {
+      "name": "Dashi Granules",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Kombu",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Soto",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine kombu and 4 cups of water. Bring to a boil over high heat, then reduce heat to low and simmer for 10 minutes.",
+    "Remove kombu from pot and add dashi granules. Stir to dissolve.",
+    "Add sliced rhubarb, ginger, and green onions to the pot.",
+    "Simmer for an additional 10 minutes, or until rhubarb is tender.",
+    "Stir in soto, sesame oil, soy sauce, and sugar.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "japanese",
+    "rhubarb"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-japanese-rhubarb-soto-dashi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:31:14.999Z"
+}
