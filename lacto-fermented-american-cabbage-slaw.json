@@ -1,0 +1,65 @@
+{
+  "slug": "lacto-fermented-american-cabbage-slaw",
+  "title": "American Coleslaw",
+  "description": "A classic American-style coleslaw made with shredded cabbage, mayonnaise, and a hint of vinegar. Perfect as a side dish for grilled meats or as a topping for burgers.",
+  "cuisine": "american",
+  "diet": [
+    "lacto",
+    "fermented"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head, shredded"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded cabbage and salt. Massage the cabbage with your hands for 5 minutes to help remove excess water.",
+    "Add the mayonnaise, apple cider vinegar, and sugar to the bowl. Mix until the slaw is well coated.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate the slaw for at least 30 minutes to allow the flavors to meld.",
+    "Before serving, give the slaw a good stir and adjust the seasoning if needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coleslaw",
+    "american",
+    "side-dish",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacto-fermented-american-cabbage-slaw",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:22:14.560Z"
+}
