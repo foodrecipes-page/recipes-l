@@ -1,0 +1,89 @@
+{
+  "slug": "lighthearted-cranberry-russian-cabbage-borscht",
+  "title": "Traditional Russian Borscht",
+  "description": "A classic beet-based soup originating from Eastern Europe, typically served with a dollop of sour cream and a sprinkle of fresh dill.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium, peeled and grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 medium, shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "beet broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup, for serving"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup, chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add grated beets, carrots, and cabbage. Cook for 10 minutes.",
+    "Add beet broth, tomato paste, vinegar, and sugar. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, topped with a dollop of sour cream and a sprinkle of fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "beets",
+    "soup",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lighthearted-cranberry-russian-cabbage-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:47:45.546Z"
+}
