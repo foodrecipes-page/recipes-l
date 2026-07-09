@@ -1,0 +1,62 @@
+{
+  "slug": "lightly-sweet-venezuelan-milk-chocolate-empanadas",
+  "title": "Venezuelan Chocolate Empanadas",
+  "description": "Warm, sweet empanadas filled with rich chocolate, a delightful Venezuelan treat.",
+  "cuisine": "Venezuelan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Empanada dough",
+      "amount": "1 package (12-15 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Lightly sweetened chocolate",
+      "amount": "1/2 cup (100g)",
+      "notes": "High-quality, semi-sweet chocolate"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan sweet cheese (optional)",
+      "amount": "1/4 cup (60g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada dough to desired thickness.",
+    "Cut out circles of dough for the empanada shells.",
+    "Mix together the chocolate and milk until smooth.",
+    "Place a spoonful of chocolate mixture onto one half of each dough circle.",
+    "Fold the dough in half and press edges to seal the empanada.",
+    "Brush tops of empanadas with a little milk for a golden glaze.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "empanadas",
+    "venezuelan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-sweet-venezuelan-milk-chocolate-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:42:56.934Z"
+}
