@@ -1,0 +1,78 @@
+{
+  "slug": "light-fresh-australian-myeolchi-anchovies-grill",
+  "title": "Grilled Australian Barramundi with Myeolchi Sauce",
+  "description": "A flavorful and healthy seafood dish featuring Australian barramundi grilled to perfection and served with a tangy myeolchi sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Barramundi Fillets",
+      "amount": "4",
+      "notes": "About 6 oz each"
+    },
+    {
+      "name": "Fresh Myeolchi",
+      "amount": "1 cup",
+      "notes": "Soaked and drained"
+    },
+    {
+      "name": "Anchovies",
+      "amount": "6",
+      "notes": "Pitted and finely chopped"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the barramundi fillets with salt and pepper.",
+    "Drizzle olive oil on the grates and grill the barramundi for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, combine soaked and drained myeolchi, chopped anchovies, salt, and pepper in a blender.",
+    "Blend until smooth to make the myeolchi sauce.",
+    "Serve the grilled barramundi with myeolchi sauce and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "grilled",
+    "australian",
+    "barramundi"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fresh-australian-myeolchi-anchovies-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:07:12.681Z"
+}
