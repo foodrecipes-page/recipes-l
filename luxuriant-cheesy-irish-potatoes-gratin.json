@@ -1,0 +1,73 @@
+{
+  "slug": "luxuriant-cheesy-irish-potatoes-gratin",
+  "title": "Irish Potatoes Gratin",
+  "description": "A rich and creamy potato gratin dish with a nod to Irish cuisine, perfect for a comforting dinner.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup, shredded",
+      "notes": "divided"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine 1 cup heavy cream, 1/2 cup shredded Gruyère cheese, and 2 tablespoons melted unsalted butter.",
+    "Bring the mixture to a simmer over medium heat, whisking constantly.",
+    "Remove the saucepan from the heat and stir in 1 tablespoon all-purpose flour.",
+    "In a greased 9x13-inch baking dish, arrange 1/3 of the sliced potatoes in an overlapping pattern.",
+    "Pour 1/3 of the cream mixture over the potatoes, then sprinkle with 1/3 of the remaining Gruyère cheese.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove from the oven and sprinkle with chopped scallions, if desired.",
+    "Let the gratin rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potatoes",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-cheesy-irish-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:09:15.524Z"
+}
