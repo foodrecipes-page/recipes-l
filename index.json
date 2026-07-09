@@ -160,16 +160,15 @@
   },
   {
     "slug": "lacto-fermented-american-cabbage-slaw",
-    "title": "Lacto Fermented American Cabbage Slaw",
+    "title": "American Coleslaw",
     "tags": [
-      "american-cuisine",
-      "crunchy-snacks",
-      "lacto-fermented",
-      "midnight-cravings",
-      "vegetarian-friendly"
+      "coleslaw",
+      "american",
+      "side-dish",
+      "salad"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -1685,16 +1684,15 @@
   },
   {
     "slug": "lazy-sunday-thai-chicken-curry",
-    "title": "Lazy Sunday Thai Chicken Curry",
+    "title": "Sunday Thai Chicken Curry",
     "tags": [
-      "gluten-free",
-      "lazy-sunday",
-      "mediterranean-friendly",
-      "one-pan",
-      "thai-curry"
+      "thai",
+      "chicken",
+      "curry",
+      "sunday-cooking"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -11008,16 +11006,15 @@
   },
   {
     "slug": "lightly-sweet-venezuelan-milk-chocolate-empanadas",
-    "title": "Venezuelan Milk Chocolate Empanadas",
+    "title": "Venezuelan Chocolate Empanadas",
     "tags": [
-      "chocolate-lovers",
-      "comfort-food",
-      "easy-to-make",
-      "south-american",
-      "sweet-treats"
+      "chocolate",
+      "empanadas",
+      "venezuelan",
+      "dessert"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
