@@ -3442,16 +3442,14 @@
   },
   {
     "slug": "light-creamy-australian-corn-wrap",
-    "title": "Light Creamy Australian Corn Wrap",
+    "title": "Australian Chicken Wrap",
     "tags": [
-      "australian-cuisine",
-      "corn-based",
-      "grilled",
-      "one-pan",
-      "weeknight"
+      "australian",
+      "chicken",
+      "wrap"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -5698,17 +5696,15 @@
   },
   {
     "slug": "light-norwegian-chorizo-tagine",
-    "title": "Light Norwegian Chorizo Tagine",
+    "title": "Spicy Norwegian Chorizo Tagine",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "norwegian-cuisine",
-      "post-workout-meal",
-      "spherification",
-      "tagine-recipes"
+      "chorizo",
+      "norwegian",
+      "tagine",
+      "spicy"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -13009,13 +13005,13 @@
   },
   {
     "slug": "lovely-earthy-french-cheese-tagine",
-    "title": "Lovely Earthy French Cheese Tagine",
+    "title": "French Tagine with Earthy Vegetables",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "french-cuisine",
-      "one-pot",
-      "vegetarian"
+      "french",
+      "vegetarian",
+      "tagine",
+      "cheese",
+      "lunch"
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
@@ -14049,17 +14045,15 @@
   },
   {
     "slug": "lovely-smoky-spanish-vegetable-paella",
-    "title": "Lovely Smoky Spanish Vegetable Paella",
+    "title": "Spanish Paella",
     "tags": [
-      "crowd-pleaser",
-      "one-pan",
-      "plant-based",
-      "smoky",
       "spanish",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free",
+      "paella"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -14773,17 +14767,17 @@
   },
   {
     "slug": "low-fat-lovely-algerian-lamb-tagine",
-    "title": "Low Fat Lovely Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "gluten-free",
-      "low-fat",
-      "one-pot",
-      "post-workout",
-      "pressure-cooker"
+      "algerian",
+      "lamb",
+      "tagine",
+      "north-african",
+      "spicy",
+      "hearty"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "l"
   },
   {
@@ -16278,19 +16272,14 @@
   },
   {
     "slug": "luscious-japanese-rhubarb-soto-dashi",
-    "title": "Luscious Japanese Rhubarb Soto Dashi",
+    "title": "Japanese Rhubarb Dashi Soup",
     "tags": [
-      "ayurvedic-friendly",
-      "high-protein",
-      "japanese-cuisine",
-      "one-pan",
-      "rajasic",
-      "spherification",
-      "vegan-friendly",
-      "weeknight"
+      "soup",
+      "japanese",
+      "rhubarb"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
