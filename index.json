@@ -3478,17 +3478,15 @@
   },
   {
     "slug": "light-crispy-australian-lamb-skewers",
-    "title": "Light Crispy Australian Lamb Skewers",
+    "title": "Australian Lamb Skewers",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "meal-prep",
-      "mediterranean-friendly",
-      "one-pan",
-      "weeknight"
+      "grill",
+      "outdoor",
+      "lamb",
+      "australian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 32,
+    "cuisine": "australian",
+    "totalTimeMin": 31,
     "shard": "l"
   },
   {
@@ -7473,17 +7471,16 @@
   },
   {
     "slug": "lighthearted-cranberry-russian-cabbage-borscht",
-    "title": "Cranberry Russian Cabbage Borscht",
+    "title": "Traditional Russian Borscht",
     "tags": [
-      "cabbage-based",
-      "low-sodium",
-      "one-pan",
-      "russian-cuisine",
-      "vegan",
-      "weeknight"
+      "russian",
+      "beets",
+      "soup",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 35,
+    "cuisine": "Russian",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
