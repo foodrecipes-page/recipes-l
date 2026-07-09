@@ -1,0 +1,89 @@
+{
+  "slug": "lemon-herb-marinated-fish-mediterranean-bowl",
+  "title": "Mediterranean Herb Fish Bowl",
+  "description": "A flavorful and healthy bowl filled with marinated fish, herbs, and Mediterranean flavors.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish (4 servings)",
+      "amount": "4 (6 oz) pieces of fish (such as cod or tilapia)",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "herb mix (such as thyme, oregano, and rosemary)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "mediterranean salad mix",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the fish pieces on the baking sheet.",
+    "Drizzle with olive oil, lemon juice, and sprinkle with herb mix, garlic, salt, and pepper.",
+    "Bake for 12-15 minutes or until cooked through.",
+    "While the fish is cooking, prepare the Mediterranean salad mix according to package instructions.",
+    "Once the fish is done, serve it on top of the salad mix.",
+    "Optional: sprinkle with feta cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "fish",
+    "salad",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-herb-marinated-fish-mediterranean-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:50:35.183Z"
+}
