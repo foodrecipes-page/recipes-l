@@ -1,0 +1,96 @@
+{
+  "slug": "light-canadian-vegetable-stew",
+  "title": "Canadian Stew",
+  "description": "A hearty Canadian stew recipe made with tender beef and vegetables in a rich broth.",
+  "cuisine": "Canadian",
+  "diet": [
+    "omnivore",
+    "comfort food"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "carrots (2 cups)",
+      "amount": "2 cups",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes (3 medium)",
+      "amount": "3 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion (1 large)",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms (1 cup)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "beef broth (4 cups)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves (4)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add flour and cook for 1 minute.",
+    "Gradually add broth, whisking constantly.",
+    "Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Add carrots, potatoes, mushrooms, and bay leaves.",
+    "Return to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "canadian",
+    "hearty",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-canadian-vegetable-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:07:56.826Z"
+}
