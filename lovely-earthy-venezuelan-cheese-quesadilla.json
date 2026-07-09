@@ -1,0 +1,63 @@
+{
+  "slug": "lovely-earthy-venezuelan-cheese-quesadilla",
+  "title": "Venezuelan Quesadilla Delight",
+  "description": "Experience the authentic flavors of Venezuela with this delicious and easy-to-make quesadilla recipe, featuring the perfect blend of earthy and lovely ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lovely Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Earthy Sweet Potatoes",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Venezuelan Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Quesadilla Tortillas",
+      "amount": "4-6",
+      "notes": "Whole wheat or flour"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Sauté the mushrooms and sweet potatoes until they're tender.",
+    "Place a tortilla in the skillet and sprinkle shredded cheese on half of it.",
+    "Add the sautéed mushroom and sweet potato mixture on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with the remaining tortillas and filling.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "south-american",
+    "quesadilla",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-earthy-venezuelan-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:24:44.555Z"
+}
