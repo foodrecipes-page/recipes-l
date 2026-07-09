@@ -1,0 +1,89 @@
+{
+  "slug": "lovely-earthy-french-cheese-tagine",
+  "title": "French Tagine with Earthy Vegetables",
+  "description": "A rich and flavorful French-inspired tagine dish packed with lovely earthy vegetables and a blend of cheeses.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lovely Mushroom",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Earthy Carrots",
+      "amount": "2 medium, peeled and sliced",
+      "notes": ""
+    },
+    {
+      "name": "French Onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Goat Cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large Dutch oven over medium heat.",
+    "2. Add the sliced onions and cook until they are softened and lightly browned, about 8 minutes.",
+    "3. Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "4. Add the sliced carrots and cook for an additional 2 minutes.",
+    "5. Stir in the tagine spice blend and cook for 1 minute.",
+    "6. Add the crumbled feta and goat cheese, and stir until the cheese is melted and the mixture is well combined.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vegetarian",
+    "tagine",
+    "cheese",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-earthy-french-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:59:23.433Z"
+}
