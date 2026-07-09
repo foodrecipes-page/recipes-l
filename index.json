@@ -1795,17 +1795,15 @@
   },
   {
     "slug": "lazy-sunday-venezuelan-umeboshi-bowl",
-    "title": "Lazy Sunday Venezuelan Umeboshi Bowl",
+    "title": "Lazy Sunday Bowl",
     "tags": [
-      "healthy-bowl",
-      "japanese-inspired",
-      "lazy-sunday",
-      "south-american",
-      "spherify",
-      "vegan-friendly"
+      "breakfast",
+      "lunch",
+      "vegan-friendly",
+      "gluten-free"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -3384,16 +3382,16 @@
   },
   {
     "slug": "light-citrusy-jamaican-spinach-bowl",
-    "title": "Light Citrusy Jamaican Spinach Bowl",
+    "title": "Jamaican Spinach Bowl",
     "tags": [
-      "date-night",
-      "gluten-free",
       "jamaican",
-      "one-pan",
-      "vegan-optional"
+      "spinach",
+      "bowl",
+      "quinoa",
+      "veggie"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 18,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -6275,17 +6273,14 @@
   },
   {
     "slug": "light-saudi-arabian-chicken-curry",
-    "title": "Light Saudi Arabian Chicken Curry",
+    "title": "Saudi Arabian Chicken Curry",
     "tags": [
       "chicken",
-      "flexitarian",
-      "international",
-      "one-pot",
-      "spicy",
-      "weeknight"
+      "curry",
+      "saudi-arabian"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -12960,17 +12955,14 @@
   },
   {
     "slug": "lovely-dense-polish-cheddar-casserole",
-    "title": "Lovely Dense Polish Cheddar Casserole",
+    "title": "Polish Cheddar Casserole",
     "tags": [
-      "brunch-ideas",
-      "casserole-recipes",
-      "high-protein",
-      "macrobiotic-friendly",
-      "polish-cuisine",
-      "vegetarian-options"
+      "cheesy",
+      "hearty",
+      "comfort-food"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
