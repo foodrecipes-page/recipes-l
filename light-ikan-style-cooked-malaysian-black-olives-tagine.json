@@ -1,0 +1,86 @@
+{
+  "slug": "light-ikan-style-cooked-malaysian-black-olives-tagine",
+  "title": "Savory Malaysian Black Olive Chicken Tagine",
+  "description": "A flavorful and aromatic chicken dish made with the rich flavors of Malaysian cuisine, featuring black olives and a blend of spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "black olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for braising"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most spice stores"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large tagine or Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the remaining 1 tbsp of olive oil to the pot, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the black olives, coconut milk, and tagine spice blend to the pot.",
+    "Stir to combine, then return the chicken to the pot.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, until the chicken is cooked through and the sauce has thickened, about 20-25 minutes.",
+    "Serve the chicken and sauce over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "olives",
+    "tagine",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-ikan-style-cooked-malaysian-black-olives-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:19:41.299Z"
+}
