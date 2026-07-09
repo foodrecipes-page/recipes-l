@@ -1,0 +1,71 @@
+{
+  "slug": "light-crispy-australian-lamb-skewers",
+  "title": "Australian Lamb Skewers",
+  "description": "A simple and flavorful recipe featuring Australian lamb, perfect for a quick outdoor meal.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder, thinly sliced",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Crispy rosemary leaves",
+      "amount": "2 sprigs",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread lamb cubes onto skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together olive oil, rosemary, garlic, salt, and pepper.",
+    "Brush the mixture onto both sides of the lamb cubes.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the lamb rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "outdoor",
+    "lamb",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-crispy-australian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:52:56.394Z"
+}
