@@ -1,0 +1,93 @@
+{
+  "slug": "light-norwegian-chorizo-tagine",
+  "title": "Spicy Norwegian Chorizo Tagine",
+  "description": "A flavorful tagine dish featuring Norwegian chorizo and Norwegian ingredients, with a spicy kick.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Chorizo",
+      "amount": "1 lb",
+      "notes": "Slice into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Light",
+      "amount": "2 tbsp",
+      "notes": "Olive oil"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/2 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat Light in a large Dutch oven over medium-high.",
+    "Add Norwegian Chorizo and cook until browned, about 5 minutes.",
+    "Remove Chorizo from pot and set aside.",
+    "Add Onion and Garlic to pot and cook until softened, about 5 minutes.",
+    "Add Cumin, Paprika, Chili Flakes, Salt, and Black Pepper to pot and cook for 1 minute.",
+    "Add cooked Chorizo back to pot and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Stir in chopped Cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chorizo",
+    "norwegian",
+    "tagine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-norwegian-chorizo-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:42:19.872Z"
+}
