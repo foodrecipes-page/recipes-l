@@ -1,0 +1,78 @@
+{
+  "slug": "lovely-smoky-spanish-vegetable-paella",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish originating from the Valencia region, typically made with rice, vegetables, and seafood.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lovely Spanish rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "chicken or vegetable broth"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "spanish vegetables",
+      "amount": "1 cup",
+      "notes": "bell peppers, onions, and tomatoes"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the Spanish vegetables and cook until they start to soften.",
+    "Add the broth, rice, paprika, and salt. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low.",
+    "Simmer, uncovered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Serve hot and garnish with lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "gluten-free",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-spanish-vegetable-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:13:34.068Z"
+}
