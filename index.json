@@ -2161,17 +2161,15 @@
   },
   {
     "slug": "lemon-herb-marinated-fish-mediterranean-bowl",
-    "title": "Lemon-Herb Marinated Fish Mediterranean Bowl",
+    "title": "Mediterranean Herb Fish Bowl",
     "tags": [
-      "keto",
-      "low-carb",
       "mediterranean",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "fish",
+      "salad",
+      "healthy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -3260,17 +3258,15 @@
   },
   {
     "slug": "light-canadian-vegetable-stew",
-    "title": "Light Canadian Vegetable Stew",
+    "title": "Canadian Stew",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "one-pot",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "stew",
+      "canadian",
+      "hearty",
+      "comfort food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -17987,17 +17983,14 @@
   },
   {
     "slug": "luxuriant-cheesy-irish-potatoes-gratin",
-    "title": "Luxuriant Cheesy Irish Potatoes Gratin",
+    "title": "Irish Potatoes Gratin",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "european",
-      "irish",
-      "luxurious",
-      "vegetarian"
+      "potatoes",
+      "gratin",
+      "comfort-food"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 90,
+    "cuisine": "irish",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
