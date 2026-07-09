@@ -1,0 +1,79 @@
+{
+  "slug": "lovely-dense-polish-cheddar-casserole",
+  "title": "Polish Cheddar Casserole",
+  "description": "A hearty, comforting casserole filled with the rich flavors of Poland and the sharpness of cheddar cheese.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lovely Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Dense Cheddar Cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1 pound, sliced",
+      "notes": "Make sure sausage is browned and cooked through."
+    },
+    {
+      "name": "Casserole Onion",
+      "amount": "1 large, chopped",
+      "notes": null
+    },
+    {
+      "name": "Casserole Garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the sausage over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "In a separate pot, boil the potatoes until they are tender.",
+    "In a greased 9x13 inch baking dish, arrange half of the cooked potatoes in the bottom of the dish.",
+    "Add the cooked sausage mixture on top of the potatoes, followed by the remaining potatoes.",
+    "Sprinkle the shredded cheddar cheese evenly over the top of the potatoes.",
+    "Drizzle the olive oil over the cheese.",
+    "Season with salt and pepper to taste.",
+    "Bake in the preheated oven for 30-40 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "hearty",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-dense-polish-cheddar-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:58:40.698Z"
+}
