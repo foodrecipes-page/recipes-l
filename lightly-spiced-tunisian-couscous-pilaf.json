@@ -1,0 +1,82 @@
+{
+  "slug": "lightly-spiced-tunisian-couscous-pilaf",
+  "title": "Tunisian Spiced Pilaf",
+  "description": "A flavorful and aromatic North African-inspired pilaf dish, perfect for a weeknight meal. The combination of spices, couscous, and vegetables creates a delightful taste experience.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups water"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add sliced carrots and cook for an additional 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add cumin, coriander, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add couscous and 2 cups of water to the saucepan. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 10-12 minutes or until the water is absorbed.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "pilaf",
+    "couscous"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-tunisian-couscous-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:06:44.244Z"
+}
