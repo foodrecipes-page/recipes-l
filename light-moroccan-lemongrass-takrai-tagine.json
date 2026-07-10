@@ -1,0 +1,88 @@
+{
+  "slug": "light-moroccan-lemongrass-takrai-tagine",
+  "title": "Moroccan Chicken Tagine with Lemongrass",
+  "description": "A flavorful and aromatic North African dish made with chicken, lemongrass, and spices, slow-cooked in a clay pot.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "4 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the chicken on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the lemongrass and cook for 1 minute.",
+    "Add the spice blend and cook for 1 minute.",
+    "Add the tomatoes, broth, and chicken. Bring to a simmer.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 30 minutes.",
+    "Serve hot over couscous or rice.",
+    "Garnish with fresh parsley and lemon wedges.",
+    "If using a tagine, cook over low heat for 1-2 hours, or until the chicken is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lemongrass",
+    "chicken",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-moroccan-lemongrass-takrai-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:35:38.694Z"
+}
