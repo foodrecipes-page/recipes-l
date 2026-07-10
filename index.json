@@ -6949,17 +6949,14 @@
   },
   {
     "slug": "light-syrian-roast-paella",
-    "title": "Light Syrian Roast Paella",
+    "title": "Roast Paella",
     "tags": [
-      "bread",
-      "high-protein",
-      "low-fat",
-      "one-pan",
-      "roast",
-      "syrian"
+      "spicy",
+      "seafood",
+      "spanish"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 25,
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -14166,16 +14163,15 @@
   },
   {
     "slug": "lovely-sweet-egyptian-dates-skewers",
-    "title": "Lovely Sweet Egyptian Dates Skewers",
+    "title": "Sweet Date Skewers",
     "tags": [
-      "gluten-free",
-      "grilled",
-      "middle-eastern",
-      "sweet-treats",
-      "vegan",
+      "sweet",
+      "dates",
+      "skewers",
+      "dessert",
       "vegetarian"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "middle-eastern",
     "totalTimeMin": 25,
     "shard": "l"
   },
@@ -19179,17 +19175,17 @@
   },
   {
     "slug": "luxuriously-creamy-american-sweet-potato-bowl",
-    "title": "Luxuriously Creamy American Sweet Potato Bowl",
+    "title": "Creamy Sweet Potato Bowl",
     "tags": [
-      "brunch-recipe",
-      "coconut-milk",
-      "earthenware-bowl",
-      "miso-glazed",
-      "sweet-potato-bowl",
-      "vegetarian-breakfast"
+      "breakfast",
+      "brunch",
+      "sweet-potato",
+      "vegan",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
