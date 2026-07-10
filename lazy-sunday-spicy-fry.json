@@ -1,0 +1,89 @@
+{
+  "slug": "lazy-sunday-spicy-fry",
+  "title": "Sunday Spicy Lazy Fried Chicken",
+  "description": "A delicious and easy-to-make fried chicken recipe perfect for a lazy Sunday afternoon. The spicy kick adds a nice twist to the classic dish.",
+  "cuisine": "american",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 pound",
+      "notes": "4-6 pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "spicy seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, spicy seasoning, salt, pepper, and garlic powder.",
+    "Pour buttermilk into a separate shallow dish.",
+    "Dip each chicken piece into the buttermilk, coating completely, then roll in flour mixture to coat.",
+    "Place coated chicken on a plate or tray.",
+    "Heat about 1/2-inch of vegetable oil in a large skillet over medium-high heat.",
+    "When oil is hot, add 2-3 chicken pieces to the skillet.",
+    "Fry chicken for about 5-6 minutes on each side, or until golden brown and cooked through.",
+    "Repeat with remaining chicken pieces.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fried",
+    "spicy",
+    "lazy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-spicy-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:07:30.254Z"
+}
