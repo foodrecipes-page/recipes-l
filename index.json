@@ -7079,13 +7079,10 @@
   },
   {
     "slug": "light-turkish-chickpeas-bowl",
-    "title": "Light Turkish Chickpeas Bowl",
+    "title": "Turkish Chickpea Bowl",
     "tags": [
-      "quick-fix",
-      "floral",
-      "light",
-      "vegetarian",
-      "chinese-five-spice",
+      "lunch",
+      "chickpeas",
       "turkish"
     ],
     "cuisine": "Turkish",
@@ -13657,17 +13654,15 @@
   },
   {
     "slug": "lovely-roasted-american-falafel-bowl",
-    "title": "Lovely Roasted American Falafel Bowl",
+    "title": "Roasted Veggie Bowl",
     "tags": [
-      "american-cuisine",
-      "falafel-bowl",
-      "healthy-dinner",
-      "ovo-vegetarian",
-      "roasted-vegetables",
-      "weeknight-meal"
+      "veggie",
+      "falafel",
+      "bowl",
+      "american"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "american",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -15280,15 +15275,14 @@
   },
   {
     "slug": "luscious-aerated-saudi-arabian-herring-flamb-9",
-    "title": "Luscious Aerated Saudi-Arabian Herring Flamb",
+    "title": "Pan-Seared Herring with Arabian Flamb Sauce",
     "tags": [
-      "flambe",
       "herring",
-      "keto-friendly",
-      "kid-friendly",
-      "saudi-arabian"
+      "arabic",
+      "seafood",
+      "gluten-free"
     ],
-    "cuisine": "Saudi-Arabian",
+    "cuisine": "Arabic",
     "totalTimeMin": 27,
     "shard": "l"
   },
