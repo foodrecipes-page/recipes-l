@@ -1,0 +1,82 @@
+{
+  "slug": "lovely-sweet-chinese-pork-dumplings",
+  "title": "Pan-Seared Pork Dumplings",
+  "description": "A classic Chinese dish with a twist, pan-seared pork dumplings make for a delicious and savory meal. Serve with your favorite dipping sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Lovely Sweet Dumpling Filling",
+      "amount": "1/2 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine pork, soy sauce, sesame oil, green onions, salt, and black pepper. Mix well.",
+    "Lay dumpling wrappers on a clean surface. Place a tablespoon of pork mixture in the center of each wrapper.",
+    "Fold the dumpling wrapper by bringing the edges together to form a half-moon shape. Press the edges together to seal the dumpling.",
+    "Heat a large skillet or wok over medium-high heat. Add 1 tablespoon of oil to the pan.",
+    "When the oil is hot, add the dumplings to the pan, leaving about 1 inch of space between each dumpling.",
+    "Cook the dumplings for 2-3 minutes on each side, until golden brown.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dumplings",
+    "pork",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-sweet-chinese-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:23:50.157Z"
+}
