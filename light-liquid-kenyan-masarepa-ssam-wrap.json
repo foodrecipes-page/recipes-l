@@ -1,0 +1,80 @@
+{
+  "slug": "light-liquid-kenyan-masarepa-ssam-wrap",
+  "title": "Kenyan-Style Ssam Wrap",
+  "description": "A fusion of Kenyan and Korean flavors in a crispy, savory wrap.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan masarepa",
+      "amount": "1 1/2 cups",
+      "notes": "coarse cornmeal"
+    },
+    {
+      "name": "Light ssam",
+      "amount": "4-6 leaves",
+      "notes": "large lettuce leaves"
+    },
+    {
+      "name": "Liquid wrap",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, lightly sweetened"
+    },
+    {
+      "name": "Ssam filling",
+      "amount": "1/2 cup",
+      "notes": "marinated, grilled chicken"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Optional: kimchi, avocado",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the masarepa dough by mixing 1 1/2 cups of cornmeal with 1/4 cup of water.",
+    "Knead the dough for 5 minutes until it becomes pliable.",
+    "Divide the dough into 4 equal pieces and shape each into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Cook each wrap for 1-2 minutes on each side, until lightly browned and crispy.",
+    "Assemble the ssam wrap by placing a piece of masarepa on a lettuce leaf.",
+    "Add a few slices of marinated, grilled chicken, some thinly sliced wrap, and a sprinkle of salt and pepper.",
+    "Add any optional toppings, such as kimchi or avocado.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "ssam",
+    "wrap",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-liquid-kenyan-masarepa-ssam-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:16:21.747Z"
+}
