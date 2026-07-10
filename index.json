@@ -2525,17 +2525,14 @@
   },
   {
     "slug": "light-algerian-chicken-bake",
-    "title": "Light Algerian Chicken Bake",
+    "title": "Baked Algerian Chicken",
     "tags": [
-      "briny",
-      "chicken-recipe",
-      "kid-friendly",
-      "north-african",
-      "one-pan",
-      "weeknight"
+      "algerian",
+      "chicken",
+      "baked"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -10569,18 +10566,14 @@
   },
   {
     "slug": "lightly-spiced-tunisian-couscous-pilaf",
-    "title": "Lightly Spiced Tunisian Couscous Pilaf",
+    "title": "Tunisian Spiced Pilaf",
     "tags": [
-      "couscous",
-      "easy-to-make",
-      "gluten-free",
-      "healthy",
-      "low-carb",
-      "meal-prep",
-      "tunisian",
-      "vegan"
+      "north-african",
+      "vegetarian",
+      "pilaf",
+      "couscous"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 25,
     "shard": "l"
   },
@@ -11283,17 +11276,15 @@
   },
   {
     "slug": "lightly-yeasty-mexican-sweet-red-peppers-tlayudas",
-    "title": "Lightly Yeasty Mexican Sweet Red Peppers Tlayudas",
+    "title": "Tlayudas with Spicy Red Pepper Salsa",
     "tags": [
-      "grilled",
-      "iron-teppan",
       "mexican",
-      "tlayudas",
       "vegetarian",
-      "yeasty"
+      "snack",
+      "cheese"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
@@ -12150,16 +12141,15 @@
   },
   {
     "slug": "lively-turkish-rice-wrap",
-    "title": "Lively Turkish Rice Wrap",
+    "title": "Turkish Wrap",
     "tags": [
-      "kid-friendly",
+      "turkish",
+      "vegetarian",
       "quick",
-      "savory",
-      "vegan",
-      "wrap"
+      "easy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 5,
     "shard": "l"
   },
   {
@@ -12740,17 +12730,15 @@
   },
   {
     "slug": "lovely-crispy-greek-chickpeas-revithia",
-    "title": "Lovely Crispy Greek Chickpeas Revithia",
+    "title": "Greek Revithia Chickpea Salad",
     "tags": [
-      "crunchy-snack",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "greek",
+      "salad",
+      "chickpeas",
+      "revithia"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 65,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
