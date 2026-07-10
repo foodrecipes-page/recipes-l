@@ -1,0 +1,80 @@
+{
+  "slug": "lovely-crispy-greek-chickpeas-revithia",
+  "title": "Greek Revithia Chickpea Salad",
+  "description": "A refreshing Greek salad made with crispy chickpeas and revithia, perfect for a light and easy meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "revithia",
+      "amount": "1 cup, cooked and chopped"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups, cooked and drained"
+    },
+    {
+      "name": "lovely, crispy greek bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup, pitted"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, vinegar, salt, and black pepper.",
+    "Add the chopped revithia, chickpeas, bread, red onion, olives, and feta cheese to the bowl.",
+    "Toss to combine, then cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, toss the salad again to redistribute the ingredients.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "salad",
+    "chickpeas",
+    "revithia"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crispy-greek-chickpeas-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:51:41.035Z"
+}
