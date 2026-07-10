@@ -1,0 +1,72 @@
+{
+  "slug": "lightly-browned-kenyan-sausages-skewers",
+  "title": "Kenyan Sausage Skewers",
+  "description": "A flavorful and colorful dish featuring Kenyan sausages, perfect for a summer barbecue or outdoor gathering.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan sausages",
+      "amount": "12-15 sausages",
+      "notes": "Lightly browned before grilling"
+    },
+    {
+      "name": "Vegetables of your choice (e.g., onions, bell peppers, tomatoes, mushrooms)",
+      "amount": "1 cup",
+      "notes": "Chopped or sliced as desired"
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "12-15 skewers",
+      "notes": "Soaked in water for at least 30 minutes before use"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4-6",
+      "notes": "Optional"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak wooden skewers in water for at least 30 minutes before grilling.",
+    "Preheat grill to medium-high heat (375°F).",
+    "Lightly brown the Kenyan sausages by grilling them for 2-3 minutes per side.",
+    "Thread the vegetables and sausages onto the skewers, leaving a small space between each piece.",
+    "Brush the skewers with a little oil and season with salt, pepper, and chili flakes (if using).",
+    "Grill the skewers for 8-10 minutes per side, or until the sausages are cooked through and the vegetables are tender.",
+    "Serve hot with lemon wedges on the side (if using).",
+    "Let the skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "barbecue",
+    "summer",
+    "outdoor"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-browned-kenyan-sausages-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:40:47.689Z"
+}
