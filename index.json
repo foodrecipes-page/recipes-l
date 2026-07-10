@@ -5610,19 +5610,15 @@
   },
   {
     "slug": "light-moroccan-lemongrass-takrai-tagine",
-    "title": "Light Moroccan Lemongrass-Takrai Tagine",
+    "title": "Moroccan Chicken Tagine with Lemongrass",
     "tags": [
-      "healthy",
-      "lemongrass",
-      "light",
       "moroccan",
-      "one-pan",
-      "paleo-friendly",
-      "takrai",
-      "weeknight"
+      "lemongrass",
+      "chicken",
+      "tagine"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 35,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
@@ -5706,10 +5702,15 @@
   },
   {
     "slug": "light-norwegian-petit-pois-soup",
-    "title": "Light Norwegian Petit Pois Soup",
-    "tags": [],
-    "cuisine": "Norwegian",
-    "totalTimeMin": null,
+    "title": "Norwegian-Style Creamy Fish Soup",
+    "tags": [
+      "fish",
+      "seafood",
+      "soup",
+      "norwegian"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -9519,17 +9520,15 @@
   },
   {
     "slug": "lightly-roasted-moroccan-sea-bass-tagine",
-    "title": "Lightly Roasted Moroccan Sea Bass Tagine",
+    "title": "Moroccan Sea Bass Tagine",
     "tags": [
-      "flavorful",
-      "healthy",
       "moroccan",
-      "one-pan",
       "seafood",
-      "weeknight"
+      "tagine",
+      "one-pot"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -9592,16 +9591,14 @@
   },
   {
     "slug": "lightly-roasted-turkish-vegetables-kunefe",
-    "title": "Lightly Roasted Turkish Vegetables Kunefe",
+    "title": "Turkish Kunefe with Roasted Vegetables",
     "tags": [
-      "kosher-friendly",
-      "middle-eastern",
-      "roasted-vegetables",
-      "turkish-food",
+      "turkish",
+      "dessert",
       "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
