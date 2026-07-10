@@ -1,0 +1,93 @@
+{
+  "slug": "lovely-crunchy-mexican-poblanos-fajitas",
+  "title": "Spicy Poblano Fajitas",
+  "description": "A flavorful and spicy dish featuring sautéed poblanos and your choice of protein, served with warm flour tortillas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless chicken breasts",
+      "amount": "1 lb",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "4 large poblano peppers",
+      "amount": "4",
+      "notes": "roasted and sliced"
+    },
+    {
+      "name": "1/2 cup lovely crunchy sliced bell peppers",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, sliced",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon fajita seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "8 flour tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream, for serving",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh cilantro, for garnish",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion and bell peppers to the skillet and cook until tender, about 5 minutes.",
+    "Add the roasted poblanos, garlic, and fajita seasoning to the skillet and cook for 1-2 minutes.",
+    "Return the chicken to the skillet and stir to combine with the vegetables.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the chicken and vegetable mixture onto a tortilla and serving with sour cream and cilantro if desired.",
+    "Serve immediately and enjoy!",
+    "Optional: Serve with additional toppings such as diced tomatoes, shredded cheese, or sliced avocado."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "poblano",
+    "fajitas",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crunchy-mexican-poblanos-fajitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:51:57.950Z"
+}
