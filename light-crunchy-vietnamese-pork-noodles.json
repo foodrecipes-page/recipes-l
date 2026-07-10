@@ -1,0 +1,78 @@
+{
+  "slug": "light-crunchy-vietnamese-pork-noodles",
+  "title": "Vietnamese Pork Noodle Bowl",
+  "description": "A flavorful and refreshing Vietnamese-inspired dish made with pork, noodles, and crunchy vegetables.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips before cooking"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Vietnamese pickled carrots and daikon",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions. Drain and set aside.",
+    "In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of oil and sauté the pickled carrots and daikon until slightly caramelized.",
+    "Add the cooked noodles, soy sauce, and cooked pork back into the skillet. Stir to combine.",
+    "Transfer the noodle mixture to a serving bowl and garnish with cilantro leaves, scallions, and crushed black pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "noodles",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-crunchy-vietnamese-pork-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:48:21.468Z"
+}
