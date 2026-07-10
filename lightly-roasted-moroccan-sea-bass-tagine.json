@@ -1,0 +1,97 @@
+{
+  "slug": "lightly-roasted-moroccan-sea-bass-tagine",
+  "title": "Moroccan Sea Bass Tagine",
+  "description": "A flavorful and aromatic Moroccan-inspired dish made with sea bass, roasted vegetables, and a blend of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay tagine or Dutch oven over medium heat.",
+    "Add onion, garlic, and ginger, cook until softened, about 5 minutes.",
+    "Add cumin, coriander, paprika, salt, and pepper. Cook for 1 minute, stirring constantly.",
+    "Add the sea bass fillets, skin side up, and cook for 2-3 minutes.",
+    "Add 1 cup of water to the tagine and bring to a simmer.",
+    "Cover the tagine and cook for 8-10 minutes, or until the fish is cooked through.",
+    "Garnish with chopped parsley and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "seafood",
+    "tagine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-roasted-moroccan-sea-bass-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:39:44.755Z"
+}
