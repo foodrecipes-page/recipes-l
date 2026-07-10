@@ -1628,14 +1628,14 @@
   },
   {
     "slug": "lazy-sunday-spicy-fry",
-    "title": "Lazy Sunday Spicy Fry",
+    "title": "Sunday Spicy Lazy Fried Chicken",
     "tags": [
-      "lazy-sunday",
-      "canadian-spicy-fry",
-      "light-rum",
-      "keto-friendly"
+      "chicken",
+      "fried",
+      "spicy",
+      "lazy"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "american",
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -5175,18 +5175,15 @@
   },
   {
     "slug": "light-liquid-kenyan-masarepa-ssam-wrap",
-    "title": "light liquid kenyan masarepa ssam-wrap",
+    "title": "Kenyan-Style Ssam Wrap",
     "tags": [
-      "breakfast-ideas",
-      "grilled-dish",
-      "hangover-cure",
-      "kenyan-cuisine",
-      "one-pan",
-      "satvik",
-      "weeknight"
+      "kenyan",
+      "ssam",
+      "wrap",
+      "fusion"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -8996,18 +8993,15 @@
   },
   {
     "slug": "lightly-grilled-slovakian-pork-wrap",
-    "title": "Lightly Grilled Slovakian Pork Wrap",
+    "title": "Slovakian Pork Wrap",
     "tags": [
-      "grilled",
-      "low-carb",
-      "pandan-wrap",
       "pork",
-      "rum",
-      "slovakian",
-      "weeknight"
+      "wrap",
+      "grilled",
+      "slovakian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
