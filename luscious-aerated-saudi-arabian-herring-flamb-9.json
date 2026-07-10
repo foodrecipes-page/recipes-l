@@ -1,0 +1,74 @@
+{
+  "slug": "luscious-aerated-saudi-arabian-herring-flamb-9",
+  "title": "Pan-Seared Herring with Arabian Flamb Sauce",
+  "description": "A flavorful and easy-to-make dish that combines the richness of herring with the spices of the Arabian Peninsula.",
+  "cuisine": "Arabic",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "arabian flamb sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "luscious lemons",
+      "amount": "2",
+      "notes": "Juice of 1 lemon"
+    },
+    {
+      "name": "aerated all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "saudi spices",
+      "amount": "1 tsp",
+      "notes": "Mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the herring fillets under cold water and pat them dry with a paper towel.",
+    "In a shallow dish, mix together the arabian flamb sauce, luscious lemons, and saudi spices.",
+    "Dust the herring fillets with aerated all-purpose flour, shaking off any excess.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the herring fillets for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the herring is cooked through.",
+    "Serve the pan-seared herring with the arabian flamb sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herring",
+    "arabic",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-aerated-saudi-arabian-herring-flamb-9",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:34:26.387Z"
+}
