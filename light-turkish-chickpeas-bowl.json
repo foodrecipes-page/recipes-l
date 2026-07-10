@@ -1,0 +1,79 @@
+{
+  "slug": "light-turkish-chickpeas-bowl",
+  "title": "Turkish Chickpea Bowl",
+  "description": "A hearty and flavorful bowl filled with chickpeas, spices, and fresh herbs.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Stir in the cumin, paprika, and salt.",
+    "Add the chickpeas and cook for 2-3 minutes, until heated through.",
+    "Stir in the parsley and lemon juice.",
+    "Cook for an additional minute, until the parsley is wilted.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lunch",
+    "chickpeas",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-turkish-chickpeas-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:08:19.346Z"
+}
