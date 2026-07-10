@@ -1,0 +1,77 @@
+{
+  "slug": "lovely-greek-ovoli-mushroom-keftedes",
+  "title": "Greek Stuffed Mushrooms with Keftedes",
+  "description": "A flavorful Greek-inspired dish featuring mushroom caps filled with a savory mixture and topped with crispy keftedes. Perfect for a satisfying dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lovely mushrooms",
+      "amount": "12",
+      "notes": "Large mushroom caps"
+    },
+    {
+      "name": "Greek ovoli cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbly feta cheese"
+    },
+    {
+      "name": "Keftedes breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "Greek-style breadcrumbs"
+    },
+    {
+      "name": "Lovely fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley"
+    },
+    {
+      "name": "Lovely salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lovely black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lovely olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra-virgin olive oil"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Clean and prepare the mushroom caps by removing the stems and scraping out the gills.",
+    "3. In a mixing bowl, combine the crumbled feta cheese, chopped parsley, salt, and black pepper.",
+    "4. Stuff each mushroom cap with the cheese mixture, dividing it evenly among the mushrooms.",
+    "5. Drizzle the tops of the mushrooms with olive oil.",
+    "6. Bake the mushrooms in the preheated oven for 15-20 minutes, or until they're tender and lightly browned.",
+    "7. While the mushrooms are baking, prepare the keftedes breadcrumbs by mixing them with a little olive oil and seasoning.",
+    "8. Remove the mushrooms from the oven and top each one with a spoonful of the breadcrumb mixture.",
+    "9. Return the mushrooms to the oven and bake for an additional 5-10 minutes, or until the breadcrumbs are crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "mushroom",
+    "keftedes",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-greek-ovoli-mushroom-keftedes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:28:02.420Z"
+}
