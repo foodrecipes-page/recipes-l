@@ -1,0 +1,55 @@
+{
+  "slug": "lively-turkish-rice-wrap",
+  "title": "Turkish Wrap",
+  "description": "A delicious and easy-to-make wrap filled with lively ingredients, perfect for a quick snack or meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lively Wrap",
+      "amount": "1",
+      "notes": "Choose a flavorful wrap for the base of the dish"
+    },
+    {
+      "name": "Turkish Rice",
+      "amount": "1 cup cooked",
+      "notes": "Use leftover rice or cook according to package instructions"
+    },
+    {
+      "name": "Lively Filling",
+      "amount": "1 cup",
+      "notes": "Choose your favorite lively ingredients, such as hummus, tabbouleh, or pickled vegetables"
+    }
+  ],
+  "instructions": [
+    "Warm the wrap in the microwave for 10-15 seconds to make it more pliable.",
+    "Spoon the cooked rice onto the center of the wrap.",
+    "Add your chosen lively filling on top of the rice.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-turkish-rice-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:58:12.099Z"
+}
