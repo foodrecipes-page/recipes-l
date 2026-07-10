@@ -1,0 +1,88 @@
+{
+  "slug": "lightly-grilled-slovakian-pork-wrap",
+  "title": "Slovakian Pork Wrap",
+  "description": "A delicious Slovakian-inspired pork wrap with a hint of smokiness from grilling. Serve with a side of coleslaw or pickled vegetables for added crunch.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1 (1 pound) pound",
+      "notes": ""
+    },
+    {
+      "name": "Lightly grilled onion",
+      "amount": "1/2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian-style wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork tenderloin with garlic powder, paprika, salt, and pepper.",
+    "Grill pork tenderloin for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "Let pork tenderloin rest for 5 minutes before slicing it thinly.",
+    "Meanwhile, grill onion for 2-3 minutes per side, or until it's lightly charred.",
+    "Warm the Slovakian-style wrap in the oven or by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading mayonnaise on the bottom half, then adding sliced pork tenderloin, grilled onion, and chopped parsley.",
+    "Top with the remaining half of the wrap and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "wrap",
+    "grilled",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "25g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-grilled-slovakian-pork-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:07:28.716Z"
+}
