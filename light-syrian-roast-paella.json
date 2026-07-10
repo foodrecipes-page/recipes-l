@@ -1,0 +1,89 @@
+{
+  "slug": "light-syrian-roast-paella",
+  "title": "Roast Paella",
+  "description": "A flavorful Spanish-inspired paella dish made with chorizo and shrimp, served with a side of fresh vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Roast chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a neutral-tasting oil"
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1 pound",
+      "notes": "Spanish-style sausage"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the onion, garlic, and bell pepper and cook, stirring occasionally, until the vegetables are tender, about 8 minutes.",
+    "Add the tomato and cook, stirring occasionally, for 2 minutes.",
+    "Stir in the paella rice and cook for 1-2 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the shrimp and cook, uncovered, until pink and cooked through, about 5 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "seafood",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-syrian-roast-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:22:14.914Z"
+}
