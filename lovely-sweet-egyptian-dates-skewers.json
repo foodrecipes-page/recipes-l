@@ -1,0 +1,73 @@
+{
+  "slug": "lovely-sweet-egyptian-dates-skewers",
+  "title": "Sweet Date Skewers",
+  "description": "A simple and delicious dessert made with sweet dates and lovely skewers.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Dates",
+      "amount": "12-15 dates"
+    },
+    {
+      "name": "Lovely Skewers",
+      "amount": "wooden skewers"
+    },
+    {
+      "name": "Egyptian Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pistachio",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup sliced"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Soak the wooden skewers in water for 30 minutes.",
+    "Thread a date onto each skewer, leaving a small space between each date.",
+    "Drizzle the egyptian honey over the dates.",
+    "Sprinkle chopped pistachios, sliced almonds, and coconut flakes over the dates.",
+    "Season with a pinch of salt.",
+    "Bake the skewers in the preheated oven for 10-12 minutes, or until caramelized.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "dates",
+    "skewers",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-sweet-egyptian-dates-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:53:59.488Z"
+}
