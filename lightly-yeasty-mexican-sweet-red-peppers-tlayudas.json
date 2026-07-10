@@ -1,0 +1,66 @@
+{
+  "slug": "lightly-yeasty-mexican-sweet-red-peppers-tlayudas",
+  "title": "Tlayudas with Spicy Red Pepper Salsa",
+  "description": "A classic Mexican dish featuring crispy tlayudas topped with a spicy red pepper salsa, perfect for a delicious and flavorful meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tlayudas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "red peppers",
+      "amount": "2",
+      "notes": "lightly roasted"
+    },
+    {
+      "name": "yeasty peppers",
+      "amount": "1",
+      "notes": "lightly roasted"
+    },
+    {
+      "name": "mexican cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sweet peppers",
+      "amount": "2",
+      "notes": "lightly roasted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast the red, yeasty, and sweet peppers in the oven for 20-25 minutes, or until lightly charred.",
+    "Place tlayudas on a baking sheet and bake for 5-7 minutes, or until crispy.",
+    "In a blender or food processor, combine roasted peppers, a pinch of salt, and a squeeze of lime juice. Blend until smooth.",
+    "To assemble the tlayudas, top each with a spoonful of the red pepper salsa, some shredded cheese, and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-yeasty-mexican-sweet-red-peppers-tlayudas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:28:32.868Z"
+}
