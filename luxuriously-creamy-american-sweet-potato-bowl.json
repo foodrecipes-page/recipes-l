@@ -1,0 +1,80 @@
+{
+  "slug": "luxuriously-creamy-american-sweet-potato-bowl",
+  "title": "Creamy Sweet Potato Bowl",
+  "description": "A comforting and nutritious bowl filled with roasted sweet potatoes, creamy sauce, and various toppings.",
+  "cuisine": "American",
+  "diet": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Luxuriously Creamy Sauce",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1 large",
+      "notes": "for serving"
+    },
+    {
+      "name": "Chopped Fresh Herbs",
+      "amount": "1/4 cup",
+      "notes": "such as parsley or chives"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the sweet potatoes with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until the sweet potatoes are tender.",
+    "While the sweet potatoes are roasting, prepare the creamy sauce by blending together 1 cup of cashew cream, 1/2 cup of nutritional yeast, and 1 tablespoon of lemon juice.",
+    "Once the sweet potatoes are done, transfer them to a bowl and drizzle with the creamy sauce.",
+    "Top with chopped fresh herbs and serve immediately.",
+    "Serve in a large bowl and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "sweet-potato",
+    "vegan",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriously-creamy-american-sweet-potato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:06:29.988Z"
+}
