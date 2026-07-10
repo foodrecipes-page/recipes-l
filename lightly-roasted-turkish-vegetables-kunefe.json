@@ -1,0 +1,76 @@
+{
+  "slug": "lightly-roasted-turkish-vegetables-kunefe",
+  "title": "Turkish Kunefe with Roasted Vegetables",
+  "description": "A traditional Turkish dessert made with crispy kunefe and topped with a sweet and tangy mixture of roasted vegetables. This recipe is perfect for a warm evening treat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kunefe pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Roasted eggplant",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted red bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the eggplant, zucchini, and red bell pepper into 1-inch pieces and toss with 2 tablespoons of vegetable oil. Roast in the oven for 20-25 minutes, or until tender.",
+    "Cut the kunefe pastry into 1-inch pieces and fry in hot oil until crispy.",
+    "Combine the honey, lemon juice, and powdered sugar in a bowl and stir until smooth.",
+    "To assemble the dessert, place a few pieces of fried kunefe on a plate, then top with a spoonful of the honey-lemon mixture, followed by a spoonful of roasted vegetables. Repeat this process until all the ingredients are used up.",
+    "Garnish with chopped pistachios and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-roasted-turkish-vegetables-kunefe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:30:36.417Z"
+}
