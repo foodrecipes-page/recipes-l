@@ -7764,17 +7764,15 @@
   },
   {
     "slug": "lightly-browned-kenyan-sausages-skewers",
-    "title": "Lightly Browned Kenyan Sausages Skewers",
+    "title": "Kenyan Sausage Skewers",
     "tags": [
-      "buttery-dishes",
-      "grilled-meats",
-      "halal-friendly",
-      "kenyan-cuisine",
-      "solo-dinner",
-      "spicy-food"
+      "grilled",
+      "barbecue",
+      "summer",
+      "outdoor"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -12829,16 +12827,17 @@
   },
   {
     "slug": "lovely-crunchy-mexican-poblanos-fajitas",
-    "title": "Lovely Crunchy Mexican Poblanos Fajitas",
+    "title": "Spicy Poblano Fajitas",
     "tags": [
-      "kid-friendly",
-      "mexican-food",
-      "one-pan",
-      "pressure-cooker",
-      "weeknight"
+      "chicken",
+      "mexican",
+      "poblano",
+      "fajitas",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
