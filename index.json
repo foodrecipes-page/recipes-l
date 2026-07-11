@@ -7831,15 +7831,15 @@
   },
   {
     "slug": "lightly-candied-croatian-turnips-stir-fry",
-    "title": "Lightly Candied Croatian Turnips Stir-Fry",
+    "title": "Turnip Stir Fry",
     "tags": [
-      "candied turnips",
       "stir-fry",
-      "vegan",
-      "jain-friendly"
+      "turnips",
+      "vegetarian",
+      "quick-dinner"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -12243,20 +12243,15 @@
   },
   {
     "slug": "long-fermentation-dough-energizing-norwegian-ground-cumin-flatbread",
-    "title": "Long-fermentation-dough energizing Norwegian Ground cumin Flatbread",
+    "title": "Traditional Norwegian Flatbread",
     "tags": [
-      "easy-flatbread",
-      "fodmap-friendly",
-      "gluten-free-option",
-      "grain-free-option",
-      "high-fiber",
-      "low-calorie",
-      "one-pan",
-      "quick-recipe",
-      "weeknight"
+      "traditional",
+      "bread",
+      "flatbread",
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -15515,19 +15510,14 @@
   },
   {
     "slug": "luscious-cheese-pull-portuguese-cheese-gratin",
-    "title": "Luscious Cheese-Pull Portuguese Cheese Gratin",
+    "title": "Portuguese Cheesy Pull",
     "tags": [
-      "cheese-pull",
-      "comfort-food",
-      "dinner",
-      "luscious",
-      "one-pan",
-      "oven",
+      "cheese",
       "portuguese",
-      "snack"
+      "bread"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 30,
+    "cuisine": "portuguese",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
