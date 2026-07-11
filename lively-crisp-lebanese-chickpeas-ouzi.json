@@ -1,0 +1,87 @@
+{
+  "slug": "lively-crisp-lebanese-chickpeas-ouzi",
+  "title": "Lively Lebanese Chickpea Ouzi",
+  "description": "A flavorful and healthy Middle Eastern-inspired dish featuring chickpeas, lebanese bread, and crispy vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lebanese bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "lively greens",
+      "amount": "2 cups, chopped",
+      "notes": "such as kale or spinach"
+    },
+    {
+      "name": "crisp carrots",
+      "amount": "1 cup, peeled and grated",
+      "notes": "use a food processor to get the right crunch"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz), drained and rinsed",
+      "notes": "canned chickpeas work well for this recipe"
+    },
+    {
+      "name": "ouz",
+      "amount": "2 tbsp",
+      "notes": "optional, but adds a nice smoky flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the bread and sautéing the vegetables"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for added brightness and flavor"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "for added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the lebanese bread into 1-inch cubes and spread on a baking sheet.",
+    "Drizzle with 1 tbsp of olive oil and toss to coat. Bake for 10-12 minutes, or until crispy and golden brown.",
+    "In a large skillet, heat the remaining 1 tbsp of olive oil over medium heat.",
+    "Add the chopped lively greens and sauté until wilted, about 3-4 minutes.",
+    "Add the grated carrots and cook for an additional 2-3 minutes, or until they start to soften.",
+    "Stir in the chickpeas, ouz (if using), lemon juice, and garlic powder.",
+    "Season with salt and pepper to taste.",
+    "To assemble the dish, place a layer of toasted bread on a serving platter or individual plates.",
+    "Top with a layer of the chickpea and vegetable mixture, followed by another layer of bread.",
+    "Repeat this process one more time, finishing with a layer of bread on top.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "vegetarian",
+    "chickpeas",
+    "lebanese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-crisp-lebanese-chickpeas-ouzi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:53:58.246Z"
+}
