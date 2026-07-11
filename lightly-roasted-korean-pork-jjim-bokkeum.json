@@ -1,0 +1,85 @@
+{
+  "slug": "lightly-roasted-korean-pork-jjim-bokkeum",
+  "title": "Korean-Style Roasted Pork Bokkeum",
+  "description": "A flavorful and spicy Korean-inspired pork dish, perfect for a weeknight dinner. This roasted pork bokkeum is a twist on traditional Korean jjim.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, boneless",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Roasted garlic, minced",
+      "amount": "2 cloves",
+      "notes": "mashed or pressed"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": " toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. In a small bowl, whisk together gochujang, soy sauce, brown sugar, garlic, and ginger.",
+    "3. Place the pork shoulder in a large bowl and brush the gochujang mixture evenly over both sides of the meat.",
+    "4. Let the pork marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "5. Remove the pork from the marinade and place it on a baking sheet lined with parchment paper.",
+    "6. Roast the pork in the preheated oven for 20-25 minutes per pound, or until the internal temperature reaches 145°F (63°C).",
+    "7. While the pork is cooking, prepare the bokkeum sauce by whisking together 2 tablespoons of gochujang, 2 tablespoons of soy sauce, and 1 tablespoon of brown sugar in a small bowl.",
+    "8. Once the pork is done roasting, let it rest for 10 minutes before slicing it thinly against the grain.",
+    "9. In a small pan, heat 1 tablespoon of oil over medium-high heat.",
+    "10. Add the sliced pork to the pan and cook for 2-3 minutes per side, or until caramelized and crispy.",
+    "11. Brush the bokkeum sauce evenly over the pork and serve hot, garnished with green onions and toasted sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "roasted",
+    "bokkeum"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-roasted-korean-pork-jjim-bokkeum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:39:25.906Z"
+}
