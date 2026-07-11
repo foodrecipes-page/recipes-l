@@ -1,0 +1,93 @@
+{
+  "slug": "lightly-charred-venezuelan-goat-stew",
+  "title": "Venezuelan Goat Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, featuring tender goat meat and a rich, slightly charred flavor.",
+  "cuisine": "Latin American",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 lbs goat meat (cut into 1-inch cubes)",
+      "amount": "2 lbs",
+      "notes": "You can also use beef or lamb if goat is not available"
+    },
+    {
+      "name": "1 large onion, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large red bell pepper, chopped",
+      "amount": "",
+      "notes": "Any color bell pepper will work"
+    },
+    {
+      "name": "2 large tomatoes, diced",
+      "amount": "",
+      "notes": "Canned tomatoes can be used as a substitute"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped red bell pepper and cook until tender, about 5 minutes.",
+    "Add the diced tomatoes and cook for 2-3 minutes.",
+    "Add the goat meat and stir to coat with the vegetable mixture.",
+    "Add the cumin and paprika and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the stew to the oven and cook at 300°F (150°C) for 2-3 hours, or until the meat is tender.",
+    "Serve hot, garnished with chopped fresh cilantro if desired.",
+    "Note: Traditionally, this stew is cooked over an open flame, but a Dutch oven works well on the stovetop or in the oven."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "goat",
+    "latin-american",
+    "beef-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-charred-venezuelan-goat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:14:57.805Z"
+}
