@@ -1,0 +1,85 @@
+{
+  "slug": "lime-leaf-braise",
+  "title": "Lime Leaf Braised Chicken",
+  "description": "A flavorful and aromatic dish made by slow-cooking chicken in a mixture of lime juice, herbs, and spices.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "4-6",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tsp",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken breast and cook until browned on all sides, about 5-6 minutes.",
+    "Add the lime juice, lime leaves, and fish sauce (if using) to the skillet.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes, or until the chicken is cooked through.",
+    "Reduce heat to low and braise the chicken for an additional 10-15 minutes.",
+    "Serve the chicken hot, garnished with additional lime leaves and lime wedges (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "chicken",
+    "lime",
+    "leaf",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lime-leaf-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:37:14.822Z"
+}
