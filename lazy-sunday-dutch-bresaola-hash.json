@@ -1,0 +1,86 @@
+{
+  "slug": "lazy-sunday-dutch-bresaola-hash",
+  "title": "Bresaola Hash with Lazy Sunday Breakfast",
+  "description": "A hearty and savory breakfast dish that combines the tender bresaola with a crispy hash. Perfect for a lazy Sunday morning.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Cheese",
+      "amount": "1/4 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Sunday Sausages",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 200°C (400°F).",
+    "2. Slice the bresaola into thin strips.",
+    "3. In a pan, cook the hash browns until crispy.",
+    "4. Add the sliced onion to the pan and cook until softened.",
+    "5. Add the bresaola to the pan and cook for 2-3 minutes.",
+    "6. Crack the eggs into the pan and scramble them with the bresaola mixture.",
+    "7. Sprinkle the shredded Dutch cheese over the top of the eggs and bresaola.",
+    "8. Place the pan under the broiler and cook until the cheese is melted and bubbly.",
+    "9. Serve the bresaola hash hot, garnished with chopped fresh herbs if desired.",
+    "10. If using, cook the Sunday sausages in a separate pan until browned and cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "meat",
+    "eggs",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-dutch-bresaola-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:47:09.250Z"
+}
