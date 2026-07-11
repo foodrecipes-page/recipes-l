@@ -1,0 +1,54 @@
+{
+  "slug": "light-irish-tomato-wrap",
+  "title": "Irish Wrap",
+  "description": "A tasty and easy wrap filled with Irish ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Light Cream Cheese",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Irish Cheddar",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "1. Spread light cream cheese on the wrap.",
+    "2. Sprinkle shredded Irish cheddar cheese on top of the cream cheese.",
+    "3. Add sliced tomato.",
+    "4. Fold the wrap to create a half-moon shape and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "cheese",
+    "chicken-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-irish-tomato-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:18:24.799Z"
+}
