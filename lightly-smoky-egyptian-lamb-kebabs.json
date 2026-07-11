@@ -1,0 +1,96 @@
+{
+  "slug": "lightly-smoky-egyptian-lamb-kebabs",
+  "title": "Egyptian Smoky Lamb Kebabs",
+  "description": "A flavorful and aromatic dish inspired by the streets of Egypt, featuring smoky lamb kebabs served with a side of fresh vegetables.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bell peppers, sliced",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onions, sliced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes, sliced",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, smoked paprika, salt, black pepper, and garlic. Add the lamb cubes and mix until coated.",
+    "Thread the lamb cubes, bell peppers, onions, and tomatoes onto skewers.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until the lamb is cooked through.",
+    "Transfer the kebabs to a serving platter and garnish with parsley and mint.",
+    "Serve hot with additional parsley and mint on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "middle-eastern",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-egyptian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:13:51.713Z"
+}
