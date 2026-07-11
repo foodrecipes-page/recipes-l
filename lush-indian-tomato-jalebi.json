@@ -1,0 +1,59 @@
+{
+  "slug": "lush-indian-tomato-jalebi",
+  "title": "Spicy Jalebi Fritters",
+  "description": "A twist on traditional Indian street food, these crispy fritters are filled with a spicy jalebi flavor. Serve with a side of tangy tomato chutney.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jalebi",
+      "amount": "2",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lush",
+      "amount": "1 cup",
+      "notes": "green chutney"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Indian",
+      "amount": "1 tsp",
+      "notes": "garam masala"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan to 375°F (190°C).",
+    "In a bowl, mix together jalebi, lush, tomato, and Indian spices.",
+    "Using a spoon, drop small balls of the mixture into the hot oil.",
+    "Fry the fritters until golden brown, about 3-4 minutes.",
+    "Drain the fritters on paper towels and serve hot with tomato chutney.",
+    "Repeat with remaining mixture, adjusting the heat as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "fritters",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-indian-tomato-jalebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T19:11:33.869Z"
+}
