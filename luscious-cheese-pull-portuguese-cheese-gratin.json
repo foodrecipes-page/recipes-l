@@ -1,0 +1,63 @@
+{
+  "slug": "luscious-cheese-pull-portuguese-cheese-gratin",
+  "title": "Portuguese Cheesy Pull",
+  "description": "A simple and delicious Portuguese-inspired dish featuring melted cheese and tender pull.",
+  "cuisine": "portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Portuguese cheese",
+      "amount": "8 oz",
+      "notes": "such as Queijo de Cabra"
+    },
+    {
+      "name": "luscious cheese",
+      "amount": "4 oz",
+      "notes": "such as mozzarella"
+    },
+    {
+      "name": "pull",
+      "amount": "1 lb",
+      "notes": "such as Portuguese-style bread"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 tbsp",
+      "notes": "such as butter or oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the pull into 1-inch slices.",
+    "In a separate pan, melt the gratin over low heat.",
+    "Place the pull slices in the melted gratin.",
+    "Top each slice with a slice of Portuguese cheese.",
+    "Add a slice of luscious cheese on top of the Portuguese cheese.",
+    "Place the pan under the broiler for 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "portuguese",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-cheese-pull-portuguese-cheese-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:59:33.471Z"
+}
