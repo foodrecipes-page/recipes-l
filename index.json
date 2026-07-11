@@ -2048,18 +2048,14 @@
   },
   {
     "slug": "lemon-coconut-thai-chicken-curry",
-    "title": "Lemon Coconut Thai Chicken Curry",
+    "title": "Thai Coconut Chicken Curry",
     "tags": [
       "thai",
       "curry",
-      "lemon",
-      "coconut",
-      "kid-friendly",
-      "low-sodium",
-      "vegetable-rich"
+      "chicken"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -10074,17 +10070,15 @@
   },
   {
     "slug": "lightly-smoked-turkish-asparagus-kebabs",
-    "title": "Lightly Smoked Turkish Asparagus Kebabs",
+    "title": "Smoked Asparagus Kebabs",
     "tags": [
-      "diabetic-friendly",
-      "grilled-vegetables",
-      "low-carb",
-      "quick-fix",
-      "smoked-paprika",
-      "turkish-food"
+      "asparagus",
+      "kebabs",
+      "turkish",
+      "smoked"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 23,
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
