@@ -3337,17 +3337,15 @@
   },
   {
     "slug": "light-chinese-shirataki-yangzhou-fried-rice",
-    "title": "Light Chinese Shirataki Yangzhou Fried Rice",
+    "title": "Yangzhou-Style Fried Rice with Shirataki",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight",
-      "whole30"
+      "chinese-cuisine",
+      "vegetarian-option",
+      "gluten-free-option",
+      "low-carb"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -16819,15 +16817,15 @@
   },
   {
     "slug": "luscious-saudi-arabian-lamb-burger",
-    "title": "Luscious Saudi-Arabian Lamb Burger",
+    "title": "Saudi Arabian Lamb Kebab",
     "tags": [
-      "burger-lovers",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "kebab",
+      "lamb",
+      "middle-eastern",
+      "grill"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 38,
     "shard": "l"
   },
   {
