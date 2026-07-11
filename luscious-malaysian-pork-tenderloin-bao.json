@@ -1,0 +1,94 @@
+{
+  "slug": "luscious-malaysian-pork-tenderloin-bao",
+  "title": "Malaysian Pork Bao",
+  "description": "A delicious and tender pork bao dish inspired by Malaysian flavors.",
+  "cuisine": "malaysian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1 (500g) piece",
+      "notes": "Fresh and of good quality"
+    },
+    {
+      "name": "Luscious bun (bao dough)",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking the pork"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For finishing"
+    },
+    {
+      "name": "Scallions",
+      "amount": "Handful",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "Handful",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a blender or food processor, blend ginger, garlic, soy sauce, and hoisin sauce to make the marinade.",
+    "3. Place the pork tenderloin in a large ziplock bag and pour the marinade over it. Seal and refrigerate for at least 2 hours or overnight.",
+    "4. Remove the pork from the marinade and cook in a skillet with peanut oil over medium-high heat until browned on all sides.",
+    "5. Transfer the pork to the oven and roast for 20-25 minutes or until cooked to an internal temperature of 145°F (63°C).",
+    "6. While the pork is cooking, steam the bao buns for 5-7 minutes or until they are soft and pliable.",
+    "7. Slice the cooked pork into thick pieces.",
+    "8. To assemble the baos, place a few slices of pork onto a steamed bao bun, followed by a sprinkle of scallions and a few bean sprouts.",
+    "9. Drizzle sesame oil over the top and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "malaysian",
+    "bao",
+    "asian-fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-malaysian-pork-tenderloin-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:27:49.204Z"
+}
