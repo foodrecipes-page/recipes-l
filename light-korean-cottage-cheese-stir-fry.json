@@ -1,0 +1,66 @@
+{
+  "slug": "light-korean-cottage-cheese-stir-fry",
+  "title": "Korean-Style Stir Fry with Cottage Cheese",
+  "description": "A unique fusion dish combining the creaminess of cottage cheese with the spicy kick of Korean stir-fry.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "full-fat or low-fat"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "stir fry",
+      "amount": "1 cup",
+      "notes": "mixed vegetables or your choice"
+    },
+    {
+      "name": "green onions",
+      "amount": "scallions for garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together soy sauce and chili flakes (if using).",
+    "Add the cottage cheese and stir until well combined.",
+    "Heat a non-stick pan over medium heat.",
+    "Add the stir-fry mixture and cook until thawed.",
+    "Add the soy sauce mixture to the pan and stir-fry for 2-3 minutes.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "cottage-cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-korean-cottage-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T20:26:28.831Z"
+}
