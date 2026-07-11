@@ -1,0 +1,100 @@
+{
+  "slug": "light-citrusy-kenyan-shrimp-soup",
+  "title": "Kenyan Shrimp Soup",
+  "description": "A light and refreshing Kenyan-inspired soup made with succulent shrimp.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for an additional 1-2 minutes.",
+    "Add shrimp and cook until pink, about 2-3 minutes.",
+    "Add chicken broth, lemon juice, cumin, and paprika.",
+    "Bring to a boil, then reduce heat and simmer for 10-15 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "If desired, stir in heavy cream to add richness.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "kenyan",
+    "light",
+    "citrusy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-citrusy-kenyan-shrimp-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:22:30.028Z"
+}
