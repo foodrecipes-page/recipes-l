@@ -1,0 +1,97 @@
+{
+  "slug": "light-chicken-supreme",
+  "title": "Chicken and Supreme Pizza",
+  "description": "A delicious homemade pizza featuring chicken and supreme toppings. Perfect for a quick dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pizza Dough",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing crust"
+    },
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Supreme pizza sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Pepperoni",
+      "amount": "6 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the pizza dough to a thickness of 1/4 inch.",
+    "Transfer the dough to a baking sheet or pizza stone.",
+    "Brush the crust with light olive oil.",
+    "Spread the supreme pizza sauce over the crust, leaving a 1/2 inch border.",
+    "Top the sauce with the shredded mozzarella cheese.",
+    "Add the sliced onions, bell peppers, and mushrooms.",
+    "If using pepperoni, add the slices on top of the vegetables.",
+    "Bake the pizza in the preheated oven for 15-20 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove the pizza from the oven and sprinkle with oregano.",
+    "Let the pizza cool for a few minutes before slicing and serving.",
+    "Cook the chicken separately in a pan over medium-high heat until browned and cooked through.",
+    "Slice the cooked chicken and add to the pizza before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "pizza",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 54,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-chicken-supreme",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:54:11.853Z"
+}
