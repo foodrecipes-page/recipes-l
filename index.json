@@ -8976,17 +8976,15 @@
   },
   {
     "slug": "lightly-grilled-syrian-melon-kebabs",
-    "title": "Lightly Grilled Syrian Melon Kebabs",
+    "title": "Syrian Grilled Melon Kebabs",
     "tags": [
       "grilled",
-      "healthy",
-      "low-calorie",
-      "middle-eastern",
-      "quick",
-      "vegetarian"
+      "kebabs",
+      "melon",
+      "syrian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -11049,15 +11047,13 @@
   },
   {
     "slug": "lightly-toasted-egyptian-arabic-rice-pilaf",
-    "title": "Lightly Toasted Egyptian Arabic Rice Pilaf",
+    "title": "Egyptian Rice Pilaf",
     "tags": [
-      "easy",
-      "european",
-      "lacto-vegetarian",
-      "one-pan",
-      "rice"
+      "middle-eastern",
+      "rice",
+      "arabic"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
     "shard": "l"
   },
@@ -11278,15 +11274,16 @@
   },
   {
     "slug": "lime-leaf-braise",
-    "title": "Lime Leaf Braise",
+    "title": "Lime Leaf Braised Chicken",
     "tags": [
-      "lime-leaves",
-      "diabetic-friendly",
-      "braise",
-      "italian"
+      "asian",
+      "chicken",
+      "lime",
+      "leaf",
+      "braised"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 60,
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
