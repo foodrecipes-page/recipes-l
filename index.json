@@ -995,14 +995,16 @@
   },
   {
     "slug": "lazy-sunday-cheese-poached-in-fermented-whey",
-    "title": "Lazy Sunday Cheese Poached in Fermented Whey",
+    "title": "Sunday Cheese Frittata",
     "tags": [
-      "lazy-sunday",
-      "british-dessert",
-      "low-sodium"
+      "italian",
+      "brunch",
+      "frittata",
+      "cheese",
+      "eggs"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 10,
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -7779,17 +7781,17 @@
   },
   {
     "slug": "lightly-buttery-indian-vegetable-gulab-jamun",
-    "title": "Lightly Buttery Indian Vegetable Gulab Jamun",
+    "title": "Buttery Gulab Jamun Snack",
     "tags": [
-      "ayurvedic-friendly",
-      "comfort-food",
-      "gulab-jamun",
-      "homemade",
-      "indian-cuisine",
+      "gulab",
+      "jamun",
+      "indian",
+      "snack",
+      "dessert",
       "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -14657,15 +14659,11 @@
   },
   {
     "slug": "low-fat-juicy-yeasty-mexican-shredded-cheese-tacos",
-    "title": "Low-Fat, Juicy, Yeasty Mexican Shredded Cheese Tacos",
+    "title": "Mexican Taco Casserole",
     "tags": [
-      "cheesy",
-      "easy-to-make",
       "mexican",
-      "nighttime-snack",
-      "one-pan",
       "tacos",
-      "weeknight"
+      "cheese"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 35,
