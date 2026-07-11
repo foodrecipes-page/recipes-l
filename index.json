@@ -4843,19 +4843,15 @@
   },
   {
     "slug": "light-italian-cheese-tiramisu",
-    "title": "Light Italian Cheese Tiramisu",
+    "title": "Italian Tiramisu Cheesecake",
     "tags": [
-      "cheese-pull",
-      "deep-fried",
-      "high-protein",
       "italian",
-      "light",
-      "minty",
-      "weeknight",
-      "yeasty"
+      "cheese",
+      "tiramisu",
+      "dessert"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 65,
     "shard": "l"
   },
   {
@@ -17734,18 +17730,15 @@
   },
   {
     "slug": "lush-indian-tomato-jalebi",
-    "title": "Lush Indian Tomato Jalebi",
+    "title": "Spicy Jalebi Fritters",
     "tags": [
-      "dessert",
-      "grassy",
       "indian",
-      "maharashtrian",
-      "midnight-craving",
-      "silky",
-      "vegetarian-friendly"
+      "snack",
+      "fritters",
+      "spicy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
