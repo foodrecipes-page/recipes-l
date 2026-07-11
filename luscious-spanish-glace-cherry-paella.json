@@ -1,0 +1,68 @@
+{
+  "slug": "luscious-spanish-glace-cherry-paella",
+  "title": "Cherry Paella with Glace Sauce",
+  "description": "A twist on the classic Spanish dish, featuring cherry-glazed shrimp and a sweet, sticky glace sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Cherry glace",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Luscious lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the Spanish rice to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "Add the cherry glace to the skillet and stir to combine.",
+    "Return the shrimp to the skillet and stir to coat with the glace sauce.",
+    "Serve immediately, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "paella",
+    "spanish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-spanish-glace-cherry-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:10:43.985Z"
+}
