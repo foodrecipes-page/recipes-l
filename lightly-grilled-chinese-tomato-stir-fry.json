@@ -1,0 +1,92 @@
+{
+  "slug": "lightly-grilled-chinese-tomato-stir-fry",
+  "title": "Stir Fry with Grilled Chicken and Tomato",
+  "description": "A quick and easy stir fry recipe with the smoky flavor of grilled chicken, paired with fresh tomato and lightly seasoned with Chinese spices.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "Marinate for at least 30 minutes before grilling"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Stir fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing into strips.",
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the grated ginger and garlic and stir-fry for 1 minute.",
+    "Add the sliced tomatoes and stir-fry for 2-3 minutes.",
+    "Add the stir-fry sauce, light soy sauce, and rice vinegar to the wok.",
+    "Stir-fry for 1 minute to combine.",
+    "Add the sliced chicken to the wok and stir-fry for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot garnished with sliced green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "tomato",
+    "stir-fry",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-grilled-chinese-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:46:22.897Z"
+}
