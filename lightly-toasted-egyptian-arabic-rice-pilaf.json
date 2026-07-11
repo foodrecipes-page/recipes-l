@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-toasted-egyptian-arabic-rice-pilaf",
+  "title": "Egyptian Rice Pilaf",
+  "description": "A flavorful and aromatic rice dish popular in Middle Eastern cuisine, made with toasted Egyptian rice and a blend of spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egyptian rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lightly toasted pine nuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "arabic spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the toasted pine nuts and cook for 1 minute.",
+    "Add the Egyptian rice and stir to combine with the onion mixture.",
+    "Add the arabic spice blend and stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan with a tight-fitting lid, and simmer for 18-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the saucepan from the heat and let it rest, covered, for 5 minutes.",
+    "Fluff the rice pilaf with a fork and season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "rice",
+    "arabic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-toasted-egyptian-arabic-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:54:15.506Z"
+}
