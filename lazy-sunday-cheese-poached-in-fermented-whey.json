@@ -1,0 +1,71 @@
+{
+  "slug": "lazy-sunday-cheese-poached-in-fermented-whey",
+  "title": "Sunday Cheese Frittata",
+  "description": "A delicious and easy-to-make Italian-inspired brunch dish perfect for a lazy Sunday morning. This cheesy frittata is packed with flavor and can be made with just a few ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "Breakfast",
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "whey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "optional: chopped herbs (such as parsley or chives)",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, whisk together eggs, whey, salt, and pepper.",
+    "In a medium skillet, melt a small amount of butter over medium heat.",
+    "Add the shredded cheese and cook, stirring occasionally, until melted and golden brown.",
+    "Pour the egg mixture over the cheese and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set and the frittata is golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Slice into wedges and garnish with chopped herbs, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "brunch",
+    "frittata",
+    "cheese",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-cheese-poached-in-fermented-whey",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T00:38:56.682Z"
+}
