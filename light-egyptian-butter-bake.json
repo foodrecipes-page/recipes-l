@@ -1,0 +1,83 @@
+{
+  "slug": "light-egyptian-butter-bake",
+  "title": "Egyptian-Style Baked Fattoush",
+  "description": "A twist on the classic Middle Eastern salad, adding crispy flatbread and a tangy dressing.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "light pita bread",
+      "amount": "4-6 pieces",
+      "notes": "preferably slightly stale"
+    },
+    {
+      "name": "egyptian parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh sumac",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the pita bread into 1-inch pieces and toss with the melted butter until evenly coated.",
+    "Spread the bread mixture on a baking sheet and bake for 5-7 minutes or until crispy.",
+    "In a large bowl, combine the chopped parsley, sumac, feta cheese (if using), cherry tomatoes, and red onion.",
+    "Add the crispy flatbread to the bowl and toss gently to combine.",
+    "Season with salt to taste, if desired.",
+    "Serve immediately, garnished with additional sumac and parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fattoush",
+    "middle-eastern",
+    "salad",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-egyptian-butter-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:08.842Z"
+}
