@@ -1,0 +1,112 @@
+{
+  "slug": "light-and-savory-indian-bread-pav-bhaji",
+  "title": "Pav Bhaji",
+  "description": "A popular Indian street food consisting of a spicy mixture of vegetables and bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pav",
+      "amount": "4",
+      "notes": "white bread rolls"
+    },
+    {
+      "name": "Bhaji",
+      "amount": "1 cup",
+      "notes": "spicy vegetable mixture"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "Green chili",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle.",
+    "Add onion, tomato, and potato and sauté until the vegetables are soft.",
+    "Add carrot, green chili, coriander powder, turmeric powder, and red chili powder.",
+    "Sauté for another 2-3 minutes.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce heat to low and simmer for 10-12 minutes or until the vegetables are tender.",
+    "Add ghee and lemon juice. Mix well.",
+    "Serve with pav and garnish with chopped cilantro.",
+    "Optional: Add a dollop of yogurt or a sprinkle of cilantro for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "bread",
+    "vegetarian",
+    "breakfast",
+    "snack",
+    "pavbhaji"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-and-savory-indian-bread-pav-bhaji",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:44:02.522Z"
+}
