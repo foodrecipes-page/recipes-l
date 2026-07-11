@@ -1,0 +1,73 @@
+{
+  "slug": "lightly-candied-croatian-turnips-stir-fry",
+  "title": "Turnip Stir Fry",
+  "description": "A simple and delicious stir fry recipe featuring turnips, perfect for a quick weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "Lightly oiled",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil or peanut oil work well"
+    },
+    {
+      "name": "Candied",
+      "amount": "2 tablespoons, chopped",
+      "notes": "Crushed candied ginger or orange peel"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced turnips and cook until they start to soften, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the chopped candied ginger and stir to combine.",
+    "Add the soy sauce and stir to combine. Cook for an additional 2-3 minutes, until the turnips are tender.",
+    "Stir in the remaining 1 tablespoon of vegetable oil and sesame oil. Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles, garnished with additional chopped candied ginger if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "turnips",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-candied-croatian-turnips-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T09:03:48.388Z"
+}
