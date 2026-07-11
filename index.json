@@ -3807,17 +3807,15 @@
   },
   {
     "slug": "light-egyptian-butter-bake",
-    "title": "Light Egyptian Butter Bake",
+    "title": "Egyptian-Style Baked Fattoush",
     "tags": [
-      "easy-to-make",
-      "egyptian",
-      "family-friendly",
-      "kosher-friendly",
-      "one-pan",
-      "weeknight"
+      "fattoush",
+      "middle-eastern",
+      "salad",
+      "gluten-free"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -7944,17 +7942,16 @@
   },
   {
     "slug": "lightly-charred-venezuelan-goat-stew",
-    "title": "Lightly Charred Venezuelan Goat Stew",
+    "title": "Venezuelan Goat Stew",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "hearty-stew",
-      "one-pot",
-      "venezuelan-cuisine"
+      "stew",
+      "goat",
+      "latin-american",
+      "beef-free",
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 110,
+    "cuisine": "Latin American",
+    "totalTimeMin": 200,
     "shard": "l"
   },
   {
@@ -15049,17 +15046,15 @@
   },
   {
     "slug": "low-sodium-steamed-korean-rice-bowl",
-    "title": "Low-Sodium Steamed Korean Rice Bowl",
+    "title": "Low Sodium Korean Steamed Rice Bowl",
     "tags": [
-      "easy-to-make",
-      "korean",
       "low-sodium",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "korean",
+      "steamed",
+      "rice-bowl"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -16459,18 +16454,15 @@
   },
   {
     "slug": "luscious-malaysian-pork-tenderloin-bao",
-    "title": "Luscious Malaysian Pork Tenderloin Bao",
+    "title": "Malaysian Pork Bao",
     "tags": [
-      "brunch",
-      "dairy-free",
+      "pork",
       "malaysian",
-      "quick",
-      "savory",
-      "vegan-bao",
-      "yeasty"
+      "bao",
+      "asian-fusion"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "malaysian",
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
