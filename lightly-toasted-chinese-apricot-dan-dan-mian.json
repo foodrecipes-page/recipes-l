@@ -1,0 +1,93 @@
+{
+  "slug": "lightly-toasted-chinese-apricot-dan-dan-mian",
+  "title": "Dan Dan Noodles",
+  "description": "A spicy Sichuan noodle dish originating from China, characterized by its savory sauce and crunchy toppings.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lightly Toasted Noodles (Dan Dan Mian)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Dan Dan Sauce (see below for ingredients)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Pickled Mustard Greens",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Apricot",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Mix dan dan sauce ingredients together in a bowl.",
+    "Heat sesame oil in a pan over medium heat.",
+    "Add peanuts and cook until fragrant.",
+    "Add scallions and cook until softened.",
+    "Add pickled mustard greens and cook until wilted.",
+    "Add dan dan sauce and stir to combine.",
+    "Combine cooked noodles and sauce mixture.",
+    "Top with sesame seeds and diced apricot.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinesefood",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-toasted-chinese-apricot-dan-dan-mian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:38:25.845Z"
+}
