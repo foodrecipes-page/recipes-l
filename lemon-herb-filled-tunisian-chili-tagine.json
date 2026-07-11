@@ -1,0 +1,77 @@
+{
+  "slug": "lemon-herb-filled-tunisian-chili-tagine",
+  "title": "Tunisian Lemon Chicken Tagine",
+  "description": "A flavorful North African-inspired dish made with chicken, lemons, and spices in a rich and aromatic sauce, served over couscous.",
+  "cuisine": "north-african",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "herb",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large clay or ceramic tagine over medium heat.",
+    "Add the spice blend and cook for 1 minute, stirring constantly.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chili peppers and garlic and cook for another 2-3 minutes.",
+    "Add the lemon juice and bring to a simmer.",
+    "Cover the tagine and cook for 20-25 minutes, or until the chicken is cooked through.",
+    "Stir in the chopped herb and season with salt and pepper to taste.",
+    "Serve hot over couscous, garnished with additional herb if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "lemon",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-herb-filled-tunisian-chili-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:04:59.919Z"
+}
