@@ -9451,17 +9451,15 @@
   },
   {
     "slug": "lightly-roasted-korean-pork-jjim-bokkeum",
-    "title": "Lightly Roasted Korean Pork Jjim Bokkeum",
+    "title": "Korean-Style Roasted Pork Bokkeum",
     "tags": [
-      "gluten-free",
-      "grilled-pork",
-      "high-protein",
-      "korean-cuisine",
-      "one-pan",
-      "weeknight"
+      "korean",
+      "pork",
+      "roasted",
+      "bokkeum"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
@@ -17091,16 +17089,15 @@
   },
   {
     "slug": "luscious-spanish-glace-cherry-paella",
-    "title": "Luscious Spanish Glace Cherry Paella",
+    "title": "Cherry Paella with Glace Sauce",
     "tags": [
-      "glace-cherry",
-      "one-pan",
-      "pescatarian",
+      "shrimp",
+      "paella",
       "spanish",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -17558,17 +17555,14 @@
   },
   {
     "slug": "luscious-winey-ukrainian-rice-noodle-bowl",
-    "title": "Luscious Winey Ukrainian Rice Noodle Bowl",
+    "title": "Creamy Ukrainian Wild Rice Bowl",
     "tags": [
-      "comfort-food",
-      "low-glycemic",
-      "quick-meal",
-      "rice-noodles",
-      "sous-vide",
-      "wine-based"
+      "ukrainian",
+      "wild-rice",
+      "mushroom"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 105,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 65,
     "shard": "l"
   },
   {
