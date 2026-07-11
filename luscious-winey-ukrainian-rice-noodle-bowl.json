@@ -1,0 +1,80 @@
+{
+  "slug": "luscious-winey-ukrainian-rice-noodle-bowl",
+  "title": "Creamy Ukrainian Wild Rice Bowl",
+  "description": "A hearty and comforting dish that combines the nutty flavor of wild rice with the creaminess of a wine-infused sauce.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wild Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Luscious Mushrooms",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Noodle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, heat 1 tablespoon of butter over medium heat.",
+    "2. Add the wild rice and cook for 2-3 minutes, stirring constantly.",
+    "3. Add 2 cups of water to the saucepan and bring to a boil.",
+    "4. Reduce heat to low, cover, and simmer for 40-45 minutes, or until the rice is tender.",
+    "5. In a large skillet, heat 1 tablespoon of butter over medium heat.",
+    "6. Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "7. Add the wine to the skillet and cook until the liquid has almost completely evaporated, stirring occasionally.",
+    "8. Stir in the milk, sour cream, and fresh dill.",
+    "9. To assemble the bowls, divide the cooked wild rice between two bowls.",
+    "10. Top each bowl with the mushroom mixture and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "wild-rice",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-winey-ukrainian-rice-noodle-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:42:59.329Z"
+}
