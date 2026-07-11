@@ -1092,18 +1092,16 @@
   },
   {
     "slug": "lazy-sunday-dutch-bresaola-hash",
-    "title": "Lazy Sunday Dutch Bresaola Hash",
+    "title": "Bresaola Hash with Lazy Sunday Breakfast",
     "tags": [
+      "italian",
       "breakfast",
-      "easy-meal",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "meat",
+      "eggs",
+      "cheese"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 25,
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -3284,13 +3282,15 @@
   },
   {
     "slug": "light-chicken-supreme",
-    "title": "Light Chicken Supreme",
+    "title": "Chicken and Supreme Pizza",
     "tags": [
-      "light-chicken-supreme",
-      "savory-portuguese-dish",
-      "tender-chicken-breast"
+      "italian",
+      "pasta",
+      "pizza",
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "Italian",
     "totalTimeMin": 35,
     "shard": "l"
   },
@@ -3377,17 +3377,15 @@
   },
   {
     "slug": "light-citrusy-kenyan-shrimp-soup",
-    "title": "light citrusy kenyan shrimp soup",
+    "title": "Kenyan Shrimp Soup",
     "tags": [
-      "citrus",
-      "easy-to-make",
-      "kenyan",
-      "seafood",
       "soup",
-      "weeknight"
+      "kenyan",
+      "light",
+      "citrusy"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -4834,16 +4832,14 @@
   },
   {
     "slug": "light-irish-tomato-wrap",
-    "title": "Light Irish Tomato Wrap",
+    "title": "Irish Wrap",
     "tags": [
-      "diabetic-friendly",
-      "easy-snack",
-      "gluten-free",
-      "high-fiber",
-      "vegetarian"
+      "irish",
+      "cheese",
+      "chicken-free"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 10,
+    "totalTimeMin": 5,
     "shard": "l"
   },
   {
@@ -10443,16 +10439,15 @@
   },
   {
     "slug": "lightly-spiced-moroccan-olive-stir-fry",
-    "title": "Lightly Spiced Moroccan Olive Stir-fry",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "moroccan-stir-fry",
-      "lazy-sunday-meal",
-      "egg-free-friendly",
-      "orange-flower-water",
-      "tandoori-spices"
+      "moroccan",
+      "chicken",
+      "couscous",
+      "stew"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -11467,18 +11462,15 @@
   },
   {
     "slug": "lively-crisp-lebanese-chickpeas-ouzi",
-    "title": "Lively Crisp Lebanese Chickpeas Ouzi",
+    "title": "Lively Lebanese Chickpea Ouzi",
     "tags": [
-      "chickpea",
-      "crisp",
-      "dairy-free",
-      "puff-pastry",
-      "quick",
-      "tabasco",
-      "vegan"
+      "middle-eastern",
+      "vegetarian",
+      "chickpeas",
+      "lebanese"
     ],
-    "cuisine": "Lebanese",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -14752,16 +14744,15 @@
   },
   {
     "slug": "low-glycemic-norwegian-fatty-meat-bake",
-    "title": "Low-Glycemic Norwegian Fatty Meat Bake",
+    "title": "Kjøttkaker med Poteter",
     "tags": [
-      "high-protein",
-      "low-glycemic",
       "norwegian",
-      "one-pan",
-      "weeknight"
+      "low-glycemic",
+      "kbt",
+      "meatballs"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 55,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -17705,16 +17696,16 @@
   },
   {
     "slug": "lush-herbal-japanese-mackerel-sushi",
-    "title": "Lush Herbal Japanese Mackerel Sushi",
+    "title": "Mackerel Sushi Rolls",
     "tags": [
-      "chugoku",
-      "herbal",
-      "pescetarian",
-      "seafood",
-      "sushi"
+      "mackerel",
+      "sushi",
+      "japanese",
+      "fish",
+      "gluten-free"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
