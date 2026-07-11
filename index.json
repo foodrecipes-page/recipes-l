@@ -652,17 +652,14 @@
   },
   {
     "slug": "lazy-day-canadian-danmuji-skillet",
-    "title": "Lazy Day Canadian Danmuji Skillet",
+    "title": "Danmuji Fried Skillet",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "fodmap-friendly",
-      "one-pan",
-      "pressure-cooker",
-      "skillet-meal"
+      "breakfast",
+      "korean-food",
+      "skillet-dish"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "korean-american",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -7088,19 +7085,15 @@
   },
   {
     "slug": "light-turkish-leek-stir-fry",
-    "title": "Light Turkish Leek Stir-fry",
+    "title": "Turkish-Style Leek Stir Fry",
     "tags": [
-      "dinner",
-      "leek",
-      "lunch",
-      "paleo",
-      "quick",
-      "stir-fry",
       "turkish",
-      "vegetarian"
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 25,
+    "cuisine": "Turkish",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
