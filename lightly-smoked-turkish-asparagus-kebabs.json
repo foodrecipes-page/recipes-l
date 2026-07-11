@@ -1,0 +1,72 @@
+{
+  "slug": "lightly-smoked-turkish-asparagus-kebabs",
+  "title": "Smoked Asparagus Kebabs",
+  "description": "Grilled asparagus skewers infused with the smoky flavor of Turkish spices, perfect for a quick and easy snack or side dish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 1/2 pounds",
+      "notes": "thick, tender spears"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Turkish smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "or regular smoked paprika"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread asparagus spears onto skewers, leaving a small space between each spear.",
+    "In a small bowl, whisk together olive oil, smoked paprika, garlic powder, salt, and pepper.",
+    "Brush the kebabs with the spice mixture, making sure to coat each spear evenly.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until tender and slightly charred.",
+    "Serve hot, garnished with fresh parsley or lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "kebabs",
+    "turkish",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-turkish-asparagus-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T18:22:55.937Z"
+}
