@@ -1,0 +1,76 @@
+{
+  "slug": "low-glycemic-norwegian-fatty-meat-bake",
+  "title": "Kjøttkaker med Poteter",
+  "description": "Traditional Norwegian meatballs with a twist, using low-glycemic potatoes for a healthier option. This recipe serves as a hearty dinner for the cold winter nights.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-glycemic",
+    "bake-only"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Meat",
+      "amount": "1 pound",
+      "notes": "75/25 meat ratio for optimal flavor"
+    },
+    {
+      "name": "Low Glycemic Potatoes",
+      "amount": "2 medium",
+      "notes": "Mash or grate for added texture"
+    },
+    {
+      "name": "Fatty Bacon",
+      "amount": "6 slices",
+      "notes": "Chopped for added smokiness"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped for added flavor"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "To help bind the meatballs"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "To add moisture and richness"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the ground meat, chopped onion, mashed potatoes, and egg. Mix well with your hands until just combined.",
+    "Add the chopped bacon and mix until the meat mixture is just combined. Be careful not to overmix.",
+    "Using your hands, shape the meat mixture into small meatballs, about 1 1/2 inches (3.8 cm) in diameter.",
+    "Place the meatballs on a baking sheet lined with parchment paper, leaving about 1 inch (2.5 cm) of space between each meatball.",
+    "Drizzle the top of the meatballs with a little bit of oil and sprinkle with flour.",
+    "Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through and lightly browned on the outside.",
+    "While the meatballs are baking, prepare the sauce by combining 1 cup of beef broth with 1 tablespoon of all-purpose flour in a small saucepan. Whisk until smooth and bring to a simmer over medium heat.",
+    "Once the meatballs are done, remove them from the oven and place them in the saucepan with the beef broth sauce. Simmer for an additional 5-7 minutes, or until the meatballs are fully coated in the sauce.",
+    "Serve the meatballs hot, garnished with chopped parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "low-glycemic",
+    "kbt",
+    "meatballs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-glycemic-norwegian-fatty-meat-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:09:08.989Z"
+}
