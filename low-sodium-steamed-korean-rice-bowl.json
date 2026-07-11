@@ -1,0 +1,86 @@
+{
+  "slug": "low-sodium-steamed-korean-rice-bowl",
+  "title": "Low Sodium Korean Steamed Rice Bowl",
+  "description": "A healthy and flavorful Korean-inspired steamed rice bowl with minimal sodium for a guilt-free meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Low Sodium Korean Chili Flakes (gochugaru)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Steamed Jasmine Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted Kimchi (low sodium)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced Toasted Sesame Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Steamed Spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grilled Tofu (low sodium)",
+      "amount": "3 oz"
+    },
+    {
+      "name": "Low Sodium Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Steamed Bok Choy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crushed Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly and steam it according to package instructions.",
+    "In a separate pot, steam the bok choy until tender.",
+    "In a pan, heat the sesame seeds over medium heat until fragrant.",
+    "Add the soy sauce and chili flakes to the pan and stir to combine.",
+    "Add the tofu to the pan and cook for 2-3 minutes on each side.",
+    "Add the kimchi to the pan and stir to combine.",
+    "To assemble the bowls, place a scoop of steamed rice in the bottom, followed by a slice of tofu, a spoonful of kimchi, and a sprinkle of sesame seeds.",
+    "Garnish with sliced green onions and steamed spinach.",
+    "Drizzle the soy sauce mixture over the top of each bowl.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "korean",
+    "steamed",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-sodium-steamed-korean-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:13.865Z"
+}
