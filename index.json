@@ -2138,16 +2138,15 @@
   },
   {
     "slug": "lemon-herb-filled-tunisian-chili-tagine",
-    "title": "Lemon-Herb Filled Tunisian Chili Tagine",
+    "title": "Tunisian Lemon Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "high-fiber",
-      "lemon-herb",
-      "one-pan",
-      "tunisian"
+      "chicken",
+      "north-african",
+      "lemon",
+      "couscous"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 27,
+    "cuisine": "north-african",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -6146,14 +6145,14 @@
   },
   {
     "slug": "light-romance-rice-stir-fry",
-    "title": "Light Romance Rice Stir-fry",
+    "title": "Stir Fried Rice",
     "tags": [
-      "light-romance",
-      "vegan-friendly",
-      "low-sodium"
+      "asian",
+      "vegetarian",
+      "easy-cook"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 22,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
