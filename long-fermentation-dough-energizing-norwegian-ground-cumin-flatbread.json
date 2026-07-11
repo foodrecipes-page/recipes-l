@@ -1,0 +1,70 @@
+{
+  "slug": "long-fermentation-dough-energizing-norwegian-ground-cumin-flatbread",
+  "title": "Traditional Norwegian Flatbread",
+  "description": "A classic Norwegian flatbread recipe, often served with cheese and cold cuts. This recipe brings a traditional taste to your table.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup",
+      "notes": "use cold water"
+    },
+    {
+      "name": "norwegian energizing yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, water, yeast, salt, and cumin.",
+    "2. Mix until a dough forms.",
+    "3. Knead the dough for 5 minutes until it becomes smooth.",
+    "4. Cover the dough with a damp cloth and let it rise in a warm place for 1 hour.",
+    "5. Preheat a non-stick skillet or griddle over medium heat.",
+    "6. Divide the dough into 4-6 equal pieces, depending on the desired size.",
+    "7. Roll out each piece into a thin circle.",
+    "8. Cook the flatbreads for 1-2 minutes on each side, until they are lightly browned and puffed.",
+    "9. Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "traditional",
+    "bread",
+    "flatbread",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/long-fermentation-dough-energizing-norwegian-ground-cumin-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:46:28.889Z"
+}
