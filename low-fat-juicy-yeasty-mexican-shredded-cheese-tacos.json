@@ -1,0 +1,76 @@
+{
+  "slug": "low-fat-juicy-yeasty-mexican-shredded-cheese-tacos",
+  "title": "Mexican Taco Casserole",
+  "description": "A delicious and easy casserole to make for any occasion, packed with flavors of Mexico.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Low fat shredded cheese",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mexican shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Tacos",
+      "amount": "1 packet",
+      "notes": "Hard or soft tacos"
+    },
+    {
+      "name": "Low fat juicy cheese",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Yeasty tortillas",
+      "amount": "6-8 tortillas",
+      "notes": "Cut into pieces"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cook the taco packets according to package instructions.",
+    "3. Cut the tortillas into pieces.",
+    "4. In a large mixing bowl, combine low fat shredded cheese and Mexican shredded cheese. Mix well.",
+    "5. In a separate bowl, combine shredded cheese (if using) and low fat juicy cheese (if using). Mix well.",
+    "6. Grease a 9x13 inch baking dish with cooking spray.",
+    "7. Spread a layer of the cheese mixture on the bottom of the baking dish.",
+    "8. Arrange the cooked taco pieces on top of the cheese layer.",
+    "9. Sprinkle the shredded cheese mixture (if using) over the tacos.",
+    "10. Top with the tortilla pieces.",
+    "11. Bake for 20-25 minutes or until the cheese is melted and bubbly.",
+    "12. Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-juicy-yeasty-mexican-shredded-cheese-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:31:56.571Z"
+}
