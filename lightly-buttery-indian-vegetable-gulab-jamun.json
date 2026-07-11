@@ -1,0 +1,71 @@
+{
+  "slug": "lightly-buttery-indian-vegetable-gulab-jamun",
+  "title": "Buttery Gulab Jamun Snack",
+  "description": "A sweet and indulgent Indian-inspired snack made with gulab jamun and lightly buttery goodness.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gulab Jamun",
+      "amount": "1 package",
+      "notes": "available at Indian grocery stores"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "Open the package of gulab jamun and gently place them in the hot oil.",
+    "Fry the gulab jamun until they turn golden brown, about 2-3 minutes.",
+    "Using a slotted spoon, remove the fried gulab jamun from the oil and place them on a paper towel-lined plate.",
+    "In a small bowl, mix together the melted butter, powdered sugar, and cardamom powder (if using).",
+    "Drizzle the butter mixture over the fried gulab jamun.",
+    "Serve the buttery gulab jamun hot and enjoy!",
+    "Note: If you prefer a crisper coating, you can chill the fried gulab jamun in the refrigerator for 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gulab",
+    "jamun",
+    "indian",
+    "snack",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-buttery-indian-vegetable-gulab-jamun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:30:51.426Z"
+}
