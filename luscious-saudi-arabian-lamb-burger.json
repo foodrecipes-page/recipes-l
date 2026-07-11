@@ -1,0 +1,73 @@
+{
+  "slug": "luscious-saudi-arabian-lamb-burger",
+  "title": "Saudi Arabian Lamb Kebab",
+  "description": "A flavorful and tender lamb kebab dish from Saudi Arabia, served with a side of tangy sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Luscious Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Saudi Arabian Burger Sauce",
+      "amount": "1/4 cup",
+      "notes": "see instructions for homemade sauce"
+    },
+    {
+      "name": "Arabian Spices",
+      "amount": "2 tablespoons",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a large bowl, whisk together Arabian Spices, Lemon Juice, and Olive Oil.",
+    "Add the cubed lamb to the marinade and mix until coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked through to an internal temperature of 145°F (63°C).",
+    "Transfer the kebabs to a serving platter and brush with Saudi Arabian Burger Sauce.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "lamb",
+    "middle-eastern",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-saudi-arabian-lamb-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:28:18.115Z"
+}
