@@ -1,0 +1,66 @@
+{
+  "slug": "light-turkish-leek-stir-fry",
+  "title": "Turkish-Style Leek Stir Fry",
+  "description": "Quick and flavorful stir fry made with tender leeks and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "leek",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "light",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin and cook for 1 minute.",
+    "Add leeks and cook until tender, about 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-turkish-leek-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:20:13.452Z"
+}
