@@ -1,0 +1,80 @@
+{
+  "slug": "lush-herbal-japanese-mackerel-sushi",
+  "title": "Mackerel Sushi Rolls",
+  "description": "A simple and flavorful sushi recipe using mackerel as the main ingredient. This dish is perfect for a quick and easy lunch or dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mackerel",
+      "amount": "1 (6 oz) fillet"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sushi nori",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sushi vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to the package instructions.",
+    "Cut the mackerel into thin slices.",
+    "Cut the nori sheet into desired size for rolling.",
+    "Prepare a flat surface for rolling the sushi.",
+    "Lay a sheet of nori flat on the surface.",
+    "Spread a thin layer of sushi rice onto the nori.",
+    "Place the mackerel slices in the middle of the rice.",
+    "Add green onions and sesame seeds on top of the mackerel.",
+    "Roll the sushi using a bamboo sushi mat.",
+    "Slice the sushi into individual pieces.",
+    "Serve with soy sauce and wasabi."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mackerel",
+    "sushi",
+    "japanese",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-herbal-japanese-mackerel-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:05:38.203Z"
+}
