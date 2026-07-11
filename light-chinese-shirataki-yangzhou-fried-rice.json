@@ -1,0 +1,73 @@
+{
+  "slug": "light-chinese-shirataki-yangzhou-fried-rice",
+  "title": "Yangzhou-Style Fried Rice with Shirataki",
+  "description": "A twist on the classic Chinese dish, this recipe incorporates the benefits of shirataki noodles. The combination of savory flavors and textures will leave you wanting more.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shirataki noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yangzhou rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add ginger and cook for 30 seconds.",
+    "Add shirataki noodles and cook until they start to brown.",
+    "Push noodles to one side of the wok.",
+    "Add more oil if necessary, then add Yangzhou rice to the other side of the wok.",
+    "Stir-fry rice until it's heated through.",
+    "Mix noodles and rice together.",
+    "Add soy sauce and stir-fry until combined.",
+    "Transfer to a serving platter and top with fried shallots and scallions."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "vegetarian-option",
+    "gluten-free-option",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-chinese-shirataki-yangzhou-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:45:48.758Z"
+}
