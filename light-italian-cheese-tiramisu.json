@@ -1,0 +1,87 @@
+{
+  "slug": "light-italian-cheese-tiramisu",
+  "title": "Italian Tiramisu Cheesecake",
+  "description": "A creamy Italian-inspired dessert featuring cheesecake and tiramisu layers.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ladyfingers",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "8 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "3"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "espresso powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large mixing bowl, beat the cream cheese until smooth.",
+    "Add the ricotta cheese, mascarpone cheese, sugar, and eggs to the bowl.",
+    "Mix until well combined and smooth.",
+    "Add the cocoa powder, espresso powder, and vanilla extract to the bowl.",
+    "Mix until well combined.",
+    "In a separate bowl, dip the ladyfingers in a mixture of coffee and sugar.",
+    "In a 9x13 inch baking dish, create a layer of ladyfingers.",
+    "Pour the cheesecake mixture over the ladyfingers.",
+    "Repeat the layers one more time, ending with a layer of ladyfingers.",
+    "Bake for 45-50 minutes, or until set.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cheese",
+    "tiramisu",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-italian-cheese-tiramisu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T19:01:03.953Z"
+}
