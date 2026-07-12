@@ -9295,17 +9295,15 @@
   },
   {
     "slug": "lightly-poached-chinese-tofu-mapo-tofu",
-    "title": "Lightly Poached Chinese Tofu Mapo Tofu",
+    "title": "Mapo Tofu Stir Fry",
     "tags": [
-      "chinese-food",
-      "comfort-food",
-      "low-fat",
-      "one-pot",
-      "spicy",
-      "vegetarian"
+      "sichuan",
+      "stir-fry",
+      "vegetarian",
+      "chinese"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "cuisine": "sichuan",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -9686,14 +9684,12 @@
     "slug": "lightly-seasoned-tunisian-lamb-kebabs",
     "title": "Tunisian Lamb Kebabs",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "tunisian-cuisine",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "tunisian",
+      "grilled"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "l"
   },
