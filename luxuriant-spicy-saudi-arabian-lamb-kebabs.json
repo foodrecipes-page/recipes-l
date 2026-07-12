@@ -1,0 +1,88 @@
+{
+  "slug": "luxuriant-spicy-saudi-arabian-lamb-kebabs",
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "A flavorful and aromatic dish from Saudi Arabia, featuring succulent lamb kebabs grilled to perfection. Serve with a side of rice and vegetables for a complete meal.",
+  "cuisine": "Saudi",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure the lamb is at room temperature before grilling."
+    },
+    {
+      "name": "Luxuriant olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Spicy saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "Soak the saffron in 1 tablespoon of hot water before mixing with the yogurt."
+    },
+    {
+      "name": "Arabian sumac",
+      "amount": "1 teaspoon",
+      "notes": "Add more to taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt for better flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground is best."
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "1/4 cup",
+      "notes": "Mix with the soaked saffron threads."
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together olive oil, saffron mixture, sumac, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and mix until they are evenly coated with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they are cooked to your desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs with a side of rice and vegetables, garnished with chopped parsley and a dollop of yogurt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "arabic",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-spicy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:43:20.077Z"
+}
