@@ -1,0 +1,74 @@
+{
+  "slug": "luscious-lime-american-chicken-wrap",
+  "title": "Chicken Lime Wrap",
+  "description": "A quick and flavorful wrap filled with grilled chicken, fresh lime, and crispy lettuce. Perfect for a weeknight dinner!",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "4 oz",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "luscious wrap",
+      "amount": "1",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup",
+      "notes": "crisp and fresh"
+    },
+    {
+      "name": "american cheese",
+      "amount": "1 slice",
+      "notes": "optional"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken with salt and pepper.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Let chicken rest for 2-3 minutes before slicing into thin strips.",
+    "In a small bowl, whisk together lime juice and a pinch of salt.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the lime juice mixture on the wrap, then topping with sliced chicken, shredded lettuce, and a sprinkle of cilantro.",
+    "Add cheese if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "wrap",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-lime-american-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:53:17.964Z"
+}
