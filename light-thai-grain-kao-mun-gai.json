@@ -1,0 +1,80 @@
+{
+  "slug": "light-thai-grain-kao-mun-gai",
+  "title": "Thai-Style Chicken Stir Fry",
+  "description": "Quick and flavorful stir fry made with chicken, vegetables, and fragrant Thai spices. Serve over steamed rice or noodles.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gai (chicken breast)",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Mun (bell peppers)",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Kao (bok choy)",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Light (soy sauce)",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Thai (red curry paste)",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Grain (brown rice)",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced bell peppers and chopped bok choy to the skillet and cook until tender, about 3-5 minutes.",
+    "Add the cooked chicken back into the skillet and stir in the soy sauce and red curry paste.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened and the chicken is coated.",
+    "Serve the stir fry over cooked brown rice and enjoy!",
+    "Garnish with green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "stir-fry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-thai-grain-kao-mun-gai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:23:59.311Z"
+}
