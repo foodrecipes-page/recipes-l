@@ -1,0 +1,90 @@
+{
+  "slug": "light-mediterranean-corned-beef-broil",
+  "title": "Broiled Beef with a Mediterranean Twist",
+  "description": "A quick and easy dish that brings the flavors of the Mediterranean to a classic broiled beef.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (1-1.5 lbs)",
+      "amount": "1-1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (minced)",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Coarse Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Corned Beef Rub",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rosemary (chopped)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Lemon (juice)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Feta (crumbled)",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to high.",
+    "In a small bowl, mix together the olive oil, garlic, salt, and black pepper.",
+    "Rub the mixture all over the beef, making sure to coat it evenly.",
+    "Sprinkle the corned beef rub over the beef, pressing it onto the meat to adhere.",
+    "Place the beef on a broiler pan or a rimmed baking sheet.",
+    "Broil the beef for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the beef to a cutting board and let it rest for 5 minutes before slicing.",
+    "Sprinkle the chopped rosemary and lemon juice over the top of the beef.",
+    "Serve the beef with crumbled feta cheese, if desired.",
+    "Optional: Serve with a side of roasted vegetables or a salad for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "mediterranean",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-mediterranean-corned-beef-broil",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:02:44.410Z"
+}
