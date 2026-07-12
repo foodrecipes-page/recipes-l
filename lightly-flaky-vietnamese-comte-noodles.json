@@ -1,0 +1,69 @@
+{
+  "slug": "lightly-flaky-vietnamese-comte-noodles",
+  "title": "Vietnamese Comte Noodle Soup",
+  "description": "A soothing and comforting soup that combines the creaminess of Comte cheese with the delicate flavors of Vietnamese cuisine. This recipe serves a hearty, satisfying meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "lightly flaky pastry dough",
+      "amount": "250g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "800ml"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F). Cut the Comte cheese into small cubes.",
+    "Wrap the noodles in lightly flaky pastry dough to create cheese-filled pockets.",
+    "Bake the pastry pockets for 15-20 minutes, or until golden brown.",
+    "In a large pot, combine the vegetable broth and water. Bring to a boil.",
+    "Add the baked pastry pockets to the pot and simmer for 5 minutes.",
+    "Season with salt and pepper to taste. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "soup",
+    "comfort-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-flaky-vietnamese-comte-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:07:44.018Z"
+}
