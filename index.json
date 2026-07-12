@@ -8579,17 +8579,15 @@
   },
   {
     "slug": "lightly-flaky-vietnamese-comte-noodles",
-    "title": "Lightly Flaky Vietnamese Comte Noodles",
+    "title": "Vietnamese Comte Noodle Soup",
     "tags": [
-      "comte-cheese",
-      "low-glycemic",
-      "malty-flavor",
-      "noodle-dish",
-      "score-fat",
-      "vietnamese-inspired"
+      "cheese",
+      "soup",
+      "comfort-food",
+      "vietnamese-cuisine"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -15930,18 +15928,17 @@
   },
   {
     "slug": "luscious-gooey-middle-eastern-lamb-tagine",
-    "title": "Luscious Gooey Middle Eastern Lamb Tagine",
+    "title": "Eastern Lamb Tagine",
     "tags": [
-      "clay-pot",
+      "moroccan",
       "lamb",
-      "middle-eastern",
-      "nuka-pickle",
-      "one-pot",
-      "special-occasion",
-      "tamarind"
+      "stew",
+      "tagine",
+      "dinner",
+      "special occasion"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 180,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 110,
     "shard": "l"
   },
   {
@@ -17184,16 +17181,14 @@
   },
   {
     "slug": "luscious-thai-new-potatoes-curry",
-    "title": "Luscious Thai New Potatoes Curry",
+    "title": "Thai Potato Curry",
     "tags": [
-      "hangover-cure",
-      "low-sodium",
-      "one-pot",
-      "potato-curry",
-      "quick-dinner",
-      "thai-curry"
+      "thai-curry",
+      "vegetarian",
+      "easy",
+      "lunch"
     ],
-    "cuisine": "Thai",
+    "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "l"
   },
