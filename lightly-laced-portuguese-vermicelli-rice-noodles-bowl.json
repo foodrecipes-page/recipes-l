@@ -1,0 +1,81 @@
+{
+  "slug": "lightly-laced-portuguese-vermicelli-rice-noodles-bowl",
+  "title": "Portuguese Noodle Bowl",
+  "description": "A flavorful and easy-to-make noodle dish inspired by Portuguese cuisine. Serve immediately and enjoy!",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Lightly cooked rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese seasoning blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Laced olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook vermicelli noodles according to package instructions. Drain and set aside.",
+    "In a large bowl, combine cooked rice, Portuguese seasoning blend, salt, and black pepper. Mix well.",
+    "Add cooked vermicelli noodles to the bowl and toss to combine.",
+    "In a small pan, heat lightly oiled over medium heat.",
+    "Add sliced almonds to the pan and toast until lightly browned, stirring frequently.",
+    "Remove almonds from heat and sprinkle over the noodle mixture.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "noodle-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-laced-portuguese-vermicelli-rice-noodles-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:02:14.947Z"
+}
