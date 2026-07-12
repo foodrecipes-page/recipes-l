@@ -1,0 +1,93 @@
+{
+  "slug": "lush-indian-tofu-dal",
+  "title": "Spicy Indian Dal Tofu",
+  "description": "A flavorful and nutritious Indian-inspired dish made with tofu and dal. This recipe is easy to make and packed with protein.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "dal",
+      "amount": "1 cup",
+      "notes": "split red lentils"
+    },
+    {
+      "name": "lush",
+      "amount": "1 cup",
+      "notes": "fresh spinach leaves"
+    },
+    {
+      "name": "indian spices",
+      "amount": "2 tsp",
+      "notes": "turmeric, cumin, coriander powder"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for cooking dal"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until onion is translucent.",
+    "Add tofu and cook until golden brown.",
+    "Add dal, spices, and salt. Cook for 1 minute.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes or until dal is tender.",
+    "Stir in fresh spinach leaves. Cook for an additional 2 minutes.",
+    "Serve hot and garnish with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "lentil",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-indian-tofu-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:50:43.223Z"
+}
