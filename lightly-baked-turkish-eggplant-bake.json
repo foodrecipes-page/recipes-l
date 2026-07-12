@@ -1,0 +1,68 @@
+{
+  "slug": "lightly-baked-turkish-eggplant-bake",
+  "title": "Baked Turkish Eggplant",
+  "description": "A delicious and flavorful Turkish-inspired eggplant dish, made by baking eggplant with garlic, olive oil, and spices.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the eggplant in half lengthwise and place on a baking sheet.",
+    "Drizzle the olive oil over the eggplant and sprinkle with salt, black pepper, and paprika.",
+    "Bake the eggplant in the preheated oven for 30-40 minutes, or until tender.",
+    "While the eggplant is baking, mince the garlic and set aside.",
+    "Once the eggplant is done, remove from the oven and let cool for a few minutes.",
+    "Scoop the eggplant flesh out of the skin and into a bowl.",
+    "Add the minced garlic to the eggplant and mix to combine.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "eggplant",
+    "vegetarian",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-baked-turkish-eggplant-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:57:17.468Z"
+}
