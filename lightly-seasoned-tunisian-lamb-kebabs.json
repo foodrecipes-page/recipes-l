@@ -1,0 +1,83 @@
+{
+  "slug": "lightly-seasoned-tunisian-lamb-kebabs",
+  "title": "Tunisian Lamb Kebabs",
+  "description": "Tender lamb skewers marinated in a blend of Tunisian spices, grilled to perfection. Serve with a side of couscous or pita bread.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red onion, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bell pepper, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zucchini, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": ""
+    },
+    {
+      "name": "Leaves of fresh rosemary, chopped (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, whisk together the Tunisian spice blend, olive oil, garlic, salt, and pepper.",
+    "3. Add the lamb cubes to the marinade and toss to coat.",
+    "4. Thread the lamb, red onion, bell pepper, zucchini, and rosemary (if using) onto skewers.",
+    "5. Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "6. Let the kebabs rest for 5 minutes before serving.",
+    "7. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "tunisian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-seasoned-tunisian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:30:33.369Z"
+}
