@@ -1,0 +1,83 @@
+{
+  "slug": "lightly-baked-indian-reblochon-bake",
+  "title": "Indian-Style Reblochon Tart",
+  "description": "A creamy, savory tart perfect for dinner, inspired by Indian cuisine. The reblochon cheese adds a rich, nutty flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 block (about 8 oz)",
+      "notes": "soft-ripened, creamy cheese"
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Sliced onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a baking sheet lined with parchment paper.",
+    "In a skillet, sauté the sliced onions over medium heat until lightly caramelized.",
+    "Sprinkle the garam masala and cumin seeds over the onions; stir to combine.",
+    "Place the reblochon cheese on one half of the pastry, leaving a 1/2-inch border around the edges.",
+    "Top the cheese with the onion mixture.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Brush the pastry with a little water and sprinkle with salt (if using).",
+    "Bake the tart for 25-30 minutes, or until the pastry is golden brown and the cheese is melted.",
+    "Garnish with chopped cilantro (if using).",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "cheese",
+    "pastry",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-baked-indian-reblochon-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:51:03.628Z"
+}
