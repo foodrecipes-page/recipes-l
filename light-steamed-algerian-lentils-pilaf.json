@@ -1,0 +1,89 @@
+{
+  "slug": "light-steamed-algerian-lentils-pilaf",
+  "title": "Steamed Algerian Lentil Pilaf",
+  "description": "A flavorful and healthy Algerian-inspired lentil pilaf, made with steamed lentils and served with a side of light pilaf.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Steamed lentils",
+      "amount": "1 cup",
+      "notes": "Rinse and drain well before using"
+    },
+    {
+      "name": "Light pilaf",
+      "amount": "2 cups",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "1 tsp",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the steamed lentils, Algerian spice blend, salt, and black pepper to the saucepan.",
+    "Stir to combine and cook for 2-3 minutes.",
+    "Add the cooked light pilaf to the saucepan and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the pilaf is heated through.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentils",
+    "pilaf",
+    "algerian-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-steamed-algerian-lentils-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:31:18.474Z"
+}
