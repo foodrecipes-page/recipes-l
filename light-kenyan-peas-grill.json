@@ -1,0 +1,76 @@
+{
+  "slug": "light-kenyan-peas-grill",
+  "title": "Kenyan Grilled Pea Stew",
+  "description": "A hearty and flavorful stew from Kenya that combines the sweetness of peas with the smokiness of grilled meat.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Light oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grill seasoned light",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of light oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the peas and stir to combine.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook for 10-15 minutes or until the peas are tender.",
+    "Season with salt, black pepper, and grill seasoning.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peas",
+    "kenyan",
+    "stew",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-kenyan-peas-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:46:51.113Z"
+}
