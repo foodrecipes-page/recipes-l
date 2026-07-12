@@ -1,0 +1,78 @@
+{
+  "slug": "light-romantic-brazilian-ginger-stir-fry",
+  "title": "Brazilian Inspired Stir Fry",
+  "description": "A light and romantic stir fry dish with Brazilian flair, featuring the flavors of ginger and a variety of spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the sliced red bell pepper and red onion, and cook for 3-4 minutes, until tender.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the bamboo shoots and stir-fry sauce, and cook for 2-3 minutes, until the sauce is bubbly and the shoots are coated.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired.",
+    "Cooking time: 10-12 minutes"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "stir-fry",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-romantic-brazilian-ginger-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:08:22.295Z"
+}
