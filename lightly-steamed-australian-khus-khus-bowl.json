@@ -1,0 +1,59 @@
+{
+  "slug": "lightly-steamed-australian-khus-khus-bowl",
+  "title": "Steamed Khus Khus Pudding",
+  "description": "A light and refreshing dessert made with steamed khus khus, perfect for warm weather.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "khus khus",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine soaked khus khus, water, and sugar in a bowl.",
+    "Mix well and cook in a steamer for 10-15 minutes.",
+    "Add vanilla extract and mix well.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pudding",
+    "dessert",
+    "khus-khus"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-steamed-australian-khus-khus-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:57:06.045Z"
+}
