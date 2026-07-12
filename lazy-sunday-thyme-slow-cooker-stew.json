@@ -1,0 +1,69 @@
+{
+  "slug": "lazy-sunday-thyme-slow-cooker-stew",
+  "title": "Sunday Slow Cooker Stew",
+  "description": "A hearty, comforting stew made in a slow cooker, perfect for a relaxing Sunday afternoon.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine (optional)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a pan over medium-high heat until browned on all sides.",
+    "Add the onion, carrot, and potato to the slow cooker.",
+    "Add the browned beef, thyme, beef broth, and red wine (if using) to the slow cooker.",
+    "Cook on low for 8-10 hours or high for 4-6 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slow-cooker",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-thyme-slow-cooker-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:12:01.205Z"
+}
