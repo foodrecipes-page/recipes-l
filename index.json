@@ -5067,17 +5067,16 @@
   },
   {
     "slug": "light-kenyan-peas-grill",
-    "title": "Light Kenyan Peas Grill",
+    "title": "Kenyan Grilled Pea Stew",
     "tags": [
+      "peas",
       "kenyan",
-      "low-fat",
-      "plant-based",
-      "quick",
-      "springy",
-      "tava"
+      "stew",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 17,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -7006,17 +7005,16 @@
   },
   {
     "slug": "light-thai-grain-kao-mun-gai",
-    "title": "Light Thai Kao Mun Gai",
+    "title": "Thai-Style Chicken Stir Fry",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "thaifood",
-      "vegan",
-      "weeknight"
+      "thai",
+      "chicken",
+      "stir-fry",
+      "quick",
+      "easy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -9570,16 +9568,15 @@
   },
   {
     "slug": "lightly-salted-french-peanuts-canele",
-    "title": "Lightly Salted French Peanuts Canelé",
+    "title": "French Canele Cakes with Peanut Crust",
     "tags": [
-      "dessert",
-      "european",
-      "gluten-free",
-      "plant-based",
-      "vegan"
+      "french",
+      "peanut-crust",
+      "canele",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 115,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -16408,16 +16405,15 @@
   },
   {
     "slug": "luscious-mediterranean-chickpea-stew",
-    "title": "Luscious Mediterranean Chickpea Stew",
+    "title": "Luscious Mediterranean Stew",
     "tags": [
-      "anti-inflammatory",
-      "comfort-food",
-      "pressure-cook",
+      "mediterranean",
+      "stew",
       "vegan",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
