@@ -1,0 +1,88 @@
+{
+  "slug": "lightly-salted-french-peanuts-canele",
+  "title": "French Canele Cakes with Peanut Crust",
+  "description": "A twist on the classic French dessert, these caneles feature a crunchy peanut crust and a rich, buttery interior.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "canele molds",
+      "amount": "6-8",
+      "notes": "available at specialty stores or online"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "ensure gluten-free"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Prepare the peanut crust by mixing the chopped peanuts with a pinch of salt in a bowl.",
+    "Dip each canele mold into the melted butter, then coat in the peanut mixture, pressing gently to adhere.",
+    "In a separate bowl, whisk together the flour, brown sugar, eggs, heavy cream, and melted butter until smooth.",
+    "Add the cinnamon and salt, whisking to combine.",
+    "Pour the batter into the prepared mold, filling each about 3/4 of the way.",
+    "Add enough water to the mold to cover the bottom.",
+    "Bake for 15-20 minutes, or until the edges are golden brown and the centers are set.",
+    "Remove from the oven and let cool in the mold for 5 minutes before transferring to a wire rack to cool completely.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "6-8",
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "peanut-crust",
+    "canele",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-salted-french-peanuts-canele",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:51:23.688Z"
+}
