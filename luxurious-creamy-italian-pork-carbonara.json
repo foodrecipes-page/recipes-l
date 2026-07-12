@@ -1,0 +1,85 @@
+{
+  "slug": "luxurious-creamy-italian-pork-carbonara",
+  "title": "Creamy Italian Pork Carbonara",
+  "description": "A rich and indulgent Italian-inspired carbonara featuring pork, cream, and Parmesan cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat-lovers",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Guanciale or Pancetta",
+      "amount": "6 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Pork loin",
+      "amount": "1 (1 pound) boneless",
+      "notes": "Tenderized"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Heavy whipping cream"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Salt",
+      "amount": "-",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "-",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pork loin to an internal temperature of 145°F (63°C).",
+    "Let the pork rest before slicing it into thin strips.",
+    "In a large skillet, cook the guanciale over medium heat until crispy.",
+    "Remove the guanciale from the skillet, leaving the drippings behind.",
+    "Add the sliced pork to the skillet and cook until browned, about 3-4 minutes per side.",
+    "Remove the pork from the skillet and set it aside with the guanciale.",
+    "In the same skillet, add the heavy cream and bring it to a simmer.",
+    "Let the cream reduce slightly, stirring occasionally, until it coats the back of a spoon, about 5 minutes.",
+    "Stir in the Parmesan cheese until melted and smooth.",
+    "Add the cooked pasta to the skillet, tossing it with the creamy sauce.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Add the cooked pasta to the bowl, tossing it with the eggs until coated.",
+    "Add the cooked pork and guanciale to the bowl, tossing everything together.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "italian",
+    "cream",
+    "carbonara"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-creamy-italian-pork-carbonara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:53:29.778Z"
+}
