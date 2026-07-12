@@ -1,0 +1,84 @@
+{
+  "slug": "light-indulgent-uruguayan-rice-vermicelli-stir-fry",
+  "title": "Uruguayan Rice Bowl",
+  "description": "A flavorful and easy-to-make Uruguayan-inspired dish with a twist of stir-frying vermicelli noodles.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "light"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Veal Choripan",
+      "amount": "1 pound",
+      "notes": "Uruguayan-style sausage"
+    },
+    {
+      "name": "Cooked Rice",
+      "amount": "2 cups",
+      "notes": "preferably leftover or day-old"
+    },
+    {
+      "name": "Vermicelli Noodles",
+      "amount": "1 cup",
+      "notes": "stir-fry style"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Cook vermicelli noodles according to package instructions. Drain and set aside.",
+    "Slice the red onion thinly.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the sliced red onion and cook for 2-3 minutes until slightly caramelized.",
+    "Add the cooked vermicelli noodles to the skillet and stir-fry for 2-3 minutes.",
+    "Add the cooked choripan to the skillet and stir-fry for another 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the stir-fry mixture over cooked rice.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "indulgent",
+    "stir-fry",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-indulgent-uruguayan-rice-vermicelli-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:27:45.072Z"
+}
