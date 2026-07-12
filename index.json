@@ -5847,17 +5847,16 @@
   },
   {
     "slug": "light-peppery-middle-eastern-chickpeas-tagine",
-    "title": "Light Peppery Middle Eastern Chickpeas Tagine",
+    "title": "Middle Eastern Chickpea Tagine",
     "tags": [
-      "vegetarian",
-      "gluten-free",
-      "dairy-free",
-      "tagine",
-      "chickpea",
-      "peppery"
+      "chickpeas",
+      "cumin",
+      "cinnamon",
+      "turmeric",
+      "parsley"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -8090,18 +8089,16 @@
   },
   {
     "slug": "lightly-crisp-vietnamese-pork-knuckle-canh-chua",
-    "title": "Lightly Crisp Vietnamese Pork Knuckle Canh Chua",
+    "title": "Pork Knuckle Canh",
     "tags": [
-      "canh-chua",
-      "keto-friendly",
-      "one-pan",
-      "pork",
-      "special-occasion",
       "vietnamese",
-      "weeknight"
+      "pork",
+      "knuckle",
+      "canh",
+      "braised"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 135,
     "shard": "l"
   },
   {
@@ -10653,19 +10650,14 @@
   },
   {
     "slug": "lightly-steamed-australian-khus-khus-bowl",
-    "title": "Lightly Steamed Australian Khus Khus Bowls",
+    "title": "Steamed Khus Khus Pudding",
     "tags": [
-      "australian-cuisine",
-      "fodmap-friendly",
-      "gluten-free",
-      "light-and-easy",
-      "one-pan",
-      "romantic-dinner",
-      "vegetarian",
-      "weeknight-meal"
+      "pudding",
+      "dessert",
+      "khus-khus"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 30,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -17711,15 +17703,12 @@
   },
   {
     "slug": "lush-indian-tofu-dal",
-    "title": "Lush Indian Tofu Dal",
+    "title": "Spicy Indian Dal Tofu",
     "tags": [
-      "bamboo-tray",
       "indian",
-      "one-pot",
-      "quick",
-      "tofu-dal",
-      "vegan",
-      "vegetarian"
+      "vegetarian",
+      "lentil",
+      "tofu"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
