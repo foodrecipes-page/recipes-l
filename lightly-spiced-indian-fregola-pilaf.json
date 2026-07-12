@@ -1,0 +1,81 @@
+{
+  "slug": "lightly-spiced-indian-fregola-pilaf",
+  "title": "Spiced Fregola Pilaf",
+  "description": "A flavorful and aromatic pilaf dish from the Indian subcontinent, made with fregola and a blend of warming spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fregola",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lightly spiced Indian pilaf spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the red bell pepper and cook for 2 minutes.",
+    "Add the fregola and cook for 1-2 minutes, stirring constantly.",
+    "Add the pilaf spice blend and stir to combine.",
+    "Add 2 cups water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the fregola is tender.",
+    "Fluff the pilaf with a fork and stir in the cilantro, salt, and lemon juice.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "pilaf",
+    "healthy",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-indian-fregola-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:48:27.542Z"
+}
