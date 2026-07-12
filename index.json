@@ -10347,13 +10347,12 @@
   },
   {
     "slug": "lightly-spiced-indian-fregola-pilaf",
-    "title": "Lightly Spiced Indian Fregola Pilaf",
+    "title": "Spiced Fregola Pilaf",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "indian-cuisine",
-      "one-pot",
-      "vegetarian"
+      "indian",
+      "pilaf",
+      "healthy",
+      "easy-to-make"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 30,
@@ -16332,16 +16331,15 @@
   },
   {
     "slug": "luscious-lime-american-chicken-wrap",
-    "title": "Luscious Lime American Chicken Wrap",
+    "title": "Chicken Lime Wrap",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "quick",
-      "savory",
-      "wrap"
+      "mexican",
+      "chicken",
+      "wrap",
+      "grilled"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 30,
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
