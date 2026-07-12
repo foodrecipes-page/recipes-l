@@ -538,17 +538,16 @@
   },
   {
     "slug": "layered-dense-tunisian-lamb-tagine",
-    "title": "Layered Dense Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "dense-dishes",
-      "earthy-flavors",
-      "lamb-recipes",
-      "monsoon-dishes",
-      "satvik-friendly",
-      "tunisian-cuisine"
+      "north-african",
+      "lamb",
+      "tagine",
+      "slow-cooker",
+      "dinner"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
@@ -5385,14 +5384,13 @@
   },
   {
     "slug": "light-mediterranean-corned-beef-broil",
-    "title": "Light Mediterranean Corned Beef Broil",
+    "title": "Broiled Beef with a Mediterranean Twist",
     "tags": [
-      "broil",
-      "easy",
+      "beef",
       "mediterranean",
-      "weeknight"
+      "quick-cooking"
     ],
-    "cuisine": "mediterranean",
+    "cuisine": "Mediterranean",
     "totalTimeMin": 25,
     "shard": "l"
   },
@@ -6825,16 +6823,15 @@
   },
   {
     "slug": "light-steamed-algerian-lentils-pilaf",
-    "title": "Light Steamed Algerian Lentils Pilaf",
+    "title": "Steamed Algerian Lentil Pilaf",
     "tags": [
-      "algerian",
-      "easy",
       "lentils",
-      "rice",
-      "steamed",
-      "weeknight"
+      "pilaf",
+      "algerian-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "algerian",
+    "cuisine": "Algerian",
     "totalTimeMin": 35,
     "shard": "l"
   },
