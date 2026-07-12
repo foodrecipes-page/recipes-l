@@ -1,0 +1,67 @@
+{
+  "slug": "lzingy-citrusy-lacto-vegetarian-friendly-branston-pickle-crumble",
+  "title": "Branston and Pickle Crumble",
+  "description": "A twist on a classic crumble, featuring Branston and pickle for added flavor and texture.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "lacto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Branston pickle",
+      "amount": "250g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "Self-raising flour",
+      "amount": "150g"
+    },
+    {
+      "name": "Lacto-friendly butter",
+      "amount": "100g"
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "100g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Mix the Branston pickle, sugar, and flour in a bowl.",
+    "Add the lacto-friendly butter and mix until crumbly.",
+    "Transfer the mixture to a baking dish.",
+    "Top with crumble topping and fresh parsley.",
+    "Bake for 25 minutes or until golden brown.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "british",
+    "crumble",
+    "pickle"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lzingy-citrusy-lacto-vegetarian-friendly-branston-pickle-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:45:47.246Z"
+}
