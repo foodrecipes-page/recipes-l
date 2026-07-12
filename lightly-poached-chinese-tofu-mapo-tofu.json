@@ -1,0 +1,94 @@
+{
+  "slug": "lightly-poached-chinese-tofu-mapo-tofu",
+  "title": "Mapo Tofu Stir Fry",
+  "description": "A classic Sichuan dish made with tofu, chili peppers, and spices. Quick and easy to make, this recipe is perfect for a weeknight dinner.",
+  "cuisine": "sichuan",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu (mapo tofu)",
+      "amount": "1 block",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Chili peppers (dried or fresh)",
+      "amount": "2-3",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the ginger and garlic and stir-fry for 30 seconds.",
+    "Add the Sichuan peppercorns and stir-fry for another 30 seconds.",
+    "Add the tofu and stir-fry for 2-3 minutes, until it starts to brown.",
+    "Add the light soy sauce, dark soy sauce, and sesame oil, and stir-fry for another minute.",
+    "Add the chili peppers and stir-fry for 1-2 minutes, until they start to soften.",
+    "Stir in the green onions and serve immediately.",
+    "Cook the tofu to an internal temperature of at least 165°F (74°C) to ensure food safety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sichuan",
+    "stir-fry",
+    "vegetarian",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-poached-chinese-tofu-mapo-tofu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:20:45.369Z"
+}
