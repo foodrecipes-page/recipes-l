@@ -1,0 +1,88 @@
+{
+  "slug": "lightly-crisp-vietnamese-pork-knuckle-canh-chua",
+  "title": "Pork Knuckle Canh",
+  "description": "A traditional Vietnamese recipe for braised pork knuckle in a sweet and sour canh sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Knuckle",
+      "amount": "1",
+      "notes": "about 2 kg"
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chua Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork knuckle until browned on all sides, then set aside.",
+    "Add more oil if necessary, then sauté the ginger and garlic until fragrant.",
+    "Add the soy sauce, fish sauce, vinegar, and chua sauce, stirring to combine.",
+    "Return the pork knuckle to the pot and cover with a lid.",
+    "Braise for 2 hours, or until the meat is tender and the sauce has thickened.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "knuckle",
+    "canh",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 10,
+    "fat": 90
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-crisp-vietnamese-pork-knuckle-canh-chua",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:15:13.374Z"
+}
