@@ -1160,13 +1160,14 @@
   },
   {
     "slug": "lazy-sunday-garlic-egg-noodles",
-    "title": "Lazy Sunday Garlic Egg Noodles",
+    "title": "Sunday Noodle Breakfast",
     "tags": [
-      "lazy-sunday",
-      "garlicy",
-      "fluffy"
+      "breakfast",
+      "brunch",
+      "noodles",
+      "egg"
     ],
-    "cuisine": "British",
+    "cuisine": "American",
     "totalTimeMin": 15,
     "shard": "l"
   },
@@ -1709,14 +1710,14 @@
   },
   {
     "slug": "lazy-sunday-thyme-slow-cooker-stew",
-    "title": "Lazy Sunday Thyme Slow Cooker Stew",
+    "title": "Sunday Slow Cooker Stew",
     "tags": [
-      "lazy",
-      "southerners",
-      "sous-vide"
+      "slow-cooker",
+      "stew",
+      "beef"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 120,
+    "cuisine": "british",
+    "totalTimeMin": 255,
     "shard": "l"
   },
   {
@@ -4789,11 +4790,12 @@
   },
   {
     "slug": "light-indulgent-uruguayan-rice-vermicelli-stir-fry",
-    "title": "Light Indulgent Uruguayan Rice Vermicelli Stir-fry",
+    "title": "Uruguayan Rice Bowl",
     "tags": [
       "uruguayan",
-      "light-indulgent",
-      "rice-vermicelli-stir-fry"
+      "indulgent",
+      "stir-fry",
+      "rice-bowl"
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 25,
@@ -6278,17 +6280,14 @@
   },
   {
     "slug": "light-saudi-arabian-peas-pilaf",
-    "title": "Light Saudi Arabian Peas Pilaf",
+    "title": "Saudi Arabian Pilaf",
     "tags": [
-      "briny",
-      "dense",
-      "low-sodium",
-      "one-pan",
-      "post-workout",
-      "saudi-arabian"
+      "saudi-arabian",
+      "rice",
+      "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 60,
+    "cuisine": "saudi",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -17907,17 +17906,15 @@
   },
   {
     "slug": "luxuriant-creamy-tunisian-mung-bean-sprouts-tagine",
-    "title": "Luxuriant Creamy Tunisian Mung Bean Sprouts Tagine",
+    "title": "Tunisian Tagine Stew",
     "tags": [
-      "bitter",
-      "creamy",
-      "gluten-free",
-      "one-pot",
-      "tunisian",
+      "stew",
+      "tagine",
+      "north-african",
       "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
@@ -19307,15 +19304,15 @@
   },
   {
     "slug": "lzingy-citrusy-lacto-vegetarian-friendly-branston-pickle-crumble",
-    "title": "LZingy Citrusy Lacto-Vegetarian-Friendly Branston-Pickle Crumble",
+    "title": "Branston and Pickle Crumble",
     "tags": [
-      "citrusy",
-      "crumbly",
-      "energizing",
-      "lacto-vegetarian-friendly"
+      "dessert",
+      "british",
+      "crumble",
+      "pickle"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 15,
+    "cuisine": "British",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
