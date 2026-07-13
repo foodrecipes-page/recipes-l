@@ -1,0 +1,99 @@
+{
+  "slug": "light-saudi-arabian-galangal-tagine",
+  "title": "Saudi Chicken Tagine",
+  "description": "A hearty and flavorful chicken dish from Saudi Arabian cuisine, slow-cooked in a rich and aromatic tagine sauce.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "light tagine sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until lightly browned, about 8 minutes.",
+    "Add the grated galangal and cook, stirring constantly, for 1 minute.",
+    "Add the cumin, coriander, cayenne pepper (if using), salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the chicken and cook, stirring occasionally, until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through and the sauce has thickened, about 25-30 minutes.",
+    "Stir in the light tagine sauce and cook for an additional 5-10 minutes.",
+    "Serve the chicken and sauce hot, garnished with fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "saudi-arabian-cuisine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-saudi-arabian-galangal-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:15:15.725Z"
+}
