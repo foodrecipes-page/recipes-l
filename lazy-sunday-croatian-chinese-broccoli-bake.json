@@ -1,0 +1,90 @@
+{
+  "slug": "lazy-sunday-croatian-chinese-broccoli-bake",
+  "title": "Croatian Broccoli Bake",
+  "description": "A hearty, comforting dish from Croatia, featuring tender broccoli and a crispy cheese topping. This easy recipe is perfect for a relaxing Sunday afternoon.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "plain"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Steam broccoli until tender, about 5 minutes. Set aside.",
+    "In a large skillet, melt butter over medium heat. Add onion and garlic and cook until softened, about 5 minutes.",
+    "Stir in chicken broth and bring to a simmer. Scrape up any browned bits from the bottom of the pan.",
+    "Stir in bechamel sauce and cook until heated through. Season with salt and pepper to taste.",
+    "In a separate bowl, mix together Gruyère cheese, Parmesan cheese, and bread crumbs.",
+    "In a greased 9x13 inch baking dish, arrange the steamed broccoli in an even layer.",
+    "Pour the bechamel sauce mixture over the broccoli. Top with the cheese mixture.",
+    "Bake until golden brown and bubbly, about 25-30 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "vegetarian",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-croatian-chinese-broccoli-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:54:13.338Z"
+}
