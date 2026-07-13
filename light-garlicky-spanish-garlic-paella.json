@@ -1,0 +1,86 @@
+{
+  "slug": "light-garlicky-spanish-garlic-paella",
+  "title": "Spanish Paella",
+  "description": "A traditional Spanish dish made with saffron-infused rice, vegetables, and savory meats.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "light vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "paella",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced red bell pepper and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the smoked paprika, sea salt, and black pepper. Stir to combine.",
+    "Add the Spanish rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the vegetable broth, 1 cup at a time, stirring constantly and allowing each cup to absorb before adding the next.",
+    "Bring the mixture to a simmer and cook for 20-25 minutes or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the paella and cook for an additional 1-2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "paella",
+    "rice",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-garlicky-spanish-garlic-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:14:43.325Z"
+}
