@@ -1,0 +1,89 @@
+{
+  "slug": "luscious-savory-middle-eastern-labneh-bowl",
+  "title": "Savory Middle Eastern Labneh Bowl",
+  "description": "A flavorful and refreshing bowl filled with creamy labneh cheese, topped with savory spices and fresh vegetables. This dish is perfect for a light and satisfying meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Labneh Cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced Red Bell Pepper",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced Pita Bread",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Zatar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together olive oil and zatar.",
+    "Add chopped cucumber, mint, and scallions to the bowl and toss to combine.",
+    "In a small bowl, crumble labneh cheese.",
+    "In the bottom of a large bowl, arrange a layer of sliced pita bread.",
+    "Spoon the labneh cheese on top of the pita bread.",
+    "Add the cucumber mixture on top of the labneh cheese.",
+    "Garnish with sliced red bell pepper and serve immediately.",
+    "Drizzle with the remaining olive oil mixture and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "vegetarian",
+    "lunch",
+    "easy",
+    "dairy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-savory-middle-eastern-labneh-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:46:01.826Z"
+}
