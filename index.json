@@ -618,15 +618,15 @@
   },
   {
     "slug": "lazy-brandy-nut-pie",
-    "title": "Lazy Brandy Nut Pie",
+    "title": "Lazy Day Brandy Pie",
     "tags": [
-      "lazy-brandypie",
-      "nutpie",
-      "plantbased",
-      "german-recipe"
+      "brandy",
+      "nuts",
+      "pie",
+      "dessert"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 90,
+    "cuisine": null,
+    "totalTimeMin": 60,
     "shard": "l"
   },
   {
