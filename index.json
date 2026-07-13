@@ -5460,12 +5460,12 @@
   },
   {
     "slug": "light-mexican-cheese-enchiladas",
-    "title": "light mexican cheese enchiladas",
+    "title": "Cheesy Mexican Enchiladas",
     "tags": [
-      "cheese",
-      "easy-dinner",
       "mexican",
-      "weeknight"
+      "vegetarian",
+      "easy",
+      "one-pot"
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
@@ -7681,16 +7681,15 @@
   },
   {
     "slug": "lightly-browned-basque-french-cheese-blanquette",
-    "title": "Lightly Browned Basque French Cheese Blanquette",
+    "title": "French Blanquette de Veau with Basque Cheese",
     "tags": [
-      "cheese-lover",
-      "flexitarian",
-      "french-cuisine",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "lunch",
+      "dinner",
+      "creamy",
+      "sauce",
+      "cheese"
     ],
-    "cuisine": "Basque French",
+    "cuisine": "French",
     "totalTimeMin": 45,
     "shard": "l"
   },
@@ -13078,17 +13077,15 @@
   },
   {
     "slug": "lovely-juicy-french-vegetable-gratin",
-    "title": "Lovely Juicy French Vegetable Gratin",
+    "title": "French Vegetable Gratin",
     "tags": [
-      "french-cuisine",
-      "juicy-gratin",
-      "romantic-dinner",
-      "slow-cooked",
-      "vegetarian-dish",
-      "yeasty-flavor"
+      "vegetarian",
+      "french",
+      "vegetable",
+      "gratin"
     ],
     "cuisine": "French",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
