@@ -1,0 +1,94 @@
+{
+  "slug": "lightly-browned-basque-french-cheese-blanquette",
+  "title": "French Blanquette de Veau with Basque Cheese",
+  "description": "A classic French dish featuring tender veal in a creamy sauce, topped with a rich Basque cheese crust.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Veal shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Veal broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "French Basque cheese",
+      "amount": "1 cup, grated",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Season the veal shoulder with salt and pepper.",
+    "2. Heat butter in a large skillet over medium-high heat.",
+    "3. Sear the veal shoulder until browned, about 2-3 minutes per side.",
+    "4. Remove the veal from the skillet and set aside.",
+    "5. Add the onion to the skillet and cook until softened, about 3-4 minutes.",
+    "6. Add the garlic and cook for an additional minute.",
+    "7. Add the white wine to the skillet and cook until reduced by half, about 2-3 minutes.",
+    "8. Add the veal broth to the skillet and bring to a simmer.",
+    "9. Return the veal shoulder to the skillet and cook until tender, about 10-12 minutes.",
+    "10. Remove the veal from the skillet and set aside.",
+    "11. Stir in the heavy cream and cook until slightly thickened, about 2-3 minutes.",
+    "12. Season the sauce with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lunch",
+    "dinner",
+    "creamy",
+    "sauce",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-browned-basque-french-cheese-blanquette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:04:44.440Z"
+}
