@@ -1,0 +1,52 @@
+{
+  "slug": "lightly-toasted-american-potato-toast",
+  "title": "Potato and Toast American Breakfast",
+  "description": "A filling breakfast recipe using potato and toast for a delicious start to the day.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "American cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Lightly toasted bread",
+      "amount": "2 slices",
+      "notes": "for toast"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Slice the potato into 1/2-inch thick rounds.",
+    "Place the potato slices in the pan and cook for 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Meanwhile, toast the bread until lightly browned.",
+    "Assemble the breakfast by placing a cooked potato slice on top of a slice of toasted bread, followed by a slice of American cheese.",
+    "Repeat the layers one more time to create a stacked breakfast sandwich.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "american",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-toasted-american-potato-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:45:45.030Z"
+}
