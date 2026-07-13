@@ -6253,17 +6253,15 @@
   },
   {
     "slug": "light-saudi-arabian-galangal-tagine",
-    "title": "Light Saudi Arabian Galangal Tagine",
+    "title": "Saudi Chicken Tagine",
     "tags": [
-      "copper-pot",
-      "galangal",
-      "low-carb",
-      "meal-prep",
-      "one-pot",
-      "saudi-arabian"
+      "chicken",
+      "tagine",
+      "saudi-arabian-cuisine",
+      "gluten-free"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "l"
   },
   {
@@ -15967,16 +15965,15 @@
   },
   {
     "slug": "luscious-greek-zucchini-pastitsio",
-    "title": "Luscious Greek Zucchini Pastitsio",
+    "title": "Greek Zucchini Pastitsio",
     "tags": [
-      "baked",
-      "comforting",
       "greek",
-      "low-carb",
-      "weeknight"
+      "pasta",
+      "zucchini",
+      "cheese"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 65,
+    "cuisine": "greek",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
