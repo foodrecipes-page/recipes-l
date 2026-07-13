@@ -1,0 +1,74 @@
+{
+  "slug": "light-uruguayan-cacao-pasta",
+  "title": "Uruguayan Pasta with Cacao Sauce",
+  "description": "A unique dessert made by combining pasta with a rich and creamy cacao sauce, inspired by the flavors of Uruguay.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "8 oz",
+      "notes": "light pasta"
+    },
+    {
+      "name": "Dark Cacao Powder",
+      "amount": "2 tbsp",
+      "notes": "high-quality cacao powder"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "high-quality extract"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti according to package instructions until al dente. Drain and set aside.",
+    "In a medium saucepan, melt butter over low heat. Add cacao powder and whisk until smooth.",
+    "Add granulated sugar and cook for 2-3 minutes, stirring constantly, until the mixture thickens.",
+    "Gradually add heavy cream, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the sauce thickens to your liking.",
+    "Remove from heat and stir in vanilla extract. Season with salt to taste.",
+    "Combine cooked spaghetti and cacao sauce in a large serving dish. Toss to coat.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "cacao",
+    "pasta",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-uruguayan-cacao-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:35:42.831Z"
+}
