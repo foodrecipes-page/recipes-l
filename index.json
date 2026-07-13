@@ -5349,16 +5349,15 @@
   },
   {
     "slug": "light-mediterranean-almonds-bake",
-    "title": "Light Mediterranean Almonds Bake",
+    "title": "Mediterranean Almond Bake",
     "tags": [
       "dessert",
-      "gluten-free",
-      "keto",
-      "low-carb",
-      "weeknight"
+      "mediterranean",
+      "almonds",
+      "bake"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -7155,16 +7154,15 @@
   },
   {
     "slug": "light-uruguayan-cacao-pasta",
-    "title": "Light Uruguayan Cacao Pasta",
+    "title": "Uruguayan Pasta with Cacao Sauce",
     "tags": [
-      "comfort-food",
-      "creamy-sauce",
-      "latin-american",
-      "one-pot",
-      "weeknight"
+      "uruguayan",
+      "cacao",
+      "pasta",
+      "dessert"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
