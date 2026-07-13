@@ -4026,17 +4026,15 @@
   },
   {
     "slug": "light-flaky-croatian-pastry-pilaf",
-    "title": "Croatian Pastry Pilaf",
+    "title": "Croatian Pastry Puffs",
     "tags": [
-      "breakfast-idea",
-      "dairy-free",
-      "flaky-pastry",
-      "hangover-cure",
-      "umami-rich",
+      "croatian",
+      "pastry",
+      "snack",
       "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -4442,17 +4440,16 @@
   },
   {
     "slug": "light-garlicky-spanish-garlic-paella",
-    "title": "Light Garlicky Spanish Garlic Paella",
+    "title": "Spanish Paella",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "spanish",
+      "vegetarian",
+      "paella",
+      "rice",
+      "one-pot"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
