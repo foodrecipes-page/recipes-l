@@ -1,0 +1,76 @@
+{
+  "slug": "light-mediterranean-almonds-bake",
+  "title": "Mediterranean Almond Bake",
+  "description": "A delicious, easy-to-make dessert featuring the flavors of the Mediterranean, topped with crunchy almonds.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "1 1/2 cups",
+      "notes": "cake mix"
+    },
+    {
+      "name": "light",
+      "amount": "1/2 cup",
+      "notes": "sour cream"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 tsp",
+      "notes": "honey"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Prepare a 9x13 inch baking dish by greasing it with butter or cooking spray.",
+    "In a large bowl, combine the cake mix, sour cream, honey, salt, sugar, and eggs. Mix well until combined.",
+    "Stir in the chopped almonds.",
+    "Pour the batter into the prepared baking dish.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let the bake cool completely before serving.",
+    "Cut into squares and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "mediterranean",
+    "almonds",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-mediterranean-almonds-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:58:09.291Z"
+}
