@@ -4123,17 +4123,15 @@
   },
   {
     "slug": "light-fluffy-british-eggs-scramble",
-    "title": "Light Fluffy British Eggs Scramble",
+    "title": "Classic British Eggs Benedict Scramble",
     "tags": [
+      "breakfast",
       "british",
-      "easter-recipe",
-      "easy-breakfast",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "eggs",
+      "scramble"
     ],
     "cuisine": "British",
-    "totalTimeMin": 23,
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -8329,17 +8327,16 @@
   },
   {
     "slug": "lightly-dehydrated-thai-fish-kanom-ko",
-    "title": "Lightly Dehydrated Thai Fish Kanom Ko",
+    "title": "Kanom Buang (Thai Crêpes)",
     "tags": [
-      "bitter-flavors",
-      "dehydrated-dishes",
-      "one-pan-meal",
-      "pescatarian-friendly",
-      "quick-dinner",
-      "thai-cuisine"
+      "dessert",
+      "thaicuisine",
+      "veggie",
+      "glutenfree",
+      "streetfood"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 140,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -10926,18 +10923,14 @@
   },
   {
     "slug": "lightly-toasted-american-potato-toast",
-    "title": "Lightly Toasted American Potato Toast",
+    "title": "Potato and Toast American Breakfast",
     "tags": [
-      "american-classic",
-      "comfort-food",
-      "easy-snack",
-      "potato-recipe",
-      "quick-bite",
-      "simple-recipe",
-      "toast-recipe"
+      "breakfast",
+      "american",
+      "potato"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
