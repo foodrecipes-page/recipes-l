@@ -1,0 +1,70 @@
+{
+  "slug": "light-flaky-croatian-pastry-pilaf",
+  "title": "Croatian Pastry Puffs",
+  "description": "Delicious flaky pastry filled with a savory Croatian-inspired pilaf. Perfect as a snack or light meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian Pastry",
+      "amount": "1 package (thawed)",
+      "notes": "Available at most European bakeries or make your own"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup cooked",
+      "notes": "Flavored with paprika and garlic"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the Croatian pastry to a thickness of 1/8 inch.",
+    "Cut into squares, about 3 inches per side.",
+    "Place a spoonful of pilaf in the center of each square.",
+    "Fold the pastry into a triangle and press the edges together to seal.",
+    "Brush the tops with melted butter and sprinkle with salt and paprika.",
+    "Place the puffs on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "pastry",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-flaky-croatian-pastry-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:44:30.375Z"
+}
