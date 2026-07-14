@@ -5906,18 +5906,14 @@
   },
   {
     "slug": "light-peruvian-sweetcorn-fried-rice",
-    "title": "Light Peruvian Sweetcorn Fried Rice",
+    "title": "Peruvian Fried Rice",
     "tags": [
-      "fried-rice",
-      "one-pan",
       "peruvian",
-      "quick-fix",
-      "sweetcorn",
-      "vegan",
-      "weeknight"
+      "rice",
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -8816,17 +8812,16 @@
   },
   {
     "slug": "lightly-grassy-vietnamese-chicken-pho-ga",
-    "title": "Lightly Grassy Vietnamese Chicken Pho Ga",
+    "title": "Vietnamese Chicken Pho",
     "tags": [
-      "chicken-recipes",
-      "fresh-herbs",
-      "gluten-free",
-      "noodle-soups",
-      "tagine-cooking",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "chicken",
+      "pho",
+      "soup",
+      "noodles"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
