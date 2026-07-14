@@ -1,0 +1,78 @@
+{
+  "slug": "lacquer-glazed-malaysian-saskatoon-berries-stew",
+  "title": "Saskatoon Berry Stew",
+  "description": "A hearty and comforting stew made with saskatoon berries and a variety of other ingredients. Perfect for a cold winter's night.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saskatoon berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "glazed malaysian chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes and cook for an additional 5 minutes.",
+    "Add the beef broth, tomato paste, and glazed malaysian chili flakes (if using).",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Add the saskatoon berries and continue to simmer for an additional 5-10 minutes, or until the berries have broken down and the stew has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "stew",
+    "berry",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacquer-glazed-malaysian-saskatoon-berries-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:36:11.225Z"
+}
