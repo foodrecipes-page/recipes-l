@@ -1,0 +1,65 @@
+{
+  "slug": "lazy-sunday-mexican-cabbage-churros",
+  "title": "Sunday Cabbage Tacos",
+  "description": "A delicious twist on traditional tacos, featuring sautéed cabbage and a hint of Mexican flavor.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "lazy",
+      "amount": "1 tablespoon",
+      "notes": "Mexican hot sauce (e.g. Cholula)"
+    },
+    {
+      "name": "sunday",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the shredded cabbage and cook until slightly softened, about 5 minutes.",
+    "Add the Mexican hot sauce and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Warm tortillas according to package instructions.",
+    "Assemble the tacos by spooning the cabbage mixture onto a tortilla and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-mexican-cabbage-churros",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:19:14.822Z"
+}
