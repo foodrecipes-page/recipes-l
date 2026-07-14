@@ -1,0 +1,69 @@
+{
+  "slug": "lightly-steamed-polish-grape-leaves-dumplings",
+  "title": "Steamed Grape Dumplings",
+  "description": "A sweet and refreshing dessert featuring steamed dumplings filled with grape jam and wrapped in lightly steamed leaves.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Grape dumpling wrappers",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Grape jam",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lightly steamed leaves",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine grape jam and sugar in a bowl.",
+    "Place a dumpling wrapper on a flat surface.",
+    "Place a small spoonful of the jam mixture in the center of the wrapper.",
+    "Fold the wrapper into a triangle and press the edges to seal.",
+    "Steam the dumplings in a steamer basket over boiling water for 5 minutes.",
+    "Wrap each dumpling in a lightly steamed leaf.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "grape",
+    "dumplings",
+    "steamed",
+    "dessert",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-steamed-polish-grape-leaves-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:28:17.425Z"
+}
