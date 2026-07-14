@@ -1,0 +1,73 @@
+{
+  "slug": "light-peruvian-sweetcorn-fried-rice",
+  "title": "Peruvian Fried Rice",
+  "description": "A simple and flavorful Peruvian-inspired fried rice dish, perfect for a quick weeknight meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Light oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup, diced",
+      "notes": "Any color onion"
+    },
+    {
+      "name": "Peruvian rice",
+      "amount": "2 cups, cooked",
+      "notes": "Use leftover rice for best results"
+    },
+    {
+      "name": "Sweetcorn",
+      "amount": "1 cup, kernels",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Fried garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Use leftover garlic for best results"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in sweetcorn kernels, fried garlic, salt, and black pepper.",
+    "Cook for an additional 2-3 minutes, stirring constantly, until the rice is heated through.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-peruvian-sweetcorn-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:22:51.199Z"
+}
