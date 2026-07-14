@@ -1,0 +1,72 @@
+{
+  "slug": "lemony-crisp-syrian-chicken-bowl",
+  "title": "Lemon Chicken Bowl",
+  "description": "A simple and flavorful dish made with crispy chicken, served on top of a bed of greens, and a squeeze of fresh lemon.",
+  "cuisine": "American",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "lemony olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "syrian feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "optional for those who can consume dairy"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper.",
+    "In a large bowl, whisk together the lemony olive oil, salt, and pepper.",
+    "Add the chicken breast to the bowl and toss to coat.",
+    "Place the chicken on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, prepare the salad by washing and drying the crisp lettuce.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing.",
+    "To assemble the bowl, place a scoop of the crisp lettuce on a plate, top with sliced chicken, and sprinkle with syrian feta cheese if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "lemon",
+    "salad",
+    "paleo",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemony-crisp-syrian-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:30:21.354Z"
+}
