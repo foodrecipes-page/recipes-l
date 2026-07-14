@@ -1,0 +1,66 @@
+{
+  "slug": "lush-smoky-uruguayan-comte-salad",
+  "title": "Smoked Comte Salad",
+  "description": "A smoky twist on a classic salad featuring Comte cheese and fresh ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "200g",
+      "notes": "Aged Comte cheese for its rich flavor"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Fresh and crisp for the base of the salad"
+    },
+    {
+      "name": "Smoked uruguayan chorizo",
+      "amount": "100g",
+      "notes": "Adds a smoky, meaty flavor"
+    },
+    {
+      "name": "Lush lettuce",
+      "amount": "2 cups",
+      "notes": "A crunchy addition to the salad"
+    },
+    {
+      "name": "Salad",
+      "amount": "1 cup",
+      "notes": "Fresh veggies for extra crunch and flavor"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mixed greens, smoked uruguayan chorizo, and salad.",
+    "2. Cut the Comte cheese into small cubes and add to the bowl.",
+    "3. In a small bowl, whisk together your favorite vinaigrette ingredients.",
+    "4. Drizzle the vinaigrette over the salad and toss to combine.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve immediately, garnished with additional Comte cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "cheese",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-smoky-uruguayan-comte-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:22:58.379Z"
+}
