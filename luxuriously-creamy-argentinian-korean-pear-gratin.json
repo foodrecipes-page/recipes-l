@@ -1,0 +1,74 @@
+{
+  "slug": "luxuriously-creamy-argentinian-korean-pear-gratin",
+  "title": "Gratin Pear Crumble",
+  "description": "A delicious dessert combining the sweetness of pears with a crunchy topping, perfect for a cozy evening.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pears",
+      "amount": "3-4",
+      "notes": "Any variety, but firmer pears work best"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gratin topping (see below)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the pears. In a large bowl, combine the pears and sugar. Let it sit for 15 minutes.",
+    "In a separate bowl, whisk together the flour and softened butter until crumbly. Add the heavy cream and mix until it forms a smooth batter.",
+    "Transfer the pear mixture to a 9x9-inch baking dish and top with the batter.",
+    "Prepare the gratin topping (see below).",
+    "Spread the gratin topping evenly over the batter.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the fruit is tender.",
+    "Serve warm with vanilla ice cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "pear",
+    "gratin",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriously-creamy-argentinian-korean-pear-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:57:43.256Z"
+}
