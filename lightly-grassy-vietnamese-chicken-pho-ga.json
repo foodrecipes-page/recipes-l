@@ -1,0 +1,94 @@
+{
+  "slug": "lightly-grassy-vietnamese-chicken-pho-ga",
+  "title": "Vietnamese Chicken Pho",
+  "description": "A traditional Vietnamese noodle soup made with chicken and herbs. This recipe is a simplified version of the classic dish, perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Pho broth mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grassy Vietnamese herbs (such as basil and mint)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lightly toasted rice noodles",
+      "amount": "1 pound",
+      "notes": "dried"
+    },
+    {
+      "name": "Ga (Vietnamese chicken sausage)",
+      "amount": "1/2 pound",
+      "notes": " sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions. Drain and set aside.",
+    "In a large stockpot, combine the chicken breast, Pho broth mix, onion, and ginger. Pour in enough water to cover the ingredients and bring to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes, or until the chicken is cooked through.",
+    "Remove the chicken from the pot and shred it into bite-sized pieces. Return the chicken to the pot and add the fish sauce, soy sauce, and hoisin sauce (if using). Simmer for an additional 2-3 minutes.",
+    "Add the sliced ga (Vietnamese chicken sausage) to the pot and cook for 1-2 minutes, or until heated through.",
+    "To assemble the pho, place some of the cooked noodles into a bowl and add sliced herbs on top.",
+    "Pour the hot chicken broth over the noodles and herbs, and serve immediately.",
+    "Garnish with additional herbs and sliced ga (Vietnamese chicken sausage) if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "pho",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-grassy-vietnamese-chicken-pho-ga",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T18:00:11.489Z"
+}
