@@ -1,0 +1,67 @@
+{
+  "slug": "lemon-herb-australian-chicken-wings-skewers",
+  "title": "Australian Grilled Chicken Wings",
+  "description": "A flavorful and easy-to-make dish perfect for a summer barbecue. Marinated chicken wings are grilled to perfection, served with a side of tangy lemon sauce.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 lbs",
+      "notes": "drumsticks and flats separated"
+    },
+    {
+      "name": "lemon",
+      "amount": "2 lemons",
+      "notes": "juiced"
+    },
+    {
+      "name": "herb",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh rosemary"
+    },
+    {
+      "name": "australian",
+      "amount": "1 tsp",
+      "notes": "Australian seasoning blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, herb, Australian seasoning, and olive oil.",
+    "Add the chicken wings to the marinade, toss to coat, and let sit for at least 30 minutes.",
+    "Thread the marinated chicken wings onto skewers, leaving a small space between each piece.",
+    "Grill the chicken wings for 5-7 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-herb-australian-chicken-wings-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:27:07.414Z"
+}
