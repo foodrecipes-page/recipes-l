@@ -1,0 +1,86 @@
+{
+  "slug": "luxurious-low-fat-thai-squid-curry",
+  "title": "Thai Squid Curry",
+  "description": "A spicy Thai-inspired curry made with succulent squid and a blend of aromatic spices. Serve over steamed jasmine rice for a complete meal.",
+  "cuisine": "Thailand",
+  "diet": [
+    "luxurious",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, cut into bite-sized pieces"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste for spiciness"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste for saltiness"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste for sweetness"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the squid and cook until browned, about 2-3 minutes.",
+    "Add the Thai red curry paste and cook, stirring constantly, for 1 minute.",
+    "Add the fish sauce, brown sugar, and 1 cup of water to the skillet.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce the heat to low and let simmer for 5-7 minutes or until the squid is cooked through.",
+    "Stir in the Thai basil and lime juice.",
+    "Season with salt to taste.",
+    "Serve hot over steamed jasmine rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "squid",
+    "luxurious",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-low-fat-thai-squid-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:10:14.913Z"
+}
