@@ -664,17 +664,15 @@
   },
   {
     "slug": "lazy-day-croatian-lentil-curry",
-    "title": "Lazy Day Croatian Lentil Curry",
+    "title": "Croatian Lentil Curry",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "curry-recipes",
-      "lentil-recipes",
-      "one-pot",
-      "plant-based"
+      "lentil-curry",
+      "croatian",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -2109,21 +2107,14 @@
   },
   {
     "slug": "lemon-herb-australian-chicken-wings-skewers",
-    "title": "lemon-herb aussie chicken wings skewers",
+    "title": "Australian Grilled Chicken Wings",
     "tags": [
-      "australian",
+      "grilled",
       "chicken",
-      "easy",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "sattvic",
-      "snack",
-      "vegetarian",
-      "weeknight"
+      "australian"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 55,
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
