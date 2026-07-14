@@ -1,0 +1,86 @@
+{
+  "slug": "lovely-smoky-algerian-lamb-tagine",
+  "title": "Algerian Lamb Tagine",
+  "description": "A traditional Algerian slow-cooked stew made with lamb, lovely spices, and smoky flavors.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Lovely spices",
+      "amount": "2 tbsp",
+      "notes": "mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 tsp",
+      "notes": "smoked for depth of flavor"
+    },
+    {
+      "name": "Algerian olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-low heat.",
+    "Add the lovely spices and cook, stirring constantly, for 1 minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the smoky paprika, olives, ginger, garlic, and chicken broth.",
+    "Bring to a simmer, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2-1/2 hours, or until the lamb is tender.",
+    "Stir in the honey, if using.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "tagine",
+    "stew",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:27:05.678Z"
+}
