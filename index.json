@@ -1323,23 +1323,14 @@
   },
   {
     "slug": "lazy-sunday-mexican-cabbage-churros",
-    "title": "Lazy-Sunday Mexican Cabbage Churros",
+    "title": "Sunday Cabbage Tacos",
     "tags": [
-      "breakfast",
-      "churros",
-      "cinnamon",
-      "easy",
-      "jain",
-      "lunch",
       "mexican",
-      "one-pan",
-      "snack",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "tacos",
+      "vegetarian"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -10416,17 +10407,15 @@
   },
   {
     "slug": "lightly-spiced-saudia-fish-stir-fry",
-    "title": "Cozy Earthy Lightly Spiced Saudi Fish Stir-fry",
+    "title": "Saudi Style Stir Fry Fish",
     "tags": [
-      "cozy",
-      "earthly",
-      "light",
-      "saudi",
+      "saudi-style",
+      "fish",
       "stir-fry",
-      "vegan"
+      "middle-eastern"
     ],
-    "cuisine": "Saudi",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -10704,17 +10693,16 @@
   },
   {
     "slug": "lightly-steamed-polish-grape-leaves-dumplings",
-    "title": "Polish Grape Leaves Dumplings",
+    "title": "Steamed Grape Dumplings",
     "tags": [
-      "brunch-ideas",
-      "grape-leaves",
-      "mushroom-recipes",
-      "polish-cuisine",
-      "steamed-dishes",
-      "vegetarian"
+      "grape",
+      "dumplings",
+      "steamed",
+      "dessert",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -17733,16 +17721,13 @@
   },
   {
     "slug": "lush-smoky-uruguayan-comte-salad",
-    "title": "Lush Smoky Uruguayan Comte Salad",
+    "title": "Smoked Comte Salad",
     "tags": [
-      "low-carb",
-      "meal-prep",
-      "quick",
       "salad",
-      "smoky",
-      "uruguayan"
+      "cheese",
+      "smoked"
     ],
-    "cuisine": "Uruguayan",
+    "cuisine": "French",
     "totalTimeMin": 15,
     "shard": "l"
   },
