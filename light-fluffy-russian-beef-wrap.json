@@ -1,0 +1,82 @@
+{
+  "slug": "light-fluffy-russian-beef-wrap",
+  "title": "Beef Stroganoff Wrap",
+  "description": "A twist on the classic Russian dish, served in a tasty beef wrap.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "8 oz",
+      "notes": "sirloin, sliced"
+    },
+    {
+      "name": "light, fluffy russian wrap",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the beef into thin strips and season with salt and pepper.",
+    "2. In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "3. Add the beef to the skillet and cook until browned, about 3-4 minutes.",
+    "4. Remove the beef from the skillet and set aside.",
+    "5. In the same skillet, add the beef broth and bring to a simmer.",
+    "6. Stir in the sour cream and mustard (if using).",
+    "7. Return the beef to the skillet and stir to coat with the sauce.",
+    "8. Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "9. Warm the wrap in the microwave or oven.",
+    "10. Assemble the wrap by spooning the beef mixture onto the center of the wrap.",
+    "11. Top with parsley (if using) and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "russian",
+    "wrap",
+    "lunch",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fluffy-russian-beef-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:43:19.824Z"
+}
