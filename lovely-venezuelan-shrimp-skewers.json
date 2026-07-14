@@ -1,0 +1,90 @@
+{
+  "slug": "lovely-venezuelan-shrimp-skewers",
+  "title": "Venezuelan Shrimp Skewers",
+  "description": "A delicious and easy-to-make dish from Venezuela, featuring succulent shrimp marinated in a mixture of spices and grilled to perfection on skewers.",
+  "cuisine": "latin american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lovely",
+      "amount": "1 cup",
+      "notes": "chopped fresh cilantro (or parsley)"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, garlic, cumin, coriander, smoked paprika, salt, and black pepper.",
+    "Add the shrimp to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated shrimp onto skewers, leaving a little space between each shrimp.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "Transfer the skewers to a plate and garnish with lovely (chopped fresh cilantro or parsley).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "latin",
+    "seafood",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-venezuelan-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:42:25.972Z"
+}
