@@ -1280,16 +1280,15 @@
   },
   {
     "slug": "lazy-sunday-malaysian-chicken-curry",
-    "title": "Lazy Sunday Malaysian Chicken Curry",
+    "title": "Malaysian Chicken Curry",
     "tags": [
-      "chicken-recipes",
-      "coconut-milk-recipes",
-      "curry-dishes",
-      "lazy-sunday",
-      "malaysian-cuisine"
+      "chicken",
+      "curry",
+      "malaysian",
+      "dinner"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -5335,19 +5334,13 @@
   },
   {
     "slug": "light-mediterranean-applesauce-stew",
-    "title": "light mediterranean applesauce stew",
+    "title": "Mediterranean Stew",
     "tags": [
-      "applesauce",
-      "breakfast",
-      "easy",
-      "hot-stone",
       "mediterranean",
-      "one-pan",
-      "sashimi-cut",
-      "vegan",
-      "weekend-brunch"
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "mediterranean",
+    "cuisine": "Mediterranean",
     "totalTimeMin": 25,
     "shard": "l"
   },
