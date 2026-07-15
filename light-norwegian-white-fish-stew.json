@@ -1,0 +1,73 @@
+{
+  "slug": "light-norwegian-white-fish-stew",
+  "title": "Norwegian Fish Stew",
+  "description": "A hearty and flavorful stew originating from Norway, made with fresh fish, vegetables, and a hint of cream.",
+  "cuisine": "norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Fish Fillets",
+      "amount": "1 pound",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "White Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Light Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion and sauté until softened.",
+    "Add sliced carrots and potatoes, cook for 5 minutes.",
+    "Add fish fillets, cook for 2-3 minutes.",
+    "Pour in fish stock, bring to a boil.",
+    "Reduce heat, cover and simmer for 10-12 minutes.",
+    "Stir in light cream, cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-stew",
+    "norwegian-cuisine",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-norwegian-white-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T18:57:52.084Z"
+}
