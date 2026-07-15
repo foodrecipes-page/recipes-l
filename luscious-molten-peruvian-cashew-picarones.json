@@ -1,0 +1,86 @@
+{
+  "slug": "luscious-molten-peruvian-cashew-picarones",
+  "title": "Picarones con Cajeta de Cajú",
+  "description": "Traditional Peruvian sweet potato donuts served with a cashew cajeta sauce, a delicious twist on a classic dessert.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "cashews",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "anise",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "luscious honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "2. Peel and grate the sweet potatoes.",
+    "3. Sift the flour, baking powder, and salt.",
+    "4. Add the grated sweet potatoes, cinnamon, anise, and molasses to the flour mixture.",
+    "5. Knead the dough for 5 minutes.",
+    "6. Divide the dough into 6-8 equal pieces.",
+    "7. Shape each piece into a ball and then flatten slightly.",
+    "8. Fry the donuts for 3-4 minutes on each side, or until golden brown.",
+    "9. Drain the donuts on paper towels.",
+    "10. In a blender or food processor, blend the cashews, honey, and 2 tablespoons of water until smooth.",
+    "11. Heat the cashew mixture in a saucepan over low heat until warm and bubbly.",
+    "12. Serve the picarones with the cajeta sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "vegetarian",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-molten-peruvian-cashew-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:32:44.107Z"
+}
