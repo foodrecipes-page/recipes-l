@@ -1,0 +1,91 @@
+{
+  "slug": "light-venezuelan-turkey-neck-bento-box",
+  "title": "Turkey Neck Stew",
+  "description": "A hearty stew made with tender turkey neck and a variety of vegetables.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "1",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "light bento",
+      "amount": "1",
+      "notes": "to serve"
+    },
+    {
+      "name": "box of chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F.",
+    "Season the turkey neck with salt and pepper.",
+    "In a large Dutch oven or pot, heat 2 tablespoons of oil over medium heat.",
+    "Brown the turkey neck on all sides, about 5 minutes. Remove and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for another 5 minutes.",
+    "Add the chicken broth, tomato paste, and browned turkey neck to the pot.",
+    "Bring to a boil, then cover and transfer to the preheated oven.",
+    "Bake for 2 hours, or until the turkey is tender.",
+    "Serve hot with your choice of sides, such as rice or a light bento box.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkey",
+    "stew",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-venezuelan-turkey-neck-bento-box",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:38:57.312Z"
+}
