@@ -1,0 +1,88 @@
+{
+  "slug": "luminous-portuguese-fish-broth--thai",
+  "title": "Thai Fish Soup",
+  "description": "A flavorful and spicy Thai fish soup made with fresh fish and a variety of aromatic spices.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "1 pound",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Portuguese broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Luminous (galangal)",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "You can adjust the spice level to your taste"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "You can use fresh or dried basil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the broth in a large pot over medium heat.",
+    "Add the galangal and curry paste and cook for 1 minute, until fragrant.",
+    "Add the fish and cook for 2-3 minutes, until it starts to flake.",
+    "Add the fish sauce, lime juice, and chili peppers. Stir to combine.",
+    "Simmer the soup for 5-7 minutes, until the fish is cooked through.",
+    "Stir in the Thai basil.",
+    "Season the soup with salt to taste.",
+    "Serve the soup hot, garnished with additional Thai basil if desired.",
+    "You can adjust the spice level to your taste by adding more or less chili peppers.",
+    "You can also add other ingredients, such as lemongrass or mushrooms, to the soup for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish",
+    "soup",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luminous-portuguese-fish-broth--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:37:05.900Z"
+}
