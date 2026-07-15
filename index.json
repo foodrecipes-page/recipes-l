@@ -7234,16 +7234,14 @@
   },
   {
     "slug": "light-venezuelan-turkey-neck-bento-box",
-    "title": "Light Venezuelan Turkey Neck Bento Box",
+    "title": "Turkey Neck Stew",
     "tags": [
-      "bento",
-      "flexitarian",
-      "one-pan",
-      "venezuelan",
-      "weeknight"
+      "turkey",
+      "stew",
+      "venezuelan"
     ],
     "cuisine": "venezuelan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 150,
     "shard": "l"
   },
   {
@@ -18294,16 +18292,15 @@
   },
   {
     "slug": "luxuriantly-creamy-turkish-boudin-noir-stew",
-    "title": "Luxuriantly Creamy Turkish Boudin Noir Stew",
+    "title": "Black Boudin Stew",
     "tags": [
-      "comfort-food",
-      "cozy-dinner",
-      "one-pot",
-      "paleo-friendly",
-      "turkish-cuisine",
-      "whole30-friendly"
+      "french",
+      "stew",
+      "boudin-noir",
+      "beef",
+      "red-wine"
     ],
-    "cuisine": "Turkish",
+    "cuisine": "French",
     "totalTimeMin": 40,
     "shard": "l"
   },
@@ -18705,16 +18702,15 @@
   },
   {
     "slug": "luxurious-grilled-saudi-arabian-lamb-kebabs",
-    "title": "Luxurious Grilled Saudi Arabian Lamb Kebabs",
+    "title": "Saudi Arabian Lamb Kebabs",
     "tags": [
-      "gluten-free",
-      "grilled-meats",
-      "lunch-ideas",
-      "middle-eastern",
-      "whole30-recipes"
+      "saudi-arabian",
+      "lamb",
+      "kebabs",
+      "grilled"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 31,
     "shard": "l"
   },
   {
@@ -18898,18 +18894,15 @@
   },
   {
     "slug": "luxurious-yeasty-moroccan-lamb-harira",
-    "title": "Luxurious Yeasty Moroccan Lamb Harira",
+    "title": "Moroccan Lamb Harira Stew",
     "tags": [
-      "comfort-food",
-      "lamb",
-      "macrobiotic",
       "moroccan",
+      "lamb",
       "stew",
-      "tandoor",
-      "yeasty"
+      "hearty"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 90,
+    "cuisine": "moroccan",
+    "totalTimeMin": 110,
     "shard": "l"
   },
   {
