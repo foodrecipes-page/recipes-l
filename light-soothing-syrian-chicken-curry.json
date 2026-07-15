@@ -1,0 +1,88 @@
+{
+  "slug": "light-soothing-syrian-chicken-curry",
+  "title": "Syrian Chicken Curry",
+  "description": "A soothing and flavorful curry dish from Syria, made with chicken and a blend of spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee or oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes. Remove the chicken from the skillet and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of ghee or oil to the skillet.",
+    "Add the onion, garlic, and ginger to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Add the curry powder to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Return the chicken to the skillet and cook until the chicken is cooked through, about 5-7 minutes.",
+    "Stir in the heavy cream, if using. Season with salt and pepper to taste.",
+    "Serve the curry hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-soothing-syrian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:02:07.751Z"
+}
