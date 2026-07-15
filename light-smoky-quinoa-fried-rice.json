@@ -1,0 +1,77 @@
+{
+  "slug": "light-smoky-quinoa-fried-rice",
+  "title": "Smoky Quinoa Bowl",
+  "description": "A flavorful and nutritious quinoa bowl loaded with smoky flavors and crunchy fried rice.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fried rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook quinoa according to package instructions.",
+    "In a small bowl, whisk together soy sauce, smoked paprika, and rice vinegar.",
+    "In a large bowl, combine cooked quinoa, fried rice, and green onions.",
+    "Drizzle the soy sauce mixture over the quinoa mixture and toss to combine.",
+    "Sprinkle sesame seeds on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "smoky",
+    "rice",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-smoky-quinoa-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:23:18.461Z"
+}
