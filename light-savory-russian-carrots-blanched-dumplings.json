@@ -1,0 +1,58 @@
+{
+  "slug": "light-savory-russian-carrots-blanched-dumplings",
+  "title": "Russian Carrot Dumplings",
+  "description": "A traditional Russian dish made with blanched dumplings filled with a savory carrot mixture. Serve with a side of your favorite dipping sauce.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dumplings",
+      "amount": "1 package (24 count)",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Savory light seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil a large pot of salted water.",
+    "Add the dumplings to the boiling water and cook for 5-7 minutes.",
+    "While the dumplings are cooking, chop the carrots into small pieces.",
+    "In a pan, heat 1 tsp of oil over medium heat.",
+    "Add the chopped carrots to the pan and cook until tender.",
+    "Mix in the savory light seasoning.",
+    "Once the dumplings are done cooking, drain them and add to a serving dish.",
+    "Spoon the carrot mixture over the top of the dumplings.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "dumplings",
+    "carrots"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-savory-russian-carrots-blanched-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:35:50.728Z"
+}
