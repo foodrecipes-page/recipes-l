@@ -1,0 +1,93 @@
+{
+  "slug": "lively-moroccan-noodle-dish",
+  "title": "Moroccan Chicken Noodle Dish",
+  "description": "A flavorful and aromatic dish that combines the spices of Morocco with the simplicity of noodles.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "Stir in Moroccan spice blend and cook for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Return chicken to the skillet and simmer until cooked through, about 5-7 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve over noodles and garnish with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "noodle-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-moroccan-noodle-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:43:59.309Z"
+}
