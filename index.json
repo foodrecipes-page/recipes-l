@@ -6612,14 +6612,11 @@
   },
   {
     "slug": "light-soothing-syrian-chicken-curry",
-    "title": "Light Soothing Syrian Chicken Curry",
+    "title": "Syrian Chicken Curry",
     "tags": [
-      "ayurvedic-friendly",
-      "chicken-recipes",
-      "curry-dishes",
-      "dairy-free",
-      "gluten-free",
-      "syrian-cuisine"
+      "chicken",
+      "curry",
+      "syrian"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 40,
@@ -9193,15 +9190,13 @@
   },
   {
     "slug": "lightly-pan-fried-canadian-fish-hash",
-    "title": "Lightly Pan-Fried Canadian Fish Hash",
+    "title": "Pan Fried Canadian Fish Hash",
     "tags": [
       "canadian",
-      "comfort-food",
       "fish",
-      "hash",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "hash-brown",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 25,
@@ -14407,15 +14402,16 @@
   },
   {
     "slug": "low-fat-crunchy-herbal-stir-fry",
-    "title": "Low-Fat Crunchy Herbal Stir-fry",
+    "title": "Low Fat Stir Fry",
     "tags": [
       "low-fat",
-      "herbal",
-      "crunchy",
+      "healthy",
+      "quick",
+      "easy",
       "stir-fry"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
