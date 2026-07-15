@@ -1,0 +1,88 @@
+{
+  "slug": "luxurious-syrian-chicken-wrap",
+  "title": "Chicken Shawarma Wrap",
+  "description": "A flavorful and easy-to-make dish inspired by the street food of the Middle East, perfect for a quick and satisfying meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Luxurious chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Syrian wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chopped tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Pickled turnips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken with salt and black pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Meanwhile, toast the wraps by grilling them for 1-2 minutes on each side.",
+    "Assemble the wraps by spreading tahini sauce on the bottom half, followed by a few slices of grilled chicken, some mixed greens, chopped cucumber, chopped tomato, and pickled turnips.",
+    "Drizzle with additional tahini sauce, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "shawarma",
+    "syrian",
+    "wrap",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-syrian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T18:34:00.147Z"
+}
