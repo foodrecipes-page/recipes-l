@@ -1,0 +1,62 @@
+{
+  "slug": "lazy-sunday-xintense-jamaican-peas-bain-marie",
+  "title": "Sunday Jamaican Pea Stew",
+  "description": "A hearty and flavorful stew made with Jamaican spices and tender peas. Perfect for a relaxing Sunday afternoon.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jamaican peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lazy bain marie",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sunday sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Xintense spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the Sunday sauce and stir to combine.",
+    "Add the Jamaican peas and stir to combine.",
+    "Add the Lazy bain marie and stir to combine.",
+    "Add the Xintense spices and stir to combine.",
+    "Bring the stew to a simmer and cook for 20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peas",
+    "stew",
+    "jamaican-spices"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-xintense-jamaican-peas-bain-marie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T23:08:09.485Z"
+}
