@@ -1,0 +1,94 @@
+{
+  "slug": "lightly-smoked-filipino-vegetables-pinakbet",
+  "title": "Filipino Pinakbet with Smoked Fish",
+  "description": "A classic Filipino vegetable dish with the added smokiness of smoked fish, perfect for a quick and flavorful meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Fish",
+      "amount": "4 oz",
+      "notes": "preferably smoked tilapia or mackerel"
+    },
+    {
+      "name": "Lightly Smoked Tomato",
+      "amount": "2",
+      "notes": "canned or fresh smoked tomato"
+    },
+    {
+      "name": "Okra",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Long Green Chili",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add eggplant and okra and cook until tender.",
+    "Add smoked tomato, chili, and smoked fish. Stir well.",
+    "Season with salt and black pepper to taste.",
+    "Simmer for 5-7 minutes or until the flavors have melded together.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "easy-cook",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-filipino-vegetables-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:29:03.707Z"
+}
