@@ -1,0 +1,80 @@
+{
+  "slug": "low-fat-crunchy-herbal-stir-fry",
+  "title": "Low Fat Stir Fry",
+  "description": "A quick and easy stir fry recipe using low-fat ingredients. Perfect for a healthy meal.",
+  "cuisine": null,
+  "diet": [
+    "low-fat",
+    "healthy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Low Fat Oil",
+      "amount": "2 tablespoons",
+      "notes": "Any low-fat cooking oil such as vegetable or canola"
+    },
+    {
+      "name": "Crunchy Vegetables",
+      "amount": "1 cup",
+      "notes": "Bell peppers, carrots, broccoli"
+    },
+    {
+      "name": "Herbal Tea-Spiced Turkey Breast",
+      "amount": "1 pound",
+      "notes": "Cooked and sliced"
+    },
+    {
+      "name": "Low Sodium Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium soy sauce or tamari"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh herbs such as cilantro or basil"
+    },
+    {
+      "name": "Stir-Fry Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Any stir-fry seasoning blend"
+    },
+    {
+      "name": "Cooked Brown Rice",
+      "amount": "1 cup",
+      "notes": "Cooked brown rice for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of low fat oil in a large skillet or wok over medium-high heat.",
+    "Add the crunchy vegetables and cook until tender-crisp, about 3-4 minutes.",
+    "Add the herbal tea-spiced turkey breast and cook until heated through.",
+    "In a small bowl, whisk together the low sodium soy sauce and stir-fry seasoning.",
+    "Pour the sauce over the turkey and vegetables and stir to combine.",
+    "Cook for an additional 1-2 minutes until the sauce has thickened.",
+    "Serve the stir-fry over cooked brown rice.",
+    "Garnish with fresh herbs and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "healthy",
+    "quick",
+    "easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-crunchy-herbal-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:33:15.969Z"
+}
