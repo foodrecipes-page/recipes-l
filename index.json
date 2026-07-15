@@ -20047,5 +20047,18 @@
     "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "luminous-portuguese-fish-broth--thai",
+    "title": "Thai Fish Soup",
+    "tags": [
+      "thai",
+      "fish",
+      "soup",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
