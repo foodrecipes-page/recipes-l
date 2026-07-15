@@ -5850,17 +5850,16 @@
   },
   {
     "slug": "light-peruvian-kanten-agar-bowl",
-    "title": "Light Peruvian Kanten Agar Bowl",
+    "title": "Aguayo Agar Bowl",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "healthy-snack",
-      "peruvian-cuisine",
-      "refreshing",
-      "vegan-friendly"
+      "aguayo",
+      "agar-agar",
+      "dessert",
+      "peruvian",
+      "vegan"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -6276,18 +6275,15 @@
   },
   {
     "slug": "light-savory-middle-eastern-ghee-umm-ali",
-    "title": "Light Savory Middle-Eastern Ghee Umm Ali",
+    "title": "Middle Eastern Lamb Koftas",
     "tags": [
-      "breakfast",
-      "easy",
-      "gluten-free",
-      "lunch",
       "middle-eastern",
-      "quick",
-      "snack"
+      "grilled",
+      "lamb",
+      "koftas"
     ],
-    "cuisine": "Middle-Eastern",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 33,
     "shard": "l"
   },
   {
@@ -9284,15 +9280,12 @@
   },
   {
     "slug": "lightly-resinous-saudi-arabian-lamb-kebabs",
-    "title": "Lightly Resinous Saudi Arabian Lamb Kebabs",
+    "title": "Saudi Arabian Lamb Kebabs",
     "tags": [
-      "high-protein",
-      "kebabs",
       "lamb",
-      "middle-eastern",
-      "one-pan",
-      "resinous",
-      "weeknight"
+      "kebabs",
+      "grill",
+      "middle-eastern"
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 32,
@@ -11652,15 +11645,14 @@
   },
   {
     "slug": "lively-moroccan-noodle-dish",
-    "title": "lively moroccan noodle dish",
+    "title": "Moroccan Chicken Noodle Dish",
     "tags": [
-      "high-protein",
       "moroccan",
-      "one-pan",
-      "post-workout"
+      "chicken",
+      "noodle-dish"
     ],
-    "cuisine": "morooccan",
-    "totalTimeMin": 20,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
