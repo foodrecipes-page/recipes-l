@@ -1,0 +1,75 @@
+{
+  "slug": "luxuriously-sweet-russian-rice-pilaf",
+  "title": "Luxurious Russian Rice Pilaf",
+  "description": "A rich, savory pilaf dish originating from Russia, made with sweet rice and fragrant spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saffron-infused sweet rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crispy prosciutto",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unsalted chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast garlic cloves in the oven for 20 minutes, or until soft and mashed.",
+    "Caramelize onions in a pan with 2 tablespoons of clarified butter over medium heat for 25 minutes.",
+    "Cook saffron-infused sweet rice according to package instructions.",
+    "In a separate pan, cook crispy prosciutto until golden brown and crispy.",
+    "Combine roasted garlic, caramelized onions, cooked rice, and crispy prosciutto in a large bowl.",
+    "Stir in unsalted chicken broth, salt, and pepper to taste.",
+    "Garnish with fresh dill and serve hot.",
+    "Let the pilaf rest for 10 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "luxurious",
+    "russian",
+    "rice-pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriously-sweet-russian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:37:44.565Z"
+}
