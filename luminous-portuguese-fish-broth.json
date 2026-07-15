@@ -1,0 +1,49 @@
+{
+  "slug": "luminous-portuguese-fish-broth",
+  "title": "Portuguese Fish Stew",
+  "description": "A hearty and flavorful stew originating from Portugal, featuring fish as the main ingredient. This recipe is easy to make and perfect for a chilly evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (cod or haddock)",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Portuguese broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Luminous (luminous salt or bay leaves)",
+      "amount": "2-3",
+      "notes": "Optional for flavor enhancement"
+    }
+  ],
+  "instructions": [
+    "Heat the Portuguese broth in a large pot over medium heat.",
+    "Add the fish pieces to the pot and cook until they start to flake apart, about 5 minutes.",
+    "Add the luminous (if using) and stir to combine.",
+    "Reduce heat to low and simmer for 10-12 minutes, or until the fish is cooked through.",
+    "Serve hot, garnished with fresh parsley or lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "fish-stew",
+    "seafood",
+    "easy-recipe"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luminous-portuguese-fish-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:46:06.338Z"
+}
