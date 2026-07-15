@@ -1,0 +1,95 @@
+{
+  "slug": "luxuriantly-creamy-turkish-boudin-noir-stew",
+  "title": "Black Boudin Stew",
+  "description": "A rich and flavorful stew made with dark meat and a hint of noir spice.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boudin Noir",
+      "amount": "1 pound",
+      "notes": "preferably freshly made"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "full-bodied"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the boudin noir and cook until browned, about 5 minutes.",
+    "Remove the boudin from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the mushrooms to the pot and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the red wine to the pot and cook until it has reduced by half, about 2 minutes.",
+    "Add the beef broth, thyme, and bay leaves to the pot.",
+    "Return the boudin noir to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season the stew with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "stew",
+    "boudin-noir",
+    "beef",
+    "red-wine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriantly-creamy-turkish-boudin-noir-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:33:10.572Z"
+}
