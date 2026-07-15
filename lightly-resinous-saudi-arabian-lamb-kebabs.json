@@ -1,0 +1,94 @@
+{
+  "slug": "lightly-resinous-saudi-arabian-lamb-kebabs",
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "Tender lamb kebabs marinated in traditional Middle Eastern spices and grilled to perfection. Perfect for a quick and flavorful dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, boneless and cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Ask your butcher to cut the lamb into skewer-sized pieces."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the kebabs during grilling."
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use 1 or 2 cloves depending on your taste."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed is best."
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 teaspoon",
+      "notes": "Fresh is best."
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin is fine too."
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked paprika gives a nice smoky flavor."
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use kosher salt or sea salt."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground is best."
+    },
+    {
+      "name": "green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": "Optional, for garnish."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the olive oil, garlic, lemon juice, ginger, cumin, paprika, salt, and pepper.",
+    "Add the lamb cubes to the marinade and mix until they're evenly coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread 3-4 lamb cubes onto each skewer, leaving a small space between each piece.",
+    "Brush the kebabs with the marinade and cook for 4-5 minutes per side, or until they're cooked through.",
+    "Transfer the kebabs to a plate and garnish with chopped green onions, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "grill",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-resinous-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:15:48.339Z"
+}
