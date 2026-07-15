@@ -1,0 +1,84 @@
+{
+  "slug": "lazy-jelly-venezuelan-noodles-pilaf",
+  "title": "Venezuelan-Style Chicken Noodle Pilaf",
+  "description": "A flavorful and aromatic one-pot meal made with chicken, noodles, and pilaf, inspired by Venezuelan cuisine.",
+  "cuisine": "latin",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "medium-width"
+    },
+    {
+      "name": "pilaf mix",
+      "amount": "1 package",
+      "notes": "according to package instructions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "sweet"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until browned on all sides, about 5-6 minutes.",
+    "Add the pilaf mix, cumin, and paprika. Stir well to combine.",
+    "Add the noodles and chicken broth (according to package instructions). Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the noodles and chicken are cooked through.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "latin",
+    "chicken",
+    "pilaf",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-jelly-venezuelan-noodles-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:58:52.025Z"
+}
