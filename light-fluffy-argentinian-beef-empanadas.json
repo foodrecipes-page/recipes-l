@@ -1,0 +1,90 @@
+{
+  "slug": "light-fluffy-argentinian-beef-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "Traditional Argentinian empanadas filled with seasoned beef, served with a side of salsa criolla. These flaky pastries are perfect as a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "argentinian seasoning",
+      "amount": "1 tsp",
+      "notes": "Available at most Latin American markets"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "shortening",
+      "amount": "1/2 cup",
+      "notes": "Unsalted butter or vegetable shortening"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "Cold water"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground beef, onion, garlic, Worcestershire sauce, and Argentinian seasoning. Mix well with your hands until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass. You should be able to get about 12-15 circles.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Fold the dough over the filling, forming a half-circle shape, and press the edges together to seal the empanada.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little water.",
+    "Bake in a preheated oven at 375°F (190°C) for 20-25 minutes, or until golden brown.",
+    "Serve warm with a side of salsa criolla, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fluffy-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:11:00.185Z"
+}
