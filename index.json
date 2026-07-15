@@ -5663,17 +5663,14 @@
   },
   {
     "slug": "light-norwegian-white-fish-stew",
-    "title": "Light Norwegian White Fish Stew",
+    "title": "Norwegian Fish Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
       "fish-stew",
-      "low-carb",
       "norwegian-cuisine",
-      "one-pot"
+      "winter-recipe"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "norwegian",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -18904,16 +18901,16 @@
   },
   {
     "slug": "luxurious-syrian-chicken-wrap",
-    "title": "Luxurious Syrian Chicken Wrap",
+    "title": "Chicken Shawarma Wrap",
     "tags": [
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "chicken",
+      "shawarma",
+      "syrian",
+      "wrap",
+      "middle-eastern"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
