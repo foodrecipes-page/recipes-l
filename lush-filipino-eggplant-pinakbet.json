@@ -1,0 +1,72 @@
+{
+  "slug": "lush-filipino-eggplant-pinakbet",
+  "title": "Pinakbet Eggplant Stir Fry",
+  "description": "A Filipino-inspired eggplant stir-fry recipe, incorporating lush green vegetables and the classic pinakbet flavors of bok choy, tomatoes, and eggplant.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium-sized eggplant, cut into 1-inch cubes"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large tomatoes, chopped"
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "1 bunch bok choy, chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium onion, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves garlic, minced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons vegetable oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add onions and garlic and sauté until softened, about 3-4 minutes.",
+    "Add eggplant and cook for 5-7 minutes, or until it starts to soften.",
+    "Add chopped tomatoes, bok choy, salt, and black pepper. Stir-fry for 2-3 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "eggplant",
+    "stir-fry",
+    "quick-cooking"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-filipino-eggplant-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:44:32.408Z"
+}
