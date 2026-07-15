@@ -1,0 +1,86 @@
+{
+  "slug": "lively-australian-pretzels-salad",
+  "title": "Australian Pretzel Salad",
+  "description": "A twist on a classic salad, combining the crunch of pretzels with fresh Australian ingredients.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "pretzel rods",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Australian-style cheddar cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh rosemary",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lively lemons",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C). Line a baking sheet with parchment paper.",
+    "Place the pretzel rods on the prepared baking sheet and bake for 5-7 minutes, or until lightly toasted.",
+    "In a large bowl, combine the mixed greens, cheddar cheese, and toasted pretzel rods.",
+    "In a small bowl, whisk together the red wine vinegar, olive oil, salt, and rosemary.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Squeeze the juice of the lively lemons over the salad and toss again.",
+    "Sprinkle the minced garlic over the salad and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-australian-pretzels-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:54:00.004Z"
+}
