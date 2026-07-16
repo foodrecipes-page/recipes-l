@@ -4944,17 +4944,14 @@
   },
   {
     "slug": "light-japanese-tofu-onigiri-form",
-    "title": "Light Japanese Tofu Onigiri",
+    "title": "Japanese Tofu Onigiri",
     "tags": [
-      "easy-lunch",
-      "high-protein",
-      "japanese",
-      "one-pan",
-      "onigiri",
       "tofu",
-      "weeknight"
+      "onigiri",
+      "japanese",
+      "snack"
     ],
-    "cuisine": "Japanese",
+    "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "l"
   },
@@ -6300,17 +6297,16 @@
   },
   {
     "slug": "light-scottish-brussels-sprouts-gratin",
-    "title": "Light Scottish Brussels Sprouts Gratin",
+    "title": "Brussels Sprouts and Scottish Scrambled Egg Gratin",
     "tags": [
-      "brunch-ideas",
-      "easy-meal",
-      "fondue-pot",
-      "gratin-recipe",
-      "scottish-recipe",
-      "vegetarian-dish"
+      "brunch",
+      "eggs",
+      "gratin",
+      "brussels-sprouts",
+      "scottish"
     ],
     "cuisine": "Scottish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
