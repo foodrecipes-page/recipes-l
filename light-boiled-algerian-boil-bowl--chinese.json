@@ -1,0 +1,81 @@
+{
+  "slug": "light-boiled-algerian-boil-bowl--chinese",
+  "title": "Stir-fried Boiled Chicken with Chinese Broccoli",
+  "description": "A quick and easy Chinese-inspired dish made with boiled chicken, Chinese broccoli, and a savory sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boiled chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Algerian chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Bowl of water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    }
+  ],
+  "instructions": [
+    "1. Cut the boiled chicken into bite-sized pieces and set aside.",
+    "2. Cut the Chinese broccoli into florets and set aside.",
+    "3. Heat the cooking oil in a wok or large skillet over medium-high heat.",
+    "4. Add the garlic and ginger and stir-fry for 1 minute.",
+    "5. Add the Chinese broccoli and stir-fry for 2-3 minutes.",
+    "6. Add the boiled chicken and stir-fry for another 2-3 minutes.",
+    "7. In a small bowl, whisk together the soy sauce and chili flakes.",
+    "8. Pour the soy sauce mixture over the chicken and broccoli and stir-fry for 1 minute.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "stir-fry",
+    "easy-recipe",
+    "chicken-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-boiled-algerian-boil-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:07:58.967Z"
+}
