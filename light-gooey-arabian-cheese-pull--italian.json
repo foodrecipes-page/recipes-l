@@ -1,0 +1,93 @@
+{
+  "slug": "light-gooey-arabian-cheese-pull--italian",
+  "title": "Italian-Style Pull-Pasta Bake",
+  "description": "A classic Italian-inspired pasta bake with gooey cheese and tender pull-apart meat sauce. A hearty, comforting dish perfect for a cozy night in.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pull",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "light",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "arabian",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pull in a large skillet over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the light, arabian, garlic, salt, and pepper to the skillet, cooking for 1-2 minutes until fragrant.",
+    "Stir in the tomato sauce and bring to a simmer. Reduce heat to low and let sauce simmer while you prepare the cheese mixture.",
+    "In a large bowl, combine the cheese, basil, and a pinch of salt and pepper. Mix well to combine.",
+    "Add the cooked pull mixture to the bowl with the cheese mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional cheese if desired.",
+    "Drizzle the olive oil over the top of the cheese and sprinkle with basil.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "bake",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-gooey-arabian-cheese-pull--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:24:09.056Z"
+}
