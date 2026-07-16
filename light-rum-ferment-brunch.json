@@ -1,0 +1,60 @@
+{
+  "slug": "light-rum-ferment-brunch",
+  "title": "Light Rum Brunch Mimosa",
+  "description": "A refreshing twist on the classic mimosa, perfect for lazy Sunday mornings.",
+  "cuisine": null,
+  "diet": [
+    "alcohol"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Champagne",
+      "amount": "1 bottle (750ml)"
+    },
+    {
+      "name": "Light Rum",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Orange Juice",
+      "amount": "4 oz",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Fresh Orange Wheel",
+      "amount": "1",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Fill a cocktail shaker with ice.",
+    "Add the light rum to the shaker.",
+    "Pour the orange juice into the shaker.",
+    "Shake well for 10-15 seconds.",
+    "Strain the mixture into a champagne flute.",
+    "Top with champagne.",
+    "Garnish with a fresh orange wheel.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "cocktail",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 0,
+    "carbs": 8,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-rum-ferment-brunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:32:53.228Z"
+}
