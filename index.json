@@ -4916,17 +4916,15 @@
   },
   {
     "slug": "light-japanese-oats-mochi",
-    "title": "Light Japanese Oats Mochi",
+    "title": "Mochi and Oats Japanese Breakfast Bowl",
     "tags": [
-      "date-night",
-      "dessert",
-      "easy-to-make",
-      "high-protein",
-      "unique",
-      "vegan-friendly"
+      "japanese",
+      "breakfast",
+      "mochi",
+      "oats"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -20242,6 +20240,32 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-braised-in-cider-chinese-pork-potsticker--gluten-free",
+    "title": "Cider Braised Pork Potstickers",
+    "tags": [
+      "pork",
+      "potstickers",
+      "cider",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-vietnamese-beef-mi-quang--gluten-free",
+    "title": "Vietnamese Beef Mi",
+    "tags": [
+      "vietnamese",
+      "beef",
+      "noodles",
+      "gluten-free"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
