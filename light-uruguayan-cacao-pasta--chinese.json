@@ -1,0 +1,82 @@
+{
+  "slug": "light-uruguayan-cacao-pasta--chinese",
+  "title": "Szechuan Noodle Stir Fry",
+  "description": "A quick and flavorful Chinese dish made with uruguayan pasta, vegetables, and spices. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uruguayan pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "light",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "cacao",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "szechuan pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Cook the uruguayan pasta according to package instructions and set aside.",
+    "Heat the light in a wok or large skillet over medium-high heat.",
+    "Add the cacao and cook for 1 minute, until fragrant.",
+    "Add the bell peppers and onions and cook until tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the soy sauce and szechuan pepper and stir to combine.",
+    "Add the cooked pasta and toss to coat with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-uruguayan-cacao-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:48:27.290Z"
+}
