@@ -1,0 +1,87 @@
+{
+  "slug": "lightly-fried-middle-eastern-rice-upside-down-maqluba",
+  "title": "Maqluba (Upside Down Middle Eastern Rice Casserole)",
+  "description": "A traditional Middle Eastern dish where the rice and meat are cooked together in a unique upside-down style.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "long-grain rice"
+    },
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": "or ground beef"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the chopped onions and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground lamb and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the tomato paste, salt, black pepper, and paprika, and stir to combine.",
+    "Add the basmati rice to the saucepan and stir to combine with the meat mixture.",
+    "Cook for 2-3 minutes, stirring constantly, until the rice is lightly toasted.",
+    "Transfer the rice mixture to a 9x13 inch baking dish.",
+    "Cover the dish with a lid or foil and bake in a preheated oven at 350°F (175°C) for 25 minutes.",
+    "Remove the lid or foil and continue baking for an additional 10-15 minutes, or until the rice is cooked and the top is lightly browned.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "rice",
+    "middle-eastern",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-fried-middle-eastern-rice-upside-down-maqluba",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:25:11.954Z"
+}
