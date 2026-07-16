@@ -1,0 +1,70 @@
+{
+  "slug": "luxurious-earthy-spanish-shrimp-gambas-al-ajillo--french",
+  "title": "French Garlic Shrimp",
+  "description": "A classic French dish featuring succulent shrimp cooked in a rich and flavorful garlic butter sauce.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gambas",
+      "amount": "12 large shrimp, peeled and deveined",
+      "notes": ""
+    },
+    {
+      "name": "al ajillo",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "luxurious olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "spanish smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the shrimp with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Sprinkle the smoked paprika over the shrimp and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "shrimp",
+    "french",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-earthy-spanish-shrimp-gambas-al-ajillo--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:02:35.010Z"
+}
