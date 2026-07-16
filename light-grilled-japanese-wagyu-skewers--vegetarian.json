@@ -1,0 +1,75 @@
+{
+  "slug": "light-grilled-japanese-wagyu-skewers--vegetarian",
+  "title": "Grilled Wagyu Skewers with Teriyaki Sauce",
+  "description": "A Japanese-inspired, vegetarian twist on traditional wagyu skewers, featuring a sweet and savory teriyaki sauce. This recipe showcases the rich flavor of wagyu beef without the need for meat.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine soy sauce, honey, rice vinegar, ginger, and garlic. Blend until smooth.",
+    "Thread wagyu beef slices onto skewers, leaving a small space between each piece.",
+    "Preheat grill to medium-high heat. Brush the skewers with the teriyaki sauce, coating all surfaces.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the skewers to a cutting board and let rest for 5 minutes.",
+    "Serve the skewers with additional teriyaki sauce for dipping, garnished with green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "skewers",
+    "vegetarian",
+    "wagyu",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-grilled-japanese-wagyu-skewers--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:42:58.836Z"
+}
