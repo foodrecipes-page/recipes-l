@@ -1,0 +1,81 @@
+{
+  "slug": "lovely-earthy-greek-burrata-stifado",
+  "title": "Stifado Beef Stew",
+  "description": "A classic Greek stew made with beef, onions, and a sweet, spicy sauce. Serve with crusty bread or over mashed potatoes.",
+  "cuisine": "Greek",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (1 pound)",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lovely Lettuce",
+      "amount": "1 head",
+      "notes": "Chopped (for garnish)"
+    },
+    {
+      "name": "Burrata Cheese",
+      "amount": "1 ball",
+      "notes": "Crumbled (optional)"
+    },
+    {
+      "name": "Earthy Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Spices (e.g., cinnamon, allspice)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, then remove from pot and set aside.",
+    "Add more oil if needed, then sauté the chopped onion until softened.",
+    "Add the browned beef back into the pot, along with the chopped onion, salt, pepper, and spices.",
+    "Pour in enough beef broth to cover the beef, then bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1.5 hours, or until the beef is tender.",
+    "Serve hot, garnished with chopped lettuce and crumbled burrata cheese (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-earthy-greek-burrata-stifado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:18:03.995Z"
+}
