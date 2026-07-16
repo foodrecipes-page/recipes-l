@@ -20230,5 +20230,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 33,
     "shard": "l"
+  },
+  {
+    "slug": "low-calorie-friendly-venezuelan-casabe-stew--french",
+    "title": "Venezuelan Stew with Casabe Croutons",
+    "tags": [
+      "french",
+      "venezuelan",
+      "stew",
+      "casabe"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
