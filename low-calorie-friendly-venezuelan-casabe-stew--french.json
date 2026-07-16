@@ -1,0 +1,85 @@
+{
+  "slug": "low-calorie-friendly-venezuelan-casabe-stew--french",
+  "title": "Venezuelan Stew with Casabe Croutons",
+  "description": "A hearty and flavorful stew made with the classic Venezuelan ingredient casabe, served with crispy croutons.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Casabe",
+      "amount": "1 (12 oz) package, cut into 1/2-inch cubes"
+    },
+    {
+      "name": "Low-calorie chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lean beef or beef substitute",
+      "amount": "1 lb, cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Toss casabe cubes with 1 tbsp olive oil and season with salt and pepper. Spread on a baking sheet and toast in the oven for 5-7 minutes, or until crispy.",
+    "3. In a large pot or Dutch oven, heat the remaining 1 tbsp olive oil over medium-high heat.",
+    "4. Add the beef or beef substitute and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "5. Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "6. Add the minced garlic and cook for 1 minute.",
+    "7. Stir in the tomato paste and cook for 1 minute.",
+    "8. Add the chicken broth, thyme, and browned beef or beef substitute back to the pot.",
+    "9. Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the beef is tender.",
+    "10. Serve the stew hot, topped with crispy casabe croutons."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "venezuelan",
+    "stew",
+    "casabe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-calorie-friendly-venezuelan-casabe-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:19:08.208Z"
+}
