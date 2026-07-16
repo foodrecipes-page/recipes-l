@@ -20085,5 +20085,30 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "light-gooey-arabian-cheese-pull--german",
+    "title": "Savory Cheese Pull-Apart Bread",
+    "tags": [
+      "german",
+      "cheese",
+      "pull-apart-bread",
+      "arabian-spice"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-irish-tomato-wrap--chinese",
+    "title": "Chinese-Style Beef and Tomato Wrap",
+    "tags": [
+      "chinese",
+      "wrap",
+      "beef"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
