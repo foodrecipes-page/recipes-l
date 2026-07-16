@@ -1,0 +1,86 @@
+{
+  "slug": "light-irish-tomato-wrap--chinese",
+  "title": "Chinese-Style Beef and Tomato Wrap",
+  "description": "A twist on traditional Chinese flavors, served in a crispy wrap with tender beef and fresh tomato.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "250g",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Irish butter",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Wrap (flour or corn tortilla)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together light soy sauce, irish butter, ginger, and garlic.",
+    "Add the beef strips to the marinade and mix well.",
+    "Heat olive oil in a large skillet over medium-high heat. Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the diced tomato to the skillet and cook for an additional 2 minutes.",
+    "Warm the wrap according to package instructions.",
+    "Assemble the wrap by spreading the cooked beef and tomato mixture onto the center of the wrap.",
+    "Top with green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "wrap",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-irish-tomato-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:56:31.766Z"
+}
