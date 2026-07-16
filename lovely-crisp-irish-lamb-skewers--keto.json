@@ -1,0 +1,71 @@
+{
+  "slug": "lovely-crisp-irish-lamb-skewers--keto",
+  "title": "Irish Lamb Skewers",
+  "description": "A keto-friendly twist on traditional lamb skewers, featuring the flavors of Ireland.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Trim any excess fat"
+    },
+    {
+      "name": "lovely olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "crisp rosemary, chopped",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "irish sea salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes, rosemary, and lemon wedges onto skewers.",
+    "Brush skewers with olive oil, then season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve with additional lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "grill",
+    "lamb",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 56,
+    "carbs": 0,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crisp-irish-lamb-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:25:40.938Z"
+}
