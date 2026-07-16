@@ -12800,16 +12800,14 @@
   },
   {
     "slug": "lovely-earthy-greek-burrata-stifado",
-    "title": "Lovely Earthy Greek Burrata Stifado",
+    "title": "Stifado Beef Stew",
     "tags": [
-      "comfort-food",
-      "greek-cuisine",
-      "one-pot",
-      "rajasic-friendly",
-      "vegetarian"
+      "greek",
+      "stew",
+      "beef"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 105,
     "shard": "l"
   },
   {
@@ -20191,6 +20189,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-boiled-algerian-boil-bowl--chinese",
+    "title": "Stir-fried Boiled Chicken with Chinese Broccoli",
+    "tags": [
+      "chinese-cuisine",
+      "stir-fry",
+      "easy-recipe",
+      "chicken-recipe"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-crisp-irish-lamb-skewers--keto",
+    "title": "Irish Lamb Skewers",
+    "tags": [
+      "keto",
+      "grill",
+      "lamb",
+      "irish"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 33,
     "shard": "l"
   }
 ]
