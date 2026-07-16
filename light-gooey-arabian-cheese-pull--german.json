@@ -1,0 +1,77 @@
+{
+  "slug": "light-gooey-arabian-cheese-pull--german",
+  "title": "Savory Cheese Pull-Apart Bread",
+  "description": "A German-inspired cheese bread filled with gooey cheese and a hint of arabian spice, perfect for a snack or dinner.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Light Beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Arabian Spice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Pull-Apart Bread Dough",
+      "amount": "1 package (12 oz)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large mixing bowl, combine the beer, gooey cheese, flour, arabian spice, salt, and sugar. Mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Punch down the dough and roll it out into a large rectangle.",
+    "Cut the dough into 12 equal pieces and roll each piece into a ball.",
+    "Place the balls onto a baking sheet lined with parchment paper, leaving about 1 inch of space between each ball.",
+    "Bake the bread for 15-20 minutes, or until it is golden brown.",
+    "Remove the bread from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "cheese",
+    "pull-apart-bread",
+    "arabian-spice"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-gooey-arabian-cheese-pull--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:54:25.561Z"
+}
