@@ -1,0 +1,79 @@
+{
+  "slug": "lightly-fried-venezuelan-semolina-empanadas--italian",
+  "title": "Italian-Style Semolina Empanadas",
+  "description": "A unique twist on traditional Italian desserts, these semolina empanadas are fried to perfection and perfect for sweet treats.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "melted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine semolina, flour, Parmesan, egg, sugar, and vanilla extract.",
+    "Gradually add the melted butter and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Cover the dough and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Place a tablespoon of confectioners' sugar in the center of each disk.",
+    "Fold the dough over the filling to form a triangle and press the edges together to seal.",
+    "Heat about 1-2 inches of oil in a deep frying pan over medium heat until it reaches 375°F.",
+    "Fry the empanadas in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the empanadas on paper towels and dust with confectioners' sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "semolina",
+    "empanadas",
+    "fried",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-fried-venezuelan-semolina-empanadas--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:16:43.925Z"
+}
