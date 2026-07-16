@@ -20152,5 +20152,45 @@
     "cuisine": "italian",
     "totalTimeMin": 32,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-roasted-vietnamese-potatoes-banh-bot--french",
+    "title": "Vietnamese-Style Roasted Potatoes",
+    "tags": [
+      "french",
+      "vietnamese",
+      "roasted-potatoes",
+      "side-dish",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-crumbly-brazilian-cheese-frittata--gluten-free",
+    "title": "Brazilian Cheese Frittata",
+    "tags": [
+      "gluten-free",
+      "breakfast",
+      "Brazilian",
+      "cheese",
+      "eggs"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-smoky-filipino-kale-kare-kare--japanese",
+    "title": "Smoky Kare Filipino-inspired Ramen",
+    "tags": [
+      "ramen",
+      "filipino-japanese-fusion",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
