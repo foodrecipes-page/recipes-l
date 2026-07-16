@@ -1,0 +1,85 @@
+{
+  "slug": "lightly-polish-sauerkraut-stew",
+  "title": "Polish-Style Sauerkraut Stew",
+  "description": "A hearty and flavorful stew made with sauerkraut, beef, and a blend of spices.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lightly browned polish sausage",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups, beef broth",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Brown the beef cubes on all sides, about 5 minutes.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the caraway seeds, allspice, salt, and black pepper.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the sauerkraut, beef broth, and browned beef.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Serve with crusty bread or over mashed potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "stew",
+    "sausage",
+    "beef",
+    "sauerkraut"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-polish-sauerkraut-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:26:53.279Z"
+}
