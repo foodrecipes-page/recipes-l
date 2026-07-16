@@ -1,0 +1,90 @@
+{
+  "slug": "lively-silky-algerian-kabanos-tagine",
+  "title": "Kabanos and Algerian Tagine Stew",
+  "description": "A hearty North African stew made with kabanos sausage and algerian spices, served with a side of flavorful vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabanos sausage",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lively greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Silky olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the kabanos sausage and cook until browned, about 5 minutes.",
+    "Add the onions and garlic and cook until the onions are translucent, about 5 minutes.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the Algerian spice blend and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Add the lively greens and silky olives and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "kabanos",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-silky-algerian-kabanos-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:20:12.964Z"
+}
