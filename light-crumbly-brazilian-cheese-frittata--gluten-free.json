@@ -1,0 +1,82 @@
+{
+  "slug": "light-crumbly-brazilian-cheese-frittata--gluten-free",
+  "title": "Brazilian Cheese Frittata",
+  "description": "A gluten-free, cheesy frittata perfect for breakfast or brunch, inspired by Brazilian flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Light Brazilian cheese",
+      "amount": "6 oz",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Crumbly cheese",
+      "amount": "2 oz",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "Eggs",
+      "amount": "8 large",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add diced red onion and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped cilantro and cook for 1 minute.",
+    "In a large bowl, whisk together eggs and a pinch of salt.",
+    "Add shredded light Brazilian cheese and crumbled crumbly cheese to the eggs. Mix well.",
+    "Pour the egg mixture over the skillet with the onion mixture.",
+    "Transfer the skillet to the oven and bake for 20-25 minutes or until the frittata is set.",
+    "Remove from the oven and let it cool for 5 minutes.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "breakfast",
+    "Brazilian",
+    "cheese",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-crumbly-brazilian-cheese-frittata--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:46:28.939Z"
+}
