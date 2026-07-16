@@ -20216,5 +20216,19 @@
     "cuisine": "Irish",
     "totalTimeMin": 33,
     "shard": "l"
+  },
+  {
+    "slug": "light-grilled-japanese-wagyu-skewers--vegetarian",
+    "title": "Grilled Wagyu Skewers with Teriyaki Sauce",
+    "tags": [
+      "japanese",
+      "skewers",
+      "vegetarian",
+      "wagyu",
+      "grilled"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 33,
+    "shard": "l"
   }
 ]
