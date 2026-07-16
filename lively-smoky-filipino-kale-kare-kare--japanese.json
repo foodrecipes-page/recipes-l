@@ -1,0 +1,80 @@
+{
+  "slug": "lively-smoky-filipino-kale-kare-kare--japanese",
+  "title": "Smoky Kare Filipino-inspired Ramen",
+  "description": "A twist on traditional Japanese ramen with smoky Filipino flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kare",
+      "amount": "200g",
+      "notes": "Filipino-inspired curry paste"
+    },
+    {
+      "name": "kale",
+      "amount": "200g",
+      "notes": "fresh"
+    },
+    {
+      "name": "lively rice vinegar",
+      "amount": "60ml",
+      "notes": "Japanese rice vinegar"
+    },
+    {
+      "name": "smoky soy sauce",
+      "amount": "60ml",
+      "notes": "smoked soy sauce for added depth"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "20g",
+      "notes": "dried and smoked"
+    },
+    {
+      "name": "sugar",
+      "amount": "20g",
+      "notes": "a hint of sweetness"
+    },
+    {
+      "name": "noodles",
+      "amount": "400g",
+      "notes": "Japanese ramen noodles"
+    },
+    {
+      "name": "water",
+      "amount": "1L",
+      "notes": "for cooking noodles"
+    }
+  ],
+  "instructions": [
+    "1. Cook the noodles according to the package instructions.",
+    "2. In a separate pot, combine 1L of water, kare, sugar, and smoky soy sauce. Bring to a boil and simmer for 10 minutes.",
+    "3. Add the bonito flakes to the simmering pot and continue for another 2 minutes.",
+    "4. Add the kale to the pot and cook until wilted.",
+    "5. Divide the cooked noodles among bowls and serve with the smoky kare broth.",
+    "6. Garnish with lively rice vinegar and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "filipino-japanese-fusion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-smoky-filipino-kale-kare-kare--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:55:43.163Z"
+}
