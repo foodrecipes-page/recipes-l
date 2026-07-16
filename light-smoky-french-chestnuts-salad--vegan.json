@@ -1,0 +1,82 @@
+{
+  "slug": "light-smoky-french-chestnuts-salad--vegan",
+  "title": "Roasted Chestnut Salad",
+  "description": "A hearty, vegan salad featuring roasted chestnuts and a variety of greens.",
+  "cuisine": "french",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "light vinaigrette",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crushed french baguette",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wrap chestnuts in foil and roast for 15-20 minutes, or until tender.",
+    "While chestnuts are roasting, prepare the vinaigrette by whisking together light vinaigrette, apple cider vinegar, maple syrup, and garlic powder in a small bowl.",
+    "In a large bowl, combine mixed greens, roasted chestnuts, and salad.",
+    "Drizzle the vinaigrette over the salad and toss to combine.",
+    "Sprinkle crushed french baguette and smoked salt over the top of the salad.",
+    "Serve immediately and enjoy!",
+    "Note: Allow the salad to sit at room temperature for 10-15 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-smoky-french-chestnuts-salad--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:05:50.336Z"
+}
