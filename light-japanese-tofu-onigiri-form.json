@@ -1,0 +1,76 @@
+{
+  "slug": "light-japanese-tofu-onigiri-form",
+  "title": "Japanese Tofu Onigiri",
+  "description": "A popular Japanese snack made with tofu and served on a bed of rice. This recipe is a twist on the traditional onigiri, featuring a crispy exterior and a soft interior.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)"
+    },
+    {
+      "name": "short-grain white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup (diced)",
+      "notes": "optional"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup (chopped)",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Cook the short-grain white rice according to the package instructions.",
+    "2. Cut the tofu into small cubes and pan-fry until crispy and golden brown.",
+    "3. In a separate pan, heat the sesame oil and soy sauce over low heat.",
+    "4. Add the diced onion and chopped green onion to the pan and cook until softened.",
+    "5. To assemble the onigiri, place a small scoop of rice onto a flat surface and shape into a triangle.",
+    "6. Place a few pieces of the pan-fried tofu in the center of the rice triangle.",
+    "7. Fold the bottom half of the rice triangle up over the tofu, then fold in the sides and press gently to form a triangle shape.",
+    "8. Repeat with the remaining ingredients.",
+    "9. Serve the onigiri hot with a side of soy sauce for dipping.",
+    "10. Garnish with additional green onion and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "onigiri",
+    "japanese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-japanese-tofu-onigiri-form",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:17:11.118Z"
+}
