@@ -1,0 +1,79 @@
+{
+  "slug": "light-scottish-brussels-sprouts-gratin",
+  "title": "Brussels Sprouts and Scottish Scrambled Egg Gratin",
+  "description": "A delicious and rich brunch dish combining the flavors of Brussels sprouts and Scottish scrambled eggs with a crispy gratin topping.",
+  "cuisine": "Scottish",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "Trimmed and halved"
+    },
+    {
+      "name": "Scottish eggs",
+      "amount": "4",
+      "notes": "Large eggs from Scotland"
+    },
+    {
+      "name": "Light cream",
+      "amount": "1/2 cup",
+      "notes": "Heavy cream or half-and-half"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded cheddar or other cheese"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat. Add the Brussels sprouts and cook until tender, about 5 minutes.",
+    "In a separate bowl, whisk together the eggs, light cream, salt, and black pepper.",
+    "In a greased 9x13-inch baking dish, arrange the cooked Brussels sprouts in an even layer.",
+    "Pour the egg mixture over the Brussels sprouts.",
+    "Sprinkle the grated gratin cheese over the top.",
+    "Dot the top with the remaining 1 tablespoon of butter.",
+    "Bake in the preheated oven for 20-25 minutes, or until the eggs are set and the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "eggs",
+    "gratin",
+    "brussels-sprouts",
+    "scottish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-scottish-brussels-sprouts-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:12:18.686Z"
+}
