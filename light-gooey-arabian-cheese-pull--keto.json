@@ -1,0 +1,79 @@
+{
+  "slug": "light-gooey-arabian-cheese-pull--keto",
+  "title": "Arabian Cheese Pull Keto Flatbread",
+  "description": "A keto flatbread recipe inspired by the flavors of the Arabian Peninsula, featuring a gooey cheese topping.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "melted light cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "arabian cheese blend",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pull cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine almond flour, coconut flour, and salt.",
+    "In a separate bowl, whisk together egg and almond milk.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Knead the dough for 5 minutes and shape into a flatbread.",
+    "Place the flatbread on a baking sheet and bake for 15 minutes.",
+    "Remove from oven and top with melted light cheese, arabian cheese blend, and pull cheese.",
+    "Return to oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "flatbread",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 48
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-gooey-arabian-cheese-pull--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:23:44.534Z"
+}
