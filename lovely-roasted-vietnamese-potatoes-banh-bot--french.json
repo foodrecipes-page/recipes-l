@@ -1,0 +1,73 @@
+{
+  "slug": "lovely-roasted-vietnamese-potatoes-banh-bot--french",
+  "title": "Vietnamese-Style Roasted Potatoes",
+  "description": "A French-inspired dish featuring roasted potatoes infused with the flavors of Vietnam, perfect as a side or light meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "any variety, peeled and cut into 1-inch wedges"
+    },
+    {
+      "name": "Banh",
+      "amount": "1 package, crumbled",
+      "notes": "Vietnamese bread, available at most Asian markets"
+    },
+    {
+      "name": "Lovely Oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral-tasting oil, such as canola or grapeseed"
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "see instructions for roasting garlic"
+    },
+    {
+      "name": "Bot",
+      "amount": "1 tablespoon, minced",
+      "notes": "Vietnamese coriander, available at most Asian markets"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the potatoes with the lovely oil, roasted garlic, bot, salt, and pepper until evenly coated.",
+    "Spread the potatoes on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20 minutes, or until tender and golden brown.",
+    "Crumble the banh and sprinkle over the potatoes.",
+    "Return to the oven and roast for an additional 5 minutes, or until the banh is lightly toasted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vietnamese",
+    "roasted-potatoes",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-roasted-vietnamese-potatoes-banh-bot--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:10:16.261Z"
+}
