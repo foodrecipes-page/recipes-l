@@ -1,0 +1,75 @@
+{
+  "slug": "light-japanese-oats-mochi",
+  "title": "Mochi and Oats Japanese Breakfast Bowl",
+  "description": "A Japanese-inspired breakfast bowl with mochi, oats, and a hint of light flavor.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Glutinous rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green tea powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mochi",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine glutinous rice flour and rolled oats.",
+    "Gradually add in water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Divide the dough into 4 equal pieces.",
+    "Shape each piece into a ball and then flatten into discs.",
+    "Heat a non-stick pan over medium heat.",
+    "Cook the mochi discs for 2-3 minutes on each side, until golden brown.",
+    "In a separate saucepan, warm the light coconut milk over low heat.",
+    "Add sugar and green tea powder to the coconut milk and stir until dissolved.",
+    "To assemble the breakfast bowl, place a cooked mochi disc at the bottom, followed by a scoop of oats.",
+    "Pour the coconut milk mixture over the oats and top with another mochi disc."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "breakfast",
+    "mochi",
+    "oats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-japanese-oats-mochi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:08:19.660Z"
+}
