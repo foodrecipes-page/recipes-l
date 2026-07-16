@@ -1,0 +1,73 @@
+{
+  "slug": "lazy-popcorn-feast--japanese",
+  "title": "Japanese-Style Lazy Popcorn Feast",
+  "description": "A unique twist on the classic snack, this Japanese-inspired lazy popcorn feast combines flavors and textures for a delightful treat.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Popcorn kernels",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lazy sauce (see notes)",
+      "amount": "2 tbsp",
+      "notes": "Lazy sauce is a mixture of soy sauce, sake, mirin, and sugar. If not available, substitute with a mixture of equal parts soy sauce and sake."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Pop the popcorn kernels in a pot or a popcorn maker.",
+    "In a small saucepan, heat the sesame oil over medium heat. Add the grated daikon and cook until it's slightly caramelized.",
+    "In a separate bowl, mix together the lazy sauce and chopped scallions.",
+    "Once the popcorn is popped, drizzle the lazy sauce mixture over the popcorn and toss to coat.",
+    "Sprinkle the sesame seeds over the popcorn and toss again to combine.",
+    "Transfer the popcorn to a serving bowl and top with the caramelized daikon.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese-snack",
+    "vegetarian",
+    "party-food",
+    "easy-popcorn-recipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-popcorn-feast--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:10:08.181Z"
+}
