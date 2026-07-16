@@ -1,0 +1,82 @@
+{
+  "slug": "luscious-polish-ovoli-mushroom-gratin--chinese",
+  "title": "Mushroom and Ovoli Gratins with Polish Sides",
+  "description": "A delicious Chinese-inspired take on a classic gratin dish, featuring sautéed mushrooms, ovoli, and a side of polish flair.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Ovoli",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Polish",
+      "amount": "2 tbsp",
+      "notes": "such as pickled mustard seeds"
+    },
+    {
+      "name": "Gratin",
+      "amount": "1/2 cup grated cheese",
+      "notes": ""
+    },
+    {
+      "name": "Luscious",
+      "amount": "2 tbsp soy sauce",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a pan, heat 2 tbsp of olive oil over medium heat.",
+    "Sauté the sliced mushrooms until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced ovoli and cook for 2 minutes.",
+    "Stir in 2 tbsp of soy sauce and 2 tbsp of pickled mustard seeds.",
+    "Transfer the mixture to a baking dish and top with grated cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is golden brown.",
+    "Serve hot with a side of polish flair."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom",
+    "ovolli",
+    "gratin",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-polish-ovoli-mushroom-gratin--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:58:44.585Z"
+}
