@@ -1,0 +1,92 @@
+{
+  "slug": "light-vietnamese-beef-mi-quang--german",
+  "title": "Vietnamese-Style Beef Pho with German Twist",
+  "description": "A fusion of German and Vietnamese flavors, this hearty beef noodle soup is a unique twist on a classic dish.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound (450g) beef brisket or navel",
+      "notes": "Slice the beef into thin strips for easier cooking"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "quang sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "german beer",
+      "amount": "1 cup",
+      "notes": "Use a light-colored beer for a clear broth"
+    },
+    {
+      "name": "mi noodles",
+      "amount": "1 pound (450g)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion",
+      "notes": "Thinly slice the onion for added flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches (5cm) piece of fresh ginger",
+      "notes": "Slice the ginger thinly for easier cooking"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the beer in a large pot over medium heat until it starts to simmer.",
+    "Add the sliced onion, ginger, and star anise to the pot and cook for 5 minutes, or until the onion is translucent.",
+    "Add the sliced beef to the pot and cook for an additional 5 minutes, or until it is browned on all sides.",
+    "Add the light soy sauce, quang sugar, and vietnamese fish sauce to the pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1-2 hours, or until the beef is tender.",
+    "Add the mi noodles to the pot and cook for an additional 5-7 minutes, or until they are cooked through.",
+    "Season the soup with salt and black pepper to taste.",
+    "Serve the soup hot, garnished with sliced green onions and a sprinkle of black pepper.",
+    "Note: Traditionally, pho is served with a variety of toppings, including herbs, bean sprouts, and sliced chili peppers. Feel free to add your favorite toppings to make the dish your own."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "noodles",
+    "german-twist",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-vietnamese-beef-mi-quang--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:07:40.977Z"
+}
