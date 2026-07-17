@@ -1,0 +1,74 @@
+{
+  "slug": "lively-australian-pretzels-salad--mexican",
+  "title": "Australian-Inspired Mexican Salad",
+  "description": "A unique twist on traditional Mexican flavors with the addition of Australian-inspired ingredients.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pretzels",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "salad greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": ""
+    },
+    {
+      "name": "salt and pepper, to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine salad greens, black beans, red onion, and cilantro.",
+    "2. In a small bowl, whisk together lime juice and olive oil.",
+    "3. Pour dressing over salad and toss to combine.",
+    "4. Sprinkle crushed pretzels over the top of the salad.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "salad",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-australian-pretzels-salad--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:03:13.048Z"
+}
