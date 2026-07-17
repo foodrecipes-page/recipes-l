@@ -1,0 +1,92 @@
+{
+  "slug": "light-briny-french-green-beans-gratin",
+  "title": "Green Bean Gratin",
+  "description": "A French-inspired side dish that's rich, creamy, and perfect for a special occasion.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "1 pound, trimmed",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "light cream",
+      "amount": "1 cup",
+      "notes": "heavy cream or half-and-half also work"
+    },
+    {
+      "name": "briny cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "such as feta or goat cheese"
+    },
+    {
+      "name": "french breadcrumbs",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free breadcrumbs also work"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 tablespoon, grated",
+      "notes": "such as Parmesan or Gruyère"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large saucepan, combine the green beans and enough cold water to cover them. Bring to a boil over medium-high heat, then reduce the heat to medium-low and simmer until tender, 5-7 minutes.",
+    "3. Drain the green beans and set them aside.",
+    "4. In a separate saucepan, melt the butter over medium heat. Add the garlic and cook, stirring occasionally, until fragrant, 1-2 minutes.",
+    "5. Stir in the light cream, briny cheese, and grated gratin. Bring to a simmer and cook, stirring occasionally, until the sauce has thickened slightly and the cheese is melted and bubbly, 2-3 minutes.",
+    "6. In a greased 9x13-inch baking dish, create a thin layer of the sauce. Arrange half of the green beans in the dish, then spoon half of the remaining sauce over them.",
+    "7. Sprinkle the french breadcrumbs over the top of the sauce, then top with the remaining green beans and the remaining sauce.",
+    "8. Cover the dish with aluminum foil and bake for 15 minutes.",
+    "9. Remove the foil and continue baking for an additional 5-10 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "10. Remove the dish from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "green bean",
+    "gratin",
+    "french",
+    "vegetarian",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-briny-french-green-beans-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:47:25.614Z"
+}
