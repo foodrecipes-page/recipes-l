@@ -3055,17 +3055,16 @@
   },
   {
     "slug": "light-briny-french-green-beans-gratin",
-    "title": "Light Briny French Green Beans Gratin",
+    "title": "Green Bean Gratin",
     "tags": [
-      "french-cuisine",
-      "green-beans",
-      "one-pan",
-      "quick-dinner",
+      "green bean",
+      "gratin",
+      "french",
       "vegetarian",
-      "weeknight"
+      "side dish"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -20441,6 +20440,19 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 170,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-australian-pretzels-salad--mexican",
+    "title": "Australian-Inspired Mexican Salad",
+    "tags": [
+      "mexican",
+      "salad",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 10,
     "shard": "l"
   }
 ]
