@@ -14,17 +14,15 @@
   },
   {
     "slug": "laced-peruvian-carrot-stew",
-    "title": "Laced Peruvian Carrot Stew",
+    "title": "Peruvian Stew with Carrots and Beef",
     "tags": [
-      "mustard-flavor",
-      "one-pot",
-      "paleo-friendly",
       "peruvian",
-      "stew",
-      "vegetarian"
+      "beef",
+      "carrots",
+      "stew"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 135,
     "shard": "l"
   },
   {
@@ -20356,6 +20354,19 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-sweet-thai-chicken-curry--japanese",
+    "title": "Japanese Sweet Curry Chicken",
+    "tags": [
+      "japanese",
+      "curry",
+      "chicken",
+      "sweet"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "l"
   }
 ]
