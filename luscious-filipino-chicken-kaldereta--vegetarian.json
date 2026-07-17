@@ -1,0 +1,84 @@
+{
+  "slug": "luscious-filipino-chicken-kaldereta--vegetarian",
+  "title": "Kaldereta Vegetable Stir Fry",
+  "description": "A vegetarian twist on the classic Filipino dish, substituting chicken with a colorful mix of vegetables. This recipe is perfect for a quick and delicious meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "luscious bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "luscious onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "luscious tomatoes",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "kaldereta sauce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a pan over medium heat.",
+    "Add the garlic and sauté for 1 minute until fragrant.",
+    "Add the onions and bell peppers, and cook for 3-4 minutes until tender.",
+    "Add the tomatoes and cook for an additional 2 minutes.",
+    "Pour in the kaldereta sauce and stir well to combine.",
+    "Season with salt and black pepper to taste.",
+    "Simmer for 5-7 minutes until the sauce has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "filipino",
+    "stir-fry",
+    "quick-meal",
+    "luscious"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-filipino-chicken-kaldereta--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:45:12.771Z"
+}
