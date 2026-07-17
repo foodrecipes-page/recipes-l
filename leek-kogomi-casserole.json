@@ -1,0 +1,84 @@
+{
+  "slug": "leek-kogomi-casserole",
+  "title": "Braised Leek and Kogomi Casserole",
+  "description": "A hearty casserole dish featuring the earthy flavors of leek and kogomi. Perfect for a cold winter's night.",
+  "cuisine": "Continental",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leek",
+      "amount": "1 large, sliced",
+      "notes": "white and light green parts only"
+    },
+    {
+      "name": "kogomi",
+      "amount": "200g, sliced",
+      "notes": "Asian-style oyster mushrooms"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 (400g) package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": "for moisture and flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat. Add sliced leek and cook until softened, about 5 minutes.",
+    "Add sliced kogomi to the skillet and cook until browned, about 3-4 minutes.",
+    "Stir in minced garlic and cook for 1 minute.",
+    "Add chicken broth to the skillet, scraping up any browned bits from the bottom.",
+    "Combine cooked leek and kogomi mixture with the casserole mixture in a large mixing bowl.",
+    "Transfer the mixture to a 9x13 inch baking dish and season with salt and black pepper.",
+    "Bake in the preheated oven for 25-30 minutes, or until the casserole is hot and bubbly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "leek",
+    "kogomi",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/leek-kogomi-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:26:56.495Z"
+}
