@@ -1,0 +1,82 @@
+{
+  "slug": "lazy-sunday-herbal-snappy-croatian-beef-stock-pasta--indian",
+  "title": "Croatian Beef Curry",
+  "description": "A flavorful and aromatic curry made with tender beef and a blend of spices, inspired by Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "stock",
+      "amount": "1L",
+      "notes": "beef or chicken stock"
+    },
+    {
+      "name": "croatian",
+      "amount": "2 tbsp",
+      "notes": "paprika or chili powder"
+    },
+    {
+      "name": "snappy",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "herbal",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "sunday",
+      "amount": "2 tbsp",
+      "notes": "ghee or vegetable oil"
+    },
+    {
+      "name": "lazy",
+      "amount": "1 onion",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the broken pasta, stock, paprika, cumin, and coriander. Stir well.",
+    "Bring to the boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "curry",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-herbal-snappy-croatian-beef-stock-pasta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:05:07.498Z"
+}
