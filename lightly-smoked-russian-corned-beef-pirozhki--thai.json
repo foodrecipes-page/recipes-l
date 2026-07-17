@@ -1,0 +1,87 @@
+{
+  "slug": "lightly-smoked-russian-corned-beef-pirozhki--thai",
+  "title": "Smoked Beef Pirozhki",
+  "description": "A unique twist on traditional Russian pirozhki, filled with smoked beef and Thai flavors.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (smoked)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Pirozhki dough (homemade or store-bought)",
+      "amount": "1 pack",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw pirozhki dough according to package instructions.",
+    "Cut smoked beef into small pieces and set aside.",
+    "In a pan, heat 1 tbsp of vegetable oil over medium heat.",
+    "Add Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add beef to the pan and cook until browned, about 3-4 minutes.",
+    "Add fish sauce, lime juice, and salt to the pan, and stir to combine.",
+    "Roll out pirozhki dough to desired thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape, and press edges together to seal.",
+    "Brush tops of pirozhki with remaining 1 tbsp of vegetable oil.",
+    "Place pirozhki on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-russian-corned-beef-pirozhki--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:49:43.983Z"
+}
