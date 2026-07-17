@@ -1,0 +1,85 @@
+{
+  "slug": "lightly-lacquered-roman-pumpkin-torta-di-zucca-alla-romana",
+  "title": "Roman Pumpkin Torta",
+  "description": "A traditional Italian dessert made with a flaky crust and a creamy pumpkin filling.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 small",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "torta",
+      "amount": "1 sheet",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "romana",
+      "amount": "1/4 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "di zucca",
+      "amount": "1/4 cup",
+      "notes": "canned pumpkin puree"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "1/4 cup",
+      "notes": "for brushing crust"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for sprinkling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out torta sheet to a thickness of about 1/8 inch.",
+    "Transfer torta to a 9-inch round baking dish.",
+    "In a medium bowl, whisk together di zucca, romana, and sugar.",
+    "Add pumpkin to bowl and mix until well combined.",
+    "Brush melted butter around edges of torta.",
+    "Pour pumpkin mixture into torta.",
+    "Dust with flour and sprinkle with sugar.",
+    "Brush egg wash around edges of crust.",
+    "Bake for 35-40 minutes, or until crust is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "pumpkin"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-lacquered-roman-pumpkin-torta-di-zucca-alla-romana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:41:42.140Z"
+}
