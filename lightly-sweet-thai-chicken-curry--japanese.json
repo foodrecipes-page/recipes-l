@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-sweet-thai-chicken-curry--japanese",
+  "title": "Japanese Sweet Curry Chicken",
+  "description": "A delicious and easy-to-make Japanese-inspired sweet curry dish featuring chicken breast. This dish is perfect for a weeknight meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of sesame oil.",
+    "Add the sweet Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the soy sauce, brown sugar, and rice vinegar to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the curry sauce.",
+    "Reduce heat to low and simmer for 5-7 minutes, until the sauce has thickened.",
+    "Serve the chicken and sauce over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "curry",
+    "chicken",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-sweet-thai-chicken-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:30:15.060Z"
+}
