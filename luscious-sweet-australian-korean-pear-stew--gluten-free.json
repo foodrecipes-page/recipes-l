@@ -1,0 +1,65 @@
+{
+  "slug": "luscious-sweet-australian-korean-pear-stew--gluten-free",
+  "title": "Stewed Pear with a Hint of Korean Spice",
+  "description": "A sweet and savory pear stew perfect for a gluten-free dessert or snack.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pear",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Australian honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Luscious cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine stew, honey, and chili flakes.",
+    "Bring the mixture to a simmer over medium heat.",
+    "Add sliced pear to the saucepan and continue to simmer for 10-12 minutes or until pears are tender.",
+    "Stir in luscious cream and cook for an additional 2-3 minutes.",
+    "Serve warm, garnished with additional chili flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pear",
+    "korean-spice",
+    "dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 35,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-sweet-australian-korean-pear-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T10:59:03.567Z"
+}
