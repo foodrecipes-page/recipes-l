@@ -1,0 +1,103 @@
+{
+  "slug": "lime-leaf-braise--french",
+  "title": "Braised Beef Bourguignon with Lime",
+  "description": "A classic French dish with tender beef, sautéed vegetables, and a rich, flavorful sauce, finished with a squeeze of fresh lime juice.",
+  "cuisine": "French",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juice only"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and pepper.",
+    "Heat butter in a large Dutch oven over medium-high heat. Sear the beef until browned, about 5 minutes. Remove the beef from the pot and set aside.",
+    "Reduce heat to medium and add more butter if needed. Add the chopped onion, carrot, and celery, and cook until the vegetables are softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the red wine, beef broth, thyme, and bay leaf. Stir to combine and bring to a boil.",
+    "Return the beef to the pot, cover, and transfer to the oven.",
+    "Braise the beef for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the sauce through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Simmer the sauce over medium heat until slightly thickened, about 10 minutes.",
+    "Stir in the fresh lime juice.",
+    "Serve the beef and sauce hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "french",
+    "lamb",
+    "dinner",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lime-leaf-braise--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:42:29.135Z"
+}
