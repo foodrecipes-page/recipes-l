@@ -1,0 +1,96 @@
+{
+  "slug": "low-fat-lovely-algerian-lamb-tagine--mexican",
+  "title": "Spicy Algerian Lamb Tagine",
+  "description": "A flavorful and aromatic Mexican-inspired lamb tagine, with a spicy kick.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Low fat lovely oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Algerian lamb spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Tagine spice",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Add onion, garlic, and red pepper to pot and cook until softened, about 5 minutes.",
+    "Add Algerian lamb spice blend and tagine spice and cook for 1 minute.",
+    "Add tomato, chicken broth, and browned lamb to pot.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until lamb is tender.",
+    "Season with salt to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "mexican",
+    "lamb",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-lovely-algerian-lamb-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:42:06.232Z"
+}
