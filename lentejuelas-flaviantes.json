@@ -1,0 +1,70 @@
+{
+  "slug": "lentejuelas-flaviantes",
+  "title": "Pan-Seared Lentejuelas with Flaviantes",
+  "description": "A simple and delicious dish featuring sautéed lentejuelas and flaviantes, perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentejuelas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "flaviantes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the lentejuelas and sauté for 2-3 minutes until they start to brown.",
+    "Add the flaviantes and continue to sauté for another 2-3 minutes until the lentejuelas are tender.",
+    "Season with salt and black pepper to taste.",
+    "Squeeze the lemon juice over the top and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lentejuelas-flaviantes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:10:38.224Z"
+}
