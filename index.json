@@ -20455,5 +20455,31 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-herbal-snappy-croatian-beef-stock-pasta--indian",
+    "title": "Croatian Beef Curry",
+    "tags": [
+      "indian",
+      "beef",
+      "curry",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-spanish-glace-cherry-paella--keto",
+    "title": "Keto Spanish Paella with Cherry Glaze",
+    "tags": [
+      "low-carb",
+      "keto",
+      "spanish",
+      "paella"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
