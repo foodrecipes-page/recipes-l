@@ -20366,5 +20366,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-filipino-chicken-kaldereta--vegetarian",
+    "title": "Kaldereta Vegetable Stir Fry",
+    "tags": [
+      "vegetarian",
+      "filipino",
+      "stir-fry",
+      "quick-meal",
+      "luscious"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
