@@ -1,0 +1,87 @@
+{
+  "slug": "light-mellow-portuguese-cream-cheese-pastel",
+  "title": "Creamy Pastel Portuguese Cheesecake",
+  "description": "A rich and creamy cheesecake with a pastel-colored crust, inspired by traditional Portuguese flavors. This dessert is perfect for special occasions or everyday treats.",
+  "cuisine": "portuguese",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "portuguese pastry dough",
+      "amount": "1 9-inch pie crust",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "12 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "white sugar"
+    },
+    {
+      "name": "plain greek yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "light powdered sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Roll out the pastry dough and place it in a 9-inch pie dish.",
+    "In a large mixing bowl, beat the cream cheese until smooth.",
+    "Add the granulated sugar and beat until combined.",
+    "Beat in the eggs one at a time, followed by the melted butter.",
+    "Stir in the Greek yogurt and mix until smooth.",
+    "Pour the cheesecake batter into the prepared pie crust.",
+    "Bake for 45-50 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool completely on a wire rack.",
+    "Dust with light powdered sugar before serving. Garnish with chopped fresh mint leaves, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 50,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "cheesecake",
+    "cream",
+    "cheese",
+    "pastel",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-mellow-portuguese-cream-cheese-pastel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:47:45.914Z"
+}
