@@ -1,0 +1,83 @@
+{
+  "slug": "lovely-juicy-french-vegetable-gratin--german",
+  "title": "German Vegetable Gratin",
+  "description": "A hearty German-inspired vegetable gratin, perfect for a cold winter night. This dish is a great way to use up a variety of vegetables and enjoy the comfort of a warm, cheesy casserole.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lovely Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Juicy Carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "French Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gratin Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and thinly slice the potatoes and carrots.",
+    "In a large saucepan, combine the vegetable broth and butter.",
+    "Bring the broth to a simmer and cook until the butter has melted.",
+    "Add the sliced potatoes and carrots to the saucepan and cook until they start to soften.",
+    "Transfer the potato and carrot mixture to a 9x13 inch baking dish.",
+    "Top the potato and carrot mixture with the grated cheese.",
+    "Season the dish with salt and black pepper to taste.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Sprinkle with chopped parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-juicy-french-vegetable-gratin--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:30:50.563Z"
+}
