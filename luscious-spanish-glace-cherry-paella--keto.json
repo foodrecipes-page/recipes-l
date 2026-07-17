@@ -1,0 +1,77 @@
+{
+  "slug": "luscious-spanish-glace-cherry-paella--keto",
+  "title": "Keto Spanish Paella with Cherry Glaze",
+  "description": "A keto twist on the classic Spanish dish, featuring a sweet and sticky cherry glaze. This recipe is perfect for a low-carb dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Luscious Chicken Thighs",
+      "amount": "4"
+    },
+    {
+      "name": "Spanish Sausage",
+      "amount": "1"
+    },
+    {
+      "name": "Glace Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cherry Jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paella Rice Substitute (cauliflower rice)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the Spanish sausage and cook until browned, about 2-3 minutes.",
+    "Add the chicken thighs and cook until browned, about 2-3 minutes.",
+    "Add the cauliflower rice and cook until lightly toasted, about 3-4 minutes.",
+    "Add the glace chicken broth and bring to a simmer.",
+    "Reduce heat to medium-low and cook, covered, for 10-12 minutes or until the liquid has been absorbed.",
+    "While the paella is cooking, mix the cherry jam with 1 tablespoon of water to thin it out.",
+    "Brush the cherry glaze over the paella during the last 2 minutes of cooking.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "keto",
+    "spanish",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-spanish-glace-cherry-paella--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:12:17.360Z"
+}
