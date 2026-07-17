@@ -1,0 +1,69 @@
+{
+  "slug": "lazy-sunday-norwegian-egg-rolls-fritters--indian",
+  "title": "Sunday Norwegian Fritters",
+  "description": "A delicious and unique twist on traditional fritters, inspired by Norwegian cuisine with an Indian twist.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "norwegian",
+      "amount": "1 cup",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "Large egg"
+    },
+    {
+      "name": "lazy",
+      "amount": "1/2 cup",
+      "notes": "Buttermilk or plain yogurt"
+    },
+    {
+      "name": "rolls",
+      "amount": "4-6",
+      "notes": "Crushed or finely chopped"
+    },
+    {
+      "name": "fritters",
+      "amount": "1 cup",
+      "notes": "Chopped leftover fritters (optional)"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, egg, and buttermilk until smooth.",
+    "2. Stir in crushed rolls and chopped fritters (if using).",
+    "3. Heat a non-stick pan or griddle over medium heat.",
+    "4. Using a tablespoon, scoop the batter onto the pan.",
+    "5. Cook for 2-3 minutes, until the bottom is golden brown.",
+    "6. Flip and cook for another 2 minutes.",
+    "7. Repeat until all the batter is used up.",
+    "8. Serve warm with your favorite chutney or aioli."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "norwegian",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-norwegian-egg-rolls-fritters--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:39:23.893Z"
+}
