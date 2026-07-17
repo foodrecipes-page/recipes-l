@@ -20444,5 +20444,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 10,
     "shard": "l"
+  },
+  {
+    "slug": "light-argentinian-nuts-tart--indian",
+    "title": "Tart Indian Nut Puffs",
+    "tags": [
+      "indian",
+      "sweet",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
