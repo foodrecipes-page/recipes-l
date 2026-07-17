@@ -2432,16 +2432,14 @@
   },
   {
     "slug": "lentejuelas-flaviantes",
-    "title": "Lentejuelas Fláviantes",
+    "title": "Pan-Seared Lentejuelas with Flaviantes",
     "tags": [
-      "lentejuelas",
-      "fláviantes",
-      "uruguayan",
-      "slow-cook",
-      "cinnamon"
+      "spanish",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 75,
+    "cuisine": "Spanish",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -11347,17 +11345,15 @@
   },
   {
     "slug": "lively-croatian-potato-casserole",
-    "title": "Lively Croatian Potato Casserole",
+    "title": "Croatian Potato Casserole",
     "tags": [
-      "crispy",
       "croatian",
-      "flavorful",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "potato",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -20379,6 +20375,58 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-vietnamese-beef-mi-quang--german",
+    "title": "Vietnamese-Style Beef Pho with German Twist",
+    "tags": [
+      "beef",
+      "noodles",
+      "german-twist",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 135,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-british-dates-pilaf--german",
+    "title": "Sunday German Pilaf with Dates",
+    "tags": [
+      "german",
+      "pilaf",
+      "dates",
+      "bratwurst"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-norwegian-egg-rolls-fritters--indian",
+    "title": "Sunday Norwegian Fritters",
+    "tags": [
+      "indian",
+      "norwegian",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-lovely-algerian-lamb-tagine--mexican",
+    "title": "Spicy Algerian Lamb Tagine",
+    "tags": [
+      "mexican",
+      "lamb",
+      "tagine",
+      "slow-cooked"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 165,
     "shard": "l"
   }
 ]
