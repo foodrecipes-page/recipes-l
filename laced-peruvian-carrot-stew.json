@@ -1,0 +1,60 @@
+{
+  "slug": "laced-peruvian-carrot-stew",
+  "title": "Peruvian Stew with Carrots and Beef",
+  "description": "A hearty Peruvian stew made with tender beef, sweet carrots, and a hint of spice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "laced potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef until browned on all sides, about 5 minutes.",
+    "Add the stew, potatoes, and carrots. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, until the beef is tender, about 2 hours.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "carrots",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/laced-peruvian-carrot-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:35:25.963Z"
+}
