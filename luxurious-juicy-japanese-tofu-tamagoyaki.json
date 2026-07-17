@@ -1,0 +1,81 @@
+{
+  "slug": "luxurious-juicy-japanese-tofu-tamagoyaki",
+  "title": "Japanese Tamagoyaki Omelette with Tofu",
+  "description": "A Japanese-inspired omelette made with tamagoyaki and firm tofu, perfect for a quick and easy breakfast or snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "1/2 block (150g)",
+      "notes": ""
+    },
+    {
+      "name": "Tamagoyaki",
+      "amount": "1 roll (100g)",
+      "notes": ""
+    },
+    {
+      "name": "Luxurious Japanese soy sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Japanese rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallions, thinly sliced",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the firm tofu into small cubes.",
+    "2. Slice the tamagoyaki roll into thin strips.",
+    "3. In a small bowl, whisk together the soy sauce and rice vinegar.",
+    "4. Heat a non-stick pan over medium heat.",
+    "5. Add the sesame oil and swirl to coat the pan.",
+    "6. Add the tofu cubes and cook until golden brown, about 3-4 minutes.",
+    "7. Add the tamagoyaki strips and cook for another minute.",
+    "8. Pour the soy sauce mixture over the tofu and tamagoyaki.",
+    "9. Sprinkle with scallions and season with salt and pepper to taste.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegan",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-juicy-japanese-tofu-tamagoyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:41:10.529Z"
+}
