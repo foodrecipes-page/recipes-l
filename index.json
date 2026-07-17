@@ -20428,5 +20428,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 165,
     "shard": "l"
+  },
+  {
+    "slug": "lime-leaf-braise--french",
+    "title": "Braised Beef Bourguignon with Lime",
+    "tags": [
+      "beef",
+      "french",
+      "lamb",
+      "dinner",
+      "braise"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 170,
+    "shard": "l"
   }
 ]
