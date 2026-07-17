@@ -1,0 +1,78 @@
+{
+  "slug": "light-argentinian-nuts-tart--indian",
+  "title": "Tart Indian Nut Puffs",
+  "description": "Crispy puffs filled with a delightful blend of nuts and spices, perfect for a snack or dessert.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Light cream",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, whisk together the flour, salt, and cardamom powder.",
+    "Add the ghee or oil and mix until the dough comes together.",
+    "Knead the dough for 5 minutes and set aside.",
+    "In a pan, heat 2 tbsp of ghee or oil over medium heat.",
+    "Add the chopped nuts and cook until golden brown, stirring frequently.",
+    "Add the powdered sugar and light cream, and mix until the nuts are well coated.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Cut out small squares, about 2 inches per side.",
+    "Place a spoonful of the nut mixture in the center of each square.",
+    "Fold the dough over the filling to form a triangle or square shape, and press the edges together.",
+    "Brush the tops with a little water and bake for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "sweet",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-argentinian-nuts-tart--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:16:10.292Z"
+}
