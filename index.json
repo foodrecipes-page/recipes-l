@@ -1989,19 +1989,15 @@
   },
   {
     "slug": "leek-kogomi-casserole",
-    "title": "Leek Kogomi Casserole",
+    "title": "Braised Leek and Kogomi Casserole",
     "tags": [
-      "kogomi",
       "leek",
+      "kogomi",
       "casserole",
-      "smoky",
-      "dense",
-      "cozy",
-      "japanese",
-      "keto-friendly"
+      "vegetarian"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "cuisine": "Continental",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -18701,16 +18697,15 @@
   },
   {
     "slug": "luxurious-juicy-japanese-tofu-tamagoyaki",
-    "title": "Luxurious Juicy Japanese Tofu Tamagoyaki",
+    "title": "Japanese Tamagoyaki Omelette with Tofu",
     "tags": [
-      "japanese-cuisine",
-      "luxurious-dish",
-      "okinawan-specialty",
-      "sous-vide",
-      "vegan-friendly"
+      "japanese",
+      "vegan",
+      "breakfast",
+      "snack"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
