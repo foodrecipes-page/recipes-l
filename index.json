@@ -20307,5 +20307,55 @@
     "cuisine": "french",
     "totalTimeMin": 70,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-sweet-australian-korean-pear-stew--gluten-free",
+    "title": "Stewed Pear with a Hint of Korean Spice",
+    "tags": [
+      "pear",
+      "korean-spice",
+      "dessert",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriously-sweet-russian-rice-pilaf--mexican",
+    "title": "Mexican Sweet Pilaf",
+    "tags": [
+      "mexican",
+      "sweet",
+      "pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-juicy-french-vegetable-gratin--german",
+    "title": "German Vegetable Gratin",
+    "tags": [
+      "german",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoked-russian-corned-beef-pirozhki--thai",
+    "title": "Smoked Beef Pirozhki",
+    "tags": [
+      "thai",
+      "beef",
+      "pastry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
