@@ -1,0 +1,85 @@
+{
+  "slug": "light-ukrainian-chocolate-cake",
+  "title": "Ukrainian Chocolate Cake",
+  "description": "A moist and rich Ukrainian-style chocolate cake, perfect for any occasion. This cake is made with love and features a delicious combination of chocolate and light ingredients.",
+  "cuisine": "ukrainian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "semisweet chocolate chips",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C). Grease two 9-inch (23cm) round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together flour, sugar, cocoa powder, baking powder, and salt.",
+    "In a large mixing bowl, use an electric mixer to beat the butter until creamy, about 2 minutes.",
+    "Add the eggs one at a time, beating well after each addition.",
+    "Gradually add the dry ingredients to the butter mixture, alternating with buttermilk, beginning and ending with dry ingredients.",
+    "Beat just until combined.",
+    "Melt the chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Allow the chocolate to cool slightly.",
+    "Add the melted chocolate to the batter and mix until well combined.",
+    "Divide the batter evenly between the prepared pans.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let the cakes cool in the pans for 10 minutes, then transfer them to a wire rack to cool completely.",
+    "Once the cakes are completely cool, you can frost and decorate them as desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "chocolate",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-ukrainian-chocolate-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:39:10.221Z"
+}
