@@ -1,0 +1,82 @@
+{
+  "slug": "lazy-sunday-british-dates-pilaf--german",
+  "title": "Sunday German Pilaf with Dates",
+  "description": "A hearty and comforting German pilaf dish infused with sweet dates, perfect for a relaxing Sunday.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "dates",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sunday",
+      "amount": "2 tablespoons",
+      "notes": "melted butter"
+    },
+    {
+      "name": "lazy",
+      "amount": "1 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "bratwurst",
+      "amount": "1 pound",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the Sunday in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the sliced bratwurst and cook until browned, about 5-7 minutes.",
+    "Add the pilaf, dates, and water to the saucepan and stir to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with lazy and serve hot.",
+    "Serve garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pilaf",
+    "dates",
+    "bratwurst"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-british-dates-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:10:59.736Z"
+}
