@@ -1,0 +1,87 @@
+{
+  "slug": "low-calorie-creamy-malaysian-cashew-nuts-one-pot",
+  "title": "Low-Calorie Malaysian Cashew Chicken",
+  "description": "A flavorful and healthy Malaysian-inspired dish made with cashews, chicken, and a creamy sauce. Serve with steamed rice or noodles for a well-rounded meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "cashews",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups",
+      "notes": "divided"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pot or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the remaining 2 tablespoons of oil to the pot and stir in the ginger and garlic.",
+    "Cook for 1 minute, until fragrant.",
+    "Add the cashews and cook for 1-2 minutes, until lightly toasted.",
+    "Pour in 1 cup of chicken broth and bring to a simmer.",
+    "Return the chicken to the pot and stir in the coconut milk, soy sauce, and brown sugar (if using).",
+    "Simmer for 5-7 minutes, until the sauce has thickened and the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cashews and a sprinkle of fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "malaysian",
+    "cashew",
+    "chicken",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-calorie-creamy-malaysian-cashew-nuts-one-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:48:59.476Z"
+}
