@@ -1,0 +1,91 @@
+{
+  "slug": "light-uruguayan-fish-ceviche",
+  "title": "Uruguayan-Style Grilled Fish with Ceviche",
+  "description": "A refreshing and flavorful dish that combines the best of Uruguayan cuisine with the zesty flavors of ceviche.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Uruguayan Sea Bass",
+      "amount": "4 fillets (6 ounces each)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Ceviche-Style Marinade",
+      "amount": "1 cup",
+      "notes": "See below for marinade ingredients."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "White Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Aji Amarillo Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Light Crustless Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro Leaves",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine lime juice, white onion, cilantro, aji amarillo pepper, black pepper, and salt. Blend until smooth.",
+    "2. Place the fish fillets in a large bowl and pour the ceviche-style marinade over them. Cover and refrigerate for at least 30 minutes.",
+    "3. Preheat grill to medium-high heat. Remove the fish from the marinade and cook for 4-6 minutes per side, or until cooked through.",
+    "4. Meanwhile, toast the light crustless bread slices until lightly browned.",
+    "5. To serve, place a cooked fish fillet on each bread slice. Garnish with fresh cilantro leaves and serve immediately.",
+    "6. Serve the remaining ceviche-style marinade on the side as a sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "grilled",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-uruguayan-fish-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:42:12.139Z"
+}
