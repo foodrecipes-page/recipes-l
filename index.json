@@ -8059,17 +8059,16 @@
   },
   {
     "slug": "lightly-crispy-korean-bok-choi-namul",
-    "title": "Lightly Crispy Korean Bok Choi Namul",
+    "title": "Pan-Seared Bok Choi with Korean-Style Namul",
     "tags": [
-      "easy-cooking",
-      "healthy-eating",
-      "korean-food",
-      "low-sodium",
-      "quick-meal",
-      "vegetarian"
+      "korean",
+      "bok-choi",
+      "namul",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -13653,17 +13652,15 @@
   },
   {
     "slug": "lovely-smoky-ethiopian-greens-gomen",
-    "title": "Lovely Smoky Ethiopian Greens Gomen",
+    "title": "Gomen Be Sega (Ethiopian Greens Stew)",
     "tags": [
-      "collard-greens",
       "ethiopian",
-      "ghee",
-      "one-pan",
-      "stovetop",
-      "weeknight"
+      "vegetarian",
+      "stew",
+      "greens"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -20676,6 +20673,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-sweet-thai-chicken-curry--german",
+    "title": "Thai Chicken Curry with a German Twist",
+    "tags": [
+      "german",
+      "thai",
+      "chicken",
+      "curry",
+      "beef"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "l"
   }
 ]
