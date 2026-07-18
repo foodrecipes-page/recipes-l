@@ -1,0 +1,83 @@
+{
+  "slug": "lively-egyptian-chickpeas-wrap--french",
+  "title": "French Chickpea Wrap",
+  "description": "A flavorful French-inspired wrap filled with chickpeas, served with a side of fresh greens.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "lively",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large flour tortilla",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add lively and egyptian to the skillet and cook for 1-2 minutes.",
+    "Add chickpeas to the skillet and cook for an additional 2-3 minutes.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading the chickpea mixture on the wrap, followed by cucumber, tomato, lettuce, and feta cheese.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "chickpea",
+    "wrap",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-egyptian-chickpeas-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:49:12.615Z"
+}
