@@ -20620,5 +20620,18 @@
     "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-earthy-greek-burrata-stifado--japanese",
+    "title": "Japanese-Style Stuffed Burrata",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "snack",
+      "buratta"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
