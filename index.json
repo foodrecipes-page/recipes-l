@@ -18170,18 +18170,14 @@
   },
   {
     "slug": "luxuriantly-aerated-jamaican-duck-hash",
-    "title": "luxuriantly aerated jamaican duck hash",
+    "title": "Jamaican Hash Brown Crusted Duck",
     "tags": [
-      "comfort-food",
-      "date-night",
-      "high-protein",
-      "mediterranean-friendly",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "jamaican",
+      "duck",
+      "hash-brown"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -20636,6 +20632,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-sweet-australian-korean-pear-stew--japanese",
+    "title": "Stewed Pear with Sweet Australian Pear",
+    "tags": [
+      "japanese-dessert",
+      "pear-recipe",
+      "stewed-pear"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
