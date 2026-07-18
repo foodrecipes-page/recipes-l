@@ -16482,17 +16482,16 @@
   },
   {
     "slug": "luscious-nutty-tunisian-chickpeas-tagine",
-    "title": "Luscious Nutty Tunisian Chickpeas Tagine",
+    "title": "Tunisian Chickpea Stew with Luscious Tagine",
     "tags": [
-      "date-night",
-      "jain-friendly",
-      "nutty",
-      "one-pot",
+      "chickpea",
+      "stew",
+      "tagine",
       "tunisian",
-      "vegetarian"
+      "north-african"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -20594,6 +20593,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lemon-herb-australian-chicken-wings-skewers--vegan",
+    "title": "Herb and Lemon Vegan Skewers",
+    "tags": [
+      "vegan",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "l"
   }
 ]
