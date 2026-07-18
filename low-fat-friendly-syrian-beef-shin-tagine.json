@@ -1,0 +1,89 @@
+{
+  "slug": "low-fat-friendly-syrian-beef-shin-tagine",
+  "title": "Syrian Beef Tagine",
+  "description": "A hearty and flavorful slow-cooked stew originating from Syria, made with tender beef shin and aromatic spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Shin",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Low-Fat Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning meat"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Low-Fat Olive Oil in a large Dutch oven over medium-high heat.",
+    "Brown the Beef Shin pieces on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the chopped Onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced Garlic and cook for 1 minute.",
+    "Add the Ground Cumin, Ground Coriander, Cinnamon Powder, Turmeric Powder, Salt, and Black Pepper. Cook for 1 minute.",
+    "Add the browned Beef Shin back to the pot and stir to coat with spice mixture.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the meat with two forks and return it to the pot. Simmer for 10 minutes to coat with sauce.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "beef",
+    "tagine"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-friendly-syrian-beef-shin-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:22:06.070Z"
+}
