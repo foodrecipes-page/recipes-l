@@ -20545,5 +20545,19 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-algerian-lamb-tagine--french",
+    "title": "French-Style Algerian Lamb Tagine",
+    "tags": [
+      "lamb",
+      "algerian",
+      "tagine",
+      "stew",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
+    "shard": "l"
   }
 ]
