@@ -15741,17 +15741,15 @@
   },
   {
     "slug": "luscious-garlic-basque-shrimp-pil-pil",
-    "title": "Luscious Garlic Basque Shrimp Pil-Pil",
+    "title": "Basque Shrimp Pilaf",
     "tags": [
-      "adventurous",
-      "diabetic-friendly",
-      "high-protein",
-      "one-pan",
-      "umami-rich",
-      "weeknight"
+      "spanish",
+      "shrimp",
+      "pilaf",
+      "basque"
     ],
-    "cuisine": "Basque",
-    "totalTimeMin": 20,
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -20626,6 +20624,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-canadian-vegetable-stew--italian",
+    "title": "Italian Vegetable Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "l"
   }
 ]
