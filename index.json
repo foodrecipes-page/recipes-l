@@ -20481,5 +20481,69 @@
     "cuisine": "Spanish",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-turkish-nectarines-toast--keto",
+    "title": "Low-Carb Nectarine Toast",
+    "tags": [
+      "ketogenic",
+      "low-carb",
+      "breakfast"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 7,
+    "shard": "l"
+  },
+  {
+    "slug": "light-herbal-roasted-mediterranean-courgettes-gratin--vegetarian",
+    "title": "Roasted Mediterranean Courgette Gratin",
+    "tags": [
+      "vegetarian",
+      "mediterranean",
+      "sidedish",
+      "gratin"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-spicy-fry--italian",
+    "title": "Spicy Italian Fry",
+    "tags": [
+      "italian",
+      "snack",
+      "fry",
+      "spicy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-juicy-french-vegetable-gratin--vegan",
+    "title": "Vegan French Vegetable Gratin",
+    "tags": [
+      "vegan",
+      "gratin",
+      "vegetarian",
+      "cashew",
+      "nutritional-yeast"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-citrus-creme--german",
+    "title": "Sunday Morning Apple Strudel",
+    "tags": [
+      "german-desserts",
+      "apple-strudel",
+      "sunday-morning"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
