@@ -1,0 +1,73 @@
+{
+  "slug": "lazy-sunday-spicy-fry--italian",
+  "title": "Spicy Italian Fry",
+  "description": "A spicy twist on traditional Italian fries, perfect for lazy Sundays.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Cut potatoes into fry shapes.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add red pepper flakes and cook for another minute.",
+    "Add potatoes and cook for 5-7 minutes, or until golden brown.",
+    "Drain potatoes on paper towels and season with salt and pepper.",
+    "Sprinkle with Parmesan cheese and chopped basil (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-spicy-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:31:12.080Z"
+}
