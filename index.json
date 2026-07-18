@@ -20688,5 +20688,18 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "lightly-simmered-syrian-vegetable-stew--keto",
+    "title": "Simmered Vegetable Stew",
+    "tags": [
+      "keto",
+      "low-carb",
+      "syrian",
+      "vegetarian"
+    ],
+    "cuisine": "syrian",
+    "totalTimeMin": 45,
+    "shard": "l"
   }
 ]
