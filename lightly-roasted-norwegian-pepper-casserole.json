@@ -1,0 +1,88 @@
+{
+  "slug": "lightly-roasted-norwegian-pepper-casserole",
+  "title": "Roasted Norwegian Pepper Casserole",
+  "description": "A hearty, flavorful casserole made with roasted Norwegian pepper and lightly roasted vegetables.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted Norwegian Pepper",
+      "amount": "2",
+      "notes": "1 large pepper, sliced"
+    },
+    {
+      "name": "Lightly Roasted Vegetables",
+      "amount": "3 cups",
+      "notes": "assorted vegetables (e.g. carrots, zucchini, bell peppers)"
+    },
+    {
+      "name": "Gluten-Free Pasta",
+      "amount": "8 oz",
+      "notes": "broken into 2-inch pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Herbs",
+      "amount": "to taste",
+      "notes": "e.g. parsley, thyme"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toss sliced pepper with 1 tbsp olive oil, salt, and black pepper on a baking sheet.",
+    "Roast in the oven for 15-20 minutes, or until tender.",
+    "While pepper is roasting, cook pasta according to package instructions.",
+    "In a large skillet, heat remaining 1 tbsp olive oil over medium-high heat.",
+    "Add minced garlic and cook for 1-2 minutes, or until fragrant.",
+    "Add roasted pepper, cooked pasta, and chopped herbs to the skillet.",
+    "Season with salt and black pepper to taste.",
+    "Transfer mixture to a 9x13 inch baking dish and top with additional herbs if desired.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown and heated through.",
+    "Serve hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "pepper",
+    "casserole",
+    "scandinavian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-roasted-norwegian-pepper-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:16:00.018Z"
+}
