@@ -1,0 +1,86 @@
+{
+  "slug": "lightly-smoked-uruguayan-beef-empanadas--gluten-free",
+  "title": "Uruguayan Smoked Beef Empanadas",
+  "description": "A traditional Uruguayan dish with a gluten-free twist. Smoked beef empanadas are a delicious and savory pastry filled with tender beef.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough (Gluten-Free)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "for brushing",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a pan, heat some olive oil and sauté the onion and garlic until softened.",
+    "Add the smoked beef to the pan and cook until heated through.",
+    "Place a spoonful of the beef mixture onto one half of each dough circle.",
+    "Brush the edges of the dough with a little water and fold the other half of the dough over the filling.",
+    "Press the edges together to seal the empanada and use a fork to crimp the edges.",
+    "Brush the tops of the empanadas with a little olive oil and cut a few slits in the top of each.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "smoked-beef",
+    "empanadas",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-uruguayan-beef-empanadas--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:10:54.224Z"
+}
