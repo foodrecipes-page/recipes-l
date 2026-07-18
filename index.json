@@ -20645,5 +20645,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "light-fluffy-vietnamese-chicken-pho-ga--french",
+    "title": "Chicken Pho Soup",
+    "tags": [
+      "french",
+      "vietnamese",
+      "soup",
+      "poultry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-egyptian-chickpeas-wrap--french",
+    "title": "French Chickpea Wrap",
+    "tags": [
+      "french",
+      "chickpea",
+      "wrap",
+      "lunch",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "l"
   }
 ]
