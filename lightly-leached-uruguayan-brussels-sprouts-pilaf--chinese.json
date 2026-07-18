@@ -1,0 +1,79 @@
+{
+  "slug": "lightly-leached-uruguayan-brussels-sprouts-pilaf--chinese",
+  "title": "Uruguayan Brussels Sprouts Pilaf",
+  "description": "A flavorful Chinese-inspired pilaf dish featuring Uruguayan sprouts, perfect as a side or main course.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan Brussels Sprouts",
+      "amount": "2 pounds",
+      "notes": "Trimmed and halved"
+    },
+    {
+      "name": "Uncooked white rice",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Lightly leached garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the halved Brussels sprouts and cook for 5 minutes, until they start to brown.",
+    "Add the uncooked rice to the skillet and stir to combine with the sprouts and garlic.",
+    "Cook for 2-3 minutes, until the rice is lightly toasted.",
+    "Add the soy sauce, salt, and black pepper to the skillet and stir to combine.",
+    "Transfer the skillet to the oven and bake at 375°F (190°C) for 20-25 minutes, until the rice is cooked and the sprouts are tender.",
+    "Remove from the oven and fluff the pilaf with a fork. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pilaf",
+    "vegetarian",
+    "side-dish",
+    "brussels-sprouts"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-leached-uruguayan-brussels-sprouts-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:28:55.051Z"
+}
