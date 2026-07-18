@@ -1,0 +1,78 @@
+{
+  "slug": "lovely-smoky-ethiopian-greens-gomen",
+  "title": "Gomen Be Sega (Ethiopian Greens Stew)",
+  "description": "A flavorful and nutritious Ethiopian greens stew made with tender greens and a rich, smoky sauce. Serve with injera bread for a traditional meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lovely greens",
+      "amount": "2 bunches",
+      "notes": "such as collard or mustard greens"
+    },
+    {
+      "name": "gomen",
+      "amount": "1 bunch",
+      "notes": "Ethiopian kale or similar"
+    },
+    {
+      "name": "smoky berbere spice",
+      "amount": "2 tsp",
+      "notes": "or substitute with a combination of chili powder and paprika"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for the stew"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add berbere spice and cook for 1 minute.",
+    "Add greens and gomen, stir to combine.",
+    "Add water, bring to a boil, then reduce heat and simmer, covered, for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with injera bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "stew",
+    "greens"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-ethiopian-greens-gomen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:32:00.648Z"
+}
