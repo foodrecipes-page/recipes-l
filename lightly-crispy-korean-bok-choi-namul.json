@@ -1,0 +1,77 @@
+{
+  "slug": "lightly-crispy-korean-bok-choi-namul",
+  "title": "Pan-Seared Bok Choi with Korean-Style Namul",
+  "description": "A simple and flavorful side dish featuring pan-seared bok choi with a spicy, fermented Korean-style namul.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Bok Choi",
+      "amount": "2 bunches",
+      "notes": "separate leaves from stems"
+    },
+    {
+      "name": "lightly crushed Korean chili flakes (gochugaru)",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "namul (Korean-style fermented bean sprouts)",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. Cut the bok choi into bite-sized pieces, separating the leaves and stems.",
+    "2. Heat 1 tablespoon of sesame oil in a large skillet over medium-high heat.",
+    "3. Add the bok choi stems to the skillet and cook, stirring occasionally, until tender and lightly browned, about 3-4 minutes.",
+    "4. Add the bok choi leaves to the skillet and cook, stirring occasionally, until wilted, about 2-3 minutes.",
+    "5. In a small bowl, mix together the namul, garlic, and a pinch of salt.",
+    "6. Add the namul mixture to the skillet with the bok choi and stir to combine.",
+    "7. Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "8. Taste and adjust the seasoning with salt and gochugaru as needed.",
+    "9. Transfer the bok choi to a serving dish and garnish with thinly sliced green onions.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "bok-choi",
+    "namul",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-crispy-korean-bok-choi-namul",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:15:32.889Z"
+}
