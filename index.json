@@ -20606,5 +20606,19 @@
     "cuisine": null,
     "totalTimeMin": 22,
     "shard": "l"
+  },
+  {
+    "slug": "lightly-spiced-tunisian-couscous-pilaf--vegan",
+    "title": "Tunisian Spiced Couscous Bowl",
+    "tags": [
+      "vegan",
+      "north-african",
+      "couscous",
+      "pilaf",
+      "gluten-free"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
