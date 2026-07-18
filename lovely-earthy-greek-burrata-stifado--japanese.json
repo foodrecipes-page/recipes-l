@@ -1,0 +1,70 @@
+{
+  "slug": "lovely-earthy-greek-burrata-stifado--japanese",
+  "title": "Japanese-Style Stuffed Burrata",
+  "description": "A creative take on traditional ingredients, blending Japanese flavors with creamy burrata. This dish is a delightful fusion of earthy notes and rich textures.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Burrata cheese",
+      "amount": "1 ball",
+      "notes": "Choose a high-quality burrata for the best results"
+    },
+    {
+      "name": "Lovely mushrooms (shiitake)",
+      "amount": "8 oz",
+      "notes": "Sliced into thin strips for easy cooking"
+    },
+    {
+      "name": "Earthy sesame oil",
+      "amount": "2 tbsp",
+      "notes": "Add a nutty flavor to the dish"
+    },
+    {
+      "name": "Greek honey",
+      "amount": "1 tsp",
+      "notes": "A touch of sweetness to balance the earthy flavors"
+    },
+    {
+      "name": "Stifado onions",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced for caramelization"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Slice the stifado onions into thin rings and separate them into individual rings.",
+    "3. In a small bowl, mix together earthy sesame oil and Greek honey.",
+    "4. Brush the mixture onto the stifado onion rings and separate them onto a baking sheet.",
+    "5. Bake for 15-20 minutes, or until caramelized and golden brown.",
+    "6. Meanwhile, slice the lovely mushrooms into thin strips and sauté them in a pan until tender.",
+    "7. Once the onions are done, set them aside and add the sautéed mushrooms to the pan.",
+    "8. Crumbling the burrata cheese into the pan, mix well with the mushroom mixture.",
+    "9. Season with a pinch of salt and pepper to taste.",
+    "10. Serve warm, garnished with additional stifado onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "snack",
+    "buratta"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-earthy-greek-burrata-stifado--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:32:05.879Z"
+}
