@@ -1,0 +1,94 @@
+{
+  "slug": "light-fluffy-vietnamese-chicken-pho-ga--french",
+  "title": "Chicken Pho Soup",
+  "description": "A French twist on the classic Vietnamese Pho soup, featuring chicken, noodles, and herbs.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fluffy white rice noodles",
+      "amount": "1 pound",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "pho spice mix",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ga (chicken broth)",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "",
+      "notes": "such as mint, basil, and cilantro"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, heat the ga over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, and pho spice mix. Cook until the onion is softened, about 5 minutes.",
+    "Add the light soy sauce and stir to combine.",
+    "Add the rice noodles and cook for 2-3 minutes, or until they are slightly softened.",
+    "Slice the cooked chicken into thin strips and add to the pot.",
+    "Serve the soup hot, garnished with fresh herbs and bean sprouts.",
+    "Serve lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vietnamese",
+    "soup",
+    "poultry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fluffy-vietnamese-chicken-pho-ga--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:33:04.235Z"
+}
