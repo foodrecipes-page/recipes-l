@@ -1,0 +1,59 @@
+{
+  "slug": "luscious-turkish-nectarines-toast--keto",
+  "title": "Low-Carb Nectarine Toast",
+  "description": "A delicious and easy keto breakfast recipe that combines toasted bread with fresh nectarine slices.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Luscious Nectarines",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Turkish Bread",
+      "amount": "1 slice",
+      "notes": "Use a low-carb bread alternative or make your own"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": null
+    },
+    {
+      "name": "Optional: Whipped Cream",
+      "amount": "a dollop",
+      "notes": "Add a dollop of whipped cream for extra creaminess"
+    }
+  ],
+  "instructions": [
+    "Cut the nectarine into slices.",
+    "Toast the Turkish bread until lightly browned.",
+    "Spread a pinch of salt on the toasted bread.",
+    "Arrange the nectarine slices on top of the bread.",
+    "Optional: Add a dollop of whipped cream on top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ketogenic",
+    "low-carb",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-turkish-nectarines-toast--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:15:12.779Z"
+}
