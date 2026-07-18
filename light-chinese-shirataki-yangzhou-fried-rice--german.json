@@ -1,0 +1,77 @@
+{
+  "slug": "light-chinese-shirataki-yangzhou-fried-rice--german",
+  "title": "German-Style Fried Rice with Shirataki",
+  "description": "A German twist on the classic Chinese dish, using shirataki noodles and yangzhou rice for a lighter take.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shirataki noodles",
+      "amount": "8 oz",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Yangzhou rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Light oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Fried rice seasoning",
+      "amount": "2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the grated carrot and cook for an additional 2-3 minutes.",
+    "Add the cooked shirataki noodles, Yangzhou rice, and fried rice seasoning. Stir-fry for 2-3 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer the fried rice mixture to a serving platter or individual plates.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "fried-rice",
+    "vegetarian-option",
+    "shirataki-noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "6g",
+    "carbs": "60g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-chinese-shirataki-yangzhou-fried-rice--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:54:36.027Z"
+}
