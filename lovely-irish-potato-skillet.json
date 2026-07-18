@@ -1,0 +1,54 @@
+{
+  "slug": "lovely-irish-potato-skillet",
+  "title": "Lovely Irish Skillet Hash",
+  "description": "A delicious and hearty hash dish made with Irish potatoes and lovely vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "lovely",
+      "amount": "1 medium",
+      "notes": "onion, diced"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the diced potatoes and cook for 10-12 minutes, or until they're tender and lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "vegetarian",
+    "hash",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-irish-potato-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:57:20.548Z"
+}
