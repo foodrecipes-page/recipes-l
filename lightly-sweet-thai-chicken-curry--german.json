@@ -1,0 +1,95 @@
+{
+  "slug": "lightly-sweet-thai-chicken-curry--german",
+  "title": "Thai Chicken Curry with a German Twist",
+  "description": "A unique blend of Thai spices and German beer to create a hearty and flavorful curry. Perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "make sure to get a good quality paste for the best flavor"
+    },
+    {
+      "name": "german beer",
+      "amount": "1 cup",
+      "notes": "any lager or pilsner will work, but a darker beer can add a richer flavor"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat coconut milk for the best flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, but adds a nice umami flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until it's translucent, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the chicken and cook until it's browned on all sides, about 5-7 minutes.",
+    "Add the curry paste and cook for 1-2 minutes, until it's fragrant.",
+    "Add the beer and bring to a simmer.",
+    "Add the coconut milk, sugar, fish sauce, salt, and pepper. Stir to combine.",
+    "Reduce the heat to low and let it simmer for 20-25 minutes, or until the chicken is cooked through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over rice or noodles.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "thai",
+    "chicken",
+    "curry",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-sweet-thai-chicken-curry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:34:15.795Z"
+}
