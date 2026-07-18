@@ -1,0 +1,73 @@
+{
+  "slug": "luxuriantly-aerated-jamaican-duck-hash",
+  "title": "Jamaican Hash Brown Crusted Duck",
+  "description": "A Jamaican inspired dish featuring a crispy hash brown crust on a duck breast. Perfect for a special occasion dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "jamaican hash",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "luxuriantly aerated potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck breast with salt and black pepper.",
+    "Heat olive oil in a pan over medium-high heat.",
+    "Sear the duck breast until browned on both sides.",
+    "Transfer the duck to a baking sheet.",
+    "Mix the jamaican hash and grated potatoes in a bowl.",
+    "Spread the hash brown mixture evenly over the duck breast.",
+    "Bake for 20-25 minutes or until the duck is cooked through and the crust is golden brown.",
+    "Let the duck rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "jamaican",
+    "duck",
+    "hash-brown"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriantly-aerated-jamaican-duck-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:00:12.678Z"
+}
