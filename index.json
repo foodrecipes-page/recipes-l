@@ -20582,5 +20582,18 @@
     "cuisine": "Chinese",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "light-chinese-shirataki-yangzhou-fried-rice--german",
+    "title": "German-Style Fried Rice with Shirataki",
+    "tags": [
+      "german-cuisine",
+      "fried-rice",
+      "vegetarian-option",
+      "shirataki-noodles"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
