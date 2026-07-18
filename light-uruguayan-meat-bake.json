@@ -1,0 +1,90 @@
+{
+  "slug": "light-uruguayan-meat-bake",
+  "title": "Uruguayan-Style Beef Empanadas",
+  "description": "Flaky beef empanadas with a Uruguayan twist, perfect for a snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio works well"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "For pastry dough"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 teaspoon",
+      "notes": "Leavening agent for pastry"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat a tablespoon of olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground beef, breaking it up with a spoon as it cooks.",
+    "Season with salt and cook until the beef is fully browned, about 5-7 minutes.",
+    "In a separate bowl, combine the flour, baking powder, and salt.",
+    "Add the beaten egg and mix until a dough forms.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture onto one half of each dough circle.",
+    "Brush the edges of the dough with the beaten egg and fold the other half over the filling.",
+    "Press the edges to seal and use a fork to crimp.",
+    "Brush the tops of the empanadas with olive oil and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "uruguayan",
+    "meat",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-uruguayan-meat-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:24:23.063Z"
+}
