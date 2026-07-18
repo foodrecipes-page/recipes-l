@@ -1,0 +1,78 @@
+{
+  "slug": "low-fat-energizing-turkish-ground-ginger-pilaf",
+  "title": "Turkish Pilaf Energy Bowl",
+  "description": "A healthy and energizing meal made with Turkish pilaf, low-fat ground meat, and fresh ginger.",
+  "cuisine": "Turkish",
+  "diet": [
+    "healthy",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Turkey",
+      "amount": "1 lb",
+      "notes": "Low-fat and high-protein"
+    },
+    {
+      "name": "Turkish Pilaf Mix",
+      "amount": "1 cup",
+      "notes": "Prepared according to package instructions"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking the meat"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the olive oil and cook the ground turkey until browned, breaking it up into small pieces as it cooks.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the prepared Turkish pilaf mix and stir to combine with the meat and ginger.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2-3 minutes, until the pilaf is lightly toasted.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "low-fat",
+    "energizing",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-energizing-turkish-ground-ginger-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:55:49.241Z"
+}
