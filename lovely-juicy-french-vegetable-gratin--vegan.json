@@ -1,0 +1,97 @@
+{
+  "slug": "lovely-juicy-french-vegetable-gratin--vegan",
+  "title": "Vegan French Vegetable Gratin",
+  "description": "A rich and satisfying vegan gratin made with tender vegetables and a creamy cashew sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lovely potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "juicy carrots",
+      "amount": "3 medium",
+      "notes": null
+    },
+    {
+      "name": "french zucchini",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "veggie broth",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "gratin cheese substitute",
+      "amount": "1 cup",
+      "notes": "such as soy cheese or nutritional yeast"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the potatoes and carrots into 1/4-inch thick rounds.",
+    "Cut the zucchini into 1-inch pieces.",
+    "In a blender or food processor, combine the cashews, nutritional yeast, and 1 cup of water to make a creamy sauce.",
+    "In a large saucepan, sauté the sliced potatoes and carrots in olive oil until they start to soften.",
+    "Add the sliced zucchini and vegetable broth to the saucepan and stir to combine.",
+    "Transfer the saucepan to the preheated oven and bake for 25 minutes.",
+    "Remove the saucepan from the oven and stir in the creamy cashew sauce and grated soy cheese substitute.",
+    "Return the saucepan to the oven and bake for an additional 10-15 minutes, or until the top is golden brown and the vegetables are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gratin",
+    "vegetarian",
+    "cashew",
+    "nutritional-yeast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-juicy-french-vegetable-gratin--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:39:33.205Z"
+}
