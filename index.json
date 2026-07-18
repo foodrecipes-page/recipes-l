@@ -12921,18 +12921,15 @@
   },
   {
     "slug": "lovely-irish-potato-skillet",
-    "title": "Lovely Irish Potato Skillet",
+    "title": "Lovely Irish Skillet Hash",
     "tags": [
-      "cast-iron",
-      "crispy",
-      "garlicky",
       "irish",
-      "one-pan",
-      "plant-based",
-      "weeknight"
+      "vegetarian",
+      "hash",
+      "breakfast"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 45,
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -14432,18 +14429,14 @@
   },
   {
     "slug": "low-fat-friendly-syrian-beef-shin-tagine",
-    "title": "Low-Fat-Friendly Syrian Beef Shin Tagine",
+    "title": "Syrian Beef Tagine",
     "tags": [
-      "beef",
-      "braise",
-      "comfort-food",
-      "low-fat",
-      "one-pan",
       "syrian",
+      "beef",
       "tagine"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 165,
     "shard": "l"
   },
   {
@@ -20671,6 +20664,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-fermented-greek-honey-loukoumades--mexican",
+    "title": "Loukoumades Tres Leches",
+    "tags": [
+      "tres leches",
+      "mexican dessert",
+      "greek loukoumades"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "l"
   }
 ]
