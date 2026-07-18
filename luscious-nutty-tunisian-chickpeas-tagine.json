@@ -1,0 +1,99 @@
+{
+  "slug": "luscious-nutty-tunisian-chickpeas-tagine",
+  "title": "Tunisian Chickpea Stew with Luscious Tagine",
+  "description": "A hearty North African stew made with chickpeas, tagine, and aromatic spices. This recipe is a classic example of Tunisian cuisine and is perfect for a chilly evening.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "luscious",
+      "amount": "2 tablespoons",
+      "notes": "honey or maple syrup"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 teaspoon",
+      "notes": "ground almonds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add cumin, coriander, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add chickpeas, tagine, and luscious. Stir to combine.",
+    "Add enough water to cover the chickpeas and bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes, or until the chickpeas are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "stew",
+    "tagine",
+    "tunisian",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-nutty-tunisian-chickpeas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:22:31.214Z"
+}
