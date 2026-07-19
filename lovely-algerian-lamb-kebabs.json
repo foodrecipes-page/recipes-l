@@ -1,0 +1,83 @@
+{
+  "slug": "lovely-algerian-lamb-kebabs",
+  "title": "Algerian Lamb Kebabs",
+  "description": "A flavorful and aromatic North African dish, Algerian lamb kebabs are a perfect blend of spices, herbs, and tender lamb. Serve with couscous or bread for a hearty meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch pieces",
+      "amount": "500g",
+      "notes": "Fat-trimmed"
+    },
+    {
+      "name": "Lovely olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10-12",
+      "notes": "Soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, Algerian spice blend, garlic, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and mix until coated with the spice mixture.",
+    "Thread the lamb pieces onto the wooden skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked through.",
+    "Brush the kebabs with additional olive oil during the last minute of grilling.",
+    "Remove the kebabs from the grill and garnish with chopped parsley.",
+    "Serve hot with couscous or bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "lamb",
+    "kebabs",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-algerian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:00:29.252Z"
+}
