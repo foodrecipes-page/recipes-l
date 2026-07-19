@@ -1,0 +1,52 @@
+{
+  "slug": "ldecadent-fermented-glassy-jelly-pasta",
+  "title": "Creamy Glassy Pasta Delight",
+  "description": "A rich and indulgent pasta dish featuring a glassy sauce. Perfect for a cozy evening in.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Jelly",
+      "amount": "1 cup",
+      "notes": " grape jelly"
+    },
+    {
+      "name": "Glassy",
+      "amount": "1/2 cup",
+      "notes": " granulated sugar"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a medium saucepan, combine the jelly and glassy. Heat over medium heat, stirring until the sugar dissolves.",
+    "Reduce heat to low and simmer for 2-3 minutes, or until the sauce thickens slightly.",
+    "Drain the cooked pasta and return it to the pot. Add the jelly-glassy sauce and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "pasta",
+    "creamy-sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ldecadent-fermented-glassy-jelly-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:45:39.784Z"
+}
