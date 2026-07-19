@@ -1,0 +1,80 @@
+{
+  "slug": "luscious-smoky-korean-pork-anju-jjigae--german",
+  "title": "Smoked Pork Jjigae German Style",
+  "description": "A fusion dish of smoky flavors in a hearty Korean-inspired jjigae (stew) with traditional German ingredients.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Pork Belly",
+      "amount": "1 pound, sliced into 1-inch pieces"
+    },
+    {
+      "name": "Anju German Beer",
+      "amount": "1 cup",
+      "notes": "used for braising the pork"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, thinly sliced",
+      "notes": "caramelized for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "adds depth to the stew"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": "adds a spicy kick"
+    },
+    {
+      "name": "Luscious Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "garnish for serving"
+    },
+    {
+      "name": "Luscious Fresh Scallions",
+      "amount": "1/4 cup, chopped",
+      "notes": "garnish for serving"
+    },
+    {
+      "name": "Korean Jjigae Paste",
+      "amount": "2 tablespoons",
+      "notes": "adds authentic Korean flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat Anju German Beer in a large Dutch oven over medium heat until simmering.",
+    "2. Add sliced onion and cook for 10 minutes or until caramelized.",
+    "3. Add minced garlic and cook for an additional 1 minute.",
+    "4. Add sliced smoked pork belly and cook until browned on all sides.",
+    "5. Stir in Korean Chili Flakes and cook for 1 minute.",
+    "6. Add Korean Jjigae Paste and stir to combine.",
+    "7. Bring mixture to a simmer and cook for 10-15 minutes or until the pork is tender.",
+    "8. Season with salt and pepper to taste.",
+    "9. Garnish with chopped cilantro and scallions before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-korean-fusion",
+    "pork",
+    "korean-inspired"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-smoky-korean-pork-anju-jjigae--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:55:56.997Z"
+}
