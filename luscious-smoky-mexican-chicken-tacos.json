@@ -1,0 +1,93 @@
+{
+  "slug": "luscious-smoky-mexican-chicken-tacos",
+  "title": "Smoky Chicken Tacos",
+  "description": "A flavorful and spicy Mexican dish featuring smoky chicken in tacos.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "smoky chipotle peppers in adobo sauce",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    },
+    {
+      "name": "luscious lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed mexican chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a blender or food processor, combine chipotle peppers, lime juice, oregano, salt, chili powder, and cumin. Blend until smooth.",
+    "Season the chicken breasts with the blended sauce and place on a baking sheet.",
+    "Bake for 20-25 minutes or until the chicken is cooked through and reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is baking, warm the taco shells according to package instructions.",
+    "Once the chicken is cooked, let it rest for a few minutes before slicing it into thin strips.",
+    "Assemble the tacos by placing a few slices of chicken onto a warmed taco shell, followed by a sprinkle of cheese and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "mexican",
+    "smoky",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-smoky-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:33:19.753Z"
+}
