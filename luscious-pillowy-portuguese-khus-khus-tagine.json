@@ -1,0 +1,86 @@
+{
+  "slug": "luscious-pillowy-portuguese-khus-khus-tagine",
+  "title": "Khus Tagine with Pillowy Rice",
+  "description": "A hearty North African stew made with khus, portuguese chicken, and pillowy rice.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "luscious khus",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "pillowy rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "portuguese chicken thighs",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped khus and cook until slightly softened, about 3 minutes.",
+    "Add the boneless chicken thighs and cook until browned on all sides, about 5-7 minutes.",
+    "Add the tagine spice mix, salt, and pepper, and stir to combine.",
+    "Add 2 cups of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Fluff the cooked pillowy rice with a fork and stir in chopped fresh parsley.",
+    "Serve the khus tagine over the pillowy rice.",
+    "Garnish with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "pillowy-rice",
+    "khus"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-pillowy-portuguese-khus-khus-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:47:26.696Z"
+}
