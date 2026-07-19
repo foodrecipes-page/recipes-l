@@ -3596,17 +3596,15 @@
   },
   {
     "slug": "light-crumbly-mediterranean-bread-flour-wrap",
-    "title": "Light and Crumbly Mediterranean Wrap",
+    "title": "Mediterranean Wrap",
     "tags": [
-      "bread",
-      "easy",
-      "egg-free",
       "mediterranean",
-      "snack",
+      "vegetarian",
+      "lunch",
       "wrap"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 27,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -20850,6 +20848,33 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 9,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoked-jamaican-potatoes-pilaf--japanese",
+    "title": "Smoked Salmon Sushi Rice Bowl",
+    "tags": [
+      "japanese",
+      "sushi",
+      "salmon",
+      "rice",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-seasoned-canadian-noodle-dish--french",
+    "title": "French Canadian Noodle Casserole",
+    "tags": [
+      "canadian",
+      "french",
+      "noodle",
+      "casserole"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "l"
   }
 ]
