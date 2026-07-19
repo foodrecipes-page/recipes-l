@@ -1,0 +1,87 @@
+{
+  "slug": "lightly-seasoned-canadian-noodle-dish--french",
+  "title": "French Canadian Noodle Casserole",
+  "description": "A rich and comforting casserole that combines the flavors of France and Canada. Perfect for a chilly evening.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian noodle",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Lightly seasoned dish",
+      "amount": "1 cup",
+      "notes": "your favorite sauce"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook Canadian noodle according to package instructions.",
+    "In a large skillet, melt butter over medium heat.",
+    "Add lightly seasoned dish and stir to combine.",
+    "Add flour and whisk to make a roux, cooking for 1-2 minutes.",
+    "Slowly pour in milk, whisking constantly to avoid lumps.",
+    "Bring to a simmer and cook until thickened.",
+    "Stir in grated cheddar until melted.",
+    "Add cooked Canadian noodle to the skillet and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Transfer to a baking dish and top with additional grated cheddar if desired.",
+    "Bake for 20-25 minutes or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "french",
+    "noodle",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-seasoned-canadian-noodle-dish--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:00:45.013Z"
+}
