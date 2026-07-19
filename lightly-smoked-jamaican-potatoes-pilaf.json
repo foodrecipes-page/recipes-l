@@ -1,0 +1,81 @@
+{
+  "slug": "lightly-smoked-jamaican-potatoes-pilaf",
+  "title": "Smoked Pilaf with Jamaican Potatoes",
+  "description": "A flavorful rice pilaf dish infused with smoked spices and served with crispy jamaican potatoes.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Pilaf Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jamaican Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Lightly Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Onion Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup (chopped)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the jamaican potatoes into 1-inch cubes. Place on a baking sheet and toss with 1 tbsp olive oil, salt, and black pepper. Roast in the oven for 20-25 minutes, or until crispy.",
+    "Cook the smoked pilaf rice according to package instructions.",
+    "In a large skillet, heat the remaining 1 tbsp olive oil over medium-high heat. Add the smoked paprika and cook for 1-2 minutes, stirring constantly.",
+    "Add the garlic powder and onion powder to the skillet and cook for an additional 1-2 minutes.",
+    "Fluff the cooked rice with a fork and add to the skillet. Stir to combine with the spice mixture.",
+    "Transfer the rice mixture to a serving dish and top with roasted jamaican potatoes. Garnish with chopped fresh cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "rice",
+    "potatoes",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-jamaican-potatoes-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:50:41.402Z"
+}
