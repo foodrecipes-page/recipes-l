@@ -1881,15 +1881,14 @@
   },
   {
     "slug": "ldecadent-fermented-glassy-jelly-pasta",
-    "title": "LDecadent Fermented Glassy-jelly Pasta",
+    "title": "Creamy Glassy Pasta Delight",
     "tags": [
-      "ayurvedic-tamasic-friendly",
-      "fermented",
-      "glassy-jelly",
-      "midnight-craving"
+      "comfort-food",
+      "pasta",
+      "creamy-sauce"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -7492,18 +7491,16 @@
   },
   {
     "slug": "lightly-blanched-dutch-avocado-flatbread",
-    "title": "Lightly Blanched Dutch Avocado Flatbread",
+    "title": "Avocado Flatbread Bruschetta",
     "tags": [
-      "avocado",
-      "dutch",
-      "flaky",
-      "flatbread",
-      "macrobiotic",
-      "savory",
-      "vegetarian"
+      "italian",
+      "vegan",
+      "vegetarian",
+      "bruschetta",
+      "appetizer"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -20789,6 +20786,31 @@
     ],
     "cuisine": "norwegian",
     "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "low-calorie-korean-noodles-sujebi--thai",
+    "title": "Spicy Low-Calorie Korean Sujebi Noodle Soup",
+    "tags": [
+      "low-calorie",
+      "korean",
+      "noodles"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-ethiopian-greens-gomen--mexican",
+    "title": "Smoky Ethiopian Greens Tacos",
+    "tags": [
+      "ethiopian",
+      "mexican",
+      "vegetarian",
+      "tacos"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
     "shard": "l"
   }
 ]
