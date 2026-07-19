@@ -1,0 +1,72 @@
+{
+  "slug": "light-delightful-filipino-frankfurter-bao",
+  "title": "Frankfurter Bao",
+  "description": "A delightful fusion of German and Filipino cuisine, featuring a crispy bao wrapped around a juicy Frankfurter.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Bao Dough",
+      "amount": "4 pieces",
+      "notes": "Available at most Asian grocery stores or made from scratch"
+    },
+    {
+      "name": "Frankfurter",
+      "amount": "4",
+      "notes": "Grill to 160°F (71°C) for food safety"
+    },
+    {
+      "name": "Cucumber Slices",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Carrot Slices",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Chili Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Pork Fat or Oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing bao dough"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush pork bao dough with pork fat or oil and grill for 2-3 minutes per side, until crispy.",
+    "Grill Frankfurter to 160°F (71°C) for food safety.",
+    "Slice cucumber and carrot into thin slices.",
+    "Assemble bao by placing a Frankfurter inside each piece of dough.",
+    "Top with cucumber, carrot, and chili sauce.",
+    "Garnish with sesame seeds, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "german",
+    "street-food",
+    "snack"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-delightful-filipino-frankfurter-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:24:04.490Z"
+}
