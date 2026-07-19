@@ -20809,5 +20809,33 @@
     "cuisine": "Mexican",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "light-crunchy-vietnamese-pork-noodles--gluten-free",
+    "title": "Vietnamese Pork Noodle Salad",
+    "tags": [
+      "vietnamese",
+      "salad",
+      "pork",
+      "noodles",
+      "gluten-free"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-garlicky-portuguese-lamb-skewers--vegan",
+    "title": "Portuguese Vegan Skewers",
+    "tags": [
+      "vegan",
+      "portuguese",
+      "skewers",
+      "grilled",
+      "summer"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 38,
+    "shard": "l"
   }
 ]
