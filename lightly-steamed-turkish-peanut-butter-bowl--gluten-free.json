@@ -1,0 +1,65 @@
+{
+  "slug": "lightly-steamed-turkish-peanut-butter-bowl--gluten-free",
+  "title": "Peanut Butter Bowl with Steamed Turkish-Style Delight",
+  "description": "A simple and gluten-free dessert bowl made with steamed turkish delight, topped with a rich peanut butter sauce.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Lightly steamed Turkish delight",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat the peanut butter over low heat.",
+    "Add the water and honey to the peanut butter and stir until smooth.",
+    "Cut the steamed Turkish delight into small pieces.",
+    "Spoon the peanut butter sauce over the Turkish delight pieces.",
+    "Serve in a bowl and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "peanut-butter",
+    "turkish-delight",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-steamed-turkish-peanut-butter-bowl--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:36:16.650Z"
+}
