@@ -1,0 +1,74 @@
+{
+  "slug": "luxuriantly-fatty-russian-black-beans-dumplings--japanese",
+  "title": "Japanese-Style Black Bean Dumplings",
+  "description": "A unique fusion of Japanese and South American flavors, these dumplings feature tender black beans and a crispy, savory exterior.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Black beans",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "Luxuriantly fatty Russian black truffle oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, mix together cooked black beans, truffle oil, soy sauce, sesame oil, and grated ginger.",
+    "2. Lay a dumpling wrapper on a clean surface and place 1 tablespoon of the black bean mixture in the center of the wrapper.",
+    "3. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "4. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "5. Press the edges together to seal the dumpling, making sure they are completely closed.",
+    "6. Repeat with the remaining wrappers and filling.",
+    "7. In a large pot or steamer, bring 2 inches of water to a boil.",
+    "8. Place the dumplings in the steamer, leaving about 1 inch of space between each dumpling.",
+    "9. Cover the pot and steam the dumplings for 8-10 minutes, or until they are cooked through.",
+    "10. Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "dumplings",
+    "black-beans",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriantly-fatty-russian-black-beans-dumplings--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:41:03.016Z"
+}
