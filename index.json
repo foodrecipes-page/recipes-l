@@ -6687,16 +6687,15 @@
   },
   {
     "slug": "light-spicy-thai-chicken-noodles",
-    "title": "Light Spicy Thai Chicken Noodles",
+    "title": "Spicy Thai Chicken Noodle Soup",
     "tags": [
       "thai",
-      "noodles",
       "chicken",
-      "spicy",
-      "low-fat"
+      "noodle-soup",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -9817,16 +9816,16 @@
   },
   {
     "slug": "lightly-smoked-jamaican-potatoes-pilaf",
-    "title": "Lightly Smoked Jamaican Potatoes Pilaf",
+    "title": "Smoked Pilaf with Jamaican Potatoes",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "one-pot",
-      "plant-based",
-      "spring-inspired"
+      "caribbean",
+      "rice",
+      "potatoes",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 25,
+    "cuisine": "caribbean",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -12676,16 +12675,14 @@
   },
   {
     "slug": "lovely-dark-kenyan-molasses-bowl",
-    "title": "lovely dark kenyan molasses bowl",
+    "title": "Kenyan Dark Molasses Bread",
     "tags": [
-      "date-night",
-      "high-protein",
-      "keto",
-      "one-pan",
-      "weeknight"
+      "bread",
+      "breakfast",
+      "african"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "African",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -20726,6 +20723,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-friendly-syrian-beef-shin-tagine--indian",
+    "title": "Syrian Beef Tagine",
+    "tags": [
+      "indian",
+      "syrian",
+      "beef",
+      "tagine",
+      "stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 140,
     "shard": "l"
   }
 ]
