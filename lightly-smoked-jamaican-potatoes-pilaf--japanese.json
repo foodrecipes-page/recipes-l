@@ -1,0 +1,86 @@
+{
+  "slug": "lightly-smoked-jamaican-potatoes-pilaf--japanese",
+  "title": "Smoked Salmon Sushi Rice Bowl",
+  "description": "A twist on traditional sushi, featuring smoked salmon and a flavorful Japanese-inspired pilaf. Enjoy as a main dish or as a side.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jamaican rice pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Smoked salmon",
+      "amount": "6 oz",
+      "notes": "sliced into thin pieces"
+    },
+    {
+      "name": "Lightly smoked salmon fillet",
+      "amount": "4 oz",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the rice pilaf according to package instructions.",
+    "In a pan, heat 1 tablespoon of sesame oil over medium heat.",
+    "Add diced potatoes and cook until they are tender and lightly browned.",
+    "Add sliced smoked salmon and cook for 2-3 minutes, until it starts to flake.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and sugar.",
+    "Pour the sauce over the salmon and potatoes, and toss to coat.",
+    "Season with salt to taste.",
+    "To assemble the dish, place a scoop of cooked rice pilaf in a bowl, followed by a spoonful of the salmon and potato mixture.",
+    "Garnish with a piece of lightly smoked salmon fillet.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "sushi",
+    "salmon",
+    "rice",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-jamaican-potatoes-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:26:07.033Z"
+}
