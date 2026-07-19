@@ -1,0 +1,64 @@
+{
+  "slug": "lively-kenyan-rice-noodles-crumble",
+  "title": "Kenyan Crumble Delight",
+  "description": "A flavorful Kenyan-inspired dish made with a crumble topping and a side of rice.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lively vegetables",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "kenyan spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the rice according to package instructions.",
+    "In a large pan, heat some oil and sauté the lively vegetables until tender.",
+    "Add the Kenyan spice blend to the pan and stir.",
+    "In a separate bowl, mix the crumble with a bit of water until crumbly.",
+    "Transfer the cooked rice to a baking dish and top with the vegetable mixture.",
+    "Sprinkle the crumble mixture evenly over the top.",
+    "Bake in the preheated oven for 20-25 minutes or until the crumble is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "crumble",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-kenyan-rice-noodles-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:07:37.210Z"
+}
