@@ -20949,5 +20949,57 @@
     "cuisine": null,
     "totalTimeMin": 10,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-melted-brazilian-chicken-gratin--chinese",
+    "title": "Braised Chicken in Brazilian Gratin",
+    "tags": [
+      "chicken",
+      "brazilian-gratin",
+      "chinese-cuisine",
+      "comfort-food"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lush-egyptian-chinese-cabbage-tagine--keto",
+    "title": "Cabbage and Egyptian Lush Tagine",
+    "tags": [
+      "keto",
+      "low-carb",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "light-umami-portuguese-cucumber-salad--indian",
+    "title": "Cucumber Raita",
+    "tags": [
+      "cucumber",
+      "raita",
+      "yogurt",
+      "side-dish",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 10,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoky-egyptian-lamb-kebabs--indian",
+    "title": "Smoky Lamb Kebabs with Egyptian Flair",
+    "tags": [
+      "indian-inspired",
+      "lamb-kebabs",
+      "smoky-spices",
+      "egyptian-cuisine"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 48,
+    "shard": "l"
   }
 ]
