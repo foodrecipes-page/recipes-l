@@ -1,0 +1,80 @@
+{
+  "slug": "lush-egyptian-chinese-cabbage-tagine--keto",
+  "title": "Cabbage and Egyptian Lush Tagine",
+  "description": "A keto-friendly twist on traditional tagine recipes, featuring cabbage and Egyptian lush.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 medium heads, chopped"
+    },
+    {
+      "name": "Egyptian lush",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "lamb",
+      "amount": "1 lb, cut into 1-inch pieces"
+    },
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven or clay tagine over medium heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the chopped cabbage, Egyptian lush, shredded Chinese cabbage, garlic, salt, and black pepper. Cook until the vegetables are tender, about 10 minutes.",
+    "Stir in the tagine spice blend and coconut aminos. Cook for an additional 2 minutes.",
+    "Cover the pot and transfer it to the oven. Cook for 20 minutes, or until the meat is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-egyptian-chinese-cabbage-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:23:50.107Z"
+}
