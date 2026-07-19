@@ -1,0 +1,61 @@
+{
+  "slug": "lively-crisp-canadian-snap-peas-salad--vegan",
+  "title": "Vegan Pea Salad",
+  "description": "A refreshing and easy-to-make salad perfect for a quick snack or light meal. Using crisp Canadian peas for added crunch.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canadian peas",
+      "amount": "1 cup, fresh",
+      "notes": "Snap or cut into smaller pieces for added crunch"
+    },
+    {
+      "name": "Lively lettuce",
+      "amount": "2 cups, chopped",
+      "notes": "Choose crisp lettuce for a fresh flavor"
+    },
+    {
+      "name": "Snap peas",
+      "amount": "1 cup, sliced",
+      "notes": "Use fresh or frozen peas for added sweetness"
+    },
+    {
+      "name": "Vegan salad dressing",
+      "amount": "2 tbsp",
+      "notes": "Make your own or use store-bought"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the peas and lettuce, and slice the snap peas.",
+    "2. In a large bowl, combine the peas, lettuce, and snap peas.",
+    "3. In a small bowl, whisk together the salad dressing ingredients.",
+    "4. Pour the dressing over the salad and toss to combine.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "snack",
+    "gluten-free",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-crisp-canadian-snap-peas-salad--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:57:05.018Z"
+}
