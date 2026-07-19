@@ -20738,5 +20738,57 @@
     "cuisine": "indian",
     "totalTimeMin": 140,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-spicy-mexican-almond-burrito--vegan",
+    "title": "Vegan Mexican Burrito",
+    "tags": [
+      "vegan",
+      "mexican",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriantly-fatty-russian-black-beans-dumplings--japanese",
+    "title": "Japanese-Style Black Bean Dumplings",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "dumplings",
+      "black-beans",
+      "fusion"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-springy-dutch-celeriac-gratin--french",
+    "title": "Celeriac Gratin",
+    "tags": [
+      "french",
+      "celeriac",
+      "gratin",
+      "side dish"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "light-norwegian-chorizo-tagine--gluten-free",
+    "title": "Norwegian-Style Chorizo Tagine",
+    "tags": [
+      "gluten-free",
+      "chorizo",
+      "tagine",
+      "norwegian"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 50,
+    "shard": "l"
   }
 ]
