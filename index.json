@@ -20837,5 +20837,19 @@
     "cuisine": "portuguese",
     "totalTimeMin": 38,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-golden-american-egg-omelette--french",
+    "title": "French Omelette",
+    "tags": [
+      "french",
+      "omelette",
+      "breakfast",
+      "eggs",
+      "cheese"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 9,
+    "shard": "l"
   }
 ]
