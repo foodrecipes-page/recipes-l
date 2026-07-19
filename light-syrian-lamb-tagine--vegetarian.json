@@ -1,0 +1,88 @@
+{
+  "slug": "light-syrian-lamb-tagine--vegetarian",
+  "title": "Syrian Vegetarian Tagine",
+  "description": "A flavorful and aromatic vegetarian stew inspired by Syrian cuisine, made with tender vegetables and a rich spice blend.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Syrian Tagine Spice Blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil over medium heat in a large tagine or Dutch oven.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced carrots, bell pepper, and zucchini. Cook for 5 minutes, stirring occasionally.",
+    "Add the crushed tomatoes, Syrian tagine spice blend, minced garlic, salt, and chopped cilantro.",
+    "Stir to combine, then bring the mixture to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes or until the vegetables are tender.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "syrian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-syrian-lamb-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:16:53.047Z"
+}
