@@ -3930,16 +3930,15 @@
   },
   {
     "slug": "light-filipino-pork-pan-canton",
-    "title": "Light Filipino Pork Pan-Canton",
+    "title": "Cantonese-Style Braised Pork Belly",
     "tags": [
+      "cantonese",
       "filipino",
-      "one-pan",
-      "oven-roasted",
       "pork",
-      "weeknight"
+      "braised"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "cuisine": "Filipino-Cantonese",
+    "totalTimeMin": 165,
     "shard": "l"
   },
   {
@@ -11519,17 +11518,15 @@
   },
   {
     "slug": "lively-kenyan-rice-noodles-crumble",
-    "title": "Lively Kenyan Rice Noodles Crumble",
+    "title": "Kenyan Crumble Delight",
     "tags": [
+      "kenyan",
+      "vegetarian",
       "crumble",
-      "festive",
-      "gluten-free",
-      "rice-noodles",
-      "sweet",
-      "vegetarian"
+      "rice"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -12224,16 +12221,15 @@
   },
   {
     "slug": "lovely-algerian-lamb-kebabs",
-    "title": "Lovely Algerian Lamb Kebabs",
+    "title": "Algerian Lamb Kebabs",
     "tags": [
-      "floral-notes",
-      "grilled-meats",
-      "lamb-recipes",
-      "north-african",
-      "special-occasion"
+      "north african",
+      "lamb",
+      "kebabs",
+      "grilling"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -20928,6 +20924,34 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-springy-dutch-celeriac-gratin--gluten-free",
+    "title": "Roasted Celeriac Gratin",
+    "tags": [
+      "celeriac",
+      "gouda",
+      "gratin",
+      "side dish",
+      "european"
+    ],
+    "cuisine": "european",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-crisp-canadian-snap-peas-salad--vegan",
+    "title": "Vegan Pea Salad",
+    "tags": [
+      "vegan",
+      "salad",
+      "snack",
+      "gluten-free",
+      "quick"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "l"
   }
 ]
