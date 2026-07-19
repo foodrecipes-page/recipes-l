@@ -1,0 +1,88 @@
+{
+  "slug": "low-fat-crunchy-herbal-stir-fry--vegetarian",
+  "title": "Herbal Stir Fry",
+  "description": "A quick and easy vegetarian stir fry made with crunchy low-fat ingredients, infused with herbal flavors.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Low-Fat Stir Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Herbal Oils",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of herbal oil in a large skillet or wok over medium-high heat.",
+    "Add the broccoli, carrots, and bell peppers. Cook for 3-4 minutes, or until the vegetables start to soften.",
+    "Add the garlic and ginger. Cook for another minute, stirring constantly.",
+    "Pour in the low-fat stir fry sauce and stir to coat the vegetables.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the sauce has thickened.",
+    "Stir in the sesame seeds and crunchy fried shallots.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional sesame seeds and crunchy fried shallots, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "low-fat",
+    "stir-fry",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-crunchy-herbal-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:24:37.032Z"
+}
