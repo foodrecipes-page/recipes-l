@@ -1,0 +1,78 @@
+{
+  "slug": "lightly-dehydrated-thai-fish-kanom-ko--indian",
+  "title": "Kanom Buang (Thai-Style Indian Crepes)",
+  "description": "A fusion of Thai and Indian flavors in a delicate crepe dish. The coconut and spices give it an aromatic and savory taste.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lightly Dehydrated Coconut Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Kanom Buang Wrappers",
+      "amount": "10-12 wrappers"
+    },
+    {
+      "name": "Ko Chicken Filling",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a blender, combine coconut milk, red curry paste, and fish sauce. Blend until smooth.",
+    "2. Heat a non-stick pan over medium heat.",
+    "3. Dip a kanom buang wrapper into the coconut milk mixture, coating both sides evenly.",
+    "4. Place the wrapper in the pan and cook for 1-2 minutes, until the edges start to curl.",
+    "5. Flip the wrapper over and cook for another minute.",
+    "6. Repeat with the remaining wrappers.",
+    "7. In a separate pan, warm the ko chicken filling over low heat.",
+    "8. Assemble the kanom buang by placing a tablespoon of the chicken filling in the center of each crepe.",
+    "9. Top with fresh cilantro and serve.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "thai",
+    "crepes",
+    "breakfast",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-dehydrated-thai-fish-kanom-ko--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:01:48.935Z"
+}
