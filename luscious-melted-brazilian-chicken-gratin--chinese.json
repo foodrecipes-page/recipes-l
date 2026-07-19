@@ -1,0 +1,80 @@
+{
+  "slug": "luscious-melted-brazilian-chicken-gratin--chinese",
+  "title": "Braised Chicken in Brazilian Gratin",
+  "description": "A Chinese-inspired dish featuring tender chicken in a creamy Brazilian gratin sauce. This recipe is perfect for a comforting meal.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "brazilian gratin",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "luscious mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the chicken with Chinese five-spice powder, brown sugar, and a pinch of salt.",
+    "Heat 1 tablespoon of melted butter in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on both sides, about 5-6 minutes.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "Add the remaining 1 tablespoon of melted butter to the skillet.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the Brazilian gratin to the skillet and stir to combine with the mushrooms.",
+    "Pour the soy sauce into the skillet and stir to combine.",
+    "Transfer the mushroom and gratin mixture to the baking dish with the chicken.",
+    "Bake in the preheated oven for 20-25 minutes, or until the chicken is cooked through and the sauce is bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "brazilian-gratin",
+    "chinese-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-melted-brazilian-chicken-gratin--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:17:34.569Z"
+}
