@@ -1,0 +1,80 @@
+{
+  "slug": "light-filipino-pork-pan-canton",
+  "title": "Cantonese-Style Braised Pork Belly",
+  "description": "A classic Cantonese dish made with tender pork belly, a sweet and savory sauce, and a hint of Filipino flavors.",
+  "cuisine": "Filipino-Cantonese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Filipino fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "pan",
+      "amount": null,
+      "notes": "for braising"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven or oven-safe pot, heat 2 tablespoons of oil over medium-high heat.",
+    "Sear the pork belly until browned on all sides, then set aside.",
+    "In the same pot, add the minced garlic and sliced ginger and cook until fragrant.",
+    "Add the light soy sauce, Filipino fish sauce, and brown sugar to the pot, and stir to combine.",
+    "Return the pork belly to the pot and make sure it's mostly submerged in the sauce.",
+    "Add enough water to the pot to cover the pork belly, then cover the pot with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the pork is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Using two forks, shred the pork belly into bite-sized pieces and serve with the braising liquid."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "filipino",
+    "pork",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-filipino-pork-pan-canton",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:05:31.338Z"
+}
