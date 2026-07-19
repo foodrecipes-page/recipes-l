@@ -1,0 +1,63 @@
+{
+  "slug": "lovely-spicy-mexican-almond-burrito--vegan",
+  "title": "Vegan Mexican Burrito",
+  "description": "A flavorful and filling vegan burrito filled with spicy roasted vegetables, wrapped in a warm flour tortilla.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lovely lettuce",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "spicy sweet potatoes",
+      "amount": "1 cup, roasted"
+    },
+    {
+      "name": "mexican black beans",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "burrito sized flour tortilla",
+      "amount": "1",
+      "notes": "warmed on a dry pan"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss 1 medium sweet potato with 1 tsp olive oil, salt, and pepper. Roast for 20-25 minutes or until tender.",
+    "In a pan, heat 1 tsp olive oil over medium heat. Add 1/2 cup diced onion and cook for 3-4 minutes.",
+    "Add 1 cup cooked black beans, 1 tsp cumin, and 1 tsp chili powder to the pan. Cook for 1-2 minutes.",
+    "Add 2 cups shredded lettuce to the pan and cook until wilted.",
+    "In a small bowl, mix 2 tbsp almond butter and 1 tbsp water until smooth.",
+    "Warm a large flour tortilla in a dry pan for 30 seconds on each side.",
+    "Fill the tortilla with the black bean and lettuce mixture, roasted sweet potatoes, and drizzle with almond butter sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "mexican",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-spicy-mexican-almond-burrito--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:39:59.838Z"
+}
