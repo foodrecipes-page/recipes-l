@@ -20701,5 +20701,32 @@
     "cuisine": "syrian",
     "totalTimeMin": 45,
     "shard": "l"
+  },
+  {
+    "slug": "light-indian-baby-new-potatoes-gulab-jamun--french",
+    "title": "French-Style Baby Potatoes",
+    "tags": [
+      "french",
+      "side-dish",
+      "potatoes",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-dehydrated-thai-fish-kanom-ko--indian",
+    "title": "Kanom Buang (Thai-Style Indian Crepes)",
+    "tags": [
+      "indian",
+      "thai",
+      "crepes",
+      "breakfast",
+      "fusion"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
