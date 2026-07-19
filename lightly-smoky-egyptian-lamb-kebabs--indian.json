@@ -1,0 +1,88 @@
+{
+  "slug": "lightly-smoky-egyptian-lamb-kebabs--indian",
+  "title": "Smoky Lamb Kebabs with Egyptian Flair",
+  "description": "A flavorful and aromatic lamb kebab dish inspired by Egyptian cuisine, marinated in a blend of spices and herbs.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, thinly sliced",
+      "amount": "500g"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "250g"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2cm"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper, ground",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "20g"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, ginger, garlic, cumin, coriander, smoked paprika, salt, and black pepper.",
+    "Add the lamb slices to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated lamb slices onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until cooked through.",
+    "Transfer the kebabs to a serving platter and garnish with chopped cilantro and a squeeze of lemon juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-inspired",
+    "lamb-kebabs",
+    "smoky-spices",
+    "egyptian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-egyptian-lamb-kebabs--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:06:48.788Z"
+}
