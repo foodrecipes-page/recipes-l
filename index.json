@@ -16480,15 +16480,14 @@
   },
   {
     "slug": "luscious-pillowy-portuguese-khus-khus-tagine",
-    "title": "Luscious Pillowy Portuguese Khus Khus Tagine",
+    "title": "Khus Tagine with Pillowy Rice",
     "tags": [
-      "graham-flour",
-      "hot-stone-plate",
-      "khus-khus",
-      "lardons-render",
-      "portuguese"
+      "north-african",
+      "stew",
+      "pillowy-rice",
+      "khus"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "North African",
     "totalTimeMin": 45,
     "shard": "l"
   },
@@ -18600,17 +18599,14 @@
   },
   {
     "slug": "luxurious-fried-vietnamese-cashew-nuts-cha-gio",
-    "title": "Luxurious Fried Vietnamese Cashew Nuts Cha Gio",
+    "title": "Vietnamese-Style Fried Cashew Nuts",
     "tags": [
-      "appetizer",
-      "fried-snacks",
-      "gluten-free",
-      "low-glycemic",
-      "party-food",
-      "vietnamese-cuisine"
+      "fried",
+      "vietnamese",
+      "snack"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -20875,6 +20871,31 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-syrian-lamb-tagine--vegetarian",
+    "title": "Syrian Vegetarian Tagine",
+    "tags": [
+      "vegetarian",
+      "syrian",
+      "tagine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "low-fat-crunchy-herbal-stir-fry--vegetarian",
+    "title": "Herbal Stir Fry",
+    "tags": [
+      "vegetarian",
+      "low-fat",
+      "stir-fry",
+      "herbal"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
