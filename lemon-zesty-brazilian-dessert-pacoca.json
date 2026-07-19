@@ -1,0 +1,69 @@
+{
+  "slug": "lemon-zesty-brazilian-dessert-pacoca",
+  "title": "Brazilian Pacoca Bars",
+  "description": "A sweet and crunchy dessert made with pacoca, a popular Brazilian snack. These bars are perfect for anyone with a sweet tooth.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pacoca",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1/2 cup juice"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": " granulated sugar"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Line an 8-inch square baking dish with parchment paper.",
+    "In a medium bowl, whisk together pacoca, sugar, and salt.",
+    "Add in the softened butter and mix until well combined.",
+    "Press the mixture into the prepared baking dish.",
+    "Bake for 20-25 minutes or until lightly golden brown.",
+    "Remove from the oven and let cool completely.",
+    "Cut into bars and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "pacoca",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-zesty-brazilian-dessert-pacoca",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:44:45.330Z"
+}
