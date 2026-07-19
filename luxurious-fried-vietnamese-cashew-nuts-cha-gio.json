@@ -1,0 +1,65 @@
+{
+  "slug": "luxurious-fried-vietnamese-cashew-nuts-cha-gio",
+  "title": "Vietnamese-Style Fried Cashew Nuts",
+  "description": "A crispy and addictive snack inspired by Vietnamese street food, made with fried cashews and a hint of spice.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a deep frying pan over medium-high heat.",
+    "Add the cashews and fry until golden brown, stirring frequently.",
+    "Remove the cashews from the oil with a slotted spoon and place them on a paper towel-lined plate.",
+    "Sprinkle the cashews with salt, black pepper, and paprika.",
+    "Serve the fried cashews immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried",
+    "vietnamese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-fried-vietnamese-cashew-nuts-cha-gio",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:09:00.256Z"
+}
