@@ -1,0 +1,94 @@
+{
+  "slug": "lightly-garlicky-portuguese-lamb-skewers--vegan",
+  "title": "Portuguese Vegan Skewers",
+  "description": "A delicious and flavorful vegan skewer dish inspired by Portuguese cuisine, featuring marinated vegetables and a hint of garlic.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lightly marinated portobello mushrooms",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky bell peppers",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red potatoes",
+      "amount": "2-3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4-5 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp chopped",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Soak the skewers in water for at least 30 minutes before use.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, chili flakes, salt, and pepper.",
+    "Add the sliced vegetables to the marinade and toss to coat.",
+    "Thread the marinated vegetables onto the skewers, leaving some space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the vegetables are tender and lightly charred.",
+    "Serve hot, garnished with fresh parsley.",
+    "Optional: serve with a side of quinoa or couscous for a more filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "portuguese",
+    "skewers",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-garlicky-portuguese-lamb-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:40:43.151Z"
+}
