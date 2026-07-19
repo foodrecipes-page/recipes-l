@@ -1,0 +1,88 @@
+{
+  "slug": "light-egyptian-beef-bowl",
+  "title": "Beef Shawarma Bowl",
+  "description": "A flavorful and healthy Egyptian-inspired beef shawarma bowl, served over a bed of light salad and steamed vegetables.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Thinly sliced beef (such as ribeye or sirloin)"
+    },
+    {
+      "name": "Light salad",
+      "amount": "400g",
+      "notes": "Mixed greens, cherry tomatoes, cucumber, carrots"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "2 tsp",
+      "notes": "A blend of cumin, coriander, paprika, and cayenne pepper"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "For grilling the beef"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "For serving the shawarma"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "50g",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, mix together the beef, Egyptian spices, lemon juice, garlic, salt, and pepper.",
+    "3. Grill the beef for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "4. Meanwhile, prepare the light salad by mixing together the greens, cherry tomatoes, cucumber, and carrots.",
+    "5. Warm the bowl by placing it in the oven at 350°F (175°C) for 5 minutes.",
+    "6. Assemble the shawarma by placing the grilled beef on top of the salad in the bowl.",
+    "7. Drizzle with olive oil and sprinkle with feta cheese (if using).",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "shawarma",
+    "egyptian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-egyptian-beef-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:51:53.668Z"
+}
