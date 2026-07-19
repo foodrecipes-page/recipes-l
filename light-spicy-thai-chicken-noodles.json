@@ -1,0 +1,86 @@
+{
+  "slug": "light-spicy-thai-chicken-noodles",
+  "title": "Spicy Thai Chicken Noodle Soup",
+  "description": "A hearty and flavorful Thai-inspired noodle soup made with chicken, noodles, and a spicy kick.",
+  "cuisine": "Thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces",
+      "notes": "preferably Thai-style rice noodles"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "2 cups",
+      "notes": "full-fat or low-fat, whichever you prefer"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "spicy Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added depth of flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional, to balance out the heat"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the curry paste to the pot and cook, stirring constantly, for 1-2 minutes.",
+    "Pour in the chicken broth, coconut milk, fish sauce, and sugar.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10-15 minutes.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Return the chicken to the pot and cook until heated through.",
+    "Season the soup with salt and pepper to taste.",
+    "Ladle the soup into bowls and garnish with chopped cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "noodle-soup",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-spicy-thai-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:08:22.867Z"
+}
