@@ -1,0 +1,71 @@
+{
+  "slug": "lovely-golden-american-egg-omelette--french",
+  "title": "French Omelette",
+  "description": "A classic French dish made with eggs, perfect for a light meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "100ml",
+      "notes": "for fluffy omelette"
+    },
+    {
+      "name": "butter",
+      "amount": "20g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "lovely golden american cheese",
+      "amount": "50g",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt.",
+    "Add the milk and whisk until smooth.",
+    "Heat a non-stick pan over medium heat and add the butter.",
+    "Once the butter has melted, pour in the egg mixture.",
+    "Let the eggs cook for about 30 seconds, until the edges start to set.",
+    "Add the shredded cheese and use a spatula to gently fold the omelette in half.",
+    "Cook for another 30 seconds to allow the cheese to melt.",
+    "Slide the omelette out of the pan onto a plate and serve hot.",
+    "Use a spatula to loosen the omelette from the pan before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "omelette",
+    "breakfast",
+    "eggs",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-golden-american-egg-omelette--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:04:12.167Z"
+}
