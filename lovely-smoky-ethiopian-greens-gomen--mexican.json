@@ -1,0 +1,85 @@
+{
+  "slug": "lovely-smoky-ethiopian-greens-gomen--mexican",
+  "title": "Smoky Ethiopian Greens Tacos",
+  "description": "A unique fusion of Ethiopian spices and Mexican flavors in a delicious taco. Gomen (Ethiopian collard greens) are slow-cooked in a smoky chipotle tomato sauce and served in tacos with lovely greens and your favorite toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gomen (Ethiopian collard greens)",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Chipotle tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Lovely greens (such as lettuce or cabbage)",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Smoky chipotle powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Tortillas (corn or flour)",
+      "amount": "8-10"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chipotle powder and cumin and cook for 1 minute.",
+    "Add the chipotle tomatoes and gomen. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the gomen mixture onto a tortilla and topping with lovely greens.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "mexican",
+    "vegetarian",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-ethiopian-greens-gomen--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:41:21.402Z"
+}
