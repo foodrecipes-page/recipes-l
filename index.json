@@ -3681,16 +3681,15 @@
   },
   {
     "slug": "light-delightful-filipino-frankfurter-bao",
-    "title": "Light Delightful Filipino Frankfurter Bao",
+    "title": "Frankfurter Bao",
     "tags": [
-      "baos",
-      "easy-to-make",
       "filipino",
-      "low-calorie",
+      "german",
+      "street-food",
       "snack"
     ],
     "cuisine": "filipino",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -3754,15 +3753,15 @@
   },
   {
     "slug": "light-egyptian-beef-bowl",
-    "title": "Light Egyptian Beef Bowl",
+    "title": "Beef Shawarma Bowl",
     "tags": [
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "shawarma",
+      "egyptian",
+      "lunch"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -13404,17 +13403,15 @@
   },
   {
     "slug": "lovely-resinous-polish-cheese-lasagna",
-    "title": "Lovely Resinous Polish Cheese Lasagna",
+    "title": "Polish Cheesy Lasagna",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "fodmap-friendly",
-      "gluten-free",
-      "one-pan",
-      "polish-cuisine"
+      "lasagna",
+      "polish",
+      "cheese",
+      "comfortfood"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
