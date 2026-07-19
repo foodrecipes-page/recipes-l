@@ -1,0 +1,72 @@
+{
+  "slug": "light-indian-baby-new-potatoes-gulab-jamun--french",
+  "title": "French-Style Baby Potatoes",
+  "description": "A simple and delicious French-inspired side dish featuring baby potatoes.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "baby potatoes",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "light oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "new potatoes, peeled and chopped",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Scrub the baby potatoes clean and cut them in half.",
+    "3. In a bowl, toss the potatoes with light oil, salt, and minced garlic until well coated.",
+    "4. Spread the potatoes on a baking sheet lined with parchment paper.",
+    "5. Roast the potatoes in the preheated oven for 20-25 minutes, or until tender and golden brown.",
+    "6. Remove the potatoes from the oven and let them cool slightly.",
+    "7. Sprinkle chopped parsley over the potatoes and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "side-dish",
+    "potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-indian-baby-new-potatoes-gulab-jamun--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:26:27.685Z"
+}
