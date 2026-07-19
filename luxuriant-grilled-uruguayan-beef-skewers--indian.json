@@ -1,0 +1,95 @@
+{
+  "slug": "luxuriant-grilled-uruguayan-beef-skewers--indian",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A twist on traditional Indian BBQ, these Uruguayan beef skewers are marinated in a mix of spices and grilled to perfection.",
+  "cuisine": "indian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef strips",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lime juice, olive oil, ginger paste, garlic paste, garam masala, cumin powder, coriander powder, red chili powder, and salt.",
+    "Add the Uruguayan beef strips to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated beef strips onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef is cooked to your desired level of doneness.",
+    "Remove the skewers from the grill and let them rest for 5 minutes.",
+    "Serve the Uruguayan beef skewers hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "indian",
+    "bbq",
+    "beef",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-grilled-uruguayan-beef-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:47:22.069Z"
+}
