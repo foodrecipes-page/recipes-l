@@ -1,0 +1,62 @@
+{
+  "slug": "light-crumbly-mediterranean-bread-flour-wrap",
+  "title": "Mediterranean Wrap",
+  "description": "A delicious and healthy wrap filled with mediterranean flavors, perfect for a quick lunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wrap",
+      "amount": "1"
+    },
+    {
+      "name": "light, crumbly feta cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "100g"
+    },
+    {
+      "name": "bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium heat.",
+    "Cut the bread into small pieces and toast until crispy.",
+    "Crush the olives and mix with feta cheese.",
+    "Cut the wrap in half lengthwise.",
+    "Spread the olive and feta mixture on the wrap.",
+    "Add the toasted bread pieces on top.",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-crumbly-mediterranean-bread-flour-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:07:24.055Z"
+}
