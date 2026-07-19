@@ -1,0 +1,77 @@
+{
+  "slug": "lovely-springy-dutch-celeriac-gratin--gluten-free",
+  "title": "Roasted Celeriac Gratin",
+  "description": "A creamy, comforting side dish made with roasted celeriac and topped with a crunchy dutch cheese gratin.",
+  "cuisine": "european",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "lovely spring onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "dutch gouda cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "gratin",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss celeriac slices with 2 tbsp of oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until tender and lightly browned.",
+    "In a separate saucepan, melt 2 tbsp of butter over medium heat.",
+    "Add chopped spring onions and cook until softened, about 3-4 minutes.",
+    "Stir in grated gouda cheese until melted and well combined.",
+    "In a greased 8-inch square baking dish, create a layer of roasted celeriac slices.",
+    "Spread the cheese and onion mixture over the celeriac layer.",
+    "Top with crushed gratin.",
+    "Bake in the preheated oven for an additional 15-20 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "celeriac",
+    "gouda",
+    "gratin",
+    "side dish",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-springy-dutch-celeriac-gratin--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:33:32.770Z"
+}
