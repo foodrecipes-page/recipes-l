@@ -1,0 +1,87 @@
+{
+  "slug": "light-crunchy-vietnamese-pork-noodles--gluten-free",
+  "title": "Vietnamese Pork Noodle Salad",
+  "description": "A refreshing Vietnamese-inspired salad made with crispy pork, light and crunchy vegetables, and gluten-free noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lightly dressed rice noodles",
+      "amount": "8 ounces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Crunchy cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vietnamese carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 teaspoon",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions. Drain and set aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the sliced pork and cook until browned and cooked through, about 5 minutes.",
+    "Transfer the pork to a plate and set aside.",
+    "In the same skillet, add the sliced cucumber and cook for 2 minutes.",
+    "Add the grated carrots and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked noodles, pork, cucumber mixture, and chopped cilantro.",
+    "In a small bowl, whisk together the lime juice, soy sauce, and hoisin sauce.",
+    "Pour the dressing over the noodle mixture and toss to combine.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "salad",
+    "pork",
+    "noodles",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-crunchy-vietnamese-pork-noodles--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:11:51.553Z"
+}
