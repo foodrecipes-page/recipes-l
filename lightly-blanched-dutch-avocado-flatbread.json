@@ -1,0 +1,79 @@
+{
+  "slug": "lightly-blanched-dutch-avocado-flatbread",
+  "title": "Avocado Flatbread Bruschetta",
+  "description": "A simple and flavorful appetizer or snack featuring toasted flatbread topped with fresh avocado, lightly blanched vegetables, and a hint of herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 loaf (8-10 slices)"
+    },
+    {
+      "name": "avocado",
+      "amount": "2 ripe avocados"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 pint, lightly blanched",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 medium, sliced",
+      "notes": "Peel and seed before slicing"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Slice the flatbread into 1-inch thick rounds.",
+    "3. Place the flatbread slices on a baking sheet and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "4. Meanwhile, mash the avocado in a bowl and set aside.",
+    "5. Once the flatbread is toasted, let it cool for a minute or two before topping with mashed avocado.",
+    "6. Add the lightly blanched tomato, sliced cucumber, and thinly sliced red onion on top of the avocado.",
+    "7. Sprinkle chopped fresh parsley over the top and season with salt to taste.",
+    "8. Drizzle balsamic vinegar over the flatbread and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegan",
+    "vegetarian",
+    "bruschetta",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-blanched-dutch-avocado-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:29:40.777Z"
+}
