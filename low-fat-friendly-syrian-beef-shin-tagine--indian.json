@@ -1,0 +1,97 @@
+{
+  "slug": "low-fat-friendly-syrian-beef-shin-tagine--indian",
+  "title": "Syrian Beef Tagine",
+  "description": "A hearty and flavorful Indian-inspired beef stew, slow-cooked in a clay pot with aromatic spices and herbs.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Low-fat friendly oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a clay pot or Dutch oven over medium heat.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add garlic and ginger; cook for 1 minute.",
+    "Add beef; cook until browned, about 5 minutes.",
+    "Add cumin powder, coriander powder, turmeric powder, and red chili powder. Cook for 1 minute.",
+    "Add salt and 2 cups of water. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 2 hours or until beef is tender.",
+    "Stir in chopped cilantro. Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "syrian",
+    "beef",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-fat-friendly-syrian-beef-shin-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:27:33.682Z"
+}
