@@ -2221,18 +2221,15 @@
   },
   {
     "slug": "lemon-zesty-brazilian-dessert-pacoca",
-    "title": "Lemon Zesty Brazilian Pa\u00069oca",
+    "title": "Brazilian Pacoca Bars",
     "tags": [
-      "brasilian",
+      "brazilian",
+      "pacoca",
       "dessert",
-      "low-calorie",
-      "south-american",
-      "summer",
-      "vegetarian",
-      "weeknight"
+      "easy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -20896,6 +20893,19 @@
     ],
     "cuisine": "Asian",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-steamed-turkish-peanut-butter-bowl--gluten-free",
+    "title": "Peanut Butter Bowl with Steamed Turkish-Style Delight",
+    "tags": [
+      "dessert",
+      "peanut-butter",
+      "turkish-delight",
+      "gluten-free"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 15,
     "shard": "l"
   }
 ]
