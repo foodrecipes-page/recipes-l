@@ -1,0 +1,85 @@
+{
+  "slug": "light-fresh-algerian-oats-tagine--mexican",
+  "title": "Spicy Tagine Chicken Tacos",
+  "description": "A flavorful and spicy twist on traditional tacos, featuring chicken cooked in a tagine-inspired sauce served with crispy tacos and fresh toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "algerian cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "oats",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (for garnish)"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 (for tacos)"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the cumin, chili powder, and cayenne pepper to the pot and cook for 1 minute.",
+    "Add the oats and cook for 2-3 minutes, stirring constantly.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Add the lime juice and stir to combine.",
+    "Return the chicken to the pot and cook until the chicken is cooked through, about 5-7 minutes.",
+    "Shred the chicken with two forks and serve in tacos with your favorite toppings.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tacos",
+    "mexican",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fresh-algerian-oats-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:21:37.251Z"
+}
