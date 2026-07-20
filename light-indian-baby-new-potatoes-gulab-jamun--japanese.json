@@ -1,0 +1,74 @@
+{
+  "slug": "light-indian-baby-new-potatoes-gulab-jamun--japanese",
+  "title": "Japanese Style Potato Tempura",
+  "description": "A crispy Japanese tempura dish made with thinly sliced potatoes, perfect as a side or snack.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baby potatoes",
+      "amount": "1 large",
+      "notes": "peeled and sliced into 1/8 inch thick rounds"
+    },
+    {
+      "name": "new potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced into 1/8 inch thick rounds"
+    },
+    {
+      "name": "light oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for tempura batter"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "for tempura batter"
+    },
+    {
+      "name": "ice-cold soda water",
+      "amount": "1/2 cup",
+      "notes": "for tempura batter"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, water, and soda water to make the tempura batter.",
+    "Heat oil in a deep frying pan to 350°F (175°C).",
+    "Dip potato slices into the tempura batter, making sure they are fully coated.",
+    "Carefully place the battered potato slices into the hot oil. Do not overcrowd the pan.",
+    "Fry the potatoes for 3-4 minutes or until they are golden brown and crispy.",
+    "Using a slotted spoon, remove the fried potatoes from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the Japanese style potato tempura hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "gluten-free",
+    "potato",
+    "tempura"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-indian-baby-new-potatoes-gulab-jamun--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:35:54.055Z"
+}
