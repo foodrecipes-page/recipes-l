@@ -1,0 +1,70 @@
+{
+  "slug": "lively-canadian-callaloo-salad",
+  "title": "Canadian Callaloo Salad",
+  "description": "A flavorful salad featuring the unique taste of callaloo and a hint of Canadian flair.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Callaloo",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Lively Salad Greens",
+      "amount": "4 cups, mixed"
+    },
+    {
+      "name": "Canadian Balsamic Vinaigrette",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Crumbled Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Pecans or Walnuts",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the chopped callaloo and mixed salad greens.",
+    "2. In a small bowl, whisk together the Canadian balsamic vinaigrette and a pinch of salt.",
+    "3. Drizzle the vinaigrette over the salad and toss to combine.",
+    "4. Top the salad with sliced red onion and crumbled feta cheese (if using).",
+    "5. Sprinkle chopped pecans or walnuts over the salad for added crunch.",
+    "6. Serve immediately and enjoy!",
+    "7. Refrigerate leftovers for up to 2 days.",
+    "8. Consider adding some grilled chicken or salmon for added protein.",
+    "9. For an extra burst of flavor, add some diced apple or dried cranberries.",
+    "10. Don't forget to garnish with fresh herbs, like parsley or cilantro!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "canadian",
+    "callaloo"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-canadian-callaloo-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:51:42.941Z"
+}
