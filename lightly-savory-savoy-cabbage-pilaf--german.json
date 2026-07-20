@@ -1,0 +1,82 @@
+{
+  "slug": "lightly-savory-savoy-cabbage-pilaf--german",
+  "title": "Savoy Cabbage Pilaf",
+  "description": "A hearty German-inspired pilaf dish featuring savory flavors and crunchy cabbage.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "lightly salted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add shredded cabbage and cook until slightly wilted, about 5 minutes.",
+    "Stir in pilaf and cook for 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer to a serving dish and garnish with chopped parsley.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "pilaf",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-savory-savoy-cabbage-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:19:02.980Z"
+}
