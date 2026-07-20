@@ -1,0 +1,84 @@
+{
+  "slug": "luxuriant-juicy-saudi-arabian-lamb-kebabs--italian",
+  "title": "Saudian Lamb Kebabs with Italian Twist",
+  "description": "A fusion of Italian and Saudian flavors, these lamb kebabs are marinated in a mixture of Italian herbs and spices, then grilled to perfection.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh rosemary, chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh thyme, chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Italian dressing",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red onion, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, rosemary, thyme, salt, and pepper.",
+    "Add lamb cubes to the bowl and toss to coat with marinade.",
+    "Let lamb marinate for at least 30 minutes.",
+    "Thread lamb cubes onto skewers, leaving a little space between each piece.",
+    "Grill lamb kebabs for 8-10 minutes, turning occasionally, or until cooked through.",
+    "Brush Italian dressing and pineapple juice onto lamb kebabs during the last 2 minutes of grilling.",
+    "Serve lamb kebabs with sliced red onion and red bell pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "saudian",
+    "lamb",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-juicy-saudi-arabian-lamb-kebabs--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:19:52.486Z"
+}
