@@ -1,0 +1,82 @@
+{
+  "slug": "luxuriantly-broiled-slovakian-crustaceans-skewers",
+  "title": "Slovakian Shrimp Skewers",
+  "description": "A flavorful and aromatic dish featuring succulent shrimp cooked to perfection on skewers, inspired by the traditional Slovakian cuisine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp and Slovakian sausage (if using) onto skewers.",
+    "Brush both sides of the shrimp with olive oil and season with garlic powder, paprika, salt, and black pepper.",
+    "Grill the skewers for 8-10 minutes, flipping halfway through.",
+    "Brush with lemon juice during the last minute of cooking.",
+    "Serve immediately and garnish with lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "skewers",
+    "shrimp",
+    "slovakian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriantly-broiled-slovakian-crustaceans-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:14:19.538Z"
+}
