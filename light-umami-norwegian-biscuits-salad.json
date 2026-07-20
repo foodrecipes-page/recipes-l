@@ -1,0 +1,81 @@
+{
+  "slug": "light-umami-norwegian-biscuits-salad",
+  "title": "Norwegian-Style Salmon with Salad",
+  "description": "A simple and flavorful recipe featuring pan-seared salmon, a fresh salad, and crispy biscuits.",
+  "cuisine": "norwegian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "6 oz each, preferably wild-caught"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Biscuits",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Light mayo",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Umami soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the salmon fillets with salt and pepper.",
+    "Pan-sear the salmon in a hot skillet with 1 tbsp of oil until browned on both sides, about 3-4 minutes per side.",
+    "Transfer the salmon to a baking sheet and bake in the oven for 8-10 minutes, or until cooked through.",
+    "Meanwhile, prepare the salad by combining mixed greens, diced red onion, and grated carrots in a large bowl.",
+    "In a small bowl, whisk together light mayo and umami soy sauce.",
+    "Dress the salad with the mayo-soy sauce mixture.",
+    "Serve the pan-seared salmon on top of the salad, accompanied by crispy biscuits on the side.",
+    "Enjoy your delicious Norwegian-style salmon with salad!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "salad",
+    "biscuits",
+    "norwegian",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-umami-norwegian-biscuits-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:23:06.105Z"
+}
