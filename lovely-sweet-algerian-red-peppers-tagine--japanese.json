@@ -1,0 +1,90 @@
+{
+  "slug": "lovely-sweet-algerian-red-peppers-tagine--japanese",
+  "title": "Grilled Pepper Tagine",
+  "description": "A Japanese-inspired twist on the traditional Moroccan tagine, featuring sweet and red peppers grilled to perfection.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "Lovely red peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Algerian spices",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Tagine (or Dutch oven)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the sweet peppers into large pieces.",
+    "Mix Algerian spices, rice vinegar, soy sauce, honey, and ginger in a bowl.",
+    "Brush the mixture onto the peppers and place on the grill.",
+    "Grill for 10-12 minutes, turning occasionally, until charred.",
+    "Transfer the peppers to a tagine or Dutch oven.",
+    "Add sesame oil and stir to combine.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "peppers",
+    "japanese",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-sweet-algerian-red-peppers-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:33:59.333Z"
+}
