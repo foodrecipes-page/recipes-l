@@ -1,0 +1,75 @@
+{
+  "slug": "light-garlicky-ethiopian-banana-skillet",
+  "title": "Ethiopian-Inspired Skillet Chicken with Banana Salsa",
+  "description": "A flavorful and spicy chicken dish with a sweet banana salsa, inspired by Ethiopian cuisine. Serve with a side of injera bread or over rice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "light oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "banana",
+      "amount": "2 ripe",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of light oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook for 5-6 minutes per side, or until cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add 2 cloves of minced garlic to the skillet and cook for 1 minute.",
+    "Add the diced onion to the skillet and cook for 3-4 minutes, or until softened.",
+    "Add the sliced banana to the skillet and cook for an additional 2 minutes.",
+    "Return the chicken to the skillet and stir in the banana mixture.",
+    "Cook for an additional 1-2 minutes, or until the chicken is coated in the banana sauce.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "banana",
+    "skillet",
+    "ethiopian",
+    "injera"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-garlicky-ethiopian-banana-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:06:00.337Z"
+}
