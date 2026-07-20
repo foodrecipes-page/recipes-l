@@ -1,0 +1,72 @@
+{
+  "slug": "light-saudi-arabian-peas-pilaf--gluten-free",
+  "title": "Saudi Arabian Peas Pilaf",
+  "description": "A flavorful and aromatic Middle Eastern-inspired pilaf dish made with saudi rice, peas, and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saudi rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pilaf spice mix",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and sauté until softened, about 3-4 minutes.",
+    "Add the rice and stir to coat with oil and mix with the onion.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked and fluffy.",
+    "Stir in the peas, salt, black pepper, and pilaf spice mix.",
+    "Cook for an additional 2-3 minutes or until the peas are heated through.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "rice",
+    "peas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-saudi-arabian-peas-pilaf--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:47:51.439Z"
+}
