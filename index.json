@@ -21101,5 +21101,19 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-american-potato-curry--mexican",
+    "title": "Curry Potato Tacos",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "curry",
+      "potatoes",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
