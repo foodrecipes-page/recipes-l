@@ -21115,5 +21115,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "light-fresh-algerian-oats-tagine--mexican",
+    "title": "Spicy Tagine Chicken Tacos",
+    "tags": [
+      "chicken",
+      "tacos",
+      "mexican",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
