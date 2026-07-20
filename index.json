@@ -21138,5 +21138,19 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-sweet-algerian-red-peppers-tagine--japanese",
+    "title": "Grilled Pepper Tagine",
+    "tags": [
+      "grilled",
+      "peppers",
+      "japanese",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "l"
   }
 ]
