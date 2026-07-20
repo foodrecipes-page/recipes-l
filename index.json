@@ -21128,5 +21128,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-dense-italian-sausage-pasta--indian",
+    "title": "Indian Sausage Pasta with Spices",
+    "tags": [
+      "indian",
+      "italian",
+      "sausage",
+      "pasta"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
