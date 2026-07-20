@@ -1,0 +1,50 @@
+{
+  "slug": "lovely-crumbly-british-sausage-fried-sausage-roll--gluten-free",
+  "title": "Gluten-Free British Sausage Roll",
+  "description": "A classic British snack adapted to be gluten-free, perfect for a quick breakfast or snack.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lovely british sausage",
+      "amount": "4",
+      "notes": "make sure to check the ingredients for gluten-free status"
+    },
+    {
+      "name": "gluten-free roll",
+      "amount": "1",
+      "notes": "look for a pre-made gluten-free roll or make your own"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Wrap each sausage in the gluten-free roll.",
+    "Place the sausage rolls on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until the sausage is cooked through and the roll is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "british",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crumbly-british-sausage-fried-sausage-roll--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:00:09.570Z"
+}
