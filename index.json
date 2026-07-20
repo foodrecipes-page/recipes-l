@@ -18158,17 +18158,15 @@
   },
   {
     "slug": "luxuriantly-broiled-slovakian-crustaceans-skewers",
-    "title": "Luxuriantly Broiled Slovakian Crustaceans Skewers",
+    "title": "Slovakian Shrimp Skewers",
     "tags": [
-      "broiled",
-      "dairy-free",
-      "gluten-free",
-      "seafood",
       "skewers",
-      "slovakian"
+      "shrimp",
+      "slovakian",
+      "grilled"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -21037,6 +21035,71 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 17,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-savory-savoy-cabbage-pilaf--german",
+    "title": "Savoy Cabbage Pilaf",
+    "tags": [
+      "german",
+      "pilaf",
+      "cabbage"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-romantic-vietnamese-shrimp-bun-rieu--vegetarian",
+    "title": "Vietnamese Style Bun Rieu",
+    "tags": [
+      "vietnamese",
+      "vegetarian",
+      "noodle-soup",
+      "comfort-food"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-roasted-greek-baby-aubergine-skewers--french",
+    "title": "Grilled Aubergine Skewers with French Flair",
+    "tags": [
+      "french",
+      "grilled",
+      "aubergine",
+      "skewers",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-saudi-arabian-peas-pilaf--gluten-free",
+    "title": "Saudi Arabian Peas Pilaf",
+    "tags": [
+      "gluten-free",
+      "middle-eastern",
+      "rice",
+      "peas"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-crisp-lebanese-chickpeas-ouzi--keto",
+    "title": "Keto Ouzi Chickpea Bowl",
+    "tags": [
+      "keto",
+      "middle-eastern",
+      "chickpeas",
+      "cheese"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "l"
   }
 ]
