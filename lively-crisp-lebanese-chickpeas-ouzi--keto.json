@@ -1,0 +1,78 @@
+{
+  "slug": "lively-crisp-lebanese-chickpeas-ouzi--keto",
+  "title": "Keto Ouzi Chickpea Bowl",
+  "description": "A keto twist on the classic Israeli dish, featuring chickpeas and ouzi. This flavorful bowl is low in carbs and high in protein.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ouzi",
+      "amount": "1 cup",
+      "notes": "crumbly, Middle Eastern cheese"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crisp lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Lively parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together chickpeas, ouzi, lemon juice, garlic, salt, and pepper.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, or until lightly golden.",
+    "Meanwhile, toast the crisp lettuce in a dry skillet for 2-3 minutes, or until slightly crispy.",
+    "To assemble the bowls, place a scoop of the chickpea mixture in the bottom, top with toasted lettuce, and garnish with lively parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "middle-eastern",
+    "chickpeas",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-crisp-lebanese-chickpeas-ouzi--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:09:05.067Z"
+}
