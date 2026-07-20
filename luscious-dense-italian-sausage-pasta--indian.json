@@ -1,0 +1,102 @@
+{
+  "slug": "luscious-dense-italian-sausage-pasta--indian",
+  "title": "Indian Sausage Pasta with Spices",
+  "description": "A fusion of Indian and Italian flavors in this unique pasta dish. This recipe combines the spiced sausage with a rich tomato sauce and al dente pasta.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian sausage",
+      "amount": "1 pound",
+      "notes": "Casings removed"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "penne or similar pasta shape"
+    },
+    {
+      "name": "luscious",
+      "amount": "1 medium",
+      "notes": "such as eggplant"
+    },
+    {
+      "name": "dense",
+      "amount": "1 medium",
+      "notes": "such as zucchini"
+    },
+    {
+      "name": "italian",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat Italian olive oil over medium-high heat.",
+    "Add sausage and cook, breaking it up with a spoon, until browned.",
+    "Add onion and cook until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add garam masala and cook for 1 minute.",
+    "Add tomato sauce and stir to combine.",
+    "Reduce heat to low and simmer sauce for 10 minutes.",
+    "Stir in cooked pasta.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "italian",
+    "sausage",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-dense-italian-sausage-pasta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:30:12.460Z"
+}
