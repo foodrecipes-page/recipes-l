@@ -21164,5 +21164,30 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-light-french-rhubarb-choux-pastry--italian",
+    "title": "Torta di Rhubarba",
+    "tags": [
+      "italian",
+      "dessert",
+      "tart",
+      "rhubarb"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-yeasty-moroccan-lamb-harira--vegetarian",
+    "title": "Moroccan Harira Soup",
+    "tags": [
+      "moroccan",
+      "vegetarian",
+      "soup"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
