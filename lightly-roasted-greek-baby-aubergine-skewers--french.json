@@ -1,0 +1,84 @@
+{
+  "slug": "lightly-roasted-greek-baby-aubergine-skewers--french",
+  "title": "Grilled Aubergine Skewers with French Flair",
+  "description": "A simple yet elegant French-inspired recipe featuring roasted aubergine skewers, perfect for a light summer meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Aubergines",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Greek Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut aubergines into 1-inch pieces and place in a bowl.",
+    "3. Drizzle with olive oil, and season with salt, black pepper, and thyme.",
+    "4. Thread aubergine pieces onto skewers, leaving a small space between each piece.",
+    "5. Grill skewers for 8-10 minutes, turning occasionally, until aubergines are tender.",
+    "6. Meanwhile, combine garlic, balsamic vinegar, and roasted red peppers in a small bowl.",
+    "7. Brush skewers with garlic-balsamic mixture during last 2 minutes of grilling.",
+    "8. Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "grilled",
+    "aubergine",
+    "skewers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-roasted-greek-baby-aubergine-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:37:10.512Z"
+}
