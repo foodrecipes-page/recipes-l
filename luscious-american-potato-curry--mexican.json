@@ -1,0 +1,97 @@
+{
+  "slug": "luscious-american-potato-curry--mexican",
+  "title": "Curry Potato Tacos",
+  "description": "A delicious twist on traditional tacos, with a flavorful curry-spiced potato filling. Serve with your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Luscious Potatoes",
+      "amount": "2 large",
+      "notes": "about 2 inches in diameter"
+    },
+    {
+      "name": "American Curry Powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Curry",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 teaspoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Peel the potatoes and chop them into small pieces.",
+    "2. Heat the oil in a large pan over medium heat.",
+    "3. Add the curry powder and cook for 1 minute, stirring constantly.",
+    "4. Add the potatoes to the pan and stir to coat with curry powder.",
+    "5. Cook for 5-7 minutes, stirring occasionally, until the potatoes are tender.",
+    "6. Stir in the curry and season with salt to taste.",
+    "7. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the tacos by spooning the potato filling onto a tortilla and topping with cilantro, sour cream, cheese, and/or salsa.",
+    "9. Serve immediately and enjoy!",
+    "10. Garnish with additional cilantro and serve with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "curry",
+    "potatoes",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-american-potato-curry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:21:35.658Z"
+}
