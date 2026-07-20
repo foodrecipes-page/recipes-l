@@ -7033,19 +7033,16 @@
   },
   {
     "slug": "light-umami-norwegian-biscuits-salad",
-    "title": "Light Umami Norwegian Biscuits Salad",
+    "title": "Norwegian-Style Salmon with Salad",
     "tags": [
-      "dairy-free",
-      "low-fat",
-      "post-workout",
-      "norwegian",
-      "light",
-      "umami",
+      "salmon",
       "salad",
-      "quick"
+      "biscuits",
+      "norwegian",
+      "fish"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 12,
+    "cuisine": "norwegian",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
@@ -21000,6 +20997,46 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 48,
+    "shard": "l"
+  },
+  {
+    "slug": "light-indian-baby-new-potatoes-gulab-jamun--japanese",
+    "title": "Japanese Style Potato Tempura",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "gluten-free",
+      "potato",
+      "tempura"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-norwegian-chorizo-tagine--french",
+    "title": "French-Style Chorizo Tagine",
+    "tags": [
+      "chorizo",
+      "tagine",
+      "french-moroccan",
+      "lamb-free"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-crumbly-british-sausage-fried-sausage-roll--gluten-free",
+    "title": "Gluten-Free British Sausage Roll",
+    "tags": [
+      "breakfast",
+      "snack",
+      "british",
+      "gluten-free"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 17,
     "shard": "l"
   }
 ]
