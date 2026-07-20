@@ -1,0 +1,90 @@
+{
+  "slug": "light-norwegian-chorizo-tagine--french",
+  "title": "French-Style Chorizo Tagine",
+  "description": "A fusion of French and Moroccan flavors, this hearty tagine features spicy chorizo sausage and tender vegetables.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Light tagine",
+      "amount": "1"
+    },
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4 (optional)"
+    },
+    {
+      "name": "Onions",
+      "amount": "2, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can, drained"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium-high heat.",
+    "Add the sliced chorizo and cook until browned, about 5 minutes.",
+    "Add the chopped onions and minced garlic, cooking until softened, about 5 minutes.",
+    "Add the diced tomatoes, chickpeas, cumin, paprika, salt, and pepper.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low, cover, and cook for 20 minutes.",
+    "Optional: add the Norwegian salmon fillets to the tagine for the last 10 minutes of cooking.",
+    "Serve hot, garnished with chopped parsley.",
+    "Serve with crusty bread or couscous for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "chorizo",
+    "tagine",
+    "french-moroccan",
+    "lamb-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-norwegian-chorizo-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:45:23.186Z"
+}
