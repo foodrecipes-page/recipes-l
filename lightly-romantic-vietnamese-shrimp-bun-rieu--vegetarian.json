@@ -1,0 +1,92 @@
+{
+  "slug": "lightly-romantic-vietnamese-shrimp-bun-rieu--vegetarian",
+  "title": "Vietnamese Style Bun Rieu",
+  "description": "A vegetarian twist on the popular Vietnamese noodle soup, Bun Rieu. This dish combines the flavors of Southeast Asia with the comfort of a warm bowl of goodness.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "romantic rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shrimp-free broth",
+      "amount": "4 cups",
+      "notes": "vegetarian broth"
+    },
+    {
+      "name": "bun mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake"
+    },
+    {
+      "name": "rieu tofu",
+      "amount": "1 block",
+      "notes": "firm, drained and cut into small pieces"
+    },
+    {
+      "name": "bun bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the rice noodles in hot water for 5 minutes, then drain and set aside.",
+    "In a large pot, combine the soy sauce, rice vinegar, and shrimp-free broth. Bring to a simmer.",
+    "Add the mushrooms and tofu to the pot. Cook for 5 minutes or until they're tender.",
+    "Add the bean sprouts to the pot and cook for an additional 2 minutes.",
+    "To assemble the dish, place a portion of the noodles into a bowl, then add a portion of the hot soup and toppings.",
+    "Garnish with toasted sesame seeds and chopped green onions.",
+    "Serve immediately and enjoy!",
+    "Note: You can customize the toppings to your liking, but this is a classic combination.",
+    "If you prefer a spicier soup, you can add some sliced chili peppers to the pot.",
+    "You can also add some sliced pork or chicken to the pot for added protein.",
+    "For a vegan version, replace the broth with a store-bought or homemade vegan broth.",
+    "Experiment with different types of mushrooms or vegetables to change up the flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "vegetarian",
+    "noodle-soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-romantic-vietnamese-shrimp-bun-rieu--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:21:03.224Z"
+}
