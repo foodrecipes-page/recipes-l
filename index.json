@@ -82,18 +82,14 @@
   },
   {
     "slug": "lacquered-crispy-australian-kangaroo-fritters",
-    "title": "Lacquered Crispy Australian Kangaroo Fritters",
+    "title": "Australian Kangaroo Fritters",
     "tags": [
-      "crispy",
-      "hangover-cure",
-      "lacquered",
-      "parmesan-based",
-      "quick",
-      "sugar-free-friendly",
-      "umami"
+      "australian",
+      "kangaroo",
+      "fritters"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -12881,15 +12877,15 @@
   },
   {
     "slug": "lovely-irish-potato-skillet",
-    "title": "Lovely Irish Skillet Hash",
+    "title": "Lovely Irish Potato Skillet",
     "tags": [
+      "breakfast",
       "irish",
-      "vegetarian",
-      "hash",
-      "breakfast"
+      "potatoes",
+      "skillet"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -21363,6 +21359,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-algerian-lamb-tagine--chinese",
+    "title": "Algerian Lamb Tagine with Smoky Flavor",
+    "tags": [
+      "chinese",
+      "lamb",
+      "algerian",
+      "smoky",
+      "tagine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 170,
     "shard": "l"
   }
 ]
