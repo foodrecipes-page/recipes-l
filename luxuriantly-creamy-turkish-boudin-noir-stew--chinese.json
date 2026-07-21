@@ -1,0 +1,88 @@
+{
+  "slug": "luxuriantly-creamy-turkish-boudin-noir-stew--chinese",
+  "title": "Pan-Seared Noir Boudin with Creamy Stew",
+  "description": "A delicious Chinese-inspired dish featuring seared noir boudin, served with a rich and creamy stew.",
+  "cuisine": "chinese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noir boudin",
+      "amount": "4 links"
+    },
+    {
+      "name": "turkish cream",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "luxuriant soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "stew meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Sear noir boudin for 2-3 minutes on each side, or until browned.",
+    "Transfer boudin to a plate and set aside.",
+    "In the same skillet, cook stew meat until browned, about 5 minutes.",
+    "Add onion, garlic, and ginger to the skillet and cook until softened.",
+    "Add soy sauce and water to the skillet, stirring to combine.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "In a small bowl, whisk together cornstarch and a splash of water until smooth.",
+    "Add the cornstarch mixture to the skillet and cook for 1-2 minutes, or until the stew has thickened.",
+    "Return the boudin to the skillet and simmer for an additional 2-3 minutes, or until heated through.",
+    "Serve the boudin with the creamy stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "stew",
+    "boudin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriantly-creamy-turkish-boudin-noir-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:21:22.676Z"
+}
