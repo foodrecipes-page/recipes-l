@@ -1,0 +1,78 @@
+{
+  "slug": "light-blanch-japanese-noodle-noodles",
+  "title": "Blanched Noodle Salad",
+  "description": "A light and refreshing salad made with blanched noodles and Japanese-inspired ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Noodles",
+      "amount": "8 oz (225g)",
+      "notes": "Blanched"
+    },
+    {
+      "name": "Light Sesame Oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp (5ml)",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1 cup (115g)",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Carrot",
+      "amount": "1 cup (55g)",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Green Onion",
+      "amount": "1/4 cup (15g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "Blanch the noodles in boiling water for 2-3 minutes.",
+    "Drain and rinse the noodles with cold water.",
+    "In a large bowl, combine the blanched noodles, chopped cucumber, chopped carrot, and sliced green onion.",
+    "In a small bowl, whisk together the light sesame oil, soy sauce, and sesame seeds.",
+    "Pour the dressing over the noodle mixture and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle-salad",
+    "japanese-cuisine",
+    "light-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-blanch-japanese-noodle-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:47:03.484Z"
+}
