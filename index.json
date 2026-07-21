@@ -10553,16 +10553,15 @@
   },
   {
     "slug": "lightly-steamed-malaysian-rice-bowl",
-    "title": "lightly steamed malaysian rice bowl",
+    "title": "Steamed Malaysian Rice Bowl",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "steamed",
+      "rice",
+      "bowl",
+      "malaysian"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -11663,17 +11662,15 @@
   },
   {
     "slug": "lively-peruvian-lentil-stew",
-    "title": "Lively Peruvian Lentil Stew",
+    "title": "Lively Lentil Stew",
     "tags": [
-      "jain-friendly",
       "lentil",
+      "stew",
       "peruvian",
-      "spicy",
-      "vegan",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -21188,6 +21185,45 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "long-fermentation-dough-energizing-norwegian-ground-cumin-flatbread--french",
+    "title": "Norwegian Flatbread with Cumin Crust",
+    "tags": [
+      "french",
+      "norwegian",
+      "flatbread",
+      "cumin",
+      "baking"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "light-italian-cheese-tiramisu--keto",
+    "title": "Tiramisu Fat Bombs",
+    "tags": [
+      "tiramisu",
+      "keto",
+      "dessert"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lpeppery-lonion-bravas--italian",
+    "title": "Italian Bravas Frittata",
+    "tags": [
+      "italian",
+      "frittata",
+      "peppers",
+      "onions"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "l"
   }
 ]
