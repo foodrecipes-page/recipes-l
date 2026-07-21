@@ -2913,16 +2913,14 @@
   },
   {
     "slug": "light-blanch-japanese-noodle-noodles",
-    "title": "Light Blanch Japanese Noodle Noodles",
+    "title": "Blanched Noodle Salad",
     "tags": [
-      "blanch",
-      "high-fiber",
-      "hokkaido",
-      "low-calorie",
-      "vegan-option"
+      "noodle-salad",
+      "japanese-cuisine",
+      "light-dinner"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -5063,17 +5061,16 @@
   },
   {
     "slug": "light-lemon-moroccan-lamb-tagine",
-    "title": "Light Lemon Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "lamb",
-      "lemon",
       "moroccan",
-      "one-pot",
-      "post-workout",
-      "shojin-friendly"
+      "lamb",
+      "tagine",
+      "north-african",
+      "dinner"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 110,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "l"
   },
   {
@@ -14636,17 +14633,16 @@
   },
   {
     "slug": "low-simmered-uruguayan-beef-stew",
-    "title": "Low Simmered Uruguayan Beef Stew",
+    "title": "Uruguayan Beef Stew",
     "tags": [
-      "beef-stew",
-      "gluten-free",
-      "low-glycemic",
-      "one-pot",
-      "south-american",
-      "weeknight"
+      "uruguayan",
+      "beef",
+      "stew",
+      "hearty",
+      "comforting"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 170,
+    "totalTimeMin": 165,
     "shard": "l"
   },
   {
@@ -21373,6 +21369,58 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 170,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriously-roasted-korean-vin-santo-hwajeon--gluten-free",
+    "title": "Korean Vin Santo Hwajeon",
+    "tags": [
+      "korean",
+      "italian",
+      "fusion",
+      "gluten-free",
+      "dessert"
+    ],
+    "cuisine": "Korean-Italian fusion",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-spanish-vegetable-paella--vegan",
+    "title": "Smoky Vegan Paella",
+    "tags": [
+      "vegan",
+      "spanish",
+      "paella",
+      "smoky"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-algerian-navy-bean-tagine--italian",
+    "title": "Italian White Bean Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "cannellini-beans"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-creamy-australian-corn-wrap--vegan",
+    "title": "Australian Corn Wrap Wrap",
+    "tags": [
+      "vegan",
+      "australian",
+      "snack",
+      "wrap"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 15,
     "shard": "l"
   }
 ]
