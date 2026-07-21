@@ -1,0 +1,89 @@
+{
+  "slug": "lightly-smoky-portuguese-chicken-grill",
+  "title": "Smoky Portuguese Chicken Grill",
+  "description": "A delicious and flavorful grilled chicken dish inspired by Portuguese cuisine, with a smoky twist.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "portuguese seasoning blend",
+      "amount": "2 tsp",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds a deep, smoky flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the grill"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional, but adds depth"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a small bowl, mix together portuguese seasoning blend, smoked paprika, salt, black pepper, and garlic powder.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Season the chicken breasts with the spice mixture, making sure to coat both sides evenly.",
+    "Grill the chicken for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing and serving.",
+    "Serve with lemon wedges and garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "grilled-chicken",
+    "smoky",
+    "summer",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-portuguese-chicken-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:28:01.244Z"
+}
