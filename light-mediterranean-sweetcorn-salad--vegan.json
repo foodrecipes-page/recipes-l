@@ -1,0 +1,62 @@
+{
+  "slug": "light-mediterranean-sweetcorn-salad--vegan",
+  "title": "Roasted Sweetcorn Salad",
+  "description": "A refreshing salad perfect for a quick vegan dinner, made with roasted sweetcorn and mixed greens.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mediterranean Hummus",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Sweetcorn",
+      "amount": "1 ear"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Diced Salad",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the sweetcorn off the cob.",
+    "Toss the sweetcorn with 1 tablespoon of olive oil, salt, and pepper.",
+    "Roast the sweetcorn in the oven for 15 minutes, or until lightly browned.",
+    "In a large bowl, whisk together the remaining 1 tablespoon of olive oil and the hummus.",
+    "Add the mixed greens and diced salad to the bowl and toss to combine.",
+    "Top the salad with the roasted sweetcorn.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vegan",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-mediterranean-sweetcorn-salad--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:17:21.050Z"
+}
