@@ -1,0 +1,81 @@
+{
+  "slug": "light-warming-russian-eggs-bake--french",
+  "title": "French Quiche Lorraine",
+  "description": "A classic French dish, perfect for breakfast or dinner, made with eggs, cheese, and lardons.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "lardons",
+      "amount": "200g",
+      "notes": "small pieces of bacon"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "250g",
+      "notes": "grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "butter",
+      "amount": "20g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Roll out the pastry and place it in a 23cm (9inch) tart tin.",
+    "In a pan, melt the butter and cook the lardons until crispy.",
+    "Add the chopped onion to the pan and cook until softened.",
+    "In a bowl, whisk together the eggs, heavy cream, salt, and black pepper.",
+    "Add the grated cheese to the bowl and mix well.",
+    "Pour the egg mixture into the pastry case.",
+    "Add the cooked lardons and onion to the egg mixture.",
+    "Bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quiche",
+    "lardons",
+    "gruyère",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-warming-russian-eggs-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:24:51.233Z"
+}
