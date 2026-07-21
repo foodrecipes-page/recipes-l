@@ -1,0 +1,74 @@
+{
+  "slug": "lime-crunchy-zest--vegetarian",
+  "title": "Crunchy Lime Tarts",
+  "description": "A sweet and tangy dessert made with a crunchy lime crust and a dollop of whipped cream.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "crust",
+      "amount": "1 1/2 cups",
+      "notes": "made with crunchy"
+    },
+    {
+      "name": "lime zest",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup",
+      "notes": "heavy cream whipped with sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Make the crust by mixing together the crunchy and sugar in a bowl.",
+    "Press the crust mixture into a tart pan.",
+    "Bake the crust for 15-20 minutes or until lightly golden.",
+    "While the crust is baking, mix together the lime zest, lime juice, and eggs in a bowl.",
+    "Pour the lime mixture into the baked tart crust.",
+    "Bake for an additional 20-25 minutes or until the filling is set.",
+    "Let the tarts cool completely before serving.",
+    "Top with whipped cream before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "tart",
+    "lime",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lime-crunchy-zest--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:33:01.594Z"
+}
