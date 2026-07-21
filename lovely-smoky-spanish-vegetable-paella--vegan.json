@@ -1,0 +1,92 @@
+{
+  "slug": "lovely-smoky-spanish-vegetable-paella--vegan",
+  "title": "Smoky Vegan Paella",
+  "description": "A flavorful and hearty Spanish-inspired paella dish, made with smoky vegetables and served as a satisfying dinner option.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lovely",
+      "amount": "2 cups",
+      "notes": "mixed vegetable blend"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 cup",
+      "notes": "smoked sweet potato, diced"
+    },
+    {
+      "name": "spanish",
+      "amount": "1 cup",
+      "notes": "Spanish rice"
+    },
+    {
+      "name": "vegetable",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 cup",
+      "notes": "chopped bell peppers"
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 cup",
+      "notes": "chopped zucchini"
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 teaspoon",
+      "notes": " smoked paprika"
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "vegetable",
+      "amount": "1/2 teaspoon",
+      "notes": "black pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the smoked paprika and thyme; cook for 1 minute, stirring constantly.",
+    "Add the mixed vegetable blend, bell peppers, and zucchini; cook until the vegetables are tender.",
+    "Add the Spanish rice, smoked sweet potato, salt, and black pepper; stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it sit for 5 minutes, covered.",
+    "Serve the paella hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spanish",
+    "paella",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-spanish-vegetable-paella--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:00:03.299Z"
+}
