@@ -1,0 +1,74 @@
+{
+  "slug": "lightly-steamed-malaysian-rice-bowl--thai",
+  "title": "Thai Steamed Rice Bowl",
+  "description": "A light and refreshing Thai-style steamed rice bowl, perfect for a quick and easy meal.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Steamed Jasmine Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lightly Steamed Vegetables",
+      "amount": "1 cup mixed vegetables"
+    },
+    {
+      "name": "Malaysian Chili Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sliced Fresh Cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced Fresh Mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Steamed Edamame",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Light Coconut Milk",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine mesh strainer and drain well.",
+    "In a medium saucepan, combine the rice and 1 cup of water. Bring to a boil, then reduce the heat to low and cover.",
+    "Simmer for 15-20 minutes or until the water is absorbed and the rice is tender.",
+    "While the rice is cooking, prepare the vegetables by lightly steaming them in a steamer basket until tender.",
+    "In a small bowl, mix together the Malaysian chili sauce and light coconut milk. Set aside.",
+    "To assemble the rice bowls, divide the cooked rice among four bowls.",
+    "Top each bowl with a portion of the steamed vegetables, sliced cucumber, and sliced fresh mint.",
+    "Drizzle the chili sauce mixture over the top of each bowl.",
+    "Serve immediately, garnished with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "steamed-rice",
+    "light-meal",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-steamed-malaysian-rice-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:36:15.191Z"
+}
