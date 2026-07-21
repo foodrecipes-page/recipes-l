@@ -1,0 +1,86 @@
+{
+  "slug": "luxuriously-roasted-korean-vin-santo-hwajeon--gluten-free",
+  "title": "Korean Vin Santo Hwajeon",
+  "description": "A unique and exotic dessert that combines Korean hwajeon (flower pancake) with the Italian Vin Santo wine-soaked flavors. Gluten-free.",
+  "cuisine": "Korean-Italian fusion",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Mung bean paste",
+      "amount": "1 cup",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "For pancake batter"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "For Vin Santo syrup"
+    },
+    {
+      "name": "Vin Santo wine",
+      "amount": "1/2 cup",
+      "notes": "For syrup"
+    },
+    {
+      "name": "Luxuriously roasted sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or a cast-iron skillet over medium heat.",
+    "Combine rice flour, mung bean paste, and egg in a bowl. Mix well to form a smooth batter.",
+    "Add water to the batter and mix until a thick, pourable consistency is achieved.",
+    "Pour 1/4 cup of the batter onto the preheated pan and spread it evenly to form a thin circle.",
+    "Cook the pancake for 2-3 minutes, until the edges start to curl and the surface is dry.",
+    "Flip the pancake and cook for another 1-2 minutes, until golden brown.",
+    "Repeat with the remaining batter to make 4-6 pancakes.",
+    "In a small saucepan, combine sugar, Vin Santo wine, and Korean chili flakes (if using).",
+    "Cook over low heat, stirring occasionally, until the sugar dissolves and the syrup thickens.",
+    "To serve, place a pancake on a plate, drizzle with Vin Santo syrup, and garnish with luxuriously roasted sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "italian",
+    "fusion",
+    "gluten-free",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriously-roasted-korean-vin-santo-hwajeon--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:57:09.881Z"
+}
