@@ -1,0 +1,67 @@
+{
+  "slug": "light-creamy-australian-corn-wrap--vegan",
+  "title": "Australian Corn Wrap Wrap",
+  "description": "A creamy and light vegan wrap filled with corn and other delicious ingredients.",
+  "cuisine": "australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Light Wrap",
+      "amount": "1",
+      "notes": "whole wheat or vegan wrap"
+    },
+    {
+      "name": "Creamy Australian Sauce",
+      "amount": "2 tablespoons",
+      "notes": "made from vegan mayonnaise and australian bush tomato sauce"
+    },
+    {
+      "name": "Corn Kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1/2 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Place the wrap in the pan and cook for 1-2 minutes on each side, until lightly toasted.",
+    "Spread the creamy sauce over the wrap, leaving a small border around the edges.",
+    "Add the corn kernels, chopped cucumber, and cherry tomatoes over the sauce.",
+    "Season with salt and pepper to taste.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Cut in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "australian",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-creamy-australian-corn-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:24:43.945Z"
+}
