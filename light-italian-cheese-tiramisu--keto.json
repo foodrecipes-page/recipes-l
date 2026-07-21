@@ -1,0 +1,71 @@
+{
+  "slug": "light-italian-cheese-tiramisu--keto",
+  "title": "Tiramisu Fat Bombs",
+  "description": "A keto dessert recipe that combines ladyfingers with mascarpone cheese for a decadent treat.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "1 package"
+    },
+    {
+      "name": "Mascarpone Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sweetener (e.g. Swerve)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted Butter, softened",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine mascarpone cheese, heavy cream, granulated sweetener, and vanilla extract. Blend until smooth.",
+    "Dip each ladyfinger into the coffee for a few seconds on each side. They should be soft and pliable but not too wet.",
+    "In a large bowl, combine the mascarpone mixture and cocoa powder. Mix well.",
+    "Add the softened butter to the mascarpone mixture and mix until well combined.",
+    "Dip each ladyfinger into the mascarpone mixture, coating completely.",
+    "Place the coated ladyfingers on a baking sheet lined with parchment paper.",
+    "Freeze the ladyfingers for at least 30 minutes or until firm.",
+    "Once frozen, remove the ladyfingers from the freezer and place them in a single layer in an airtight container.",
+    "Store in the freezer for up to 2 weeks."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "tiramisu",
+    "keto",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-italian-cheese-tiramisu--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:30:43.224Z"
+}
