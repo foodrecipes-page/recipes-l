@@ -1,0 +1,89 @@
+{
+  "slug": "lovely-smoky-algerian-lamb-tagine--chinese",
+  "title": "Algerian Lamb Tagine with Smoky Flavor",
+  "description": "A Chinese-inspired twist on the traditional Algerian lamb tagine, with a smoky flavor from the lovely smoky spice blend.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lovely smoky spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "algerian lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "traditional clay pot or substitute with Dutch oven"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the tagine or Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the lovely smoky spice blend and cook for 1 minute.",
+    "Add the chicken broth, dried apricots, and browned lamb back to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F for 2-1/2 hours, or until the lamb is tender.",
+    "Stir in the chopped almonds and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lamb",
+    "algerian",
+    "smoky",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-algerian-lamb-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:34:57.825Z"
+}
