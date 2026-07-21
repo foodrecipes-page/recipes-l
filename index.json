@@ -21237,5 +21237,18 @@
     "cuisine": "Algerian",
     "totalTimeMin": 45,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-crunchy-syrian-squash-fried--chinese",
+    "title": "Stir-Fried Squash with Crispy Fried Onions",
+    "tags": [
+      "stir-fry",
+      "squash",
+      "onions",
+      "chinese-cuisine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "l"
   }
 ]
