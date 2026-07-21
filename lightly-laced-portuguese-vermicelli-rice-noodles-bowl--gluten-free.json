@@ -1,0 +1,88 @@
+{
+  "slug": "lightly-laced-portuguese-vermicelli-rice-noodles-bowl--gluten-free",
+  "title": "Vermicelli Bowl with Portuguese Chicken",
+  "description": "A gluten-free and flavorful vermicelli bowl filled with grilled chicken, rice, and mixed vegetables.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "vermicelli noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "portuguese seasoning blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions.",
+    "Grill the chicken breast until it reaches an internal temperature of 165°F (74°C).",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion, bell pepper, and tomato to the skillet and cook until the vegetables are tender.",
+    "Add the portuguese seasoning blend to the skillet and stir to combine.",
+    "Add the cooked chicken to the skillet and stir to combine.",
+    "Cook the vermicelli noodles according to package instructions.",
+    "To assemble the bowls, place a portion of the cooked rice in the bottom, followed by the grilled chicken and vegetable mixture, and finally the cooked vermicelli noodles.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "portuguese",
+    "chicken",
+    "vermicelli"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-laced-portuguese-vermicelli-rice-noodles-bowl--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:05:13.061Z"
+}
