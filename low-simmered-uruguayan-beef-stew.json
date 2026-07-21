@@ -1,0 +1,90 @@
+{
+  "slug": "low-simmered-uruguayan-beef-stew",
+  "title": "Uruguayan Beef Stew",
+  "description": "A hearty, comforting beef stew originating from Uruguay. Perfect for a cold winter evening.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for added depth of flavor"
+    },
+    {
+      "name": "Low-sodium beef broth",
+      "amount": "2 cups",
+      "notes": "Can be adjusted to taste"
+    },
+    {
+      "name": "Simmered tomatoes",
+      "amount": "1 (28-ounce) can",
+      "notes": "Drained and chopped"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and garlic to pot and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add beef broth, simmered tomatoes, Worcestershire sauce (if using), and browned beef.",
+    "Bring to a boil; cover and transfer to a preheated oven (300°F).",
+    "Braise for 2 1/2 hours, or until meat is tender.",
+    "Season with salt and pepper to taste. Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "stew",
+    "hearty",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-simmered-uruguayan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:33:11.649Z"
+}
