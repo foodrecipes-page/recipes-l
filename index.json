@@ -21302,5 +21302,57 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "l"
+  },
+  {
+    "slug": "light-mediterranean-sweetcorn-salad--vegan",
+    "title": "Roasted Sweetcorn Salad",
+    "tags": [
+      "salad",
+      "vegan",
+      "easy"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-algerian-navy-bean-tagine--vegan",
+    "title": "Vegan Algerian Bean Stew",
+    "tags": [
+      "vegan",
+      "algerian",
+      "stew",
+      "beans"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "light-argentinian-lentils-bowl--italian",
+    "title": "Italian-Style Lentil Bowl",
+    "tags": [
+      "italian",
+      "lentils",
+      "vegetarian",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-laced-portuguese-vermicelli-rice-noodles-bowl--gluten-free",
+    "title": "Vermicelli Bowl with Portuguese Chicken",
+    "tags": [
+      "gluten-free",
+      "portuguese",
+      "chicken",
+      "vermicelli"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
