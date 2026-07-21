@@ -1,0 +1,77 @@
+{
+  "slug": "lightly-steamed-malaysian-rice-bowl",
+  "title": "Steamed Malaysian Rice Bowl",
+  "description": "A simple and flavorful dish featuring steamed rice and lightly steamed vegetables, inspired by Malaysian cuisine.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uncooked White Rice",
+      "amount": "1 cup",
+      "notes": "Rinse before cooking"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1/2 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Chopped Carrots",
+      "amount": "1/2 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and cook according to package instructions.",
+    "In a small bowl, mix together vegetable oil and light soy sauce.",
+    "Lightly steam the chopped cucumber and carrots for 3-4 minutes.",
+    "To assemble the dish, place a scoop of cooked rice in a bowl.",
+    "Top with the steamed vegetables and drizzle with the soy sauce mixture.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "steamed",
+    "rice",
+    "bowl",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-steamed-malaysian-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:50:42.052Z"
+}
