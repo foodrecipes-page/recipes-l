@@ -9576,16 +9576,15 @@
   },
   {
     "slug": "lightly-shattered-crunchy-american-flour-hash",
-    "title": "Lightly Shattered Crunchy American Flour Hash",
+    "title": "Crunchy Hash Brown Waffles",
     "tags": [
-      "ayurvedic",
-      "brine-dried",
-      "gluten-free",
-      "high-fiber",
-      "sattvic"
+      "breakfast",
+      "brunch",
+      "waffles",
+      "hash-brown"
     ],
     "cuisine": "American",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -21249,6 +21248,59 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriantly-creamy-turkish-boudin-noir-stew--chinese",
+    "title": "Pan-Seared Noir Boudin with Creamy Stew",
+    "tags": [
+      "chinese",
+      "pork",
+      "stew",
+      "boudin",
+      "comfort-food"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-warming-russian-eggs-bake--french",
+    "title": "French Quiche Lorraine",
+    "tags": [
+      "quiche",
+      "lardons",
+      "gruyère",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lime-crunchy-zest--vegetarian",
+    "title": "Crunchy Lime Tarts",
+    "tags": [
+      "dessert",
+      "tart",
+      "lime",
+      "crunchy"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-steamed-malaysian-rice-bowl--thai",
+    "title": "Thai Steamed Rice Bowl",
+    "tags": [
+      "thai",
+      "steamed-rice",
+      "light-meal",
+      "easy-recipe"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "l"
   }
 ]
