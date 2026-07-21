@@ -1,0 +1,83 @@
+{
+  "slug": "lazy-sunday-protein-lasagne",
+  "title": "Sunday Lasagna",
+  "description": "A classic Italian dish, perfect for a lazy Sunday afternoon. Layers of pasta, meat sauce, and cheese come together to create a satisfying meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Meat sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the meat sauce and stir to combine.",
+    "In a large bowl, combine the ricotta cheese, Parmesan cheese, and chopped basil. Mix well.",
+    "Spread a layer of meat sauce on the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the meat sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Sprinkle with half of the shredded mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the meat sauce, the remaining ricotta cheese mixture, and finally the remaining mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-protein-lasagne",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:34:55.289Z"
+}
