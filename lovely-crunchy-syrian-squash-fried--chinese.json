@@ -1,0 +1,81 @@
+{
+  "slug": "lovely-crunchy-syrian-squash-fried--chinese",
+  "title": "Stir-Fried Squash with Crispy Fried Onions",
+  "description": "A simple and delicious Chinese-inspired dish featuring stir-fried squash and crispy fried onions.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lovely squash",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "fried onions",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "syrian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "lovely garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lovely ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lovely soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "lovely sugar",
+      "amount": "1 tablespoon",
+      "notes": "for balance of flavors"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced squash and stir-fry until tender, about 5 minutes.",
+    "Add the minced garlic and grated ginger, and stir-fry for another minute.",
+    "Add the soy sauce and sugar, and stir-fry for another minute.",
+    "Add the crispy fried onions and stir-fry until well combined.",
+    "Serve hot and garnish with additional fried onions if desired.",
+    "Cook the squash over medium heat and check for doneness with a fork or knife.",
+    "Adjust the seasoning with soy sauce and sugar to taste.",
+    "Garnish with sesame seeds or chopped scallions if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "squash",
+    "onions",
+    "chinese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crunchy-syrian-squash-fried--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:28:00.973Z"
+}
