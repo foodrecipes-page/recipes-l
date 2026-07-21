@@ -21445,5 +21445,19 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "light-brazilian-fennel-bulb-bowl--vegetarian",
+    "title": "Braised Fennel and Bulb Bowl",
+    "tags": [
+      "vegetarian",
+      "brazilian",
+      "fennel",
+      "bulb",
+      "bowls"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "l"
   }
 ]
