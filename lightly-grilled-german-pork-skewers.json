@@ -1,0 +1,82 @@
+{
+  "slug": "lightly-grilled-german-pork-skewers",
+  "title": "Grilled German Pork Skewers",
+  "description": "A delicious and simple recipe for German-style pork skewers, marinated in a mix of herbs and spices, then grilled to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, dijon mustard, chopped onion, chopped parsley, garlic powder, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated pork cubes onto skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the pork is cooked through.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-grilled-german-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:07:43.909Z"
+}
