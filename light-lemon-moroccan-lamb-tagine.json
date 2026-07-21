@@ -1,0 +1,98 @@
+{
+  "slug": "light-lemon-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A classic North African dish made with tender lamb and aromatic spices, slow-cooked in a flavorful tagine.",
+  "cuisine": "North African",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea salt, or to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Brown the lamb on all sides, then set it aside.",
+    "Soften the onion in the same pot, then add the garlic, ginger, cumin, cinnamon, turmeric, and paprika. Cook, stirring constantly, for 1-2 minutes.",
+    "Add the browned lamb back to the pot, along with 1 cup of water.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until it's tender and falls apart easily.",
+    "Season the lamb with salt to taste, then stir in some chopped parsley.",
+    "Serve the lamb hot, garnished with additional parsley if desired.",
+    "Traditionally, the tagine is served over couscous, but it's also delicious with some crusty bread or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "north-african",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-lemon-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:04:32.756Z"
+}
