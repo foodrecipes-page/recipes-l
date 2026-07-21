@@ -1,0 +1,87 @@
+{
+  "slug": "light-argentinian-seafood-grill--keto",
+  "title": "Grilled Argentine-Style Steak with Chimichurri",
+  "description": "A classic Argentine dish featuring a grilled steak served with a tangy and herby chimichurri sauce.",
+  "cuisine": "argentinian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ribeye Steaks",
+      "amount": "4, 1.5 pounds each",
+      "notes": "Choose high-quality, grass-fed steaks for optimal flavor"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional for some heat"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 cup",
+      "notes": "High-quality, such as Argentine Malbec"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/2 cup",
+      "notes": "High-quality, such as Argentine extra virgin olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 teaspoons",
+      "notes": "Coarse, such as fleur de sel"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine parsley, oregano, garlic, red pepper flakes, red wine vinegar, and olive oil.",
+    "2. Blend until smooth, then season with salt and black pepper.",
+    "3. Heat a grill or grill pan to medium-high heat.",
+    "4. Season the steaks with salt, black pepper, and a drizzle of olive oil.",
+    "5. Grill the steaks for 3-4 minutes per side, or until they reach your desired level of doneness.",
+    "6. Transfer the steaks to a cutting board and let them rest for 5-10 minutes.",
+    "7. Slice the steaks against the grain and serve with chimichurri sauce spooned over the top.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "argentinian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "50g",
+    "carbs": "0g",
+    "fat": "40g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-argentinian-seafood-grill--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:03:39.880Z"
+}
