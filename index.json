@@ -4563,17 +4563,15 @@
   },
   {
     "slug": "light-herbal-jamaican-tofu-stir-fry",
-    "title": "Light Herbal Jamaican Tofu Stir-fry",
+    "title": "Jamaican Tofu Stir Fry",
     "tags": [
-      "herbal",
-      "light",
-      "stir-fry",
       "jamaican",
-      "vegetarian",
-      "egg-free"
+      "tofu",
+      "stirfry",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 32,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -21351,6 +21349,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-garlicky-spanish-garlic-paella--german",
+    "title": "German-Style Garlic Chicken Paella",
+    "tags": [
+      "german",
+      "paella",
+      "chicken",
+      "garlic",
+      "spicy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "l"
   }
 ]
