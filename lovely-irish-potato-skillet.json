@@ -1,7 +1,7 @@
 {
   "slug": "lovely-irish-potato-skillet",
-  "title": "Lovely Irish Skillet Hash",
-  "description": "A delicious and hearty hash dish made with Irish potatoes and lovely vegetables.",
+  "title": "Lovely Irish Potato Skillet",
+  "description": "A hearty and flavorful skillet dish featuring Irish potatoes, lovely additions, and a crispy finish.",
   "cuisine": "Irish",
   "diet": [
     "vegetarian"
@@ -10,45 +10,59 @@
   "ingredients": [
     {
       "name": "Irish potatoes",
-      "amount": "2 large",
-      "notes": "peeled and diced"
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
     },
     {
-      "name": "lovely",
-      "amount": "1 medium",
-      "notes": "onion, diced"
+      "name": "Lovely",
+      "amount": "1 cup",
+      "notes": "chopped, any variety"
     },
     {
-      "name": "skillet",
+      "name": "Skillet",
       "amount": "1",
-      "notes": "for cooking"
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
     }
   ],
   "instructions": [
-    "Heat the skillet over medium heat.",
-    "Add the diced onion and cook until softened, about 5 minutes.",
-    "Add the diced potatoes and cook for 10-12 minutes, or until they're tender and lightly browned.",
-    "Serve hot and enjoy!"
+    "Preheat oven to 400°F (200°C).",
+    "Heat the skillet over medium-high heat.",
+    "Add the sliced potatoes and cook for 5 minutes.",
+    "Add the chopped lovely and cook for another 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the potatoes are tender and golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Serve the lovely Irish potato skillet hot, garnished with chopped fresh herbs if desired."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
+    "breakfast",
     "irish",
-    "vegetarian",
-    "hash",
-    "breakfast"
+    "potatoes",
+    "skillet"
   ],
   "nutrition": {
     "calories": 250,
-    "protein": 4,
-    "carbs": 40,
+    "protein": 5,
+    "carbs": 35,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/lovely-irish-potato-skillet",
   "providerUsed": "groq",
-  "createdAt": "2026-07-16T17:57:20.548Z"
+  "createdAt": "2026-07-18T13:37:00.286Z"
 }
