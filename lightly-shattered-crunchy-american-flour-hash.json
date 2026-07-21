@@ -1,0 +1,85 @@
+{
+  "slug": "lightly-shattered-crunchy-american-flour-hash",
+  "title": "Crunchy Hash Brown Waffles",
+  "description": "A twist on traditional waffles, incorporating crunchy hash for added texture and flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup lightly shattered hash",
+      "amount": "",
+      "notes": "chopped into smaller pieces"
+    },
+    {
+      "name": "1/2 cup milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large egg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon baking powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons sugar",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat waffle iron to medium-high heat.",
+    "In a large bowl, whisk together flour, baking powder, salt, and sugar.",
+    "In a separate bowl, whisk together milk, egg, and vegetable oil.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Do not overmix.",
+    "Add the chopped hash and stir until evenly distributed.",
+    "Pour about 1/4 cup of the batter onto the center of the waffle iron.",
+    "Cook for 3-5 minutes or until the waffles are golden brown.",
+    "Repeat with remaining batter.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "waffles",
+    "hash-brown"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-shattered-crunchy-american-flour-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:55:08.252Z"
+}
