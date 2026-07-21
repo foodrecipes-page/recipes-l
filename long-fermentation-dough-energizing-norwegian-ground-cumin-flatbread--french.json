@@ -1,0 +1,58 @@
+{
+  "slug": "long-fermentation-dough-energizing-norwegian-ground-cumin-flatbread--french",
+  "title": "Norwegian Flatbread with Cumin Crust",
+  "description": "A traditional Norwegian flatbread with a twist of French cuisine, infused with the warm flavor of cumin.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "long fermentation flatbread dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "energizing norwegian flour",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the flatbread dough to a thickness of about 1/8 inch.",
+    "Mix the ground cumin with a pinch of salt and sprinkle evenly over the dough.",
+    "Bake the flatbread in the preheated oven for 12-15 minutes, or until it's golden brown and crispy.",
+    "Remove the flatbread from the oven and let it cool for a few minutes.",
+    "Cut the flatbread into smaller pieces and serve warm.",
+    "Optional: brush the flatbread with melted butter or olive oil for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "norwegian",
+    "flatbread",
+    "cumin",
+    "baking"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/long-fermentation-dough-energizing-norwegian-ground-cumin-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:59:21.171Z"
+}
