@@ -10053,17 +10053,16 @@
   },
   {
     "slug": "lightly-smoky-portuguese-chicken-grill",
-    "title": "Lightly Smoky Portuguese Chicken Grill",
+    "title": "Smoky Portuguese Chicken Grill",
     "tags": [
-      "grilled",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
+      "portuguese",
+      "grilled-chicken",
       "smoky",
-      "weeknight"
+      "summer",
+      "easy-dinner"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -21222,6 +21221,20 @@
       "onions"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "light-fresh-algerian-oats-tagine--vegetarian",
+    "title": "Vegetarian Algerian Oat Tagine",
+    "tags": [
+      "algerian",
+      "vegetarian",
+      "stew",
+      "oats",
+      "tagine"
+    ],
+    "cuisine": "Algerian",
     "totalTimeMin": 45,
     "shard": "l"
   }
