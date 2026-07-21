@@ -12974,18 +12974,15 @@
   },
   {
     "slug": "lovely-lacto-velvety-filipino-beef-bistek",
-    "title": "lovely lacto-velvety filipino beef bistek",
+    "title": "Filipino Beef Bistek",
     "tags": [
       "beef",
-      "comfort-food",
-      "filipino-cuisine",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "filipino",
+      "lacto",
+      "bistek"
     ],
     "cuisine": "filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -21421,6 +21418,32 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "light-argentinian-seafood-grill--keto",
+    "title": "Grilled Argentine-Style Steak with Chimichurri",
+    "tags": [
+      "grill",
+      "argentinian",
+      "seafood"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-thai-new-potatoes-curry--french",
+    "title": "French-Inspired Thai Curry Potatoes",
+    "tags": [
+      "french",
+      "thai",
+      "curry",
+      "potatoes",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "l"
   }
 ]
