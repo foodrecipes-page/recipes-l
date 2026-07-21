@@ -1,0 +1,87 @@
+{
+  "slug": "light-herbal-jamaican-tofu-stir-fry",
+  "title": "Jamaican Tofu Stir Fry",
+  "description": "A flavorful and spicy stir fry featuring marinated tofu and a blend of Jamaican herbs. Serve over rice or noodles for a satisfying meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "jamaican herbs",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "stir fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the tofu in light soy sauce, olive oil, and Jamaican herbs for at least 30 minutes.",
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the onion and bell pepper and stir-fry for 3-4 minutes, until tender.",
+    "Add the marinated tofu and stir-fry for another 3-4 minutes, until golden brown.",
+    "Add the stir fry sauce and stir-fry for 1 minute, until the sauce is bubbly and slightly thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "tofu",
+    "stirfry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-herbal-jamaican-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:57:59.108Z"
+}
