@@ -1,0 +1,98 @@
+{
+  "slug": "light-garlicky-spanish-garlic-paella--german",
+  "title": "German-Style Garlic Chicken Paella",
+  "description": "A twist on the classic Spanish dish, this German-inspired paella recipe incorporates garlic chicken and a hint of Spanish flavors.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "garlic",
+      "amount": "4-5 cloves",
+      "notes": ""
+    },
+    {
+      "name": "light paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "spanish saffron",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the garlic to the skillet and cook for 1-2 minutes, until fragrant.",
+    "Add the paella rice to the skillet and cook for 2-3 minutes, until lightly toasted.",
+    "Add the chicken broth, smoked paprika, and saffron to the skillet.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Add the cooked chicken back to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired.",
+    "Let the paella rest for 5 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "paella",
+    "chicken",
+    "garlic",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-garlicky-spanish-garlic-paella--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:26:02.575Z"
+}
