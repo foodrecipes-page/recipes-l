@@ -1,0 +1,88 @@
+{
+  "slug": "luscious-thai-new-potatoes-curry--french",
+  "title": "French-Inspired Thai Curry Potatoes",
+  "description": "A fusion dish combining the flavors of France and Thailand, with tender potatoes in a rich and creamy curry sauce.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "4-5 medium-sized potatoes, peeled and cubed"
+    },
+    {
+      "name": "luscious curry",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium-sized onion, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the cubed potatoes and sauté for 5-7 minutes, or until they start to brown.",
+    "Add the luscious curry, thai red curry paste, and vegetable broth to the skillet.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to medium-low and let cook for 10-12 minutes, or until the potatoes are tender.",
+    "Stir in the coconut milk and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro.",
+    "Enjoy your delicious French-inspired Thai curry potatoes!",
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Reheat in the oven or microwave until hot and steamy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "thai",
+    "curry",
+    "potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-thai-new-potatoes-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:41:56.302Z"
+}
