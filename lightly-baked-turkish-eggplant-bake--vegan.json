@@ -1,0 +1,74 @@
+{
+  "slug": "lightly-baked-turkish-eggplant-bake--vegan",
+  "title": "Turkish-Style Roasted Eggplant",
+  "description": "A flavorful and vegan-friendly twist on traditional Turkish eggplant dishes. This recipe is perfect for a weeknight dinner or as a side dish for a special occasion.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C). Cut the eggplant in half lengthwise and place on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the eggplant, followed by the lemon juice, garlic, smoked paprika, and salt. Toss to coat evenly.",
+    "Bake the eggplant for 30-40 minutes, or until tender and lightly charred.",
+    "Remove the eggplant from the oven and let it cool slightly. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "turkish",
+    "eggplant",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-baked-turkish-eggplant-bake--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:21:17.595Z"
+}
