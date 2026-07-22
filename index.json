@@ -21784,5 +21784,31 @@
     "cuisine": "italian",
     "totalTimeMin": 18,
     "shard": "l"
+  },
+  {
+    "slug": "lightly-grilled-german-pork-skewers--italian",
+    "title": "Grilled Pork Skewers Italian Style",
+    "tags": [
+      "italian",
+      "grilled",
+      "pork",
+      "skewers"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 31,
+    "shard": "l"
+  },
+  {
+    "slug": "lacto-sour-slovakian-sunflower-seeds-skillet--keto",
+    "title": "Slovakian Keto Skillet",
+    "tags": [
+      "keto",
+      "slovakian",
+      "skillet",
+      "dinner"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
