@@ -1,0 +1,73 @@
+{
+  "slug": "light-silky-turkish-bok-choi-kofte",
+  "title": "Turkish Kofte with Bok Choi Stir Fry",
+  "description": "A flavorful and easy-to-make Turkish-inspired dish featuring kofte and bok choy stir-fried in a savory sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish Kofte",
+      "amount": "1 pound",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Bok Choi",
+      "amount": "1 bunch",
+      "notes": "stems separated"
+    },
+    {
+      "name": "Silky Light Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add garlic and ginger; cook for 1-2 minutes, until fragrant.",
+    "Add kofte; cook for 2-3 minutes, until browned.",
+    "Add bok choy; cook, stirring occasionally, until wilted.",
+    "Stir in soy sauce; cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro (optional).",
+    "Cook kofte to an internal temperature of 160°F (71°C).",
+    "Cook bok choy until tender, about 3-5 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "stir-fry",
+    "kofte",
+    "bok-choi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-silky-turkish-bok-choi-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:38:45.884Z"
+}
