@@ -1,0 +1,84 @@
+{
+  "slug": "lemon-laced-french-chicken-wings-confit",
+  "title": "Crispy Chicken Confit Wings with Lemon",
+  "description": "A twist on traditional confit, these crispy chicken wings are marinated in a mixture of herbs and spices, then baked until caramelized and finished with a squeeze of lemon.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "drumsticks and flats"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for baking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "confit",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken wings to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the chicken wings in a single layer.",
+    "Bake for 25-30 minutes or until the wings are cooked through and caramelized.",
+    "Remove the wings from the oven and toss with confit until well coated.",
+    "Return the wings to the oven and bake for an additional 5-7 minutes or until the confit is caramelized and sticky.",
+    "Remove the wings from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "lemon",
+    "confit",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-laced-french-chicken-wings-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:24:39.402Z"
+}
