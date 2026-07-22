@@ -1,0 +1,80 @@
+{
+  "slug": "lazy-algerian-fideo-tagine--french",
+  "title": "Chicken and Vegetable Tagine",
+  "description": "A classic French-inspired dish from North Africa, made with flavorful chicken, vegetables, and a hint of spice.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lazy Fideo Pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Algerian Chicken",
+      "amount": "1 1/2 lbs"
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the fideo pasta according to the package instructions. Drain and set aside.",
+    "Season the chicken with salt, black pepper, and tagine spice blend. Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook until browned, about 5-7 minutes. Transfer the chicken to a baking dish.",
+    "Add the onion, carrot, and zucchini to the skillet. Cook until the vegetables are tender, about 5-7 minutes.",
+    "Add the cooked fideo pasta to the skillet and stir to combine with the vegetables.",
+    "Transfer the pasta mixture to the baking dish with the chicken. Cover with aluminum foil and bake for 20-25 minutes, or until the chicken is cooked through.",
+    "Remove the foil and bake for an additional 5-10 minutes, or until the top is lightly browned.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "vegetable",
+    "pasta",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-algerian-fideo-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:25:00.417Z"
+}
