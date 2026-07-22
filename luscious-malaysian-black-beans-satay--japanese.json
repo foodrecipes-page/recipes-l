@@ -1,0 +1,64 @@
+{
+  "slug": "luscious-malaysian-black-beans-satay--japanese",
+  "title": "Black Bean Satay",
+  "description": "A Japanese-inspired twist on the classic Southeast Asian dish, featuring grilled black bean satay served with a sweet and tangy sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 can (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "luscious (honey)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "malaysian (peanut oil)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "satay (skewers)",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak the satay skewers in water for at least 30 minutes.",
+    "Drain and pat dry the skewers with paper towels.",
+    "Thread 3-4 black beans onto each skewer.",
+    "Brush the skewers with peanut oil and season with salt and pepper.",
+    "Grill the satay for 2-3 minutes per side, or until the black beans are tender and slightly charred.",
+    "Meanwhile, whisk together honey and 2 tbsp of water in a small bowl.",
+    "Brush the honey glaze onto the grilled satay and serve immediately.",
+    "Optional: Serve with additional honey glaze for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-malaysian-black-beans-satay--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:15:33.059Z"
+}
