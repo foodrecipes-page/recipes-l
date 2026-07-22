@@ -1,0 +1,83 @@
+{
+  "slug": "light-comforting-doner-wraps--keto",
+  "title": "Keto Doner Wrap",
+  "description": "A low-carb twist on the classic doner kebab, wrapped in a comforting and crunchy lettuce leaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Doner meat",
+      "amount": "200g",
+      "notes": "Lean beef or lamb, thinly sliced"
+    },
+    {
+      "name": "Lettuce leaf",
+      "amount": "1",
+      "notes": "Large, crisp lettuce leaf"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/4",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2",
+      "notes": "Mashed"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "50g",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cook the doner meat for 3-4 minutes per side, or until cooked through.",
+    "Warm the lettuce leaf by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the mashed avocado on the lettuce leaf, followed by the cooked doner meat.",
+    "Add the sliced tomato, red onion, and cucumber on top of the meat.",
+    "Sprinkle with chilli flakes and feta cheese if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "doner",
+    "wrap",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "10g",
+    "fat": "42g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-comforting-doner-wraps--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:11:19.704Z"
+}
