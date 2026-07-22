@@ -1,0 +1,91 @@
+{
+  "slug": "lively-snappy-peruvian-apricot-suspiro-limeno--japanese",
+  "title": "Grilled Snappy Apricot Skewers with Peruvian Sauce",
+  "description": "A Japanese-inspired sweet and savory dish featuring grilled apricot skewers served with a Peruvian-style sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Snappy apricots",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian",
+      "amount": "2 tablespoons",
+      "notes": "Chili pepper paste"
+    },
+    {
+      "name": "Lively",
+      "amount": "1/4 cup",
+      "notes": "Fresh cilantro, chopped"
+    },
+    {
+      "name": "Suspiro",
+      "amount": "1/2 cup",
+      "notes": "Dulce de leche"
+    },
+    {
+      "name": "Apricot jam",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grill oil",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the apricots onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together the Peruvian, lively, and apricot jam.",
+    "Brush the mixture onto both sides of the apricot skewers.",
+    "Grill the skewers for 2-3 minutes per side, or until lightly charred.",
+    "In a small saucepan, heat the suspiro over low heat.",
+    "Add the lime juice and stir to combine.",
+    "Season with salt and sugar to taste.",
+    "Serve the grilled apricot skewers with the Peruvian sauce.",
+    "Garnish with additional lively, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-apricots",
+    "snappy-apricots",
+    "peruvian-sauce",
+    "japanese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-snappy-peruvian-apricot-suspiro-limeno--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:32:40.673Z"
+}
