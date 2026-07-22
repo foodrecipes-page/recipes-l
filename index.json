@@ -21590,5 +21590,32 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "light-charred-filipino-rice-noodles-pancit-bihon--italian",
+    "title": "Charred Filipino Bihon Noodle Stir Fry",
+    "tags": [
+      "italian",
+      "filipino",
+      "vegetarian",
+      "pasta",
+      "noodles"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-creamy-turkish-potatoes-pide--thai",
+    "title": "Thai-Style Pide Potato Cakes",
+    "tags": [
+      "thaicuisine",
+      "potato",
+      "pide",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "l"
   }
 ]
