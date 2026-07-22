@@ -1,0 +1,84 @@
+{
+  "slug": "lightly-grilled-german-pork-skewers--italian",
+  "title": "Grilled Pork Skewers Italian Style",
+  "description": "Tender and flavorful grilled pork skewers infused with the bright, herby flavors of Italy. Perfect for a summer evening meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Choose a high-quality pork shoulder for the best flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, extra-virgin olive oil for the best flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed is best"
+    },
+    {
+      "name": "chopped fresh rosemary",
+      "amount": "1 tablespoon",
+      "notes": "Choose fresh rosemary for the best flavor"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use high-quality, fresh garlic for the best flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality, flaky sea salt for the best flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Use a high-quality, freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality, homemade Italian seasoning blend for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread pork cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together olive oil, lemon juice, rosemary, garlic, salt, and black pepper.",
+    "Brush the mixture onto the pork skewers, making sure they're evenly coated.",
+    "Season with Italian seasoning.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork is cooked through and lightly charred.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve immediately, garnished with fresh rosemary and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-grilled-german-pork-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:34:23.157Z"
+}
