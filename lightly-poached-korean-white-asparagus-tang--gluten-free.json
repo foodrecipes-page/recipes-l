@@ -1,0 +1,86 @@
+{
+  "slug": "lightly-poached-korean-white-asparagus-tang--gluten-free",
+  "title": "Pan-Seared Korean-Style Asparagus with Lemon-Tahini Sauce",
+  "description": "A flavorful and refreshing side dish made with tender asparagus, a tangy lemon-tahini sauce, and a hint of Korean chili flakes. Perfect for a quick and easy dinner or as a accompaniment to your favorite meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or gluten-free alternative"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "tang",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Bring a pot of salted water to a boil and blanch the asparagus for 3-5 minutes, or until tender.",
+    "2. Remove the asparagus from the water and set aside to cool.",
+    "3. In a small bowl, whisk together the tahini, lemon juice, ghee or oil, soy sauce, and chili flakes until smooth.",
+    "4. Add the cooled asparagus to the bowl and toss to coat with the lemon-tahini sauce.",
+    "5. Season with salt and black pepper to taste.",
+    "6. Serve immediately, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "asparagus",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-poached-korean-white-asparagus-tang--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:55:25.798Z"
+}
