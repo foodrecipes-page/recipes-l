@@ -12632,14 +12632,15 @@
   },
   {
     "slug": "lovely-dark-kenyan-molasses-bowl",
-    "title": "Kenyan Dark Molasses Bread",
+    "title": "Kenyan Molasses Cookies",
     "tags": [
-      "bread",
-      "breakfast",
+      "sweet",
+      "cookies",
+      "molasses",
       "african"
     ],
     "cuisine": "African",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -21458,6 +21459,47 @@
     ],
     "cuisine": null,
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-silky-japanese-mushrooms-yakitori--japanese",
+    "title": "Grilled Yakitori with Shiitake Mushrooms",
+    "tags": [
+      "grilled",
+      "skewers",
+      "chicken",
+      "mushrooms",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-charred-spanish-lamb-tagine--thai",
+    "title": "Charred Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "thaicuisine",
+      "slowcooker",
+      "comfortfood"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 135,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-molten-moroccan-chinese-long-beans-zaalouk--italian",
+    "title": "Italian-Style Stewed Beans",
+    "tags": [
+      "italian",
+      "stew",
+      "beans",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "l"
   }
 ]
