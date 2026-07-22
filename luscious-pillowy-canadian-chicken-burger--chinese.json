@@ -1,0 +1,67 @@
+{
+  "slug": "luscious-pillowy-canadian-chicken-burger--chinese",
+  "title": "Crunchy Canadian Chicken Bites",
+  "description": "A twist on traditional chicken nuggets, these bite-sized morsels are perfect for any Chinese-inspired meal. Crispy on the outside and juicy on the inside, they're sure to delight.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound",
+      "notes": "boneless, skinless breasts"
+    },
+    {
+      "name": "luscious",
+      "amount": "1/4 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "pillowy",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "canadian",
+      "amount": "1 teaspoon",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "burger",
+      "amount": "1/4 teaspoon",
+      "notes": "salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "In a shallow dish, mix together flour, soy sauce, and salt.",
+    "Dip each chicken piece into the flour mixture, coating evenly.",
+    "Carefully place coated chicken into the hot oil.",
+    "Fry for 5-7 minutes or until golden brown and cooked through.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "deep-fried",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-pillowy-canadian-chicken-burger--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:54:38.954Z"
+}
