@@ -1,0 +1,60 @@
+{
+  "slug": "light-garlicky-fenugreek-stir-fry",
+  "title": "Fenugreek Stir Fry",
+  "description": "A simple and flavorful fenugreek stir fry made with light and garlicky flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fenugreek",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light oil",
+      "amount": "2 tablespoons",
+      "notes": "For high heat"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add fenugreek and stir fry for 3-4 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with additional fenugreek if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fenugreek",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-garlicky-fenugreek-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:32:23.118Z"
+}
