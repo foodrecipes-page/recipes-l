@@ -1,0 +1,75 @@
+{
+  "slug": "lively-briny-mexican-pumpkin-tacos--japanese",
+  "title": "Taco-Style Gyoza",
+  "description": "Japanese-style pan-fried dumplings with a taco-inspired twist.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "lively cabbage",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "mexican cheese blend",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "1 package of round wonton wrappers",
+      "amount": "24-30 wrappers",
+      "notes": "usually found in the produce or international aisle"
+    },
+    {
+      "name": "tacos",
+      "amount": "1 (6-pack) taco shells",
+      "notes": "or make your own taco 'shells' using crispy wonton wrappers"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or a cast-iron pan over medium-high heat.",
+    "In a mixing bowl, combine cabbage, cheese, and a pinch of salt. Mix well.",
+    "Lay a wonton wrapper flat on a clean surface. Place a small spoonful of the cabbage mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point. Press the edges together to seal the gyoza.",
+    "Heat 1 tablespoon of sesame oil in the preheated pan and add the gyoza. Pan-fry until golden brown on the bottom, about 2-3 minutes.",
+    "Flip the gyoza over and add 1 tablespoon of soy sauce to the pan. Cook for an additional 2-3 minutes, until the sauce has been absorbed and the gyoza is cooked through.",
+    "Serve the taco gyoza hot with your favorite toppings, such as sriracha or green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "taco",
+    "gyoza",
+    "pan-fried",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-briny-mexican-pumpkin-tacos--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:45:21.410Z"
+}
