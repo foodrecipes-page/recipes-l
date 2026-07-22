@@ -1,0 +1,82 @@
+{
+  "slug": "luscious-malaysian-black-beans-satay--mexican",
+  "title": "Mexican Black Bean Satay",
+  "description": "A twist on traditional Mexican cuisine, these grilled black beans are seasoned with the flavors of Malaysian satay.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 can (15 ounces)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "luscious",
+      "amount": "2 tablespoons",
+      "notes": "mango chutney"
+    },
+    {
+      "name": "malaysian",
+      "amount": "2 tablespoons",
+      "notes": "peanut sauce"
+    },
+    {
+      "name": "satay",
+      "amount": "2 tablespoons",
+      "notes": "spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together mango chutney, peanut sauce, and satay spice blend.",
+    "Add black beans to the bowl and toss to coat.",
+    "Brush grill with olive oil.",
+    "Grill black bean mixture for 5-7 minutes per side, or until slightly charred.",
+    "Serve black bean mixture with lime juice, salt, and pepper to taste.",
+    "Garnish with additional mango chutney, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "snack",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-malaysian-black-beans-satay--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:10:41.842Z"
+}
