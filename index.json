@@ -21617,5 +21617,68 @@
     "cuisine": "thai",
     "totalTimeMin": 22,
     "shard": "l"
+  },
+  {
+    "slug": "lively-snappy-peruvian-apricot-suspiro-limeno--japanese",
+    "title": "Grilled Snappy Apricot Skewers with Peruvian Sauce",
+    "tags": [
+      "grilled-apricots",
+      "snappy-apricots",
+      "peruvian-sauce",
+      "japanese-cuisine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoky-portuguese-chicken-grill--italian",
+    "title": "Smoky Chicken Italian Grill",
+    "tags": [
+      "italian",
+      "grilled-chicken",
+      "smoky"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-briny-mexican-pumpkin-tacos--japanese",
+    "title": "Taco-Style Gyoza",
+    "tags": [
+      "japanese",
+      "taco",
+      "gyoza",
+      "pan-fried",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lemony-crisp-syrian-chicken-bowl--mexican",
+    "title": "Crisp Syrian Chicken Fajitas",
+    "tags": [
+      "chicken",
+      "mexican",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-malaysian-black-beans-satay--japanese",
+    "title": "Black Bean Satay",
+    "tags": [
+      "grilled",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "l"
   }
 ]
