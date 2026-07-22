@@ -1,0 +1,91 @@
+{
+  "slug": "lacto-sour-slovakian-sunflower-seeds-skillet--keto",
+  "title": "Slovakian Keto Skillet",
+  "description": "A flavorful Slovakian dish with a twist, made keto-friendly. The skillet is cooked to perfection with a variety of ingredients for a delicious meal.",
+  "cuisine": "slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "cast-iron"
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1 pound",
+      "notes": "use keto-friendly ingredients"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the bacon and cook until crispy. Remove from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until softened.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the Slovakian sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Stir in the sunflower seeds and cook for 1-2 minutes.",
+    "Return the bacon to the skillet and stir to combine.",
+    "Stir in the sour cream and cook for 1-2 minutes, until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley if desired.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "slovakian",
+    "skillet",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacto-sour-slovakian-sunflower-seeds-skillet--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:15:44.022Z"
+}
