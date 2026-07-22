@@ -1,0 +1,88 @@
+{
+  "slug": "laudable-uruguayan-chivito-empanadas--mexican",
+  "title": "Uruguayan Chivito Empanadas",
+  "description": "A twist on traditional empanadas, filling them with Uruguayan-style chivito meat and serving them with a Mexican flair.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chivito Sauce",
+      "amount": "1/4 cup",
+      "notes": "Uruguayan-style"
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Laudable Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the empanada dough to a thickness of 1/8 inch.",
+    "3. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "4. In a pan, heat the Laudable Olive Oil over medium heat.",
+    "5. Add the chopped onion and cook until translucent.",
+    "6. Add the diced red bell pepper and cook for an additional 2 minutes.",
+    "7. Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "8. Stir in the Chivito Sauce and cook for 1 minute.",
+    "9. Place a tablespoon of the beef mixture onto one half of each dough circle.",
+    "10. Sprinkle shredded cheese over the beef mixture.",
+    "11. Fold the dough in half to form a half-moon shape and press the edges together to seal.",
+    "12. Place the empanadas on a baking sheet lined with parchment paper and brush with Laudable Olive Oil.",
+    "13. Bake for 15-20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "empanadas",
+    "chivito"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/laudable-uruguayan-chivito-empanadas--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:13:47.485Z"
+}
