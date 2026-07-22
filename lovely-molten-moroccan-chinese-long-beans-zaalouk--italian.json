@@ -1,0 +1,78 @@
+{
+  "slug": "lovely-molten-moroccan-chinese-long-beans-zaalouk--italian",
+  "title": "Italian-Style Stewed Beans",
+  "description": "A hearty, comforting stew originating from Italy, featuring tender beans in a rich, flavorful sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lovely beans",
+      "amount": "1 cup, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "moroccan spices",
+      "amount": "1 teaspoon",
+      "notes": "blend of cumin, coriander, and paprika"
+    },
+    {
+      "name": "chinese long chili peppers",
+      "amount": "1, sliced",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "zaalouk",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with tomato paste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the sliced chili peppers and cook for 2-3 minutes, until they start to soften.",
+    "Add the lovely beans, moroccan spices, and zaalouk (or tomato paste). Stir well to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and let cook, covered, for 20-25 minutes, or until the beans are tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or basil, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "stew",
+    "beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-molten-moroccan-chinese-long-beans-zaalouk--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:50:01.647Z"
+}
