@@ -1,0 +1,89 @@
+{
+  "slug": "light-buttery-slovakian-tiger-prawns-fried-rice--japanese",
+  "title": "Tiger Prawn Tempura",
+  "description": "A Japanese-inspired seafood dish where prawns are coated in a light and crispy batter, deep-fried to perfection.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "12",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Slovakian all-purpose flour",
+      "amount": "1 cup",
+      "notes": "For tempura batter"
+    },
+    {
+      "name": "Light, buttery beer",
+      "amount": "1 cup",
+      "notes": "For tempura batter"
+    },
+    {
+      "name": "Fried Tiger",
+      "amount": "1/2 cup",
+      "notes": "For extra flavor"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1/2 cup",
+      "notes": "For tempura batter"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Slovakian flour, rice flour, and salt.",
+    "2. Gradually add in light, buttery beer, whisking until smooth.",
+    "3. Add in fried Tiger and mix until combined.",
+    "4. Cut prawns in half lengthwise and pat dry with paper towels.",
+    "5. Dust prawns with all-purpose flour, shaking off excess.",
+    "6. Dip floured prawns in tempura batter, coating completely.",
+    "7. Heat vegetable oil in a deep frying pan to 180°C.",
+    "8. Fry prawns in batches until golden brown and crispy.",
+    "9. Drain on paper towels and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "seafood",
+    "tempura"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-buttery-slovakian-tiger-prawns-fried-rice--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:23:18.909Z"
+}
