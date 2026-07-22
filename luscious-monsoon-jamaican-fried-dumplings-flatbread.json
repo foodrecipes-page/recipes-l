@@ -1,0 +1,63 @@
+{
+  "slug": "luscious-monsoon-jamaican-fried-dumplings-flatbread",
+  "title": "Jamaican Fried Dumplings Flatbread",
+  "description": "A twist on traditional flatbread, filled with spiced dumplings and fried to perfection.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Jamaican Fried Dumplings",
+      "amount": "1 package"
+    },
+    {
+      "name": "Monsoon Seasoning Blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 inches of vegetable oil in a deep frying pan to 375°F (190°C).",
+    "Cut the flatbread into 4 triangles.",
+    "Cut the Jamaican fried dumplings into small pieces.",
+    "In a bowl, mix together the monsoon seasoning blend and a pinch of salt.",
+    "Dredge the flatbread triangles in the seasoned mixture, pressing gently to adhere.",
+    "Fry the flatbread triangles in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the fried flatbread on paper towels.",
+    "Fry the Jamaican fried dumplings in batches until crispy, about 2-3 minutes per side.",
+    "Drain the fried dumplings on paper towels.",
+    "Serve the fried dumplings on top of the fried flatbread triangles.",
+    "Enjoy as a snack!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "fried",
+    "snack",
+    "flatbread",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-monsoon-jamaican-fried-dumplings-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:22:52.506Z"
+}
