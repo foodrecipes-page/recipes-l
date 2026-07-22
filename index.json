@@ -4365,15 +4365,14 @@
   },
   {
     "slug": "light-garlicky-fenugreek-stir-fry",
-    "title": "Light Garlicky Fenugreek Stir-fry",
+    "title": "Fenugreek Stir Fry",
     "tags": [
-      "light-fare",
-      "indulgent-greek-dish",
-      "slow-cooked",
-      "plant-based-friendly"
+      "fenugreek",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
@@ -5421,14 +5420,13 @@
   },
   {
     "slug": "light-middle-eastern-chickpeas-hummus-fold",
-    "title": "Light Middle-Eastern Chickpeas Hummus Fold",
+    "title": "Middle Eastern Chickpea Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-fat",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "chickpeas",
+      "hummus",
+      "wrap",
+      "lunch",
+      "snack"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 15,
@@ -21760,6 +21758,31 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "laudable-uruguayan-chivito-empanadas--mexican",
+    "title": "Uruguayan Chivito Empanadas",
+    "tags": [
+      "mexican",
+      "empanadas",
+      "chivito"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-seasoned-jamaican-snapper-fish-grill--italian",
+    "title": "Grilled Jamaican Snapper",
+    "tags": [
+      "italian",
+      "grilled",
+      "fish",
+      "seafood"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
     "shard": "l"
   }
 ]
