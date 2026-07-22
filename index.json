@@ -6633,17 +6633,15 @@
   },
   {
     "slug": "light-spicy-egyptian-fish-tagine",
-    "title": "Light Spicy Egyptian Fish Tagine",
+    "title": "Spicy Fish Tagine",
     "tags": [
-      "egyptian-cuisine",
-      "fish-recipes",
-      "healthy-dinner",
-      "one-pan",
-      "pescatarian-friendly",
-      "spicy-food"
+      "fish",
+      "north-african",
+      "stew",
+      "egyptian"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -14655,18 +14653,16 @@
   },
   {
     "slug": "low-smoky-portuguese-chicken-skewers",
-    "title": "Low Smoky Portuguese Chicken Skewers",
+    "title": "Low and Smoky Portuguese Chicken Skewers",
     "tags": [
       "chicken",
-      "grilled",
-      "low-carb",
       "portuguese",
       "skewers",
-      "smoky",
-      "weeknight"
+      "grill",
+      "summer"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
