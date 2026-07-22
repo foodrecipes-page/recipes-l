@@ -21755,5 +21755,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 13,
     "shard": "l"
+  },
+  {
+    "slug": "lazy-algerian-fideo-tagine--french",
+    "title": "Chicken and Vegetable Tagine",
+    "tags": [
+      "chicken",
+      "vegetable",
+      "pasta",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "l"
   }
 ]
