@@ -1,0 +1,89 @@
+{
+  "slug": "low-smoky-portuguese-chicken-skewers",
+  "title": "Low and Smoky Portuguese Chicken Skewers",
+  "description": "A flavorful and healthy summer dish, these skewers bring together the smokiness of Portuguese spices with the juiciness of chicken.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "portuguese seasoning",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together soy sauce, portuguese seasoning, smoked paprika, and olive oil.",
+    "3. Add chicken to the bowl and toss to coat.",
+    "4. Thread chicken onto skewers, leaving a small space between each piece.",
+    "5. Grill skewers for 10-12 minutes, or until chicken is cooked through.",
+    "6. Brush with lemon juice during the last 2 minutes of grilling.",
+    "7. Garnish with parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "portuguese",
+    "skewers",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-smoky-portuguese-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:07:44.909Z"
+}
