@@ -1,0 +1,92 @@
+{
+  "slug": "luxurious-silky-japanese-mushrooms-yakitori--japanese",
+  "title": "Grilled Yakitori with Shiitake Mushrooms",
+  "description": "A classic Japanese skewer dish featuring marinated chicken and sautéed shiitake mushrooms. Perfect for a quick and easy dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "8 ounces, sliced",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "yakitori sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Japanese or regular"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together yakitori sauce, soy sauce, and sugar.",
+    "3. Add chicken and mushrooms to the bowl, and toss to coat with the marinade.",
+    "4. Thread chicken and mushrooms onto skewers, leaving a small space between each piece.",
+    "5. Brush the grill with sesame oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes, or until the chicken is cooked through and the mushrooms are tender.",
+    "7. Season with salt and pepper to taste.",
+    "8. Garnish with chopped green onions, if desired.",
+    "9. Serve hot and enjoy!",
+    "10. Optional: Serve with steamed rice or noodles for a more substantial meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "chicken",
+    "mushrooms",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-silky-japanese-mushrooms-yakitori--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:22:31.531Z"
+}
