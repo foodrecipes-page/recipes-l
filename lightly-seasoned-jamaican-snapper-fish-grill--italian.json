@@ -1,0 +1,66 @@
+{
+  "slug": "lightly-seasoned-jamaican-snapper-fish-grill--italian",
+  "title": "Grilled Jamaican Snapper",
+  "description": "A flavorful Italian-inspired dish featuring a lightly seasoned Jamaican snapper, grilled to perfection.",
+  "cuisine": "italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamaican snapper fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lightly seasoned Italian seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the snapper fillets with lightly seasoned Italian seasoning.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Place the snapper fillets on the grill and cook for 4-5 minutes per side.",
+    "Remove the snapper from the grill and serve immediately with lemon wedges.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-seasoned-jamaican-snapper-fish-grill--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:49:39.513Z"
+}
