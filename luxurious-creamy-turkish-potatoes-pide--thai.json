@@ -1,0 +1,73 @@
+{
+  "slug": "luxurious-creamy-turkish-potatoes-pide--thai",
+  "title": "Thai-Style Pide Potato Cakes",
+  "description": "A creative twist on traditional Thai cuisine, these crispy potato cakes are infused with the flavors of Turkish pide and creamy luxurious touches.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "pide",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "luxurious cream cheese",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "turkish spices",
+      "amount": "1 teaspoon",
+      "notes": "mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, diced pide, softened cream cheese, and turkish spices. Mix well to combine.",
+    "Add chopped green onions to the bowl and mix until just combined.",
+    "Using your hands, shape the mixture into 8-10 patties.",
+    "Heat coconut oil in a large non-stick skillet over medium-high heat.",
+    "Add 4-5 patties to the skillet and flatten slightly with a spatula.",
+    "Cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "Repeat with remaining patties.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "potato",
+    "pide",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-creamy-turkish-potatoes-pide--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:17:45.523Z"
+}
