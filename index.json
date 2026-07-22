@@ -2141,17 +2141,15 @@
   },
   {
     "slug": "lemon-laced-french-chicken-wings-confit",
-    "title": "Lemon Laced French Chicken Wings Confit",
+    "title": "Crispy Chicken Confit Wings with Lemon",
     "tags": [
-      "cataplana",
+      "chicken",
+      "lemon",
       "confit",
-      "ice-bath",
-      "lemon-laced",
-      "monsoon-french",
-      "savory-crisp"
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -21500,6 +21498,97 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-comforting-doner-wraps--keto",
+    "title": "Keto Doner Wrap",
+    "tags": [
+      "keto",
+      "low-carb",
+      "doner",
+      "wrap",
+      "comforting"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-baked-turkish-eggplant-bake--vegan",
+    "title": "Turkish-Style Roasted Eggplant",
+    "tags": [
+      "vegan",
+      "turkish",
+      "eggplant",
+      "roasted"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-lemon-moroccan-lamb-tagine--italian",
+    "title": "Moroccan Lamb Tagine with Italian Twist",
+    "tags": [
+      "italian-moroccan",
+      "lamb",
+      "tagine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-smoky-mexican-chicken-tacos--japanese",
+    "title": "Japanese Chicken Tacos",
+    "tags": [
+      "japanese",
+      "mexican-fusion",
+      "chicken",
+      "tacos"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "low-glycemic-french-choux-gougere--japanese",
+    "title": "Low Carb Japanese Gougere",
+    "tags": [
+      "low-carb",
+      "japanese",
+      "gougere",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-pillowy-canadian-chicken-burger--chinese",
+    "title": "Crunchy Canadian Chicken Bites",
+    "tags": [
+      "chicken",
+      "deep-fried",
+      "snack",
+      "easy-to-make"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-melted-brazilian-chicken-gratin--thai",
+    "title": "Thai Chicken Gratin",
+    "tags": [
+      "thaicuisine",
+      "chicken",
+      "gratin",
+      "coconutmilk"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "l"
   }
 ]
