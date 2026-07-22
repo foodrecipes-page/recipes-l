@@ -6347,17 +6347,16 @@
   },
   {
     "slug": "light-silky-turkish-bok-choi-kofte",
-    "title": "Light Silky Turkish Bok Choi Kofte",
+    "title": "Turkish Kofte with Bok Choi Stir Fry",
     "tags": [
-      "bok-choi-recipe",
-      "diabetic-friendly",
-      "healthy-dinner",
-      "kofte-recipe",
-      "low-carb",
-      "turkish-cuisine"
+      "turkish",
+      "vegetarian",
+      "stir-fry",
+      "kofte",
+      "bok-choi"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 38,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -21679,6 +21678,46 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 23,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-poached-korean-white-asparagus-tang--gluten-free",
+    "title": "Pan-Seared Korean-Style Asparagus with Lemon-Tahini Sauce",
+    "tags": [
+      "korean",
+      "asparagus",
+      "gluten-free",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-simmered-irish-semolina-pilaf--indian",
+    "title": "Saffron Semolina Pilaf",
+    "tags": [
+      "indian",
+      "saffron",
+      "pilaf",
+      "semolina",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-malaysian-black-beans-satay--mexican",
+    "title": "Mexican Black Bean Satay",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "snack",
+      "grilled"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "l"
   }
 ]
