@@ -1,0 +1,85 @@
+{
+  "slug": "light-charred-filipino-rice-noodles-pancit-bihon--italian",
+  "title": "Charred Filipino Bihon Noodle Stir Fry",
+  "description": "A fusion twist on traditional Italian pasta, using Filipino noodles and charred vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "light pancit bihon noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "charred bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "charred zucchini",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the bihon noodles according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the charred bell peppers and zucchini, cooking for 2-3 minutes.",
+    "Add the garlic and chili flakes, cooking for 1 minute.",
+    "Add the cooked noodles to the skillet, tossing to combine with the vegetables.",
+    "Season with salt to taste.",
+    "Transfer to a serving dish and top with parmesan cheese.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "filipino",
+    "vegetarian",
+    "pasta",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-charred-filipino-rice-noodles-pancit-bihon--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:06:31.166Z"
+}
