@@ -1,0 +1,75 @@
+{
+  "slug": "lightly-springy-greek-farfalle-revithia--chinese",
+  "title": "Revithia Farfalle Stir Fry",
+  "description": "A Chinese-inspired stir fry made with Greek farfalle pasta and revithia, a traditional Greek chickpea.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "revithia",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "farfalle",
+      "amount": "8 oz",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "lightly",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "springy",
+      "amount": "3 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the cooked farfalle pasta and stir to combine with the garlic.",
+    "Add the revithia, soy sauce, and the remaining 1 tablespoon of olive oil.",
+    "Stir-fry for 2-3 minutes until the ingredients are well combined and heated through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped scallions and sesame seeds if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-springy-greek-farfalle-revithia--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:42:44.293Z"
+}
