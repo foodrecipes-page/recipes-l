@@ -1,0 +1,90 @@
+{
+  "slug": "lemony-crisp-syrian-chicken-bowl--mexican",
+  "title": "Crisp Syrian Chicken Fajitas",
+  "description": "A flavorful and spicy mexican dish featuring crispy syrian chicken, sautéed with lemons and onions.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless syrian chicken breasts",
+      "amount": "4 breasts",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "1/4 cup lemons",
+      "amount": "2 lemons",
+      "notes": "juiced"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "2 tsp olive oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "8 small flour tortillas",
+      "amount": "8",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tsp of olive oil in a large skillet over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned and crispy, about 5-6 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Add the sliced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "5. Add the cumin, smoked paprika, and cayenne pepper to the skillet and cook for 1 minute.",
+    "6. Stir in the lemon juice and cook for an additional 1 minute.",
+    "7. Add the cooked chicken back into the skillet and stir to combine.",
+    "8. Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "9. Assemble the fajitas by placing a portion of the chicken mixture onto a tortilla and serving immediately.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemony-crisp-syrian-chicken-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:52:35.127Z"
+}
