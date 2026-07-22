@@ -1,0 +1,90 @@
+{
+  "slug": "light-middle-eastern-chickpeas-hummus-fold",
+  "title": "Middle Eastern Chickpea Wrap",
+  "description": "A flavorful and healthy wrap filled with chickpeas, hummus, and fresh herbs. Perfect for a quick lunch or snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Hummus",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped tomato",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pita chips",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tzatziki sauce (optional)",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium heat.",
+    "2. Add the chickpeas to the pan and cook for 2-3 minutes.",
+    "3. Add the hummus to the pan and stir to combine with the chickpeas.",
+    "4. Warm the wrap in the microwave for 10-15 seconds.",
+    "5. Assemble the wrap by spreading the chickpea-hummus mixture on the wrap.",
+    "6. Add the mixed greens, cucumber, tomato, and pita chips on top.",
+    "7. If using, sprinkle feta cheese and drizzle tzatziki sauce on top.",
+    "8. Fold the wrap in half to enclose the filling.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chickpeas",
+    "hummus",
+    "wrap",
+    "lunch",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-middle-eastern-chickpeas-hummus-fold",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:56:42.775Z"
+}
