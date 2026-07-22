@@ -1,0 +1,94 @@
+{
+  "slug": "low-glycemic-french-choux-gougere--japanese",
+  "title": "Low Carb Japanese Gougere",
+  "description": "A Japanese-inspired twist on the classic French gougere, using low-carb ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Low- carb pastry dough (made with almond flour and egg whites)",
+      "amount": "1 sheet (homemade or store-bought)",
+      "notes": ""
+    },
+    {
+      "name": "Gougere cheese (such as gruyère or cheddar)",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "French choux pastry",
+      "amount": "1 cup (homemade or store-bought)",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions (green onions)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the low-carb pastry dough and cut into desired shapes.",
+    "In a separate bowl, mix together the gougere cheese, choux pastry, sesame seeds, miso paste, soy sauce, and sesame oil.",
+    "Spoon the cheese mixture onto one half of the pastry shapes and fold the other half over to form a triangle or square shape.",
+    "Brush the tops with a little water and sprinkle with salt and black pepper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Garnish with chopped scallions and serve warm.",
+    "Optional: serve with a side of wasabi mayonnaise or soy sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "japanese",
+    "gougere",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-glycemic-french-choux-gougere--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:49:48.607Z"
+}
