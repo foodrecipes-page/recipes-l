@@ -1,69 +1,84 @@
 {
   "slug": "lovely-dark-kenyan-molasses-bowl",
-  "title": "Kenyan Dark Molasses Bread",
-  "description": "A rich and savory bread infused with the deep flavors of Kenyan dark coffee and molasses. Perfect for a hearty breakfast or snack.",
+  "title": "Kenyan Molasses Cookies",
+  "description": "Soft-baked cookies with a rich, dark flavor from Kenyan molasses and lovely dark sugar.",
   "cuisine": "African",
   "diet": [
     "vegetarian"
   ],
-  "meal": "breakfast",
+  "meal": "dessert",
   "ingredients": [
     {
-      "name": "dark Kenyan coffee",
-      "amount": "2 teaspoons"
+      "name": "lovely dark sugar",
+      "amount": "1 cup",
+      "notes": "packed brown sugar"
     },
     {
-      "name": "molasses",
-      "amount": "1/4 cup"
-    },
-    {
-      "name": "lovely bread flour",
-      "amount": "2 cups"
-    },
-    {
-      "name": "water",
-      "amount": "1 cup"
-    },
-    {
-      "name": "salt",
-      "amount": "1 teaspoon"
+      "name": "Kenyan molasses",
+      "amount": "2 tablespoons",
+      "notes": "unsulphured"
     },
     {
       "name": "bowl",
-      "amount": "1",
+      "amount": "",
       "notes": "for mixing"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "flour",
+      "amount": "2 1/4 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
     }
   ],
   "instructions": [
-    "1. In a large bowl, combine flour, salt, and coffee.",
-    "2. Add molasses and water, and mix until a sticky dough forms.",
-    "3. Knead the dough for 10 minutes until smooth and elastic.",
-    "4. Place the dough in a greased bowl, cover with a damp cloth, and let rise for 1 hour.",
-    "5. Preheat oven to 375°F (190°C).",
-    "6. Punch down the dough and shape into a round loaf.",
-    "7. Place the loaf on a baking sheet and bake for 35-40 minutes.",
-    "8. Remove from oven and let cool on a wire rack for 10 minutes.",
-    "9. Slice and serve warm.",
-    "10. Enjoy!"
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Whisk together flour, baking soda, and salt in a bowl.",
+    "In another bowl, cream together lovely dark sugar and Kenyan molasses.",
+    "Add softened butter to the sugar mixture and mix until well combined.",
+    "Beat in eggs until smooth.",
+    "Gradually add the flour mixture to the wet ingredients and mix until a dough forms.",
+    "Scoop tablespoon-sized balls of dough onto the prepared baking sheet, leaving about 2 inches of space between each cookie.",
+    "Bake for 10-12 minutes, or until the edges are set and the centers are just slightly soft.",
+    "Remove from oven and let cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely."
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 35,
-  "totalTimeMin": 50,
-  "servings": 8,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
   "difficulty": "medium",
   "tags": [
-    "bread",
-    "breakfast",
+    "sweet",
+    "cookies",
+    "molasses",
     "african"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 4,
-    "carbs": 40,
-    "fat": 2
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/lovely-dark-kenyan-molasses-bowl",
   "providerUsed": "groq",
-  "createdAt": "2026-07-16T22:36:17.533Z"
+  "createdAt": "2026-07-18T17:59:45.495Z"
 }
