@@ -1,0 +1,82 @@
+{
+  "slug": "lightly-simmered-irish-semolina-pilaf--indian",
+  "title": "Saffron Semolina Pilaf",
+  "description": "A flavorful and aromatic Indian-inspired pilaf dish, infused with saffron and served with lightly simmered vegetables.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "use ghee for authentic flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green chilies",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Simmered vegetables",
+      "amount": "1 cup",
+      "notes": "such as peas, carrots, and cauliflower"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large saucepan over medium heat.",
+    "Add chopped onion, minced garlic, and chopped green chilies. Sauté until onion is lightly browned.",
+    "Add semolina and sauté for 1-2 minutes, stirring constantly.",
+    "Add 2 cups of water and stir until semolina is well combined. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 10-12 minutes, or until semolina is cooked and fluffy.",
+    "Stir in chopped cilantro and simmer for an additional 2 minutes.",
+    "Serve hot with lightly simmered vegetables.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "saffron",
+    "pilaf",
+    "semolina",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-simmered-irish-semolina-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:04:46.244Z"
+}
