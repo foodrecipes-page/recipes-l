@@ -1,0 +1,83 @@
+{
+  "slug": "luscious-melted-brazilian-chicken-gratin--thai",
+  "title": "Thai Chicken Gratin",
+  "description": "A Thai-inspired twist on the classic gratin, featuring chicken and a rich, creamy sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "luscious coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brazilian olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with salt and black pepper.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Add the curry paste to the skillet and cook for 1 minute.",
+    "Add the coconut milk to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is baking, combine the gratin and fish sauce in a small bowl.",
+    "Stir to combine and set aside.",
+    "Once the chicken is done, remove the skillet from the oven and stir in the gratin mixture.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "chicken",
+    "gratin",
+    "coconutmilk"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-melted-brazilian-chicken-gratin--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:01:29.778Z"
+}
