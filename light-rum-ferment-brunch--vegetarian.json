@@ -1,0 +1,97 @@
+{
+  "slug": "light-rum-ferment-brunch--vegetarian",
+  "title": "Rum-Infused Ferment Brunch",
+  "description": "A unique twist on traditional brunch dishes, featuring a rum-infused ferment that adds depth and complexity to this vegetarian delight.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ferment",
+      "amount": "1 cup",
+      "notes": "Any type of ferment, such as sauerkraut or kimchi"
+    },
+    {
+      "name": "Rum",
+      "amount": "2 tablespoons",
+      "notes": "Light rum"
+    },
+    {
+      "name": "Light",
+      "amount": "1 cup",
+      "notes": "Light beer"
+    },
+    {
+      "name": "Brunch",
+      "amount": "1 cup",
+      "notes": "Brunch mix-ins, such as hash browns and scrambled eggs"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, melt butter over medium heat.",
+    "3. Add green onions and cook until softened, about 2-3 minutes.",
+    "4. Add brunch mix-ins and cook until heated through, about 2-3 minutes.",
+    "5. Stir in rum and light beer. Bring to a simmer.",
+    "6. Reduce heat to low and let simmer for 2-3 minutes, or until liquid has reduced slightly.",
+    "7. Add ferment and stir to combine.",
+    "8. Season with salt and black pepper to taste.",
+    "9. Transfer mixture to a baking dish and top with shredded cheese.",
+    "10. Bake in preheated oven for 10-12 minutes, or until cheese is melted and bubbly.",
+    "11. Remove from oven and top with sour cream, if using.",
+    "12. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rum-infused",
+    "ferment",
+    "brunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-rum-ferment-brunch--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:16:03.244Z"
+}
