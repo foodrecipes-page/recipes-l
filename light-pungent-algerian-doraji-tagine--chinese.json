@@ -1,0 +1,79 @@
+{
+  "slug": "light-pungent-algerian-doraji-tagine--chinese",
+  "title": "Sesame Crusted Doraji Stir Fry",
+  "description": "A Chinese-inspired stir fry featuring the unique flavor of doraji, with a crunchy sesame crust. This dish is a great way to experience the delicate taste of doraji.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Doraji",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "for coating"
+    },
+    {
+      "name": "Algerian spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add doraji and cook for 2-3 minutes, until slightly tender.",
+    "In a small bowl, mix together sesame seeds and Algerian spices.",
+    "Add the sesame seed mixture to the doraji and stir-fry for 1 minute.",
+    "Add soy sauce and rice vinegar, and stir-fry for another minute.",
+    "Transfer the doraji mixture to a serving platter.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "doraji",
+    "sesame-crusted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-pungent-algerian-doraji-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:33:50.994Z"
+}
