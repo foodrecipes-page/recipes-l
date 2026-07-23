@@ -21922,5 +21922,72 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-dense-german-sausage-stew--gluten-free",
+    "title": "Traditional German Sausage Stew",
+    "tags": [
+      "german",
+      "sausage",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 80,
+    "shard": "l"
+  },
+  {
+    "slug": "light-smoky-shrimp-stir-fry--vegan",
+    "title": "Vegan Stir Fry with Smoky Flair",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "stir-fry",
+      "quick-meal"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-smoky-argentinian-potatoes-grill--vegan",
+    "title": "Argentinian Vegan Potato Grill",
+    "tags": [
+      "argentinian",
+      "grill",
+      "vegan",
+      "summer",
+      "potatoes"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-crispy-vietnamese-tofu-noodles--indian",
+    "title": "Indian Crispy Tofu Noodles",
+    "tags": [
+      "indian",
+      "tofu",
+      "noodles",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-pungent-algerian-doraji-tagine--indian",
+    "title": "Doraji Tagine",
+    "tags": [
+      "indian",
+      "north-african",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
