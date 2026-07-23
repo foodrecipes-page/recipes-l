@@ -1,0 +1,71 @@
+{
+  "slug": "lazy-sunday-smoky-kenyan-beef-flank-steak-braai",
+  "title": "Smoky Kenyan Braai Steak",
+  "description": "A classic Kenyan braai recipe with smoky flavors, perfect for a relaxing Sunday dinner.",
+  "cuisine": "African",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1.5 lbs",
+      "notes": "Choose a high-quality steak"
+    },
+    {
+      "name": "Lazy Sunday Spice Blend",
+      "amount": "2 tbsp",
+      "notes": "Mix of paprika, coriander, and cumin"
+    },
+    {
+      "name": "Kenyan Braai Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Smoky BBQ Sauce",
+      "amount": "1/2 cup",
+      "notes": "Optional for extra smokiness"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your braai or grill to medium-high heat.",
+    "Season the flank steak with salt and black pepper.",
+    "Brush the coconut oil onto the steak.",
+    "Grill the steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Serve with Lazy Sunday Spice Blend sprinkled on top and a side of Kenyan Braai Sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "smoky",
+    "steak",
+    "braai"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-smoky-kenyan-beef-flank-steak-braai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:32:25.377Z"
+}
