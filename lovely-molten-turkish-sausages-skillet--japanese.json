@@ -1,0 +1,61 @@
+{
+  "slug": "lovely-molten-turkish-sausages-skillet--japanese",
+  "title": "Japanese-Style Sausage Skillet",
+  "description": "A quick and easy Japanese-inspired skillet dish featuring juicy sausages and a sweet soy-based sauce.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lovely sausages",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Molten honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": null,
+      "notes": "large skillet for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the sausages and cook until browned on all sides, about 5 minutes.",
+    "Remove the sausages from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of oil and cook the red pepper flakes for 1 minute.",
+    "Add the honey to the skillet and stir to combine with the pepper flakes.",
+    "Add the cooked sausages back to the skillet and toss to coat with the honey-soy sauce.",
+    "Cook for an additional 2-3 minutes, until the sausages are coated and heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "easy",
+    "skillet",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-molten-turkish-sausages-skillet--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:04:22.986Z"
+}
