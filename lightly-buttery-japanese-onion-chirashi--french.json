@@ -1,0 +1,77 @@
+{
+  "slug": "lightly-buttery-japanese-onion-chirashi--french",
+  "title": "Pan-Seared Chirashi with Lightly Buttered Japanese Onion",
+  "description": "A French-inspired dish featuring pan-seared chirashi, lightly buttered Japanese onion, and a hint of French flair.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chirashi",
+      "amount": "1 lb"
+    },
+    {
+      "name": "lightly buttery onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Season the chirashi with salt, pepper, and garlic powder.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chirashi to the skillet and sear for 2-3 minutes on each side, or until browned and cooked through.",
+    "Remove the chirashi from the skillet and set aside.",
+    "Add the lightly buttered Japanese onion to the skillet and sauté for 2-3 minutes, or until softened.",
+    "Add the white wine to the skillet and stir to deglaze.",
+    "Return the chirashi to the skillet and spoon some of the sauce over the top.",
+    "Serve the chirashi hot, garnished with lemon juice and chopped parsley if desired.",
+    "Reheat the chirashi in the oven at 350°F (180°C) for 5-7 minutes, or until warmed through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-buttery-japanese-onion-chirashi--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:21:40.381Z"
+}
