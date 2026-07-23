@@ -1,0 +1,72 @@
+{
+  "slug": "light-warming-russian-eggs-bake--keto",
+  "title": "Russian Keto Bake",
+  "description": "A delicious and easy-to-make keto bake recipe, perfect for a quick meal.",
+  "cuisine": "russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "light",
+      "amount": "100g",
+      "notes": "almond flour"
+    },
+    {
+      "name": "warming",
+      "amount": "50g",
+      "notes": "coconut flour"
+    },
+    {
+      "name": "bake",
+      "amount": "20g",
+      "notes": "melted cheddar cheese"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large bowl, whisk together eggs, light, and warming.",
+    "Add the bake and mix until well combined.",
+    "Pour the mixture into a greased baking dish.",
+    "Sprinkle salt and pepper to taste.",
+    "Bake for 20-25 minutes or until set.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "breakfast",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-warming-russian-eggs-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:50:31.643Z"
+}
