@@ -1,0 +1,74 @@
+{
+  "slug": "lively-energizing-russian-vermicelli-pasta-pilaf--thai",
+  "title": "Thai Pilaf with Vermicelli",
+  "description": "A flavorful and spicy Thai pilaf dish made with vermicelli pasta, energetic and lively spices, and a hint of Russian flair.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lively Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Energizing Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Russian Dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pan over medium heat.",
+    "Add the lively spice blend and energizing chili flakes, and sauté for 1 minute.",
+    "Add the pilaf and vermicelli pasta, and stir well to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 10-12 minutes, or until the liquid has been absorbed.",
+    "Stir in the Russian dill and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "pilaf",
+    "vermicelli"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-energizing-russian-vermicelli-pasta-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:37:02.355Z"
+}
