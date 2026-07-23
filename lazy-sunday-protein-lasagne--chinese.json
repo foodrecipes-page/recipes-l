@@ -1,0 +1,90 @@
+{
+  "slug": "lazy-sunday-protein-lasagne--chinese",
+  "title": "Sunday Lasagne",
+  "description": "A twist on the classic lasagna with an Asian flair. Pair the savory flavors of beef and vegetables with a hint of soy sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Lasagne sheets",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Use as a marinade for beef"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "200g",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "200g",
+      "notes": "Diced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook lasagne sheets according to package instructions.",
+    "In a pan, heat 1 tablespoon of vegetable oil over medium heat.",
+    "Add beef and cook until browned, breaking it up into small pieces.",
+    "Add onion, garlic, mushrooms, and carrots to the pan. Cook until the vegetables are tender.",
+    "Add soy sauce and sesame oil to the pan and stir to combine.",
+    "In a separate bowl, combine cooked lasagne sheets and beef mixture.",
+    "Transfer the lasagne mixture to a baking dish and top with additional lasagne sheets.",
+    "Bake in the oven for 20-25 minutes, or until the top is golden brown and the lasagne is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lasagne",
+    "beef",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-protein-lasagne--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:14:52.351Z"
+}
