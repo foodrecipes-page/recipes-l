@@ -22052,5 +22052,32 @@
     "cuisine": "thai",
     "totalTimeMin": 15,
     "shard": "l"
+  },
+  {
+    "slug": "lemon-laced-french-chicken-wings-confit--italian",
+    "title": "Chicken Cacciatore with Lemon and Confit",
+    "tags": [
+      "italian",
+      "chicken",
+      "lemon",
+      "confit"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lemony-crunchy-falafel-pita-wraps--italian",
+    "title": "Italian Falafel Wrap",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "lunch",
+      "easy",
+      "quick"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "l"
   }
 ]
