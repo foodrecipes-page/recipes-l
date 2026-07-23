@@ -1,0 +1,91 @@
+{
+  "slug": "lemon-laced-french-chicken-wings-confit--italian",
+  "title": "Chicken Cacciatore with Lemon and Confit",
+  "description": "A classic Italian dish made with chicken, onions, garlic, and herbs, cooked in a flavorful sauce with lemon and confit.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "lemon",
+      "amount": "2 lemons",
+      "notes": "juiced"
+    },
+    {
+      "name": "confit",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "3. Add the minced garlic and cook for an additional minute.",
+    "4. Add the chicken wings and cook until browned on all sides, about 5-7 minutes.",
+    "5. Add the lemon juice, confit, salt, and pepper to the skillet.",
+    "6. Stir to combine and bring the sauce to a simmer.",
+    "7. Reduce heat to low and simmer, covered, for 10-15 minutes or until the chicken is cooked through.",
+    "8. Stir in the chopped parsley.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "lemon",
+    "confit"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-laced-french-chicken-wings-confit--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:59:26.256Z"
+}
