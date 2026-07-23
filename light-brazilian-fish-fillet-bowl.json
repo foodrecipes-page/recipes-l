@@ -1,0 +1,90 @@
+{
+  "slug": "light-brazilian-fish-fillet-bowl",
+  "title": "Grilled Brazilian Fish Fillet with Light Bowl",
+  "description": "A delicious and healthy Brazilian-inspired dish featuring a grilled fish fillet served with a light and refreshing bowl of mixed greens.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "2",
+      "notes": "Any firm white fish works well, such as tilapia or mahi-mahi"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling the fish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "For marinating the fish"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "For the light bowl"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved and added to the light bowl"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced and added to the light bowl"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped and added to the light bowl"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning the fish"
+    },
+    {
+      "name": "Brazilian-style seasoning blend",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together lime juice, light olive oil, and Brazilian-style seasoning blend.",
+    "Place the fish fillet in a shallow dish and brush the marinade on both sides of the fish.",
+    "Season the fish with salt and pepper to taste.",
+    "Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, prepare the light bowl by combining mixed greens, cherry tomatoes, red onion, and chopped cilantro in a large bowl.",
+    "To serve, place the grilled fish fillet on top of the light bowl and garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fish",
+    "grilled",
+    "healthy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-brazilian-fish-fillet-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:57:22.673Z"
+}
