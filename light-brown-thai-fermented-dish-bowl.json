@@ -1,0 +1,78 @@
+{
+  "slug": "light-brown-thai-fermented-dish-bowl",
+  "title": "Thai-Style Fermented Chicken Stir Fry",
+  "description": "A flavorful and nutritious stir fry made with fermented foods and Thai spices, perfect for a quick weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented light brown rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fermented chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dish",
+      "amount": "1",
+      "notes": "large bowl for serving"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the fermented light brown rice vinegar and brown sugar. Set aside.",
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the fermented chicken breast and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the Thai basil leaves and cook for an additional minute.",
+    "Return the cooked chicken to the skillet and stir to combine.",
+    "Pour the vinegar mixture over the top and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately in a dish, garnished with additional Thai basil leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fermented",
+    "stir-fry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-brown-thai-fermented-dish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:33:26.370Z"
+}
