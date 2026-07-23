@@ -21989,5 +21989,44 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "light-warming-russian-eggs-bake--keto",
+    "title": "Russian Keto Bake",
+    "tags": [
+      "keto",
+      "breakfast",
+      "bake"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "light-norteno-pibil-pibil--japanese",
+    "title": "Japanese Pibil Chicken Ramen",
+    "tags": [
+      "japanese",
+      "chicken",
+      "noodles",
+      "fusion",
+      "pibil"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lemony-crunchy-falafel-pita-wraps--french",
+    "title": "Lemony Falafel Wrap",
+    "tags": [
+      "french",
+      "lunch",
+      "wrap",
+      "lemon"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
