@@ -1,0 +1,99 @@
+{
+  "slug": "lovely-dense-german-sausage-stew--gluten-free",
+  "title": "Traditional German Sausage Stew",
+  "description": "A hearty and comforting stew made with traditional german sausage, perfect for a cold winter's day. This stew is gluten-free, making it suitable for those with dietary restrictions.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "lovely potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "dense carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "stew beef",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the sausage in a large pot over medium-high heat.",
+    "Remove the sausage from the pot and set aside.",
+    "Add more oil to the pot if necessary and cook the onion and garlic until softened.",
+    "Add the stew beef and cook until browned on all sides.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the beef broth, potatoes, carrots, and browned sausage to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-dense-german-sausage-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:51:45.374Z"
+}
