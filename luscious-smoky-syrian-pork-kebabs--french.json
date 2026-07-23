@@ -1,0 +1,84 @@
+{
+  "slug": "luscious-smoky-syrian-pork-kebabs--french",
+  "title": "Crispy Porks Kebabs with Garlic and Herbs",
+  "description": "Delicious French-inspired pork kebabs with a smoky flavor, perfect for a weeknight dinner.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "500g"
+    },
+    {
+      "name": "luscious",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "syrian",
+      "amount": "2 tsp",
+      "notes": "sumac"
+    },
+    {
+      "name": "olive oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a small bowl, mix together minced luscious, smoky, and salt.",
+    "3. Add the minced garlic and chopped rosemary to the bowl and mix well.",
+    "4. Thread the pork onto the skewers, leaving a small space between each piece.",
+    "5. Brush the pork with olive oil and sprinkle with the garlic and herb mixture.",
+    "6. Grill the kebabs for 10-12 minutes, turning occasionally, or until the pork is cooked through.",
+    "7. Let the kebabs rest for 5 minutes before serving.",
+    "8. Serve hot, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "kebabs",
+    "pork",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-smoky-syrian-pork-kebabs--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:55:58.350Z"
+}
