@@ -1,0 +1,85 @@
+{
+  "slug": "long-smoked-slovakian-vanilla-bake--gluten-free",
+  "title": "Smoked Slovakian Long Bratwurst Bake",
+  "description": "A hearty and flavorful dish combining traditional Slovakian sausage with a sweet and savory bake. Gluten-free and perfect for a comforting dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Slovakian Long Bratwurst",
+      "amount": "4",
+      "notes": "you can find Slovakian sausage at most specialty stores or online"
+    },
+    {
+      "name": "Vanilla",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Long",
+      "amount": "1 large",
+      "notes": "this is likely referring to the type of potato, 'long' is a variety"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the long bratwurst into 1-inch pieces and set aside.",
+    "Peel and chop the onion and garlic, then sauté them in a pan until softened.",
+    "Add the sliced bratwurst to the pan and cook until browned.",
+    "In a separate bowl, mix the bake, vanilla, salt, and pepper.",
+    "Cut the long potatoes into 1-inch pieces and add them to the bowl with the bake mixture.",
+    "Combine the cooked bratwurst mixture with the potato mixture and stir until well coated.",
+    "Transfer the mixture to a baking dish and top with chopped parsley.",
+    "Bake for 25-30 minutes or until the potatoes are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked-slovakian-long-bratwurst-bake",
+    "gluten-free",
+    "dinner",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/long-smoked-slovakian-vanilla-bake--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:04:50.576Z"
+}
