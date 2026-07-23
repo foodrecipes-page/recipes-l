@@ -1,0 +1,94 @@
+{
+  "slug": "light-pungent-algerian-doraji-tagine--indian",
+  "title": "Doraji Tagine",
+  "description": "A flavorful North African-inspired stew from India, featuring the unique flavor of doraji root. This hearty dish is perfect for a cold winter night.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doraji",
+      "amount": "2 medium roots",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tbsp",
+      "notes": "ground spices"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "use of a tagine is optional, but recommended for authentic flavor"
+    },
+    {
+      "name": "light",
+      "amount": "2 cups",
+      "notes": "chicken or vegetable broth"
+    },
+    {
+      "name": "pungent",
+      "amount": "1 small onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust as needed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add ginger and garlic and cook for an additional 1 minute.",
+    "Add sliced doraji and cook for 5 minutes, or until slightly tender.",
+    "Add algerian spices, tomato paste (if using), and salt. Stir to combine.",
+    "Pour in light ingredients and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until doraji is tender.",
+    "Season with additional salt if needed.",
+    "Serve hot, garnished with fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "north-african",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-pungent-algerian-doraji-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:18:42.508Z"
+}
