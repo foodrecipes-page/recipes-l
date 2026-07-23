@@ -1,0 +1,78 @@
+{
+  "slug": "lacquer-glazed-malaysian-saskatoon-berries-stew--gluten-free",
+  "title": "Glazed Saskatoon Berry Crumble",
+  "description": "A delicious dessert that combines the sweetness of saskatoon berries with the crunch of a gluten-free crumble topping.",
+  "cuisine": "north american",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Glazed lacquer",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the saskatoon berries and glazed lacquer (if using).",
+    "In a separate bowl, whisk together the gluten-free flour, cold unsalted butter, granulated sugar, Malaysian cinnamon, and sea salt.",
+    "Add the dry ingredients to the berry mixture and stir until just combined.",
+    "Transfer the mixture to a 9x9-inch baking dish.",
+    "In a small bowl, mix together the remaining 1/4 cup of gluten-free flour and 1/4 cup of cold unsalted butter to form a crumbly mixture.",
+    "Top the berry mixture with the crumbly mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the fruit is bubbly.",
+    "Remove from the oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "dessert",
+    "saskatoon-berries"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacquer-glazed-malaysian-saskatoon-berries-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:46:46.779Z"
+}
