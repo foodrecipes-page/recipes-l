@@ -3091,18 +3091,15 @@
   },
   {
     "slug": "light-brown-thai-fermented-dish-bowl",
-    "title": "Light Brown Thai Fermented Dish Bowl",
+    "title": "Thai-Style Fermented Chicken Stir Fry",
     "tags": [
+      "thai",
       "fermented",
-      "gluten-free",
-      "meal-prep",
-      "paleo",
-      "ricebowl",
-      "thaifood",
-      "vegan"
+      "stir-fry",
+      "chicken"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -21886,6 +21883,44 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-molten-turkish-sausages-skillet--japanese",
+    "title": "Japanese-Style Sausage Skillet",
+    "tags": [
+      "japanese",
+      "easy",
+      "skillet",
+      "sausages"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-protein-lasagne--chinese",
+    "title": "Sunday Lasagne",
+    "tags": [
+      "chinese",
+      "lasagne",
+      "beef",
+      "vegetable"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-buttery-japanese-onion-chirashi--french",
+    "title": "Pan-Seared Chirashi with Lightly Buttered Japanese Onion",
+    "tags": [
+      "french",
+      "seafood",
+      "dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
