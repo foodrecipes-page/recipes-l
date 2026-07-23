@@ -1,0 +1,68 @@
+{
+  "slug": "lightly-buttery-british-chicken-pie-and-mash--keto",
+  "title": "Keto Chicken Pie",
+  "description": "A delicious keto twist on the classic British dish, featuring a buttery crust and creamy filling.",
+  "cuisine": "British",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Lightly mashed cauliflower",
+      "amount": "1 head",
+      "notes": "see notes for recipe"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Pie crust",
+      "amount": "1 pre-made",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with salt and pepper. Bake in the oven for 20-25 minutes, or until cooked through.",
+    "Meanwhile, prepare the lightly mashed cauliflower. Steam the cauliflower florets until tender, then mash with butter and season to taste.",
+    "Roll out the pie crust and place in a 9-inch pie dish.",
+    "Fill the pie crust with the cooked chicken and mashed cauliflower.",
+    "Bake the pie in the preheated oven for 15-20 minutes, or until the crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "british-cuisine",
+    "chicken-recipes",
+    "pie-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-buttery-british-chicken-pie-and-mash--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:34:57.933Z"
+}
