@@ -1,0 +1,77 @@
+{
+  "slug": "luxurious-creamy-italian-pork-carbonara--german",
+  "title": "German-Style Pork Carbonara",
+  "description": "A unique take on the classic Italian dish, with a German twist. This recipe features tender pork and a rich, creamy sauce.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Luxurious black truffle salt",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Italian parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Whipped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, cook the pork belly over medium-high heat until browned on all sides and cooked through.",
+    "Remove the pork from the skillet and set aside.",
+    "In the same skillet, add the black truffle salt (if using) and cook for 1 minute.",
+    "Add the heavy cream to the skillet and stir to combine with the truffle salt.",
+    "Bring the cream to a simmer and cook until it has reduced slightly, stirring occasionally.",
+    "Stir in the Parmesan cheese until melted and smooth.",
+    "Add the cooked pasta to the skillet and toss to combine with the cream sauce.",
+    "Return the pork to the skillet and toss to combine with the pasta and sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped Italian parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "italian",
+    "pork",
+    "carbonara",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-creamy-italian-pork-carbonara--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:31:49.433Z"
+}
