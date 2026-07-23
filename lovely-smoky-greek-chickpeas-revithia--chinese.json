@@ -1,0 +1,80 @@
+{
+  "slug": "lovely-smoky-greek-chickpeas-revithia--chinese",
+  "title": "Smoky Chickpea Stir Fry",
+  "description": "A Chinese-inspired stir fry made with smoky chickpeas, lovely vegetables, and a hint of Greek flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lovely Smoked Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Greek Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Revithia Chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "Chickpea Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lovely Carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "Lovely Bell Peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "Greek Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and stir-fry for 1 minute.",
+    "Add the carrots and bell peppers and stir-fry for 3-4 minutes.",
+    "Add the chickpeas, smoked paprika, soy sauce, and honey. Stir-fry for 2-3 minutes.",
+    "Pour in the chickpea broth and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 10-12 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-greek-chickpeas-revithia--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:48:20.524Z"
+}
