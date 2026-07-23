@@ -1,0 +1,72 @@
+{
+  "slug": "light-chinese-colby-jack-cheese-bao--thai",
+  "title": "Thai Bao Bites",
+  "description": "A delicious Thai-inspired appetizer made with crispy bao and melted cheese.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "4-6 pieces",
+      "notes": "preferably day-old bao"
+    },
+    {
+      "name": "Colby Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Light Cheese",
+      "amount": "1/4 cup shredded"
+    },
+    {
+      "name": "Jack Cheese",
+      "amount": "1/4 cup shredded"
+    },
+    {
+      "name": "Chinese Five-Spice Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut bao in half horizontally and place them on a baking sheet.",
+    "In a small bowl, mix together Chinese Five-Spice Powder and Olive Oil. Brush the mixture onto both sides of the bao.",
+    "Top each bao half with a spoonful of Colby Cheese, Light Cheese, and Jack Cheese. Drizzle with Soy Sauce and sprinkle with Honey.",
+    "Bake for 5-7 minutes or until the cheese is melted and the bao is crispy.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "appetizer",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-chinese-colby-jack-cheese-bao--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:19:56.532Z"
+}
