@@ -1,0 +1,79 @@
+{
+  "slug": "luscious-smoky-skillet-argentinian-beef-skillet",
+  "title": "Argentinian Skillet Steak",
+  "description": "A smoky and flavorful Argentinian-inspired dish featuring a skillet-seared steak, served with a side of sautéed onions and bell peppers.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skillet steak (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper (any color)",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoky luscious seasoning blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat skillet to medium-high heat.",
+    "Season steak with smoky luscious seasoning blend and let sit at room temperature for 10-15 minutes.",
+    "Sear steak in skillet for 3-4 minutes per side, or until it reaches an internal temperature of 130°F for medium-rare.",
+    "Transfer steak to a plate and let rest for 5 minutes.",
+    "In the same skillet, add olive oil and sauté sliced onions and bell peppers until tender.",
+    "Add garlic to the skillet and cook for an additional 1 minute.",
+    "Serve steak with sautéed onions and bell peppers.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "skillet",
+    "steak",
+    "beef",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-smoky-skillet-argentinian-beef-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:43:50.235Z"
+}
