@@ -1,0 +1,76 @@
+{
+  "slug": "lazy-brandy-nut-pie--mexican",
+  "title": "Nutty Brandy Pie",
+  "description": "A unique mexican dessert combining the warm spices of pie with the nutty flavor of pecans.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pecans",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Brandy",
+      "amount": "1/2 cup",
+      "notes": "soaked in 1 tablespoon sugar"
+    },
+    {
+      "name": "Pie crust",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pie crust and place in pie dish.",
+    "In a separate bowl, mix together soaked brandy, sugar, eggs, vanilla extract, and cinnamon.",
+    "Add chopped pecans to the mixture and stir well.",
+    "Pour the nut mixture into the pie crust.",
+    "Bake for 40-45 minutes or until the crust is golden brown.",
+    "Allow the pie to cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "pie",
+    "brandy",
+    "pecans"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-brandy-nut-pie--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:41:58.938Z"
+}
