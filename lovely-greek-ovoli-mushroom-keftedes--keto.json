@@ -1,0 +1,70 @@
+{
+  "slug": "lovely-greek-ovoli-mushroom-keftedes--keto",
+  "title": "Keto Greek Meatballs with Mushroom Sauce",
+  "description": "A delicious and flavorful dish made with meatballs and a rich mushroom sauce, perfect for a keto diet.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lovely Greek Meat Mix (ground beef and pork)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Ovoli Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Keftedes Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine the meat mix, eggs, and onion. Mix well with your hands or a wooden spoon until just combined.",
+    "Use your hands to shape the mixture into meatballs, about 1 1/2 inches (3.8 cm) in diameter. Place the meatballs on a baking sheet lined with parchment paper.",
+    "Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through.",
+    "While the meatballs are baking, heat 2 tablespoons of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown, about 3-4 minutes.",
+    "Add 1/4 cup of chicken broth to the skillet and stir to scrape up any browned bits. Bring the mixture to a simmer and cook until the liquid has almost completely evaporated, about 2-3 minutes.",
+    "Once the meatballs are done, remove them from the oven and let them cool for a few minutes on the baking sheet.",
+    "Add the meatballs to the skillet with the mushroom sauce and toss to coat.",
+    "Serve the meatballs hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "meatballs",
+    "mushroom",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-greek-ovoli-mushroom-keftedes--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:29:13.356Z"
+}
