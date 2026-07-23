@@ -1,0 +1,90 @@
+{
+  "slug": "lovely-crispy-vietnamese-tofu-noodles--indian",
+  "title": "Indian Crispy Tofu Noodles",
+  "description": "This Indian-inspired dish combines crispy tofu with a delicious noodle stir-fry, offering a flavorful and nutritious meal option.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "lovely, crispy noodles",
+      "amount": "1 cup",
+      "notes": "Indian-style, rice-based noodles"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 cup",
+      "notes": "Mixed vegetables, such as cabbage, carrots, and bean sprouts"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "2 tbsp",
+      "notes": "Vegetable or peanut oil"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "Optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown and crispy, about 5-7 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of oil. Add the mixed vegetables and cook until tender, about 3-4 minutes.",
+    "Add the noodles to the skillet and cook until heated through, about 2 minutes.",
+    "In a small bowl, mix together the curry powder, garam masala, salt, and pepper. Add this spice mixture to the noodles and stir to combine.",
+    "Return the cooked tofu to the skillet and toss to combine with the noodles and vegetables.",
+    "Serve hot, garnished with lemon wedges if desired.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "tofu",
+    "noodles",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crispy-vietnamese-tofu-noodles--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:06:16.178Z"
+}
