@@ -4963,17 +4963,15 @@
   },
   {
     "slug": "light-kenyan-lamb-wrap",
-    "title": "Light Kenyan Lamb Wrap",
+    "title": "Kenyan Lamb Wraps",
     "tags": [
-      "corn-husk-wraps",
-      "glazed-meat",
-      "halal-friendly",
-      "kenyan-cuisine",
-      "lamb-recipes",
-      "meal-prep"
+      "kenyan",
+      "lamb",
+      "wrap",
+      "grilled"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -21809,6 +21807,32 @@
     ],
     "cuisine": "slovakian",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-moroccan-lemongrass-takrai-tagine--vegan",
+    "title": "Moroccan Vegan Tagine",
+    "tags": [
+      "moroccan",
+      "vegan",
+      "stew",
+      "lemongrass"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "long-smoked-slovakian-vanilla-bake--gluten-free",
+    "title": "Smoked Slovakian Long Bratwurst Bake",
+    "tags": [
+      "smoked-slovakian-long-bratwurst-bake",
+      "gluten-free",
+      "dinner",
+      "comfort-food"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
     "shard": "l"
   }
 ]
