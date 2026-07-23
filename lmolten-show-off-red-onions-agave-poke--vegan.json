@@ -1,0 +1,71 @@
+{
+  "slug": "lmolten-show-off-red-onions-agave-poke--vegan",
+  "title": "Vegan Poke Bowl",
+  "description": "A refreshing and healthy poke bowl made with marinated tofu and mixed vegetables, served over a bed of quinoa.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cut into small cubes"
+    },
+    {
+      "name": "Red onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Agave",
+      "amount": "2 tbsp",
+      "notes": "Syrup"
+    },
+    {
+      "name": "Poke (seaweed)",
+      "amount": "1 cup",
+      "notes": "Dried, rehydrated and chopped"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Cook quinoa according to package instructions.",
+    "In a medium bowl, whisk together agave, lime juice, and a pinch of salt.",
+    "Add the cubed tofu to the marinade and toss to coat.",
+    "Let the tofu marinate for at least 30 minutes.",
+    "In a large bowl, combine the cooked quinoa, marinated tofu, chopped poke, and sliced red onions.",
+    "Toss gently to combine and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "poke",
+    "quinoa",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 65,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lmolten-show-off-red-onions-agave-poke--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:13:36.479Z"
+}
