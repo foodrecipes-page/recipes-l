@@ -1,0 +1,84 @@
+{
+  "slug": "lazy-sunday-venezuelan-umeboshi-bowl--keto",
+  "title": "Venezuelan Umeboshi Bowl",
+  "description": "A keto twist on a traditional Venezuelan dish, featuring pickled umeboshi plums in a bowl with Lazy Sunday's special fried fish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lazy Sunday's special fried fish",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Umeboshi plums",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Bolivar rice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sunday's special avocado oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sunday's special salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lazy Sunday's special pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish with salt and pepper.",
+    "Bake the fish in the oven for 8-10 minutes or until cooked through.",
+    "While the fish is cooking, prepare the umeboshi plums by slicing them into thin wedges.",
+    "In a small bowl, mix together the sliced umeboshi plums and a squeeze of fresh lime juice.",
+    "To assemble the dish, place a serving of the Venezuelan Bolivar rice on a plate or in a bowl.",
+    "Top the rice with the baked fish, followed by the pickled umeboshi plum mixture.",
+    "Drizzle the Sunday's special avocado oil over the top of the dish and garnish with fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "venezuelan",
+    "umeboshi",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-venezuelan-umeboshi-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:55:09.074Z"
+}
