@@ -1,0 +1,70 @@
+{
+  "slug": "lively-smoky-argentinian-potatoes-grill--vegan",
+  "title": "Argentinian Vegan Potato Grill",
+  "description": "A flavorful and smoky vegan potato dish inspired by Argentinian cuisine, perfect for a summer grill.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4-5 medium-sized potatoes, sliced"
+    },
+    {
+      "name": "Lively Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, smoked paprika, garlic, chili flakes, and salt.",
+    "Add the sliced potatoes to the bowl and toss to coat with the marinade.",
+    "Grill the potatoes for 5-7 minutes per side, or until they are tender and lightly charred.",
+    "Transfer the grilled potatoes to a plate and garnish with chopped cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "grill",
+    "vegan",
+    "summer",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-smoky-argentinian-potatoes-grill--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:54:18.406Z"
+}
