@@ -1,0 +1,87 @@
+{
+  "slug": "lightly-fermented-greek-honey-loukoumades--gluten-free",
+  "title": "Greek Loukoumades with Honey",
+  "description": "A traditional Greek dessert consisting of crispy fried dough balls drizzled with honey, perfect for hot summer days.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 cup",
+      "notes": "or substitute with almond flour"
+    },
+    {
+      "name": "light, fermented ricotta",
+      "amount": "1/2 cup",
+      "notes": "or substitute with plain yogurt"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "plus extra for drizzling"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 teaspoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large egg",
+      "notes": "beaten"
+    },
+    {
+      "name": "club soda",
+      "amount": "1 cup",
+      "notes": "for creating a light, airy dough"
+    }
+  ],
+  "instructions": [
+    "Combine flour, baking soda, and salt in a bowl.",
+    "In a separate bowl, whisk together ricotta, honey, and vanilla extract.",
+    "Add the beaten egg to the ricotta mixture and mix well.",
+    "Gradually add the dry ingredients to the wet ingredients, stirring until combined.",
+    "Add the club soda and mix until the dough comes together.",
+    "Using a spoon, drop small balls of dough into hot oil (around 350°F/175°C).",
+    "Fry the loukoumades until golden brown, about 3-4 minutes per side.",
+    "Using a slotted spoon, remove the loukoumades from the oil and place on paper towels to drain excess oil.",
+    "Drizzle with honey and serve immediately.",
+    "Repeat with remaining dough, if necessary."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "honey",
+    "loukoumades",
+    "fried-dough",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4.5,
+    "carbs": 25,
+    "fat": 11
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-fermented-greek-honey-loukoumades--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:41:46.551Z"
+}
