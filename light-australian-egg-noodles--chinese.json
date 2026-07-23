@@ -1,0 +1,87 @@
+{
+  "slug": "light-australian-egg-noodles--chinese",
+  "title": "Light Australian Noodle Stir Fry",
+  "description": "A quick and easy Chinese-inspired dish made with light Australian noodles, vegetables, and egg. This recipe is a healthy twist on traditional noodle stir-fries.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian light noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oyster sauce (optional)",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "2. Add the green onion and red bell pepper and stir-fry until tender.",
+    "3. Add the snow peas and stir-fry for 2-3 minutes.",
+    "4. Push the vegetables to one side of the skillet.",
+    "5. Add a little more oil if necessary, then pour in the beaten egg.",
+    "6. Scramble the egg until cooked through, then mix it with the vegetables.",
+    "7. Add the soy sauce and oyster sauce (if using) and stir-fry for 1-2 minutes.",
+    "8. Add the Australian light noodles and stir-fry for 2-3 minutes, until the noodles are heated through.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "quick",
+    "easy",
+    "vegetarian",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-australian-egg-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:17:05.227Z"
+}
