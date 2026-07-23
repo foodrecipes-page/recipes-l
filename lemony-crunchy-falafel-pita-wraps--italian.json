@@ -1,0 +1,84 @@
+{
+  "slug": "lemony-crunchy-falafel-pita-wraps--italian",
+  "title": "Italian Falafel Wrap",
+  "description": "A twist on traditional Italian cuisine, this sandwich combines crispy falafel with crunchy vegetables and a tangy lemon-tahini sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "8 oz",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lemony Tahini Sauce",
+      "amount": "2 tbsp",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Crunchy Lettuce",
+      "amount": "1 cup",
+      "notes": "such as romaine or iceberg"
+    },
+    {
+      "name": "Thinly Sliced Red Onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "1",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "Cucumber Slices",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Cherry Tomatoes Halved",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Kalamata Olives Pitted",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Cook the pita bread for 2-3 minutes on each side, or until crispy.",
+    "3. Warm the falafel according to package instructions.",
+    "4. Spread the lemony tahini sauce on the pita bread.",
+    "5. Add the falafel, crunchy lettuce, red onion, cucumber, cherry tomatoes, and olives on top.",
+    "6. Drizzle with additional lemony tahini sauce, if desired.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "lunch",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemony-crunchy-falafel-pita-wraps--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:56:59.590Z"
+}
