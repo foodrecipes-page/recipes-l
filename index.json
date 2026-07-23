@@ -21834,5 +21834,58 @@
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
     "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-venezuelan-umeboshi-bowl--keto",
+    "title": "Venezuelan Umeboshi Bowl",
+    "tags": [
+      "keto",
+      "venezuelan",
+      "umeboshi",
+      "bowl"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "light-rum-ferment-brunch--vegetarian",
+    "title": "Rum-Infused Ferment Brunch",
+    "tags": [
+      "rum-infused",
+      "ferment",
+      "brunch",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 32,
+    "shard": "l"
+  },
+  {
+    "slug": "light-australian-egg-noodles--chinese",
+    "title": "Light Australian Noodle Stir Fry",
+    "tags": [
+      "chinese",
+      "quick",
+      "easy",
+      "vegetarian",
+      "noodles"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-chinese-colby-jack-cheese-bao--thai",
+    "title": "Thai Bao Bites",
+    "tags": [
+      "thai",
+      "appetizer",
+      "snack",
+      "cheese"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "l"
   }
 ]
