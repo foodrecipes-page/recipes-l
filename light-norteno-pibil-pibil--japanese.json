@@ -1,0 +1,89 @@
+{
+  "slug": "light-norteno-pibil-pibil--japanese",
+  "title": "Japanese Pibil Chicken Ramen",
+  "description": "A fusion twist on traditional ramen, featuring juicy pibil chicken and a light, savory broth.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "preferably boneless, skinless"
+    },
+    {
+      "name": "light pibil marinade",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "norteno spice blend",
+      "amount": "1 tsp",
+      "notes": "or a mix of cumin, chili powder, and coriander"
+    },
+    {
+      "name": "pibil paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "1 package",
+      "notes": "preferably fresh, not instant"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine light pibil marinade, norteno spice blend, and pibil paste. Blend until smooth.",
+    "Place chicken breast in a shallow dish and pour the pibil marinade over it. Refrigerate for at least 2 hours or overnight.",
+    "Preheat a large pot of water to boiling. Cook ramen noodles according to package instructions. Drain and set aside.",
+    "In a large skillet or wok, heat vegetable oil over medium-high heat. Remove chicken from marinade and cook until browned, about 5-6 minutes per side.",
+    "Transfer chicken to a plate and let rest. In the same skillet, add soy sauce and cook for 1 minute, scraping up any browned bits.",
+    "Add cooked ramen noodles to the skillet and toss to coat with soy sauce.",
+    "Slice cooked chicken into thin strips and add to the noodles. Toss to combine.",
+    "Serve hot, garnished with chopped scallions and sesame seeds if desired.",
+    "In a small saucepan, heat the pibil marinade over low heat until warm and fragrant. Serve as a dipping sauce.",
+    "In a small bowl, mix together chopped scallions and sesame seeds. Serve as a garnish for the finished dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "noodles",
+    "fusion",
+    "pibil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-norteno-pibil-pibil--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:15:01.399Z"
+}
