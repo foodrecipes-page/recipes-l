@@ -22176,5 +22176,18 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-greek-ovoli-mushroom-keftedes--keto",
+    "title": "Keto Greek Meatballs with Mushroom Sauce",
+    "tags": [
+      "keto",
+      "meatballs",
+      "mushroom",
+      "greek"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
