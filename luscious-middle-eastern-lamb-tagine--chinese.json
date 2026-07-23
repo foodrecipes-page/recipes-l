@@ -1,0 +1,93 @@
+{
+  "slug": "luscious-middle-eastern-lamb-tagine--chinese",
+  "title": "Eastern Lamb Stir Fry",
+  "description": "A Chinese-inspired dish featuring lamb cooked in a savory sauce with a hint of spice, served with steamed vegetables.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb strips",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Middle Eastern lamb tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Luscious eastern rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Peeled and chopped carrots",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large wok or frying pan over medium-high heat.",
+    "Add lamb and cook until browned, about 3-4 minutes.",
+    "Remove lamb from pan and set aside.",
+    "Add more oil if necessary, then add garlic and ginger and cook until fragrant.",
+    "Add soy sauce, hoisin sauce, and sugar, and stir to combine.",
+    "Return lamb to the pan and stir to coat with sauce.",
+    "Add carrots to the pan and stir-fry for 2-3 minutes.",
+    "Serve lamb and vegetables over steamed rice.",
+    "Garnish with green onions and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lamb",
+    "stir-fry",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 55,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-middle-eastern-lamb-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:52:41.469Z"
+}
