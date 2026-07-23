@@ -16743,16 +16743,16 @@
   },
   {
     "slug": "luscious-smoky-skillet-argentinian-beef-skillet",
-    "title": "luscious smoky skillet argentinian beef skillet",
+    "title": "Argentinian Skillet Steak",
     "tags": [
       "argentinian",
-      "high-protein",
-      "one-pan",
-      "smoked",
-      "weeknight"
+      "skillet",
+      "steak",
+      "beef",
+      "dinner"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 30,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
@@ -22188,6 +22188,44 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "light-pungent-algerian-doraji-tagine--chinese",
+    "title": "Sesame Crusted Doraji Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "doraji",
+      "sesame-crusted"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "lacquer-glazed-malaysian-saskatoon-berries-stew--gluten-free",
+    "title": "Glazed Saskatoon Berry Crumble",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "saskatoon-berries"
+    ],
+    "cuisine": "north american",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-middle-eastern-lamb-tagine--chinese",
+    "title": "Eastern Lamb Stir Fry",
+    "tags": [
+      "chinese",
+      "lamb",
+      "stir-fry",
+      "quick-cooking"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "l"
   }
 ]
