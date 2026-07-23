@@ -1560,17 +1560,15 @@
   },
   {
     "slug": "lazy-sunday-smoky-kenyan-beef-flank-steak-braai",
-    "title": "lazy-sunday smoky kenyan beef flank steak braai",
+    "title": "Smoky Kenyan Braai Steak",
     "tags": [
-      "barbecue",
-      "flank-steak",
-      "high-protein",
       "kenyan",
-      "one-pan",
-      "weeknight"
+      "smoky",
+      "steak",
+      "braai"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "African",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -22040,6 +22038,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-energizing-russian-vermicelli-pasta-pilaf--thai",
+    "title": "Thai Pilaf with Vermicelli",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "pilaf",
+      "vermicelli"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
     "shard": "l"
   }
 ]
