@@ -22028,5 +22028,18 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "lmolten-show-off-red-onions-agave-poke--vegan",
+    "title": "Vegan Poke Bowl",
+    "tags": [
+      "vegan",
+      "poke",
+      "quinoa",
+      "tofu"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
