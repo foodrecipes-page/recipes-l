@@ -22079,5 +22079,74 @@
     "cuisine": "italian",
     "totalTimeMin": 15,
     "shard": "l"
+  },
+  {
+    "slug": "light-argentinian-nuts-tart--vegetarian",
+    "title": "Argentinian Vegetable Tart",
+    "tags": [
+      "argentinian",
+      "light",
+      "vegetarian",
+      "nuts-free",
+      "tart"
+    ],
+    "cuisine": "South American",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "light-crispy-british-chicken-stir-fry--indian",
+    "title": "Indian-Style Chicken Stir Fry",
+    "tags": [
+      "indian",
+      "chicken",
+      "stir-fry",
+      "british-style",
+      "easy-to-make"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-fermented-greek-honey-loukoumades--gluten-free",
+    "title": "Greek Loukoumades with Honey",
+    "tags": [
+      "greek",
+      "dessert",
+      "honey",
+      "loukoumades",
+      "fried-dough",
+      "easy-to-make"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-greek-chickpeas-revithia--chinese",
+    "title": "Smoky Chickpea Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-smoky-syrian-pork-kebabs--french",
+    "title": "Crispy Porks Kebabs with Garlic and Herbs",
+    "tags": [
+      "french",
+      "kebabs",
+      "pork",
+      "grill"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
