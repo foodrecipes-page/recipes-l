@@ -1,0 +1,59 @@
+{
+  "slug": "lmolten-show-off-red-onions-agave-poke--gluten-free",
+  "title": "Grilled Red Onion and Show Skewers with Poke Sauce",
+  "description": "Grilled skewers of red onions and show, served with a tangy poke sauce made from agave and l'molten.",
+  "cuisine": "grill",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red onions",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "show",
+      "amount": "4 ounces",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "agave",
+      "amount": "2 tablespoons",
+      "notes": "for poke sauce"
+    },
+    {
+      "name": "l'molten",
+      "amount": "1 tablespoon",
+      "notes": "for poke sauce"
+    },
+    {
+      "name": "poke",
+      "amount": "1 tablespoon",
+      "notes": "for poke sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread red onions and show onto skewers.",
+    "Brush skewers with a little bit of l'molten.",
+    "Grill skewers for 8-10 minutes, turning frequently.",
+    "Meanwhile, mix together agave, l'molten, and poke in a small bowl.",
+    "Once skewers are cooked, brush with poke sauce and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grill",
+    "summer"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lmolten-show-off-red-onions-agave-poke--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:07:47.640Z"
+}
