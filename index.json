@@ -22254,5 +22254,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 60,
     "shard": "l"
+  },
+  {
+    "slug": "lush-dense-brazilian-chicken-skewers--italian",
+    "title": "Brazilian Chicken Skewers with Italian Twist",
+    "tags": [
+      "chicken",
+      "italian",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
