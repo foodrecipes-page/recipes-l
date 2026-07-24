@@ -1,0 +1,71 @@
+{
+  "slug": "l-dense-garlic-chinese-ladle-curry",
+  "title": "Chinese Curry Chicken",
+  "description": "A flavorful and aromatic Chinese-inspired curry dish made with chicken, a blend of spices, and served over rice.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curry",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add chicken and cook until browned on both sides.",
+    "Add curry powder and stir for 1 minute.",
+    "Add curry and stir to combine.",
+    "Simmer for 10 minutes, or until the chicken is cooked through.",
+    "Serve over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "curry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/l-dense-garlic-chinese-ladle-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:29:38.416Z"
+}
