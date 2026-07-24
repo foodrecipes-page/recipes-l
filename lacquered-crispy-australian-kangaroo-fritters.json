@@ -1,76 +1,74 @@
 {
   "slug": "lacquered-crispy-australian-kangaroo-fritters",
-  "title": "Australian Kangaroo Fritters",
-  "description": "Crispy and flavorful fritters made with tender kangaroo meat. A unique and delicious twist on traditional fritters.",
-  "cuisine": "australian",
+  "title": "Australian-Style Kangaroo Fritters",
+  "description": "Crispy and flavorful fritters filled with the tender meat of kangaroo, a classic Australian dish.",
+  "cuisine": "Australian",
   "diet": [
+    "gluten-free",
     "meat"
   ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "kangaroo meat",
-      "amount": "250g",
-      "notes": "ground"
+      "name": "Kangaroo meat",
+      "amount": "1 pound",
+      "notes": "Ground kangaroo meat"
     },
     {
-      "name": "onion",
+      "name": "Onion",
       "amount": "1 medium",
-      "notes": "finely chopped"
+      "notes": "Chopped"
     },
     {
-      "name": "garlic",
-      "amount": "2 cloves",
-      "notes": "minced"
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Gluten-free"
     },
     {
-      "name": "beef broth",
-      "amount": "1/4 cup",
-      "notes": ""
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten"
     },
     {
-      "name": "all-purpose flour",
-      "amount": "2 tbsp",
-      "notes": ""
+      "name": "Australian fritter seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
     },
     {
-      "name": "egg",
-      "amount": "1",
-      "notes": ""
-    },
-    {
-      "name": "vegetable oil",
-      "amount": "1/2 cup",
-      "notes": ""
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying"
     }
   ],
   "instructions": [
-    "In a large bowl, combine kangaroo meat, onion, garlic, beef broth, flour, and egg. Mix well until just combined.",
-    "Heat vegetable oil in a large frying pan over medium-high heat.",
-    "Using a spoon, drop small amounts of the kangaroo mixture into the hot oil, about 1/4 cup each.",
-    "Flatten the tops of the fritters slightly with a spatula.",
-    "Cook for 4-5 minutes on each side, or until golden brown and crispy.",
-    "Drain on paper towels.",
-    "Serve hot and enjoy!"
+    "1. In a large bowl, combine the ground kangaroo meat, chopped onion, egg, and Australian fritter seasoning. Mix well.",
+    "2. Add the gluten-free breadcrumbs to the bowl and mix until just combined. Be careful not to overmix.",
+    "3. Heat the vegetable oil in a large frying pan over medium-high heat.",
+    "4. Using a spoon, drop small amounts of the kangaroo mixture into the hot oil, about 1/4 cupfuls.",
+    "5. Flatten the mixture slightly with a spatula and cook for 3-4 minutes on each side, until crispy and golden brown.",
+    "6. Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the fritters hot with your favorite dipping sauce."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 20,
-  "totalTimeMin": 30,
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "australian",
     "kangaroo",
-    "fritters"
+    "fritters",
+    "meat",
+    "gluten-free"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 25,
-    "carbs": 5,
-    "fat": 10
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/lacquered-crispy-australian-kangaroo-fritters",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T13:39:03.774Z"
+  "createdAt": "2026-07-20T10:38:03.426Z"
 }
