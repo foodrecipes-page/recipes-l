@@ -1,0 +1,96 @@
+{
+  "slug": "lightly-grilled-german-pork-skewers--mexican",
+  "title": "Tacos de Cerdo a la Parrilla",
+  "description": "A flavorful Mexican-inspired dish featuring pork skewers grilled to perfection, served with a twist of traditional Mexican flavors. This recipe combines the smoky taste of grilled pork with the bold flavors of Mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together chicken broth, lime juice, olive oil, cumin, coriander, paprika, salt, and pepper.",
+    "2. Add the pork cubes to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Thread the marinated pork cubes onto skewers.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the pork is cooked through.",
+    "7. Transfer the skewers to a plate and let rest for 5 minutes.",
+    "8. Serve with tortillas, sliced onion, and any desired toppings.",
+    "9. Garnish with cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "pork",
+    "skewers",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-grilled-german-pork-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:29:41.203Z"
+}
