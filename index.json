@@ -2976,16 +2976,14 @@
   },
   {
     "slug": "light-brazilian-shaggy-bake",
-    "title": "Light Brazilian Shaggy Bake",
+    "title": "Shaggy's Brazilian Bake",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "shojin",
-      "vegan",
-      "weeknight"
+      "brazilian",
+      "dessert",
+      "sweet"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -22264,6 +22262,19 @@
       "grilled"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lime-leaf-braise--chinese",
+    "title": "Beef and Leaf Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "beef",
+      "leaf"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "l"
   }
