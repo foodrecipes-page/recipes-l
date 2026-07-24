@@ -1,0 +1,63 @@
+{
+  "slug": "light-quenching-brazilian-cherry-tomatoes-poke",
+  "title": "Poke and Cherry Tomato Salad",
+  "description": "A refreshing and light salad featuring poke and cherry tomatoes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Poke",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Light",
+      "amount": "2 tbsp",
+      "notes": "sesame oil"
+    },
+    {
+      "name": "Quenching",
+      "amount": "1 tbsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "Brazilian",
+      "amount": "1 tsp",
+      "notes": "cumin"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine poke and cherry tomatoes.",
+    "Drizzle light sesame oil over the top and sprinkle quenching soy sauce.",
+    "Add a pinch of Brazilian cumin and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-quenching-brazilian-cherry-tomatoes-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:16:14.221Z"
+}
