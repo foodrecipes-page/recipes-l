@@ -1,0 +1,77 @@
+{
+  "slug": "luxurious-flaky-portuguese-fish-skillet",
+  "title": "Pan-Seared Portuguese Fish with Skillet Fries",
+  "description": "A delicious and easy-to-make Portuguese-inspired dish with pan-seared fish and crispy skillet fries.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Luxurious Port Wine",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Flaky Cod Fillets",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "Skillet Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into fry shapes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the skillet over medium-high heat.",
+    "2. Season the fish fillets with salt and black pepper.",
+    "3. Add the olive oil to the preheated skillet and sear the fish for 2-3 minutes per side.",
+    "4. Remove the fish from the skillet and set aside.",
+    "5. Add the sliced potatoes to the skillet and fry until crispy and golden brown.",
+    "6. Remove the potatoes from the skillet and set aside with the fish.",
+    "7. Add the Port wine to the skillet and reduce over medium heat until almost completely evaporated.",
+    "8. Return the fish and potatoes to the skillet and simmer for an additional 2-3 minutes.",
+    "9. Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "fish",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-flaky-portuguese-fish-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:24:37.644Z"
+}
