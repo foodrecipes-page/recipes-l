@@ -22304,5 +22304,18 @@
     "cuisine": "italian",
     "totalTimeMin": 180,
     "shard": "l"
+  },
+  {
+    "slug": "lazy-ketchup-tart--vegan",
+    "title": "Lazy Vegan Tart",
+    "tags": [
+      "vegan",
+      "dessert",
+      "tart",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "l"
   }
 ]
