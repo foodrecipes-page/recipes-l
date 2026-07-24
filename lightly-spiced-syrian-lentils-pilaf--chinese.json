@@ -1,0 +1,85 @@
+{
+  "slug": "lightly-spiced-syrian-lentils-pilaf--chinese",
+  "title": "Syrian Lentil Pilaf",
+  "description": "A flavorful and nutritious Chinese-inspired dish made with lentils, pilaf, and spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Lightly spiced oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable or peanut oil with a light blend of spices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat lightly spiced oil in a large skillet or wok over medium-high heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and grated ginger; cook for an additional minute.",
+    "Add cooked pilaf and stir to combine with the onion mixture.",
+    "Add rinsed and drained lentils; stir to combine with the pilaf mixture.",
+    "Add low-sodium soy sauce and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the lentils are heated through.",
+    "Garnish with sesame oil and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "vegetarian",
+    "gluten-free",
+    "lentil-recipe",
+    "pilaf-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-syrian-lentils-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:09:53.428Z"
+}
