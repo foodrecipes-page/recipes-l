@@ -1,0 +1,83 @@
+{
+  "slug": "lightly-steamed-australian-khus-khus-bowl--french",
+  "title": "Steamed Australian Prawns in Khus Broth",
+  "description": "A light and refreshing French-inspired prawn dish, served in a khus broth. Perfect for a warm evening.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian prawns (12)",
+      "amount": "1 kg",
+      "notes": null
+    },
+    {
+      "name": "Khus grass",
+      "amount": "2 bunches",
+      "notes": null
+    },
+    {
+      "name": "Lightly steamed water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the prawns under cold water and pat dry with paper towels.",
+    "2. In a large bowl, combine the khus grass, lightly steamed water, salt, and black pepper. Stir well to combine.",
+    "3. Bring the khus broth to a simmer over medium heat.",
+    "4. Add the prawns to the khus broth and cook for 3-4 minutes, or until they are pink and cooked through.",
+    "5. Remove the prawns from the broth with a slotted spoon and place on a plate.",
+    "6. Strain the khus broth through a fine-mesh sieve into a clean bowl, discarding the solids.",
+    "7. Serve the prawns in the khus broth, garnished with chopped parsley and lemon wedges.",
+    "8. Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "prawns",
+    "khus",
+    "french",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-steamed-australian-khus-khus-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:24:59.216Z"
+}
