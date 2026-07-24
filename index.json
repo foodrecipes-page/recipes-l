@@ -1,12 +1,11 @@
 [
   {
     "slug": "l-dense-garlic-chinese-ladle-curry",
-    "title": "L.Dense Garlic Chinese Ladle Curry",
+    "title": "Chinese Curry Chicken",
     "tags": [
-      "dense",
-      "egg-free",
-      "garlicky",
-      "kid-friendly"
+      "chinese",
+      "curry",
+      "chicken"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 30,
@@ -82,14 +81,16 @@
   },
   {
     "slug": "lacquered-crispy-australian-kangaroo-fritters",
-    "title": "Australian Kangaroo Fritters",
+    "title": "Australian-Style Kangaroo Fritters",
     "tags": [
       "australian",
       "kangaroo",
-      "fritters"
+      "fritters",
+      "meat",
+      "gluten-free"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 30,
+    "cuisine": "Australian",
+    "totalTimeMin": 23,
     "shard": "l"
   },
   {
@@ -5967,18 +5968,14 @@
   },
   {
     "slug": "light-roasted-mediterranean-tofu-salad",
-    "title": "Light Roasted Mediterranean Tofu Salad",
+    "title": "Roasted Mediterranean Salad",
     "tags": [
-      "easy-meal",
-      "gluten-free",
-      "light",
-      "mediterranean",
-      "roasted",
-      "salad",
-      "vegan"
+      "healthy",
+      "vegetarian",
+      "easy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -22478,6 +22475,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lush-broiled-algerian-pea-eggplant-tagine--french",
+    "title": "French Algerian Eggplant Tagine",
+    "tags": [
+      "algerian",
+      "eggplant",
+      "french",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 65,
     "shard": "l"
   }
 ]
