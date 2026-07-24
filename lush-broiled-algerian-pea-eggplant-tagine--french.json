@@ -1,0 +1,81 @@
+{
+  "slug": "lush-broiled-algerian-pea-eggplant-tagine--french",
+  "title": "French Algerian Eggplant Tagine",
+  "description": "A flavorful French-inspired dish that combines the rich flavors of Algerian cuisine with tender eggplant.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "lush olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing eggplant"
+    },
+    {
+      "name": "pea",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can (14 oz)",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large skillet over high heat.",
+    "Add eggplant and sear until browned on all sides, about 5 minutes.",
+    "Transfer eggplant to a large baking dish.",
+    "Heat remaining 1 tbsp of olive oil in the skillet over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add pea, tomato, and Algerian spice blend to the skillet.",
+    "Stir to combine and cook for 2 minutes.",
+    "Pour the mixture over the eggplant in the baking dish.",
+    "Cover the dish with foil and bake at 375°F (190°C) for 30 minutes.",
+    "Remove foil and continue baking for an additional 15-20 minutes, or until eggplant is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "eggplant",
+    "french",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-broiled-algerian-pea-eggplant-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:38:26.939Z"
+}
