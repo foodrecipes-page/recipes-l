@@ -1,0 +1,86 @@
+{
+  "slug": "luscious-tunisian-natto-tagine--italian",
+  "title": "Tunisian Lamb Tagine with Italian Twist",
+  "description": "A fusion of Italian and Tunisian flavors, this hearty lamb tagine is a delicious twist on traditional Italian braises.",
+  "cuisine": "italian",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "dry, such as Chianti"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb on all sides in batches, about 5 minutes per batch. Transfer to a plate.",
+    "Reduce heat to medium and cook onion until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in tagine spice mix and cook for 1 minute.",
+    "Add chicken broth, white wine, and honey (if using). Bring to a boil, scraping up browned bits.",
+    "Return lamb to the pot, cover, and transfer to the oven.",
+    "Braise lamb in the preheated oven at 300°F (150°C) for 2-1/2 hours, or until tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with parsley before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "tagine",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "38g",
+    "carbs": "24g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-tunisian-natto-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:25:24.288Z"
+}
