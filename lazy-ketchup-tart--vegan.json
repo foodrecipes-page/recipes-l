@@ -1,0 +1,62 @@
+{
+  "slug": "lazy-ketchup-tart--vegan",
+  "title": "Lazy Vegan Tart",
+  "description": "A delicious and easy-to-make vegan tart filled with a sweet and tangy filling.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tart Crust",
+      "amount": "1 crust",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lazy Filling",
+      "amount": "1 cup",
+      "notes": "see below for ingredients"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tablespoon",
+      "notes": "grade B for a stronger flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the tart crust and place it in a 9-inch tart pan.",
+    "In a blender or food processor, combine the lazy filling ingredients and blend until smooth.",
+    "Pour the filling into the tart crust.",
+    "Drizzle the lemon juice and maple syrup over the filling.",
+    "Bake for 40-45 minutes, or until the crust is golden brown and the filling is set.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "dessert",
+    "tart",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-ketchup-tart--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:21:36.405Z"
+}
