@@ -1,0 +1,79 @@
+{
+  "slug": "lovely-juicy-ukrainian-pork-kebabs",
+  "title": "Ukrainian-Style Pork Kebabs",
+  "description": "A hearty and flavorful dish featuring marinated pork kebabs, inspired by Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Lovely Ukrainian red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Juicy chopped onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "medium"
+    },
+    {
+      "name": "Ukrainian-style allspice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F / 190°C)",
+    "In a large bowl, whisk together vinegar, onion, garlic, and allspice.",
+    "Add the pork cubes to the marinade and mix well to coat.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Remove pork from marinade, allowing excess to drip off.",
+    "Thread pork onto skewers, leaving a small space between each piece.",
+    "Brush with vegetable oil and season with salt and pepper.",
+    "Grill for 8-10 minutes per side, or until pork reaches an internal temperature of 145°F (63°C).",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "kebabs",
+    "ukrainian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-juicy-ukrainian-pork-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:00:08.019Z"
+}
