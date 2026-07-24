@@ -1,0 +1,60 @@
+{
+  "slug": "light-roasted-mediterranean-tofu-salad",
+  "title": "Roasted Mediterranean Salad",
+  "description": "A refreshing salad featuring roasted vegetables and crumbled feta, perfect for a light lunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "light olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1 cup, sliced",
+      "notes": "from a jar"
+    },
+    {
+      "name": "mediterranean salad mix",
+      "amount": "4 cups"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss sliced red peppers with 1 tablespoon olive oil and roast for 10 minutes.",
+    "In a large bowl, combine salad mix, roasted red peppers, feta cheese, and parsley.",
+    "Drizzle with 1 tablespoon olive oil and toss to combine.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-roasted-mediterranean-tofu-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:32:44.059Z"
+}
