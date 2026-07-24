@@ -14823,17 +14823,14 @@
   },
   {
     "slug": "lrich-parmesan-cheese-pasta",
-    "title": "Lrich Parmesan Cheese Pasta",
+    "title": "Creamy Pasta Bake",
     "tags": [
-      "gluten-free",
-      "jamaican-influenced",
-      "parmigiana-style",
-      "rich-creamy-pasta",
-      "vegan-friendly",
-      "vegetarian"
+      "italian",
+      "cheesy",
+      "comfort-food"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 65,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -22332,6 +22329,32 @@
     ],
     "cuisine": "grill",
     "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-spiced-syrian-lentils-pilaf--chinese",
+    "title": "Syrian Lentil Pilaf",
+    "tags": [
+      "chinese-cuisine",
+      "vegetarian",
+      "gluten-free",
+      "lentil-recipe",
+      "pilaf-recipe"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-garlicky-indian-tomato-pav-bhaji--indian",
+    "title": "Bhaji Pav Sandwich",
+    "tags": [
+      "indian-sandwich",
+      "street-food",
+      "vegetarian-dishes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
