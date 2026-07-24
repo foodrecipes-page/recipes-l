@@ -1,0 +1,78 @@
+{
+  "slug": "light-moroccan-lemongrass-takrai-tagine--mexican",
+  "title": "Lemongrass Chicken Fajitas",
+  "description": "Savory lemongrass chicken fajitas with a hint of Mexican spice, served with warm flour tortillas. Perfect for a quick weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4-6",
+      "notes": "warm for serving"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the chopped lemongrass, moroccan spice blend, and cumin to the skillet and stir to combine.",
+    "Add the sliced bell peppers and onions to the skillet and cook until tender, about 5 minutes.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by slicing the cooked chicken and serving it with the vegetables, tortillas, and your favorite toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-moroccan-lemongrass-takrai-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:55:10.421Z"
+}
