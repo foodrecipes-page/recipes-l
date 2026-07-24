@@ -22405,5 +22405,44 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "light-warming-russian-eggs-bake--indian",
+    "title": "Russian-Style Egg Bakes",
+    "tags": [
+      "russian",
+      "indian",
+      "eggs",
+      "bake"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "light-nutty-almond-crumble--vegan",
+    "title": "Almond Crumble Oatmeal Bars",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "bars",
+      "oatmeal"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-buttery-russian-fideo-pilaf--chinese",
+    "title": "Russian-Style Chinese Pilaf",
+    "tags": [
+      "chinese",
+      "pilaf",
+      "russian-style",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "l"
   }
 ]
