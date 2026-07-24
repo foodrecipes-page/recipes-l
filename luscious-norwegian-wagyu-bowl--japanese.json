@@ -1,0 +1,89 @@
+{
+  "slug": "luscious-norwegian-wagyu-bowl--japanese",
+  "title": "Pan-Seared Wagyu with Japanese-Style Bowl",
+  "description": "A simple and elegant dish featuring the richness of Wagyu beef, served with a side of steamed vegetables and Japanese-style rice bowl.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef strip loin",
+      "amount": "1 lb",
+      "notes": "preferably with a marbling score of 6 or higher"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Luscious nori seaweed",
+      "amount": "2 sheets",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Bowl nori seasoning",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Steamed broccoli",
+      "amount": "1 head",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Bring a pot of water to a boil and cook Japanese rice according to package instructions.",
+    "2. In a small bowl, whisk together soy sauce, sake, and sesame oil to make a marinade.",
+    "3. Place the Wagyu beef strip loin in a shallow dish and brush both sides with the marinade.",
+    "4. Heat a skillet over high heat and sear the Wagyu beef for 2-3 minutes on each side, or until cooked to desired level of doneness.",
+    "5. Let the Wagyu beef rest for 5 minutes before slicing.",
+    "6. While the Wagyu beef is cooking, steam broccoli florets in a steamer basket until tender.",
+    "7. To assemble the Japanese-style rice bowl, place a scoop of cooked Japanese rice on a plate, followed by sliced Wagyu beef, steamed broccoli, and a sprinkle of nori seaweed.",
+    "8. Season with bowl nori seasoning and garnish with green onions.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wagyu",
+    "japanese",
+    "rice-bowl",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-norwegian-wagyu-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:54:51.164Z"
+}
