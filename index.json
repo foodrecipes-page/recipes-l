@@ -22277,5 +22277,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "light-and-malty-japanese-rice-donburi--german",
+    "title": "German-Style Rice Donburi",
+    "tags": [
+      "german",
+      "japanese",
+      "donburi",
+      "rice",
+      "sausages"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-tunisian-natto-tagine--italian",
+    "title": "Tunisian Lamb Tagine with Italian Twist",
+    "tags": [
+      "italian",
+      "lamb",
+      "tagine",
+      "braise"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 180,
+    "shard": "l"
   }
 ]
