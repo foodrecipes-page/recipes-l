@@ -18506,17 +18506,14 @@
   },
   {
     "slug": "luxurious-flaky-portuguese-fish-skillet",
-    "title": "Luxurious Flaky Portuguese Fish Skillet",
+    "title": "Pan-Seared Portuguese Fish with Skillet Fries",
     "tags": [
-      "cazuela-recipes",
-      "fish-recipes",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "portuguese-cuisine"
+      "portuguese",
+      "fish",
+      "skillet"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "l"
   },
   {
@@ -22380,6 +22377,33 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "light-turkish-leek-stir-fry--mexican",
+    "title": "Turkish-Style Beef Tacos",
+    "tags": [
+      "mexican",
+      "beef",
+      "tacos",
+      "turkish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-grilled-german-pork-skewers--mexican",
+    "title": "Tacos de Cerdo a la Parrilla",
+    "tags": [
+      "mexican",
+      "grilled",
+      "pork",
+      "skewers",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "l"
   }
 ]
