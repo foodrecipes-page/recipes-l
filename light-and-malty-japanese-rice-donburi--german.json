@@ -1,0 +1,89 @@
+{
+  "slug": "light-and-malty-japanese-rice-donburi--german",
+  "title": "German-Style Rice Donburi",
+  "description": "A unique fusion of Japanese and German flavors, this hearty rice bowl features grilled sausages and savory vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Light Japanese Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Andouille Sausages",
+      "amount": "4",
+      "notes": "pre-cooked, sliced"
+    },
+    {
+      "name": "Malty Beer",
+      "amount": "1 cup",
+      "notes": "for braising"
+    },
+    {
+      "name": "Donburi Sausage Seasoning",
+      "amount": "2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Sliced Onions",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "Sliced Bell Peppers",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "amount": "1 cup",
+      "notes": "button"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the Malty Beer in a large skillet over medium-high heat.",
+    "Add the sliced Onions and Bell Peppers to the skillet and cook until tender, about 5 minutes.",
+    "Add the sliced Mushrooms to the skillet and cook until tender, about 5 minutes.",
+    "Add the sliced Andouille Sausages to the skillet and cook until heated through.",
+    "Stir in the Donburi Sausage Seasoning to taste.",
+    "To assemble the Donburi, place a scoop of Light Japanese Rice in the bottom of a bowl.",
+    "Top the rice with the sausage and vegetable mixture, followed by a drizzle of Soy Sauce and Sesame Oil if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "japanese",
+    "donburi",
+    "rice",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-and-malty-japanese-rice-donburi--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:18:02.898Z"
+}
