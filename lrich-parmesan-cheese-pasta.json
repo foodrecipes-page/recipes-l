@@ -1,0 +1,58 @@
+{
+  "slug": "lrich-parmesan-cheese-pasta",
+  "title": "Creamy Pasta Bake",
+  "description": "A comforting and easy-to-make pasta dish loaded with lrich, parmesan, and cheese.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rich pasta",
+      "amount": "500g",
+      "notes": "Short, tubular pasta"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "120g",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "200g",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large saucepan, melt 2 tbsp butter over medium heat.",
+    "Add 2 cloves of minced garlic and cook for 1 minute.",
+    "Stir in 120g grated parmesan cheese until melted.",
+    "Combine cooked pasta, cheese sauce, and 200g shredded mozzarella cheese in a large mixing bowl.",
+    "Transfer the pasta mixture to a baking dish and top with additional mozzarella cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until golden brown and bubbly.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "cheesy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lrich-parmesan-cheese-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:56:30.228Z"
+}
