@@ -1,0 +1,100 @@
+{
+  "slug": "lacquer-glazed-mexican-morbier-tacos--chinese",
+  "title": "Chinese-Style Glazed Tacos",
+  "description": "A fusion of Chinese and Mexican flavors, featuring glazed pork and crispy tacos.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Lacquer",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Glazed",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tacos",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Morbier Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine ground pork, Mexican seasoning, soy sauce, brown sugar, rice vinegar, and lacquer (if using).",
+    "Mix well and set aside for 15 minutes to allow the flavors to meld.",
+    "Add the mixture to a baking dish and bake for 20-25 minutes, or until cooked through.",
+    "Meanwhile, cook the tacos according to package instructions.",
+    "To assemble the tacos, place a spoonful of the glazed pork onto a taco shell.",
+    "Top with shredded Morbier cheese, chopped cilantro, and a drizzle of glazed sauce (see below).",
+    "Glazed sauce: In a small saucepan, combine glaze, water, and brown sugar. Bring to a boil over medium heat, then reduce heat to low and simmer for 5-7 minutes, or until thickened.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "mexican",
+    "fusion",
+    "tacos",
+    "glazed"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacquer-glazed-mexican-morbier-tacos--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:02:02.249Z"
+}
