@@ -5908,17 +5908,14 @@
   },
   {
     "slug": "light-quenching-brazilian-cherry-tomatoes-poke",
-    "title": "light quenching brazilian cherry tomatoes poke",
+    "title": "Poke and Cherry Tomato Salad",
     "tags": [
-      "brazilian",
-      "gluten-free",
-      "light-quenching",
-      "poked",
-      "snack",
-      "vegan"
+      "salad",
+      "lunch",
+      "easy"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 25,
+    "cuisine": "Japanese",
+    "totalTimeMin": 5,
     "shard": "l"
   },
   {
@@ -22443,6 +22440,44 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "loomy-comforting-mung-bean-sproutsukju-pilaf--french",
+    "title": "French Mung Bean Pilaf",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "mung-bean",
+      "pilaf"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "light-moroccan-lemongrass-takrai-tagine--mexican",
+    "title": "Lemongrass Chicken Fajitas",
+    "tags": [
+      "chicken",
+      "mexican",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-steamed-australian-khus-khus-bowl--french",
+    "title": "Steamed Australian Prawns in Khus Broth",
+    "tags": [
+      "prawns",
+      "khus",
+      "french",
+      "seafood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
