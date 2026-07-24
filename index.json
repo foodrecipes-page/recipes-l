@@ -22489,5 +22489,19 @@
     "cuisine": "french",
     "totalTimeMin": 65,
     "shard": "l"
+  },
+  {
+    "slug": "lacquer-glazed-mexican-morbier-tacos--chinese",
+    "title": "Chinese-Style Glazed Tacos",
+    "tags": [
+      "chinese",
+      "mexican",
+      "fusion",
+      "tacos",
+      "glazed"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "l"
   }
 ]
