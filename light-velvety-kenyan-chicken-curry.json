@@ -1,0 +1,96 @@
+{
+  "slug": "light-velvety-kenyan-chicken-curry",
+  "title": "Kenyan Chicken Curry",
+  "description": "A flavorful and aromatic Kenyan-inspired curry dish made with tender chicken and a blend of spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Kenyan curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "velvety olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of velvety olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chicken to the pan and cook until browned, about 5-6 minutes.",
+    "Add the Kenyan curry powder and cook for 1 minute, stirring constantly.",
+    "Add the diced tomato and cook for an additional 2-3 minutes.",
+    "Pour in the light coconut milk and stir to combine.",
+    "Bring the mixture to a simmer and let cook for 10-15 minutes, or until the chicken is cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh cilantro, if desired.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-velvety-kenyan-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:53:03.392Z"
+}
