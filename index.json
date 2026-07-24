@@ -22356,5 +22356,30 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-norwegian-wagyu-bowl--japanese",
+    "title": "Pan-Seared Wagyu with Japanese-Style Bowl",
+    "tags": [
+      "wagyu",
+      "japanese",
+      "rice-bowl",
+      "beef"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
+    "shard": "l"
+  },
+  {
+    "slug": "light-garlicky-fenugreek-stir-fry--chinese",
+    "title": "Stir Fry Fenugreek Leaves",
+    "tags": [
+      "chinese",
+      "fenugreek",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "l"
   }
 ]
