@@ -1,0 +1,87 @@
+{
+  "slug": "light-warming-russian-eggs-bake--indian",
+  "title": "Russian-Style Egg Bakes",
+  "description": "A delicious Indian-inspired egg bake with spicy Russian flavors. Perfect for a quick and easy breakfast or brunch.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "Light cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/2 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the diced bell peppers and minced garlic until tender.",
+    "In a large bowl, whisk together the eggs, light cream, shredded cheddar cheese, chopped scallions, ground cumin, smoked paprika, salt, and pepper.",
+    "Add the cooked bell pepper mixture to the egg mixture and stir to combine.",
+    "Pour the egg mixture into a greased 9x13-inch baking dish.",
+    "Bake for 35-40 minutes, or until the eggs are set and the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "indian",
+    "eggs",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-warming-russian-eggs-bake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:41:25.828Z"
+}
