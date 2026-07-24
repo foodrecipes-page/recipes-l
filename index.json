@@ -7121,17 +7121,14 @@
   },
   {
     "slug": "light-velvety-kenyan-chicken-curry",
-    "title": "Light Velvety Kenyan Chicken Curry",
+    "title": "Kenyan Chicken Curry",
     "tags": [
-      "gluten-free",
-      "kenyan-cuisine",
-      "kid-friendly",
-      "macrobiotic",
-      "one-pot",
-      "sous-vide"
+      "chicken",
+      "curry",
+      "kenyan"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 160,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -10038,17 +10035,13 @@
   },
   {
     "slug": "lightly-smoky-russian-pepper-pilaf",
-    "title": "Lightly Smoky Russian Pepper Pilaf",
+    "title": "Smoky Russian Pilaf",
     "tags": [
-      "cauliflower-rice",
-      "gluten-free",
-      "one-pan",
-      "paleo-friendly",
-      "russian-cuisine",
-      "smoky-flavors"
+      "pilaf",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 55,
+    "cuisine": "russian",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
