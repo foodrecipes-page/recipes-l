@@ -1,0 +1,86 @@
+{
+  "slug": "lightly-smoky-russian-pepper-pilaf",
+  "title": "Smoky Russian Pilaf",
+  "description": "A hearty and flavorful pilaf dish inspired by Russian cuisine, featuring smoky notes from the bacon and a perfect balance of spices.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the bacon in a large skillet over medium heat until crispy. Remove the bacon from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the smoked paprika and thyme to the skillet and cook for 1 minute.",
+    "Add the pilaf to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 20-25 minutes or until the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and season with salt and pepper to taste.",
+    "Serve the pilaf hot, topped with the crispy bacon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-russian-pepper-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:46:14.133Z"
+}
