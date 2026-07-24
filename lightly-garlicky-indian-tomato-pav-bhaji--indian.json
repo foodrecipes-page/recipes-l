@@ -1,0 +1,77 @@
+{
+  "slug": "lightly-garlicky-indian-tomato-pav-bhaji--indian",
+  "title": "Bhaji Pav Sandwich",
+  "description": "A classic Indian street food, this sandwich combines crispy fried bhaji with soft pav and a hint of garlic.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bhaji",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pav",
+      "amount": "4-6",
+      "notes": "Indian bread rolls"
+    },
+    {
+      "name": "lightly garlic mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "medium-sized"
+    },
+    {
+      "name": "green chutney",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan for frying bhaji.",
+    "Cut the pav into halves and toast until lightly browned.",
+    "Spread garlic mayonnaise on the toasted pav.",
+    "Place a few pieces of fried bhaji on top of the mayonnaise.",
+    "Add a slice of tomato.",
+    "Drizzle some green chutney.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-sandwich",
+    "street-food",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-garlicky-indian-tomato-pav-bhaji--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:41:29.208Z"
+}
