@@ -1,0 +1,82 @@
+{
+  "slug": "lightly-smoked-filipino-clams-menudo",
+  "title": "Filipino-Style Smoked Clams",
+  "description": "A flavorful Filipino-inspired dish featuring smoked clams in a savory broth, perfect for a seafood lover's evening dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked clams",
+      "amount": "2 pounds",
+      "notes": "Fresh or frozen clams may be substituted, but smoked adds a unique flavor"
+    },
+    {
+      "name": "Lightly fish broth",
+      "amount": "4 cups",
+      "notes": "Use low-sodium broth for a healthier option"
+    },
+    {
+      "name": "Menudo",
+      "amount": "1/2 cup",
+      "notes": "Filipino tomato-based sauce adds a burst of flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped onion adds natural sweetness and crunch"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic enhances the savory flavor"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lime juice adds a touch of acidity"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped parsley adds a fresh, herbaceous note"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "Season to taste with salt and pepper"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the smoked clams under cold water and set aside.",
+    "2. In a large saucepan, heat the fish broth over medium heat.",
+    "3. Add the menudo, onion, and garlic to the saucepan and cook until the onion is translucent.",
+    "4. Add the smoked clams to the saucepan and cook for 2-3 minutes or until heated through.",
+    "5. Squeeze the lime juice over the clams and stir to combine.",
+    "6. Season with salt and pepper to taste.",
+    "7. Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "seafood",
+    "dinner",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-filipino-clams-menudo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:26:48.123Z"
+}
