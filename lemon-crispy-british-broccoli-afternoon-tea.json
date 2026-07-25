@@ -1,0 +1,67 @@
+{
+  "slug": "lemon-crispy-british-broccoli-afternoon-tea",
+  "title": "British Broccoli with Lemon",
+  "description": "A simple and flavorful side dish that combines steamed broccoli with a tangy lemon sauce.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 medium",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for steaming"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a boil and fill a steamer basket with broccoli.",
+    "Steam the broccoli for 5 minutes, or until tender.",
+    "In a small saucepan, combine lemon juice and olive oil.",
+    "Heat the saucepan over medium heat, whisking constantly, until the sauce is warm and slightly thickened.",
+    "Season the sauce with salt and pepper to taste.",
+    "Serve the steamed broccoli with the lemon sauce spooned over the top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "vegetarian",
+    "sidedish",
+    "lemon",
+    "broccoli"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemon-crispy-british-broccoli-afternoon-tea",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:52:58.090Z"
+}
