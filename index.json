@@ -2025,17 +2025,16 @@
   },
   {
     "slug": "lemon-crispy-british-broccoli-afternoon-tea",
-    "title": "Lemon Crispy British Broccoli Afternoon Tea",
+    "title": "British Broccoli with Lemon",
     "tags": [
-      "afternoon-tea",
-      "crispy",
-      "low-carb",
-      "sattvic-friendly",
+      "british",
       "vegetarian",
-      "weeknight"
+      "sidedish",
+      "lemon",
+      "broccoli"
     ],
     "cuisine": "British",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -7451,16 +7450,14 @@
   },
   {
     "slug": "lightly-braised-french-chicken-blanquette",
-    "title": "Lightly Braised French Chicken Blanquette",
+    "title": "Classic French Chicken Blanquette",
     "tags": [
-      "french-cuisine",
-      "gluten-free",
-      "one-pot",
-      "sugar-free",
-      "weeknight-dinner"
+      "french",
+      "chicken",
+      "blanquette"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -22572,6 +22569,34 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-algerian-navy-bean-tagine--vegetarian",
+    "title": "Vegetarian Algerian Tagine",
+    "tags": [
+      "vegetarian",
+      "north-african",
+      "stew",
+      "beans",
+      "carrots",
+      "potatoes"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriously-creamy-argentinian-korean-pear-gratin--french",
+    "title": "French Pear Gratin",
+    "tags": [
+      "pear",
+      "gratin",
+      "french",
+      "dessert"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
     "shard": "l"
   }
 ]
