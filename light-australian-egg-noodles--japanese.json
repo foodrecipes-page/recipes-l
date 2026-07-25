@@ -1,0 +1,68 @@
+{
+  "slug": "light-australian-egg-noodles--japanese",
+  "title": "Japanese-Style Egg Noodle Stir Fry",
+  "description": "A simple and flavorful Japanese-inspired noodle dish made with egg noodles, light Australian sauce, and a variety of vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian light sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the egg noodles according to the package instructions. Drain and set aside.",
+    "In a small bowl, whisk together the Australian light sauce and 1 tablespoon of water.",
+    "In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the green onions, bean sprouts, and cabbage. Cook, stirring frequently, for 4-5 minutes or until the vegetables are tender.",
+    "Push the vegetables to one side of the skillet. Crack in the eggs and scramble them until cooked through.",
+    "Mix the eggs with the vegetables.",
+    "Add the cooked noodles to the skillet and stir in the Australian light sauce mixture.",
+    "Cook for an additional 1-2 minutes, until the noodles are well coated.",
+    "Serve hot and garnish with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-australian-egg-noodles--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:34:58.847Z"
+}
