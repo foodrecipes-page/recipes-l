@@ -1,0 +1,91 @@
+{
+  "slug": "lightly-crunchy-mexican-chicken-tacos",
+  "title": "Crunchy Mexican Chicken Tacos",
+  "description": "A delicious twist on traditional tacos, featuring crispy chicken and crunchy toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "crunchy taco shells",
+      "amount": "6 shells",
+      "notes": null
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "salsa",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a shallow dish, mix together salt, pepper, and a pinch of oil.",
+    "Dredge chicken pieces in the mixture, coating evenly.",
+    "Place chicken on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until cooked through.",
+    "While chicken is baking, warm taco shells according to package instructions.",
+    "In a separate pan, heat diced tomatoes and salsa over low heat.",
+    "Once chicken is done, let it rest for a few minutes before shredding.",
+    "Assemble tacos by spooning shredded chicken onto a warmed shell, followed by a spoonful of the tomato/salsa mixture, and topped with cheese, cilantro, and a sprinkle of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "chicken",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-crunchy-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:11:26.759Z"
+}
