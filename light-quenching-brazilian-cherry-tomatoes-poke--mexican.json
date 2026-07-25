@@ -1,0 +1,77 @@
+{
+  "slug": "light-quenching-brazilian-cherry-tomatoes-poke--mexican",
+  "title": "Mexican Poke Salad",
+  "description": "A fresh and light Mexican-inspired poke salad with cherry tomatoes, quenching flavor, and a touch of Brazilian spice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Light Poke Marinade",
+      "amount": "1/2 cup",
+      "notes": "Combine 2 tablespoons soy sauce, 1 tablespoon lime juice, 1 minced garlic clove, and 1 teaspoon diced cilantro."
+    },
+    {
+      "name": "Quenching Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-Style Roasted Peppers",
+      "amount": "2",
+      "notes": "Roast 2 red bell peppers at 400°F for 30 minutes, then peel and slice."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Tortilla Chips",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the Light Poke Marinade ingredients.",
+    "Add the Quenching Cherry Tomatoes, Brazilian-Style Roasted Peppers, and Fresh Cilantro to the marinade.",
+    "Toss to coat and refrigerate for at least 30 minutes.",
+    "Just before serving, squeeze the Lime Juice over the salad and season with Salt and Pepper to taste.",
+    "Garnish with Crushed Tortilla Chips, if using.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "salad",
+    "poke",
+    "cherry-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-quenching-brazilian-cherry-tomatoes-poke--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:15:28.147Z"
+}
