@@ -1,0 +1,70 @@
+{
+  "slug": "light-romantic-garlic-haricot-beans-stir-fry--thai",
+  "title": "Spicy Haricot Bean Stir Fry",
+  "description": "A quick and delicious Thai-inspired stir fry made with haricot beans, garlic, and a hint of spice.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "stir-fry mix",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, etc."
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and chili peppers (if using) and stir-fry until fragrant.",
+    "Add stir-fry mix and cook until tender.",
+    "Add haricot beans and cook for an additional 2-3 minutes.",
+    "Season with light soy sauce and serve over rice.",
+    "Garnish with additional chili peppers or garlic if desired.",
+    "Serve immediately and enjoy!",
+    "Optional: Serve with a side of steamed vegetables or a simple salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "stir-fry",
+    "haricot-beans",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-romantic-garlic-haricot-beans-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:09:45.456Z"
+}
