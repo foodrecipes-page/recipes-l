@@ -1,0 +1,85 @@
+{
+  "slug": "low-carb-friendly-french-bramley-apples-coq-au-vin--japanese",
+  "title": "Japanese Coq Au Vin with Low Carb Apples",
+  "description": "A twist on the classic French dish, adapted with Asian flavors and low-carb ingredients. This recipe combines the richness of coq au vin with the sweetness of Japanese-style apples.",
+  "cuisine": "japanese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coq",
+      "amount": "1 whole chicken, cut into 8 pieces"
+    },
+    {
+      "name": "bramley apples",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "low carb friendly ingredients (e.g. cauliflower mash, zucchini noodles)",
+      "amount": "as needed"
+    },
+    {
+      "name": "vin",
+      "amount": "1 cup red wine"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper.",
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add more sesame oil if needed, then sauté the sliced apples until caramelized, about 5 minutes.",
+    "Add the soy sauce, sugar, ginger, and garlic to the skillet and stir to combine.",
+    "Return the chicken to the skillet and pour in the red wine.",
+    "Bring the mixture to a simmer and cook until the chicken is cooked through and the sauce has thickened, about 10-12 minutes.",
+    "Serve the chicken and apples with low-carb friendly sides (e.g. cauliflower mash, zucchini noodles).",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "coq-au-vin",
+    "low-carb",
+    "french-technique"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-carb-friendly-french-bramley-apples-coq-au-vin--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:31:34.885Z"
+}
