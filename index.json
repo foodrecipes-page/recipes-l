@@ -11684,16 +11684,14 @@
   },
   {
     "slug": "lively-smoked-sweet-jamaican-sweet-potatoes-tagine",
-    "title": "Lively Smoked Sweet Jamaican Sweet Potatoes Tagine",
+    "title": "Smoked Jamaican Potatoes",
     "tags": [
-      "jamaican",
-      "lacto-vegetarian",
-      "one-pan",
-      "smoked",
-      "sweet-potatoes",
-      "weeknight"
+      "caribbean",
+      "side-dish",
+      "vegetarian",
+      "potatoes"
     ],
-    "cuisine": "jamaican",
+    "cuisine": "Caribbean",
     "totalTimeMin": 45,
     "shard": "l"
   },
@@ -22814,6 +22812,31 @@
       "french-technique"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-laminate-kenyan-bacon-skillet--french",
+    "title": "French Pan-Seared Bacon",
+    "tags": [
+      "breakfast",
+      "french",
+      "bacon"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "light-quenching-brazilian-cherry-tomatoes-poke--mexican",
+    "title": "Mexican Poke Salad",
+    "tags": [
+      "mexican",
+      "salad",
+      "poke",
+      "cherry-tomatoes"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "l"
   }
