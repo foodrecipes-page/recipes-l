@@ -1,0 +1,62 @@
+{
+  "slug": "lush-smoky-uruguayan-comte-salad--vegan",
+  "title": "Smoky Uruguayan Salad Bowl",
+  "description": "A hearty and flavorful vegan salad bowl inspired by the bold flavors of Uruguay, featuring smoky ingredients and a tangy salad.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lush Greens",
+      "amount": "4 cups, mixed baby greens"
+    },
+    {
+      "name": "Smoky Roasted Sweet Potatoes",
+      "amount": "2 medium, peeled and cubed"
+    },
+    {
+      "name": "Smoky Uruguayan Beans",
+      "amount": "1 cup, cooked and chilled"
+    },
+    {
+      "name": "Comté-Free Vegan Cheese (such as Daiya)",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Homemade Salad Dressing",
+      "amount": "2 tablespoons, see note"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss sweet potatoes with 1 tablespoon of oil, salt, and pepper on a baking sheet.",
+    "Roast for 20-25 minutes, or until tender and slightly charred.",
+    "In a separate pan, heat 1 tablespoon of oil over medium heat.",
+    "Add beans and cook for 5 minutes, stirring occasionally.",
+    "In a large bowl, combine greens, roasted sweet potatoes, beans, and vegan cheese.",
+    "Drizzle with homemade salad dressing and toss to combine.",
+    "Serve immediately, garnished with additional salad dressing if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salad",
+    "vegan",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lush-smoky-uruguayan-comte-salad--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:30:13.982Z"
+}
