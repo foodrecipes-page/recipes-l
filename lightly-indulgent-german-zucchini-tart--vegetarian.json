@@ -1,0 +1,85 @@
+{
+  "slug": "lightly-indulgent-german-zucchini-tart--vegetarian",
+  "title": "German Zucchini Tart",
+  "description": "A delicious vegetarian tart filled with sautéed zucchini and a hint of German flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 ounces, sliced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large, beaten"
+    },
+    {
+      "name": "Tart crust dough",
+      "amount": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the tart crust dough and place it in a 9-inch tart pan.",
+    "In a skillet, sauté the sliced zucchini, onion, and mushrooms in butter until tender.",
+    "Add garlic and sauté for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "In a separate bowl, beat the egg and mix with a fork.",
+    "Add the cooked zucchini mixture to the bowl and mix well.",
+    "Pour the egg mixture into the tart crust.",
+    "Bake for 25-30 minutes or until the tart is golden brown.",
+    "Let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "tart",
+    "zucchini"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-indulgent-german-zucchini-tart--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:28:25.069Z"
+}
