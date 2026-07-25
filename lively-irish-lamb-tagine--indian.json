@@ -1,0 +1,106 @@
+{
+  "slug": "lively-irish-lamb-tagine--indian",
+  "title": "Indian Lamb Tagine",
+  "description": "A flavorful and aromatic lamb tagine dish inspired by Indian cuisine, made with tender lamb and a rich blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Lively Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "see note"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, coriander, turmeric, cayenne pepper, and salt and cook for 1 minute.",
+    "Add the lively spice blend and cook for 1 minute.",
+    "Add the water and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the lamb for 2 hours, or until tender.",
+    "Serve the lamb hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lamb",
+    "slow-cooked",
+    "cumin",
+    "coriander",
+    "turmeric"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-irish-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:52:55.492Z"
+}
