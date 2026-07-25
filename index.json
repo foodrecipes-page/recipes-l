@@ -1922,18 +1922,15 @@
   },
   {
     "slug": "lean-dongbei-pork-wonton-soup",
-    "title": "Lean Dongbei Pork Wonton Soup",
+    "title": "Dongbei Pork Wonton Soup",
     "tags": [
-      "dongbei",
-      "healthy",
-      "low-carb",
-      "one-pot",
+      "chinese",
+      "soup",
       "pork",
-      "quick",
-      "wonton-soup"
+      "wontons"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -8091,17 +8088,15 @@
   },
   {
     "slug": "lightly-crunchy-mexican-chicken-tacos",
-    "title": "Lightly Crunchy Mexican Chicken Tacos",
+    "title": "Crunchy Mexican Chicken Tacos",
     "tags": [
-      "halal",
-      "kid-friendly",
-      "mexican-food",
-      "one-pan",
+      "mexican",
       "tacos",
-      "weeknight"
+      "chicken",
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -22543,6 +22538,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "light-moroccan-fish-broth--gluten-free",
+    "title": "Moroccan Fish Stew",
+    "tags": [
+      "moroccan",
+      "fish-stew",
+      "gluten-free",
+      "easy-dinner"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 33,
     "shard": "l"
   }
 ]
