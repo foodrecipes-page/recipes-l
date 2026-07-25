@@ -1,0 +1,72 @@
+{
+  "slug": "lovely-resinous-polish-cheese-lasagna--german",
+  "title": "Traditional German Cheese Lasagna",
+  "description": "A hearty German-inspired take on the classic Italian dish, featuring layers of tender lasagna noodles, creamy cheese, and a hint of polish flair.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "lovely cheese",
+      "amount": "1 cup grated",
+      "notes": "mix of cheddar and parmesan"
+    },
+    {
+      "name": "resinous polish",
+      "amount": "1/2 cup chopped fresh",
+      "notes": "such as parsley or dill"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup shredded mozzarella"
+    },
+    {
+      "name": "polish",
+      "amount": "1 cup cooked sauerkraut"
+    },
+    {
+      "name": "lovely",
+      "amount": "1/4 cup chopped fresh",
+      "notes": "such as chives or scallions"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, sauté the polish in a little bit of oil until softened.",
+    "In a separate skillet, melt 2 tablespoons of butter and add the lovely cheese, stirring until smooth.",
+    "In a large bowl, combine the cooked lasagna noodles, sautéed polish, and melted lovely cheese mixture.",
+    "In a greased 9x13-inch baking dish, create a layer of lasagna noodles.",
+    "Spread half of the polish-cheese mixture over the noodles.",
+    "Repeat the layering process, ending with a layer of noodles on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and top with the shredded cheese.",
+    "Return to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lasagna",
+    "cheese",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-resinous-polish-cheese-lasagna--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:26:40.080Z"
+}
