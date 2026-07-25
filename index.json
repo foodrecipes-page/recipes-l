@@ -769,13 +769,13 @@
     "slug": "lazy-latin-corn-bake",
     "title": "Lazy Latin Corn Bake",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "latin-american",
-      "one-pan",
-      "weeknight"
+      "latin",
+      "corn",
+      "bake",
+      "easy",
+      "snack"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "Latin",
     "totalTimeMin": 30,
     "shard": "l"
   },
@@ -13086,17 +13086,15 @@
   },
   {
     "slug": "lovely-light-tunisian-lentil-tagine",
-    "title": "Lovely Light Tunisian Lentil Tagine",
+    "title": "Lentil and Vegetable Tagine",
     "tags": [
-      "high-protein",
-      "jain-friendly",
-      "lentil-based",
-      "north-african",
-      "one-pan",
-      "weeknight"
+      "lentil",
+      "vegetarian",
+      "tunisian",
+      "stew"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -22551,6 +22549,19 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 33,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-x-fried-australian-fish-pilaf--italian",
+    "title": "Australian Fish Pilaf",
+    "tags": [
+      "italian",
+      "seafood",
+      "lunch",
+      "easy-to-make"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
