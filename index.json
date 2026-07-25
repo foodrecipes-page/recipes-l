@@ -22598,5 +22598,32 @@
     "cuisine": "french",
     "totalTimeMin": 50,
     "shard": "l"
+  },
+  {
+    "slug": "light-romantic-garlic-haricot-beans-stir-fry--thai",
+    "title": "Spicy Haricot Bean Stir Fry",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "stir-fry",
+      "haricot-beans",
+      "garlic"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-glazed-french-millet-madeleine--mexican",
+    "title": "Mexican Millet Bake with French Twist",
+    "tags": [
+      "mexican",
+      "gluten-free",
+      "vegetarian",
+      "millet"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
+    "shard": "l"
   }
 ]
