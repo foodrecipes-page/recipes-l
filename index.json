@@ -22755,5 +22755,31 @@
     "cuisine": "german",
     "totalTimeMin": 60,
     "shard": "l"
+  },
+  {
+    "slug": "light-herbal-jamaican-tofu-stir-fry--japanese",
+    "title": "Stir-Fried Tofu with Jamaican Jerk Seasoning",
+    "tags": [
+      "stir-fry",
+      "tofu",
+      "jamaican-jerk",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lush-smoky-uruguayan-comte-salad--vegan",
+    "title": "Smoky Uruguayan Salad Bowl",
+    "tags": [
+      "salad",
+      "vegan",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
