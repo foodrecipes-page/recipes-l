@@ -1,0 +1,75 @@
+{
+  "slug": "lively-laminate-kenyan-bacon-skillet--french",
+  "title": "French Pan-Seared Bacon",
+  "description": "A simple and delicious French dish featuring crispy bacon, cooked in a skillet.",
+  "cuisine": "french",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "Non-stick skillet recommended"
+    },
+    {
+      "name": "Laminate",
+      "amount": "1",
+      "notes": "For wrapping bacon"
+    },
+    {
+      "name": "Kenyan",
+      "amount": "1",
+      "notes": "No ingredient found, likely missing ingredient, omitting."
+    },
+    {
+      "name": "Lively",
+      "amount": "1",
+      "notes": "No ingredient found, likely missing ingredient, omitting."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Cut the bacon into strips and wrap each strip in a lamina.",
+    "Place the wrapped bacon in the skillet and cook until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Season with salt and pepper to taste.",
+    "Serve the crispy bacon hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "french",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-laminate-kenyan-bacon-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:09:22.163Z"
+}
