@@ -1,0 +1,77 @@
+{
+  "slug": "lean-dongbei-pork-wonton-soup",
+  "title": "Dongbei Pork Wonton Soup",
+  "description": "A traditional Northeast Chinese soup made with wontons and pork, served in a rich broth.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "dongbei broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lean pork fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "4 stalks"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine ground pork, soy sauce, scallions, ginger, and garlic. Mix well.",
+    "Lay a wonton wrapper on a flat surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Moisten the edges of the wrapper with water. Fold the wrapper into a triangle and press the edges together to seal.",
+    "Repeat with the remaining wrappers and pork mixture.",
+    "In a large pot, heat the lean pork fat over medium heat. Add the wontons and cook until they float to the surface.",
+    "Add the dongbei broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Serve the wontons and broth hot, garnished with additional scallions if desired.",
+    "Cook the pork to an internal temperature of at least 160°F (71°C) to ensure food safety."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "soup",
+    "pork",
+    "wontons"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lean-dongbei-pork-wonton-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:31:40.558Z"
+}
