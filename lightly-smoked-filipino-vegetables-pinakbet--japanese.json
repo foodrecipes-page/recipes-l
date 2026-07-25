@@ -1,0 +1,95 @@
+{
+  "slug": "lightly-smoked-filipino-vegetables-pinakbet--japanese",
+  "title": "Filipino Pinakbet in Japanese Style",
+  "description": "A fusion of Japanese flavors in a traditional Filipino pinakbet recipe. This dish combines the sweetness of vegetables with the savory flavors of Japanese seasonings.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lightly smoked pork belly",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "pinakbet vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add garlic and ginger and sauté until fragrant.",
+    "Add pinakbet vegetables and cook until tender.",
+    "Add soy sauce, sake, mirin, and sugar. Stir to combine.",
+    "Add lightly smoked pork belly and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot garnished with green chili.",
+    "Cooking time: 15 minutes.",
+    "Prep time: 5 minutes.",
+    "Total time: 20 minutes."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "japanese",
+    "fusion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-filipino-vegetables-pinakbet--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:35:15.468Z"
+}
