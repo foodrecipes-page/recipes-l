@@ -1,0 +1,67 @@
+{
+  "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--keto",
+  "title": "Lazy Sunday Meat Tagine",
+  "description": "A hearty, comforting dish perfect for a relaxing Sunday meal. This keto meat tagine is a flavorful and nutritious option for a low-carb diet.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Meat",
+      "amount": "1.5 lbs",
+      "notes": "ground lamb or beef"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Eastern",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Rest",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the ground meat and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the cumin, coriander, and chicken broth.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy sunday",
+    "keto meat tagine",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 5,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:23:56.159Z"
+}
