@@ -1,84 +1,81 @@
 {
   "slug": "lazy-sunday-venezuelan-umeboshi-bowl--keto",
-  "title": "Venezuelan Umeboshi Bowl",
-  "description": "A keto twist on a traditional Venezuelan dish, featuring pickled umeboshi plums in a bowl with Lazy Sunday's special fried fish.",
+  "title": "Venezuelan Bowl with Lazy Umeboshi Meat",
+  "description": "A twist on traditional Venezuelan cuisine, this recipe combines the flavors of la parilla with the tanginess of umeboshi. Perfect for a lazy Sunday dinner.",
   "cuisine": "Venezuelan",
   "diet": [
     "keto"
   ],
-  "meal": "lunch",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "Lazy Sunday's special fried fish",
-      "amount": "4 oz",
-      "notes": ""
+      "name": "Lazy Sunday Pork Chops",
+      "amount": "4",
+      "notes": "1 inch thick, boneless"
     },
     {
-      "name": "Umeboshi plums",
-      "amount": "1/4 cup",
-      "notes": ""
+      "name": "Venezuelan-Style Umeboshi Sauce",
+      "amount": "1 cup",
+      "notes": "see notes below"
     },
     {
-      "name": "Venezuelan Bolivar rice",
-      "amount": "1/2 cup",
-      "notes": ""
+      "name": "Bowl of mixed greens",
+      "amount": "4 cups",
+      "notes": "arugula, spinach, lettuce"
     },
     {
-      "name": "Sunday's special avocado oil",
-      "amount": "2 tbsp",
-      "notes": ""
+      "name": "Red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
     },
     {
       "name": "Fresh cilantro",
       "amount": "1/4 cup",
-      "notes": ""
+      "notes": "chopped"
     },
     {
-      "name": "Sunday's special salt",
-      "amount": "to taste",
-      "notes": ""
+      "name": "Avocado oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
     },
     {
-      "name": "Lazy Sunday's special pepper",
-      "amount": "to taste",
-      "notes": ""
+      "name": "Salt",
+      "amount": "to taste"
     },
     {
-      "name": "Bowl",
-      "amount": "1",
-      "notes": ""
+      "name": "Black pepper",
+      "amount": "to taste"
     }
   ],
   "instructions": [
-    "Preheat the oven to 400°F (200°C).",
-    "Season the fish with salt and pepper.",
-    "Bake the fish in the oven for 8-10 minutes or until cooked through.",
-    "While the fish is cooking, prepare the umeboshi plums by slicing them into thin wedges.",
-    "In a small bowl, mix together the sliced umeboshi plums and a squeeze of fresh lime juice.",
-    "To assemble the dish, place a serving of the Venezuelan Bolivar rice on a plate or in a bowl.",
-    "Top the rice with the baked fish, followed by the pickled umeboshi plum mixture.",
-    "Drizzle the Sunday's special avocado oil over the top of the dish and garnish with fresh cilantro.",
-    "Serve immediately and enjoy!"
+    "Preheat grill to medium-high heat.",
+    "Season the pork chops with salt and black pepper.",
+    "Grill the pork chops for 5-6 minutes per side, or until cooked to a safe internal temperature of 145°F (63°C).",
+    "Let the pork chops rest for 5 minutes before slicing.",
+    "Meanwhile, mix together the Venezuelan-Style Umeboshi Sauce ingredients in a bowl.",
+    "Add the sliced pork chops to the bowl and toss to coat with the sauce.",
+    "Divide the mixed greens among four bowls.",
+    "Top each bowl with a pork chop, a spoonful of the sauce, and a sprinkle of cilantro.",
+    "Drizzle with avocado oil and serve immediately."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 8,
-  "totalTimeMin": 18,
-  "servings": 1,
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
   "difficulty": "medium",
   "tags": [
     "keto",
-    "venezuelan",
-    "umeboshi",
-    "bowl"
+    "vegan-free",
+    "gluten-free"
   ],
   "nutrition": {
     "calories": 540,
-    "protein": 37,
+    "protein": 45,
     "carbs": 10,
-    "fat": 42
+    "fat": 40
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-venezuelan-umeboshi-bowl--keto",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T08:55:09.074Z"
+  "createdAt": "2026-07-20T16:48:25.434Z"
 }
