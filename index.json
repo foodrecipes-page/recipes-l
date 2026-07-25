@@ -9711,16 +9711,15 @@
   },
   {
     "slug": "lightly-smoked-filipino-clams-menudo",
-    "title": "Lightly Smoked Filipino Clams Menudo",
+    "title": "Filipino-Style Smoked Clams",
     "tags": [
-      "filipino-food",
-      "seafood-recipes",
-      "smoked-food",
-      "spicy-food",
-      "vegan-recipes"
+      "filipino",
+      "seafood",
+      "dinner",
+      "smoked"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -21800,15 +21799,14 @@
   },
   {
     "slug": "lazy-sunday-venezuelan-umeboshi-bowl--keto",
-    "title": "Venezuelan Umeboshi Bowl",
+    "title": "Venezuelan Bowl with Lazy Umeboshi Meat",
     "tags": [
       "keto",
-      "venezuelan",
-      "umeboshi",
-      "bowl"
+      "vegan-free",
+      "gluten-free"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 18,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
