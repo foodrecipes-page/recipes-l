@@ -1,0 +1,74 @@
+{
+  "slug": "lazy-latin-corn-bake",
+  "title": "Lazy Latin Corn Bake",
+  "description": "A simple and delicious Latin-inspired corn bake made with lazy ingredients.",
+  "cuisine": "Latin",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup, fresh or frozen",
+      "notes": null
+    },
+    {
+      "name": "Lazy Latin seasoning",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "Bake",
+      "amount": "1",
+      "notes": "Preheated to 375°F (190°C)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the corn, lazy Latin seasoning, and butter. Mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the shredded cheese evenly over the top of the corn mixture.",
+    "Place the dish in the preheated oven and bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "latin",
+    "corn",
+    "bake",
+    "easy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-latin-corn-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:37:36.421Z"
+}
