@@ -1,0 +1,89 @@
+{
+  "slug": "lean-dutch-chicken-roast--vegetarian",
+  "title": "Chicken and Veggie Roast",
+  "description": "A hearty and flavorful roast dish made with chicken and vegetables, perfect for a weeknight dinner. The lean cut of chicken is slow-cooked with roasted vegetables to create a satisfying and healthy meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 pounds boneless, skinless chicken breast or thighs",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "2 medium carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "2 medium potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the carrots and potatoes into bite-sized pieces.",
+    "Mince the garlic and chop the onion.",
+    "Season the chicken with salt, pepper, and thyme.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat. Sear the chicken until browned on both sides, about 5 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast for 20-25 minutes, or until the chicken is cooked through.",
+    "Add the chopped carrots and potatoes to the skillet and continue roasting for another 20-25 minutes, or until the vegetables are tender.",
+    "Remove the skillet from the oven and let it cool slightly.",
+    "Serve the chicken and roasted vegetables hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "roast",
+    "dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lean-dutch-chicken-roast--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:33:31.515Z"
+}
