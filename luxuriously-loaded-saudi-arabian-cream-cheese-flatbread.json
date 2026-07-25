@@ -1,0 +1,73 @@
+{
+  "slug": "luxuriously-loaded-saudi-arabian-cream-cheese-flatbread",
+  "title": "Saudi Arabian Cream Cheese Flatbread",
+  "description": "A rich and indulgent flatbread recipe from Saudi Arabia, loaded with creamy cheese and a hint of luxury.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Luxuriously Loaded Flatbread",
+      "amount": "1 package (8-10 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Saudi Arabian Cream Cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "softened"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the flatbread according to package instructions.",
+    "Spread the softened cream cheese evenly over the flatbread.",
+    "Sprinkle the kosher salt and black pepper over the cream cheese.",
+    "Drizzle with olive oil and garnish with parsley.",
+    "Cut the flatbread into 1-inch squares.",
+    "Bake for 8-10 minutes or until the edges are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "cheese",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriously-loaded-saudi-arabian-cream-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:41:35.010Z"
+}
