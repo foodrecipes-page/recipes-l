@@ -1,0 +1,68 @@
+{
+  "slug": "lightly-double-fried-crunchy-argentinian-chickpeas-empanadas--chinese",
+  "title": "Argentinian-Style Fried Empanadas with Chickpea Filling",
+  "description": "A fusion twist on traditional empanadas filled with a crispy, crunchy chickpea mixture.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Empanada dough",
+      "amount": "2 cups",
+      "notes": "Use store-bought or homemade dough"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Lightly fried shallots",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Double-fried empanada pastry",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Crunchy chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 375°F (190°C).",
+    "Roll out empanada dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter.",
+    "Place a spoonful of chickpea mixture onto one half of the dough circle.",
+    "Fold the other half over and press edges together to seal.",
+    "Deep-fry empanadas until golden brown, about 2-3 minutes.",
+    "Drain on paper towels.",
+    "Serve hot with lightly fried shallots and crunchy chopped peanuts on top (if using)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chinese-fusion",
+    "empanadas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-double-fried-crunchy-argentinian-chickpeas-empanadas--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:01:53.219Z"
+}
