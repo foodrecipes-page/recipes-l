@@ -4500,17 +4500,16 @@
   },
   {
     "slug": "light-greek-hazelnut-gyro",
-    "title": "Light Greek Hazelnut Gyro",
+    "title": "Greek Hazelnut Gyro Wraps",
     "tags": [
-      "greek-cuisine",
-      "healthy",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "greek",
+      "hazelnut",
+      "gyro",
+      "wrap",
+      "lamb"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -22688,6 +22687,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 170,
+    "shard": "l"
+  },
+  {
+    "slug": "light-australian-egg-noodles--japanese",
+    "title": "Japanese-Style Egg Noodle Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "noodles",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
