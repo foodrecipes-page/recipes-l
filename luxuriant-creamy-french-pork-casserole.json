@@ -1,0 +1,76 @@
+{
+  "slug": "luxuriant-creamy-french-pork-casserole",
+  "title": "Creamy Pork Casserole Delight",
+  "description": "A rich and satisfying casserole that combines the flavors of pork and creamy sauce, perfect for a cozy evening.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "luxuriant mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "french bread",
+      "amount": "1 cup breadcrumbs"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the pork shoulder with salt and black pepper. Sear the pork in a skillet until browned, then set aside.",
+    "In the same skillet, sauté the mushrooms until tender. Add the chicken broth and bring to a simmer.",
+    "Stir in the creamy sauce and cook until heated through. Add the thyme and season with salt and pepper to taste.",
+    "Transfer the pork to a casserole dish and spoon the mushroom sauce over the top.",
+    "Sprinkle the french bread crumbs over the sauce and dot the top with butter.",
+    "Bake for 25-30 minutes, or until the pork is cooked through and the casserole is golden brown.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "casserole",
+    "creamy",
+    "luxuriant",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-creamy-french-pork-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:04:04.403Z"
+}
