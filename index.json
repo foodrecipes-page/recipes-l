@@ -17584,16 +17584,16 @@
   },
   {
     "slug": "luxuriant-creamy-french-pork-casserole",
-    "title": "Luxuriant Creamy French Pork Casserole",
+    "title": "Creamy Pork Casserole Delight",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "one-pot",
-      "pork-recipe",
-      "weeknight-dinner"
+      "pork",
+      "casserole",
+      "creamy",
+      "luxuriant",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -22713,6 +22713,47 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-irish-lamb-tagine--indian",
+    "title": "Indian Lamb Tagine",
+    "tags": [
+      "indian",
+      "lamb",
+      "slow-cooked",
+      "cumin",
+      "coriander",
+      "turmeric"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 135,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-algerian-fideo-tagine--keto",
+    "title": "Algerian Tagine with Fideo",
+    "tags": [
+      "algerian",
+      "chicken",
+      "fideo",
+      "keto"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-resinous-polish-cheese-lasagna--german",
+    "title": "Traditional German Cheese Lasagna",
+    "tags": [
+      "german",
+      "lasagna",
+      "cheese",
+      "polish"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "l"
   }
 ]
