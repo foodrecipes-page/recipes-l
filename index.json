@@ -22781,5 +22781,43 @@
     "cuisine": "uruguayan",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "light-filipino-pork-pan-canton--vegetarian",
+    "title": "Canton Vegetable Stir Fry",
+    "tags": [
+      "stir-fry",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-indulgent-german-zucchini-tart--vegetarian",
+    "title": "German Zucchini Tart",
+    "tags": [
+      "german",
+      "vegetarian",
+      "tart",
+      "zucchini"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "low-carb-friendly-french-bramley-apples-coq-au-vin--japanese",
+    "title": "Japanese Coq Au Vin with Low Carb Apples",
+    "tags": [
+      "japanese",
+      "coq-au-vin",
+      "low-carb",
+      "french-technique"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "l"
   }
 ]
