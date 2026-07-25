@@ -1,0 +1,89 @@
+{
+  "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--chinese",
+  "title": "Garlicky Sunday Lamb Tagine",
+  "description": "A flavorful Chinese-inspired lamb tagine with a garlicky twist. This hearty dish is perfect for a lazy Sunday afternoon.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "Middle Eastern Spices",
+      "amount": "2 tsp",
+      "notes": "e.g. cumin, coriander, cinnamon"
+    },
+    {
+      "name": "Rest of the World Spices",
+      "amount": "1 tsp",
+      "notes": "e.g. Sichuan pepper, star anise"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Eastern Fresh Herbs",
+      "amount": "1/4 cup",
+      "notes": "e.g. cilantro, parsley"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches until browned on all sides, about 5 minutes per batch. Set aside.",
+    "Reduce heat to medium and add the minced garlic. Cook until fragrant, about 1 minute.",
+    "Add the grated ginger and cook for another minute, stirring constantly.",
+    "Add the Middle Eastern and Eastern spices and cook for 1 minute, stirring constantly.",
+    "Add the browned lamb back into the pot, along with the salt and black pepper. Stir to combine.",
+    "Cover the pot and transfer to the oven. Braise the lamb for 2.5 hours, or until tender and falling apart.",
+    "Stir in the fresh herbs and serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "chinese",
+    "tagine",
+    "garlic",
+    "ginger"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 33,
+    "carbs": 20,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:15:38.268Z"
+}
