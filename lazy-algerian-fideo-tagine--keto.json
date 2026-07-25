@@ -1,0 +1,95 @@
+{
+  "slug": "lazy-algerian-fideo-tagine--keto",
+  "title": "Algerian Tagine with Fideo",
+  "description": "A traditional Algerian dish made with chicken, fideo, and spices, served in a flavorful tagine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Fideo",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion, garlic, and ginger to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the fideo to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the cumin, cayenne pepper, salt, and black pepper to the skillet and stir to combine.",
+    "Add the chicken back to the skillet and stir to combine with the fideo mixture.",
+    "Reduce heat to low and simmer, covered, for 10-12 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Note: Traditionally, this dish is cooked in a clay tagine, but a skillet will work just as well."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "fideo",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-algerian-fideo-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:01:10.714Z"
+}
