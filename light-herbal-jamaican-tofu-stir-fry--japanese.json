@@ -1,0 +1,92 @@
+{
+  "slug": "light-herbal-jamaican-tofu-stir-fry--japanese",
+  "title": "Stir-Fried Tofu with Jamaican Jerk Seasoning",
+  "description": "A Japanese-inspired dish that combines the flavors of the Caribbean with the simplicity of stir-frying. Crispy tofu, savory vegetables, and aromatic herbs come together in this quick and easy recipe.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Herbal Oil",
+      "amount": "1 tbsp",
+      "notes": "such as sesame or vegetable oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "trimmed and cut into bite-sized pieces"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. Heat the herbal oil in a large skillet or wok over medium-high heat.",
+    "2. Add the onion and bell pepper and cook until they start to soften, about 3-4 minutes.",
+    "3. Add the snow peas and cook until they start to soften, about 2-3 minutes.",
+    "4. Add the grated ginger and cook for 1 minute.",
+    "5. Add the tofu and cook until it is golden brown on all sides, about 5-7 minutes.",
+    "6. Add the Jamaican Jerk Seasoning and stir to coat the tofu and vegetables.",
+    "7. Add the light soy sauce and stir to combine.",
+    "8. Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "9. Garnish with green onions and serve hot.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "tofu",
+    "jamaican-jerk",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-herbal-jamaican-tofu-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:16:41.455Z"
+}
