@@ -10369,17 +10369,16 @@
   },
   {
     "slug": "lightly-spicy-chinese-noodles-zha-jiang-mian",
-    "title": "Lightly Spicy Chinese Noodles Zha Jiang Mian",
+    "title": "Spicy Zha Jiang Mian",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "one-pan-dish",
-      "post-workout-meal",
-      "sichuan-cuisine",
-      "vegetarian-option"
+      "chinese",
+      "noodles",
+      "spicy",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "l"
   },
   {
@@ -22650,6 +22649,45 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-turkish-tomato-pilaf--keto",
+    "title": "Keto Turkish Pilaf Bowl",
+    "tags": [
+      "keto",
+      "turkish",
+      "pilaf",
+      "low-carb"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--keto",
+    "title": "Lazy Sunday Meat Tagine",
+    "tags": [
+      "lazy sunday",
+      "keto meat tagine",
+      "comfort food"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--chinese",
+    "title": "Garlicky Sunday Lamb Tagine",
+    "tags": [
+      "lamb",
+      "chinese",
+      "tagine",
+      "garlic",
+      "ginger"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 170,
     "shard": "l"
   }
 ]
