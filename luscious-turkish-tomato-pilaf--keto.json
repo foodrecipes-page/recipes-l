@@ -1,0 +1,64 @@
+{
+  "slug": "luscious-turkish-tomato-pilaf--keto",
+  "title": "Keto Turkish Pilaf Bowl",
+  "description": "A low-carb adaptation of Turkish pilaf with a flavorful twist. This dish combines the savory taste of pilaf with the freshness of tomato and the richness of luscious.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "low-carb pilaf made from cauliflower or zucchini"
+    },
+    {
+      "name": "Luscious",
+      "amount": "8 oz",
+      "notes": "rich and creamy luscious cheese"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "fresh and juicy tomato, diced"
+    },
+    {
+      "name": "Turkish Spice Mix",
+      "amount": "1 tsp",
+      "notes": "a blend of paprika, cumin, and coriander"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the pilaf and cook according to package instructions.",
+    "In a separate pan, melt 2 tbsp of butter over medium heat.",
+    "Add the diced tomato and cook until tender.",
+    "Stir in the Turkish Spice Mix and cook for 1 minute.",
+    "In a large bowl, combine the cooked pilaf, melted luscious cheese, and tomato mixture.",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a baking dish and bake for 15-20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "turkish",
+    "pilaf",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-turkish-tomato-pilaf--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:20:31.173Z"
+}
