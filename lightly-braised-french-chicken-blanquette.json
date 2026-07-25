@@ -1,0 +1,87 @@
+{
+  "slug": "lightly-braised-french-chicken-blanquette",
+  "title": "Classic French Chicken Blanquette",
+  "description": "A rich and creamy chicken dish that's a staple of French cuisine. Blanquette is a classic chicken recipe made with chicken, mushrooms, and cream.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper.",
+    "Heat 2 tablespoons of butter in a large skillet over medium-high heat. Add the chicken and cook until browned on both sides and cooked through, about 5-6 minutes. Transfer the chicken to a plate and set aside.",
+    "Add the remaining 2 tablespoons of butter to the skillet. Add the onion and mushrooms and cook until the onion is translucent and the mushrooms are tender, about 5 minutes.",
+    "Sprinkle the flour over the onion and mushrooms and cook for 1-2 minutes.",
+    "Gradually add the chicken broth, whisking constantly to avoid lumps. Bring the mixture to a boil, then reduce the heat to low and simmer for 2-3 minutes.",
+    "Stir in the heavy cream and cook for an additional 2-3 minutes, or until the sauce has thickened slightly.",
+    "Return the chicken to the skillet and coat with the sauce. Simmer for an additional 2-3 minutes, or until the chicken is heated through.",
+    "Serve the chicken and sauce hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "blanquette"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-braised-french-chicken-blanquette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:47:08.218Z"
+}
