@@ -1,0 +1,83 @@
+{
+  "slug": "lemongrass-braised-crisp-dish--mexican",
+  "title": "Mexican Lemongrass Chicken",
+  "description": "A twist on traditional Mexican chicken dishes, with the addition of lemongrass for a bright and citrusy flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breasts with cumin, garlic powder, salt, and pepper.",
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped lemongrass and cook for 1-2 minutes, until fragrant.",
+    "Add the chicken breasts and cook for 2-3 minutes, until browned on both sides.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, until the chicken is cooked through.",
+    "Remove the chicken from the oven and let it rest for 5 minutes.",
+    "Serve hot, garnished with additional lemongrass if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "lemongrass",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lemongrass-braised-crisp-dish--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:25:30.964Z"
+}
