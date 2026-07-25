@@ -1,0 +1,82 @@
+{
+  "slug": "lightly-smoked-uruguayan-beef-empanadas--vegetarian",
+  "title": "Uruguayan Empanadas Stuffed with Roasted Vegetables",
+  "description": "A vegetarian twist on traditional Uruguayan empanadas, filled with a flavorful mixture of roasted vegetables. Perfect as a snack or light lunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lightly Smoked Uruguayan Empanadas",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing empanadas"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush the empanadas with olive oil and bake for 5-7 minutes, or until lightly browned.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the diced red bell pepper, yellow onion, and zucchini. Cook, stirring occasionally, until the vegetables are tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the shredded mozzarella cheese until melted.",
+    "Spoon the vegetable mixture into the baked empanadas.",
+    "Top with chopped cilantro and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "uruguayan",
+    "empanadas",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoked-uruguayan-beef-empanadas--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:53:33.658Z"
+}
