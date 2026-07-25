@@ -1,0 +1,62 @@
+{
+  "slug": "lively-smoked-sweet-jamaican-sweet-potatoes-tagine",
+  "title": "Smoked Jamaican Potatoes",
+  "description": "A flavorful side dish that combines the sweetness of potatoes with the smokiness of Jamaican spice.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4-5 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "smoked",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Jamaican sweet spice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sweet",
+      "amount": "2 tbsp",
+      "notes": "honey or maple syrup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the cubed potatoes on a baking sheet, drizzle with a little bit of oil, and toss to coat.",
+    "Roast the potatoes in the oven for 20 minutes, or until they start to soften.",
+    "In a small bowl, mix together the smoked spice, Jamaican sweet spice, and honey or maple syrup.",
+    "Remove the potatoes from the oven and toss them with the spice mixture until they're evenly coated.",
+    "Return the potatoes to the oven and continue roasting for an additional 10-15 minutes, or until they're cooked through and caramelized.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "side-dish",
+    "vegetarian",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-smoked-sweet-jamaican-sweet-potatoes-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:31:41.086Z"
+}
