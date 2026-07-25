@@ -1,0 +1,89 @@
+{
+  "slug": "light-greek-hazelnut-gyro",
+  "title": "Greek Hazelnut Gyro Wraps",
+  "description": "A delicious twist on the classic Greek gyro, featuring crispy phyllo pastry, savory lamb, and crunchy hazelnuts.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb gyro meat",
+      "amount": "300g"
+    },
+    {
+      "name": "Phyllo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "100g"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "50g"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut phyllo pastry into 4-6 pieces, depending on desired wrap size.",
+    "Brush each piece with olive oil and fold in half.",
+    "Place on a baking sheet and bake for 15-20 minutes, or until crispy.",
+    "Meanwhile, cook lamb gyro meat in a pan over medium-high heat until browned, breaking into small pieces as it cooks.",
+    "Add chopped hazelnuts to the pan and cook for an additional 2-3 minutes.",
+    "Warm pita bread by wrapping in foil and heating in the oven for 5-7 minutes.",
+    "Assemble wraps by spreading a layer of Greek yogurt on the bottom, followed by a few pieces of lamb gyro meat, some chopped cucumber, tomato, and red onion, and finally a sprinkle of feta cheese.",
+    "Serve immediately and enjoy!",
+    "Note: Traditionally, gyro meat is cooked on a vertical spit and served in a warm pita with tomato, onion, cucumber, and tzatziki sauce. This recipe is a simplified version of this classic dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "hazelnut",
+    "gyro",
+    "wrap",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-greek-hazelnut-gyro",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:03:28.595Z"
+}
