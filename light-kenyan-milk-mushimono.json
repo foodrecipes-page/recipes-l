@@ -1,0 +1,78 @@
+{
+  "slug": "light-kenyan-milk-mushimono",
+  "title": "Kenyan-Style Fried Fish",
+  "description": "A flavorful and spicy fried fish dish from Kenya, made with a light batter and served with a side of mushimono.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets (any white fish)",
+      "amount": "4",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Mushimono",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Light beer",
+      "amount": "1 cup",
+      "notes": "For the batter"
+    },
+    {
+      "name": "Kenyan chili powder",
+      "amount": "2 tablespoons",
+      "notes": "For the spice blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For the spice blend"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "For the batter"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, whisk together the light beer, milk, and 1/2 cup of water.",
+    "Add the Kenyan chili powder and salt to the bowl and mix until well combined.",
+    "Dredge the fish pieces in the batter, making sure they are fully coated.",
+    "Carefully place the battered fish pieces in the hot oil and fry for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Using a slotted spoon, remove the fried fish from the oil and place on a paper towel-lined plate to drain any excess oil.",
+    "Serve the fried fish hot with a side of mushimono.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fish",
+    "fried",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-kenyan-milk-mushimono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:33:58.790Z"
+}
