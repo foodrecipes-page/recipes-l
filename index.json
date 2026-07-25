@@ -22503,5 +22503,46 @@
     "cuisine": "chinese",
     "totalTimeMin": 45,
     "shard": "l"
+  },
+  {
+    "slug": "lightly-smoked-uruguayan-beef-empanadas--vegetarian",
+    "title": "Uruguayan Empanadas Stuffed with Roasted Vegetables",
+    "tags": [
+      "vegetarian",
+      "uruguayan",
+      "empanadas",
+      "roasted-vegetables"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-yeasty-moroccan-lamb-harira--indian",
+    "title": "Lamb Harira Naan",
+    "tags": [
+      "lamb",
+      "naan",
+      "indian",
+      "moroccan",
+      "yeast",
+      "naan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lean-dutch-chicken-roast--vegetarian",
+    "title": "Chicken and Veggie Roast",
+    "tags": [
+      "chicken",
+      "roast",
+      "dinner",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
+    "shard": "l"
   }
 ]
