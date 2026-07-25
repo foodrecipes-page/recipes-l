@@ -1,0 +1,76 @@
+{
+  "slug": "lightly-roasted-greek-baby-aubergine-skewers--keto",
+  "title": "Grilled Aubergine Skewers with Greek Yogurt Sauce",
+  "description": "A delicious and healthy keto side dish featuring marinated aubergine skewers grilled to perfection, served with a creamy Greek yogurt sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lightly Roasted Aubergine",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the aubergine slices onto skewers.",
+    "Brush the skewers with olive oil and season with salt, oregano, and black pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "In a bowl, mix together Greek yogurt and minced garlic.",
+    "Serve the grilled aubergine skewers with the yogurt sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "aubergine",
+    "greek",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-roasted-greek-baby-aubergine-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:55:05.272Z"
+}
