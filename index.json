@@ -4966,16 +4966,15 @@
   },
   {
     "slug": "light-kenyan-milk-mushimono",
-    "title": "Light Kenyan Milk Mushimono",
+    "title": "Kenyan-Style Fried Fish",
     "tags": [
-      "cold-dish",
-      "dessert",
-      "easy-to-make",
       "kenyan",
-      "sugar-free"
+      "fish",
+      "fried",
+      "spicy"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 25,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
@@ -22561,6 +22560,19 @@
       "easy-to-make"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-double-fried-crunchy-argentinian-chickpeas-empanadas--chinese",
+    "title": "Argentinian-Style Fried Empanadas with Chickpea Filling",
+    "tags": [
+      "argentinian",
+      "chinese-fusion",
+      "empanadas",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "l"
   }
