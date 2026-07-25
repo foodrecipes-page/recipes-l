@@ -1,0 +1,84 @@
+{
+  "slug": "lovely-light-tunisian-lentil-tagine",
+  "title": "Lentil and Vegetable Tagine",
+  "description": "A traditional Tunisian stew made with lentils, vegetables, and aromatics, slow-cooked in a rich and flavorful tagine sauce.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Lovely",
+      "amount": "2 medium carrots, chopped"
+    },
+    {
+      "name": "Light",
+      "amount": "2 medium zucchinis, sliced"
+    },
+    {
+      "name": "Tagine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add cumin and paprika and cook for 1 minute.",
+    "Add carrots and zucchinis and cook for 5 minutes.",
+    "Add lentils, salt, and black pepper, and stir to combine.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Stir in 2 tablespoons of tagine sauce.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "vegetarian",
+    "tunisian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-light-tunisian-lentil-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:34:25.037Z"
+}
