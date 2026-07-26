@@ -2500,18 +2500,15 @@
   },
   {
     "slug": "light-algerian-peas-salad",
-    "title": "Light Algerian Peas Salad",
+    "title": "Algerian-Style Salad with Light Dressing",
     "tags": [
-      "algerian-cuisine",
-      "high-protein",
-      "light",
-      "one-pan",
-      "pescatarian-friendly",
-      "veggie-centric",
-      "weeknight"
+      "algerian",
+      "salad",
+      "easy",
+      "quick"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 15,
+    "cuisine": "Algerian",
+    "totalTimeMin": 10,
     "shard": "l"
   },
   {
@@ -8563,18 +8560,17 @@
   },
   {
     "slug": "lightly-frozen-argentinian-prawns-ceviche",
-    "title": "Lightly Frozen Argentinian Prawns Ceviche",
+    "title": "Argentinian Prawn Ceviche",
     "tags": [
-      "argentinian-cuisine",
+      "argentinian",
+      "prawns",
       "ceviche",
-      "gluten-free",
-      "high-protein",
-      "paleo-friendly",
-      "refreshing",
-      "seafood"
+      "lunch",
+      "seafood",
+      "gluten-free"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "Latin American",
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -23054,6 +23050,57 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "light-irish-couscous-bowl--vegan",
+    "title": "Vegan Irish Couscous Bowl",
+    "tags": [
+      "vegan",
+      "irish",
+      "couscous",
+      "bowl"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-crispy-vietnamese-tofu-noodles--vegan",
+    "title": "Crispy Vietnamese Noodle Salad",
+    "tags": [
+      "vegan",
+      "salad",
+      "noodles",
+      "tofu"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "l-dense-garlic-chinese-ladle-curry--keto",
+    "title": "Keto Garlic Chicken Curry",
+    "tags": [
+      "keto",
+      "chicken",
+      "curry",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "light-roasted-mediterranean-tofu-salad--thai",
+    "title": "Thai Grilled Tofu Salad",
+    "tags": [
+      "thaifood",
+      "veggiesalad",
+      "tofu"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 23,
     "shard": "l"
   }
 ]
