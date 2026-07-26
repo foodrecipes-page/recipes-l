@@ -1,0 +1,85 @@
+{
+  "slug": "lightly-fermented-indian-lotus-root-curry",
+  "title": "Indian Lotus Root Curry",
+  "description": "A creamy and flavorful curry made with lightly fermented lotus root, perfect for a comforting meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus root",
+      "amount": "1 medium, peeled and cut into bite-sized pieces"
+    },
+    {
+      "name": "Lightly fermented Indian yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add ginger and garlic and sauté until fragrant.",
+    "Add curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add lotus root and cook for 5-7 minutes, or until slightly tender.",
+    "Add yogurt and stir well to combine.",
+    "Add turmeric powder and salt, and stir well to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until the lotus root is tender.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "vegetarian",
+    "lotus-root"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-fermented-indian-lotus-root-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:59:02.420Z"
+}
