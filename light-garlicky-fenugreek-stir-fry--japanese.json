@@ -1,0 +1,65 @@
+{
+  "slug": "light-garlicky-fenugreek-stir-fry--japanese",
+  "title": "Japanese Stir-Fried Fenugreek",
+  "description": "A quick and flavorful Japanese-inspired fenugreek stir-fry that can be served as a side dish or added to a variety of meals.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fry oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "light fenugreek greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and stir-fry for 1 minute, until fragrant.",
+    "Add the fenugreek greens and stir-fry for 2-3 minutes, until wilted.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, and sugar.",
+    "Pour the sauce over the fenugreek greens and stir-fry for another minute.",
+    "Serve immediately, garnished with additional fenugreek greens if desired.",
+    "Optional: add protein like tofu or tempeh for added nutrition and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "veggie",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-garlicky-fenugreek-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:48:32.153Z"
+}
