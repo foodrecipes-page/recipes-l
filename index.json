@@ -7117,18 +7117,15 @@
   },
   {
     "slug": "light-venezuelan-flour-empanadas",
-    "title": "Light Venezuelan Flour Empanadas",
+    "title": "Venezuelan Empanadas",
     "tags": [
-      "vegan-friendly",
-      "low-sodium",
-      "sweet",
-      "flaky",
-      "empanada",
       "venezuelan",
+      "empanadas",
+      "beef",
       "snack"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 55,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
     "shard": "l"
   },
   {
@@ -23101,6 +23098,58 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 23,
+    "shard": "l"
+  },
+  {
+    "slug": "large-molten-lox-norwegian-cod-poke--vegan",
+    "title": "Vegan Poke Bowl",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "seafood-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-spicy-german-sweet-red-peppers-skewers--gluten-free",
+    "title": "Spicy Red Pepper Skewers",
+    "tags": [
+      "german",
+      "gluten-free",
+      "grill",
+      "skewers",
+      "red-pepper"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-turkish-nectarines-toast--vegan",
+    "title": "Nectarine Toast",
+    "tags": [
+      "breakfast",
+      "vegan",
+      "snack",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 7,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-slow-cooked-australian-duck-stew--indian",
+    "title": "Australian Duck Stew",
+    "tags": [
+      "australian-food",
+      "slow-cooked",
+      "indian-cuisine",
+      "duck-recipe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 170,
     "shard": "l"
   }
 ]
