@@ -1,0 +1,92 @@
+{
+  "slug": "light-venezuelan-flour-empanadas",
+  "title": "Venezuelan Empanadas",
+  "description": "A classic Venezuelan dish, these empanadas are filled with a delicious blend of beef and spices. Serve with a side of salsa or guacamole for a flavorful snack.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Light",
+      "amount": "1/2 cup",
+      "notes": "Venezuelan-style cooking oil"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": "All-purpose flour for empanada dough"
+    },
+    {
+      "name": "Empanadas",
+      "amount": "4-6 shells",
+      "notes": "Pre-made empanada shells"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the light over medium-high heat.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the cumin, salt, and black pepper to the skillet and stir to combine.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Place a tablespoon or two of the beef mixture onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the dough over the filling and press the edges together with a fork to seal.",
+    "Place the empanada on a baking sheet lined with parchment paper.",
+    "Repeat with the remaining dough and filling.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "beef",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-venezuelan-flour-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:21:27.683Z"
+}
