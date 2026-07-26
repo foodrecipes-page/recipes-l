@@ -1,0 +1,91 @@
+{
+  "slug": "light-oven-roasted-middle-eastern-hazelnuts-wrap--german",
+  "title": "German Hazelnut Wrap",
+  "description": "A delicious German-inspired wrap filled with roasted hazelnuts and savory spices.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat wrap",
+      "amount": "1"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Roast the hazelnuts in the oven for 5-7 minutes, or until fragrant and lightly browned.",
+    "In a small bowl, mix together the cumin, coriander, salt, and black pepper.",
+    "In a large bowl, combine the roasted hazelnuts, crumbled feta cheese, chopped onion, and spice mixture.",
+    "Drizzle the lemon juice and olive oil over the top and toss to combine.",
+    "Warm the whole wheat wrap in the oven for 2-3 minutes, or until pliable.",
+    "Spoon the hazelnut mixture onto the center of the wrap and fold the bottom edge up over the filling.",
+    "Fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "hazelnuts",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-oven-roasted-middle-eastern-hazelnuts-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:37:45.374Z"
+}
