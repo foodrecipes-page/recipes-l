@@ -1,0 +1,85 @@
+{
+  "slug": "lazy-sunday-malaysian-chicken-noodles",
+  "title": "Sunday Noodle Stir Fry",
+  "description": "A quick and easy stir fry made with chicken and noodles, perfect for a lazy Sunday afternoon.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice noodles or egg noodles work well"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the sliced onion and minced garlic to the skillet and stir fry until the onion is translucent.",
+    "Add the noodles to the skillet and stir fry for 2-3 minutes, until they start to brown.",
+    "Return the chicken to the skillet and stir in the soy sauce and honey (if using).",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Stir in chopped cilantro (if using) and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "chicken",
+    "noodles",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-malaysian-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:09:33.733Z"
+}
