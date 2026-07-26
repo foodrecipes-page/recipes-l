@@ -1,0 +1,92 @@
+{
+  "slug": "low-smoky-portuguese-chicken-skewers--thai",
+  "title": "Thai-Style Chicken Skewers with Smoky Portuguese Flavor",
+  "description": "A twist on traditional Thai street food, these smoky chicken skewers are infused with the bold flavors of Portuguese cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "low",
+      "amount": "2 tablespoons",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "portuguese",
+      "amount": "1 tablespoon",
+      "notes": "chili flakes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together coconut oil, brown sugar, fish sauce, lime juice, garlic, and smoked paprika.",
+    "3. Add chicken to the bowl and toss to coat with marinade.",
+    "4. Thread chicken onto skewers, leaving a small space between each piece.",
+    "5. Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "6. Meanwhile, mix together chopped peanuts, green onions, and chili flakes in a small bowl.",
+    "7. Serve grilled skewers with peanut-greens mixture sprinkled on top.",
+    "8. Garnish with additional green onions and peanuts, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skewers",
+    "thai",
+    "portuguese",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-smoky-portuguese-chicken-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:39:59.771Z"
+}
