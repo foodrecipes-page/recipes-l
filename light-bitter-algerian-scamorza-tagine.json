@@ -1,0 +1,70 @@
+{
+  "slug": "light-bitter-algerian-scamorza-tagine",
+  "title": "Scorched Scamorza Tagine",
+  "description": "A spicy, smoky twist on traditional North African dish, featuring scamorza cheese and a blend of Middle Eastern spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scamorza cheese",
+      "amount": "250g",
+      "notes": "smoked or plain"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Algerian bitter olives",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "Fresh light coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bitter orange marmalade",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 200°C (400°F).",
+    "2. In a bowl, mix together scamorza cheese, tagine spice blend, and a pinch of salt.",
+    "3. Arrange the scamorza mixture on a baking sheet lined with parchment paper.",
+    "4. Bake for 12-15 minutes, or until the scamorza is melted and golden brown.",
+    "5. Meanwhile, mix together chopped coriander leaves and pitted olives in a bowl.",
+    "6. Once the scamorza is done, let it cool for a minute or two.",
+    "7. Spoon the scamorza mixture onto a serving platter or individual plates.",
+    "8. Top with the mixed coriander and olive mixture.",
+    "9. Drizzle with bitter orange marmalade, if using.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "cheese",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-bitter-algerian-scamorza-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:57:19.645Z"
+}
