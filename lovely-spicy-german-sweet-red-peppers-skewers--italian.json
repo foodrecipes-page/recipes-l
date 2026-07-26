@@ -1,0 +1,70 @@
+{
+  "slug": "lovely-spicy-german-sweet-red-peppers-skewers--italian",
+  "title": "Italian Pepper Skewers",
+  "description": "Grilled Italian-style pepper skewers are a flavorful and colorful side dish perfect for any outdoor gathering.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lovely peppers",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "spicy peppers",
+      "amount": "2-3",
+      "notes": null
+    },
+    {
+      "name": "german peppers",
+      "amount": "2-3",
+      "notes": null
+    },
+    {
+      "name": "sweet peppers",
+      "amount": "2-3",
+      "notes": null
+    },
+    {
+      "name": "red peppers",
+      "amount": "2-3",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "1 package",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread peppers onto skewers, leaving a small space between each pepper.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 10-12 minutes, turning occasionally, or until peppers are tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "grilled",
+    "peppers",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-spicy-german-sweet-red-peppers-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:24:24.076Z"
+}
