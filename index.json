@@ -22965,5 +22965,32 @@
     "cuisine": "Dutch",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "low-glycemic-french-choux-gougere--thai",
+    "title": "Thai Choux Gougere Fritters",
+    "tags": [
+      "fritters",
+      "cheese",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-spiced-norwegian-lamb-kebabs--german",
+    "title": "Spiced Lamb Kebabs - German-Style",
+    "tags": [
+      "german",
+      "lamb",
+      "kebabs",
+      "grilled",
+      "summer"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 36,
+    "shard": "l"
   }
 ]
