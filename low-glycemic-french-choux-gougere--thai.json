@@ -1,0 +1,81 @@
+{
+  "slug": "low-glycemic-french-choux-gougere--thai",
+  "title": "Thai Choux Gougere Fritters",
+  "description": "Crispy fritters filled with a flavorful Thai-inspired cheese mixture, perfect as a snack or appetizer.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Low-Glycemic All-Purpose Flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "French Choux Pastry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gougere Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "1-2",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a deep frying pan over medium-high heat.",
+    "In a separate bowl, whisk together the low-glycemic all-purpose flour, French choux pastry, and gougere cheese.",
+    "Add the beaten egg to the dry ingredients and mix until well combined.",
+    "Add the fish sauce and green chilies (if using) to the mixture and stir well.",
+    "Using a spoon, drop small balls of the mixture into the hot oil.",
+    "Fry the fritters until they are golden brown and crispy, about 2-3 minutes per side.",
+    "Drain the fritters on paper towels and sprinkle with chopped cilantro.",
+    "Serve the fritters warm and enjoy!",
+    "Note: If using green chilies, adjust the level of spiciness to your liking.",
+    "Also, for a crisper coating, you can chill the fritter mixture in the refrigerator for 30 minutes before frying."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "cheese",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "5g",
+    "carbs": "20g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/low-glycemic-french-choux-gougere--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:07:21.743Z"
+}
