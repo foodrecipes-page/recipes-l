@@ -1,0 +1,84 @@
+{
+  "slug": "luscious-nutty-rajasthani-olives-chaat",
+  "title": "Rajasthani Chaat Wrap",
+  "description": "A flavorful and colorful Rajasthani-inspired wrap packed with spices, chickpeas, and a hint of nuttiness.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat wrap",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "rajasthani",
+      "amount": "2 tsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped almonds"
+    },
+    {
+      "name": "olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "chaat",
+      "amount": "2 tsp",
+      "notes": "masala powder"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Warm the whole wheat wrap according to package instructions.",
+    "In a bowl, mix together chickpeas, almonds, olives, cucumber, and tomato.",
+    "Add rajasthani and chaat spice blends to the bowl and mix well.",
+    "Place the mixture onto the warmed whole wheat wrap.",
+    "Fold the wrap to enclose the filling and serve immediately.",
+    "Garnish with additional chopped almonds and cilantro if desired.",
+    "Serve with raita or yogurt-based sauce for added creaminess."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "veggie",
+    "snack",
+    "chaat",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-nutty-rajasthani-olives-chaat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:21:06.826Z"
+}
