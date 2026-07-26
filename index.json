@@ -22851,5 +22851,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-greek-chickpeas-revithia--vegetarian",
+    "title": "Revithia and Chickpea Stew",
+    "tags": [
+      "greek",
+      "vegetarian",
+      "lentil-stew",
+      "chickpea-stew"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
