@@ -1,0 +1,75 @@
+{
+  "slug": "large-molten-lox-norwegian-cod-poke--vegan",
+  "title": "Vegan Poke Bowl",
+  "description": "A delicious and healthy vegan poke bowl made with Norwegian cod, mixed vegetables and a citrus vinaigrette.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "loose norwegian cod",
+      "amount": "1 block",
+      "notes": "marinated in vinaigrette"
+    },
+    {
+      "name": "poke",
+      "amount": "1 cup",
+      "notes": "marinated in vinaigrette"
+    },
+    {
+      "name": "large seaweed sheets",
+      "amount": "1 sheet",
+      "notes": "toasted"
+    },
+    {
+      "name": "mixed vegetables (cucumber, carrots, bell peppers)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "citrus vinaigrette",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the seaweed sheets in a dry pan over medium heat for 2 minutes.",
+    "Cut the mixed vegetables into bite-sized pieces.",
+    "Marinate the norwegian cod and poke in citrus vinaigrette for at least 30 minutes.",
+    "Assemble the poke bowl by placing a sheet of toasted seaweed on the bottom, followed by a scoop of marinated norwegian cod, poke, mixed vegetables, sesame seeds, and chopped green onions.",
+    "Serve immediately and enjoy!",
+    "Optional: garnish with additional sesame seeds, chopped green onions, or thinly sliced citrus."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "seafood-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/large-molten-lox-norwegian-cod-poke--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:11:40.449Z"
+}
