@@ -1,0 +1,81 @@
+{
+  "slug": "light-italian-cheese-tiramisu--german",
+  "title": "Savory German Sausage and Potato Fritters",
+  "description": "A hearty German dish perfect for snacking or as a side. These fritters are packed with flavor and can be served with your favorite dipping sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "light",
+      "amount": "1/4 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "italian",
+      "amount": "1/2 teaspoon",
+      "notes": "seasoning"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, chopped onion, flour, italian seasoning, salt, and black pepper. Mix well.",
+    "In a separate bowl, whisk together eggs and grated cheese. Add this mixture to the potato mixture and stir until everything is well combined.",
+    "Using your hands, shape the mixture into small patties.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat. When the oil is hot, add a few patties to the skillet and fry until golden brown on both sides.",
+    "Repeat with the remaining patties, adjusting the heat as needed to prevent burning.",
+    "Serve the fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "snack",
+    "fritters",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-italian-cheese-tiramisu--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:05:05.485Z"
+}
