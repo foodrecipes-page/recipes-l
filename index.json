@@ -18846,17 +18846,16 @@
   },
   {
     "slug": "luxuriously-roasted-syrian-lamb-pasta",
-    "title": "Luxuriously Roasted Syrian Lamb Pasta",
+    "title": "Syrian Lamb Pasta",
     "tags": [
-      "lamb-based",
-      "middle-eastern",
-      "no-onion-no-garlic",
-      "pasta-dish",
-      "roasted-meat",
-      "special-occasion"
+      "syrian-lamb",
+      "pasta",
+      "roasted-red-peppers",
+      "aromatic",
+      "flavorful"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 270,
     "shard": "l"
   },
   {
@@ -23150,6 +23149,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 170,
+    "shard": "l"
+  },
+  {
+    "slug": "low-smoky-portuguese-chicken-skewers--thai",
+    "title": "Thai-Style Chicken Skewers with Smoky Portuguese Flavor",
+    "tags": [
+      "chicken",
+      "skewers",
+      "thai",
+      "portuguese",
+      "smoky"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-lively-polish-parmesan-cheese-pilaf--german",
+    "title": "Sauerbraten Pilaf Bake",
+    "tags": [
+      "german",
+      "beef",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 100,
     "shard": "l"
   }
 ]
