@@ -1287,16 +1287,15 @@
   },
   {
     "slug": "lazy-sunday-malaysian-chicken-noodles",
-    "title": "Lazy Sunday Malaysian Chicken Noodles",
+    "title": "Sunday Noodle Stir Fry",
     "tags": [
-      "easy-cooking",
-      "lazy-sunday",
-      "malaysian-cuisine",
-      "paleo-friendly",
-      "quick-meal"
+      "stir-fry",
+      "chicken",
+      "noodles",
+      "malaysian-cuisine"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "l"
   },
   {
@@ -8068,17 +8067,15 @@
   },
   {
     "slug": "lightly-crunchy-canadian-chickpeas-flatbread",
-    "title": "Lightly Crunchy Canadian Chickpeas Flatbread",
+    "title": "Crunchy Canadian Chickpea Flatbread",
     "tags": [
-      "canadian-dish",
-      "midnight-craving",
-      "plant-based",
-      "snack-recipe",
-      "tava-griddle",
-      "vegan-friendly"
+      "canadian",
+      "snack",
+      "vegetarian",
+      "easy"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
@@ -16336,18 +16333,16 @@
   },
   {
     "slug": "luscious-nutty-rajasthani-olives-chaat",
-    "title": "Luscious Nutty Rajasthani Olives Chaat",
+    "title": "Rajasthani Chaat Wrap",
     "tags": [
-      "flamb",
-      "hangover-cure",
-      "indian-chaat",
-      "nutty",
-      "quick",
+      "indian",
+      "veggie",
       "snack",
-      "vegan"
+      "chaat",
+      "wrap"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "l"
   },
   {
