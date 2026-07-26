@@ -1,0 +1,75 @@
+{
+  "slug": "light-japanese-skirt-steak-stir-fry--chinese",
+  "title": "Stir Fry Skirt Steak with Vegetables",
+  "description": "A quick and flavorful Chinese stir-fry recipe featuring skirt steak, perfect for a weeknight dinner. This dish is easy to make and can be customized with your favorite vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 pound"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "stir-fry",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet or wok over high heat.",
+    "2. Add the minced garlic and cook for 1 minute until fragrant.",
+    "3. Add the skirt steak and cook for 2-3 minutes per side, or until browned and cooked to your desired level of doneness.",
+    "4. Remove the steak from the skillet and set aside to rest.",
+    "5. Add the sliced bell pepper and chopped bok choy to the skillet and cook for 2-3 minutes, or until the vegetables are tender.",
+    "6. Return the steak to the skillet and add the light soy sauce and stir-fry seasoning.",
+    "7. Stir everything together and cook for an additional minute.",
+    "8. Serve the steak hot, garnished with sliced green onions and sesame seeds if desired.",
+    "9. Slice the steak against the grain and serve with the stir-fried vegetables.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "skirt-steak"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-japanese-skirt-steak-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:28:29.681Z"
+}
