@@ -1,0 +1,85 @@
+{
+  "slug": "l-dense-garlic-chinese-ladle-curry--keto",
+  "title": "Keto Garlic Chicken Curry",
+  "description": "A flavorful and spicy keto dish made with chicken, garlic, and curry spices.",
+  "cuisine": "indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add chicken breast and cook until browned, about 5 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add garlic to skillet and cook for 1 minute.",
+    "Add curry powder and cook for 1 minute, stirring constantly.",
+    "Add diced tomatoes and heavy cream to skillet.",
+    "Bring mixture to a simmer and cook for 5 minutes.",
+    "Return chicken to skillet and cook until heated through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "chicken",
+    "curry",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/l-dense-garlic-chinese-ladle-curry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:33:41.041Z"
+}
