@@ -1,0 +1,75 @@
+{
+  "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--japanese",
+  "title": "Lazy Sunday Middle Eastern Tagine",
+  "description": "A twist on traditional Japanese cuisine, this hearty tagine is perfect for a relaxing Sunday afternoon.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lazy Sunday Tagine Spice Mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlicky Eastern Onion",
+      "amount": "1 medium, chopped",
+      "notes": "2-3 cloves of garlic, minced"
+    },
+    {
+      "name": "Middle Eastern Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rest of the World Carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "Meat Substitute (Tofu)",
+      "amount": "1 block, drained and cubed"
+    },
+    {
+      "name": "Eastern Canned Diced Tomatoes",
+      "amount": "1 can, 14 oz"
+    },
+    {
+      "name": "Lazy Japanese Rice",
+      "amount": "1 cup, uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of Middle Eastern Olive Oil in a large Dutch oven over medium heat.",
+    "Add the chopped Garlicky Eastern Onion and cook until softened, about 5 minutes.",
+    "Add the cubed Meat Substitute and cook until browned, about 5 minutes.",
+    "Add the chopped Rest of the World Carrots and cook until tender, about 5 minutes.",
+    "Add the Eastern Canned Diced Tomatoes and cook for 1 minute.",
+    "Add the Lazy Sunday Tagine Spice Mix and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Serve over Lazy Japanese Rice.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "tagine",
+    "lazy-sunday",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:18:50.931Z"
+}
