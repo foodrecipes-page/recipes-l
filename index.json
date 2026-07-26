@@ -2874,17 +2874,14 @@
   },
   {
     "slug": "light-bitter-algerian-scamorza-tagine",
-    "title": "Light Bitter Algerian Scamorza Tagine",
+    "title": "Scorched Scamorza Tagine",
     "tags": [
-      "algerian",
-      "cheesy",
-      "one-pan",
-      "snappy",
-      "vegetarian",
-      "weeknight"
+      "north-african",
+      "cheese",
+      "spicy"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 27,
     "shard": "l"
   },
   {
@@ -15637,17 +15634,15 @@
   },
   {
     "slug": "luscious-gooey-korean-sausage-noodles",
-    "title": "Luscious Gooey Korean Sausage Noodles",
+    "title": "Spicy Korean Sausage Noodle Stir Fry",
     "tags": [
-      "gluten-free",
-      "korean-food",
-      "noodle-dish",
-      "one-pan",
-      "spicy-food",
-      "weeknight"
+      "korean",
+      "sausage",
+      "noodles",
+      "stir-fry"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -23175,6 +23170,45 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 100,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-yeasty-british-khus-khus-scones--thai",
+    "title": "Thai Coconut Scones",
+    "tags": [
+      "thai",
+      "breakfast",
+      "scones",
+      "coconut"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-browned-mediterranean-beef-kidney-skewers--mexican",
+    "title": "Mexican Beef Skewers",
+    "tags": [
+      "mexican",
+      "beef",
+      "skewers",
+      "grilled",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
+    "shard": "l"
+  },
+  {
+    "slug": "light-japanese-skirt-steak-stir-fry--chinese",
+    "title": "Stir Fry Skirt Steak with Vegetables",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "skirt-steak"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
