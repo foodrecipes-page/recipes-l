@@ -1,0 +1,94 @@
+{
+  "slug": "lovely-smoky-algerian-lamb-tagine--indian",
+  "title": "Lamb Tagine with Indian Spices",
+  "description": "A flavorful and aromatic Indian-inspired lamb tagine made with smoky spices and tender lamb.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "lovely tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "algerian olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Reduce heat to medium and sauté the onion until softened, about 5 minutes.",
+    "Add the garlic, paprika, cumin, coriander, and salt to the pot and cook for 1 minute.",
+    "Add the tagine spice blend to the pot and cook for 1 minute.",
+    "Add the lamb back to the pot and add enough water to cover the meat.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the lamb in the preheated oven at 300°F (150°C) for 2-3 hours, or until tender.",
+    "Garnish with chopped cilantro and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "indian",
+    "tagine",
+    "smoky",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-algerian-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:40:42.073Z"
+}
