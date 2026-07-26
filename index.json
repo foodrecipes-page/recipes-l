@@ -297,14 +297,15 @@
   },
   {
     "slug": "lamb-tandoori-kebab",
-    "title": "Lamb Tandoori Kebab",
+    "title": "Tandoori Lamb Kebabs",
     "tags": [
-      "lamb-kebab",
-      "tandoori-style",
-      "diabetic-friendly"
+      "indian",
+      "grill",
+      "kebab",
+      "lamb"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 60,
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -22897,6 +22898,33 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 200,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-syrian-lentil-pilaf--japanese",
+    "title": "Japanese Lentil Pilaf",
+    "tags": [
+      "lentil",
+      "pilaf",
+      "japanese",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-spicy-german-sweet-red-peppers-skewers--italian",
+    "title": "Italian Pepper Skewers",
+    "tags": [
+      "italian",
+      "grilled",
+      "peppers",
+      "skewers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "l"
   }
 ]
