@@ -1,0 +1,82 @@
+{
+  "slug": "lovely-light-german-potato-casserole--japanese",
+  "title": "Potato Tempura Casserole",
+  "description": "A delicious Japanese-inspired casserole featuring crispy potato tempura, topped with a light and fluffy egg mixture.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "lovely light german bread",
+      "amount": "1 cup, cubed",
+      "notes": "preferably stale"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup, crushed",
+      "notes": "for crunch"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 180°C.",
+    "Dredge the potato slices in flour, shaking off excess.",
+    "Fry the potatoes in batches until golden brown, about 3-4 minutes per batch.",
+    "Drain the tempura on paper towels.",
+    "In a separate pan, sauté the cubed bread until lightly toasted.",
+    "In a large bowl, whisk together the beaten eggs, sake, and soy sauce (if using).",
+    "In a greased 20cm square baking dish, create a layer of tempura potatoes.",
+    "Top with a layer of toasted bread, followed by a layer of crushed casserole.",
+    "Repeat this process until all ingredients are used, finishing with a layer of tempura potatoes on top.",
+    "Pour the egg mixture over the potatoes and smooth the surface.",
+    "Bake in a preheated oven at 180°C for 25-30 minutes, or until the egg is set and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "casserole",
+    "potato",
+    "tempura"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-light-german-potato-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:39:44.546Z"
+}
