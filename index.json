@@ -6385,17 +6385,16 @@
   },
   {
     "slug": "light-slovakian-pork-dumplings",
-    "title": "Light Slovakian Pork Dumplings",
+    "title": "Slovakian Pork Dumplings",
     "tags": [
-      "comfort-food",
-      "european",
-      "hearty",
+      "slovakian",
       "homemade",
-      "low-sodium",
-      "one-pot"
+      "dumplings",
+      "pork",
+      "hearty"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "cuisine": "slovakian",
+    "totalTimeMin": 50,
     "shard": "l"
   },
   {
@@ -22991,6 +22990,70 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 36,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-steamed-saudi-arabian-tobiko-wrap--thai",
+    "title": "Thai-Style Steamed Fish Wrap",
+    "tags": [
+      "thai",
+      "steamed",
+      "fish"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-fluffy-russian-beef-wrap--german",
+    "title": "German Beef Wrap",
+    "tags": [
+      "german",
+      "beef",
+      "wrap",
+      "lunch"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-oven-roasted-middle-eastern-hazelnuts-wrap--german",
+    "title": "German Hazelnut Wrap",
+    "tags": [
+      "german",
+      "hazelnuts",
+      "wrap",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-roasted-moroccan-sea-bass-tagine--mexican",
+    "title": "Bass Tagine Tacos",
+    "tags": [
+      "mexican",
+      "mexican-fusion",
+      "moroccan",
+      "sea-bass",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
+    "slug": "light-garlicky-fenugreek-stir-fry--japanese",
+    "title": "Japanese Stir-Fried Fenugreek",
+    "tags": [
+      "japanese",
+      "veggie",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "l"
   }
 ]
