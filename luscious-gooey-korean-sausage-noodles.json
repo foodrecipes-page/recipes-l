@@ -1,0 +1,59 @@
+{
+  "slug": "luscious-gooey-korean-sausage-noodles",
+  "title": "Spicy Korean Sausage Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with spicy Korean sausage, noodles, and vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean sausage",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Luscious",
+      "amount": "2 cups mixed greens"
+    },
+    {
+      "name": "Gooey",
+      "amount": "1 tablespoon honey"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Slice Korean sausage into 1/2-inch pieces.",
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add Korean sausage and cook until browned, about 3-4 minutes.",
+    "Add honey and cook for 1 minute.",
+    "Add mixed greens and stir-fry until wilted.",
+    "Add cooked noodles and stir-fry until combined.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "sausage",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 55,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-gooey-korean-sausage-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:13:38.723Z"
+}
