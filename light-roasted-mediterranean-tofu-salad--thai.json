@@ -1,0 +1,88 @@
+{
+  "slug": "light-roasted-mediterranean-tofu-salad--thai",
+  "title": "Thai Grilled Tofu Salad",
+  "description": "A refreshing Thai-inspired salad featuring grilled tofu, mixed greens, and a zesty dressing.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Any combination of lettuce, kale, and spinach"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Light salad dressing",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted and sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season tofu with salt and grill for 3-4 minutes per side, until golden brown.",
+    "In a large bowl, combine mixed greens, roasted peanuts, olives, and cilantro.",
+    "In a small bowl, whisk together salad dressing, lime juice, and honey (if using).",
+    "Pour dressing over the salad and toss to combine.",
+    "Slice grilled tofu into thin strips and add to the salad.",
+    "Toss to combine and serve immediately.",
+    "Adjust seasoning with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "veggiesalad",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-roasted-mediterranean-tofu-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:52:38.085Z"
+}
