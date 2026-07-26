@@ -1,0 +1,73 @@
+{
+  "slug": "light-lively-polish-parmesan-cheese-pilaf--german",
+  "title": "Sauerbraten Pilaf Bake",
+  "description": "A German-inspired comfort dish featuring tender beef and flavorful pilaf.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound (450g) top round"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup (250g)"
+    },
+    {
+      "name": "polish",
+      "amount": "2 tablespoons (30g)"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup (50g) grated parmesan"
+    },
+    {
+      "name": "light",
+      "amount": "2 tablespoons (30g) olive oil"
+    },
+    {
+      "name": "lively",
+      "amount": "1 teaspoon (5g) ground black pepper"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon (5g)",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat oil over medium-high.",
+    "Sear beef until browned on all sides, about 2-3 minutes.",
+    "Transfer beef to a plate and set aside.",
+    "Add polish to pot and stir constantly for 1 minute.",
+    "Add pilaf, stirring to combine with polish, about 2-3 minutes.",
+    "Return beef to pot and add salt, pepper, and cheese.",
+    "Transfer pot to preheated oven and bake for 1 hour and 30 minutes, or until beef reaches 160°F (71°C).",
+    "Let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 90,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 30,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-lively-polish-parmesan-cheese-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:58:37.996Z"
+}
