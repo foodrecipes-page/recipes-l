@@ -8458,16 +8458,14 @@
   },
   {
     "slug": "lightly-fried-jamaican-cornmeal-fritters",
-    "title": "Lightly Fried Jamaican Cornmeal Fritters",
+    "title": "Jamaican Cornmeal Fritters",
     "tags": [
-      "comfort-food",
-      "fried-dough",
-      "fritters",
       "jamaican",
-      "snack"
+      "cornmeal-fritters",
+      "caribbean"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 25,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 22,
     "shard": "l"
   },
   {
@@ -22838,6 +22836,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--japanese",
+    "title": "Lazy Sunday Middle Eastern Tagine",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "tagine",
+      "lazy-sunday",
+      "middle-eastern"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "l"
   }
 ]
