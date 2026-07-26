@@ -1,0 +1,93 @@
+{
+  "slug": "light-slovakian-pork-dumplings",
+  "title": "Slovakian Pork Dumplings",
+  "description": "A hearty Slovakian dish featuring tender pork served with homemade dumplings.",
+  "cuisine": "slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": "Cut into 2cm cubes"
+    },
+    {
+      "name": "Dumpling flour",
+      "amount": "250g",
+      "notes": "For homemade dumplings"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For dumpling mixture"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 1 tablespoon of vegetable oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the caraway seeds, salt, and black pepper. Mix well.",
+    "In a separate bowl, mix together the dumpling flour, egg, and a pinch of salt.",
+    "Roll out the dumpling mixture to about 1cm thickness.",
+    "Cut the dumplings into desired shape (e.g., squares or circles).",
+    "Bring a large pot of salted water to a boil. Cook the dumplings for 5-7 minutes, or until they float.",
+    "Serve the pork with the cooked dumplings and garnish with chopped fresh parsley, if desired.",
+    "Heat the remaining 1 tablespoon of vegetable oil in the pan and fry the cooked dumplings until crispy.",
+    "Serve the fried dumplings on top of the pork and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "homemade",
+    "dumplings",
+    "pork",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:16:28.419Z"
+}
