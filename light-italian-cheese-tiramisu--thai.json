@@ -1,0 +1,90 @@
+{
+  "slug": "light-italian-cheese-tiramisu--thai",
+  "title": "Thai-Style Cheese Crepes",
+  "description": "A unique twist on traditional crepes, these Thai-inspired cheese crepes are perfect for a sweet treat.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "light",
+      "amount": "1 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "italian",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for crepes"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Combine flour, water, egg, salt, and sugar in a bowl. Mix until smooth.",
+    "Heat a non-stick pan over medium heat.",
+    "Brush the pan with light.",
+    "Pour a small amount of batter into the pan and tilt to spread evenly.",
+    "Cook for 1-2 minutes, until the edges start to curl.",
+    "Loosen the crepe with a spatula and flip.",
+    "Cook for another minute.",
+    "Repeat with the remaining batter.",
+    "In a separate pan, melt coconut oil over low heat.",
+    "Add cheese and stir until melted.",
+    "Dust the crepes with italian and serve with the cheese sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "cheesecrepe",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-italian-cheese-tiramisu--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:51:32.377Z"
+}
