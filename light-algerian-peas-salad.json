@@ -1,0 +1,79 @@
+{
+  "slug": "light-algerian-peas-salad",
+  "title": "Algerian-Style Salad with Light Dressing",
+  "description": "A refreshing Algerian-inspired salad with a light and tangy dressing. Perfect for a quick lunch or dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Algerian",
+      "amount": "2 cups mixed greens",
+      "notes": "such as kale, spinach, and arugula"
+    },
+    {
+      "name": "light",
+      "amount": "1/4 cup olive oil",
+      "notes": "use a light olive oil for a lighter dressing"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup frozen peas, thawed",
+      "notes": "fresh peas can be used if in season"
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup cherry tomatoes, halved",
+      "notes": "use a variety of colored cherry tomatoes for a pop of color"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use kosher salt or sea salt for best flavor"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "use freshly ground black pepper for best flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "use fresh lemon juice for best flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced",
+      "notes": "use fresh garlic for best flavor"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, frozen peas, cherry tomatoes, salt, and pepper.",
+    "In a small bowl, whisk together the olive oil, lemon juice, and garlic.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "salad",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-algerian-peas-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:58:10.674Z"
+}
