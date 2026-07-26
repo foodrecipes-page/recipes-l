@@ -23212,5 +23212,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "light-fluffy-brazilian-pumpkin-empanadas--vegetarian",
+    "title": "Brazilian Pumpkin Empanada Casserole",
+    "tags": [
+      "brazilian",
+      "pumpkin",
+      "empanada",
+      "vegetarian",
+      "dinner"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
