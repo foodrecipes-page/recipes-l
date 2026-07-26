@@ -1,0 +1,80 @@
+{
+  "slug": "light-fluffy-russian-beef-wrap--german",
+  "title": "German Beef Wrap",
+  "description": "A German-inspired twist on the classic beef wrap. Sliced beef is served in a light, fluffy wrap with russian mustard and topped with fresh herbs.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "light, fluffy wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "russian mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the sirloin steak with salt and pepper.",
+    "Grill the steak for 3-4 minutes per side, or until it reaches an internal temperature of 135°F for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "Meanwhile, toast the light, fluffy wrap on the grill or in a toaster.",
+    "Spread russian mustard on the wrap, leaving a small border around the edges.",
+    "Add sliced onion and fresh parsley on top of the mustard.",
+    "Slice the grilled steak and place it on top of the onion and parsley.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fluffy-russian-beef-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:30:41.938Z"
+}
