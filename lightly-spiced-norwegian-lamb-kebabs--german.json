@@ -1,0 +1,93 @@
+{
+  "slug": "lightly-spiced-norwegian-lamb-kebabs--german",
+  "title": "Spiced Lamb Kebabs - German-Style",
+  "description": "Traditional German-inspired spiced lamb kebabs, marinated in a blend of aromatic spices and served with a side of crusty bread.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "norwegian lamb",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "spiced",
+      "amount": "2 tsp",
+      "notes": "german-style spice blend"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, spiced, garlic, onion, bell pepper, tomato, salt, black pepper, and lemon juice.",
+    "Add the lamb to the marinade and mix well to coat.",
+    "Thread the marinated lamb onto skewers.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb reaches a safe internal temperature of 145°F (63°C).",
+    "Let the kebabs rest for 5 minutes before slicing and serving.",
+    "Serve with crusty bread and your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "kebabs",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-norwegian-lamb-kebabs--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:24:17.354Z"
+}
