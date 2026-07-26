@@ -1,0 +1,75 @@
+{
+  "slug": "lovely-smoky-greek-chickpeas-revithia--vegetarian",
+  "title": "Revithia and Chickpea Stew",
+  "description": "A hearty and flavorful stew made with revithia, chickpeas, and a hint of smokiness.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "revithia",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "lovely onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the revithia, chickpeas, paprika, and tomato paste. Stir to combine.",
+    "Pour in 4 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the lemon juice and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "vegetarian",
+    "lentil-stew",
+    "chickpea-stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-greek-chickpeas-revithia--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:00:27.195Z"
+}
