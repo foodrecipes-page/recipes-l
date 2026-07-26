@@ -1,0 +1,61 @@
+{
+  "slug": "luscious-turkish-nectarines-toast--vegan",
+  "title": "Nectarine Toast",
+  "description": "A simple vegan breakfast recipe featuring fresh nectarines and toasted bread.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "2",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "toast",
+      "amount": "2 slices",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "luscious",
+      "amount": "1 tsp",
+      "notes": "honey substitute (adjust to taste)"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tsp",
+      "notes": "spice blend (adjust to taste)"
+    }
+  ],
+  "instructions": [
+    " Toast the bread until lightly browned.",
+    "Slice the nectarines and set aside.",
+    "In a small bowl, mix together the luscious and Turkish spice blend.",
+    "Spread the mixture evenly onto the toasted bread.",
+    "Top with sliced nectarines.",
+    "Serve and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegan",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-turkish-nectarines-toast--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:34:26.425Z"
+}
