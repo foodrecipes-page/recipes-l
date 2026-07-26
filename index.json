@@ -22859,5 +22859,44 @@
     "cuisine": "Greek",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "light-italian-cheese-tiramisu--thai",
+    "title": "Thai-Style Cheese Crepes",
+    "tags": [
+      "thaicuisine",
+      "cheesecrepe",
+      "dessert"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-light-german-potato-casserole--japanese",
+    "title": "Potato Tempura Casserole",
+    "tags": [
+      "japanese",
+      "casserole",
+      "potato",
+      "tempura"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-algerian-lamb-tagine--indian",
+    "title": "Lamb Tagine with Indian Spices",
+    "tags": [
+      "lamb",
+      "indian",
+      "tagine",
+      "smoky",
+      "flavorful"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 200,
+    "shard": "l"
   }
 ]
