@@ -1,0 +1,87 @@
+{
+  "slug": "lightly-yeasty-british-khus-khus-scones--thai",
+  "title": "Thai Coconut Scones",
+  "description": "A sweet and savory twist on traditional British scones, inspired by the flavors of Thailand. These scones are perfect for a breakfast or snack.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lightly yeasty instant yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Khus essence",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Khus syrup (or honey)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the flour, sugar, and yeast.",
+    "Add the salt and whisk to combine.",
+    "In a separate bowl, whisk together the coconut milk, melted butter, khus essence, and khus syrup.",
+    "Pour the wet ingredients into the dry ingredients and stir until a dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until the dough is smooth and elastic.",
+    "Pat the dough into a circle that is about 1 inch thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones.",
+    "Place the scones on a baking sheet lined with parchment paper.",
+    "Brush the tops of the scones with a little extra melted butter.",
+    "Bake for 15-20 minutes, or until the scones are golden brown.",
+    "Remove the scones from the oven and let them cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "breakfast",
+    "scones",
+    "coconut"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-yeasty-british-khus-khus-scones--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:28:31.274Z"
+}
