@@ -1,0 +1,97 @@
+{
+  "slug": "luxurious-slow-cooked-australian-duck-stew--indian",
+  "title": "Australian Duck Stew",
+  "description": "A slow-cooked, luxurious duck stew inspired by Indian cuisine, perfect for a cold winter night.",
+  "cuisine": "indian",
+  "diet": [
+    "pork-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg",
+      "amount": "1 kg",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Australian red wine",
+      "amount": "1 cup",
+      "notes": "full-bodied"
+    },
+    {
+      "name": "Indian-style curry paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the duck leg until browned on all sides, about 5 minutes.",
+    "Remove the duck leg from the pot and set aside.",
+    "Add more oil if necessary, then sauté the onions, garlic, and ginger paste until fragrant.",
+    "Add the curry paste and cook for 1 minute.",
+    "Add the carrots, potatoes, and tomatoes, cooking for 5 minutes.",
+    "Add the red wine, scraping the bottom of the pot to release the browned bits.",
+    "Return the duck leg to the pot, cover, and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the meat is tender and falls off the bone.",
+    "Stir in the coconut milk and simmer over low heat until heated through.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian-food",
+    "slow-cooked",
+    "indian-cuisine",
+    "duck-recipe"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxurious-slow-cooked-australian-duck-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:42:35.102Z"
+}
