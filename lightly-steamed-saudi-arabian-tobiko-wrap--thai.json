@@ -1,0 +1,89 @@
+{
+  "slug": "lightly-steamed-saudi-arabian-tobiko-wrap--thai",
+  "title": "Thai-Style Steamed Fish Wrap",
+  "description": "A flavorful and refreshing Thai-inspired dish featuring steamed fish wrapped in a fragrant Saudi Arabian-style flatbread.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Swordfish fillet",
+      "amount": "4 ounces",
+      "notes": null
+    },
+    {
+      "name": "Lightly steamed lemongrass",
+      "amount": "4 stalks",
+      "notes": null
+    },
+    {
+      "name": "Saudi Arabian flatbread",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "Tobiko",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Chili sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Steam the swordfish fillet for 8-10 minutes or until cooked through.",
+    "Meanwhile, toast the Saudi Arabian flatbread in a dry pan for 2-3 minutes on each side.",
+    "In a small bowl, mix together chili sauce and soy sauce.",
+    "Once the swordfish is cooked, place it on the toasted flatbread and brush with the chili-soy mixture.",
+    "Garnish with tobiko, chopped Thai basil, sliced cucumber, and sliced carrots.",
+    "Serve immediately with a lime wedge on the side.",
+    "To assemble the wrap, place the swordfish mixture on the flatbread and fold the wrap in half."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "steamed",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-steamed-saudi-arabian-tobiko-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:05:14.647Z"
+}
