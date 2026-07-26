@@ -1,0 +1,94 @@
+{
+  "slug": "lightly-frozen-argentinian-prawns-ceviche",
+  "title": "Argentinian Prawn Ceviche",
+  "description": "A refreshing and zesty ceviche dish made with argentinian prawns, marinated in lime juice and mixed with onions, peppers, and cilantro.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "seafood",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian prawns (shrimp)",
+      "amount": "12",
+      "notes": "frozen"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Rinse the prawns under cold water and pat them dry with paper towels.",
+    "Cut the prawns into small pieces and place them in a large bowl.",
+    "Squeeze the lime juice over the prawns and mix well.",
+    "Add the sliced onion, bell pepper, and cucumber to the bowl and mix well.",
+    "Add the chopped cilantro and minced garlic to the bowl and mix well.",
+    "Season with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the prawns to marinate.",
+    "Just before serving, stir the ceviche well and adjust the seasoning if necessary.",
+    "Serve the ceviche in small glasses or bowls and garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "prawns",
+    "ceviche",
+    "lunch",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-frozen-argentinian-prawns-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:09:06.354Z"
+}
