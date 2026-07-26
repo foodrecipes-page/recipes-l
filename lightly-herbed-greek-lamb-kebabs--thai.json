@@ -1,0 +1,86 @@
+{
+  "slug": "lightly-herbed-greek-lamb-kebabs--thai",
+  "title": "Thai Herb Lamb Kebabs",
+  "description": "Delicious lamb kebabs marinated in a Thai-inspired herb mixture, perfect for a quick and flavorful meal. Serve with your favorite Thai sides.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "Lightly Herbed Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": "as marinade"
+    },
+    {
+      "name": "Thai Red Chili Flakes",
+      "amount": "2 teaspoons",
+      "notes": "add heat to the marinade"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "marinade ingredient"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "grill the kebabs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "season the lamb"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "season the lamb"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine the yogurt, chili flakes, lime juice, cilantro, salt, and black pepper.",
+    "2. Add the lamb to the marinade, and mix until the meat is well coated.",
+    "3. Cover the bowl with plastic wrap, and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Remove the lamb from the marinade, letting any excess liquid drip off.",
+    "6. Thread the lamb onto skewers, leaving a little space between each piece.",
+    "7. Brush the grill with olive oil to prevent sticking.",
+    "8. Grill the kebabs for 8-10 minutes, turning occasionally, until the lamb reaches your desired level of doneness.",
+    "9. Transfer the kebabs to a plate, and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "thai",
+    "herbs",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-herbed-greek-lamb-kebabs--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:04:01.104Z"
+}
