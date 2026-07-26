@@ -1,0 +1,81 @@
+{
+  "slug": "lovely-syrian-lentil-pilaf--japanese",
+  "title": "Japanese Lentil Pilaf",
+  "description": "A simple Japanese-inspired dish made with lentils and pilaf. This recipe is a great option for vegetarians and vegans.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "syrian pilaf",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lovely vegetable broth",
+      "amount": "2 cups",
+      "notes": "you can also use store-bought vegetable broth"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large saucepan over medium heat.",
+    "Add the green onion and cook for 2-3 minutes until softened.",
+    "Add the lentils and cook for 1-2 minutes until lightly browned.",
+    "Add the pilaf and cook for 2-3 minutes until lightly toasted.",
+    "Add the vegetable broth and soy sauce. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the lentils are tender.",
+    "Stir in the toasted sesame seeds.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "pilaf",
+    "japanese",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-syrian-lentil-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:03:43.867Z"
+}
