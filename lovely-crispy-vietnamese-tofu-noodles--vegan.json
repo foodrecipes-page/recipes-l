@@ -1,0 +1,86 @@
+{
+  "slug": "lovely-crispy-vietnamese-tofu-noodles--vegan",
+  "title": "Crispy Vietnamese Noodle Salad",
+  "description": "A refreshing and crunchy vegan noodle salad inspired by Vietnamese flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "lovely, crispy tofu",
+      "amount": "1 block",
+      "notes": "extra-firm tofu"
+    },
+    {
+      "name": "vietnamese dressing",
+      "amount": "1/4 cup",
+      "notes": "see instructions for recipe"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1 tsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions and set aside.",
+    "Cut the tofu into small cubes and marinate in a mixture of peanut oil, salt, and chili flakes for at least 30 minutes.",
+    "Heat a non-stick pan over medium-high heat and fry the tofu until crispy and golden brown. Drain on paper towels.",
+    "In a large bowl, combine the cooked noodles, crispy tofu, cucumber, carrots, and mint leaves.",
+    "In a small bowl, whisk together the Vietnamese dressing ingredients (see below) and pour over the noodle mixture. Toss to coat.",
+    "Serve immediately and garnish with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "salad",
+    "noodles",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crispy-vietnamese-tofu-noodles--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:23:13.134Z"
+}
