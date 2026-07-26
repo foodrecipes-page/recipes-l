@@ -1,0 +1,102 @@
+{
+  "slug": "lightly-roasted-moroccan-sea-bass-tagine--mexican",
+  "title": "Bass Tagine Tacos",
+  "description": "A fusion of Mexican and Moroccan flavors, featuring sea bass cooked in a flavorful tagine sauce, served in tacos.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "about 6 oz each"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mild diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the diced tomatoes, chicken broth, moroccan spice blend, cumin, and salt.",
+    "Stir to combine and bring to a simmer.",
+    "Add the sea bass fillets to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Transfer the cooked bass to a plate and cover with foil to keep warm.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of cooked bass onto a tortilla, followed by a spoonful of the tagine sauce and some chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "mexican-fusion",
+    "moroccan",
+    "sea-bass",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-roasted-moroccan-sea-bass-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:41:25.010Z"
+}
