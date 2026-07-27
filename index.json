@@ -23341,5 +23341,47 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "lightly-crunchy-canadian-chickpeas-flatbread--italian",
+    "title": "Italian Chickpea Flatbread",
+    "tags": [
+      "italian",
+      "chickpea",
+      "flatbread",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-smoky-peruvian-beetroot-lomo-saltado--thai",
+    "title": "Smoked Lomo Saltado",
+    "tags": [
+      "thai",
+      "beef",
+      "bacon",
+      "aji-amarillo",
+      "beetroot"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriously-loaded-saudi-arabian-cream-cheese-flatbread--italian",
+    "title": "Saudi Arabian Flatbread Pizza",
+    "tags": [
+      "italian",
+      "middle-eastern",
+      "flatbread",
+      "pizza",
+      "cheese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "l"
   }
 ]
