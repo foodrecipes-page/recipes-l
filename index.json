@@ -23291,5 +23291,55 @@
     "cuisine": "Irish",
     "totalTimeMin": 20,
     "shard": "l"
+  },
+  {
+    "slug": "light-american-rye-bread--french",
+    "title": "French Toast",
+    "tags": [
+      "breakfast",
+      "french",
+      "easy",
+      "kids"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 13,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-pickled-sour-german-vegetables-salad--mexican",
+    "title": "Pickled German Vegetable Salad",
+    "tags": [
+      "mexican",
+      "salad",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-springy-greek-farfalle-revithia--japanese",
+    "title": "Revithia Farfalle Noodle Salad",
+    "tags": [
+      "japanesecuisine",
+      "chickpeasalad",
+      "noodlesalad"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-crusty-american-cheese-flatbread--japanese",
+    "title": "Crusty Flatbread with American Cheese",
+    "tags": [
+      "japanese",
+      "american",
+      "comfort-food",
+      "cheesy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
   }
 ]
