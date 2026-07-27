@@ -1,0 +1,86 @@
+{
+  "slug": "light-fermented-ethiopian-tortilla-stir-fry--german",
+  "title": "Ethiopian-Style Schnitzel",
+  "description": "A twist on traditional german schnitzel using ethiopian spices and techniques. Serve with a side of tangy slaw.",
+  "cuisine": "german",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Cutlets",
+      "amount": "4",
+      "notes": "1/4 inch thick"
+    },
+    {
+      "name": "Ethiopian Berbere Spice",
+      "amount": "2 tbsp",
+      "notes": "or 1 tsp ground cumin + 1/2 tsp ground coriander"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "Breaded Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Light Beer",
+      "amount": "1 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Fried Onions",
+      "amount": "",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "1. Season the pork cutlets with berbere spice and let rest for 15 minutes.",
+    "2. Dredge the cutlets in flour, shaking off excess.",
+    "3. Dip the floured cutlets in beaten eggs and then coat in breadcrumbs.",
+    "4. Heat butter in a large skillet over medium-high heat.",
+    "5. Fry the breaded cutlets until golden brown, about 3-4 minutes per side.",
+    "6. Transfer the cutlets to a plate and cover with foil to keep warm.",
+    "7. Reduce heat to medium and add light beer to the skillet.",
+    "8. Scrape up any browned bits and simmer until the liquid is almost completely reduced, about 5-7 minutes.",
+    "9. Return the cutlets to the skillet and simmer in the beer sauce for 2-3 minutes.",
+    "10. Serve the schnitzel hot, garnished with fried onions and parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "german",
+    "schnitzel",
+    "beer",
+    "beer-braised"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-fermented-ethiopian-tortilla-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:46:43.355Z"
+}
