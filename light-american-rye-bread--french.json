@@ -1,0 +1,62 @@
+{
+  "slug": "light-american-rye-bread--french",
+  "title": "French Toast",
+  "description": "A classic breakfast dish originating from France, made by dipping bread in a mixture of eggs and milk, then cooking it in a pan.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Crack the eggs into a shallow dish and whisk them together.",
+    "2. Add the milk and vanilla extract (if using) to the eggs and whisk until well combined.",
+    "3. Heat a non-stick pan over medium heat.",
+    "4. Dip each bread slice into the egg mixture, coating both sides evenly.",
+    "5. Place the bread slices in the pan and cook for 2-3 minutes on each side, or until golden brown.",
+    "6. Repeat with the remaining bread slices.",
+    "7. Serve the French toast warm, topped with butter and your choice of toppings (such as maple syrup, fresh fruit, or powdered sugar).",
+    "8. Enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "french",
+    "easy",
+    "kids"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-american-rye-bread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:13:52.330Z"
+}
