@@ -1,0 +1,84 @@
+{
+  "slug": "light-roasted-norwegian-cashew-nut-stir-fry--chinese",
+  "title": "Stir-Fry with Cashew and Norweigan Salmon",
+  "description": "A delicate and flavorful Chinese dish made with stir-fried vegetables and crispy cashews, topped with pan-seared Norwegian salmon.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillet",
+      "amount": "2",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "1 cup",
+      "notes": "florets"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together soy sauce, rice vinegar, and 2 tablespoons of water. Set aside.",
+    "2. Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "3. Add the salmon fillet and sear for 3-4 minutes per side, or until cooked through.",
+    "4. Transfer the salmon to a plate and cover with foil to keep warm.",
+    "5. In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "6. Add the broccoli and carrots and cook for 3-4 minutes, or until tender.",
+    "7. Add the chopped cashews and cook for an additional 1-2 minutes.",
+    "8. Stir in the garlic and cook for 1 minute.",
+    "9. Return the salmon to the skillet and spoon some of the vegetable mixture over the top.",
+    "10. Serve immediately and garnish with chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "seafood",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-roasted-norwegian-cashew-nut-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:36:40.365Z"
+}
