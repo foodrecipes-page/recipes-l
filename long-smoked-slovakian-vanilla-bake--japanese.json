@@ -1,0 +1,97 @@
+{
+  "slug": "long-smoked-slovakian-vanilla-bake--japanese",
+  "title": "Smoked Salmon Sushi",
+  "description": "A Japanese-inspired sushi recipe featuring smoked salmon, perfect for a delicious and easy-to-make meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain Japanese rice",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "smoked salmon fillet",
+      "amount": "1/2 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "slovakian wheat bread",
+      "amount": "1 tablespoon",
+      "notes": "for bread crumbs"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sushi vinegar",
+      "amount": "1/4 cup",
+      "notes": "mixed with rice vinegar and sugar"
+    },
+    {
+      "name": "bake",
+      "amount": "350°F",
+      "notes": "toasted sesame seeds for garnish"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi vinegar by mixing rice vinegar and sugar. Set aside.",
+    "Cook the Japanese rice according to package instructions. Allow it to cool.",
+    "Cut the smoked salmon into small pieces and set aside.",
+    "Cut the cucumber and avocado into thin slices.",
+    "Prepare the pickled ginger by slicing it thinly.",
+    "To assemble the sushi, place a small amount of rice onto a sushi mat.",
+    "Add a few pieces of smoked salmon, cucumber, and avocado on top of the rice.",
+    "Roll the sushi using the sushi mat and slice into individual pieces.",
+    "Brush the sesame seeds with sesame oil and toast in the oven at 350°F.",
+    "Garnish the sushi with toasted sesame seeds and pickled ginger.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sushi",
+    "japanese",
+    "salmon",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/long-smoked-slovakian-vanilla-bake--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:05:24.272Z"
+}
