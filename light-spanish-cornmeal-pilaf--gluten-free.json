@@ -1,0 +1,81 @@
+{
+  "slug": "light-spanish-cornmeal-pilaf--gluten-free",
+  "title": "Spanish-Style Corn Fritters",
+  "description": "Crispy and flavorful, these gluten-free corn fritters are a delicious twist on traditional cornbread.",
+  "cuisine": "spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light",
+      "amount": "1/2 cup",
+      "notes": "evaporated milk"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1/2 cup",
+      "notes": "glutinous rice"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, cumin, paprika, salt, and pepper.",
+    "In a separate bowl, whisk together light, egg, and a pinch of salt.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Stir in pilaf.",
+    "Heat about 1 inch of oil in a large skillet over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the oil.",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown.",
+    "Drain the fritters on paper towels.",
+    "Serve warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "spanish",
+    "fritters",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-spanish-cornmeal-pilaf--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:58:45.490Z"
+}
