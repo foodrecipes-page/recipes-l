@@ -1,0 +1,60 @@
+{
+  "slug": "lovely-crusty-american-cheese-flatbread--japanese",
+  "title": "Crusty Flatbread with American Cheese",
+  "description": "A Japanese-inspired twist on American comfort food, this crispy flatbread is topped with a rich and creamy American cheese.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lovely, crusty flatbread",
+      "amount": "1 large piece",
+      "notes": ""
+    },
+    {
+      "name": "american cheese",
+      "amount": "4-6 slices",
+      "notes": "divided"
+    },
+    {
+      "name": "american",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the crusty flatbread into 1-inch squares.",
+    "3. Place the flatbread squares on a baking sheet lined with parchment paper.",
+    "4. Bake for 10-12 minutes or until crispy and golden brown.",
+    "5. Meanwhile, melt 2-3 slices of American cheese in a small saucepan over low heat.",
+    "6. Remove the flatbread from the oven and top each piece with a slice of melted cheese.",
+    "7. If using, sprinkle with American seasoning.",
+    "8. Return the flatbread to the oven and bake for an additional 2-3 minutes or until the cheese is bubbly and golden brown.",
+    "9. Remove from the oven and let cool for a few minutes.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "american",
+    "comfort-food",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-crusty-american-cheese-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:52:43.899Z"
+}
