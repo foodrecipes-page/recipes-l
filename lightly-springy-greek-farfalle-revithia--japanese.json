@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-springy-greek-farfalle-revithia--japanese",
+  "title": "Revithia Farfalle Noodle Salad",
+  "description": "A refreshing Japanese-inspired salad combining springy farfalle noodles with revithia chickpeas, lightly tossed in a zesty dressing.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Revithia",
+      "amount": "1 15 oz can, drained and rinsed"
+    },
+    {
+      "name": "Farfalle",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Greek Spring Onion",
+      "amount": "1/2 cup thinly sliced"
+    },
+    {
+      "name": "Lightly toasted sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Japanese Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "Green Chili Flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Cook the farfalle noodles according to package instructions, then set aside to cool.",
+    "2. In a large bowl, whisk together soy sauce, rice vinegar, honey, grated ginger, and green chili flakes.",
+    "3. Add the toasted sesame seeds to the bowl and stir to combine.",
+    "4. Add the cooled farfalle noodles to the bowl and toss to coat with the dressing.",
+    "5. Stir in the revithia chickpeas and spring onion.",
+    "6. Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "7. Serve chilled or at room temperature.",
+    "8. Garnish with additional sesame seeds and spring onion if desired.",
+    "9. Serve immediately.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanesecuisine",
+    "chickpeasalad",
+    "noodlesalad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-springy-greek-farfalle-revithia--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:34:28.594Z"
+}
