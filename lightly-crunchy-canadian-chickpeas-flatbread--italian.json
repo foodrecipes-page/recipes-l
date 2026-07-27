@@ -1,0 +1,64 @@
+{
+  "slug": "lightly-crunchy-canadian-chickpeas-flatbread--italian",
+  "title": "Italian Chickpea Flatbread",
+  "description": "A delicious and easy Italian-inspired flatbread recipe with a crunchy chickpea topping.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canadian flatbread",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "Lightly olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush flatbread with olive oil and bake for 5 minutes.",
+    "In a bowl, mash chickpeas with a fork until coarsely chopped.",
+    "Spread mashed chickpeas over flatbread.",
+    "Season with salt to taste.",
+    "Return flatbread to the oven and bake for an additional 5-7 minutes.",
+    "Remove from oven and let cool for a few minutes.",
+    "Cut into slices and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chickpea",
+    "flatbread",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-crunchy-canadian-chickpeas-flatbread--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:03:00.051Z"
+}
