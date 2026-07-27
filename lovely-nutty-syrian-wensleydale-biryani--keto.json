@@ -1,0 +1,84 @@
+{
+  "slug": "lovely-nutty-syrian-wensleydale-biryani--keto",
+  "title": "Syrian Wensleydale Biryani Keto Delight",
+  "description": "A keto-friendly twist on the classic biryani dish, combining the flavors of Syria and the nuttiness of Wensleydale cheese.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lovely Syrian Rice",
+      "amount": "1 cup",
+      "notes": "make sure to rinse the rice well before cooking"
+    },
+    {
+      "name": "Wensleydale Cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": "choose a low-carb, full-fat Wensleydale cheese"
+    },
+    {
+      "name": "Biryani Spice Blend",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, cinnamon, cardamom, and cayenne pepper"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use a keto-friendly salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice well and soak it in water for 30 minutes.",
+    "Drain the rice and cook it in a saucepan with 2 cups of water until it's tender.",
+    "In a separate pan, heat the avocado oil and sauté the Wensleydale cheese until it's lightly browned.",
+    "Add the biryani spice blend to the cheese and stir well.",
+    "Add the cooked rice to the cheese mixture and stir-fry for 2-3 minutes.",
+    "Fluff the rice mixture with a fork and stir in the lemon juice, salt, and black pepper.",
+    "Transfer the biryani to a serving dish and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "syrian",
+    "biryani",
+    "rice",
+    "wensleydale"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-nutty-syrian-wensleydale-biryani--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:16:23.809Z"
+}
