@@ -1,0 +1,66 @@
+{
+  "slug": "lazy-sunday-basque-french-yellow-onion-quiche",
+  "title": "Sunday Basque Quiche",
+  "description": "A French-inspired quiche filled with the rich flavors of Basque cuisine, perfect for a relaxing Sunday morning.",
+  "cuisine": "Basque",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yellow cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sunday sausage",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Lazy eggs",
+      "amount": "4 large eggs"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large onion, diced"
+    },
+    {
+      "name": "French cheese",
+      "amount": "1 cup shredded Gruyère"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the yellow cornmeal into a circle, about 1/4-inch thick.",
+    "In a separate pan, sauté the crumbled Sunday sausage until lightly browned.",
+    "In a separate bowl, whisk the lazy eggs and set aside.",
+    "Add the diced onion to the bowl with the whisked eggs and mix well.",
+    "Spread the cooked sausage evenly over the cornmeal circle, leaving a 1-inch border around the edges.",
+    "Pour the egg and onion mixture over the sausage.",
+    "Sprinkle the French cheese over the top of the egg mixture.",
+    "Carefully transfer the quiche to a baking sheet and bake for 35-40 minutes, or until the crust is golden brown and the eggs are set.",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "basque",
+    "quiche",
+    "french",
+    "sunday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-sunday-basque-french-yellow-onion-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:42:54.326Z"
+}
