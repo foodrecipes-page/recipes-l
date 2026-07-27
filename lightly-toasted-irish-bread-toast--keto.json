@@ -1,0 +1,68 @@
+{
+  "slug": "lightly-toasted-irish-bread-toast--keto",
+  "title": "Irish Toasted Keto Bread",
+  "description": "A keto version of traditional Irish toast, made with bread and perfect as a breakfast option.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lightly toasted irish bread",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "crumbled bacon",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "chopped cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Add butter to the skillet and melt.",
+    "Place the lightly toasted Irish bread in the skillet.",
+    "Crack 2 large eggs into a bowl and scramble them.",
+    "Add the scrambled eggs to the bread in the skillet.",
+    "Add 2 slices of crumbled bacon to the eggs.",
+    "Sprinkle 1/4 cup of chopped cheddar cheese over the top.",
+    "Cook for 2-3 minutes or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto-breakfast",
+    "irish-food",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-toasted-irish-bread-toast--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:35:47.075Z"
+}
