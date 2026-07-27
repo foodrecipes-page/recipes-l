@@ -1,0 +1,78 @@
+{
+  "slug": "lovely-lightly-grilled-tunisian-lamb-kebabs--mexican",
+  "title": "Tunisian Lamb Kebabs",
+  "description": "A flavorful and spicy twist on traditional lamb kebabs, inspired by the flavors of Tunisia and served with a Mexican twist.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most middle eastern markets or online"
+    },
+    {
+      "name": "grilled red onion",
+      "amount": "1 medium",
+      "notes": "grilled until slightly charred"
+    },
+    {
+      "name": "grilled bell pepper",
+      "amount": "1 medium",
+      "notes": "any color, grilled until slightly charred"
+    },
+    {
+      "name": "lovely lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "lightly toasted cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "toasted in a dry skillet"
+    },
+    {
+      "name": "kebab skewers",
+      "amount": "10",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "grilled cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes, red onion, bell pepper, and cilantro onto kebab skewers.",
+    "Brush with Tunisian spice blend and lemon juice.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, or until lamb is cooked through.",
+    "Serve immediately, garnished with toasted cumin seeds and grilled red onion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lamb",
+    "kebabs",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-lightly-grilled-tunisian-lamb-kebabs--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:13:19.809Z"
+}
