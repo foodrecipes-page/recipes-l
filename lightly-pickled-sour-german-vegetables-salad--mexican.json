@@ -1,0 +1,71 @@
+{
+  "slug": "lightly-pickled-sour-german-vegetables-salad--mexican",
+  "title": "Pickled German Vegetable Salad",
+  "description": "A refreshing Mexican-inspired salad featuring pickled vegetables and a tangy dressing.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German vegetables (such as cabbage, carrots, and beets)",
+      "amount": "1 cup, thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "Lightly pickled vegetables (such as cucumbers and red onions)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups, mixed greens",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced German vegetables and pickled vegetables.",
+    "In a small bowl, whisk together the sour cream and lime juice until smooth.",
+    "Pour the sour cream dressing over the vegetables and toss to combine.",
+    "Add the mixed greens and chopped cilantro to the bowl and toss again to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-pickled-sour-german-vegetables-salad--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:18:13.059Z"
+}
