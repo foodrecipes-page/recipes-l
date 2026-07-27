@@ -1,0 +1,77 @@
+{
+  "slug": "light-mexican-vegetable-tlayudas--german",
+  "title": "Beer-Braised Bratwurst with Sauerkraut and Potatoes",
+  "description": "A hearty German dish featuring bratwurst, sauerkraut, and potatoes in a rich beer broth.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bratwurst Sausages",
+      "amount": "4"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium heat.",
+    "2. Add sliced onions and cook until caramelized, about 20 minutes.",
+    "3. Add bratwurst sausages and cook until browned, about 5 minutes.",
+    "4. Add beer, sauerkraut, potatoes, caraway seeds, salt, and pepper.",
+    "5. Bring to a boil, then cover and transfer to the oven.",
+    "6. Braise for 30 minutes, or until potatoes are tender.",
+    "7. Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beerbraised",
+    "bratwurst",
+    "saurekraut",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-mexican-vegetable-tlayudas--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:24:54.978Z"
+}
