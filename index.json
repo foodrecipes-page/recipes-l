@@ -909,16 +909,15 @@
   },
   {
     "slug": "lazy-sunday-basque-french-yellow-onion-quiche",
-    "title": "Lazy Sunday Basque French Yellow Onion Quiche",
+    "title": "Sunday Basque Quiche",
     "tags": [
+      "breakfast",
       "basque",
-      "brunch",
+      "quiche",
       "french",
-      "lazy-sunday",
-      "low-fat",
-      "quiche"
+      "sunday"
     ],
-    "cuisine": "Basque French",
+    "cuisine": "Basque",
     "totalTimeMin": 55,
     "shard": "l"
   },
@@ -23279,6 +23278,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-toasted-irish-bread-toast--keto",
+    "title": "Irish Toasted Keto Bread",
+    "tags": [
+      "keto-breakfast",
+      "irish-food",
+      "bread"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 20,
     "shard": "l"
   }
 ]
