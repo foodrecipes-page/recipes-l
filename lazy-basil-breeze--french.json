@@ -1,0 +1,67 @@
+{
+  "slug": "lazy-basil-breeze--french",
+  "title": "French Breeze Basil Frittata",
+  "description": "A light and flavorful French-inspired frittata made with fresh breeze herbs and a hint of laze.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "breeze",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together eggs, salt, and pepper.",
+    "Add fresh breeze and chopped basil to the egg mixture. Mix well.",
+    "Heat butter in a 9-inch oven-safe skillet over medium heat.",
+    "Pour the egg mixture over the butter and cook for 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes.",
+    "Remove from the oven and let it cool for a few minutes.",
+    "Slice and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "breakfast",
+    "eggs",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lazy-basil-breeze--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:38:48.163Z"
+}
