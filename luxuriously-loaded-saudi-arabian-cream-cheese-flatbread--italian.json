@@ -1,0 +1,75 @@
+{
+  "slug": "luxuriously-loaded-saudi-arabian-cream-cheese-flatbread--italian",
+  "title": "Saudi Arabian Flatbread Pizza",
+  "description": "A fusion of Italian and Middle Eastern flavors, this loaded flatbread pizza is topped with creamy cheese and a hint of Arabian spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian flatbread",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Arabian cheese",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Luxuriously loaded cream",
+      "amount": "1/4 cup",
+      "notes": "heavy cream or crème fraîche"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing flatbread"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Brush the flatbread with olive oil and sprinkle with minced garlic.",
+    "Spread the Arabian cheese over the flatbread, leaving a 1/2-inch border around the edges.",
+    "Drizzle the luxuriously loaded cream over the cheese.",
+    "Sprinkle chopped parsley over the top (if using).",
+    "Bake the flatbread in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the flatbread from the oven and let it cool for a few minutes.",
+    "Cut the flatbread into wedges or slices and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "middle-eastern",
+    "flatbread",
+    "pizza",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriously-loaded-saudi-arabian-cream-cheese-flatbread--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:59:27.877Z"
+}
