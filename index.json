@@ -23410,5 +23410,57 @@
     "cuisine": null,
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "lightly-spiced-syrian-chicken-kebabs--french",
+    "title": "Syrian-Style Chicken Kebabs with French Spices",
+    "tags": [
+      "chicken",
+      "kebab",
+      "grill",
+      "french",
+      "syrian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 33,
+    "shard": "l"
+  },
+  {
+    "slug": "light-roasted-norwegian-cashew-nut-stir-fry--chinese",
+    "title": "Stir-Fry with Cashew and Norweigan Salmon",
+    "tags": [
+      "chinese",
+      "seafood",
+      "healthy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "light-spanish-cornmeal-pilaf--gluten-free",
+    "title": "Spanish-Style Corn Fritters",
+    "tags": [
+      "corn",
+      "spanish",
+      "fritters",
+      "gluten-free"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "long-smoked-slovakian-vanilla-bake--japanese",
+    "title": "Smoked Salmon Sushi",
+    "tags": [
+      "sushi",
+      "japanese",
+      "salmon",
+      "seafood"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "l"
   }
 ]
