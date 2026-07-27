@@ -23462,5 +23462,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "l"
+  },
+  {
+    "slug": "lazy-creamy-russian-vegetable-bake--japanese",
+    "title": "Japanese Vegetable Bake",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "bake",
+      "dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "l"
   }
 ]
