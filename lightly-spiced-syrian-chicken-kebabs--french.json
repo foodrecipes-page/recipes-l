@@ -1,0 +1,83 @@
+{
+  "slug": "lightly-spiced-syrian-chicken-kebabs--french",
+  "title": "Syrian-Style Chicken Kebabs with French Spices",
+  "description": "A fusion dish that combines the flavors of Syria and France, perfect for a dinner party. The combination of spices and herbs will transport your taste buds to the Mediterranean.",
+  "cuisine": "french",
+  "diet": [
+    "pork-free",
+    "lamb-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "syrian spices",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "french thyme",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, syrian spices, french thyme, paprika, garlic powder, salt, and pepper.",
+    "Add the chicken cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the marinated chicken cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the chicken is cooked through and slightly charred.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebab",
+    "grill",
+    "french",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-spiced-syrian-chicken-kebabs--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:15:57.485Z"
+}
