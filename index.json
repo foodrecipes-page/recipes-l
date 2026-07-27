@@ -2843,16 +2843,15 @@
   },
   {
     "slug": "light-australian-strawberry-bake",
-    "title": "Light Australian Strawberry Bake",
+    "title": "Australian Strawberry Pavlova",
     "tags": [
-      "australian",
       "strawberry",
-      "bake",
-      "dessert",
-      "kosher"
+      "pavlova",
+      "australian",
+      "dessert"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 60,
+    "cuisine": "australian",
+    "totalTimeMin": 110,
     "shard": "l"
   },
   {
@@ -23382,6 +23381,34 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "light-mexican-vegetable-tlayudas--german",
+    "title": "Beer-Braised Bratwurst with Sauerkraut and Potatoes",
+    "tags": [
+      "german",
+      "beerbraised",
+      "bratwurst",
+      "saurekraut",
+      "potatoes"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-latin-corn-bake--keto",
+    "title": "Lazy Keto Latin Corn Bake",
+    "tags": [
+      "lazy",
+      "keto",
+      "latin",
+      "corn",
+      "bake"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "l"
   }
 ]
