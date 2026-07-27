@@ -1,0 +1,91 @@
+{
+  "slug": "lovely-smoky-peruvian-beetroot-lomo-saltado--thai",
+  "title": "Smoked Lomo Saltado",
+  "description": "A Thai-inspired twist on the Peruvian classic, with smoky flavors and a tender beef dish.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lovely beef strips",
+      "amount": "250g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoky bacon",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "beetroot",
+      "amount": "200g",
+      "notes": "pickled, sliced"
+    },
+    {
+      "name": "saltado sauce",
+      "amount": "100ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "2. Add the diced smoky bacon and cook until crispy, about 3-4 minutes.",
+    "3. Remove the bacon from the skillet and set aside.",
+    "4. Add the lovely beef strips to the skillet and cook until browned, about 4-5 minutes.",
+    "5. Add the diced peruvian aji amarillo peppers to the skillet and cook for 1 minute.",
+    "6. Add the pickled beetroot to the skillet and cook for 2 minutes.",
+    "7. Pour in the saltado sauce and stir to combine.",
+    "8. Return the crispy bacon to the skillet and stir to combine.",
+    "9. Season with salt and pepper to taste.",
+    "10. Garnish with chopped Thai basil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "bacon",
+    "aji-amarillo",
+    "beetroot"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-smoky-peruvian-beetroot-lomo-saltado--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:51:49.030Z"
+}
