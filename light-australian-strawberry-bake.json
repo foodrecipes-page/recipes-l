@@ -1,0 +1,76 @@
+{
+  "slug": "light-australian-strawberry-bake",
+  "title": "Australian Strawberry Pavlova",
+  "description": "A classic Australian dessert featuring meringue, whipped cream, and fresh strawberries.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "egg whites",
+      "amount": "3 large",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "White sugar"
+    },
+    {
+      "name": "strawberries",
+      "amount": "2 cups, hulled and sliced",
+      "notes": "Fresh"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "Whipping cream"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "Pure extract"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tbsp",
+      "notes": "Powdered sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°F (90°C) with a rack in the lower third.",
+    "Line a baking sheet with parchment paper.",
+    "In a clean, dry bowl, beat egg whites until soft peaks form.",
+    "Gradually add granulated sugar, beating until stiff peaks form.",
+    "Spoon meringue onto prepared baking sheet, forming a round shape.",
+    "Bake for 1 1/2 hours or until crisp and dry.",
+    "Allow meringue to cool completely.",
+    "In a separate bowl, whip heavy cream until stiff peaks form.",
+    "Add vanilla extract and confectioners' sugar; whip until combined.",
+    "To assemble, place meringue on a serving plate, top with whipped cream, and arrange strawberries on top.",
+    "Dust with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "strawberry",
+    "pavlova",
+    "australian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-australian-strawberry-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:17:49.056Z"
+}
