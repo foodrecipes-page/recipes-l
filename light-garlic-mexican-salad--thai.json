@@ -1,0 +1,93 @@
+{
+  "slug": "light-garlic-mexican-salad--thai",
+  "title": "Thai Spicy Salad with Garlic Shrimp",
+  "description": "A spicy and refreshing Thai salad with succulent garlic shrimp. Perfect for a light and flavorful meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "julienne lettuce",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tablespoon of oil over medium-high heat.",
+    "2. Add the chicken breast and cook for 5-6 minutes on each side, until cooked through.",
+    "3. Let the chicken rest for 5 minutes before slicing it into thin strips.",
+    "4. In a large bowl, combine the julienne lettuce, red onion, cucumber, and chili peppers.",
+    "5. In a small bowl, whisk together the light soy sauce, fish sauce, and lime juice.",
+    "6. Add the sliced chicken to the bowl and pour the dressing over the top.",
+    "7. Toss everything together to combine.",
+    "8. Season with salt to taste.",
+    "9. Garnish with minced garlic and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "salad",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-garlic-mexican-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:28:07.929Z"
+}
