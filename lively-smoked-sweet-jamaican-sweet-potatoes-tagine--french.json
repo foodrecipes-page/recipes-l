@@ -1,0 +1,77 @@
+{
+  "slug": "lively-smoked-sweet-jamaican-sweet-potatoes-tagine--french",
+  "title": "Smoked Tagine Potato Gratin",
+  "description": "A rich and creamy French-inspired gratin featuring smoked tagine-spiced potatoes. A perfect side dish for any occasion.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tsp",
+      "notes": "smoked spice blend"
+    },
+    {
+      "name": "lively",
+      "amount": "1 tsp",
+      "notes": "herb, chopped"
+    },
+    {
+      "name": "jamaican",
+      "amount": "1 tsp",
+      "notes": "allspice, ground"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "gruyère",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large saucepan, combine sliced sweet potatoes and enough cold water to cover.",
+    "Bring to a boil over high heat, then reduce heat to medium-low and simmer for 5 minutes.",
+    "Drain sweet potatoes and set aside.",
+    "In a separate saucepan, melt butter over medium heat.",
+    "Add tagine, lively, and jamaican, and cook for 1 minute, stirring constantly.",
+    "Add grated gruyère and stir until melted and smooth.",
+    "In a greased 9x13-inch baking dish, create a layer of sweet potato slices.",
+    "Pour some of the tagine-gruyère sauce over the sweet potatoes, then repeat the layers until all ingredients are used, finishing with a layer of sauce on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 15-20 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "side-dish",
+    "gratin",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-smoked-sweet-jamaican-sweet-potatoes-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:57:47.088Z"
+}
