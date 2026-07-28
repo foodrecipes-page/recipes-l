@@ -1,0 +1,83 @@
+{
+  "slug": "lovely-uruguayan-almond-bake",
+  "title": "Lovely Uruguayan Almond Crusted Bake",
+  "description": "A sweet and crunchy dessert inspired by Uruguayan cuisine, featuring a lovely almond crusted bake.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Lovely Uruguayan Almond Flour",
+      "amount": "1 cup",
+      "notes": "Make sure to use a high-quality almond flour."
+    },
+    {
+      "name": "Bake",
+      "amount": "1",
+      "notes": "Choose a sweet and moist bake"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": "Adjust the amount to your taste"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Large eggs work best"
+    },
+    {
+      "name": "Almond Extract",
+      "amount": "1 tsp",
+      "notes": "Add a hint of almond flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "Use a flaky sea salt for best results"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality unsalted butter"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the almond flour by sifting it through a fine-mesh sieve.",
+    "Cut the bake into 1-inch (2.5 cm) cubes.",
+    "In a shallow dish, mix together the almond flour, granulated sugar, and a pinch of salt.",
+    "In a separate dish, whisk together the eggs and almond extract.",
+    "Dip each cube of bake into the egg mixture, coating it completely, then roll it in the almond flour mixture to coat.",
+    "Place the coated bake cubes on a baking sheet lined with parchment paper.",
+    "Drizzle the melted butter over the top of the bake cubes.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the bake is crispy.",
+    "Remove from the oven and let cool on a wire rack for 5 minutes.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "almond",
+    "bake",
+    "dessert",
+    "crust"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-uruguayan-almond-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:44:47.635Z"
+}
