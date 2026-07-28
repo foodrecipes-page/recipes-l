@@ -1,0 +1,80 @@
+{
+  "slug": "luxuriant-creamy-french-pork-casserole--vegetarian",
+  "title": "French Country Casserole",
+  "description": "A creamy, comforting casserole with a delightful French twist, free from meat and suitable for a satisfying vegetarian meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Luxuriant Mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "French Onion Soup Mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "French Baguette, cut into 1-inch cubes",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "Creamy Brie Cheese",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 tablespoons, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the mushrooms in butter until tender.",
+    "Add the French onion soup mix and cook for 1-2 minutes, until fragrant.",
+    "In a separate saucepan, combine the vegetable broth and crumbled brie cheese. Heat until the cheese is melted and the mixture is smooth.",
+    "In a greased 9x13-inch baking dish, arrange half of the baguette cubes in the bottom.",
+    "Spread the mushroom mixture over the bread, followed by the cheese mixture.",
+    "Top with the remaining bread cubes.",
+    "Dot the top with butter and sprinkle with thyme.",
+    "Cover with foil and bake for 25 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, until the top is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vegetarian",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luxuriant-creamy-french-pork-casserole--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:31:55.651Z"
+}
