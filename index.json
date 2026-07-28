@@ -23635,5 +23635,45 @@
     "cuisine": "thai",
     "totalTimeMin": 27,
     "shard": "l"
+  },
+  {
+    "slug": "luscious-low-carb-korean-myeongnan-roe-tagine--chinese",
+    "title": "Miyeongnan Roe Stir Fry",
+    "tags": [
+      "chinese",
+      "low-carb",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "l"
+  },
+  {
+    "slug": "lazy-sunday-garlicky-middle-eastern-rest-meat-tagine--french",
+    "title": "Sunday Moroccan Chicken Tagine",
+    "tags": [
+      "chicken",
+      "moroccan",
+      "tagine",
+      "middle eastern",
+      "garlicky",
+      "lazy sunday"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "light-buttery-slovakian-tiger-prawns-fried-rice--thai",
+    "title": "Thai Tiger Prawn Stir Fry",
+    "tags": [
+      "prawns",
+      "fried-rice",
+      "thai-cuisine",
+      "seafood"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 22,
+    "shard": "l"
   }
 ]
