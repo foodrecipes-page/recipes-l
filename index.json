@@ -12814,16 +12814,14 @@
   },
   {
     "slug": "lovely-jamaican-vegetable-stew",
-    "title": "Lovely Jamaican Vegetable Stew",
+    "title": "Jamaican Vegetable Stew",
     "tags": [
-      "cozy",
-      "delicious",
-      "jamaican-inspired",
-      "one-pot",
-      "vegan-friendly"
+      "jamaican",
+      "vegetarian",
+      "stew"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 60,
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -23724,6 +23722,46 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 20,
+    "shard": "l"
+  },
+  {
+    "slug": "lively-dutch-lentil-stew--vegan",
+    "title": "Lively Lentil Stew",
+    "tags": [
+      "vegan",
+      "lentils",
+      "stew",
+      "comfortfood"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 55,
+    "shard": "l"
+  },
+  {
+    "slug": "light-nutty-almond-crumble--italian",
+    "title": "Italian Almond Cake",
+    "tags": [
+      "italian-cuisine",
+      "almond-cake",
+      "dessert-recipe",
+      "italian-dessert"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 60,
+    "shard": "l"
+  },
+  {
+    "slug": "light-spanish-turnip-stir-fry--mexican",
+    "title": "Spicy Turnip and Spanish Sausage Skillet",
+    "tags": [
+      "mexican",
+      "sausage",
+      "turnip",
+      "spicy",
+      "skillet"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "l"
   }
 ]
