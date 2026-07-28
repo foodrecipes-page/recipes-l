@@ -1,0 +1,93 @@
+{
+  "slug": "light-quick-malaysian-shungiku-satay",
+  "title": "Shungiku Satay",
+  "description": "A Malaysian-inspired satay recipe featuring shungiku greens and served with a light peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shungiku greens",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Satay sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a blender, combine light coconut milk, peanut butter, satay sauce, sugar, ginger paste, and garlic. Blend until smooth.",
+    "2. Heat vegetable oil in a pan over medium heat.",
+    "3. Add shungiku greens to the pan and sauté until tender.",
+    "4. Add the blended sauce to the pan and stir to combine.",
+    "5. Cook for an additional 2-3 minutes.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shungiku",
+    "satay",
+    "malaysian",
+    "light",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-quick-malaysian-shungiku-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:48:27.185Z"
+}
