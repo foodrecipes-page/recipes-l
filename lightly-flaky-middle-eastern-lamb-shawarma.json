@@ -1,0 +1,95 @@
+{
+  "slug": "lightly-flaky-middle-eastern-lamb-shawarma",
+  "title": "Classic Middle Eastern Shawarma",
+  "description": "A flavorful and aromatic street food-style shawarma recipe featuring thinly sliced lamb and a blend of Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Middle Eastern Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern or Mediterranean markets"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6 pita breads",
+      "notes": "Served warm"
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or grill pan to medium-high heat.",
+    "In a small bowl, mix together the Middle Eastern spice blend, garlic, lemon juice, and olive oil.",
+    "Place the lamb shoulder in a large zip-top plastic bag or a shallow dish. Pour the spice mixture over the lamb, turning to coat evenly.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Preheat the oven to 400°F (200°C). Remove the lamb from the marinade, letting any excess liquid drip off.",
+    "Season the lamb with salt. Place the lamb on a rimmed baking sheet or a wire rack set over a rimmed baking sheet.",
+    "Roast the lamb in the preheated oven for 20-25 minutes, or until cooked to your desired level of doneness.",
+    "Transfer the lamb to a cutting board and let rest for 5 minutes before slicing thinly against the grain.",
+    "Warm the pita breads by wrapping them in foil and heating them in the oven for a few minutes.",
+    "Assemble the shawarma by slicing the lamb into thin strips and serving it in the pita breads with tzatziki sauce, chopped cucumber, and fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "shawarma",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-flaky-middle-eastern-lamb-shawarma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:15:27.536Z"
+}
