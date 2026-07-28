@@ -23700,5 +23700,30 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "l"
+  },
+  {
+    "slug": "lamb-tandoori-kebab--japanese",
+    "title": "Japanese Lamb Kebabs",
+    "tags": [
+      "japanese",
+      "lamb",
+      "kebabs",
+      "grilled"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 36,
+    "shard": "l"
+  },
+  {
+    "slug": "lpeppery-lonion-bravas--chinese",
+    "title": "Bravas and Lonion Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "l"
   }
 ]
