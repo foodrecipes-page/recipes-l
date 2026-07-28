@@ -1,0 +1,79 @@
+{
+  "slug": "lively-dutch-lentil-stew--vegan",
+  "title": "Lively Lentil Stew",
+  "description": "A hearty and comforting vegan stew made with lentils, perfect for a chilly evening. This recipe is easy to make and packed with nutrients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup, dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "unsalted, vegan"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, carrot, and celery. Cook until the vegetables are tender, about 5 minutes.",
+    "Add lentils, tomato, vegetable broth, and thyme. Season with salt and pepper to taste.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30-40 minutes, or until the lentils are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "lentils",
+    "stew",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lively-dutch-lentil-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:25:25.142Z"
+}
