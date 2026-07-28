@@ -6371,13 +6371,12 @@
     "title": "Slovakian Pork Dumplings",
     "tags": [
       "slovakian",
-      "homemade",
-      "dumplings",
       "pork",
-      "hearty"
+      "dumplings",
+      "comfort-food"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 50,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 140,
     "shard": "l"
   },
   {
@@ -23672,6 +23671,34 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-smoked-jamaican-potatoes-pilaf--french",
+    "title": "Smoked Chicken Pilaf",
+    "tags": [
+      "smoked-chicken",
+      "pilaf",
+      "potatoes",
+      "french-cuisine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-toasted-brazilian-chicken-skewers--german",
+    "title": "German Chicken Skewers with Toasted Brazilian Peanuts",
+    "tags": [
+      "german",
+      "chicken",
+      "skewers",
+      "grill",
+      "healthy",
+      "summer"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "l"
   }
 ]
