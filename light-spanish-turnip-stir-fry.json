@@ -1,0 +1,81 @@
+{
+  "slug": "light-spanish-turnip-stir-fry",
+  "title": "Spanish Turnip Stir Fry",
+  "description": "A simple and delicious stir fry recipe that combines the flavors of Spain with the sweetness of turnips.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Spanish Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the light olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced turnips and cook for 5 minutes, or until they start to soften.",
+    "Add the chopped onion and cook for another 2-3 minutes, or until the onion is translucent.",
+    "Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the cooked turnips and onion mixture.",
+    "Use a spatula to break up any clumps and distribute the turnips evenly.",
+    "Continue cooking for another 2-3 minutes, or until the turnips are tender and lightly browned.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped cilantro if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "turnip",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-spanish-turnip-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:28:16.577Z"
+}
