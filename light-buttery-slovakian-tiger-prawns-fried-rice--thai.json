@@ -1,0 +1,81 @@
+{
+  "slug": "light-buttery-slovakian-tiger-prawns-fried-rice--thai",
+  "title": "Thai Tiger Prawn Stir Fry",
+  "description": "A quick and flavorful Thai dish featuring succulent prawns cooked with tiger prawn sauce, served with a side of fried rice.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Light, buttery slovakian tiger prawns",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fried rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Thai tiger prawn sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian tiger prawn oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the slovakian tiger prawn oil in a large skillet over medium-high heat.",
+    "Add the prawns and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the prawns from the skillet and set aside.",
+    "Add the Thai tiger prawn sauce to the skillet and stir to combine.",
+    "Add the fried rice to the skillet and stir-fry for 2-3 minutes.",
+    "Return the prawns to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Garnish with Thai basil and serve immediately.",
+    "Cook the fried rice according to package instructions before using.",
+    "Adjust the amount of Thai tiger prawn sauce to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "prawns",
+    "fried-rice",
+    "thai-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-buttery-slovakian-tiger-prawns-fried-rice--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:44:16.135Z"
+}
