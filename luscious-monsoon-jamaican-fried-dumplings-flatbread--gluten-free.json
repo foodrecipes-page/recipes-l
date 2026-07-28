@@ -1,0 +1,70 @@
+{
+  "slug": "luscious-monsoon-jamaican-fried-dumplings-flatbread--gluten-free",
+  "title": "Grilled Jamaican Chicken with Luscious Sides",
+  "description": "A flavorful and spicy Jamaican-inspired dish featuring grilled chicken and served with a side of luscious flatbreads. Perfect for a gluten-free dinner.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Luscious flatbread",
+      "amount": "2",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Monsoon-spiced rum",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fried onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dumplings",
+      "amount": "4",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breasts with Jamaican jerk seasoning.",
+    "Grill chicken for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast Luscious flatbreads on the grill for 1-2 minutes.",
+    "Serve grilled chicken with a side of toasted flatbreads, fried onions, and dumplings.",
+    "Optional: drizzle with Monsoon-spiced rum for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "jamaican-cuisine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-monsoon-jamaican-fried-dumplings-flatbread--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:09:26.993Z"
+}
