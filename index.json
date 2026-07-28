@@ -8352,17 +8352,14 @@
   },
   {
     "slug": "lightly-flaky-middle-eastern-lamb-shawarma",
-    "title": "Lightly Flaky Middle Eastern Lamb Shawarma",
+    "title": "Classic Middle Eastern Shawarma",
     "tags": [
-      "healthy-lunch",
-      "lamb-recipes",
-      "low-carb",
-      "middle-eastern",
-      "quick-fix",
-      "shawarma"
+      "lamb",
+      "shawarma",
+      "middle-eastern"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "l"
   },
   {
@@ -13910,16 +13907,16 @@
   },
   {
     "slug": "lovely-uruguayan-almond-bake",
-    "title": "Lovely Uruguayan Almond Bake",
+    "title": "Lovely Uruguayan Almond Crusted Bake",
     "tags": [
-      "almond-based",
-      "rose-water",
-      "sugar-free",
-      "uruguayan-desserts",
-      "wood-fired"
+      "uruguayan",
+      "almond",
+      "bake",
+      "dessert",
+      "crust"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -23572,6 +23569,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-brine-dry-slovakian-pineapple-galette--french",
+    "title": "Slovakian-Style French Pork Belly with Pineapple Galette",
+    "tags": [
+      "french",
+      "pork",
+      "braised-meat",
+      "pineapple",
+      "galette"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 215,
+    "shard": "l"
+  },
+  {
+    "slug": "luxuriant-creamy-french-pork-casserole--vegetarian",
+    "title": "French Country Casserole",
+    "tags": [
+      "french",
+      "vegetarian",
+      "casserole"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "l"
   }
 ]
