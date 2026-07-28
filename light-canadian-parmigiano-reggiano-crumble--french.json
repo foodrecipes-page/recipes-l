@@ -1,0 +1,103 @@
+{
+  "slug": "light-canadian-parmigiano-reggiano-crumble--french",
+  "title": "French Onion Crumble Crusted Canadian Pork Chops",
+  "description": "A flavorful dish featuring tender Canadian pork chops topped with a crumble crust and caramelized onions, served with a side of melted Parmigiano-Reggiano cheese.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian pork chops",
+      "amount": "4",
+      "notes": "1.5 pounds total"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "1/2 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "Reggiano cheese",
+      "amount": "1/4 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork chops with salt and black pepper.",
+    "In a pan over medium heat, melt 2 tablespoons of butter and cook the pork chops for 2-3 minutes per side, or until browned.",
+    "Transfer the pork chops to a baking dish and set aside.",
+    "In the same pan, add the remaining 2 tablespoons of butter and cook the chopped onion over medium-low heat for 10-12 minutes, or until caramelized.",
+    "Sprinkle the caramelized onions over the pork chops.",
+    "In a separate bowl, mix together the crumble, Parmigiano-Reggiano cheese, and Reggiano cheese.",
+    "Evenly distribute the crumble mixture over the top of the pork chops.",
+    "Bake the pork chops in the preheated oven for 15-20 minutes, or until the crumble is golden brown and the internal temperature reaches 145°F (63°C).",
+    "Remove the pork chops from the oven and let them rest for 5 minutes.",
+    "Serve the pork chops hot, garnished with additional caramelized onions and crumble if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pork",
+    "onion",
+    "cheese",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-canadian-parmigiano-reggiano-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:21:36.083Z"
+}
