@@ -1,0 +1,58 @@
+{
+  "slug": "light-mexican-cheese-enchiladas--gluten-free",
+  "title": "Gluten-Free Mexican Cheese Enchiladas",
+  "description": "A delicious and easy-to-make Mexican dish with gluten-free tortillas, filled with cheese and a touch of spice, then baked until golden brown.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tortillas (corn, gluten-free)",
+      "amount": "6-8",
+      "notes": "Look for gluten-free corn tortillas at your local market."
+    },
+    {
+      "name": "Shredded Cheese (cheddar or Monterey Jack)",
+      "amount": "1 cup",
+      "notes": "You can also use a blend of cheeses for extra flavor."
+    },
+    {
+      "name": "Ground Beef (lean)",
+      "amount": "1 pound",
+      "notes": "You can also use shredded chicken or beans for a vegetarian option."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the ground beef in a large skillet over medium-high heat, breaking it up with a spoon as it cooks, until browned, about 5-7 minutes.",
+    "Add 1 tablespoon of taco seasoning to the cooked ground beef and stir to combine.",
+    "In a separate pan, warm the tortillas over medium heat for about 30 seconds on each side. This will make them more pliable and easier to roll.",
+    "To assemble the enchiladas, lay a tortilla flat and spoon some of the beef mixture onto the center of the tortilla, followed by some shredded cheese.",
+    "Roll the tortilla up and place it seam-side down in a baking dish. Repeat with the remaining tortillas and filling.",
+    "Cover the dish with aluminum foil and bake for 20-25 minutes.",
+    "Remove the foil and continue baking for an additional 5-10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "cheese",
+    "enchiladas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-mexican-cheese-enchiladas--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:18:00.051Z"
+}
