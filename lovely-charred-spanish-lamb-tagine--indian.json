@@ -1,0 +1,83 @@
+{
+  "slug": "lovely-charred-spanish-lamb-tagine--indian",
+  "title": "Lamb Tagine",
+  "description": "A rich and aromatic Indian-inspired stew made with tender lamb, lovely spices, and a hint of charred flavor. Serve over basmati rice for a truly authentic experience.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "lovely spices",
+      "amount": "2 tablespoons garam masala, 1 tablespoon cumin powder, 1 tablespoon coriander powder"
+    },
+    {
+      "name": "charred tomatoes",
+      "amount": "2 large, diced"
+    },
+    {
+      "name": "spanish smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent, about 5 minutes.",
+    "Add garam masala, cumin powder, coriander powder, smoked paprika, and tagine spice blend. Cook for 1 minute.",
+    "Add diced tomatoes, coconut milk, and chicken broth. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1 1/2 hours, or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve over basmati rice and garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lamb",
+    "stew",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "30g",
+    "fat": "37g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lovely-charred-spanish-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:52:38.438Z"
+}
