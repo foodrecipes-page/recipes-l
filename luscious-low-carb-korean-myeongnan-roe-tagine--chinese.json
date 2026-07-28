@@ -1,0 +1,80 @@
+{
+  "slug": "luscious-low-carb-korean-myeongnan-roe-tagine--chinese",
+  "title": "Miyeongnan Roe Stir Fry",
+  "description": "A Chinese stir fry dish featuring low-carb noodles, myeongnan roe, and a variety of vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Low-carb noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Myeongnan roe",
+      "amount": "100g"
+    },
+    {
+      "name": "Luscious",
+      "amount": "1",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced ginger and stir-fry for 30 seconds.",
+    "Add the carrots and green onions and stir-fry for 2-3 minutes.",
+    "Add the low-carb noodles and stir-fry for 2-3 minutes.",
+    "Add the myeongnan roe and stir-fry for 1-2 minutes.",
+    "Season with soy sauce to taste.",
+    "Serve hot and garnish with luscious slices.",
+    "Cook for an additional 2-3 minutes if desired.",
+    "Check for internal temperature of 165°F (74°C) for the roe.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "low-carb",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-low-carb-korean-myeongnan-roe-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:00:27.540Z"
+}
