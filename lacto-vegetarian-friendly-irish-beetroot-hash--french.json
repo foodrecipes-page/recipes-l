@@ -1,0 +1,92 @@
+{
+  "slug": "lacto-vegetarian-friendly-irish-beetroot-hash--french",
+  "title": "Beetroot and Hash Irish-Style Hash Browns",
+  "description": "A twist on traditional hash browns, this French-inspired dish adds the earthy sweetness of beetroot and the comfort of Irish ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "lacto-vegetarian",
+    "vegetarian",
+    "friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "irish hash",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lacto margarine or butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine grated beetroot, Irish hash, chopped onion, minced garlic, and grated potato.",
+    "In a separate bowl, whisk together beaten eggs, salt, and black pepper.",
+    "Pour the egg mixture over the beetroot mixture and stir until well combined.",
+    "Heat the lacto margarine or butter in a large skillet over medium heat.",
+    "Add the beetroot mixture to the skillet and press down with a spatula to form a flat layer.",
+    "Cook for 5-7 minutes or until the bottom is golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beetroot",
+    "hash-browns",
+    "breakfast",
+    "lacto-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lacto-vegetarian-friendly-irish-beetroot-hash--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:41:39.271Z"
+}
