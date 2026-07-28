@@ -1,0 +1,86 @@
+{
+  "slug": "lamb-tandoori-kebab--japanese",
+  "title": "Japanese Lamb Kebabs",
+  "description": "A fusion twist on traditional lamb kebabs, marinated in a Japanese-inspired tandoori sauce and grilled to perfection.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tandoori",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade spice blend"
+    },
+    {
+      "name": "kebab",
+      "amount": "10 wooden skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "pure"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "unseasoned"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, honey, rice vinegar, garlic, and ginger to make the marinade.",
+    "Add the lamb pieces to the marinade and mix to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread the marinated lamb onto the skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking. Grill the kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the kebabs to a plate and garnish with chopped green onions, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lamb-tandoori-kebab--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:16:42.039Z"
+}
