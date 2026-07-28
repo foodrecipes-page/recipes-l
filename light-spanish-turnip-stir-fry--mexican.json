@@ -1,0 +1,71 @@
+{
+  "slug": "light-spanish-turnip-stir-fry--mexican",
+  "title": "Spicy Turnip and Spanish Sausage Skillet",
+  "description": "A flavorful and spicy Mexican-inspired skillet dish featuring turnip and Spanish sausage, cooked to perfection with a hint of light and stir-fry spices.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Turnip",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Light",
+      "amount": "1 tsp",
+      "notes": "cumin"
+    },
+    {
+      "name": "Spanish",
+      "amount": "1 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "Stir",
+      "amount": "1 tsp",
+      "notes": "chili powder"
+    },
+    {
+      "name": "Fry",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the fry (olive oil) in a large skillet over medium-high heat.",
+    "Add the sliced turnip and cook for 5 minutes, or until slightly tender.",
+    "Add the Spanish sausage and cook, breaking it up with a spoon, until browned and cooked through.",
+    "Add the light (cumin), Spanish (paprika), and stir (chili powder) to the skillet and stir to combine.",
+    "Continue cooking for an additional 2-3 minutes, or until the flavors have melded together.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "sausage",
+    "turnip",
+    "spicy",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-spanish-turnip-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:58:01.020Z"
+}
