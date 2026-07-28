@@ -23596,5 +23596,44 @@
     "cuisine": "French",
     "totalTimeMin": 50,
     "shard": "l"
+  },
+  {
+    "slug": "lacto-vegetarian-friendly-irish-beetroot-hash--french",
+    "title": "Beetroot and Hash Irish-Style Hash Browns",
+    "tags": [
+      "irish",
+      "beetroot",
+      "hash-browns",
+      "breakfast",
+      "lacto-vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "l"
+  },
+  {
+    "slug": "light-slovakian-cauliflower-skillet--japanese",
+    "title": "Slovakian Cauliflower Tempura",
+    "tags": [
+      "japanesefood",
+      "vegan",
+      "glutenfree",
+      "cauliflower"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-garlic-mexican-salad--thai",
+    "title": "Thai Spicy Salad with Garlic Shrimp",
+    "tags": [
+      "thai",
+      "salad",
+      "shrimp"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
+    "shard": "l"
   }
 ]
