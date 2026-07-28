@@ -1,0 +1,77 @@
+{
+  "slug": "luscious-brine-dry-slovakian-pineapple-galette--french",
+  "title": "Slovakian-Style French Pork Belly with Pineapple Galette",
+  "description": "A French-inspired dish featuring tender pork belly slow-cooked in a Slovakian-style brine with a sweet and tangy pineapple galette on top.",
+  "cuisine": "french",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Slovakian brine",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1 cup",
+      "notes": "such as Sauvignon Blanc"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Pineapple rings",
+      "amount": "4",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "Galette dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, combine pork belly, Slovakian brine, white wine, and brown sugar (if using).",
+    "Cover the pot and transfer it to the preheated oven. Braise for 2 1/2 hours, or until the meat is tender.",
+    "While the pork is cooking, roll out the galette dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Arrange the pineapple rings on top of the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the pineapple to form a crust.",
+    "Bake the galette in the oven for 20-25 minutes, or until golden brown.",
+    "Remove the pork from the oven and let it rest for 10 minutes.",
+    "Slice the pork into thick pieces and serve with the pineapple galette on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 185,
+  "totalTimeMin": 215,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "pork",
+    "braised-meat",
+    "pineapple",
+    "galette"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/luscious-brine-dry-slovakian-pineapple-galette--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:12:30.731Z"
+}
