@@ -5907,22 +5907,16 @@
   },
   {
     "slug": "light-quick-malaysian-shungiku-satay",
-    "title": "Light Quick Malaysian Shungiku Satay",
+    "title": "Shungiku Satay",
     "tags": [
-      "asian",
-      "breakfast",
-      "dinner",
-      "green",
-      "grilled",
-      "lunch",
-      "one-pan",
-      "pescatarian",
-      "quick-fix",
-      "snack",
-      "weeknight"
+      "shungiku",
+      "satay",
+      "malaysian",
+      "light",
+      "quick"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 23,
+    "cuisine": "malaysian",
+    "totalTimeMin": 20,
     "shard": "l"
   },
   {
@@ -23484,6 +23478,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
+    "slug": "luscious-monsoon-jamaican-fried-dumplings-flatbread--gluten-free",
+    "title": "Grilled Jamaican Chicken with Luscious Sides",
+    "tags": [
+      "grilled-chicken",
+      "jamaican-cuisine",
+      "gluten-free"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 27,
+    "shard": "l"
+  },
+  {
+    "slug": "light-canadian-parmigiano-reggiano-crumble--french",
+    "title": "French Onion Crumble Crusted Canadian Pork Chops",
+    "tags": [
+      "french",
+      "pork",
+      "onion",
+      "cheese",
+      "crumble"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "l"
   }
 ]
