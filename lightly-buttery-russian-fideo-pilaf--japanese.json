@@ -1,0 +1,69 @@
+{
+  "slug": "lightly-buttery-russian-fideo-pilaf--japanese",
+  "title": "Buttery Russian Fideo Pilaf",
+  "description": "A unique Japanese-inspired pilaf dish combining the flavors of Russia and the Mediterranean, made with fideo, pilaf, and a hint of buttery goodness.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fideo",
+      "amount": "1 cup",
+      "notes": "Break into shorter lengths for even cooking"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Use Japanese-style pilaf for an authentic taste"
+    },
+    {
+      "name": "Lightly Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted, melted butter for added richness"
+    },
+    {
+      "name": "Russian Dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh dill for added flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For a savory, umami flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tsp of oil in a large skillet over medium heat.",
+    "2. Add fideo and cook, stirring frequently, until lightly toasted (3-4 minutes).",
+    "3. Add pilaf and cook, stirring frequently, until heated through (2-3 minutes).",
+    "4. In a small bowl, whisk together melted butter, soy sauce, and chopped dill.",
+    "5. Pour the butter mixture over the fideo-pilaf mixture and stir to combine.",
+    "6. Cook for an additional 2-3 minutes, stirring frequently, until the flavors have melded together.",
+    "7. Season with salt to taste.",
+    "8. Serve hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "pilaf",
+    "vegetarian",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-buttery-russian-fideo-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:19:34.842Z"
+}
