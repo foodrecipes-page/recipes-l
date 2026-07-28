@@ -23763,5 +23763,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 22,
     "shard": "l"
+  },
+  {
+    "slug": "light-mexican-cheese-enchiladas--gluten-free",
+    "title": "Gluten-Free Mexican Cheese Enchiladas",
+    "tags": [
+      "mexican",
+      "cheese",
+      "enchiladas"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
