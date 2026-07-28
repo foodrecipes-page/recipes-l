@@ -1,0 +1,93 @@
+{
+  "slug": "light-nutty-almond-crumble--italian",
+  "title": "Italian Almond Cake",
+  "description": "A moist Italian almond cake recipe with a light and nutty flavor, perfect for a dessert.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "almond extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C) and grease a 9-inch (23cm) round cake pan.",
+    "In a medium bowl, whisk together the flour, baking powder, and salt. Set aside.",
+    "In a large bowl, use an electric mixer to beat the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time, then beat in the vanilla and almond extracts.",
+    "With the mixer on low speed, gradually add the flour mixture and mix until just combined.",
+    "Stir in the sliced almonds.",
+    "Pour the batter into the prepared pan and smooth the top.",
+    "Bake for 40-45 minutes or until a toothpick inserted into the center comes out clean.",
+    "Let the cake cool in the pan for 10 minutes, then transfer it to a wire rack to cool completely.",
+    "Once the cake is completely cool, dust it with confectioners' sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian-cuisine",
+    "almond-cake",
+    "dessert-recipe",
+    "italian-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-nutty-almond-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:41:34.470Z"
+}
