@@ -1,0 +1,60 @@
+{
+  "slug": "light-slovakian-cauliflower-skillet--japanese",
+  "title": "Slovakian Cauliflower Tempura",
+  "description": "A Japanese-inspired twist on traditional Slovakian cuisine, this crispy cauliflower tempura is a delicious and healthy snack.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "Light",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Slovakian",
+      "amount": "1 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "coconut oil for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together light and slovakian.",
+    "Add cauliflower florets to the bowl and toss to coat.",
+    "Heat skillet in a deep frying pan to 350°F (180°C).",
+    "Carefully add cauliflower florets to the hot oil in batches.",
+    "Fry for 3-4 minutes or until golden brown.",
+    "Remove from oil with a slotted spoon and drain on paper towels.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanesefood",
+    "vegan",
+    "glutenfree",
+    "cauliflower"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-slovakian-cauliflower-skillet--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:54:33.418Z"
+}
