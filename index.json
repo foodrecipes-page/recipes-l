@@ -23851,5 +23851,30 @@
     "cuisine": "moroccan",
     "totalTimeMin": 30,
     "shard": "l"
+  },
+  {
+    "slug": "light-romantic-garlic-haricot-beans-stir-fry--chinese",
+    "title": "Cantonese Stir-Fried Beans",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-flaky-middle-eastern-lamb-shawarma--indian",
+    "title": "Shawarma-Style Lamb Koftas with Indian Spices",
+    "tags": [
+      "indian",
+      "lamb",
+      "koftas",
+      "grilled"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
