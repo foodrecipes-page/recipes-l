@@ -23786,5 +23786,31 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "l"
+  },
+  {
+    "slug": "lightly-smoky-egyptian-fish-kebabs--keto",
+    "title": "Egyptian Fish Kebabs",
+    "tags": [
+      "keto",
+      "grilled",
+      "fish"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 26,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-steamed-australian-khus-khus-bowl--vegan",
+    "title": "Australian Khus Khus Salad",
+    "tags": [
+      "australian",
+      "khus-khus",
+      "vegan",
+      "salad",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "l"
   }
 ]
