@@ -1,0 +1,97 @@
+{
+  "slug": "light-turkish-marzipan-stir-fry--thai",
+  "title": "Thai Stir Fry with Light Coconut Milk",
+  "description": "A simple and flavorful Thai dish made with light coconut milk, stir-fried with marzipan and served with a variety of vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Light Coconut Milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Marzipan",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and bell pepper and stir-fry until they are tender-crisp.",
+    "Add the tofu and stir-fry for 2-3 minutes.",
+    "Add the marzipan and stir-fry for 1 minute.",
+    "Pour in the light coconut milk and stir-fry for 2-3 minutes.",
+    "Add the Thai basil, soy sauce, honey, salt, and black pepper. Stir-fry for 1 minute.",
+    "Serve the stir-fry hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "stirfry",
+    "coconutmilk",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-turkish-marzipan-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:15:22.736Z"
+}
