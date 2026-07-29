@@ -1,0 +1,87 @@
+{
+  "slug": "light-spicy-egyptian-fish-tagine--german",
+  "title": "Spicy Egyptian Fish Tagine",
+  "description": "A hearty German-inspired fish tagine with Egyptian spices and a spicy kick. Serve with a side of couscous or rice.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets (cod or tilapia)",
+      "amount": "4 pieces",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Spicy Egyptian spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at Middle Eastern markets or online"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the fish fillets and cook for 2-3 minutes on each side, until browned.",
+    "Add the spicy Egyptian spice blend, diced tomatoes, chicken broth, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 10-12 minutes, or until the fish is cooked through.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve hot, with a side of couscous or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "tagine",
+    "egyptian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/light-spicy-egyptian-fish-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:02:57.166Z"
+}
