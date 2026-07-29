@@ -1,0 +1,80 @@
+{
+  "slug": "lightly-smoky-egyptian-fish-kebabs--keto",
+  "title": "Egyptian Fish Kebabs",
+  "description": "A keto-friendly recipe for smoky fish kebabs, inspired by Egyptian flavors. Marinate the fish in a mixture of spices and grill to perfection.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (cod or tilapia)",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (for garnish)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together lemon juice, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "3. Add the fish fillets to the marinade and coat evenly.",
+    "4. Thread the marinated fish onto skewers, leaving a little space between each piece.",
+    "5. Grill the fish kebabs for 8-10 minutes per side, or until cooked through.",
+    "6. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "grilled",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-smoky-egyptian-fish-kebabs--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:31:51.536Z"
+}
