@@ -22421,15 +22421,14 @@
   },
   {
     "slug": "lush-broiled-algerian-pea-eggplant-tagine--french",
-    "title": "French Algerian Eggplant Tagine",
+    "title": "French-Style Eggplant Tagine",
     "tags": [
-      "algerian",
-      "eggplant",
       "french",
-      "vegetarian"
+      "vegetarian",
+      "eggplant"
     ],
     "cuisine": "french",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "l"
   },
   {
@@ -23811,6 +23810,46 @@
     ],
     "cuisine": null,
     "totalTimeMin": 10,
+    "shard": "l"
+  },
+  {
+    "slug": "lovely-light-german-potato-casserole--german",
+    "title": "German Potato Casserole",
+    "tags": [
+      "german",
+      "potato",
+      "comfort-food",
+      "casserole"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
+    "shard": "l"
+  },
+  {
+    "slug": "light-spicy-egyptian-fish-tagine--german",
+    "title": "Spicy Egyptian Fish Tagine",
+    "tags": [
+      "german",
+      "fish",
+      "tagine",
+      "egyptian",
+      "spicy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "l"
+  },
+  {
+    "slug": "light-moroccan-fish-broth--vegan",
+    "title": "Spicy Moroccan Chickpea Stew",
+    "tags": [
+      "moroccan",
+      "stew",
+      "chickpea",
+      "vegan"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 30,
     "shard": "l"
   }
 ]
