@@ -23915,5 +23915,19 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "l"
+  },
+  {
+    "slug": "lightly-yeasty-british-khus-khus-scones--keto",
+    "title": "Keto Khus Scones",
+    "tags": [
+      "keto",
+      "breakfast",
+      "scones",
+      "low-carb",
+      "british"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "l"
   }
 ]
