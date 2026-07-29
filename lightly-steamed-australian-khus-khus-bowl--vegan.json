@@ -1,0 +1,71 @@
+{
+  "slug": "lightly-steamed-australian-khus-khus-bowl--vegan",
+  "title": "Australian Khus Khus Salad",
+  "description": "A refreshing and healthy salad made with lightly steamed khus khus, mixed with Australian herbs and a hint of citrus.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "khus khus",
+      "amount": "1 cup",
+      "notes": "lightly steamed"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "australian parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "australian mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the lightly steamed khus khus, mixed greens, Australian parsley, and Australian mint leaves.",
+    "In a small bowl, whisk together lemon juice and olive oil.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "khus-khus",
+    "vegan",
+    "salad",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/lightly-steamed-australian-khus-khus-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:38:02.575Z"
+}
