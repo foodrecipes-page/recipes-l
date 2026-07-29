@@ -1,0 +1,77 @@
+{
+  "slug": "loomy-comforting-mung-bean-sproutsukju-pilaf--chinese",
+  "title": "Stir-Fried Mung Bean and Loomy Pilaf",
+  "description": "A simple and comforting Chinese dish made with mung beans, loomy, and pilaf.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mung beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Loomy",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger and stir-fry until fragrant.",
+    "Add loomy and stir-fry until it starts to brown.",
+    "Add mung beans and stir-fry for 2-3 minutes.",
+    "Add pilaf and stir-fry for 2-3 minutes.",
+    "Add soy sauce and stir-fry for 1 minute.",
+    "Season with salt to taste.",
+    "Serve hot and garnish with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "lunch",
+    "easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/loomy-comforting-mung-bean-sproutsukju-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:44:22.928Z"
+}
