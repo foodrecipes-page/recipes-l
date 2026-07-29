@@ -11891,16 +11891,16 @@
   },
   {
     "slug": "lnutty-gooey-indulgent-rest-meat-tagine",
-    "title": "LNutty Gooey Indulgent Rest-meat Tagine",
+    "title": "Tagine with Meat",
     "tags": [
-      "ayurvedic-rajasic-friendly",
-      "comfort-food",
-      "gooey",
-      "indulgent",
-      "nutty"
+      "moroccan",
+      "beef",
+      "lamb",
+      "couscous",
+      "slow-cooked"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 105,
     "shard": "l"
   },
   {
@@ -17149,14 +17149,13 @@
   },
   {
     "slug": "luscious-velvety-turkish-pecan-adana-kebap",
-    "title": "Luscious Velvety Turkish Pecan Adana Kebap",
+    "title": "Turkish-Style Grilled Adana Kebap",
     "tags": [
-      "air-fryer-recipes",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "turkish-cuisine",
-      "vegan-friendly"
+      "kebap",
+      "adana",
+      "turkish",
+      "grilled",
+      "meat"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
@@ -23774,6 +23773,18 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 40,
+    "shard": "l"
+  },
+  {
+    "slug": "lightly-buttery-british-chicken-pie-and-mash--german",
+    "title": "German Chicken Pie",
+    "tags": [
+      "chicken",
+      "pie",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "l"
   }
 ]
