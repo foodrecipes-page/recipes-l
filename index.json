@@ -23876,5 +23876,44 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "l"
+  },
+  {
+    "slug": "loomy-comforting-mung-bean-sproutsukju-pilaf--chinese",
+    "title": "Stir-Fried Mung Bean and Loomy Pilaf",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "lunch",
+      "easy",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "light-turkish-marzipan-stir-fry--thai",
+    "title": "Thai Stir Fry with Light Coconut Milk",
+    "tags": [
+      "thaifood",
+      "stirfry",
+      "coconutmilk",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "l"
+  },
+  {
+    "slug": "luxurious-laminated-norwegian-mussels-paella--indian",
+    "title": "Mussels in Indian Spices Paella",
+    "tags": [
+      "indian",
+      "seafood",
+      "lunch"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "l"
   }
 ]
